@@ -1,0 +1,619 @@
+{
+  "unlock_every_sessions": 3,
+  "regions": [
+    {
+      "id": "physics",
+      "name": "Physics & the Atom",
+      "blurb": "Forces, energy, light and the strange rules of the very small.",
+      "pos": [
+        18,
+        10
+      ],
+      "unlock": 8,
+      "topics": [
+        {
+          "id": "forces",
+          "title": "Forces and Motion"
+        },
+        {
+          "id": "energy",
+          "title": "Energy"
+        },
+        {
+          "id": "atoms",
+          "title": "Inside the Atom"
+        },
+        {
+          "id": "light",
+          "title": "Light and Waves"
+        },
+        {
+          "id": "electricity",
+          "title": "Electricity and Magnetism"
+        },
+        {
+          "id": "quantum",
+          "title": "The Quantum World"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space & Cosmos",
+      "blurb": "Stars, galaxies, black holes and the story of the universe.",
+      "pos": [
+        50,
+        6
+      ],
+      "unlock": 1,
+      "topics": [
+        {
+          "id": "stars",
+          "title": "How Stars Live and Die"
+        },
+        {
+          "id": "solar-system",
+          "title": "Our Solar System"
+        },
+        {
+          "id": "gravity-orbits",
+          "title": "Gravity and Orbits"
+        },
+        {
+          "id": "galaxies",
+          "title": "Galaxies"
+        },
+        {
+          "id": "big-bang",
+          "title": "The Big Bang"
+        },
+        {
+          "id": "black-holes",
+          "title": "Black Holes"
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "name": "Math & Logic",
+      "blurb": "Patterns, chance, proof and the language of science.",
+      "pos": [
+        82,
+        10
+      ],
+      "unlock": 11,
+      "topics": [
+        {
+          "id": "numbers",
+          "title": "What Numbers Are"
+        },
+        {
+          "id": "exponentials",
+          "title": "Exponential Growth"
+        },
+        {
+          "id": "probability",
+          "title": "Probability"
+        },
+        {
+          "id": "statistics",
+          "title": "Reading Statistics"
+        },
+        {
+          "id": "logic-proof",
+          "title": "Logic and Proof"
+        },
+        {
+          "id": "geometry",
+          "title": "Shape and Space"
+        }
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry & Matter",
+      "blurb": "What everything is made of and how it transforms.",
+      "pos": [
+        20,
+        29
+      ],
+      "unlock": 12,
+      "topics": [
+        {
+          "id": "elements",
+          "title": "The Elements"
+        },
+        {
+          "id": "bonds",
+          "title": "Chemical Bonds"
+        },
+        {
+          "id": "reactions",
+          "title": "Reactions"
+        },
+        {
+          "id": "acids-bases",
+          "title": "Acids and Bases"
+        },
+        {
+          "id": "carbon",
+          "title": "Carbon: the Chemistry of Life"
+        },
+        {
+          "id": "materials",
+          "title": "Materials"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "name": "Earth & Climate",
+      "blurb": "Moving continents, oceans, weather and a changing climate.",
+      "pos": [
+        50,
+        25
+      ],
+      "unlock": 10,
+      "topics": [
+        {
+          "id": "plates",
+          "title": "Plate Tectonics"
+        },
+        {
+          "id": "atmosphere",
+          "title": "The Atmosphere"
+        },
+        {
+          "id": "weather",
+          "title": "Weather"
+        },
+        {
+          "id": "oceans",
+          "title": "Oceans"
+        },
+        {
+          "id": "water-cycle",
+          "title": "The Water Cycle"
+        },
+        {
+          "id": "climate-change",
+          "title": "Climate Change"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Technology & AI",
+      "blurb": "How computers, the internet and artificial intelligence work.",
+      "pos": [
+        80,
+        29
+      ],
+      "unlock": 1,
+      "topics": [
+        {
+          "id": "computers",
+          "title": "How Computers Work"
+        },
+        {
+          "id": "internet",
+          "title": "The Internet"
+        },
+        {
+          "id": "algorithms",
+          "title": "Algorithms"
+        },
+        {
+          "id": "software",
+          "title": "Software"
+        },
+        {
+          "id": "cryptography",
+          "title": "Cryptography and Security"
+        },
+        {
+          "id": "ai",
+          "title": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "id": "biology",
+      "name": "Life & Biology",
+      "blurb": "Cells, DNA, evolution and the living world.",
+      "pos": [
+        18,
+        48
+      ],
+      "unlock": 9,
+      "topics": [
+        {
+          "id": "cells",
+          "title": "Cells"
+        },
+        {
+          "id": "dna",
+          "title": "DNA and Genes"
+        },
+        {
+          "id": "evolution",
+          "title": "Evolution"
+        },
+        {
+          "id": "immune",
+          "title": "The Immune System"
+        },
+        {
+          "id": "microbes",
+          "title": "Microbes"
+        },
+        {
+          "id": "ecosystems",
+          "title": "Ecosystems"
+        }
+      ]
+    },
+    {
+      "id": "mind",
+      "name": "Mind & Body",
+      "blurb": "Sleep, habits, memory, stress and how your body works.",
+      "pos": [
+        50,
+        45
+      ],
+      "unlock": 1,
+      "topics": [
+        {
+          "id": "sleep",
+          "title": "Sleep"
+        },
+        {
+          "id": "habits",
+          "title": "Habits"
+        },
+        {
+          "id": "memory",
+          "title": "Memory and Learning"
+        },
+        {
+          "id": "stress",
+          "title": "Stress"
+        },
+        {
+          "id": "exercise",
+          "title": "Movement and the Brain"
+        },
+        {
+          "id": "nutrition",
+          "title": "Nutrition Basics"
+        }
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy & Thinking",
+      "blurb": "Clear reasoning, ethics, knowledge and the big questions.",
+      "pos": [
+        82,
+        48
+      ],
+      "unlock": 7,
+      "topics": [
+        {
+          "id": "reasoning",
+          "title": "Thinking Clearly"
+        },
+        {
+          "id": "ethics",
+          "title": "Ethics"
+        },
+        {
+          "id": "knowledge",
+          "title": "What Can We Know?"
+        },
+        {
+          "id": "free-will",
+          "title": "Free Will"
+        },
+        {
+          "id": "consciousness",
+          "title": "Mind and Consciousness"
+        },
+        {
+          "id": "meaning",
+          "title": "Meaning and the Good Life"
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "name": "Daily Life & Money",
+      "blurb": "Budgets, interest, debt, risk and everyday decisions.",
+      "pos": [
+        20,
+        67
+      ],
+      "unlock": 1,
+      "topics": [
+        {
+          "id": "budgeting",
+          "title": "Where Money Goes"
+        },
+        {
+          "id": "compounding",
+          "title": "Compounding"
+        },
+        {
+          "id": "debt",
+          "title": "Debt and Credit"
+        },
+        {
+          "id": "inflation",
+          "title": "Inflation in Your Pocket"
+        },
+        {
+          "id": "risk",
+          "title": "Risk and Insurance"
+        },
+        {
+          "id": "scams",
+          "title": "Scams and Persuasion"
+        }
+      ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "blurb": "Choices, markets, money, growth and trade.",
+      "pos": [
+        50,
+        64
+      ],
+      "unlock": 6,
+      "topics": [
+        {
+          "id": "opportunity-cost",
+          "title": "Scarcity and Choice"
+        },
+        {
+          "id": "supply-demand",
+          "title": "Supply and Demand"
+        },
+        {
+          "id": "market-failures",
+          "title": "When Markets Fail"
+        },
+        {
+          "id": "money-banks",
+          "title": "Money and Banks"
+        },
+        {
+          "id": "growth",
+          "title": "GDP and Growth"
+        },
+        {
+          "id": "trade",
+          "title": "Trade"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History & Civilizations",
+      "blurb": "How humans went from foragers to a global civilization.",
+      "pos": [
+        80,
+        67
+      ],
+      "unlock": 1,
+      "topics": [
+        {
+          "id": "farming",
+          "title": "The Farming Revolution"
+        },
+        {
+          "id": "first-cities",
+          "title": "The First Civilizations"
+        },
+        {
+          "id": "empires",
+          "title": "Classical Empires"
+        },
+        {
+          "id": "trade-routes",
+          "title": "Trade Routes"
+        },
+        {
+          "id": "industrial",
+          "title": "The Industrial Revolution"
+        },
+        {
+          "id": "world-wars",
+          "title": "The World Wars"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "name": "Law & Rights",
+      "blurb": "What law is, constitutions, courts, rights and contracts.",
+      "pos": [
+        20,
+        86
+      ],
+      "unlock": 15,
+      "topics": [
+        {
+          "id": "what-is-law",
+          "title": "What Law Is"
+        },
+        {
+          "id": "constitutions",
+          "title": "Constitutions"
+        },
+        {
+          "id": "rights",
+          "title": "Rights"
+        },
+        {
+          "id": "courts",
+          "title": "Courts and Judges"
+        },
+        {
+          "id": "criminal-justice",
+          "title": "Criminal Justice"
+        },
+        {
+          "id": "contracts",
+          "title": "Contracts"
+        }
+      ]
+    },
+    {
+      "id": "democracy",
+      "name": "Democracy",
+      "blurb": "Elections, institutions and how self-government works.",
+      "pos": [
+        50,
+        83
+      ],
+      "unlock": 14,
+      "topics": [
+        {
+          "id": "what-is-democracy",
+          "title": "What Democracy Is"
+        },
+        {
+          "id": "elections",
+          "title": "Electoral Systems"
+        },
+        {
+          "id": "separation",
+          "title": "Separation of Powers"
+        },
+        {
+          "id": "parties",
+          "title": "Political Parties"
+        },
+        {
+          "id": "federalism",
+          "title": "Federalism"
+        },
+        {
+          "id": "resilience",
+          "title": "How Democracies Strengthen or Weaken"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "name": "Politics & Power",
+      "blurb": "Power, the state, ideologies and international relations.",
+      "pos": [
+        80,
+        86
+      ],
+      "unlock": 13,
+      "topics": [
+        {
+          "id": "power",
+          "title": "Power and Legitimacy"
+        },
+        {
+          "id": "the-state",
+          "title": "States and Nations"
+        },
+        {
+          "id": "ideologies",
+          "title": "Political Ideologies"
+        },
+        {
+          "id": "media",
+          "title": "Media and Persuasion"
+        },
+        {
+          "id": "international",
+          "title": "International Relations"
+        },
+        {
+          "id": "revolutions",
+          "title": "Revolutions"
+        }
+      ]
+    }
+  ],
+  "links": [
+    [
+      "physics",
+      "space"
+    ],
+    [
+      "space",
+      "math"
+    ],
+    [
+      "physics",
+      "chemistry"
+    ],
+    [
+      "chemistry",
+      "earth"
+    ],
+    [
+      "earth",
+      "space"
+    ],
+    [
+      "math",
+      "tech"
+    ],
+    [
+      "chemistry",
+      "biology"
+    ],
+    [
+      "earth",
+      "biology"
+    ],
+    [
+      "biology",
+      "mind"
+    ],
+    [
+      "mind",
+      "philosophy"
+    ],
+    [
+      "tech",
+      "philosophy"
+    ],
+    [
+      "mind",
+      "money"
+    ],
+    [
+      "money",
+      "economics"
+    ],
+    [
+      "economics",
+      "history"
+    ],
+    [
+      "history",
+      "politics"
+    ],
+    [
+      "politics",
+      "democracy"
+    ],
+    [
+      "democracy",
+      "law"
+    ],
+    [
+      "economics",
+      "democracy"
+    ]
+  ]
+}

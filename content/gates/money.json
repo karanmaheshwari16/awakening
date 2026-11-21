@@ -1,0 +1,18 @@
+[
+  {
+    "id": "money.gate.1",
+    "region": "money",
+    "tier": 1,
+    "title": "The Two-Edged Snowball",
+    "question": "A friend has some savings earning interest and a credit card balance they only partly pay off each month. Using what you know about compounding (and budgeting and debt, if you’ve met them), explain what is happening to their money over time and what you would suggest they look at first.",
+    "links": ["compounding", "debt", "budgeting"],
+    "model_answer": "Both the savings and the debt are compounding, but in opposite directions. The savings earn interest on interest, which helps them. The unpaid card balance is charged interest on interest, which works against them.\n\nThe key is to compare the **rates**. Savings accounts usually pay much less than credit cards charge. If the card charges far more than the savings earn, the debt snowball grows faster than the savings snowball. In that case they are losing money overall, even though their savings look like they’re growing.\n\nA sensible first step is often to pay down the highest-rate debt, because every unit paid off “earns” that high rate by avoiding it. Many people also keep a small emergency fund so a surprise bill doesn’t push them back onto the card. Looking at the budget, meaning where the money goes each month, shows how much can go towards the debt.\n\nThis is general reasoning, not personal financial advice. Real choices depend on the exact rates, fees and local rules.",
+    "key_points": [
+      "Savings and unpaid debt both compound, in opposite directions.",
+      "The interest rates decide which snowball grows faster.",
+      "Credit card rates are usually much higher than savings rates.",
+      "Paying off high-rate debt is like earning that rate, risk-free.",
+      "A small emergency fund and a clear budget help stop the debt coming back."
+    ]
+  }
+]

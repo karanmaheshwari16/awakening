@@ -1,0 +1,18 @@
+[
+  {
+    "id": "history.gate.1",
+    "region": "history",
+    "tier": 1,
+    "title": "From Seed to State",
+    "question": "Trace a chain of cause and effect from the first farming villages to the first cities and rulers. What did farming make possible that hunting and gathering didn’t, and what new problems came with it?",
+    "links": ["farming", "first-cities", "empires"],
+    "model_answer": "Farming produced a **surplus**: more food than the farmers themselves needed, which could be stored. Stored food allowed people to stay in one place all year, and populations grew much larger than foraging could support.\n\nWith a surplus, not everyone had to produce food. Some people could specialise as craftspeople, priests, traders, soldiers and administrators. Large settled groups needed ways to organise: to store and share grain, settle disputes and defend land. Over time, villages grew into towns and then cities, and leaders emerged who controlled the surplus. Record-keeping to track grain and taxes is one of the reasons writing developed in places like Mesopotamia.\n\nThe new problems were real. Control of land and stored food led to inequality between rich and poor, and to conflict and war between settlements. Crowded living helped diseases spread. Many people worked harder for a less varied diet. Civilisation brought great achievements, but also new forms of power over other people.",
+    "key_points": [
+      "Farming created a storable surplus.",
+      "Surplus allowed larger, settled populations.",
+      "Surplus allowed specialisation: not everyone had to farm.",
+      "Organising large groups led to leaders, administration and (in some places) writing.",
+      "New problems: inequality, war over land and food, and disease from crowding."
+    ]
+  }
+]

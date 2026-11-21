@@ -1,0 +1,89 @@
+{
+  "id": "space.stars.1",
+  "region": "space",
+  "topic": "stars",
+  "level": 1,
+  "prerequisites": [],
+  "title": "A Star Is a Balancing Act",
+  "estimated_minutes": 12,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Right now, about 150 million kilometres away, the Sun is destroying itself. Every second it turns roughly four million tonnes of its own mass into pure energy. It has been doing this for about 4.6 billion years, and it will keep going for billions more.\n\nSo here is a strange question: why doesn’t it explode? And why doesn’t it collapse? The answer is that a star is not a fire. It’s a **balancing act** between two enormous forces, and once you see that balance, you understand almost everything about how stars are born, live and die."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A star is a giant ball of gas, mostly **hydrogen** (the simplest element) with some **helium**. Two forces fight over it.\n\nThe first is **gravity**. Every bit of gas pulls on every other bit. With a mass about 330,000 times that of Earth, the Sun’s gravity is trying to crush all of that gas towards the centre.\n\nThe second is **pressure**. Squeezed gas gets hot, and hot gas pushes outward, just as the air in a pumped-up tyre pushes on its walls. In the Sun’s core the temperature is around 15 million °C. At that heat, gas pushes back very hard.\n\nWhen these two forces match exactly, the star stays a stable size. Astronomers call this **hydrostatic equilibrium**, which simply means “balanced pressure”."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine a crowd of people all pushing inward towards the centre of a room (gravity), while the people in the middle push outward with all their strength (pressure). If the middle gets tired, the crowd squeezes in. If the middle pushes harder, the crowd is forced back. A star is that standoff, held steady for billions of years."
+    },
+    {
+      "type": "diagram",
+      "alt": "A circle representing a star. Arrows on the outside point inward, labelled gravity. Arrows from the centre point outward, labelled pressure from fusion.",
+      "caption": "Gravity pulls inward; pressure from the hot core pushes outward. Balance keeps the star stable.",
+      "svg": "<svg viewBox=\"0 0 320 220\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"160\" cy=\"110\" r=\"62\" style=\"fill:none;stroke:currentColor;stroke-width:1.5\"/><circle cx=\"160\" cy=\"110\" r=\"18\" style=\"fill:var(--accent-soft);stroke:var(--accent);stroke-width:1.5\"/><g style=\"stroke:var(--accent);stroke-width:1.5;fill:none\"><path d=\"M160 92 V58 M156 64 L160 58 L164 64\"/><path d=\"M160 128 V162 M156 156 L160 162 L164 156\"/><path d=\"M142 110 H108 M114 106 L108 110 L114 114\"/><path d=\"M178 110 H212 M206 106 L212 110 L206 114\"/></g><g style=\"stroke:currentColor;stroke-width:1.5;fill:none;opacity:.75\"><path d=\"M160 14 V40 M156 34 L160 40 L164 34\"/><path d=\"M160 206 V180 M156 186 L160 180 L164 186\"/><path d=\"M62 110 H88 M82 106 L88 110 L82 114\"/><path d=\"M258 110 H232 M238 106 L232 110 L238 114\"/></g><text x=\"160\" y=\"114\" text-anchor=\"middle\" style=\"font:600 9px var(--font-mono);fill:var(--accent)\">CORE</text><text x=\"242\" y=\"30\" style=\"font:500 11px var(--font-ui);fill:currentColor\">gravity</text><text x=\"222\" y=\"150\" style=\"font:500 11px var(--font-ui);fill:var(--accent)\">pressure</text></svg>"
+    },
+    {
+      "type": "text",
+      "heading": "Where the push comes from",
+      "md": "Hot gas would eventually cool down and lose the fight, unless something kept heating it. That something is **nuclear fusion**.\n\nIn the core, hydrogen nuclei (the tiny centres of atoms) are squeezed so hard and move so fast that they slam together and fuse. Through a chain of steps, four hydrogen nuclei end up as one helium nucleus. Here’s the key detail: the helium weighs slightly *less* than the four hydrogens that made it. The missing mass, under 1%, becomes energy, as described by Einstein’s famous equation **E = mc²**. Because c (the speed of light) is such a huge number, a tiny bit of mass becomes a vast amount of energy.\n\nThat energy heats the core, which keeps the pressure up, which holds back gravity. It also slowly works its way out to the surface and leaves as the sunlight that reaches you."
+    },
+    {
+      "type": "callout",
+      "tone": "definition",
+      "title": "Fusion vs. fire",
+      "md": "Fire is a *chemical* reaction: atoms swap partners but stay the same atoms. Fusion is a *nuclear* reaction: the centres of atoms merge into a new element. Per kilogram of fuel, fusion releases millions of times more energy than burning."
+    },
+    {
+      "type": "text",
+      "heading": "The balance corrects itself",
+      "md": "The beautiful part is that this balance is **self-regulating**. If the core gets a little too hot, the extra pressure makes the star expand slightly. Expanding gas cools, fusion slows, and things settle back. If the core cools, gravity squeezes it, it heats up, and fusion speeds up again. It’s like a thermostat built from physics. This is why the Sun has shone fairly steadily for billions of years, long enough for life on Earth to evolve."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: why bigger stars die younger",
+      "items": [
+        "You might guess a star with **10 times** the Sun’s mass, and so 10 times the fuel, would last 10 times longer. Let’s test that.",
+        "More mass means stronger gravity. To hold it up, the core must be **hotter and denser** to push back harder.",
+        "Fusion is extremely sensitive to temperature. A hotter core doesn’t burn a bit faster; it burns *enormously* faster. A useful rule of thumb is that a star’s brightness rises roughly with its mass to the power of 3.5.",
+        "So the 10× star is roughly 10^3.5 ≈ **3,000 times** brighter than the Sun. It has 10× the fuel but spends it about 3,000× as fast.",
+        "Its lifetime is about 10 ÷ 3,000 of the Sun’s. The Sun’s total lifetime is about 10 billion years, so this star lasts only **tens of millions of years**. Massive stars live fast and die young.",
+        "Small stars do the opposite. **Red dwarfs**, much smaller than the Sun, sip their fuel so slowly they can shine for trillions of years. That is far longer than the universe has existed (about 13.8 billion years), so none has ever burned out."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What do you think happens when a star’s core runs low on hydrogen?",
+      "md": "Fusion slows, pressure drops, and **gravity starts winning**. The core is squeezed and heats up even more, until it’s hot enough to fuse helium into heavier elements like carbon. The balance shifts, and the star changes dramatically. In about 5 billion years the Sun will swell into a **red giant**, then shed its outer layers and leave behind a small, hot core called a **white dwarf**. Much heavier stars end far more violently, which is a story for the next tier."
+    },
+    {
+      "type": "callout",
+      "tone": "open-question",
+      "md": "Astronomers understand the life of a Sun-like star very well. But the exact details of how the most massive stars explode, and why some collapse straight into black holes, are still being actively researched."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A star is a ball of gas held in balance between **gravity pulling in** and **pressure pushing out**.",
+        "The pressure is kept up by **nuclear fusion** in the core: hydrogen fuses into helium, and the small amount of lost mass becomes energy (E = mc²).",
+        "The balance is **self-correcting**, which is why stars like the Sun shine steadily for billions of years.",
+        "**Bigger stars burn out faster**: their cores are hotter, so they spend fuel far more quickly. Small red dwarfs can last trillions of years.",
+        "When the core’s fuel runs low, gravity gains ground and the star changes into a new stage of life."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Almost every atom in your body heavier than hydrogen (the carbon in your cells, the oxygen you breathe, the calcium in your bones) was made by fusion inside stars that lived and died before the Sun was born. Understanding the balance inside a star is the first step to understanding where *you* came from. It also explains why we search for life around stable, long-lived stars, and why fusion power on Earth is such a sought-after (and difficult) goal."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what keeps a star like the Sun from collapsing under its own gravity, and why do heavier stars live shorter lives?"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "money.compounding.1",
+  "region": "money",
+  "topic": "compounding",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Interest on Interest: The Quiet Engine",
+  "estimated_minutes": 11,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Two friends each put away the same amount of money at the same rate. Thirty years later, one has about **2.5 times** as much as the other. Neither took more risk, and neither was luckier. The only difference was one small detail in how their returns were treated.\n\nThat detail is **compounding**, and it quietly shapes savings, loans, credit cards, pensions and even population growth. Once you can see it, you’ll notice it everywhere."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "When you lend or invest money, you usually earn **interest**: a payment for letting someone else use your money, shown as a percentage per year.\n\nThere are two ways interest can work:\n\n- **Simple interest:** you earn a percentage of your *original* amount every year. The interest itself just sits there and never earns anything.\n- **Compound interest:** each year’s interest is added to your balance, and next year you earn interest on the *new, bigger* balance. You earn **interest on your interest**.\n\nIn the first year the two look identical. The difference is tiny at first, then grows, and then grows *faster*. That speeding-up is the whole secret."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a snowball rolling downhill. A small snowball picks up a little snow each turn. But a bigger snowball has more surface, so it picks up *more* snow each turn, which makes it bigger still. The growth feeds itself. Compounding is a snowball made of money."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: 1,000 at 7% a year",
+      "items": [
+        "Start with **1,000** (any currency) earning 7% a year, compounded once a year.",
+        "**Year 1:** 7% of 1,000 is 70. New balance: **1,070**.",
+        "**Year 2:** 7% of 1,070 is 74.90. You earned 4.90 more than last year, because you earned interest on last year’s 70. Balance: **1,144.90**.",
+        "**Year 3:** 7% of 1,144.90 is about 80.14. Balance: about **1,225.04**. Each year’s gain is bigger than the last.",
+        "Jump ahead. After **10 years**: about 1,967. After **20 years**: about 3,870. After **30 years**: about **7,612**.",
+        "Now compare simple interest at the same 7%. You’d earn a flat 70 a year, so after 30 years you’d have 1,000 + (70 × 30) = **3,100**. Same rate, same money, but compounding gives you about 2.5 times as much. That’s the two friends from the start."
+      ]
+    },
+    {
+      "type": "diagram",
+      "alt": "A chart comparing two lines over 30 years. The simple interest line rises in a straight line to 3,100. The compound interest line starts close to it, then curves upward more and more steeply to about 7,600.",
+      "caption": "Simple interest grows in a straight line. Compound interest curves upward, slowly at first, then fast.",
+      "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><g style=\"stroke:var(--line-2);stroke-width:1\"><path d=\"M40 170 H300\"/><path d=\"M40 20 V170\"/></g><g style=\"font:500 9px var(--font-mono);fill:var(--text-2)\"><text x=\"40\" y=\"184\" text-anchor=\"middle\">0</text><text x=\"127\" y=\"184\" text-anchor=\"middle\">10</text><text x=\"213\" y=\"184\" text-anchor=\"middle\">20</text><text x=\"300\" y=\"184\" text-anchor=\"middle\">30 yrs</text><text x=\"34\" y=\"173\" text-anchor=\"end\">0</text><text x=\"34\" y=\"95\" text-anchor=\"end\">4k</text><text x=\"34\" y=\"23\" text-anchor=\"end\">8k</text></g><path d=\"M40 151 L300 111\" style=\"fill:none;stroke:currentColor;stroke-width:1.6;opacity:.7\"/><path d=\"M40 151 L66 147 L92 142 L118 136 L144 128 L170 118 L196 107 L222 92 L248 75 L274 54 L300 27\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/><text x=\"236\" y=\"130\" style=\"font:500 10px var(--font-ui);fill:currentColor\">simple: 3,100</text><text x=\"150\" y=\"60\" style=\"font:600 10px var(--font-ui);fill:var(--accent)\">compound: ~7,600</text></svg>"
+    },
+    {
+      "type": "text",
+      "heading": "Three things that make the snowball bigger",
+      "md": "**1. Time.** This matters most. In the example, the balance grew by about 970 in the first ten years, but by about 3,740 in the last ten. Most of the growth arrives at the *end*. So starting earlier, even with small amounts, often beats starting later with larger ones.\n\n**2. The rate.** Small differences in rate become big differences over time. Over 30 years, 1,000 at 5% grows to about 4,322, while at 9% it grows to about 13,268, more than three times as much.\n\n**3. Not interrupting it.** Taking the interest out each year turns compound interest back into simple interest. Leaving it in is what lets the snowball roll."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "A handy shortcut: the Rule of 72",
+      "md": "To estimate how long it takes money to **double**, divide 72 by the yearly interest rate. At 7%, 72 ÷ 7 ≈ 10 years. At 4%, about 18 years. At 12%, about 6 years. It’s an approximation, but a surprisingly good one for everyday rates."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Compounding sounds great. When does it work against you?",
+      "md": "When you are the one **paying** the interest. Unpaid debt compounds too: if you don’t pay off a balance, interest is charged on the interest you already owe. Credit cards are the classic example, because their rates are often very high. Using the Rule of 72, a debt at 24% a year would roughly **double in three years** if left untouched. The same snowball that builds savings can bury a borrower."
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Two honest caveats",
+      "md": "**Real returns are not guaranteed.** Bank savings rates can change, and investments like shares go up and down. A steady 7% every year is a teaching simplification, not a promise.\n\n**Inflation** (prices rising over time) eats into growth. If your money grows 7% but prices rise 4%, your buying power only grows by about 3%. You’ll meet inflation properly in its own topic."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Simple interest** is paid only on the original amount. **Compound interest** is paid on the balance including past interest.",
+        "Compounding starts slowly and then **speeds up**, because each gain makes the next gain bigger.",
+        "**Time** is the most powerful ingredient. Most growth arrives in the later years, so starting early matters.",
+        "Small differences in **rate** become large differences over decades.",
+        "The **Rule of 72**: 72 ÷ rate ≈ years to double.",
+        "Compounding also works **against** you on unpaid debt."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Compounding is one of the few ideas that pays off for an entire lifetime. It explains why early saving is so powerful, why high-interest debt is so dangerous, and why a “small” fee of 1–2% a year on a long-term investment can eat a surprisingly large share of the final result. It’s also the same mathematics behind population growth, viral spread and technology improving rapidly. Learn it once and you’ll see it across many regions of this map."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why does compound interest grow faster than simple interest, and why does starting early make such a big difference?"
+  }
+}

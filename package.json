@@ -1,0 +1,23 @@
+{
+  "name": "awakening",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "npm run validate && tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "validate": "node scripts/validate.mjs",
+    "stats": "node scripts/validate.mjs --stats"
+  },
+  "description": "Awakening: a Solo Leveling-style offline learning app",
+  "dependencies": {
+    "preact": "^11.2.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.6",
+    "typescript": "^7.0.2",
+    "vite": "^6.4.6",
+    "vite-plugin-pwa": "^2.0.0"
+  },
+  "private": true,
+  "type": "module"
+}

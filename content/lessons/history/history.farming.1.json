@@ -1,0 +1,79 @@
+{
+  "id": "history.farming.1",
+  "region": "history",
+  "topic": "farming",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Biggest Decision Nobody Made",
+  "estimated_minutes": 13,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "For roughly 95% of the time our species has existed, every human being got food the same way: by gathering wild plants and hunting or fishing wild animals. No farms, no towns, no kings, no money.\n\nThen, starting a little under 12,000 years ago, people in several parts of the world began to **grow** their food instead of finding it. Nearly everything that came after (cities, writing, governments, armies, inequality, and you reading this on a phone) traces back to that change. Yet no one ever *decided* to start farming. It crept up on humanity over thousands of years."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Historians call this shift the **Neolithic Revolution** (“Neolithic” means “New Stone Age”), or simply the **Agricultural Revolution**. At its heart are two processes:\n\n- **Farming:** deliberately planting, tending and harvesting crops.\n- **Domestication:** changing wild plants and animals, over many generations, into forms that are more useful to humans and often depend on humans to survive.\n\nThe word “revolution” is a little misleading. It wasn’t sudden. Most people spent many generations mixing some farming with plenty of hunting and gathering. But compared with the hundreds of thousands of years before it, the change was fast, and it was permanent."
+    },
+    {
+      "type": "text",
+      "heading": "Not one birthplace, but several",
+      "md": "One of the most remarkable facts about farming is that it was invented **independently in several places** that had no contact with each other:\n\n- **Southwest Asia** (the “Fertile Crescent”, an arc through parts of modern Iraq, Syria, Turkey, Israel, Palestine, Jordan and Iran): wheat, barley, lentils and peas, and later goats, sheep, cattle and pigs. This is among the earliest, starting around 11,500–10,000 years ago.\n- **China:** rice along the Yangtze River and millet along the Yellow River.\n- **Mesoamerica** (modern Mexico and Central America): maize (corn), beans and squash.\n- **The Andes** in South America: potatoes and other crops, plus llamas.\n- **New Guinea:** taro and bananas.\n- Parts of **Africa** and **eastern North America** also developed their own crops.\n\nIt was later adopted, by spreading people and spreading ideas, across South Asia, Europe and beyond. The **Indus Valley** in South Asia became home to farming villages and, later, great cities. When the same idea appears separately on different continents at roughly the same era, it suggests something about the *conditions* of the time made it likely."
+    },
+    {
+      "type": "callout",
+      "tone": "definition",
+      "title": "Domesticated",
+      "md": "A domesticated species has been changed by human selection over many generations. Domesticated maize looks very different from its wild ancestor, a grass called **teosinte**, which has only a handful of hard kernels."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: how wild wheat became a crop",
+      "items": [
+        "Wild wheat has a clever trick: when its seeds ripen, the head **shatters**, scattering the seeds on the ground so new plants can grow. Great for the wheat, annoying for anyone trying to collect it.",
+        "By chance, a few plants carry a mutation that makes the head **stay intact** when ripe. In the wild, these plants struggle to spread their seeds.",
+        "But when people harvest with sickles or by hand, they mostly collect the seeds that are **still on the plant**, which are the non-shattering ones.",
+        "If people then **plant** some of what they gathered, the next crop has more non-shattering plants. Repeat this over many seasons.",
+        "Over generations, the wheat changes. It now depends on humans to spread its seeds, and humans depend on it for food. Nobody planned this. It was an accidental partnership that **selection** built step by step."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why did it happen?",
+      "md": "This is still debated, and the honest answer is that several causes probably worked together:\n\n- **Climate:** the last Ice Age ended, and from about 11,700 years ago the climate became warmer and much more stable. Stable seasons make planting a less risky bet.\n- **Population:** in some regions, more people may have meant that wild food alone wasn’t enough.\n- **Settling down:** some groups lived beside rich wild resources long enough to settle, which made tending plants easier.\n- **Social reasons:** some researchers argue feasting, status or religious gatherings encouraged people to produce surpluses."
+    },
+    {
+      "type": "callout",
+      "tone": "open-question",
+      "title": "A temple before the farm?",
+      "md": "At **Göbekli Tepe** in modern Turkey, people built huge carved stone pillars about 11,600 years ago, apparently before farming had fully taken hold there. It raises a fascinating question: did large gatherings and shared beliefs help *cause* settled life, rather than the other way round? Archaeologists are still debating what the site was for."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Was farming actually better for the people who first did it?",
+      "md": "Surprisingly, not always. Farming could feed **many more people per square kilometre**, so populations grew. But in many places, skeletons of early farmers show signs of a harder life than their foraging ancestors: shorter height, more tooth decay from starchy diets, and signs of poor nutrition. Living closely with animals and in crowded villages also helped diseases spread; several human diseases, such as measles, are thought to have come from domesticated animals. One famous essay even called farming “the worst mistake in the history of the human race.” Many historians think that’s too strong, since it also made civilisation possible. The fair summary is that it was **good for the group’s numbers and power**, but often **hard on individual lives**, at least at first."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "For most of human history, everyone lived by **hunting and gathering**.",
+        "From around 11,500 years ago, farming and **domestication** began, slowly, over thousands of years.",
+        "It was invented **independently** in several regions, including Southwest Asia, China, Mesoamerica, the Andes and New Guinea.",
+        "Domestication was mostly **unplanned**: harvesting habits selected plants (like non-shattering wheat) that came to depend on people.",
+        "Likely causes include a **warmer, stable climate**, population pressure and social factors. The exact mix is still debated.",
+        "Farming allowed **larger populations** but often brought harder work, poorer diets and more disease for individuals."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Farming created something that had never really existed before: a reliable **surplus**, which is more food than the producers needed. Surplus meant some people could stop producing food and become potters, priests, soldiers, traders and rulers. That led to villages, then cities, then states, writing and organised religion. It also brought private property and new kinds of inequality. Almost every topic in History & Civilizations, and many in Politics & Power and Economics, starts here."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did farming begin without anyone planning it, and why might it have been good for societies but hard on individual people?"
+  }
+}

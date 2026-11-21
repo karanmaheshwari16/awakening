@@ -1,0 +1,18 @@
+[
+  {
+    "id": "space.gate.1",
+    "region": "space",
+    "tier": 1,
+    "title": "The Weight of Light",
+    "question": "Gravity shapes both the life of a star and the paths of the planets around it. Explain how the same force can hold a star together and also keep planets in orbit, and why a star’s mass matters for both.",
+    "links": ["stars", "gravity-orbits", "solar-system"],
+    "model_answer": "Gravity is the attraction between masses, and the more mass there is, the stronger the pull.\n\nInside a star, gravity pulls all the gas inward. The star survives because nuclear fusion in the core keeps the gas hot, and hot gas pushes outward. The balance between that inward pull and outward pressure keeps the star stable for millions or billions of years. A more massive star has stronger gravity, so its core must be hotter to resist it. That makes it burn its fuel much faster and live a shorter life.\n\nAround the star, the same gravity pulls on each planet. A planet doesn’t fall in because it is also moving sideways very fast. It keeps “falling around” the star instead of into it, which is what an orbit is. A more massive star pulls harder, so planets at the same distance must move faster to stay in orbit.\n\nSo one force does two jobs. It squeezes the star into a ball hot enough to shine, and it holds the planetary system together. The star’s mass sets the strength of both.",
+    "key_points": [
+      "Gravity is an attraction between masses that gets stronger with more mass.",
+      "In a star, gravity is balanced by outward pressure from fusion-heated gas.",
+      "More massive stars need hotter cores, so they burn fuel faster and live shorter lives.",
+      "An orbit is sideways motion combined with constant falling towards the star.",
+      "A heavier star pulls harder, so planets must move faster to stay in orbit."
+    ]
+  }
+]
