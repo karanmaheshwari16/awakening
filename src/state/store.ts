@@ -55,6 +55,12 @@ function commit(next: Saved, rederive = true) {
 }
 
 export const getSaved = () => saved;
+
+/** Listen for any change to progress or settings. Returns an unsubscribe function. */
+export function subscribe(fn: () => void): () => void {
+  listeners.add(fn);
+  return () => void listeners.delete(fn);
+}
 export const getDerived = () => derived;
 export const getSaveError = () => saveError;
 

@@ -6,6 +6,7 @@ import { RewardOverlay, hideReward } from './components/Reward';
 import { useRoute, href } from './lib/router';
 import { dueShadows } from './state/derive';
 import { ensureDailyQuest } from './state/quests';
+import { onSyncPulled, startAutoSync } from './state/sync';
 import { getSaveError, markIntroSeen, requestPersistence, useGame } from './state/store';
 import { Home } from './screens/Home';
 import { RegionScreen } from './screens/Region';
@@ -34,6 +35,11 @@ export function App() {
   useEffect(() => {
     ensureDailyQuest();
   }, [d.today, d.sessions]);
+
+  useEffect(() => {
+    onSyncPulled((n) => toast(`Synced ${n} session${n === 1 ? '' : 's'} from your other device.`));
+    startAutoSync();
+  }, []);
 
   useEffect(() => {
     updateSW = registerSW({

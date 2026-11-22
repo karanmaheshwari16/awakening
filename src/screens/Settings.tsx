@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'preact/hooks';
 import { catalog } from '../content/catalog';
 import { Icon } from '../components/Icon';
 import { ReadingControls } from '../components/ReadingSheet';
+import { SyncPanel } from '../components/SyncPanel';
 import { Btn, Sheet, Sys, TopBar, toast } from '../components/ui';
 import { devDayOffset, setDevDayOffset, today } from '../lib/date';
 import { href } from '../lib/router';
@@ -16,6 +17,7 @@ import {
   resetAll,
   useGame,
 } from '../state/store';
+import { isConnected, overwriteRemote } from '../state/sync';
 import type { Saved } from '../state/types';
 
 function summary(d: Derived) {
@@ -81,16 +83,13 @@ export function Settings() {
           <div class="preview-text">The universe is under no obligation to make sense to you, but it rewards those who look closely.</div>
         </Sys>
 
-        <Sys label="Sync & backup">
+        <SyncPanel />
+
+        <Sys label="Manual backup">
           <p>
-            Your progress is stored on <b>this device</b> only. Use these buttons to back it up, or to keep your iPhone and
-            laptop in step. Merging combines both histories, so nothing is lost or counted twice.
+            Save a copy of your progress as a file, or bring one in. Merging combines both histories, so nothing is lost or
+            counted twice. Works without GitHub too.
           </p>
-          <ol>
-            <li>On one device, tap <b>Export</b>. On iPhone, AirDrop it to your Mac or save it to iCloud Drive.</li>
-            <li>On the other device, tap <b>Import &amp; merge</b> and pick that file.</li>
-            <li>To sync both ways, then do the same in reverse.</li>
-          </ol>
           <div class="btn-row">
             <Btn variant="ghost" icon="upload" onClick={exportBackup}>Export</Btn>
             <Btn variant="ghost" icon="download" onClick={() => fileRef.current?.click()}>Import &amp; merge</Btn>
@@ -187,6 +186,8 @@ export function Settings() {
         <p class="quest-copy">
           This permanently erases {saved.events.length} sessions, your notes and Gate answers on this device. It can't be
           undone unless you have a backup.
+          {isConnected() &&
+            ' The synced copy on GitHub is cleared too, but your other devices will bring their progress back unless you erase it there as well.'}
         </p>
         <div class="btn-row">
           <Btn variant="quiet" onClick={() => setConfirmReset(false)}>Keep my progress</Btn>
@@ -195,6 +196,7 @@ export function Settings() {
             style={{ color: 'var(--bad)', borderColor: 'var(--bad)' }}
             onClick={() => {
               resetAll();
+              void overwriteRemote();
               setConfirmReset(false);
               toast('Progress erased. A new journey begins.');
             }}
