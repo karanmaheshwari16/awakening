@@ -1,0 +1,206 @@
+##### LESSON
+id: history.industrial.2
+title: The Great Divergence and the Making of the Modern World
+minutes: 15
+prereq: history.industrial.1
+check: In your own words: what was the “Great Divergence”, how did industrialisation spread beyond Britain, and how has it changed human living standards over the last two centuries?
+
+=== hook
+In **1800**, a baby born anywhere in the world could expect, on average, to live to about **30**. The low figure is mostly because so many children died young; adults who survived childhood often lived into their fifties or sixties. Today, global life expectancy at birth is over **70**. In 1800, the large majority of humanity lived in what we would now call extreme poverty. Today, it’s a small minority.
+
+Almost all of that change happened in the last two centuries, and almost all of it traces back to the spread of industrialisation. But it didn’t spread evenly. For a long time, it made some parts of the world dramatically richer than others, a gap historians call the **Great Divergence**.
+
+=== core
+Around 1700, the most advanced regions of China, India, Japan and Western Europe had broadly comparable standards of living, according to many historians, though the exact comparisons are debated. By 1900, Western Europe and North America had become far richer than the rest of the world.
+
+The historian **Kenneth Pomeranz** popularised the term **Great Divergence** in a 2000 book comparing England with the Yangtze Delta region of China. He argued that the two had been surprisingly similar until around 1800, and that England pulled ahead partly because of **coal** located conveniently close to its industries, and access to land and resources in the **Americas**. Other historians argue Europe’s lead started earlier, with differences in institutions, science or culture. The debate continues, but nearly everyone agrees that industrialisation turned modest differences into enormous ones.
+
+=== text The second industrial revolution
+From around **1870 to 1914**, a new wave of innovation transformed economies again:
+
+- **Steel**, made cheaply by new processes, replaced iron for rails, ships, bridges and skyscrapers.
+- **Electricity** powered lights, motors and, eventually, homes. Factories no longer needed to be built around a single steam engine.
+- **Chemicals**: synthetic dyes, fertilisers, explosives and medicines.
+- **Communications**: the telegraph, then the telephone, connected the world almost instantly. An undersea telegraph cable linked Britain and India from 1870.
+- **The internal combustion engine** led to cars and, later, aircraft.
+
+Germany and the United States led much of this wave, overtaking Britain in many industries.
+
+=== text Spreading industrialisation
+Industrialisation spread through borrowing, imitation and deliberate government policy:
+
+- **The United States** combined vast natural resources, a large internal market and immigration to become the world’s largest economy by the late 1800s.
+- **Germany**, unified in 1871, built strong technical education and research-based industries like chemicals.
+- **Japan** offers one of the most striking cases. After the **Meiji Restoration of 1868**, its new leaders deliberately set out to modernise, sending officials abroad to study Western technology and institutions, building railways, factories and a modern army. Within a few decades, Japan was an industrial power.
+- **India** began building cotton mills in Bombay from the 1850s, and the **Tata** family founded India’s first large modern steel works at Jamshedpur in **1907**, though colonial rule limited industrial policy until independence in 1947.
+
+=== callout analogy
+Think of industrialisation as a new, powerful recipe. Britain stumbled on it first, but once the recipe existed, others could study it, adapt it to their own kitchens and sometimes improve it. Latecomers could skip some of the trial and error, which is why countries like Japan, and later South Korea and China, could industrialise much faster than Britain did.
+
+=== text The new politics of industry
+Industrialisation created a new class of **industrial workers**, crowded into cities and dependent on wages. Their often harsh conditions sparked new movements and ideas:
+
+- **Trade unions** organised workers to bargain collectively for better pay and conditions, often facing legal bans and violent opposition at first.
+- In **1848**, **Karl Marx** and **Friedrich Engels** published *The Communist Manifesto*, arguing that industrial capitalism would inevitably be overthrown by the working class. Their ideas would shape revolutions and political movements worldwide, as you’ll see in the Politics region.
+- Reformers in many countries pushed for laws limiting working hours, banning child labour, and providing education, pensions and public health. Germany under Otto von Bismarck introduced some of the first national social insurance schemes in the 1880s.
+
+=== text The great escape
+Over the long run, the effects on living standards have been extraordinary:
+
+- **Life expectancy**: from around 30 globally in 1800 to over 70 today, driven by better nutrition, clean water, sanitation, vaccines and medicine, all made possible or more affordable by industrial economies.
+- **Child mortality**: in 1800, perhaps over **four in ten** children died before age five worldwide. Today, it’s under **one in twenty**.
+- **Extreme poverty**: by World Bank-based estimates, the share of humanity living in extreme poverty fell from the large majority in 1800 to under **one in ten** today, though measuring this over long periods involves uncertainty.
+- **Literacy**: from roughly one in ten adults in 1800 to over eight in ten today.
+
+The economist **Angus Deaton** called this “**the great escape**” from poverty and early death. It remains incomplete: hundreds of millions still live in extreme poverty, and the gains have been very unequal.
+
+=== steps The hidden cost on the balance sheet
+- Industrialisation runs largely on burning **fossil fuels**: coal, then oil and gas.
+- Burning them releases **carbon dioxide** that had been locked underground for millions of years.
+- Since the start of the Industrial Revolution, the concentration of carbon dioxide in the atmosphere has risen by about **50%**, mostly from fossil fuels.
+- This is the main driver of **climate change**, which you’ll study in the Earth & Climate region.
+- Historically, today’s rich countries emitted most of the carbon dioxide; today, emissions are rising fastest in industrialising countries. Who should bear the cost of reducing them is one of the central questions of global politics.
+
+=== reveal Why didn’t industrialisation spread everywhere quickly once it existed?
+Because the recipe needed many ingredients that weren’t easily copied: capital to invest, educated workers, reliable infrastructure, stable governments, functioning legal systems and access to markets. **Colonialism** played a major role too: many colonised regions were organised to supply raw materials and buy manufactured goods rather than industrialise themselves. Since the mid-20th century, some countries, such as South Korea, Taiwan and later China, industrialised remarkably quickly, often with active government strategies. Why some countries succeed in catching up and others don’t remains one of the central questions in Economics.
+
+=== keypoints
+- The **Great Divergence** saw Western Europe and North America pull far ahead economically after around **1800**; its causes are debated.
+- The **second industrial revolution** (around **1870–1914**) brought **steel, electricity, chemicals** and new **communications**.
+- Industrialisation spread to the **US, Germany, Japan** (after the **Meiji Restoration, 1868**) and beyond.
+- It created an **industrial working class**, trade unions, socialist ideas (**Marx and Engels, 1848**) and social reforms.
+- Global **life expectancy** rose from about **30** to over **70**; **extreme poverty** fell from the majority to under one in ten.
+- Fossil-fuel-powered growth has raised atmospheric **CO₂** by about **50%**, driving climate change.
+
+=== why
+The modern world’s greatest achievements and greatest challenges both come from industrialisation: longer lives and far less poverty, alongside climate change and stark inequality between nations. Understanding where they came from helps you engage with today’s debates, about development, trade, technology and climate, with historical perspective rather than slogans.
+
+##### LESSON
+id: history.world-wars.1
+title: The War to End All Wars
+minutes: 15
+check: In your own words: how did a single assassination in 1914 lead to a world war, and why did the fighting on the Western Front become a deadly stalemate?
+
+=== hook
+On **28 June 1914**, in the city of Sarajevo, a 19-year-old Bosnian Serb named **Gavrilo Princip** shot and killed **Archduke Franz Ferdinand**, heir to the throne of Austria-Hungary, and his wife Sophie. The assassination almost failed: an earlier bomb attempt that morning had missed, and Princip only got his chance because the archduke’s driver took a wrong turn and stalled the car right in front of him.
+
+Within about five weeks, most of Europe’s great powers were at war. Over the next four years, around **20 million** soldiers and civilians would die, four empires would collapse and the map of the world would be redrawn. How could one shot in a Balkan city lead to that?
+
+=== core
+The assassination was the **trigger**, not the full cause. Historians often summarise the deeper causes with four factors, sometimes remembered as **MAIN**:
+
+- **Militarism**: European powers had built up huge armies and navies, and military planners had detailed plans requiring rapid mobilisation. Britain and Germany were locked in a naval arms race.
+- **Alliances**: Europe was divided into two blocs. The **Triple Entente** (France, Russia, Britain) faced the **Central Powers** (Germany and Austria-Hungary, later joined by the Ottoman Empire and Bulgaria).
+- **Imperialism**: competition for colonies and influence had created rivalries and crises around the world.
+- **Nationalism**: intense national pride, and nationalist movements among peoples ruled by empires, like Serbs and other South Slavs within Austria-Hungary.
+
+MAIN is a helpful starting point but a simplification. Historians still debate how much responsibility lies with particular governments, especially Germany and Austria-Hungary, and how much the war resulted from decisions by leaders who misjudged each other.
+
+=== steps The July Crisis: five weeks to war
+- **28 June**: Franz Ferdinand is assassinated. Austria-Hungary blames Serbia.
+- **Early July**: Germany assures Austria-Hungary of its full support, sometimes called the “**blank cheque**”.
+- **23 July**: Austria-Hungary sends Serbia a harsh ultimatum, designed to be hard to accept. Serbia accepts most, but not all, of the demands.
+- **28 July**: Austria-Hungary declares war on Serbia. Russia, which saw itself as Serbia’s protector, begins mobilising its army.
+- **1–3 August**: Germany declares war on Russia and then France. Its war plan, a version of the **Schlieffen Plan**, requires attacking France quickly through neutral **Belgium**.
+- **4 August**: Germany invades Belgium. Britain, committed to defending Belgian neutrality, declares war on Germany. A regional crisis has become a continental war.
+
+=== callout analogy
+Think of pre-war Europe as a set of mountaineers roped together on a steep slope, each roped to allies for safety. The ropes make each climber feel more secure. But when one slips, the ropes drag the others down with them. The alliance system was meant to deter war by making it too dangerous; instead, once a crisis began, it pulled everyone in.
+
+=== text Stalemate in the trenches
+Most leaders expected a short war, “over by Christmas”. Instead, after the German advance into France was halted at the **Battle of the Marne** in September 1914, both sides dug in. A line of **trenches** soon stretched about **700 kilometres** from the Belgian coast to Switzerland: the **Western Front**.
+
+Defensive technology had overtaken offensive tactics. **Machine guns**, rapid-firing artillery and **barbed wire** made attacking across open ground (“no man’s land”) extraordinarily deadly. On the first day of the **Battle of the Somme**, **1 July 1916**, the British Army suffered about **57,000** casualties, including around **19,000** killed, the bloodiest day in its history. Battles lasted months and gained only a few kilometres.
+
+Both sides tried new weapons to break the deadlock: **poison gas** (first used on a large scale by Germany in 1915), **tanks** (introduced by Britain in 1916) and **aircraft**, first for scouting and later for combat and bombing.
+
+=== text A world war
+The war spread far beyond Europe. Fighting took place in the Middle East, Africa, Asia and at sea. Colonial empires drew in soldiers and labourers from around the world.
+
+**India** made one of the largest contributions: around **1.3 million** Indian soldiers and labourers served overseas, fighting in France, Mesopotamia, East Africa and at Gallipoli, and over **70,000** died. Many Indians expected that such sacrifice would be rewarded with greater self-government after the war. When it wasn’t, disappointment fuelled the independence movement, especially after the **Jallianwala Bagh massacre** in Amritsar in 1919.
+
+=== text The turning points
+**1917** changed the war. In April, the **United States** entered on the Allied side, angered by German submarine attacks on shipping and a German proposal to Mexico for an alliance against the US (the **Zimmermann Telegram**). Later that year, the **Russian Revolution** led Russia’s new Bolshevik government to make peace with Germany in early 1918.
+
+Germany launched a massive offensive in spring 1918 but couldn’t break through. With American troops arriving in large numbers, its allies collapsing and its population exhausted by a naval blockade, Germany agreed to an **armistice**. The fighting stopped at **11 a.m. on 11 November 1918**.
+
+=== reveal The war ended in 1918, but another killer was already spreading. What was it?
+The **1918 influenza pandemic**, often misleadingly called the “Spanish flu” because neutral Spain’s uncensored press reported on it openly while warring nations suppressed news. Between 1918 and 1920, it infected perhaps a third of the world’s population and killed an estimated **50 million** people or more, probably more than the war itself. Troop movements and crowded camps helped spread it. **India** suffered terribly, with deaths often estimated at around **12 to 20 million**, possibly the highest toll of any country.
+
+=== keypoints
+- The assassination of **Franz Ferdinand** (28 June 1914) triggered a crisis rooted in **militarism, alliances, imperialism and nationalism**.
+- Within five weeks, alliance commitments and war plans drew most of Europe into war; Germany’s invasion of **Belgium** brought in Britain.
+- The **Western Front** became a trench **stalemate**; the first day of the **Somme** cost Britain about **57,000** casualties.
+- New weapons included **machine guns, poison gas, tanks** and **aircraft**.
+- About **1.3 million** Indians served overseas; disappointment afterwards fuelled the independence movement.
+- **US entry** and the **Russian Revolution** (1917) shaped the end; the armistice came on **11 November 1918**.
+- Around **20 million** died in the war; the **1918 flu** killed even more.
+
+=== why
+World War I destroyed four empires (German, Austro-Hungarian, Russian and Ottoman), redrew the maps of Europe and the Middle East, sparked the Russian Revolution and strengthened independence movements across the colonised world. Many of today’s borders and conflicts trace back to it. It’s also a sobering case study in how leaders, each acting in what they believed was their nation’s interest, can stumble together into catastrophe.
+
+##### LESSON
+id: history.world-wars.2
+title: World War II and the World It Made
+minutes: 16
+prereq: history.world-wars.1
+check: In your own words: what conditions after World War I helped lead to World War II, and how did the war reshape the world that followed?
+
+=== hook
+On **26 June 1945**, in San Francisco, representatives of **50 nations** signed the **Charter of the United Nations**, while fighting still raged in the Pacific. Its preamble begins with a determination to “save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind”.
+
+The people who wrote it had lived through both world wars. The second had just killed somewhere around **70 to 85 million** people, the deadliest conflict in human history, and had included a systematic attempt to murder an entire people. The world they built afterwards, with its international institutions, human rights declarations and rival superpowers, is in many ways still the world we live in.
+
+=== core
+World War II grew out of the unresolved aftermath of World War I:
+
+- **The Treaty of Versailles (1919)** forced Germany to accept blame for the war, give up territory, limit its military and pay large reparations. Many Germans saw it as a humiliation. Historians debate how harsh it really was, but it was widely resented.
+- **The Great Depression**, starting in **1929**, caused mass unemployment worldwide. Desperation made extreme political movements more appealing.
+- **Fascism and militarism** rose: **Benito Mussolini** took power in Italy in 1922; **Adolf Hitler** and the Nazi Party in Germany in **1933**; military leaders gained growing control in Japan.
+- **Aggression went unchecked.** Japan invaded Manchuria in 1931 and launched a full-scale war against China in **1937**. Italy invaded Ethiopia in 1935. Germany rearmed, remilitarised the Rhineland, annexed Austria and took Czechoslovakia. Britain and France, desperate to avoid another war, pursued **appeasement**, most famously at the Munich Agreement in 1938.
+
+On **1 September 1939**, Germany invaded **Poland**. Britain and France declared war two days later. In Asia, war between Japan and China was already two years old.
+
+=== text A truly global war
+- **1939–40**: Germany conquered Poland, then Denmark, Norway, the Netherlands, Belgium and France with startling speed. Britain fought on, surviving the aerial **Battle of Britain**.
+- **June 1941**: Germany invaded the **Soviet Union**, opening the largest and deadliest front of the war. The Soviet Union lost an estimated **25 million** or more people, more than any other country.
+- **December 1941**: Japan attacked the US naval base at **Pearl Harbor** and swept across Southeast Asia and the Pacific. The United States entered the war.
+- **1942–43**: The tide turned with Allied victories at **Stalingrad**, **El Alamein** and **Midway**.
+- **1944**: Allied forces landed in Normandy on **D-Day**, 6 June. Soviet forces advanced from the east. In Asia, British and Indian forces defeated a Japanese invasion of India at **Imphal and Kohima**.
+- **1945**: Germany surrendered on **8 May**. After the United States dropped atomic bombs on **Hiroshima (6 August)** and **Nagasaki (9 August)**, and the Soviet Union declared war on Japan, Japan announced its surrender on **15 August**.
+
+=== text The Holocaust
+At the centre of Nazi ideology was racism, especially antisemitism. After taking power, the Nazis stripped Jews of their rights. During the war, they carried out the **Holocaust**: the systematic, state-organised murder of around **six million Jews**, about two-thirds of Europe’s Jewish population.
+
+Victims were shot in mass executions or murdered in extermination camps like **Auschwitz-Birkenau**, where gas chambers were used to kill on an industrial scale. The Nazis also murdered millions of others, including **Roma** people, disabled people, Soviet prisoners of war, Polish civilians and political opponents.
+
+The Holocaust is among the most thoroughly documented events in history, through Nazi records, survivor testimony, physical evidence and the post-war trials. It led directly to the legal concept of **genocide**, defined by the lawyer Raphael Lemkin and made an international crime by a UN convention in 1948.
+
+=== callout note | India in the Second World War
+Over **2.5 million** Indians served in the British Indian Army, the largest volunteer army in history, fighting in North Africa, Italy, the Middle East and Southeast Asia. At the same time, Indian nationalists were divided: the Congress launched the **Quit India** movement in 1942, demanding immediate independence, while **Subhas Chandra Bose** led the Indian National Army alongside Japan. In **1943**, the **Bengal famine** killed an estimated **2 to 3 million** people. Historians debate the causes, including crop failure, the loss of rice imports from Japanese-occupied Burma and wartime policies, but most agree that British colonial authorities’ responses made it far worse.
+
+=== callout analogy
+Think of the period between the wars as a building whose foundations were badly repaired after an earthquake. The 1919 settlement left many grievances; then the Depression struck like a second tremor. Instead of strengthening the structure, the institutions meant to keep peace, like the League of Nations, proved too weak to stop aggressors. When the next shock came, the whole structure fell.
+
+=== steps The world the war made
+- **The United Nations** (1945) replaced the failed League of Nations, with a Security Council in which five major powers hold vetoes.
+- **The Universal Declaration of Human Rights** (1948), drafted by a committee chaired by **Eleanor Roosevelt**, set out rights belonging to every person. India’s **Hansa Mehta** helped change its wording from “all men are born free and equal” to “all **human beings**”.
+- **New economic institutions** came from the 1944 **Bretton Woods** conference: the International Monetary Fund and the World Bank.
+- **Decolonisation** accelerated: exhausted European powers lost their grip on empires. **India** and **Pakistan** became independent in **1947**, amid the violence of Partition. Many countries in Asia and Africa followed over the next two decades.
+- **The Cold War**: the United States and the Soviet Union emerged as rival superpowers with competing ideologies, dividing Europe and much of the world for over four decades, under the threat of nuclear weapons.
+- **European integration**: former enemies began building economic links that eventually became the European Union, partly to make another war between them unthinkable.
+
+=== reveal Was dropping the atomic bombs necessary to end the war?
+This remains one of history’s most debated questions. Supporters argued the bombs ended the war quickly and avoided a planned invasion of Japan that could have cost hundreds of thousands, perhaps millions, of American and Japanese lives. Critics argue Japan was already close to surrender, that the Soviet declaration of war was equally decisive, that the targets were overwhelmingly civilian, and that the bombs were partly meant to impress the Soviet Union. The bombings killed an estimated **110,000 to 210,000** people by the end of 1945, many from burns and radiation. Historians continue to weigh the evidence, and the moral questions remain contested.
+
+=== keypoints
+- **Versailles**, the **Great Depression**, the rise of **fascism and militarism** and unchecked **aggression** led to war.
+- War began in Asia with Japan’s invasion of China (**1937**) and in Europe with Germany’s invasion of Poland (**1 September 1939**).
+- Around **70–85 million** people died; the **Soviet Union** suffered the greatest losses.
+- In the **Holocaust**, the Nazis murdered around **six million Jews** and millions of others.
+- Over **2.5 million** Indians served; the **Bengal famine** killed **2–3 million**.
+- The war ended in **1945**, after the atomic bombings of **Hiroshima** and **Nagasaki**.
+- It produced the **UN**, the **Universal Declaration of Human Rights**, **Bretton Woods** institutions, **decolonisation**, the **Cold War** and **European integration**.
+
+=== why
+The Second World War shaped the international order, borders, institutions and many national identities of the world today. Understanding it, including the Holocaust and the war’s global reach beyond Europe, helps you recognise warning signs like dehumanising propaganda, the erosion of rights and the failure of institutions to restrain aggression. Its lessons connect directly to the Politics, Democracy and Law regions.

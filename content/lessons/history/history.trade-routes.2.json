@@ -1,0 +1,85 @@
+{
+  "id": "history.trade-routes.2",
+  "region": "history",
+  "topic": "trade-routes",
+  "level": 2,
+  "prerequisites": [
+    "history.trade-routes.1"
+  ],
+  "title": "Germs, Silver and the Columbian Exchange",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Imagine Indian food without chillies, Italian food without tomatoes, Irish history without potatoes, or Thai cooking without peanuts. Before the 1500s, none of these existed, because chillies, tomatoes, potatoes, peanuts and maize all came from the **Americas**, which had been cut off from Europe, Asia and Africa for thousands of years.\n\nWithin a few decades after Columbus’s voyage in **1492**, they began spreading around the world. Chillies, brought by Portuguese traders, became central to Indian cuisine so thoroughly that many people assume they are native. But the same exchange that brought new foods also brought catastrophe on a scale almost unmatched in human history."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The historian **Alfred Crosby** coined the term **Columbian Exchange** in 1972 to describe the massive transfer of plants, animals, people, diseases and ideas between the Americas and the rest of the world after 1492.\n\nThe two sides had developed separately for around 15,000 years, with very different crops, animals and diseases. When contact came, the effects were enormous:\n\n**From the Americas to the rest of the world:** maize, potatoes, sweet potatoes, tomatoes, chillies, cacao (chocolate), vanilla, peanuts, pineapples, tobacco and rubber.\n\n**From Europe, Africa and Asia to the Americas:** wheat, rice, sugar cane, coffee, bananas, citrus fruits, horses, cattle, pigs, sheep and chickens, and, devastatingly, **diseases**."
+    },
+    {
+      "type": "text",
+      "heading": "The great dying",
+      "md": "Indigenous peoples of the Americas had no immunity to diseases like **smallpox**, **measles**, **influenza** and later others, which had circulated for thousands of years in Europe, Asia and Africa, partly because, as the farming lessons explained, those diseases came from long contact with domesticated animals in dense populations.\n\nThe results were catastrophic. Epidemics often spread ahead of the Europeans themselves, along Indigenous trade networks. Combined with warfare, enslavement, forced labour, famine and the destruction of societies, the Indigenous population of the Americas is estimated to have fallen by somewhere around **50 to 90%** in the century or so after contact. Estimates vary widely because pre-contact population figures are uncertain, but it was among the deadliest demographic disasters in history."
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Disease wasn’t the only cause",
+      "md": "It’s sometimes said that “germs did it”, as if the catastrophe were simply a natural accident. Historians increasingly stress that disease worked together with deliberate human actions: conquest, massacres, enslavement, forced labour in mines and plantations, and the seizure of land and food, which left survivors weakened and unable to recover. Both natural and human causes mattered."
+    },
+    {
+      "type": "text",
+      "heading": "Disease along older routes: the Black Death",
+      "md": "The Americas weren’t the first place where trade carried disease. In the **1340s**, the **Black Death**, caused by the bacterium *Yersinia pestis*, spread from Central Asia along trade routes to the Black Sea, the Middle East, North Africa and Europe. Between **1346 and 1353**, it killed an estimated **30 to 50%** of Europe’s population, and huge numbers across the Middle East and beyond.\n\nIts cause was debated for centuries; DNA extracted from victims’ teeth in plague pits has now confirmed the bacterium. In Europe, the resulting labour shortages gave surviving workers more bargaining power, and wages rose in many places, one example of how catastrophes can reshape economies."
+    },
+    {
+      "type": "text",
+      "heading": "Sugar, slavery and the Atlantic",
+      "md": "European colonisers in the Americas established **plantations** growing sugar, tobacco, cotton and later coffee, crops that required enormous amounts of labour. With Indigenous populations devastated, they turned to enslaved Africans.\n\nThe **transatlantic slave trade**, mainly from the 1500s to the 1800s, forcibly carried an estimated **12.5 million** Africans across the Atlantic; around **10.7 million** survived the brutal voyage, known as the Middle Passage. The trade involved European states and merchants, African rulers and traders who sold captives, and colonial societies throughout the Americas. Its consequences, from population loss in parts of Africa to racism and inequality in the Americas, continue to shape the world."
+    },
+    {
+      "type": "text",
+      "heading": "Silver: the first global economy",
+      "md": "The Spanish discovered vast silver deposits in the Americas, especially at **Potosí**, in present-day Bolivia, where Indigenous workers were forced to labour in dangerous mines under a colonial system called the **mita**.\n\nMuch of that silver flowed to **China**, whose huge economy demanded silver for taxes and trade. From **1571**, Spanish **Manila galleons** sailed across the Pacific between Mexico and the Philippines, exchanging American silver for Chinese silk and porcelain. For the first time, regular trade connected all the inhabited continents. Some historians date the beginning of a truly global economy to this moment."
+    },
+    {
+      "type": "steps",
+      "title": "How the potato changed history",
+      "items": [
+        "The potato was domesticated in the Andes of South America thousands of years ago.",
+        "It reached Europe in the late 1500s. Initially regarded with suspicion, it eventually spread widely.",
+        "Potatoes produce far more calories per hectare than grain and grow in cool, poor soils.",
+        "Some historians argue that potatoes helped fuel population growth in Europe in the 1700s and 1800s, contributing indirectly to the labour force of the Industrial Revolution.",
+        "But overdependence was dangerous. In Ireland, many poor families relied almost entirely on a single potato variety. When a plant disease struck in **1845**, the resulting **Great Famine**, worsened by British government policy and continued food exports, killed about a million people and drove another million or more to emigrate."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Did the Columbian Exchange make the world better or worse?",
+      "md": "It depends enormously on **who** and **when**. New crops eventually helped feed billions of people and transformed cuisines worldwide; maize and potatoes are among the world’s most important crops today. But for Indigenous Americans, contact brought catastrophic population loss and the destruction of societies, and for millions of Africans, it brought enslavement. The gains flowed mostly to some groups, the costs fell heavily on others. Historians generally avoid a simple verdict, and try instead to account for both."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **Columbian Exchange** (term coined by **Alfred Crosby**, 1972) transferred crops, animals, people and diseases after **1492**.",
+        "American crops like **maize, potatoes, tomatoes and chillies** transformed diets worldwide.",
+        "Diseases like **smallpox**, combined with conquest and forced labour, caused Indigenous populations to fall by roughly **50–90%**.",
+        "The **Black Death** (1346–1353) spread along trade routes and killed **30–50%** of Europe’s population.",
+        "The **transatlantic slave trade** forcibly carried about **12.5 million** Africans across the Atlantic.",
+        "American **silver**, especially from **Potosí**, and the **Manila galleons** (from 1571) helped create the first global economy."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The Columbian Exchange shaped the world you live in: what’s on your plate, the populations and languages of the Americas, global inequality, and patterns of disease. It also shows how deeply connected biology and history are, and how globalisation has always brought both gains and terrible costs. These themes return in the Biology region, with microbes and the immune system, and in Economics, with trade."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what was the Columbian Exchange, what were its biggest effects on both sides of the Atlantic, and why were its consequences so unequal?"
+  }
+}

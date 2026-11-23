@@ -1,0 +1,78 @@
+{
+  "id": "history.first-cities.1",
+  "region": "history",
+  "topic": "first-cities",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The First Cities and the Birth of the State",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "About **5,000 years ago**, in the land between the Tigris and Euphrates rivers in what is now Iraq, the city of **Uruk** may have been home to around **40,000** people or more, making it among the largest settlements on Earth at the time. Its walls stretched for kilometres; its temples towered over the flat plain.\n\nAmong the ruins, archaeologists found thousands of clay tablets marked with some of the earliest known writing. Many of them aren’t poems, prayers or laws. They’re **receipts and records**: rations of barley, numbers of sheep, quantities of beer owed to workers. Humanity’s first great written records, it seems, were bookkeeping."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Over the following centuries, several regions developed something new: **cities** and **states**. They arose independently in several places, mostly in fertile river valleys that could produce large surpluses:\n\n- **Mesopotamia** (modern Iraq): Sumerian cities like Uruk and Ur, from around 4000–3000 BCE.\n- **Egypt**: unified into one kingdom along the Nile around **3100 BCE**.\n- **The Indus Valley** (modern Pakistan and northwest India): cities like Harappa and Mohenjo-daro, at their height around **2600–1900 BCE**.\n- **China**: along the Yellow River, culminating in the Shang dynasty from around 1600 BCE.\n- **The Americas**: Caral in Peru (around 2600 BCE), later the Olmec and Maya in Mesoamerica.\n\nA **state** is a political organisation that claims authority over a territory and its people, usually with rulers, officials, taxes and organised force. Not every early city was ruled by a powerful king, but most came to share a recognisable set of features."
+    },
+    {
+      "type": "text",
+      "heading": "What made a civilisation different",
+      "md": "Archaeologists often look for features like these:\n\n- **Large, dense populations**, far beyond village size.\n- **Specialisation**: many people didn’t farm, but worked as potters, metalworkers, scribes, priests, soldiers or traders.\n- **Social hierarchy**: clear differences in wealth and power, visible in house sizes and burials.\n- **Monumental architecture**: temples, palaces, pyramids, walls and ziggurats that required organised labour.\n- **Centralised administration**: officials collecting and redistributing surplus, often through temples or palaces.\n- **Record-keeping**: usually writing, though not always. The Inca, much later, ran a vast empire using **quipu**, knotted strings that recorded numbers and possibly more."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a village as a family business, where everyone knows everyone and roles are informal. A city-state is more like a large corporation: thousands of people who don’t know each other, specialised departments, managers, rules, records and a headquarters. Once you have that many strangers cooperating, informal trust isn’t enough. You need systems."
+    },
+    {
+      "type": "text",
+      "heading": "The Indus cities: order without obvious kings",
+      "md": "The **Indus Valley Civilisation** (also called the Harappan Civilisation) was one of the largest of its time, covering an area bigger than Egypt and Mesopotamia combined, across what is now Pakistan and northwest India.\n\nIts cities were remarkably planned. **Mohenjo-daro** had streets laid out in a grid, houses built of standardised baked bricks, private bathrooms in many homes and covered **drains** running along the streets, sanitation more advanced than in many cities thousands of years later. Across hundreds of kilometres, people used a standard system of **weights**, suggesting coordinated trade.\n\nStrikingly, archaeologists have found few clear palaces, royal tombs or images of warrior kings. How the Indus cities were governed remains a mystery, partly because their **script**, found on thousands of small seals, has never been deciphered. It may be that power was organised in a way quite different from Egypt or Mesopotamia, but we can’t yet read their own account."
+    },
+    {
+      "type": "text",
+      "heading": "Why writing began",
+      "md": "How did writing start? One influential theory, developed by the archaeologist **Denise Schmandt-Besserat**, links it to small clay **tokens** used in the Near East for thousands of years to count goods: a cone for a measure of grain, a disc for a sheep. Tokens were sealed inside clay envelopes as records; people began pressing them into the outside to show what was inside. Eventually, they skipped the tokens and simply drew the marks on clay. The theory is debated, but it’s clear that early Mesopotamian writing grew out of administration.\n\nOver centuries, those marks evolved into **cuneiform**, wedge-shaped signs pressed into clay with a reed, which could record not just goods and numbers but language itself: names, laws, letters and literature. Writing was invented separately in at least a few places, likely including Egypt (hieroglyphs), China and Mesoamerica."
+    },
+    {
+      "type": "steps",
+      "title": "From surplus to a state: one possible path",
+      "items": [
+        "Irrigation farming along a river produces large grain surpluses, but requires canals that must be built and maintained.",
+        "Organising that work, and storing and sharing the harvest, gives power to whoever manages it, often temple administrators.",
+        "Managing large stores of grain from many families requires **records**, encouraging counting systems and eventually writing.",
+        "Surplus supports specialists: craftspeople, priests and guards, who depend on the central stores.",
+        "Wealth attracts raiders and rivals, so leaders organise defence, build walls and command soldiers.",
+        "Over time, those leaders claim the right to tax, judge and command: a state has formed. This is one model; historians debate how much it varied from place to place."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Did people choose to live under early states, or were they forced?",
+      "md": "Probably some of both, and historians disagree about the balance. States offered **protection**, organised irrigation, trade and religious ceremony. But they also demanded **taxes**, forced labour and military service, and many early states relied on slavery. The political scientist **James C. Scott** argued that early states were fragile and often coercive, and that many people resisted or fled them, living in hills and forests beyond their reach. For thousands of years after the first states appeared, most of the world’s people still lived outside them."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Cities and states arose **independently** in several river valleys: **Mesopotamia, Egypt, the Indus, China** and the **Americas**.",
+        "Common features: dense populations, **specialisation**, **hierarchy**, monumental buildings, central administration and records.",
+        "**Uruk** may have had around **40,000** people about **5,000 years ago**.",
+        "The **Indus cities** had grid streets, drains and standard weights, but their **script is undeciphered** and their rulers unclear.",
+        "Writing in Mesopotamia grew out of **accounting**, evolving into **cuneiform**.",
+        "Early states offered protection and organisation but also imposed **taxes, labour and coercion**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Almost every feature of the world you live in, from governments and taxes to cities, money and written records, traces back to these first experiments in large-scale living. Seeing how they began helps you understand what states are for, what they cost and why questions about authority and fairness are as old as civilisation itself. The next lesson follows these early civilisations through their achievements and their collapses."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what new features appeared when the first cities and states formed, and why might writing have been invented first for accounting rather than for stories?"
+  }
+}

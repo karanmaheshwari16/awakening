@@ -1,0 +1,79 @@
+{
+  "id": "history.farming.2",
+  "region": "history",
+  "topic": "farming",
+  "level": 2,
+  "prerequisites": [
+    "history.farming.1"
+  ],
+  "title": "The Price of the Harvest",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Around 10,000 years ago, before farming, perhaps **5 million** people lived on the whole planet, roughly the population of a single large city today. By around the year 1 CE, after farming had spread across much of the world, the number had grown to something like **200 to 300 million**.\n\nThat looks like a straightforward success story. But when archaeologists study the **skeletons** of early farmers and compare them with the hunter-gatherers who came before, they often find people who were shorter, had more tooth decay, more signs of malnutrition and more infectious disease. Farming fed far more people. It didn’t necessarily feed them better."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how farming emerged independently in several regions and how wild plants and animals were domesticated. This lesson looks at the **consequences**, which shaped almost everything that came after.\n\nThe central change was **surplus**. Hunter-gatherers mostly moved around and stored little; owning more than you could carry made little sense. Farmers stayed in one place, harvested grain that could be **stored** for months, and could produce more food per hectare of land than foraging. That surplus could support more people, and also people who didn’t farm at all.\n\nFrom surplus flowed four big changes:\n\n1. **More people**, living more densely.\n2. **Property and inequality**: land, stored grain and herds could be owned, inherited and fought over.\n3. **New diseases**, from crowding and from living close to animals.\n4. **Specialists and rulers**: people who could be fed by others’ labour, such as craftspeople, priests, soldiers and chiefs."
+    },
+    {
+      "type": "text",
+      "heading": "The health puzzle",
+      "md": "Why might early farmers have been less healthy than foragers?\n\n- **Narrower diets.** Foragers ate a wide variety of plants and animals. Many early farmers depended heavily on one or two starchy crops, like wheat, rice or maize, leaving them short of some nutrients and exposed to famine if a harvest failed.\n- **Tooth decay.** Starchy, sticky grains feed mouth bacteria, and cavities become much more common in farming populations.\n- **Hard labour.** Skeletons show signs of repetitive strain, such as wear from grinding grain on stone querns for hours a day.\n- **Infection.** Settled villages accumulated waste and contaminated water, ideal for parasites and disease.\n\nThe pattern isn’t universal, and it varied a lot by region and period. But it’s strong enough that in 1987 the scientist **Jared Diamond** provocatively called agriculture “the worst mistake in the history of the human race”. Many historians think that overstates it, but it’s a useful challenge to the assumption that every change in history is progress."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of farming like a company that grows enormously by switching to a cheaper, mass-production model. Total output soars and the company can employ many more people, but each worker may end up with longer hours, a more repetitive job and less security. Whether that counts as success depends on whether you’re looking at the company or at the worker."
+    },
+    {
+      "type": "text",
+      "heading": "Gifts from the animals",
+      "md": "Living closely with domesticated animals had a hidden cost. Many of humanity’s deadliest infectious diseases began as animal infections that jumped to humans. Measles, for example, is closely related to a virus of cattle, and its ancestor likely spread to people a few thousand years ago once populations became large enough to sustain it. Influenza circulates among birds and pigs.\n\nMany such diseases also need large, dense populations to survive, because they spread fast and either kill or leave survivors immune. Small foraging bands couldn’t sustain them; crowded farming towns could. This had enormous consequences thousands of years later, as you’ll see in the lessons on trade routes: populations that had long lived with these diseases carried them to people who had never encountered them."
+    },
+    {
+      "type": "text",
+      "heading": "Who owns the harvest?",
+      "md": "Before farming, most foraging groups that anthropologists have studied are relatively **egalitarian**, with strong customs of sharing food. Surplus changed the incentives. Stored grain, cleared fields and herds could be **accumulated**, passed to children, taxed or seized.\n\nOver thousands of years, many (though not all) farming societies developed hierarchies: chiefs, then kings, nobles and priests who controlled stored surpluses. Some early farming settlements seem surprisingly equal. At **Çatalhöyük** in what is now Turkey, a large settlement occupied from around 7100 BCE, houses were remarkably similar in size, with little sign of a ruling elite. Inequality wasn’t an automatic result of farming, but farming made it much easier to build."
+    },
+    {
+      "type": "steps",
+      "title": "How farming spread",
+      "items": [
+        "Farming didn’t spread only by people copying good ideas. **Ancient DNA** studies show that farming often spread through **migration** of farming peoples.",
+        "Around **8,000 years ago**, farmers whose ancestors came from Anatolia (modern Turkey) moved into Europe, gradually replacing or mixing with the local hunter-gatherers.",
+        "In South Asia, **Mehrgarh**, in present-day Balochistan in Pakistan, shows farming of wheat and barley and herding of animals from around **7000 BCE**, one of the earliest farming sites in the region, laying foundations for the later Indus Valley Civilisation.",
+        "In Africa, the **Bantu expansion** over roughly the last 4,000 years carried farming and Bantu languages from West-Central Africa across much of the southern half of the continent.",
+        "Because farmers grew more numerous, they tended to outnumber foragers over time, which is why most of the world’s people today descend largely from early farming populations."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If farming wasn’t clearly better for individuals, why did almost every society eventually adopt it?",
+      "md": "Because once some groups farmed, they had **more people**, and more people generally beats fewer in competition for land. A farming village could field more workers and more fighters than a foraging band on the same territory. Over time, farmers expanded, and foragers were pushed into areas that were hard to farm: deserts, rainforests, the Arctic. There was also a **trap** element: once population grew on farmed food, going back to foraging could no longer feed everyone. Farming spread not because each person chose a better life, but because farming societies outgrew and outcompeted the alternatives."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Farming created **storable surplus**, supporting far larger populations: from about **5 million** people to **200–300 million** by 1 CE.",
+        "Early farmers often show **worse health** than foragers: narrower diets, tooth decay, hard labour and more infection.",
+        "Close contact with animals and crowded villages helped **new diseases** emerge and persist.",
+        "Surplus enabled **property, inheritance and inequality**, though some early settlements like **Çatalhöyük** were fairly equal.",
+        "Ancient DNA shows farming often spread through **migration**, as in Europe and the Bantu expansion.",
+        "Farming spread mainly because farming societies **outnumbered** and **outcompeted** foragers."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Farming is the hinge of human history: cities, states, writing, armies, taxes and empires all grew from it. Understanding its costs as well as its benefits helps you think more carefully about “progress” in general, including today’s technological changes, which also bring large gains overall while creating losers and new risks. It sets up the next lessons, where surplus becomes cities and states."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did farming change human societies, and why do some historians argue it made life worse for many ordinary people, at least at first?"
+  }
+}

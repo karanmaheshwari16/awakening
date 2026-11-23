@@ -1,0 +1,85 @@
+{
+  "id": "history.empires.2",
+  "region": "history",
+  "topic": "empires",
+  "level": 2,
+  "prerequisites": [
+    "history.empires.1"
+  ],
+  "title": "Why Empires Fall",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 1984, a German historian named **Alexander Demandt** collected every explanation he could find for the fall of the Western Roman Empire. He counted **210** of them. They ranged from the plausible (invasions, civil wars, economic crisis, plague) to the bizarre (lead poisoning, excessive bathing, homosexuality, even “hyper-civilisation”).\n\nThat list is itself a lesson. The fall of Rome is probably the most studied question in history, and historians still don’t fully agree. When something huge happens, people are tempted to find one dramatic cause. Real history is usually messier."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The Roman Empire reached its greatest extent around 117 CE, stretching from Britain to Mesopotamia. In the late 200s, it was divided for administrative reasons, and from 395 CE it was permanently split into a **Western** and an **Eastern** half, each with its own emperor.\n\nThe **Western Roman Empire** lost territory throughout the 400s to Germanic groups like the Visigoths and Vandals, who sacked Rome itself in **410** and **455**. In **476**, a Germanic general named **Odoacer** deposed the last western emperor, a teenager called Romulus Augustulus. That date is traditionally given as the “fall of Rome”.\n\nBut the **Eastern Roman Empire**, with its capital at Constantinople (modern Istanbul), continued for nearly another **thousand years**, until it was conquered by the Ottoman Turks in **1453**. Historians today often call it the **Byzantine Empire**, but its people called themselves Romans."
+    },
+    {
+      "type": "text",
+      "heading": "The main suspects",
+      "md": "Most historians now emphasise a combination of pressures:\n\n**External pressure.** In the late 300s, the **Huns** moved west from Central Asia, pushing Gothic and other peoples across Rome’s borders. Rome increasingly relied on these groups as soldiers and allies, sometimes losing control of them.\n\n**Civil wars and political instability.** In the third century, Rome had dozens of emperors in fifty years, most killed by rivals or their own troops. Energy and resources spent on internal power struggles weren’t available for defending borders.\n\n**Economic strain.** Paying a large army was enormously expensive. Emperors debased the silver currency, reducing its silver content to stretch it further, fuelling inflation. Taxes rose, and trade became harder.\n\n**Disease and climate.** The historian **Kyle Harper** has argued that pandemics, like the **Antonine Plague** (165 CE onwards, possibly smallpox) and the **Plague of Cyprian** (from 249), along with climate shifts, weakened the empire repeatedly. Later, the **Plague of Justinian** (from 541), caused by the same bacterium as the Black Death, struck the Eastern Empire.\n\n**Overstretch.** The empire had very long borders to defend, from the Rhine and Danube to the Syrian desert, with slow communications."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an empire as an old building. A building can stand for centuries despite cracks, leaks and worn foundations. But if several problems pile up at once (a storm, a fire, a failing roof and no money for repairs), it can come down remarkably fast. Afterwards, people argue about which problem “caused” the collapse, when really it was the combination."
+    },
+    {
+      "type": "text",
+      "heading": "Fall, or transformation?",
+      "md": "Edward Gibbon’s famous 18th-century work, *The History of the Decline and Fall of the Roman Empire*, blamed barbarian invasions and, controversially, the spread of Christianity, which he thought sapped civic virtue. Many later historians rejected his reasoning, though not his scholarship.\n\nFrom the 1970s, historians like **Peter Brown** popularised the idea of **Late Antiquity**: a period of transformation rather than simply decline. Roman law, Latin, Christianity and many institutions continued in the new Germanic kingdoms. The Goths and Franks often saw themselves as heirs to Rome, not its destroyers.\n\nMore recently, historians like **Bryan Ward-Perkins** have pushed back, pointing to archaeological evidence of real material decline in the West after 400: smaller cattle, cruder pottery, fewer coins and much less building. For ordinary people, he argued, the end of Roman order was a genuine catastrophe. Both views capture part of the truth."
+    },
+    {
+      "type": "text",
+      "heading": "Not just Rome",
+      "md": "Other great empires faced similar pressures:\n\n- **Han China** fragmented after the **Yellow Turban Rebellion** of 184 CE, a peasant uprising fuelled by famine, inequality and court corruption. Warlords carved up the empire, which formally ended in 220 CE.\n- **The Mughal Empire** in India reached its greatest extent under **Aurangzeb**, who died in **1707**. Afterwards, costly wars, succession struggles, the rise of the Marathas and regional powers, and later the expansion of the British East India Company eroded its power.\n- **The Mongol Empire**, the largest contiguous land empire in history, split into four rival khanates within about two generations of Genghis Khan’s death, partly because of disputes over succession."
+    },
+    {
+      "type": "text",
+      "heading": "An ancient theory of rise and fall",
+      "md": "In the 14th century, the North African scholar **Ibn Khaldun** proposed a theory of dynastic cycles in his *Muqaddimah*. Groups from tough frontier conditions, he argued, possess strong **asabiyyah**: group solidarity and cohesion. This lets them conquer settled states. But after a few generations of luxury and city life, the ruling group loses its cohesion, becomes dependent on mercenaries and heavy taxation, and is eventually overthrown by a new group with stronger solidarity. Ibn Khaldun’s ideas are often cited as an early form of sociology and economic thought."
+    },
+    {
+      "type": "steps",
+      "title": "Factors that commonly weaken empires",
+      "items": [
+        "**Succession crises**: no reliable way to transfer power peacefully, leading to civil war.",
+        "**Fiscal strain**: military and administrative costs exceeding what taxes can sustainably raise.",
+        "**Overextension**: borders too long to defend with slow communications.",
+        "**Elite competition and corruption**: powerful families serving themselves rather than the state.",
+        "**External shocks**: invasions, pandemics, climate shifts.",
+        "**Loss of legitimacy**: when subjects stop believing the regime deserves loyalty, as the Politics region explores."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Are there lessons here for modern states?",
+      "md": "Historians are cautious about drawing direct lessons, because modern states differ hugely from ancient empires: they have elections, industrial economies, modern medicine and global institutions. But some themes recur: the importance of **peaceful transfers of power**, of **fiscal sustainability**, of **institutions** that outlast individual rulers, and of resilience against shocks like pandemics. Comparing past and present can sharpen questions, as long as we resist the temptation to claim history simply repeats itself."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **Western Roman Empire** ended in **476 CE**; the **Eastern (Byzantine)** Empire lasted until **1453**.",
+        "Historians have proposed over **200** explanations; most now stress **multiple interacting causes**.",
+        "Key pressures: **invasions and migrations**, **civil wars**, **economic strain**, **pandemics and climate** and **overstretch**.",
+        "The **Late Antiquity** view stresses transformation; others, like **Ward-Perkins**, stress real material decline.",
+        "**Han China**, the **Mughals** and the **Mongols** faced comparable pressures.",
+        "**Ibn Khaldun** theorised that dynasties rise and fall with group solidarity (**asabiyyah**)."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "How great powers decline is one of history’s most enduring questions, and it shapes how people today interpret their own countries’ challenges. Learning to resist single-cause explanations is valuable far beyond history: in politics, economics and personal life, big outcomes usually have many interacting causes. The next lessons explore what connected these empires to each other: trade."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do historians disagree about why the Western Roman Empire fell, and what general factors seem to weaken empires?"
+  }
+}

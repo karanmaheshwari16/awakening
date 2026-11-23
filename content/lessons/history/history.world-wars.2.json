@@ -1,0 +1,82 @@
+{
+  "id": "history.world-wars.2",
+  "region": "history",
+  "topic": "world-wars",
+  "level": 2,
+  "prerequisites": [
+    "history.world-wars.1"
+  ],
+  "title": "World War II and the World It Made",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **26 June 1945**, in San Francisco, representatives of **50 nations** signed the **Charter of the United Nations**, while fighting still raged in the Pacific. Its preamble begins with a determination to “save succeeding generations from the scourge of war, which twice in our lifetime has brought untold sorrow to mankind”.\n\nThe people who wrote it had lived through both world wars. The second had just killed somewhere around **70 to 85 million** people, the deadliest conflict in human history, and had included a systematic attempt to murder an entire people. The world they built afterwards, with its international institutions, human rights declarations and rival superpowers, is in many ways still the world we live in."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "World War II grew out of the unresolved aftermath of World War I:\n\n- **The Treaty of Versailles (1919)** forced Germany to accept blame for the war, give up territory, limit its military and pay large reparations. Many Germans saw it as a humiliation. Historians debate how harsh it really was, but it was widely resented.\n- **The Great Depression**, starting in **1929**, caused mass unemployment worldwide. Desperation made extreme political movements more appealing.\n- **Fascism and militarism** rose: **Benito Mussolini** took power in Italy in 1922; **Adolf Hitler** and the Nazi Party in Germany in **1933**; military leaders gained growing control in Japan.\n- **Aggression went unchecked.** Japan invaded Manchuria in 1931 and launched a full-scale war against China in **1937**. Italy invaded Ethiopia in 1935. Germany rearmed, remilitarised the Rhineland, annexed Austria and took Czechoslovakia. Britain and France, desperate to avoid another war, pursued **appeasement**, most famously at the Munich Agreement in 1938.\n\nOn **1 September 1939**, Germany invaded **Poland**. Britain and France declared war two days later. In Asia, war between Japan and China was already two years old."
+    },
+    {
+      "type": "text",
+      "heading": "A truly global war",
+      "md": "- **1939–40**: Germany conquered Poland, then Denmark, Norway, the Netherlands, Belgium and France with startling speed. Britain fought on, surviving the aerial **Battle of Britain**.\n- **June 1941**: Germany invaded the **Soviet Union**, opening the largest and deadliest front of the war. The Soviet Union lost an estimated **25 million** or more people, more than any other country.\n- **December 1941**: Japan attacked the US naval base at **Pearl Harbor** and swept across Southeast Asia and the Pacific. The United States entered the war.\n- **1942–43**: The tide turned with Allied victories at **Stalingrad**, **El Alamein** and **Midway**.\n- **1944**: Allied forces landed in Normandy on **D-Day**, 6 June. Soviet forces advanced from the east. In Asia, British and Indian forces defeated a Japanese invasion of India at **Imphal and Kohima**.\n- **1945**: Germany surrendered on **8 May**. After the United States dropped atomic bombs on **Hiroshima (6 August)** and **Nagasaki (9 August)**, and the Soviet Union declared war on Japan, Japan announced its surrender on **15 August**."
+    },
+    {
+      "type": "text",
+      "heading": "The Holocaust",
+      "md": "At the centre of Nazi ideology was racism, especially antisemitism. After taking power, the Nazis stripped Jews of their rights. During the war, they carried out the **Holocaust**: the systematic, state-organised murder of around **six million Jews**, about two-thirds of Europe’s Jewish population.\n\nVictims were shot in mass executions or murdered in extermination camps like **Auschwitz-Birkenau**, where gas chambers were used to kill on an industrial scale. The Nazis also murdered millions of others, including **Roma** people, disabled people, Soviet prisoners of war, Polish civilians and political opponents.\n\nThe Holocaust is among the most thoroughly documented events in history, through Nazi records, survivor testimony, physical evidence and the post-war trials. It led directly to the legal concept of **genocide**, defined by the lawyer Raphael Lemkin and made an international crime by a UN convention in 1948."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "India in the Second World War",
+      "md": "Over **2.5 million** Indians served in the British Indian Army, the largest volunteer army in history, fighting in North Africa, Italy, the Middle East and Southeast Asia. At the same time, Indian nationalists were divided: the Congress launched the **Quit India** movement in 1942, demanding immediate independence, while **Subhas Chandra Bose** led the Indian National Army alongside Japan. In **1943**, the **Bengal famine** killed an estimated **2 to 3 million** people. Historians debate the causes, including crop failure, the loss of rice imports from Japanese-occupied Burma and wartime policies, but most agree that British colonial authorities’ responses made it far worse."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the period between the wars as a building whose foundations were badly repaired after an earthquake. The 1919 settlement left many grievances; then the Depression struck like a second tremor. Instead of strengthening the structure, the institutions meant to keep peace, like the League of Nations, proved too weak to stop aggressors. When the next shock came, the whole structure fell."
+    },
+    {
+      "type": "steps",
+      "title": "The world the war made",
+      "items": [
+        "**The United Nations** (1945) replaced the failed League of Nations, with a Security Council in which five major powers hold vetoes.",
+        "**The Universal Declaration of Human Rights** (1948), drafted by a committee chaired by **Eleanor Roosevelt**, set out rights belonging to every person. India’s **Hansa Mehta** helped change its wording from “all men are born free and equal” to “all **human beings**”.",
+        "**New economic institutions** came from the 1944 **Bretton Woods** conference: the International Monetary Fund and the World Bank.",
+        "**Decolonisation** accelerated: exhausted European powers lost their grip on empires. **India** and **Pakistan** became independent in **1947**, amid the violence of Partition. Many countries in Asia and Africa followed over the next two decades.",
+        "**The Cold War**: the United States and the Soviet Union emerged as rival superpowers with competing ideologies, dividing Europe and much of the world for over four decades, under the threat of nuclear weapons.",
+        "**European integration**: former enemies began building economic links that eventually became the European Union, partly to make another war between them unthinkable."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Was dropping the atomic bombs necessary to end the war?",
+      "md": "This remains one of history’s most debated questions. Supporters argued the bombs ended the war quickly and avoided a planned invasion of Japan that could have cost hundreds of thousands, perhaps millions, of American and Japanese lives. Critics argue Japan was already close to surrender, that the Soviet declaration of war was equally decisive, that the targets were overwhelmingly civilian, and that the bombs were partly meant to impress the Soviet Union. The bombings killed an estimated **110,000 to 210,000** people by the end of 1945, many from burns and radiation. Historians continue to weigh the evidence, and the moral questions remain contested."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Versailles**, the **Great Depression**, the rise of **fascism and militarism** and unchecked **aggression** led to war.",
+        "War began in Asia with Japan’s invasion of China (**1937**) and in Europe with Germany’s invasion of Poland (**1 September 1939**).",
+        "Around **70–85 million** people died; the **Soviet Union** suffered the greatest losses.",
+        "In the **Holocaust**, the Nazis murdered around **six million Jews** and millions of others.",
+        "Over **2.5 million** Indians served; the **Bengal famine** killed **2–3 million**.",
+        "The war ended in **1945**, after the atomic bombings of **Hiroshima** and **Nagasaki**.",
+        "It produced the **UN**, the **Universal Declaration of Human Rights**, **Bretton Woods** institutions, **decolonisation**, the **Cold War** and **European integration**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The Second World War shaped the international order, borders, institutions and many national identities of the world today. Understanding it, including the Holocaust and the war’s global reach beyond Europe, helps you recognise warning signs like dehumanising propaganda, the erosion of rights and the failure of institutions to restrain aggression. Its lessons connect directly to the Politics, Democracy and Law regions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what conditions after World War I helped lead to World War II, and how did the war reshape the world that followed?"
+  }
+}

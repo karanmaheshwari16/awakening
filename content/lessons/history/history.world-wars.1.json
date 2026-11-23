@@ -1,0 +1,79 @@
+{
+  "id": "history.world-wars.1",
+  "region": "history",
+  "topic": "world-wars",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The War to End All Wars",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **28 June 1914**, in the city of Sarajevo, a 19-year-old Bosnian Serb named **Gavrilo Princip** shot and killed **Archduke Franz Ferdinand**, heir to the throne of Austria-Hungary, and his wife Sophie. The assassination almost failed: an earlier bomb attempt that morning had missed, and Princip only got his chance because the archduke’s driver took a wrong turn and stalled the car right in front of him.\n\nWithin about five weeks, most of Europe’s great powers were at war. Over the next four years, around **20 million** soldiers and civilians would die, four empires would collapse and the map of the world would be redrawn. How could one shot in a Balkan city lead to that?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The assassination was the **trigger**, not the full cause. Historians often summarise the deeper causes with four factors, sometimes remembered as **MAIN**:\n\n- **Militarism**: European powers had built up huge armies and navies, and military planners had detailed plans requiring rapid mobilisation. Britain and Germany were locked in a naval arms race.\n- **Alliances**: Europe was divided into two blocs. The **Triple Entente** (France, Russia, Britain) faced the **Central Powers** (Germany and Austria-Hungary, later joined by the Ottoman Empire and Bulgaria).\n- **Imperialism**: competition for colonies and influence had created rivalries and crises around the world.\n- **Nationalism**: intense national pride, and nationalist movements among peoples ruled by empires, like Serbs and other South Slavs within Austria-Hungary.\n\nMAIN is a helpful starting point but a simplification. Historians still debate how much responsibility lies with particular governments, especially Germany and Austria-Hungary, and how much the war resulted from decisions by leaders who misjudged each other."
+    },
+    {
+      "type": "steps",
+      "title": "The July Crisis: five weeks to war",
+      "items": [
+        "**28 June**: Franz Ferdinand is assassinated. Austria-Hungary blames Serbia.",
+        "**Early July**: Germany assures Austria-Hungary of its full support, sometimes called the “**blank cheque**”.",
+        "**23 July**: Austria-Hungary sends Serbia a harsh ultimatum, designed to be hard to accept. Serbia accepts most, but not all, of the demands.",
+        "**28 July**: Austria-Hungary declares war on Serbia. Russia, which saw itself as Serbia’s protector, begins mobilising its army.",
+        "**1–3 August**: Germany declares war on Russia and then France. Its war plan, a version of the **Schlieffen Plan**, requires attacking France quickly through neutral **Belgium**.",
+        "**4 August**: Germany invades Belgium. Britain, committed to defending Belgian neutrality, declares war on Germany. A regional crisis has become a continental war."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of pre-war Europe as a set of mountaineers roped together on a steep slope, each roped to allies for safety. The ropes make each climber feel more secure. But when one slips, the ropes drag the others down with them. The alliance system was meant to deter war by making it too dangerous; instead, once a crisis began, it pulled everyone in."
+    },
+    {
+      "type": "text",
+      "heading": "Stalemate in the trenches",
+      "md": "Most leaders expected a short war, “over by Christmas”. Instead, after the German advance into France was halted at the **Battle of the Marne** in September 1914, both sides dug in. A line of **trenches** soon stretched about **700 kilometres** from the Belgian coast to Switzerland: the **Western Front**.\n\nDefensive technology had overtaken offensive tactics. **Machine guns**, rapid-firing artillery and **barbed wire** made attacking across open ground (“no man’s land”) extraordinarily deadly. On the first day of the **Battle of the Somme**, **1 July 1916**, the British Army suffered about **57,000** casualties, including around **19,000** killed, the bloodiest day in its history. Battles lasted months and gained only a few kilometres.\n\nBoth sides tried new weapons to break the deadlock: **poison gas** (first used on a large scale by Germany in 1915), **tanks** (introduced by Britain in 1916) and **aircraft**, first for scouting and later for combat and bombing."
+    },
+    {
+      "type": "text",
+      "heading": "A world war",
+      "md": "The war spread far beyond Europe. Fighting took place in the Middle East, Africa, Asia and at sea. Colonial empires drew in soldiers and labourers from around the world.\n\n**India** made one of the largest contributions: around **1.3 million** Indian soldiers and labourers served overseas, fighting in France, Mesopotamia, East Africa and at Gallipoli, and over **70,000** died. Many Indians expected that such sacrifice would be rewarded with greater self-government after the war. When it wasn’t, disappointment fuelled the independence movement, especially after the **Jallianwala Bagh massacre** in Amritsar in 1919."
+    },
+    {
+      "type": "text",
+      "heading": "The turning points",
+      "md": "**1917** changed the war. In April, the **United States** entered on the Allied side, angered by German submarine attacks on shipping and a German proposal to Mexico for an alliance against the US (the **Zimmermann Telegram**). Later that year, the **Russian Revolution** led Russia’s new Bolshevik government to make peace with Germany in early 1918.\n\nGermany launched a massive offensive in spring 1918 but couldn’t break through. With American troops arriving in large numbers, its allies collapsing and its population exhausted by a naval blockade, Germany agreed to an **armistice**. The fighting stopped at **11 a.m. on 11 November 1918**."
+    },
+    {
+      "type": "reveal",
+      "prompt": "The war ended in 1918, but another killer was already spreading. What was it?",
+      "md": "The **1918 influenza pandemic**, often misleadingly called the “Spanish flu” because neutral Spain’s uncensored press reported on it openly while warring nations suppressed news. Between 1918 and 1920, it infected perhaps a third of the world’s population and killed an estimated **50 million** people or more, probably more than the war itself. Troop movements and crowded camps helped spread it. **India** suffered terribly, with deaths often estimated at around **12 to 20 million**, possibly the highest toll of any country."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The assassination of **Franz Ferdinand** (28 June 1914) triggered a crisis rooted in **militarism, alliances, imperialism and nationalism**.",
+        "Within five weeks, alliance commitments and war plans drew most of Europe into war; Germany’s invasion of **Belgium** brought in Britain.",
+        "The **Western Front** became a trench **stalemate**; the first day of the **Somme** cost Britain about **57,000** casualties.",
+        "New weapons included **machine guns, poison gas, tanks** and **aircraft**.",
+        "About **1.3 million** Indians served overseas; disappointment afterwards fuelled the independence movement.",
+        "**US entry** and the **Russian Revolution** (1917) shaped the end; the armistice came on **11 November 1918**.",
+        "Around **20 million** died in the war; the **1918 flu** killed even more."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "World War I destroyed four empires (German, Austro-Hungarian, Russian and Ottoman), redrew the maps of Europe and the Middle East, sparked the Russian Revolution and strengthened independence movements across the colonised world. Many of today’s borders and conflicts trace back to it. It’s also a sobering case study in how leaders, each acting in what they believed was their nation’s interest, can stumble together into catastrophe."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did a single assassination in 1914 lead to a world war, and why did the fighting on the Western Front become a deadly stalemate?"
+  }
+}

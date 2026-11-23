@@ -1,0 +1,82 @@
+{
+  "id": "history.empires.1",
+  "region": "history",
+  "topic": "empires",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Empires Were Built",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Around **261 BCE**, the Mauryan emperor **Ashoka** conquered the kingdom of Kalinga, on India’s eastern coast. By his own account, carved into stone, around **100,000** people were killed and many more deported. The scale of suffering seems to have shaken him deeply.\n\nAshoka didn’t give up his empire, which covered most of the Indian subcontinent. But he changed how he ruled it. He had messages carved on rocks and pillars across his realm, promoting **dhamma**: moral conduct, tolerance between religious groups, kindness to animals and fair treatment by officials. Some of those inscriptions still stand today. His story raises the central question of this lesson: how do you hold an enormous, diverse empire together?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "An **empire** is a large state that rules over many different peoples and territories, usually acquired by conquest, with a central power dominating outlying regions. Empires have been among the most common forms of large-scale political organisation in history.\n\nSeveral major empires rose in the period historians sometimes call **classical antiquity**, roughly 600 BCE to 600 CE:\n\n- **The Achaemenid Persian Empire** (from about 550 BCE), founded by **Cyrus the Great**, stretching from Egypt and Anatolia to the Indus.\n- **The Maurya Empire** in India (about 321–185 BCE), founded by **Chandragupta Maurya**.\n- **The Qin and Han dynasties** in China, after the **Qin** unified China in **221 BCE**.\n- **The Roman Empire**, which grew from a city-state republic to rule the entire Mediterranean world.\n\nConquering territory was the easy part. The hard part was **keeping** it, across distances where a message might take weeks to travel, among peoples with different languages, religions and customs."
+    },
+    {
+      "type": "text",
+      "heading": "Tool 1: roads and communication",
+      "md": "Empires depended on moving armies, officials, taxes and information quickly. The Persians built the **Royal Road**, around **2,700 kilometres** long, with relay stations where royal messengers could change horses. The Greek historian Herodotus admired them, and his description later inspired the unofficial motto of the US postal service: neither snow nor rain stops these couriers.\n\nRome built a vast network of roads, eventually hundreds of thousands of kilometres in total, including tens of thousands of kilometres of paved highways, many still visible today. The Mauryas maintained a major road across northern India, and China’s rulers built roads and canals linking their realm."
+    },
+    {
+      "type": "text",
+      "heading": "Tool 2: standardisation and bureaucracy",
+      "md": "After the Qin unified China in 221 BCE, the first emperor, **Qin Shi Huang**, standardised the **written script**, **weights and measures**, **coinage** and even the width of **cart axles**, so wagons could use the same ruts. The written script in particular helped hold China together for over two thousand years, because people speaking very different dialects could read the same characters.\n\nThe following **Han dynasty** developed an educated bureaucracy, and later Chinese dynasties increasingly selected officials through examinations testing knowledge of Confucian classics, an early form of merit-based government service.\n\nPersia divided its empire into provinces called **satrapies**, each run by a governor (a satrap), with separate officials reporting to the king to keep governors in check. Indian sources on Mauryan government, such as the **Arthashastra**, traditionally linked to Chandragupta’s adviser Kautilya, describe detailed systems of taxation, administration and espionage, though scholars debate how closely it reflects actual practice."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of running an empire like running a franchise chain across many countries. Head office can’t do everything directly, so it needs local managers (governors), standard procedures (laws, weights, money), reliable logistics (roads), regular reports (bureaucracy) and a brand that local customers accept (ideology). Lose control of any of these and the franchise starts breaking away."
+    },
+    {
+      "type": "text",
+      "heading": "Tool 3: co-opting local elites and tolerating difference",
+      "md": "Ruling by force alone is expensive. Successful empires often left local customs, religions and leaders in place, as long as they paid taxes and stayed loyal.\n\n**Cyrus the Great** is remembered for allowing conquered peoples to keep their customs and religions. The Hebrew Bible praises him for permitting exiled Jews to return from Babylon to Jerusalem. A clay cylinder from his reign describes restoring temples and returning displaced peoples; it’s sometimes described as an early human rights charter, though historians caution that it’s also royal propaganda in a traditional Mesopotamian style.\n\nRome gradually extended **citizenship** to more of its subjects, culminating in **212 CE**, when the emperor Caracalla granted citizenship to almost all free men in the empire. Being Roman became a legal identity rather than an ethnic one, binding provincial elites to the system."
+    },
+    {
+      "type": "text",
+      "heading": "Tool 4: ideology and legitimacy",
+      "md": "Empires needed people to accept their rule as **legitimate**, connecting to what you’ll study in the Politics region. Chinese emperors claimed the **Mandate of Heaven**: the right to rule, granted by heaven to a just ruler and withdrawn from a corrupt one, which conveniently also explained why dynasties fell. Roman emperors were honoured with religious cults. Ashoka’s dhamma inscriptions presented him as a moral, caring ruler."
+    },
+    {
+      "type": "steps",
+      "title": "The darker side of empire",
+      "items": [
+        "Empires were built through **conquest**, often involving mass killing, as Ashoka’s own inscriptions admit about Kalinga.",
+        "Many relied heavily on **slavery**. Rome, in particular, had millions of enslaved people, many captured in war.",
+        "Conquered peoples were **taxed** to support the centre, and revolts were often crushed brutally.",
+        "Some empires deliberately **moved populations** to break local resistance, as the Assyrians and Persians did.",
+        "At the same time, empires spread trade, technologies, languages and religions over huge areas and sometimes brought long periods of relative peace. Historians weigh these against the costs differently, and the people who lived through them would have disagreed too."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Rome and Han China existed at the same time and were roughly similar in size and population. Did they know about each other?",
+      "md": "Only vaguely. Each knew of a distant, wealthy empire at the other end of the trade routes. Romans prized Chinese **silk** and called the Chinese the “Seres”. Chinese records describe a great western land called **Da Qin**, and record that envoys claiming to come from its ruler arrived in **166 CE**, though they may have been merchants. Goods passed through many intermediaries, like the Parthians in Persia and traders in India, who had good reasons to keep the two ends apart and profit as middlemen. The two greatest empires of their age never had sustained direct contact."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "An **empire** is a large state ruling many peoples and territories, usually gained by conquest.",
+        "Major classical empires: **Achaemenid Persia**, the **Maurya** Empire, **Qin and Han** China and **Rome**.",
+        "Key tools: **roads and communication**, **standardisation and bureaucracy**, **co-opting local elites** and **ideology**.",
+        "**Qin Shi Huang** standardised script, weights, coins and axles; Persia used **satrapies**.",
+        "**Cyrus** tolerated local religions; Rome extended **citizenship** in **212 CE**; **Ashoka** promoted **dhamma** after Kalinga.",
+        "Empires were also built on **conquest, slavery and taxation** of subject peoples."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The empires of antiquity shaped languages, religions, legal systems and borders that still matter today, from Roman law in Europe to written Chinese and Ashoka’s lion capital, which is now India’s national emblem. Understanding how they worked also illuminates modern questions: how to govern diverse populations, how much to centralise and what makes authority accepted. Next, you’ll explore the other side: why even the mightiest empires eventually fall."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what tools did ancient empires use to hold vast, diverse territories together, and why was force alone usually not enough?"
+  }
+}

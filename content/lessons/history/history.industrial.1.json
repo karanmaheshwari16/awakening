@@ -1,0 +1,78 @@
+{
+  "id": "history.industrial.1",
+  "region": "history",
+  "topic": "industrial",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Industrial Revolution",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "For almost all of human history, the average person was roughly as poor as their great-great-grandparents. Economies grew slowly, if at all, and gains were usually eaten up by population growth. Then, starting in Britain in the late 1700s, something unprecedented happened. Output per person began rising, and kept rising, generation after generation.\n\nPlot average income over the last 2,000 years and the graph looks like a **hockey stick**: almost flat for nearly two millennia, then shooting upward in the last two centuries. The turning point is the **Industrial Revolution**, probably the most important change in human life since farming."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The **Industrial Revolution** was the shift from economies based on farming and handcrafts to ones based on **machines**, **factories** and **fossil fuel energy**. It began in Britain, roughly between **1760 and 1840**, and later spread across Europe, North America, Japan and eventually most of the world.\n\nIts core was a shift in **energy**. Before it, almost all work was powered by human and animal muscle, plus wind, water and wood. Industrialisation tapped into **coal**, a vast store of ancient energy, and used it to power machines doing work that once required thousands of hands."
+    },
+    {
+      "type": "text",
+      "heading": "Three revolutions in one",
+      "md": "**Textiles.** Spinning and weaving cloth had been done by hand for millennia. A wave of inventions mechanised the process: the **spinning jenny** (1764), Richard Arkwright’s **water frame** (1769), and later the **power loom**. A single machine could do the work of dozens of spinners. Production moved from homes into **factories**, where workers tended machines on fixed schedules.\n\n**Steam power.** **Thomas Newcomen** built a steam engine in **1712** to pump water out of mines. It was wasteful, burning lots of coal. In **1769**, **James Watt** patented a crucial improvement, a separate condenser, which made engines far more efficient. Steam engines soon powered factories, then **railways** (the first public steam railway opened between Stockton and Darlington in 1825) and steamships.\n\n**Iron and coal.** Smelting iron with coke (processed coal) instead of charcoal made iron cheap and plentiful, feeding the machines, bridges, rails and engines of the new economy."
+    },
+    {
+      "type": "steps",
+      "title": "How a steam engine turns heat into motion",
+      "items": [
+        "Burning coal heats water in a boiler, turning it into **steam**, which takes up far more space than water.",
+        "The expanding steam pushes a **piston** along a cylinder.",
+        "In Watt’s design, the steam is then sent to a **separate condenser**, where it is cooled back into water, creating a partial vacuum that helps pull the piston back.",
+        "Because the main cylinder stays hot instead of being cooled every stroke, far less fuel is wasted.",
+        "The piston’s back-and-forth motion is converted into **rotating** motion by gears or a crank, which can drive machinery, wheels or pumps.",
+        "The key idea: heat energy from burning coal becomes mechanical energy, on a scale no human or animal could match. You’ll explore energy conversion more in the Physics region."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why Britain?",
+      "md": "This is one of history’s great debates. Explanations include:\n\n- **Cheap, accessible coal**, often located near the surface and close to waterways.\n- **High wages and cheap energy**: the economic historian **Robert Allen** argues that because British labour was relatively expensive and coal relatively cheap, it paid to invent machines that replaced workers with fuel. In places with cheap labour, the same machines weren’t profitable.\n- **Institutions**: relatively secure property rights, patents and a political system that, after the late 1600s, constrained the monarchy.\n- **Science and culture**: a lively culture of experiment, practical tinkering and scientific societies, sometimes called the **Industrial Enlightenment**.\n- **Empire and trade**: access to overseas markets, raw materials like cotton grown by enslaved people in the Americas, and profits from colonial trade. How important these were is hotly debated.\n\nMost historians think several of these combined, rather than any single one."
+    },
+    {
+      "type": "text",
+      "heading": "India: from leading producer to importer",
+      "md": "Before industrialisation, India was one of the world’s great manufacturing centres. Its fine cotton textiles, like muslins from Bengal and calicoes, were prized across the world. One widely cited estimate by the economic historian Paul Bairoch suggests India produced roughly a **quarter** of the world’s manufactured goods around 1750.\n\nBritish factory-made cloth eventually undercut hand-woven Indian textiles. At the same time, British colonial rule, which expanded after 1757, imposed policies favouring British goods. By the late 1800s, India had become a major importer of British cloth and an exporter of raw cotton. Historians debate how much this **deindustrialisation** was caused by colonial policy versus mechanised competition that would have hurt handloom weavers anywhere; most see both as important."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of pre-industrial economies as people pushing a heavy cart by hand. Each improvement, a better wheel here, a smoother road there, helps a little. The Industrial Revolution was like attaching an engine. Suddenly, the cart could carry far more, far faster, and keep accelerating as engines improved."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Did the Industrial Revolution make workers better off?",
+      "md": "Not at first, and historians still debate how long it took. Early factory work involved long hours, often 12 to 14 a day, dangerous machines and widespread **child labour**. Industrial cities were crowded and polluted, and life expectancy in places like Manchester was very low. Some economists describe an “**Engels’ pause**” (named after Friedrich Engels, who wrote about workers’ conditions in 1845), when output grew rapidly but ordinary wages barely rose, roughly in the decades before 1840. Over the longer term, living standards rose dramatically. Reforms like Britain’s **Factory Act of 1833**, which restricted child labour in textile mills, came through campaigning and political pressure."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **Industrial Revolution** began in Britain around **1760–1840**, shifting economies to **machines, factories and fossil fuels**.",
+        "Key changes: mechanised **textiles**, **steam power** (Newcomen 1712, Watt’s improvement 1769) and cheap **iron and coal**.",
+        "It began the **hockey stick** of sustained growth in income per person.",
+        "Explanations for Britain include **cheap coal**, **high wages**, **institutions**, **science culture** and **empire**.",
+        "India went from a major textile producer to an importer under mechanised competition and **colonial policy**.",
+        "Early industrial workers faced harsh conditions; living standards rose substantially only later."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The Industrial Revolution created the modern world: its wealth, its cities, its technologies and also its pollution and its dependence on fossil fuels. Understanding it helps you make sense of global inequality, climate change and debates about automation today, which echo the anxieties of handloom weavers watching machines replace their craft. The next lesson follows the revolution as it spread across the world."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what changed during the Industrial Revolution, and why do historians think it began in Britain rather than somewhere else?"
+  }
+}

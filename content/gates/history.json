@@ -5,7 +5,11 @@
     "tier": 1,
     "title": "From Seed to State",
     "question": "Trace a chain of cause and effect from the first farming villages to the first cities and rulers. What did farming make possible that hunting and gathering didn’t, and what new problems came with it?",
-    "links": ["farming", "first-cities", "empires"],
+    "links": [
+      "farming",
+      "first-cities",
+      "empires"
+    ],
     "model_answer": "Farming produced a **surplus**: more food than the farmers themselves needed, which could be stored. Stored food allowed people to stay in one place all year, and populations grew much larger than foraging could support.\n\nWith a surplus, not everyone had to produce food. Some people could specialise as craftspeople, priests, traders, soldiers and administrators. Large settled groups needed ways to organise: to store and share grain, settle disputes and defend land. Over time, villages grew into towns and then cities, and leaders emerged who controlled the surplus. Record-keeping to track grain and taxes is one of the reasons writing developed in places like Mesopotamia.\n\nThe new problems were real. Control of land and stored food led to inequality between rich and poor, and to conflict and war between settlements. Crowded living helped diseases spread. Many people worked harder for a less varied diet. Civilisation brought great achievements, but also new forms of power over other people.",
     "key_points": [
       "Farming created a storable surplus.",
@@ -13,6 +17,27 @@
       "Surplus allowed specialisation: not everyone had to farm.",
       "Organising large groups led to leaders, administration and (in some places) writing.",
       "New problems: inequality, war over land and food, and disease from crowding."
+    ]
+  },
+  {
+    "id": "history.gate.2",
+    "region": "history",
+    "tier": 2,
+    "title": "Threads Across Time",
+    "question": "Trade routes, empires and industrialisation all connected distant parts of the world. Choose two examples from across history (for instance the Black Death, the Columbian Exchange, Indian textiles or the world wars) and explain how greater connection brought both benefits and serious costs. Who gained, who lost, and what pattern do you see?",
+    "links": [
+      "trade-routes",
+      "industrial",
+      "world-wars",
+      "empires"
+    ],
+    "model_answer": "Greater connection repeatedly brought large overall gains while concentrating costs on particular groups.\n\nThe Columbian Exchange spread American crops like maize, potatoes and chillies across the world, eventually helping to feed billions and transforming cuisines from India to Ireland. But for Indigenous Americans, contact brought smallpox and other diseases that, combined with conquest and forced labour, cut populations by roughly 50 to 90 percent. The plantation economy it created drove the transatlantic slave trade, which forcibly carried about 12.5 million Africans across the Atlantic.\n\nIndustrialisation and global trade made factory-made cloth cheap and contributed to the long-run rise in life expectancy and fall in poverty. But mechanised British textiles, together with colonial policies favouring British goods, undercut India’s handloom industry, which had been one of the world’s great manufacturing centres. Gains flowed largely to industrialising countries, costs to colonised economies and displaced workers.\n\nThe pattern: connection multiplies exchange of goods, ideas, people and germs. Average outcomes often improve over time, but the distribution of gains and losses depends heavily on power. Groups with less power, such as colonised peoples, the enslaved and workers without bargaining rights, have often borne the heaviest costs. Connected systems also spread shocks, as the Black Death along trade routes and the alliance system in 1914 both showed.",
+    "key_points": [
+      "Connection spreads goods, ideas, crops and technology, often raising average living standards over time.",
+      "It also spreads disease and shocks: the Black Death, smallpox in the Americas, alliance chains in 1914.",
+      "Costs fell disproportionately on less powerful groups: Indigenous Americans, enslaved Africans, colonised economies.",
+      "Who gains depends heavily on power, institutions and policy, not just on the connection itself.",
+      "A strong answer uses specific evidence and weighs both gains and costs."
     ]
   }
 ]

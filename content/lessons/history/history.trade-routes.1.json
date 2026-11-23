@@ -1,0 +1,78 @@
+{
+  "id": "history.trade-routes.1",
+  "region": "history",
+  "topic": "trade-routes",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Silk Roads and the Monsoon Seas",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1st century CE, the Roman writer **Pliny the Elder** complained that India, China and Arabia drained the Roman Empire of an enormous sum every year, so that Romans could buy luxuries like silk, spices and perfumes. Whether his numbers were exaggerated or not, archaeologists have found a striking confirmation: hoards of **Roman gold and silver coins** in southern India, especially in Tamil Nadu and Kerala.\n\nThey mark the remains of one of the ancient world’s great trading systems. Ships from Roman Egypt sailed across the Arabian Sea to ports like **Muziris** on the Malabar coast, carrying wine, glass and coins, and returned laden with **black pepper**, gems and textiles. The ancient world was far more connected than most people imagine."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "For thousands of years, long-distance trade linked distant civilisations through two great networks:\n\n- **The Silk Roads**: overland routes across Central Asia, linking China, India, Persia, the Middle East and the Mediterranean.\n- **The Indian Ocean routes**: sea lanes linking East Africa, Arabia, the Persian Gulf, India, Southeast Asia and China.\n\nThe name “Silk Road” was coined only in **1877** by the German geographer **Ferdinand von Richthofen**. It’s misleading in two ways. First, it wasn’t a single road but a shifting web of routes, many branching across deserts and mountain passes. Second, silk was only one of many goods: horses, spices, gems, paper, glass, metals, textiles, ceramics and, unfortunately, enslaved people also travelled these routes."
+    },
+    {
+      "type": "text",
+      "heading": "How the overland trade worked",
+      "md": "Very few traders travelled the whole way. Instead, goods passed through a chain of **intermediaries**: Chinese merchants sold to Central Asian traders, who sold to Persians, who sold to Syrians or Greeks. At each stage, the price rose. **Sogdian** merchants from the region around Samarkand, in present-day Uzbekistan, were especially important as middlemen for centuries.\n\nCaravans of camels, often Bactrian camels with two humps for the harsh deserts, moved between **oasis cities** like Samarkand, Bukhara and Kashgar. These cities grew wealthy and cosmopolitan, full of different languages, religions and foods."
+    },
+    {
+      "type": "text",
+      "heading": "The rhythm of the monsoon",
+      "md": "Sea trade could carry far bulkier goods, more cheaply, than camels. And in the Indian Ocean, it was powered by a remarkable natural engine: the **monsoon**.\n\nMonsoon winds reverse direction with the seasons: blowing from the southwest towards India in summer, and from the northeast back towards Arabia and Africa in winter. Sailors who understood this rhythm could cross the open ocean directly instead of hugging the coast, sailing out on one monsoon and returning on the next. Greek and Roman sources credit a navigator named Hippalus with revealing this to Mediterranean sailors, but Indian and Arab mariners had used the monsoons long before.\n\nOver the centuries, the Indian Ocean became the world’s busiest long-distance trading zone. Merchant communities from many cultures settled in each other’s ports: Arab and Persian traders in India and China, Indian merchants in Southeast Asia and East Africa, and Swahili city-states like **Kilwa** grew rich on trade in gold and ivory."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the Silk Roads as a long chain of local shops passing goods hand to hand across a continent, each adding a markup. Think of the Indian Ocean as a set of seasonal ferries running on a natural timetable, the monsoon, carrying heavy cargo directly between busy port cities. Both moved goods, people and ideas, but at different scales."
+    },
+    {
+      "type": "text",
+      "heading": "Ideas travel too",
+      "md": "Trade routes carried far more than goods. Some of their most important cargoes were **ideas**:\n\n- **Buddhism** spread from India along the Silk Roads into Central Asia and reached China by around the 1st century CE, later spreading to Korea and Japan. Monks and pilgrims walked the same routes as merchants. In the 7th century, the Chinese monk **Xuanzang** travelled overland to India, studied at the great monastic university of **Nalanda**, and returned with hundreds of texts.\n- By sea, Indian religions and culture spread across Southeast Asia, which is why the great temple of **Angkor Wat** in Cambodia was originally dedicated to the Hindu god Vishnu, and why versions of the **Ramayana** are found from Thailand to Indonesia.\n- **Islam** later spread along both land and sea routes, carried by traders and scholars. Today, Indonesia, reached mainly through trade rather than conquest, has the world’s largest Muslim population.\n- **Technologies** travelled: **papermaking**, invented in China, spread westward through Central Asia to the Islamic world by the 8th century, and later to Europe.\n- **Numbers**: the decimal place-value system you met in the Math region travelled from India to the Islamic world and on to Europe."
+    },
+    {
+      "type": "steps",
+      "title": "A pepper corn’s journey",
+      "items": [
+        "Black pepper grows on vines in the hills of **Kerala**, on India’s southwest coast.",
+        "Farmers sell it to merchants at port cities like **Muziris**.",
+        "In the 1st century CE, ships from Roman Egypt, timing their voyages with the monsoon, buy pepper and other goods, paying largely in gold and silver.",
+        "They sail to Red Sea ports, then the goods are carried by camel across the desert to the Nile.",
+        "From there, river boats carry them to Alexandria, and ships carry them across the Mediterranean to Rome.",
+        "By the time the pepper reaches a Roman kitchen, it has crossed thousands of kilometres and passed through many hands, its price multiplied many times along the way. Pepper was so valued that, centuries later, the search for direct access to spices helped drive European voyages around Africa."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "In the early 1400s, China sent enormous fleets across the Indian Ocean. Why did they stop?",
+      "md": "Between **1405 and 1433**, the Ming dynasty sent seven great expeditions under the admiral **Zheng He**, reaching India, Arabia and East Africa. Contemporary accounts describe hundreds of ships and tens of thousands of crew, with some vessels said to be enormous, though modern historians debate how large the biggest ships really were. Then the voyages stopped. Reasons suggested include their huge cost, threats on China’s northern borders, and the influence of court officials who saw the expeditions as wasteful vanity projects. Some historians have wondered how history might have changed had China continued, but such “what-ifs” can’t be tested. Within decades, Portuguese ships arrived in the Indian Ocean from the other direction."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **Silk Roads** were a web of overland routes across Asia; the name dates only from **1877**.",
+        "Goods passed through many **intermediaries**, such as **Sogdian** merchants, rather than travelling end to end.",
+        "**Indian Ocean** trade was powered by the seasonal reversal of **monsoon winds** and became the busiest long-distance trade zone.",
+        "**Roman coins** found in southern India show the scale of trade for spices like **pepper**.",
+        "Trade routes spread **Buddhism**, **Hinduism**, **Islam**, **papermaking** and **numerals**.",
+        "**Zheng He’s** Ming fleets (1405–1433) reached East Africa before China ended the voyages."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Today’s global economy, with goods made in one country and sold in another, often feels new, but long-distance trade has linked civilisations for thousands of years. These routes explain why religions, foods, languages and technologies are spread the way they are today. They also set up the next lesson, which looks at what else travelled along trade routes, including diseases that changed the world."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what were the Silk Roads and the Indian Ocean trade routes, and why were ideas and religions as important as goods in what they carried?"
+  }
+}

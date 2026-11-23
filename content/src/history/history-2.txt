@@ -1,0 +1,267 @@
+##### LESSON
+id: history.empires.2
+title: Why Empires Fall
+minutes: 15
+prereq: history.empires.1
+check: In your own words: why do historians disagree about why the Western Roman Empire fell, and what general factors seem to weaken empires?
+
+=== hook
+In 1984, a German historian named **Alexander Demandt** collected every explanation he could find for the fall of the Western Roman Empire. He counted **210** of them. They ranged from the plausible (invasions, civil wars, economic crisis, plague) to the bizarre (lead poisoning, excessive bathing, homosexuality, even “hyper-civilisation”).
+
+That list is itself a lesson. The fall of Rome is probably the most studied question in history, and historians still don’t fully agree. When something huge happens, people are tempted to find one dramatic cause. Real history is usually messier.
+
+=== core
+The Roman Empire reached its greatest extent around 117 CE, stretching from Britain to Mesopotamia. In the late 200s, it was divided for administrative reasons, and from 395 CE it was permanently split into a **Western** and an **Eastern** half, each with its own emperor.
+
+The **Western Roman Empire** lost territory throughout the 400s to Germanic groups like the Visigoths and Vandals, who sacked Rome itself in **410** and **455**. In **476**, a Germanic general named **Odoacer** deposed the last western emperor, a teenager called Romulus Augustulus. That date is traditionally given as the “fall of Rome”.
+
+But the **Eastern Roman Empire**, with its capital at Constantinople (modern Istanbul), continued for nearly another **thousand years**, until it was conquered by the Ottoman Turks in **1453**. Historians today often call it the **Byzantine Empire**, but its people called themselves Romans.
+
+=== text The main suspects
+Most historians now emphasise a combination of pressures:
+
+**External pressure.** In the late 300s, the **Huns** moved west from Central Asia, pushing Gothic and other peoples across Rome’s borders. Rome increasingly relied on these groups as soldiers and allies, sometimes losing control of them.
+
+**Civil wars and political instability.** In the third century, Rome had dozens of emperors in fifty years, most killed by rivals or their own troops. Energy and resources spent on internal power struggles weren’t available for defending borders.
+
+**Economic strain.** Paying a large army was enormously expensive. Emperors debased the silver currency, reducing its silver content to stretch it further, fuelling inflation. Taxes rose, and trade became harder.
+
+**Disease and climate.** The historian **Kyle Harper** has argued that pandemics, like the **Antonine Plague** (165 CE onwards, possibly smallpox) and the **Plague of Cyprian** (from 249), along with climate shifts, weakened the empire repeatedly. Later, the **Plague of Justinian** (from 541), caused by the same bacterium as the Black Death, struck the Eastern Empire.
+
+**Overstretch.** The empire had very long borders to defend, from the Rhine and Danube to the Syrian desert, with slow communications.
+
+=== callout analogy
+Think of an empire as an old building. A building can stand for centuries despite cracks, leaks and worn foundations. But if several problems pile up at once (a storm, a fire, a failing roof and no money for repairs), it can come down remarkably fast. Afterwards, people argue about which problem “caused” the collapse, when really it was the combination.
+
+=== text Fall, or transformation?
+Edward Gibbon’s famous 18th-century work, *The History of the Decline and Fall of the Roman Empire*, blamed barbarian invasions and, controversially, the spread of Christianity, which he thought sapped civic virtue. Many later historians rejected his reasoning, though not his scholarship.
+
+From the 1970s, historians like **Peter Brown** popularised the idea of **Late Antiquity**: a period of transformation rather than simply decline. Roman law, Latin, Christianity and many institutions continued in the new Germanic kingdoms. The Goths and Franks often saw themselves as heirs to Rome, not its destroyers.
+
+More recently, historians like **Bryan Ward-Perkins** have pushed back, pointing to archaeological evidence of real material decline in the West after 400: smaller cattle, cruder pottery, fewer coins and much less building. For ordinary people, he argued, the end of Roman order was a genuine catastrophe. Both views capture part of the truth.
+
+=== text Not just Rome
+Other great empires faced similar pressures:
+
+- **Han China** fragmented after the **Yellow Turban Rebellion** of 184 CE, a peasant uprising fuelled by famine, inequality and court corruption. Warlords carved up the empire, which formally ended in 220 CE.
+- **The Mughal Empire** in India reached its greatest extent under **Aurangzeb**, who died in **1707**. Afterwards, costly wars, succession struggles, the rise of the Marathas and regional powers, and later the expansion of the British East India Company eroded its power.
+- **The Mongol Empire**, the largest contiguous land empire in history, split into four rival khanates within about two generations of Genghis Khan’s death, partly because of disputes over succession.
+
+=== text An ancient theory of rise and fall
+In the 14th century, the North African scholar **Ibn Khaldun** proposed a theory of dynastic cycles in his *Muqaddimah*. Groups from tough frontier conditions, he argued, possess strong **asabiyyah**: group solidarity and cohesion. This lets them conquer settled states. But after a few generations of luxury and city life, the ruling group loses its cohesion, becomes dependent on mercenaries and heavy taxation, and is eventually overthrown by a new group with stronger solidarity. Ibn Khaldun’s ideas are often cited as an early form of sociology and economic thought.
+
+=== steps Factors that commonly weaken empires
+- **Succession crises**: no reliable way to transfer power peacefully, leading to civil war.
+- **Fiscal strain**: military and administrative costs exceeding what taxes can sustainably raise.
+- **Overextension**: borders too long to defend with slow communications.
+- **Elite competition and corruption**: powerful families serving themselves rather than the state.
+- **External shocks**: invasions, pandemics, climate shifts.
+- **Loss of legitimacy**: when subjects stop believing the regime deserves loyalty, as the Politics region explores.
+
+=== reveal Are there lessons here for modern states?
+Historians are cautious about drawing direct lessons, because modern states differ hugely from ancient empires: they have elections, industrial economies, modern medicine and global institutions. But some themes recur: the importance of **peaceful transfers of power**, of **fiscal sustainability**, of **institutions** that outlast individual rulers, and of resilience against shocks like pandemics. Comparing past and present can sharpen questions, as long as we resist the temptation to claim history simply repeats itself.
+
+=== keypoints
+- The **Western Roman Empire** ended in **476 CE**; the **Eastern (Byzantine)** Empire lasted until **1453**.
+- Historians have proposed over **200** explanations; most now stress **multiple interacting causes**.
+- Key pressures: **invasions and migrations**, **civil wars**, **economic strain**, **pandemics and climate** and **overstretch**.
+- The **Late Antiquity** view stresses transformation; others, like **Ward-Perkins**, stress real material decline.
+- **Han China**, the **Mughals** and the **Mongols** faced comparable pressures.
+- **Ibn Khaldun** theorised that dynasties rise and fall with group solidarity (**asabiyyah**).
+
+=== why
+How great powers decline is one of history’s most enduring questions, and it shapes how people today interpret their own countries’ challenges. Learning to resist single-cause explanations is valuable far beyond history: in politics, economics and personal life, big outcomes usually have many interacting causes. The next lessons explore what connected these empires to each other: trade.
+
+##### LESSON
+id: history.trade-routes.1
+title: The Silk Roads and the Monsoon Seas
+minutes: 14
+check: In your own words: what were the Silk Roads and the Indian Ocean trade routes, and why were ideas and religions as important as goods in what they carried?
+
+=== hook
+In the 1st century CE, the Roman writer **Pliny the Elder** complained that India, China and Arabia drained the Roman Empire of an enormous sum every year, so that Romans could buy luxuries like silk, spices and perfumes. Whether his numbers were exaggerated or not, archaeologists have found a striking confirmation: hoards of **Roman gold and silver coins** in southern India, especially in Tamil Nadu and Kerala.
+
+They mark the remains of one of the ancient world’s great trading systems. Ships from Roman Egypt sailed across the Arabian Sea to ports like **Muziris** on the Malabar coast, carrying wine, glass and coins, and returned laden with **black pepper**, gems and textiles. The ancient world was far more connected than most people imagine.
+
+=== core
+For thousands of years, long-distance trade linked distant civilisations through two great networks:
+
+- **The Silk Roads**: overland routes across Central Asia, linking China, India, Persia, the Middle East and the Mediterranean.
+- **The Indian Ocean routes**: sea lanes linking East Africa, Arabia, the Persian Gulf, India, Southeast Asia and China.
+
+The name “Silk Road” was coined only in **1877** by the German geographer **Ferdinand von Richthofen**. It’s misleading in two ways. First, it wasn’t a single road but a shifting web of routes, many branching across deserts and mountain passes. Second, silk was only one of many goods: horses, spices, gems, paper, glass, metals, textiles, ceramics and, unfortunately, enslaved people also travelled these routes.
+
+=== text How the overland trade worked
+Very few traders travelled the whole way. Instead, goods passed through a chain of **intermediaries**: Chinese merchants sold to Central Asian traders, who sold to Persians, who sold to Syrians or Greeks. At each stage, the price rose. **Sogdian** merchants from the region around Samarkand, in present-day Uzbekistan, were especially important as middlemen for centuries.
+
+Caravans of camels, often Bactrian camels with two humps for the harsh deserts, moved between **oasis cities** like Samarkand, Bukhara and Kashgar. These cities grew wealthy and cosmopolitan, full of different languages, religions and foods.
+
+=== text The rhythm of the monsoon
+Sea trade could carry far bulkier goods, more cheaply, than camels. And in the Indian Ocean, it was powered by a remarkable natural engine: the **monsoon**.
+
+Monsoon winds reverse direction with the seasons: blowing from the southwest towards India in summer, and from the northeast back towards Arabia and Africa in winter. Sailors who understood this rhythm could cross the open ocean directly instead of hugging the coast, sailing out on one monsoon and returning on the next. Greek and Roman sources credit a navigator named Hippalus with revealing this to Mediterranean sailors, but Indian and Arab mariners had used the monsoons long before.
+
+Over the centuries, the Indian Ocean became the world’s busiest long-distance trading zone. Merchant communities from many cultures settled in each other’s ports: Arab and Persian traders in India and China, Indian merchants in Southeast Asia and East Africa, and Swahili city-states like **Kilwa** grew rich on trade in gold and ivory.
+
+=== callout analogy
+Think of the Silk Roads as a long chain of local shops passing goods hand to hand across a continent, each adding a markup. Think of the Indian Ocean as a set of seasonal ferries running on a natural timetable, the monsoon, carrying heavy cargo directly between busy port cities. Both moved goods, people and ideas, but at different scales.
+
+=== text Ideas travel too
+Trade routes carried far more than goods. Some of their most important cargoes were **ideas**:
+
+- **Buddhism** spread from India along the Silk Roads into Central Asia and reached China by around the 1st century CE, later spreading to Korea and Japan. Monks and pilgrims walked the same routes as merchants. In the 7th century, the Chinese monk **Xuanzang** travelled overland to India, studied at the great monastic university of **Nalanda**, and returned with hundreds of texts.
+- By sea, Indian religions and culture spread across Southeast Asia, which is why the great temple of **Angkor Wat** in Cambodia was originally dedicated to the Hindu god Vishnu, and why versions of the **Ramayana** are found from Thailand to Indonesia.
+- **Islam** later spread along both land and sea routes, carried by traders and scholars. Today, Indonesia, reached mainly through trade rather than conquest, has the world’s largest Muslim population.
+- **Technologies** travelled: **papermaking**, invented in China, spread westward through Central Asia to the Islamic world by the 8th century, and later to Europe.
+- **Numbers**: the decimal place-value system you met in the Math region travelled from India to the Islamic world and on to Europe.
+
+=== steps A pepper corn’s journey
+- Black pepper grows on vines in the hills of **Kerala**, on India’s southwest coast.
+- Farmers sell it to merchants at port cities like **Muziris**.
+- In the 1st century CE, ships from Roman Egypt, timing their voyages with the monsoon, buy pepper and other goods, paying largely in gold and silver.
+- They sail to Red Sea ports, then the goods are carried by camel across the desert to the Nile.
+- From there, river boats carry them to Alexandria, and ships carry them across the Mediterranean to Rome.
+- By the time the pepper reaches a Roman kitchen, it has crossed thousands of kilometres and passed through many hands, its price multiplied many times along the way. Pepper was so valued that, centuries later, the search for direct access to spices helped drive European voyages around Africa.
+
+=== reveal In the early 1400s, China sent enormous fleets across the Indian Ocean. Why did they stop?
+Between **1405 and 1433**, the Ming dynasty sent seven great expeditions under the admiral **Zheng He**, reaching India, Arabia and East Africa. Contemporary accounts describe hundreds of ships and tens of thousands of crew, with some vessels said to be enormous, though modern historians debate how large the biggest ships really were. Then the voyages stopped. Reasons suggested include their huge cost, threats on China’s northern borders, and the influence of court officials who saw the expeditions as wasteful vanity projects. Some historians have wondered how history might have changed had China continued, but such “what-ifs” can’t be tested. Within decades, Portuguese ships arrived in the Indian Ocean from the other direction.
+
+=== keypoints
+- The **Silk Roads** were a web of overland routes across Asia; the name dates only from **1877**.
+- Goods passed through many **intermediaries**, such as **Sogdian** merchants, rather than travelling end to end.
+- **Indian Ocean** trade was powered by the seasonal reversal of **monsoon winds** and became the busiest long-distance trade zone.
+- **Roman coins** found in southern India show the scale of trade for spices like **pepper**.
+- Trade routes spread **Buddhism**, **Hinduism**, **Islam**, **papermaking** and **numerals**.
+- **Zheng He’s** Ming fleets (1405–1433) reached East Africa before China ended the voyages.
+
+=== why
+Today’s global economy, with goods made in one country and sold in another, often feels new, but long-distance trade has linked civilisations for thousands of years. These routes explain why religions, foods, languages and technologies are spread the way they are today. They also set up the next lesson, which looks at what else travelled along trade routes, including diseases that changed the world.
+
+##### LESSON
+id: history.trade-routes.2
+title: Germs, Silver and the Columbian Exchange
+minutes: 15
+prereq: history.trade-routes.1
+check: In your own words: what was the Columbian Exchange, what were its biggest effects on both sides of the Atlantic, and why were its consequences so unequal?
+
+=== hook
+Imagine Indian food without chillies, Italian food without tomatoes, Irish history without potatoes, or Thai cooking without peanuts. Before the 1500s, none of these existed, because chillies, tomatoes, potatoes, peanuts and maize all came from the **Americas**, which had been cut off from Europe, Asia and Africa for thousands of years.
+
+Within a few decades after Columbus’s voyage in **1492**, they began spreading around the world. Chillies, brought by Portuguese traders, became central to Indian cuisine so thoroughly that many people assume they are native. But the same exchange that brought new foods also brought catastrophe on a scale almost unmatched in human history.
+
+=== core
+The historian **Alfred Crosby** coined the term **Columbian Exchange** in 1972 to describe the massive transfer of plants, animals, people, diseases and ideas between the Americas and the rest of the world after 1492.
+
+The two sides had developed separately for around 15,000 years, with very different crops, animals and diseases. When contact came, the effects were enormous:
+
+**From the Americas to the rest of the world:** maize, potatoes, sweet potatoes, tomatoes, chillies, cacao (chocolate), vanilla, peanuts, pineapples, tobacco and rubber.
+
+**From Europe, Africa and Asia to the Americas:** wheat, rice, sugar cane, coffee, bananas, citrus fruits, horses, cattle, pigs, sheep and chickens, and, devastatingly, **diseases**.
+
+=== text The great dying
+Indigenous peoples of the Americas had no immunity to diseases like **smallpox**, **measles**, **influenza** and later others, which had circulated for thousands of years in Europe, Asia and Africa, partly because, as the farming lessons explained, those diseases came from long contact with domesticated animals in dense populations.
+
+The results were catastrophic. Epidemics often spread ahead of the Europeans themselves, along Indigenous trade networks. Combined with warfare, enslavement, forced labour, famine and the destruction of societies, the Indigenous population of the Americas is estimated to have fallen by somewhere around **50 to 90%** in the century or so after contact. Estimates vary widely because pre-contact population figures are uncertain, but it was among the deadliest demographic disasters in history.
+
+=== callout caution | Disease wasn’t the only cause
+It’s sometimes said that “germs did it”, as if the catastrophe were simply a natural accident. Historians increasingly stress that disease worked together with deliberate human actions: conquest, massacres, enslavement, forced labour in mines and plantations, and the seizure of land and food, which left survivors weakened and unable to recover. Both natural and human causes mattered.
+
+=== text Disease along older routes: the Black Death
+The Americas weren’t the first place where trade carried disease. In the **1340s**, the **Black Death**, caused by the bacterium *Yersinia pestis*, spread from Central Asia along trade routes to the Black Sea, the Middle East, North Africa and Europe. Between **1346 and 1353**, it killed an estimated **30 to 50%** of Europe’s population, and huge numbers across the Middle East and beyond.
+
+Its cause was debated for centuries; DNA extracted from victims’ teeth in plague pits has now confirmed the bacterium. In Europe, the resulting labour shortages gave surviving workers more bargaining power, and wages rose in many places, one example of how catastrophes can reshape economies.
+
+=== text Sugar, slavery and the Atlantic
+European colonisers in the Americas established **plantations** growing sugar, tobacco, cotton and later coffee, crops that required enormous amounts of labour. With Indigenous populations devastated, they turned to enslaved Africans.
+
+The **transatlantic slave trade**, mainly from the 1500s to the 1800s, forcibly carried an estimated **12.5 million** Africans across the Atlantic; around **10.7 million** survived the brutal voyage, known as the Middle Passage. The trade involved European states and merchants, African rulers and traders who sold captives, and colonial societies throughout the Americas. Its consequences, from population loss in parts of Africa to racism and inequality in the Americas, continue to shape the world.
+
+=== text Silver: the first global economy
+The Spanish discovered vast silver deposits in the Americas, especially at **Potosí**, in present-day Bolivia, where Indigenous workers were forced to labour in dangerous mines under a colonial system called the **mita**.
+
+Much of that silver flowed to **China**, whose huge economy demanded silver for taxes and trade. From **1571**, Spanish **Manila galleons** sailed across the Pacific between Mexico and the Philippines, exchanging American silver for Chinese silk and porcelain. For the first time, regular trade connected all the inhabited continents. Some historians date the beginning of a truly global economy to this moment.
+
+=== steps How the potato changed history
+- The potato was domesticated in the Andes of South America thousands of years ago.
+- It reached Europe in the late 1500s. Initially regarded with suspicion, it eventually spread widely.
+- Potatoes produce far more calories per hectare than grain and grow in cool, poor soils.
+- Some historians argue that potatoes helped fuel population growth in Europe in the 1700s and 1800s, contributing indirectly to the labour force of the Industrial Revolution.
+- But overdependence was dangerous. In Ireland, many poor families relied almost entirely on a single potato variety. When a plant disease struck in **1845**, the resulting **Great Famine**, worsened by British government policy and continued food exports, killed about a million people and drove another million or more to emigrate.
+
+=== reveal Did the Columbian Exchange make the world better or worse?
+It depends enormously on **who** and **when**. New crops eventually helped feed billions of people and transformed cuisines worldwide; maize and potatoes are among the world’s most important crops today. But for Indigenous Americans, contact brought catastrophic population loss and the destruction of societies, and for millions of Africans, it brought enslavement. The gains flowed mostly to some groups, the costs fell heavily on others. Historians generally avoid a simple verdict, and try instead to account for both.
+
+=== keypoints
+- The **Columbian Exchange** (term coined by **Alfred Crosby**, 1972) transferred crops, animals, people and diseases after **1492**.
+- American crops like **maize, potatoes, tomatoes and chillies** transformed diets worldwide.
+- Diseases like **smallpox**, combined with conquest and forced labour, caused Indigenous populations to fall by roughly **50–90%**.
+- The **Black Death** (1346–1353) spread along trade routes and killed **30–50%** of Europe’s population.
+- The **transatlantic slave trade** forcibly carried about **12.5 million** Africans across the Atlantic.
+- American **silver**, especially from **Potosí**, and the **Manila galleons** (from 1571) helped create the first global economy.
+
+=== why
+The Columbian Exchange shaped the world you live in: what’s on your plate, the populations and languages of the Americas, global inequality, and patterns of disease. It also shows how deeply connected biology and history are, and how globalisation has always brought both gains and terrible costs. These themes return in the Biology region, with microbes and the immune system, and in Economics, with trade.
+
+##### LESSON
+id: history.industrial.1
+title: The Industrial Revolution
+minutes: 15
+check: In your own words: what changed during the Industrial Revolution, and why do historians think it began in Britain rather than somewhere else?
+
+=== hook
+For almost all of human history, the average person was roughly as poor as their great-great-grandparents. Economies grew slowly, if at all, and gains were usually eaten up by population growth. Then, starting in Britain in the late 1700s, something unprecedented happened. Output per person began rising, and kept rising, generation after generation.
+
+Plot average income over the last 2,000 years and the graph looks like a **hockey stick**: almost flat for nearly two millennia, then shooting upward in the last two centuries. The turning point is the **Industrial Revolution**, probably the most important change in human life since farming.
+
+=== core
+The **Industrial Revolution** was the shift from economies based on farming and handcrafts to ones based on **machines**, **factories** and **fossil fuel energy**. It began in Britain, roughly between **1760 and 1840**, and later spread across Europe, North America, Japan and eventually most of the world.
+
+Its core was a shift in **energy**. Before it, almost all work was powered by human and animal muscle, plus wind, water and wood. Industrialisation tapped into **coal**, a vast store of ancient energy, and used it to power machines doing work that once required thousands of hands.
+
+=== text Three revolutions in one
+**Textiles.** Spinning and weaving cloth had been done by hand for millennia. A wave of inventions mechanised the process: the **spinning jenny** (1764), Richard Arkwright’s **water frame** (1769), and later the **power loom**. A single machine could do the work of dozens of spinners. Production moved from homes into **factories**, where workers tended machines on fixed schedules.
+
+**Steam power.** **Thomas Newcomen** built a steam engine in **1712** to pump water out of mines. It was wasteful, burning lots of coal. In **1769**, **James Watt** patented a crucial improvement, a separate condenser, which made engines far more efficient. Steam engines soon powered factories, then **railways** (the first public steam railway opened between Stockton and Darlington in 1825) and steamships.
+
+**Iron and coal.** Smelting iron with coke (processed coal) instead of charcoal made iron cheap and plentiful, feeding the machines, bridges, rails and engines of the new economy.
+
+=== steps How a steam engine turns heat into motion
+- Burning coal heats water in a boiler, turning it into **steam**, which takes up far more space than water.
+- The expanding steam pushes a **piston** along a cylinder.
+- In Watt’s design, the steam is then sent to a **separate condenser**, where it is cooled back into water, creating a partial vacuum that helps pull the piston back.
+- Because the main cylinder stays hot instead of being cooled every stroke, far less fuel is wasted.
+- The piston’s back-and-forth motion is converted into **rotating** motion by gears or a crank, which can drive machinery, wheels or pumps.
+- The key idea: heat energy from burning coal becomes mechanical energy, on a scale no human or animal could match. You’ll explore energy conversion more in the Physics region.
+
+=== text Why Britain?
+This is one of history’s great debates. Explanations include:
+
+- **Cheap, accessible coal**, often located near the surface and close to waterways.
+- **High wages and cheap energy**: the economic historian **Robert Allen** argues that because British labour was relatively expensive and coal relatively cheap, it paid to invent machines that replaced workers with fuel. In places with cheap labour, the same machines weren’t profitable.
+- **Institutions**: relatively secure property rights, patents and a political system that, after the late 1600s, constrained the monarchy.
+- **Science and culture**: a lively culture of experiment, practical tinkering and scientific societies, sometimes called the **Industrial Enlightenment**.
+- **Empire and trade**: access to overseas markets, raw materials like cotton grown by enslaved people in the Americas, and profits from colonial trade. How important these were is hotly debated.
+
+Most historians think several of these combined, rather than any single one.
+
+=== text India: from leading producer to importer
+Before industrialisation, India was one of the world’s great manufacturing centres. Its fine cotton textiles, like muslins from Bengal and calicoes, were prized across the world. One widely cited estimate by the economic historian Paul Bairoch suggests India produced roughly a **quarter** of the world’s manufactured goods around 1750.
+
+British factory-made cloth eventually undercut hand-woven Indian textiles. At the same time, British colonial rule, which expanded after 1757, imposed policies favouring British goods. By the late 1800s, India had become a major importer of British cloth and an exporter of raw cotton. Historians debate how much this **deindustrialisation** was caused by colonial policy versus mechanised competition that would have hurt handloom weavers anywhere; most see both as important.
+
+=== callout analogy
+Think of pre-industrial economies as people pushing a heavy cart by hand. Each improvement, a better wheel here, a smoother road there, helps a little. The Industrial Revolution was like attaching an engine. Suddenly, the cart could carry far more, far faster, and keep accelerating as engines improved.
+
+=== reveal Did the Industrial Revolution make workers better off?
+Not at first, and historians still debate how long it took. Early factory work involved long hours, often 12 to 14 a day, dangerous machines and widespread **child labour**. Industrial cities were crowded and polluted, and life expectancy in places like Manchester was very low. Some economists describe an “**Engels’ pause**” (named after Friedrich Engels, who wrote about workers’ conditions in 1845), when output grew rapidly but ordinary wages barely rose, roughly in the decades before 1840. Over the longer term, living standards rose dramatically. Reforms like Britain’s **Factory Act of 1833**, which restricted child labour in textile mills, came through campaigning and political pressure.
+
+=== keypoints
+- The **Industrial Revolution** began in Britain around **1760–1840**, shifting economies to **machines, factories and fossil fuels**.
+- Key changes: mechanised **textiles**, **steam power** (Newcomen 1712, Watt’s improvement 1769) and cheap **iron and coal**.
+- It began the **hockey stick** of sustained growth in income per person.
+- Explanations for Britain include **cheap coal**, **high wages**, **institutions**, **science culture** and **empire**.
+- India went from a major textile producer to an importer under mechanised competition and **colonial policy**.
+- Early industrial workers faced harsh conditions; living standards rose substantially only later.
+
+=== why
+The Industrial Revolution created the modern world: its wealth, its cities, its technologies and also its pollution and its dependence on fossil fuels. Understanding it helps you make sense of global inequality, climate change and debates about automation today, which echo the anxieties of handloom weavers watching machines replace their craft. The next lesson follows the revolution as it spread across the world.

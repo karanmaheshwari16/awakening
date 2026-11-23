@@ -1,0 +1,84 @@
+{
+  "id": "history.industrial.2",
+  "region": "history",
+  "topic": "industrial",
+  "level": 2,
+  "prerequisites": [
+    "history.industrial.1"
+  ],
+  "title": "The Great Divergence and the Making of the Modern World",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1800**, a baby born anywhere in the world could expect, on average, to live to about **30**. The low figure is mostly because so many children died young; adults who survived childhood often lived into their fifties or sixties. Today, global life expectancy at birth is over **70**. In 1800, the large majority of humanity lived in what we would now call extreme poverty. Today, it’s a small minority.\n\nAlmost all of that change happened in the last two centuries, and almost all of it traces back to the spread of industrialisation. But it didn’t spread evenly. For a long time, it made some parts of the world dramatically richer than others, a gap historians call the **Great Divergence**."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Around 1700, the most advanced regions of China, India, Japan and Western Europe had broadly comparable standards of living, according to many historians, though the exact comparisons are debated. By 1900, Western Europe and North America had become far richer than the rest of the world.\n\nThe historian **Kenneth Pomeranz** popularised the term **Great Divergence** in a 2000 book comparing England with the Yangtze Delta region of China. He argued that the two had been surprisingly similar until around 1800, and that England pulled ahead partly because of **coal** located conveniently close to its industries, and access to land and resources in the **Americas**. Other historians argue Europe’s lead started earlier, with differences in institutions, science or culture. The debate continues, but nearly everyone agrees that industrialisation turned modest differences into enormous ones."
+    },
+    {
+      "type": "text",
+      "heading": "The second industrial revolution",
+      "md": "From around **1870 to 1914**, a new wave of innovation transformed economies again:\n\n- **Steel**, made cheaply by new processes, replaced iron for rails, ships, bridges and skyscrapers.\n- **Electricity** powered lights, motors and, eventually, homes. Factories no longer needed to be built around a single steam engine.\n- **Chemicals**: synthetic dyes, fertilisers, explosives and medicines.\n- **Communications**: the telegraph, then the telephone, connected the world almost instantly. An undersea telegraph cable linked Britain and India from 1870.\n- **The internal combustion engine** led to cars and, later, aircraft.\n\nGermany and the United States led much of this wave, overtaking Britain in many industries."
+    },
+    {
+      "type": "text",
+      "heading": "Spreading industrialisation",
+      "md": "Industrialisation spread through borrowing, imitation and deliberate government policy:\n\n- **The United States** combined vast natural resources, a large internal market and immigration to become the world’s largest economy by the late 1800s.\n- **Germany**, unified in 1871, built strong technical education and research-based industries like chemicals.\n- **Japan** offers one of the most striking cases. After the **Meiji Restoration of 1868**, its new leaders deliberately set out to modernise, sending officials abroad to study Western technology and institutions, building railways, factories and a modern army. Within a few decades, Japan was an industrial power.\n- **India** began building cotton mills in Bombay from the 1850s, and the **Tata** family founded India’s first large modern steel works at Jamshedpur in **1907**, though colonial rule limited industrial policy until independence in 1947."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of industrialisation as a new, powerful recipe. Britain stumbled on it first, but once the recipe existed, others could study it, adapt it to their own kitchens and sometimes improve it. Latecomers could skip some of the trial and error, which is why countries like Japan, and later South Korea and China, could industrialise much faster than Britain did."
+    },
+    {
+      "type": "text",
+      "heading": "The new politics of industry",
+      "md": "Industrialisation created a new class of **industrial workers**, crowded into cities and dependent on wages. Their often harsh conditions sparked new movements and ideas:\n\n- **Trade unions** organised workers to bargain collectively for better pay and conditions, often facing legal bans and violent opposition at first.\n- In **1848**, **Karl Marx** and **Friedrich Engels** published *The Communist Manifesto*, arguing that industrial capitalism would inevitably be overthrown by the working class. Their ideas would shape revolutions and political movements worldwide, as you’ll see in the Politics region.\n- Reformers in many countries pushed for laws limiting working hours, banning child labour, and providing education, pensions and public health. Germany under Otto von Bismarck introduced some of the first national social insurance schemes in the 1880s."
+    },
+    {
+      "type": "text",
+      "heading": "The great escape",
+      "md": "Over the long run, the effects on living standards have been extraordinary:\n\n- **Life expectancy**: from around 30 globally in 1800 to over 70 today, driven by better nutrition, clean water, sanitation, vaccines and medicine, all made possible or more affordable by industrial economies.\n- **Child mortality**: in 1800, perhaps over **four in ten** children died before age five worldwide. Today, it’s under **one in twenty**.\n- **Extreme poverty**: by World Bank-based estimates, the share of humanity living in extreme poverty fell from the large majority in 1800 to under **one in ten** today, though measuring this over long periods involves uncertainty.\n- **Literacy**: from roughly one in ten adults in 1800 to over eight in ten today.\n\nThe economist **Angus Deaton** called this “**the great escape**” from poverty and early death. It remains incomplete: hundreds of millions still live in extreme poverty, and the gains have been very unequal."
+    },
+    {
+      "type": "steps",
+      "title": "The hidden cost on the balance sheet",
+      "items": [
+        "Industrialisation runs largely on burning **fossil fuels**: coal, then oil and gas.",
+        "Burning them releases **carbon dioxide** that had been locked underground for millions of years.",
+        "Since the start of the Industrial Revolution, the concentration of carbon dioxide in the atmosphere has risen by about **50%**, mostly from fossil fuels.",
+        "This is the main driver of **climate change**, which you’ll study in the Earth & Climate region.",
+        "Historically, today’s rich countries emitted most of the carbon dioxide; today, emissions are rising fastest in industrialising countries. Who should bear the cost of reducing them is one of the central questions of global politics."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why didn’t industrialisation spread everywhere quickly once it existed?",
+      "md": "Because the recipe needed many ingredients that weren’t easily copied: capital to invest, educated workers, reliable infrastructure, stable governments, functioning legal systems and access to markets. **Colonialism** played a major role too: many colonised regions were organised to supply raw materials and buy manufactured goods rather than industrialise themselves. Since the mid-20th century, some countries, such as South Korea, Taiwan and later China, industrialised remarkably quickly, often with active government strategies. Why some countries succeed in catching up and others don’t remains one of the central questions in Economics."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **Great Divergence** saw Western Europe and North America pull far ahead economically after around **1800**; its causes are debated.",
+        "The **second industrial revolution** (around **1870–1914**) brought **steel, electricity, chemicals** and new **communications**.",
+        "Industrialisation spread to the **US, Germany, Japan** (after the **Meiji Restoration, 1868**) and beyond.",
+        "It created an **industrial working class**, trade unions, socialist ideas (**Marx and Engels, 1848**) and social reforms.",
+        "Global **life expectancy** rose from about **30** to over **70**; **extreme poverty** fell from the majority to under one in ten.",
+        "Fossil-fuel-powered growth has raised atmospheric **CO₂** by about **50%**, driving climate change."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The modern world’s greatest achievements and greatest challenges both come from industrialisation: longer lives and far less poverty, alongside climate change and stark inequality between nations. Understanding where they came from helps you engage with today’s debates, about development, trade, technology and climate, with historical perspective rather than slogans."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what was the “Great Divergence”, how did industrialisation spread beyond Britain, and how has it changed human living standards over the last two centuries?"
+  }
+}

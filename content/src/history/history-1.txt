@@ -1,0 +1,274 @@
+##### LESSON
+id: history.farming.2
+title: The Price of the Harvest
+minutes: 14
+prereq: history.farming.1
+check: In your own words: how did farming change human societies, and why do some historians argue it made life worse for many ordinary people, at least at first?
+
+=== hook
+Around 10,000 years ago, before farming, perhaps **5 million** people lived on the whole planet, roughly the population of a single large city today. By around the year 1 CE, after farming had spread across much of the world, the number had grown to something like **200 to 300 million**.
+
+That looks like a straightforward success story. But when archaeologists study the **skeletons** of early farmers and compare them with the hunter-gatherers who came before, they often find people who were shorter, had more tooth decay, more signs of malnutrition and more infectious disease. Farming fed far more people. It didn’t necessarily feed them better.
+
+=== core
+In the previous lesson, you saw how farming emerged independently in several regions and how wild plants and animals were domesticated. This lesson looks at the **consequences**, which shaped almost everything that came after.
+
+The central change was **surplus**. Hunter-gatherers mostly moved around and stored little; owning more than you could carry made little sense. Farmers stayed in one place, harvested grain that could be **stored** for months, and could produce more food per hectare of land than foraging. That surplus could support more people, and also people who didn’t farm at all.
+
+From surplus flowed four big changes:
+
+1. **More people**, living more densely.
+2. **Property and inequality**: land, stored grain and herds could be owned, inherited and fought over.
+3. **New diseases**, from crowding and from living close to animals.
+4. **Specialists and rulers**: people who could be fed by others’ labour, such as craftspeople, priests, soldiers and chiefs.
+
+=== text The health puzzle
+Why might early farmers have been less healthy than foragers?
+
+- **Narrower diets.** Foragers ate a wide variety of plants and animals. Many early farmers depended heavily on one or two starchy crops, like wheat, rice or maize, leaving them short of some nutrients and exposed to famine if a harvest failed.
+- **Tooth decay.** Starchy, sticky grains feed mouth bacteria, and cavities become much more common in farming populations.
+- **Hard labour.** Skeletons show signs of repetitive strain, such as wear from grinding grain on stone querns for hours a day.
+- **Infection.** Settled villages accumulated waste and contaminated water, ideal for parasites and disease.
+
+The pattern isn’t universal, and it varied a lot by region and period. But it’s strong enough that in 1987 the scientist **Jared Diamond** provocatively called agriculture “the worst mistake in the history of the human race”. Many historians think that overstates it, but it’s a useful challenge to the assumption that every change in history is progress.
+
+=== callout analogy
+Think of farming like a company that grows enormously by switching to a cheaper, mass-production model. Total output soars and the company can employ many more people, but each worker may end up with longer hours, a more repetitive job and less security. Whether that counts as success depends on whether you’re looking at the company or at the worker.
+
+=== text Gifts from the animals
+Living closely with domesticated animals had a hidden cost. Many of humanity’s deadliest infectious diseases began as animal infections that jumped to humans. Measles, for example, is closely related to a virus of cattle, and its ancestor likely spread to people a few thousand years ago once populations became large enough to sustain it. Influenza circulates among birds and pigs.
+
+Many such diseases also need large, dense populations to survive, because they spread fast and either kill or leave survivors immune. Small foraging bands couldn’t sustain them; crowded farming towns could. This had enormous consequences thousands of years later, as you’ll see in the lessons on trade routes: populations that had long lived with these diseases carried them to people who had never encountered them.
+
+=== text Who owns the harvest?
+Before farming, most foraging groups that anthropologists have studied are relatively **egalitarian**, with strong customs of sharing food. Surplus changed the incentives. Stored grain, cleared fields and herds could be **accumulated**, passed to children, taxed or seized.
+
+Over thousands of years, many (though not all) farming societies developed hierarchies: chiefs, then kings, nobles and priests who controlled stored surpluses. Some early farming settlements seem surprisingly equal. At **Çatalhöyük** in what is now Turkey, a large settlement occupied from around 7100 BCE, houses were remarkably similar in size, with little sign of a ruling elite. Inequality wasn’t an automatic result of farming, but farming made it much easier to build.
+
+=== steps How farming spread
+- Farming didn’t spread only by people copying good ideas. **Ancient DNA** studies show that farming often spread through **migration** of farming peoples.
+- Around **8,000 years ago**, farmers whose ancestors came from Anatolia (modern Turkey) moved into Europe, gradually replacing or mixing with the local hunter-gatherers.
+- In South Asia, **Mehrgarh**, in present-day Balochistan in Pakistan, shows farming of wheat and barley and herding of animals from around **7000 BCE**, one of the earliest farming sites in the region, laying foundations for the later Indus Valley Civilisation.
+- In Africa, the **Bantu expansion** over roughly the last 4,000 years carried farming and Bantu languages from West-Central Africa across much of the southern half of the continent.
+- Because farmers grew more numerous, they tended to outnumber foragers over time, which is why most of the world’s people today descend largely from early farming populations.
+
+=== reveal If farming wasn’t clearly better for individuals, why did almost every society eventually adopt it?
+Because once some groups farmed, they had **more people**, and more people generally beats fewer in competition for land. A farming village could field more workers and more fighters than a foraging band on the same territory. Over time, farmers expanded, and foragers were pushed into areas that were hard to farm: deserts, rainforests, the Arctic. There was also a **trap** element: once population grew on farmed food, going back to foraging could no longer feed everyone. Farming spread not because each person chose a better life, but because farming societies outgrew and outcompeted the alternatives.
+
+=== keypoints
+- Farming created **storable surplus**, supporting far larger populations: from about **5 million** people to **200–300 million** by 1 CE.
+- Early farmers often show **worse health** than foragers: narrower diets, tooth decay, hard labour and more infection.
+- Close contact with animals and crowded villages helped **new diseases** emerge and persist.
+- Surplus enabled **property, inheritance and inequality**, though some early settlements like **Çatalhöyük** were fairly equal.
+- Ancient DNA shows farming often spread through **migration**, as in Europe and the Bantu expansion.
+- Farming spread mainly because farming societies **outnumbered** and **outcompeted** foragers.
+
+=== why
+Farming is the hinge of human history: cities, states, writing, armies, taxes and empires all grew from it. Understanding its costs as well as its benefits helps you think more carefully about “progress” in general, including today’s technological changes, which also bring large gains overall while creating losers and new risks. It sets up the next lessons, where surplus becomes cities and states.
+
+##### LESSON
+id: history.first-cities.1
+title: The First Cities and the Birth of the State
+minutes: 14
+check: In your own words: what new features appeared when the first cities and states formed, and why might writing have been invented first for accounting rather than for stories?
+
+=== hook
+About **5,000 years ago**, in the land between the Tigris and Euphrates rivers in what is now Iraq, the city of **Uruk** may have been home to around **40,000** people or more, making it among the largest settlements on Earth at the time. Its walls stretched for kilometres; its temples towered over the flat plain.
+
+Among the ruins, archaeologists found thousands of clay tablets marked with some of the earliest known writing. Many of them aren’t poems, prayers or laws. They’re **receipts and records**: rations of barley, numbers of sheep, quantities of beer owed to workers. Humanity’s first great written records, it seems, were bookkeeping.
+
+=== core
+Over the following centuries, several regions developed something new: **cities** and **states**. They arose independently in several places, mostly in fertile river valleys that could produce large surpluses:
+
+- **Mesopotamia** (modern Iraq): Sumerian cities like Uruk and Ur, from around 4000–3000 BCE.
+- **Egypt**: unified into one kingdom along the Nile around **3100 BCE**.
+- **The Indus Valley** (modern Pakistan and northwest India): cities like Harappa and Mohenjo-daro, at their height around **2600–1900 BCE**.
+- **China**: along the Yellow River, culminating in the Shang dynasty from around 1600 BCE.
+- **The Americas**: Caral in Peru (around 2600 BCE), later the Olmec and Maya in Mesoamerica.
+
+A **state** is a political organisation that claims authority over a territory and its people, usually with rulers, officials, taxes and organised force. Not every early city was ruled by a powerful king, but most came to share a recognisable set of features.
+
+=== text What made a civilisation different
+Archaeologists often look for features like these:
+
+- **Large, dense populations**, far beyond village size.
+- **Specialisation**: many people didn’t farm, but worked as potters, metalworkers, scribes, priests, soldiers or traders.
+- **Social hierarchy**: clear differences in wealth and power, visible in house sizes and burials.
+- **Monumental architecture**: temples, palaces, pyramids, walls and ziggurats that required organised labour.
+- **Centralised administration**: officials collecting and redistributing surplus, often through temples or palaces.
+- **Record-keeping**: usually writing, though not always. The Inca, much later, ran a vast empire using **quipu**, knotted strings that recorded numbers and possibly more.
+
+=== callout analogy
+Think of a village as a family business, where everyone knows everyone and roles are informal. A city-state is more like a large corporation: thousands of people who don’t know each other, specialised departments, managers, rules, records and a headquarters. Once you have that many strangers cooperating, informal trust isn’t enough. You need systems.
+
+=== text The Indus cities: order without obvious kings
+The **Indus Valley Civilisation** (also called the Harappan Civilisation) was one of the largest of its time, covering an area bigger than Egypt and Mesopotamia combined, across what is now Pakistan and northwest India.
+
+Its cities were remarkably planned. **Mohenjo-daro** had streets laid out in a grid, houses built of standardised baked bricks, private bathrooms in many homes and covered **drains** running along the streets, sanitation more advanced than in many cities thousands of years later. Across hundreds of kilometres, people used a standard system of **weights**, suggesting coordinated trade.
+
+Strikingly, archaeologists have found few clear palaces, royal tombs or images of warrior kings. How the Indus cities were governed remains a mystery, partly because their **script**, found on thousands of small seals, has never been deciphered. It may be that power was organised in a way quite different from Egypt or Mesopotamia, but we can’t yet read their own account.
+
+=== text Why writing began
+How did writing start? One influential theory, developed by the archaeologist **Denise Schmandt-Besserat**, links it to small clay **tokens** used in the Near East for thousands of years to count goods: a cone for a measure of grain, a disc for a sheep. Tokens were sealed inside clay envelopes as records; people began pressing them into the outside to show what was inside. Eventually, they skipped the tokens and simply drew the marks on clay. The theory is debated, but it’s clear that early Mesopotamian writing grew out of administration.
+
+Over centuries, those marks evolved into **cuneiform**, wedge-shaped signs pressed into clay with a reed, which could record not just goods and numbers but language itself: names, laws, letters and literature. Writing was invented separately in at least a few places, likely including Egypt (hieroglyphs), China and Mesoamerica.
+
+=== steps From surplus to a state: one possible path
+- Irrigation farming along a river produces large grain surpluses, but requires canals that must be built and maintained.
+- Organising that work, and storing and sharing the harvest, gives power to whoever manages it, often temple administrators.
+- Managing large stores of grain from many families requires **records**, encouraging counting systems and eventually writing.
+- Surplus supports specialists: craftspeople, priests and guards, who depend on the central stores.
+- Wealth attracts raiders and rivals, so leaders organise defence, build walls and command soldiers.
+- Over time, those leaders claim the right to tax, judge and command: a state has formed. This is one model; historians debate how much it varied from place to place.
+
+=== reveal Did people choose to live under early states, or were they forced?
+Probably some of both, and historians disagree about the balance. States offered **protection**, organised irrigation, trade and religious ceremony. But they also demanded **taxes**, forced labour and military service, and many early states relied on slavery. The political scientist **James C. Scott** argued that early states were fragile and often coercive, and that many people resisted or fled them, living in hills and forests beyond their reach. For thousands of years after the first states appeared, most of the world’s people still lived outside them.
+
+=== keypoints
+- Cities and states arose **independently** in several river valleys: **Mesopotamia, Egypt, the Indus, China** and the **Americas**.
+- Common features: dense populations, **specialisation**, **hierarchy**, monumental buildings, central administration and records.
+- **Uruk** may have had around **40,000** people about **5,000 years ago**.
+- The **Indus cities** had grid streets, drains and standard weights, but their **script is undeciphered** and their rulers unclear.
+- Writing in Mesopotamia grew out of **accounting**, evolving into **cuneiform**.
+- Early states offered protection and organisation but also imposed **taxes, labour and coercion**.
+
+=== why
+Almost every feature of the world you live in, from governments and taxes to cities, money and written records, traces back to these first experiments in large-scale living. Seeing how they began helps you understand what states are for, what they cost and why questions about authority and fairness are as old as civilisation itself. The next lesson follows these early civilisations through their achievements and their collapses.
+
+##### LESSON
+id: history.first-cities.2
+title: When Civilisations Collapse
+minutes: 15
+prereq: history.first-cities.1
+check: In your own words: what caused the Late Bronze Age collapse, and why are highly connected systems sometimes more fragile than isolated ones?
+
+=== hook
+Around **1200 BCE**, the eastern Mediterranean was a thriving, connected world. Egypt, the Hittite Empire in Anatolia, Mycenaean kingdoms in Greece, Babylon and wealthy trading cities like **Ugarit** on the Syrian coast exchanged gold, grain, copper, tin, ivory and letters between kings who addressed each other as “brother”.
+
+Within a few decades, much of it was gone. The Hittite capital was abandoned. Mycenaean palaces burned, and Greece lost the art of writing for centuries. Ugarit was destroyed and never rebuilt; among its ruins were letters describing enemy ships attacking the coast and pleading for help. Egypt survived, badly weakened. Historians call this the **Late Bronze Age collapse**, and it remains one of history’s great mysteries.
+
+=== core
+**Collapse** doesn’t usually mean everyone dies. It means a society rapidly loses complexity: cities shrink or are abandoned, central government disappears, trade networks break, specialised skills like writing are lost and populations decline or scatter. Life continues, but in simpler, more local forms.
+
+Collapses have happened repeatedly in history: the Late Bronze Age world, the decline of the Indus cities, the classic Maya cities of southern Mesoamerica around 800–900 CE, and the Western Roman Empire, among others.
+
+Historians used to look for a single cause: an invasion, a war, a natural disaster. Today, most see collapses as **multi-causal**: several stresses hitting at once, interacting with weaknesses already inside the society.
+
+=== text The Bronze Age puzzle
+For the Late Bronze Age collapse, the suspects include:
+
+- **The “Sea Peoples”**: Egyptian inscriptions from Ramesses III describe invaders arriving by land and sea around 1177 BCE. Who they were, and whether they caused the collapse or were refugees displaced by it, is debated.
+- **Drought**: evidence from pollen, lake sediments and tree rings suggests a prolonged dry period across the region, which could have caused crop failures and famine.
+- **Earthquakes**: a series of quakes may have struck the region over decades.
+- **Internal revolt**: palace economies were highly centralised and unequal, and may have faced uprisings.
+- **Trade breakdown**: bronze requires copper and tin, usually from different, distant places. Disrupt the trade routes, and the whole economy of bronze-age kingdoms suffers.
+
+The historian **Eric Cline** argues that no single factor was enough. Instead, these stresses combined in a **systems collapse**: because the kingdoms were so interconnected, a failure in one place spread to others.
+
+=== callout analogy
+Think of a row of tightly linked dominoes compared to a scattered pile of bricks. The bricks are individually sturdy and unconnected; knock one over and the rest don’t care. The dominoes are efficient and impressive, but one push sets off a chain reaction. Highly connected societies gain enormously from trade and specialisation, and become vulnerable to shocks that spread.
+
+=== text The fading of the Indus cities
+The great Indus cities gradually declined from around **1900 BCE**. There’s no evidence of a single catastrophic invasion, an idea once popular but now largely rejected. Instead, the evidence points to several slow changes:
+
+- **Weakening monsoon rains** over several centuries, shown in climate records from caves and lake beds.
+- **Shifting rivers**: some rivers that fed the region changed course or dried up, including a river system in the region of the modern Ghaggar-Hakra.
+- **Declining trade** with Mesopotamia.
+
+People didn’t disappear. Many moved east and south, into the Ganges plain and Gujarat, living in smaller villages. The big cities emptied, standardised weights and the script fell out of use, but farming communities and many cultural traditions continued.
+
+=== text Writing lost and rediscovered
+One of the most striking effects of collapse is the loss of writing. After the Mycenaean palaces fell, Greeks stopped writing for around four centuries. When writing returned, around the 8th century BCE, it used a completely new system borrowed from the **Phoenician alphabet**. The old Mycenaean script, **Linear B**, was forgotten until a British architect, **Michael Ventris**, deciphered it in 1952, revealing it as an early form of Greek, much of it, again, palace inventories.
+
+Similarly, after Egypt converted to Christianity and later Arabic, knowledge of hieroglyphs was lost for over a thousand years. In 1822, the French scholar **Jean-François Champollion** deciphered them, using the **Rosetta Stone**, which carried the same decree in hieroglyphs, a later Egyptian script and Greek.
+
+=== steps What collapses often have in common
+- **Rising complexity** that is costly to maintain: bureaucracies, armies, monuments and long supply chains.
+- **External stresses**: climate shifts, drought, disease, invasion or the loss of trading partners.
+- **Internal stresses**: inequality, revolts, political infighting or failing institutions.
+- **Interconnection**, which spreads shocks across a whole system.
+- **Feedback loops**: famine leads to unrest, unrest to the breakdown of trade and government, which worsens famine.
+- **Reorganisation afterwards**: new, often simpler societies emerge, sometimes leading to fresh innovation. The Iron Age and the alphabet both rose from the Bronze Age’s ruins.
+
+=== reveal Is collapse always a disaster?
+For the ruling classes and the cities, clearly yes. For ordinary people, historians debate it. Some evidence suggests that after certain collapses, people in rural areas were freed from heavy taxes and forced labour, and their health didn’t necessarily worsen. The anthropologist **Joseph Tainter**, in his influential 1988 book *The Collapse of Complex Societies*, argued that collapse can be an economically rational response when the costs of maintaining complexity exceed its benefits. That doesn’t make collapse pleasant, but it’s a reminder to ask: **a disaster for whom?**
+
+=== keypoints
+- **Collapse** means a rapid loss of complexity: cities, central government, trade and skills like writing decline.
+- The **Late Bronze Age collapse** (around **1200–1150 BCE**) ended or weakened the Hittites, Mycenaeans and others.
+- Suspected causes: **Sea Peoples, drought, earthquakes, revolts** and **trade breakdown**, likely combining in a **systems collapse**.
+- The **Indus cities** declined gradually from about **1900 BCE**, linked to weakening monsoons and shifting rivers, not a single invasion.
+- Collapse can erase writing, later rediscovered, as with **Linear B (1952)** and **hieroglyphs (1822)**.
+- Most historians now see collapse as **multi-causal**, and its effects depend on who you were.
+
+=== why
+Today’s world is more interconnected than any in history, with global supply chains, financial systems and the internet. Studying past collapses doesn’t mean modern civilisation is doomed, but it highlights real lessons: how shocks spread through connected systems, why resilience and redundancy matter, and how environmental stress interacts with politics. Those questions return in the Earth & Climate and Economics regions.
+
+##### LESSON
+id: history.empires.1
+title: How Empires Were Built
+minutes: 15
+check: In your own words: what tools did ancient empires use to hold vast, diverse territories together, and why was force alone usually not enough?
+
+=== hook
+Around **261 BCE**, the Mauryan emperor **Ashoka** conquered the kingdom of Kalinga, on India’s eastern coast. By his own account, carved into stone, around **100,000** people were killed and many more deported. The scale of suffering seems to have shaken him deeply.
+
+Ashoka didn’t give up his empire, which covered most of the Indian subcontinent. But he changed how he ruled it. He had messages carved on rocks and pillars across his realm, promoting **dhamma**: moral conduct, tolerance between religious groups, kindness to animals and fair treatment by officials. Some of those inscriptions still stand today. His story raises the central question of this lesson: how do you hold an enormous, diverse empire together?
+
+=== core
+An **empire** is a large state that rules over many different peoples and territories, usually acquired by conquest, with a central power dominating outlying regions. Empires have been among the most common forms of large-scale political organisation in history.
+
+Several major empires rose in the period historians sometimes call **classical antiquity**, roughly 600 BCE to 600 CE:
+
+- **The Achaemenid Persian Empire** (from about 550 BCE), founded by **Cyrus the Great**, stretching from Egypt and Anatolia to the Indus.
+- **The Maurya Empire** in India (about 321–185 BCE), founded by **Chandragupta Maurya**.
+- **The Qin and Han dynasties** in China, after the **Qin** unified China in **221 BCE**.
+- **The Roman Empire**, which grew from a city-state republic to rule the entire Mediterranean world.
+
+Conquering territory was the easy part. The hard part was **keeping** it, across distances where a message might take weeks to travel, among peoples with different languages, religions and customs.
+
+=== text Tool 1: roads and communication
+Empires depended on moving armies, officials, taxes and information quickly. The Persians built the **Royal Road**, around **2,700 kilometres** long, with relay stations where royal messengers could change horses. The Greek historian Herodotus admired them, and his description later inspired the unofficial motto of the US postal service: neither snow nor rain stops these couriers.
+
+Rome built a vast network of roads, eventually hundreds of thousands of kilometres in total, including tens of thousands of kilometres of paved highways, many still visible today. The Mauryas maintained a major road across northern India, and China’s rulers built roads and canals linking their realm.
+
+=== text Tool 2: standardisation and bureaucracy
+After the Qin unified China in 221 BCE, the first emperor, **Qin Shi Huang**, standardised the **written script**, **weights and measures**, **coinage** and even the width of **cart axles**, so wagons could use the same ruts. The written script in particular helped hold China together for over two thousand years, because people speaking very different dialects could read the same characters.
+
+The following **Han dynasty** developed an educated bureaucracy, and later Chinese dynasties increasingly selected officials through examinations testing knowledge of Confucian classics, an early form of merit-based government service.
+
+Persia divided its empire into provinces called **satrapies**, each run by a governor (a satrap), with separate officials reporting to the king to keep governors in check. Indian sources on Mauryan government, such as the **Arthashastra**, traditionally linked to Chandragupta’s adviser Kautilya, describe detailed systems of taxation, administration and espionage, though scholars debate how closely it reflects actual practice.
+
+=== callout analogy
+Think of running an empire like running a franchise chain across many countries. Head office can’t do everything directly, so it needs local managers (governors), standard procedures (laws, weights, money), reliable logistics (roads), regular reports (bureaucracy) and a brand that local customers accept (ideology). Lose control of any of these and the franchise starts breaking away.
+
+=== text Tool 3: co-opting local elites and tolerating difference
+Ruling by force alone is expensive. Successful empires often left local customs, religions and leaders in place, as long as they paid taxes and stayed loyal.
+
+**Cyrus the Great** is remembered for allowing conquered peoples to keep their customs and religions. The Hebrew Bible praises him for permitting exiled Jews to return from Babylon to Jerusalem. A clay cylinder from his reign describes restoring temples and returning displaced peoples; it’s sometimes described as an early human rights charter, though historians caution that it’s also royal propaganda in a traditional Mesopotamian style.
+
+Rome gradually extended **citizenship** to more of its subjects, culminating in **212 CE**, when the emperor Caracalla granted citizenship to almost all free men in the empire. Being Roman became a legal identity rather than an ethnic one, binding provincial elites to the system.
+
+=== text Tool 4: ideology and legitimacy
+Empires needed people to accept their rule as **legitimate**, connecting to what you’ll study in the Politics region. Chinese emperors claimed the **Mandate of Heaven**: the right to rule, granted by heaven to a just ruler and withdrawn from a corrupt one, which conveniently also explained why dynasties fell. Roman emperors were honoured with religious cults. Ashoka’s dhamma inscriptions presented him as a moral, caring ruler.
+
+=== steps The darker side of empire
+- Empires were built through **conquest**, often involving mass killing, as Ashoka’s own inscriptions admit about Kalinga.
+- Many relied heavily on **slavery**. Rome, in particular, had millions of enslaved people, many captured in war.
+- Conquered peoples were **taxed** to support the centre, and revolts were often crushed brutally.
+- Some empires deliberately **moved populations** to break local resistance, as the Assyrians and Persians did.
+- At the same time, empires spread trade, technologies, languages and religions over huge areas and sometimes brought long periods of relative peace. Historians weigh these against the costs differently, and the people who lived through them would have disagreed too.
+
+=== reveal Rome and Han China existed at the same time and were roughly similar in size and population. Did they know about each other?
+Only vaguely. Each knew of a distant, wealthy empire at the other end of the trade routes. Romans prized Chinese **silk** and called the Chinese the “Seres”. Chinese records describe a great western land called **Da Qin**, and record that envoys claiming to come from its ruler arrived in **166 CE**, though they may have been merchants. Goods passed through many intermediaries, like the Parthians in Persia and traders in India, who had good reasons to keep the two ends apart and profit as middlemen. The two greatest empires of their age never had sustained direct contact.
+
+=== keypoints
+- An **empire** is a large state ruling many peoples and territories, usually gained by conquest.
+- Major classical empires: **Achaemenid Persia**, the **Maurya** Empire, **Qin and Han** China and **Rome**.
+- Key tools: **roads and communication**, **standardisation and bureaucracy**, **co-opting local elites** and **ideology**.
+- **Qin Shi Huang** standardised script, weights, coins and axles; Persia used **satrapies**.
+- **Cyrus** tolerated local religions; Rome extended **citizenship** in **212 CE**; **Ashoka** promoted **dhamma** after Kalinga.
+- Empires were also built on **conquest, slavery and taxation** of subject peoples.
+
+=== why
+The empires of antiquity shaped languages, religions, legal systems and borders that still matter today, from Roman law in Europe to written Chinese and Ashoka’s lion capital, which is now India’s national emblem. Understanding how they worked also illuminates modern questions: how to govern diverse populations, how much to centralise and what makes authority accepted. Next, you’ll explore the other side: why even the mightiest empires eventually fall.

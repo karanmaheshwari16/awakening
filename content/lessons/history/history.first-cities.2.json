@@ -1,0 +1,80 @@
+{
+  "id": "history.first-cities.2",
+  "region": "history",
+  "topic": "first-cities",
+  "level": 2,
+  "prerequisites": [
+    "history.first-cities.1"
+  ],
+  "title": "When Civilisations Collapse",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Around **1200 BCE**, the eastern Mediterranean was a thriving, connected world. Egypt, the Hittite Empire in Anatolia, Mycenaean kingdoms in Greece, Babylon and wealthy trading cities like **Ugarit** on the Syrian coast exchanged gold, grain, copper, tin, ivory and letters between kings who addressed each other as “brother”.\n\nWithin a few decades, much of it was gone. The Hittite capital was abandoned. Mycenaean palaces burned, and Greece lost the art of writing for centuries. Ugarit was destroyed and never rebuilt; among its ruins were letters describing enemy ships attacking the coast and pleading for help. Egypt survived, badly weakened. Historians call this the **Late Bronze Age collapse**, and it remains one of history’s great mysteries."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Collapse** doesn’t usually mean everyone dies. It means a society rapidly loses complexity: cities shrink or are abandoned, central government disappears, trade networks break, specialised skills like writing are lost and populations decline or scatter. Life continues, but in simpler, more local forms.\n\nCollapses have happened repeatedly in history: the Late Bronze Age world, the decline of the Indus cities, the classic Maya cities of southern Mesoamerica around 800–900 CE, and the Western Roman Empire, among others.\n\nHistorians used to look for a single cause: an invasion, a war, a natural disaster. Today, most see collapses as **multi-causal**: several stresses hitting at once, interacting with weaknesses already inside the society."
+    },
+    {
+      "type": "text",
+      "heading": "The Bronze Age puzzle",
+      "md": "For the Late Bronze Age collapse, the suspects include:\n\n- **The “Sea Peoples”**: Egyptian inscriptions from Ramesses III describe invaders arriving by land and sea around 1177 BCE. Who they were, and whether they caused the collapse or were refugees displaced by it, is debated.\n- **Drought**: evidence from pollen, lake sediments and tree rings suggests a prolonged dry period across the region, which could have caused crop failures and famine.\n- **Earthquakes**: a series of quakes may have struck the region over decades.\n- **Internal revolt**: palace economies were highly centralised and unequal, and may have faced uprisings.\n- **Trade breakdown**: bronze requires copper and tin, usually from different, distant places. Disrupt the trade routes, and the whole economy of bronze-age kingdoms suffers.\n\nThe historian **Eric Cline** argues that no single factor was enough. Instead, these stresses combined in a **systems collapse**: because the kingdoms were so interconnected, a failure in one place spread to others."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a row of tightly linked dominoes compared to a scattered pile of bricks. The bricks are individually sturdy and unconnected; knock one over and the rest don’t care. The dominoes are efficient and impressive, but one push sets off a chain reaction. Highly connected societies gain enormously from trade and specialisation, and become vulnerable to shocks that spread."
+    },
+    {
+      "type": "text",
+      "heading": "The fading of the Indus cities",
+      "md": "The great Indus cities gradually declined from around **1900 BCE**. There’s no evidence of a single catastrophic invasion, an idea once popular but now largely rejected. Instead, the evidence points to several slow changes:\n\n- **Weakening monsoon rains** over several centuries, shown in climate records from caves and lake beds.\n- **Shifting rivers**: some rivers that fed the region changed course or dried up, including a river system in the region of the modern Ghaggar-Hakra.\n- **Declining trade** with Mesopotamia.\n\nPeople didn’t disappear. Many moved east and south, into the Ganges plain and Gujarat, living in smaller villages. The big cities emptied, standardised weights and the script fell out of use, but farming communities and many cultural traditions continued."
+    },
+    {
+      "type": "text",
+      "heading": "Writing lost and rediscovered",
+      "md": "One of the most striking effects of collapse is the loss of writing. After the Mycenaean palaces fell, Greeks stopped writing for around four centuries. When writing returned, around the 8th century BCE, it used a completely new system borrowed from the **Phoenician alphabet**. The old Mycenaean script, **Linear B**, was forgotten until a British architect, **Michael Ventris**, deciphered it in 1952, revealing it as an early form of Greek, much of it, again, palace inventories.\n\nSimilarly, after Egypt converted to Christianity and later Arabic, knowledge of hieroglyphs was lost for over a thousand years. In 1822, the French scholar **Jean-François Champollion** deciphered them, using the **Rosetta Stone**, which carried the same decree in hieroglyphs, a later Egyptian script and Greek."
+    },
+    {
+      "type": "steps",
+      "title": "What collapses often have in common",
+      "items": [
+        "**Rising complexity** that is costly to maintain: bureaucracies, armies, monuments and long supply chains.",
+        "**External stresses**: climate shifts, drought, disease, invasion or the loss of trading partners.",
+        "**Internal stresses**: inequality, revolts, political infighting or failing institutions.",
+        "**Interconnection**, which spreads shocks across a whole system.",
+        "**Feedback loops**: famine leads to unrest, unrest to the breakdown of trade and government, which worsens famine.",
+        "**Reorganisation afterwards**: new, often simpler societies emerge, sometimes leading to fresh innovation. The Iron Age and the alphabet both rose from the Bronze Age’s ruins."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is collapse always a disaster?",
+      "md": "For the ruling classes and the cities, clearly yes. For ordinary people, historians debate it. Some evidence suggests that after certain collapses, people in rural areas were freed from heavy taxes and forced labour, and their health didn’t necessarily worsen. The anthropologist **Joseph Tainter**, in his influential 1988 book *The Collapse of Complex Societies*, argued that collapse can be an economically rational response when the costs of maintaining complexity exceed its benefits. That doesn’t make collapse pleasant, but it’s a reminder to ask: **a disaster for whom?**"
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Collapse** means a rapid loss of complexity: cities, central government, trade and skills like writing decline.",
+        "The **Late Bronze Age collapse** (around **1200–1150 BCE**) ended or weakened the Hittites, Mycenaeans and others.",
+        "Suspected causes: **Sea Peoples, drought, earthquakes, revolts** and **trade breakdown**, likely combining in a **systems collapse**.",
+        "The **Indus cities** declined gradually from about **1900 BCE**, linked to weakening monsoons and shifting rivers, not a single invasion.",
+        "Collapse can erase writing, later rediscovered, as with **Linear B (1952)** and **hieroglyphs (1822)**.",
+        "Most historians now see collapse as **multi-causal**, and its effects depend on who you were."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Today’s world is more interconnected than any in history, with global supply chains, financial systems and the internet. Studying past collapses doesn’t mean modern civilisation is doomed, but it highlights real lessons: how shocks spread through connected systems, why resilience and redundancy matter, and how environmental stress interacts with politics. Those questions return in the Earth & Climate and Economics regions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what caused the Late Bronze Age collapse, and why are highly connected systems sometimes more fragile than isolated ones?"
+  }
+}
