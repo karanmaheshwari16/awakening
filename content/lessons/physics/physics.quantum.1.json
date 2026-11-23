@@ -1,0 +1,83 @@
+{
+  "id": "physics.quantum.1",
+  "region": "physics",
+  "topic": "quantum",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Quantum World",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1924**, a young physicist in Dacca (now Dhaka, in Bangladesh), **Satyendra Nath Bose**, wrote a short paper deriving an important formula in a new way, by treating particles of light as identical in a way nobody had before. Journals rejected it. So he sent it directly to **Albert Einstein**.\n\nEinstein immediately recognised its importance, translated it into German himself and arranged its publication. He then extended Bose’s idea to atoms, predicting that at extremely low temperatures, atoms could merge into a single quantum state. Seventy years later, in **1995**, scientists in the US finally created this **Bose–Einstein condensate**. Today, a whole family of particles is named **bosons** in Bose’s honour. His story is a glimpse into quantum physics: the strange set of rules that govern the very small."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Quantum mechanics** is the branch of physics that describes how matter and energy behave at the scale of atoms and smaller particles. It was developed in the early 20th century by physicists including **Max Planck**, **Albert Einstein**, **Niels Bohr**, **Werner Heisenberg**, **Erwin Schrödinger**, **Paul Dirac** and many others.\n\nAt everyday scales, the world seems smooth and predictable, following Newton’s laws. At the quantum scale, it behaves in ways that seem to defy common sense. Yet quantum mechanics is one of the most precisely tested theories in all of science, and it underpins technologies from lasers and computer chips to MRI scanners and LEDs."
+    },
+    {
+      "type": "text",
+      "heading": "Idea 1: quantisation",
+      "md": "In **1900**, the German physicist **Max Planck** was trying to explain the light given off by hot objects. He found that the maths only worked if energy was emitted in tiny, separate packets, which he called **quanta**, rather than continuously. Planck considered it a mathematical trick at first. Einstein then used the idea to explain the photoelectric effect in 1905, as you saw in the light lessons.\n\nIn **1913**, **Niels Bohr** applied quantisation to atoms. He proposed that electrons can only occupy certain specific **energy levels**, like rungs on a ladder, not anywhere in between. When an electron jumps down from a higher level to a lower one, it emits a photon with exactly the energy difference between the levels.\n\nThat explains why each element gives off light at its own precise set of colours, its **spectral lines**, like a fingerprint. Astronomers use these fingerprints to work out what distant stars are made of; sodium streetlights glow yellow-orange for the same reason."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the difference between a ramp and a staircase. On a ramp, you can stand at any height. On a staircase, you can only stand on the steps, never halfway between. In the quantum world, energy often behaves like the staircase: an electron in an atom can only be on certain steps, and when it jumps between them, it gives off or absorbs exactly the energy of the gap."
+    },
+    {
+      "type": "text",
+      "heading": "Idea 2: superposition and probability",
+      "md": "In quantum mechanics, particles are described by a **wave function**, a mathematical object developed by **Erwin Schrödinger** in 1926. The wave function doesn’t tell you exactly where a particle is; it tells you the **probability** of finding it in different places when you measure it.\n\nBefore measurement, a quantum system can be in a **superposition**: a combination of several possible states at once. An electron might be in a superposition of being in two places, or spinning in two directions. When it’s measured, you only ever find one definite result, with probabilities given by the wave function.\n\nThis is what the double-slit experiment with single particles suggested in the light lessons: each particle seems to explore both paths at once, interfering with itself, until it’s detected at one particular spot."
+    },
+    {
+      "type": "text",
+      "heading": "Schrödinger’s cat",
+      "md": "In **1935**, Schrödinger proposed a thought experiment to show how strange this seemed. A cat is sealed in a box with a radioactive atom, a detector and a vial of poison. If the atom decays, which has a 50% chance in an hour, the detector triggers the poison, killing the cat. If quantum superposition applied to everything, then until someone opens the box, the cat would be in a superposition of being **both alive and dead**.\n\nSchrödinger intended this as a criticism, highlighting what he saw as an absurdity in how quantum mechanics was being interpreted. It became one of the most famous images in science. Most physicists today think that interactions with the environment, a process called **decoherence**, rapidly destroy superpositions in large objects like cats, which is why we never see them in everyday life. But exactly how and why measurement produces definite results is still debated, as the next lesson explains."
+    },
+    {
+      "type": "text",
+      "heading": "Idea 3: the uncertainty principle",
+      "md": "In **1927**, the German physicist **Werner Heisenberg** formulated the **uncertainty principle**: certain pairs of properties, like a particle’s **position** and **momentum**, cannot both be known precisely at the same time. The more precisely you pin down one, the less precisely you can know the other.\n\nThis isn’t just a limit of our measuring instruments. It’s a fundamental feature of nature: particles simply don’t have perfectly defined positions and momenta at the same time. The uncertainty is tiny for everyday objects, so you never notice it, but it’s crucial for atoms. It helps explain why electrons don’t simply spiral into the nucleus: confining an electron too tightly would give it a huge spread of momentum, and therefore energy."
+    },
+    {
+      "type": "steps",
+      "title": "Quantum tunnelling: walking through walls",
+      "items": [
+        "In everyday life, if you roll a ball at a hill without enough energy to get over the top, it rolls back. It can never appear on the other side.",
+        "In the quantum world, particles have a small probability of passing straight through an energy barrier they shouldn’t have enough energy to cross. This is called **quantum tunnelling**.",
+        "Tunnelling helps power the **Sun**. At its core, protons don’t quite have enough energy to overcome their electrical repulsion and fuse. Tunnelling lets some of them do it anyway, which is why stars shine.",
+        "It’s also used in technology: **flash memory** in phones and USB drives relies on electrons tunnelling through thin insulating layers to store data, and **scanning tunnelling microscopes** use it to image individual atoms.",
+        "As computer chips shrink, unwanted tunnelling, with electrons leaking through ultra-thin barriers, becomes one of the challenges engineers face."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If quantum mechanics is so strange, how do we know it’s right?",
+      "md": "Because its predictions have been tested with extraordinary precision, and it has never failed a well-designed experiment. One measure of an electron’s magnetic properties, calculated using quantum theory, matches experiments to around **one part in a trillion**, among the most accurate predictions in all of science. Quantum mechanics also explains the periodic table and chemistry, why some materials conduct electricity and others don’t, and how lasers, transistors, LEDs and MRI scanners work. A large share of modern technology depends on it. The strangeness is in what it says about reality, not in whether it works."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Quantum mechanics** describes the behaviour of matter and energy at the scale of atoms and smaller.",
+        "**Planck (1900)**: energy comes in **quanta**. **Bohr (1913)**: electrons occupy specific **energy levels**, explaining **spectral lines**.",
+        "**Satyendra Nath Bose** (1924) pioneered new quantum statistics; **bosons** are named after him.",
+        "The **wave function** (Schrödinger, 1926) gives **probabilities**; systems can be in **superposition** until measured.",
+        "**Schrödinger’s cat (1935)** dramatised the puzzle of superposition; **decoherence** explains why we don’t see it in large objects.",
+        "**Heisenberg’s uncertainty principle (1927)**: position and momentum can’t both be precisely known.",
+        "**Quantum tunnelling** helps power the Sun and is used in **flash memory**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Quantum mechanics is the foundation of chemistry and modern electronics, and it reveals that reality, at its smallest scales, works in ways that defy intuition. Understanding its basic ideas helps you make sense of technologies you use daily and separate genuine quantum science from the misleading way “quantum” is often used in marketing. The final lesson explores entanglement and the coming age of quantum technology."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does it mean that energy is quantised, what is superposition, and what does the uncertainty principle say?"
+  }
+}

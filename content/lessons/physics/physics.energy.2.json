@@ -1,0 +1,81 @@
+{
+  "id": "physics.energy.2",
+  "region": "physics",
+  "topic": "energy",
+  "level": 2,
+  "prerequisites": [
+    "physics.energy.1"
+  ],
+  "title": "Heat, Entropy and the Arrow of Time",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Watch a film of a glass falling off a table and shattering, then play it backwards. You see shards of glass leaping up from the floor, fitting themselves together perfectly and landing neatly back on the table. You instantly know the film is reversed.\n\nBut here’s the strange thing: the basic laws of motion work equally well forwards and backwards. Nothing in Newton’s laws forbids the glass from reassembling itself. So why do we never see it happen? The answer lies in one of the most profound laws in physics, which explains why heat flows from hot to cold, why engines can never be perfectly efficient, and why time seems to have a direction at all."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Thermodynamics** is the science of heat, energy and work. It developed in the 1800s, partly to understand and improve steam engines, but its laws turned out to apply to everything, from stars to living cells.\n\nThe **laws of thermodynamics** can be summarised informally:\n\n- **First law**: energy is conserved. You can’t get more energy out than you put in. (You can’t win.)\n- **Second law**: in any natural process, the total **entropy** of an isolated system tends to increase. Heat flows spontaneously from hot to cold, never the reverse. (You can’t break even.)\n- **Third law**: as temperature approaches **absolute zero** (−273.15 °C), entropy approaches a minimum, and absolute zero can never quite be reached.\n\nThere’s also a **zeroth law**, added later because it was so basic: if two objects are each in thermal balance with a third, they’re in balance with each other, which is what makes thermometers work."
+    },
+    {
+      "type": "text",
+      "heading": "What is entropy?",
+      "md": "**Entropy** is often loosely described as disorder, but a more precise idea comes from the Austrian physicist **Ludwig Boltzmann** in the 1870s. Entropy measures **how many ways** the particles of a system can be arranged while still looking the same from the outside.\n\nConsider a room with a perfume bottle opened in one corner. There are vastly more ways for the perfume molecules to be spread throughout the room than to be bunched up in the corner. So as the molecules move around randomly, they almost certainly end up spread out. Not because any law pushes them, but because spread-out arrangements are overwhelmingly more numerous.\n\nThe second law, then, is really about **probability**. Systems drift towards states with more possible arrangements, simply because there are so many more of them. Boltzmann’s equation linking entropy to the number of arrangements, **S = k log W**, is carved on his tombstone in Vienna."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a brand-new pack of cards, perfectly sorted by suit and number. Shuffle it, and it becomes jumbled. Shuffle it again, and it stays jumbled. Could shuffling ever return it to perfect order? In principle, yes. But there are so many jumbled arrangements, about 8 followed by 67 zeros in total, compared with just one perfectly sorted order, that you’d never expect to see it. Entropy increasing is like this, but with trillions of trillions of particles instead of 52 cards."
+    },
+    {
+      "type": "text",
+      "heading": "Why time has a direction",
+      "md": "The second law gives time an **arrow**. In the past, entropy was lower; in the future, it will be higher. That’s why:\n\n- Hot coffee cools down, but cold coffee never spontaneously heats up.\n- Eggs break but don’t unbreak.\n- Ice melts in a warm room, but water doesn’t spontaneously freeze into cubes.\n- We remember the past, not the future.\n\nThis raises a deep question: if entropy always increases, the universe must have started in a state of extraordinarily **low** entropy. Why? Cosmologists link this to the conditions of the Big Bang, but exactly why the universe began so orderly remains one of the great open questions in physics."
+    },
+    {
+      "type": "text",
+      "heading": "Heat engines and their limits",
+      "md": "A **heat engine**, like a steam engine, car engine or power station turbine, converts heat into work by letting heat flow from a hot place to a cold place, and capturing some of the energy along the way.\n\nIn **1824**, the French engineer **Sadi Carnot** showed that even a perfect engine can’t convert all its heat into work. The maximum possible efficiency depends on the temperatures of the hot and cold places: the bigger the temperature difference, the higher the possible efficiency. Some heat must always be dumped into the cold surroundings. This is why power stations have huge cooling towers, and why car engines need radiators: the waste heat is an unavoidable consequence of the second law, not just poor engineering."
+    },
+    {
+      "type": "steps",
+      "title": "How a refrigerator moves heat “uphill”",
+      "items": [
+        "Heat naturally flows from hot to cold. A fridge makes heat flow the **other way**: out of the cold interior into the warmer kitchen.",
+        "It does this using a special fluid called a **refrigerant**, pumped around a closed loop of pipes.",
+        "Inside the fridge, the refrigerant **evaporates** at low pressure, absorbing heat from the food compartment, just as sweat evaporating from your skin cools you.",
+        "A **compressor** squeezes the vapour, making it hot.",
+        "In the coils at the back of the fridge, the hot refrigerant **releases heat** into the room and condenses back into a liquid.",
+        "The cycle repeats. Moving heat against its natural direction requires **work**, supplied by electricity, and the fridge releases more heat into the room than it removes from the food. Entropy still increases overall, so the second law isn’t broken. Heat pumps, used to heat homes efficiently, work the same way in reverse."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Living things build highly ordered bodies from simple ingredients. Doesn’t life break the second law?",
+      "md": "No. The second law says total entropy increases in an **isolated** system. Living things aren’t isolated: they constantly take in energy, from food or sunlight, and release heat and waste into their surroundings. Your body maintains its low-entropy order by increasing entropy around it, mostly as heat, by much more. In **1944**, the physicist **Erwin Schrödinger** explored this in a famous short book, *What Is Life?*, describing living things as feeding on order from their environment. The Earth as a whole receives energy from the Sun in a concentrated form (visible light) and radiates it back to space as many more, lower-energy infrared photons, a flow that increases entropy and powers all life on our planet."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Thermodynamics** studies heat, energy and work; its laws apply from engines to stars to cells.",
+        "**First law**: energy is conserved. **Second law**: the entropy of an isolated system tends to increase; heat flows from hot to cold.",
+        "**Entropy**, as defined by **Boltzmann**, measures the number of ways particles can be arranged; the second law is about **probability**.",
+        "The second law gives time its **arrow**; the universe must have started with very low entropy.",
+        "**Carnot (1824)** showed no heat engine can be perfectly efficient; waste heat is unavoidable.",
+        "**Refrigerators** and **heat pumps** move heat against its natural flow using work, increasing total entropy.",
+        "Life maintains order by increasing **entropy in its surroundings**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The second law of thermodynamics explains why engines waste heat, why perpetual motion is impossible, why the future differs from the past and why life needs a constant flow of energy. It links physics to chemistry, biology, engineering and cosmology, and it’s considered by many physicists to be one of the most secure laws in all of science."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does the second law of thermodynamics say, what is entropy, and why does it explain why time seems to flow in one direction?"
+  }
+}

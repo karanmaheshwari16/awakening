@@ -1,0 +1,91 @@
+{
+  "id": "physics.light.2",
+  "region": "physics",
+  "topic": "light",
+  "level": 2,
+  "prerequisites": [
+    "physics.light.1"
+  ],
+  "title": "Wave or Particle? The Strange Nature of Light",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1905**, a 26-year-old patent clerk in Bern, Switzerland, published several papers that would transform physics. One introduced special relativity. Another explained the jiggling motion of tiny particles in water, helping prove atoms exist. A third, which Einstein himself called “very revolutionary”, proposed that light, long proven to be a wave, also comes in tiny packets of energy.\n\nMany physicists found the idea absurd. Yet experiments eventually confirmed it, and in **1921**, Albert Einstein was awarded the Nobel Prize in Physics, not for relativity, as many assume, but for this explanation of the **photoelectric effect**. It opened the door to quantum physics, and to the bizarre idea that light is somehow both a wave and a particle."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "For centuries, scientists argued about the nature of light. **Isaac Newton** believed light was made of tiny particles, which he called corpuscles. The Dutch scientist **Christiaan Huygens** argued light was a wave. Newton’s enormous reputation meant the particle view dominated for about a century.\n\nThen the evidence swung decisively towards waves, before quantum physics revealed that the truth is stranger than either side imagined."
+    },
+    {
+      "type": "text",
+      "heading": "Young’s double slit: light as a wave",
+      "md": "In **1801**, the English polymath **Thomas Young** shone light through two narrow, closely spaced slits onto a screen. If light were made of simple particles, you might expect two bright lines, one behind each slit.\n\nInstead, he saw a pattern of many alternating **bright and dark bands**. This is exactly what waves do. Where the peaks of waves from the two slits meet, they combine to make a brighter wave (**constructive interference**). Where a peak meets a trough, they cancel out, making darkness (**destructive interference**). You can see the same effect when ripples from two stones dropped in a pond overlap.\n\nYoung’s experiment was powerful evidence that light is a wave."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Picture two people dropping pebbles into a still pond at the same rhythm, a short distance apart. Two sets of circular ripples spread out and overlap. In some places, the ripples add up into big waves; in others, they cancel to calm water. Along the far bank, you’d see a pattern of rough and calm patches. Young’s bright and dark bands are that pattern, made of light."
+    },
+    {
+      "type": "text",
+      "heading": "Maxwell’s triumph",
+      "md": "In the **1860s**, the Scottish physicist **James Clerk Maxwell** developed a set of equations describing electricity and magnetism. They predicted that changing electric and magnetic fields could create waves that travel through space, and calculated their speed. It came out almost exactly equal to the measured speed of light.\n\nMaxwell concluded that **light is an electromagnetic wave**. In **1887**, the German physicist **Heinrich Hertz** produced and detected radio waves in his laboratory, confirming Maxwell’s prediction. The wave theory seemed complete."
+    },
+    {
+      "type": "text",
+      "heading": "The photoelectric effect: light as particles",
+      "md": "But one experiment didn’t fit. When light shines on certain metals, it can knock electrons out of the surface. This is the **photoelectric effect**. Experiments showed puzzling results:\n\n- **Dim blue or ultraviolet light** could knock electrons out immediately.\n- **Bright red light**, no matter how intense, couldn’t knock out any electrons at all.\n\nIf light were simply a wave, brighter light should carry more energy and eventually knock electrons out, whatever its colour. Einstein proposed a radical explanation, building on earlier work by Max Planck: light comes in tiny packets of energy, later called **photons**. Each photon’s energy depends on the light’s **frequency**: higher-frequency light, like blue and ultraviolet, has more energetic photons.\n\nAn electron can only be knocked out if a **single photon** has enough energy. Red photons individually don’t have enough, so no matter how many of them arrive, no electrons escape. A single ultraviolet photon does."
+    },
+    {
+      "type": "steps",
+      "title": "Why photon energy matters in daily life",
+      "items": [
+        "A photon’s energy is proportional to its frequency: higher frequency, more energy per photon.",
+        "**Radio waves and microwaves** have very low-energy photons, too weak to break chemical bonds in your cells. At high power, microwaves can heat things, but they don’t damage DNA directly the way ionising radiation can.",
+        "**Visible light** photons have enough energy to trigger the light-sensitive molecules in your eyes, and to drive photosynthesis in plants.",
+        "**Ultraviolet** photons carry enough energy to damage DNA in skin cells, which is why UV causes sunburn and raises skin cancer risk, and why sunscreen matters.",
+        "**X-rays and gamma rays** have very high-energy photons that can knock electrons out of atoms, called **ionising radiation**, which is why exposure is carefully limited.",
+        "It’s not just how bright the light is, but the energy of each photon, that determines what it can do."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Wave-particle duality",
+      "md": "So is light a wave or a particle? The answer from quantum physics is: **both, and neither**. Light shows wave-like behaviour, like interference, in some experiments, and particle-like behaviour, like knocking out single electrons, in others. This is called **wave-particle duality**.\n\nThe strangeness deepens when you send light through Young’s double slits **one photon at a time**. Each photon hits the screen at a single point, like a particle. But as thousands of photons arrive, one by one, they gradually build up the same pattern of bright and dark bands, as though each single photon somehow passed through **both** slits and interfered with itself. Even more strikingly, the same happens with **electrons**, and even with whole molecules: matter, too, has wave-like properties. You’ll explore what this means in the quantum lessons."
+    },
+    {
+      "type": "text",
+      "heading": "Light at work: lasers and fibre optics",
+      "md": "Understanding light as photons led to remarkable technologies.\n\n**Lasers**, first built by **Theodore Maiman** in **1960**, produce intense, focused beams of light in which photons are all of the same wavelength and move in step. They’re used in barcode scanners, surgery, eye correction, cutting metal, measuring distances and reading data.\n\n**Fibre-optic cables** carry information as pulses of light through thin strands of glass, bouncing along inside by a process called total internal reflection. The Indian-born physicist **Narinder Singh Kapany** did pioneering work on fibre optics in the 1950s, and **Charles Kao** won the 2009 Nobel Prize for showing how glass fibres could carry signals over long distances. Today, fibre-optic cables carry most of the world’s internet traffic, including the undersea cables you met in the Technology region."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do solar panels work in sunlight but not under a bright red lamp of the same brightness?",
+      "md": "Solar panels work on a principle closely related to the photoelectric effect, called the **photovoltaic effect**. Photons hitting a specially made semiconductor material, usually silicon, give electrons enough energy to move and create an electric current. As with the photoelectric effect, each photon needs a minimum energy. Sunlight contains many photons across the spectrum with enough energy, while a lamp emitting only lower-energy red light would produce much less current, even if it looked equally bright. This is also why panels are designed to absorb as wide a range of photon energies as possible, and why solar energy technology depends directly on Einstein’s 1905 insight."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Newton** thought light was particles; **Huygens** thought it was waves.",
+        "**Young’s double-slit experiment (1801)** showed **interference**, strong evidence for waves.",
+        "**Maxwell (1860s)** showed light is an **electromagnetic wave**; **Hertz (1887)** confirmed radio waves.",
+        "The **photoelectric effect** showed light comes in packets, **photons**, whose energy depends on **frequency** (**Einstein, 1905**; Nobel Prize 1921).",
+        "Light shows **wave-particle duality**; single photons and even electrons build up interference patterns.",
+        "Photon energy explains why **UV** damages skin while radio waves don’t.",
+        "**Lasers** (1960) and **fibre optics** (Kapany, Kao) depend on understanding light."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The question “what is light?” led directly to quantum physics, one of the most successful and strangest theories in science. It also underpins technologies you use daily, including solar panels, lasers, cameras and fibre-optic internet. Understanding photon energy helps you make sense of real risks, like UV exposure, and false fears, like claims that ordinary radio waves damage DNA."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what did Young’s double-slit experiment show, how did the photoelectric effect suggest light is made of particles, and what does wave-particle duality mean?"
+  }
+}

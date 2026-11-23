@@ -1,0 +1,84 @@
+{
+  "id": "physics.electricity.1",
+  "region": "physics",
+  "topic": "electricity",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Electricity: Charges, Currents and Circuits",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Around **600 BCE**, the Greek philosopher **Thales of Miletus** reportedly noticed that rubbing amber with fur made it attract light objects like feathers and straw. The Greek word for amber was *elektron*, the origin of our words “electron” and “electricity”.\n\nFor over two thousand years, this static attraction remained a curiosity. Then, in **1800**, the Italian scientist **Alessandro Volta** stacked discs of zinc and copper separated by cloth soaked in salt water and produced the first steady electric current: the first battery. The unit of electrical potential, the **volt**, is named after him. Within a century, electricity would light cities, power factories and carry messages across oceans."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Electricity** is the presence and flow of **electric charge**. Charge comes in two types: **positive** and **negative**. Like charges repel; opposite charges attract.\n\nAs you saw in the atoms lessons, atoms contain positive protons in the nucleus and negative electrons around it. Usually, they balance. But electrons, especially the outer ones in some materials, can be moved:\n\n- **Static electricity** happens when charge builds up on a surface, like when you rub a balloon on your hair or get a small shock touching a metal doorknob. Lightning is static electricity on an enormous scale.\n- **Current electricity** happens when charge flows continuously, usually electrons moving through a wire. This is what powers your devices.\n\n**Conductors**, like copper and aluminium, let electrons move easily. **Insulators**, like rubber, plastic and glass, don’t. Wires are made of copper covered in plastic for this reason."
+    },
+    {
+      "type": "text",
+      "heading": "Three key quantities",
+      "md": "**Current (I)**: the rate at which charge flows, measured in **amperes (amps, A)**. It’s like the amount of water flowing through a pipe each second.\n\n**Voltage (V)**: the “push” that drives current through a circuit, measured in **volts (V)**. More precisely, it’s the energy given to each unit of charge. It’s like the water pressure in a pipe. Household supplies are about **230 volts** in India, the UK and much of the world, and about 120 volts in the US.\n\n**Resistance (R)**: how much a material opposes the flow of current, measured in **ohms (Ω)**. It’s like a narrow section of pipe restricting the flow. Thin, long wires have more resistance than thick, short ones. Resistance turns electrical energy into heat, which is useful in kettles and heaters, and wasteful elsewhere."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an electric circuit as a water system. The battery or power supply is a **pump** creating pressure (**voltage**). The water flowing through the pipes is the **current**. Narrow sections of pipe, like a tap partly closed, are **resistance**. More pressure pushes more water through; more restriction lets less through. The analogy isn’t perfect, but it captures the key relationships."
+    },
+    {
+      "type": "text",
+      "heading": "Ohm’s law",
+      "md": "In **1827**, the German physicist **Georg Ohm** found a simple relationship between these quantities for many materials:\n\n**Voltage = Current × Resistance**, or **V = I × R**.\n\nThis means:\n\n- Increase the voltage, and more current flows (for the same resistance).\n- Increase the resistance, and less current flows (for the same voltage).\n\nFor example, a 230-volt supply connected to a heating element with a resistance of 23 ohms drives a current of 230 ÷ 23 = **10 amps**."
+    },
+    {
+      "type": "text",
+      "heading": "Circuits: series and parallel",
+      "md": "A **circuit** is a complete loop that current can flow around. If the loop is broken, as when you switch something off, current stops.\n\n- **Series circuits**: components are connected one after another in a single loop. The same current flows through each. If one component breaks, the whole circuit stops. Old-fashioned strings of festival lights sometimes worked this way: one dead bulb made them all go out.\n- **Parallel circuits**: components are connected on separate branches. Each gets the full voltage, and if one fails, the others keep working. Houses are wired in parallel, so turning off one light doesn’t turn off the others."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: what does it cost to run a heater?",
+      "items": [
+        "Electrical **power** (in watts) = **voltage × current**, or P = V × I.",
+        "A heater drawing **10 amps** from a **230-volt** supply uses 230 × 10 = **2,300 watts**, or **2.3 kilowatts**.",
+        "Electricity is billed in **kilowatt-hours (kWh)**: power in kilowatts multiplied by hours of use.",
+        "Running the heater for **3 hours** uses 2.3 × 3 = **6.9 kWh**.",
+        "If electricity costs **8** (in your local currency) per kWh, that’s 6.9 × 8 ≈ **55** for the evening.",
+        "Compare a **10-watt** LED bulb left on for those same 3 hours: 0.01 × 3 = 0.03 kWh, costing about **0.24**. Devices that **heat** or **cool**, such as heaters, geysers, air conditioners, irons and ovens, usually dominate electricity bills."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Electricity and safety",
+      "md": "Electricity is dangerous because current passing through the body can disrupt the heart’s rhythm and cause burns. It’s the **current** through the body that does the damage, and surprisingly small currents, tens of thousandths of an amp, flowing across the chest can be fatal. Dry skin has fairly high resistance, which offers some protection; wet skin has much lower resistance, which is why electricity near water is so dangerous.\n\nHomes use several safety features:\n\n- **Fuses and circuit breakers** cut off the current if too much flows, preventing overheating and fires.\n- **Earthing** (grounding) provides a safe path for current to flow into the ground if a fault occurs, rather than through a person.\n- **Residual current devices (RCDs)**, also called earth-leakage circuit breakers, detect current leaking where it shouldn’t and cut the power within a fraction of a second."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Birds sit on high-voltage power lines without being harmed. Why?",
+      "md": "Because current needs a **difference in voltage** to flow, and a complete path. A bird perched on a single wire has both feet at essentially the same voltage, so almost no current flows through its body; the current simply continues along the wire, which offers far less resistance. The danger comes if the bird, or a person, touches the wire and something at a different voltage at the same time, like another wire, a pole or the ground. Then current can flow through the body. That’s why large birds with wide wingspans are sometimes electrocuted when they touch two wires at once, and why people should stay far away from fallen power lines."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Electricity** is the presence and flow of **charge**; like charges repel, opposite charges attract.",
+        "**Static electricity** is built-up charge; **current electricity** is flowing charge. **Volta** built the first battery in **1800**.",
+        "**Current** (amps) is flow; **voltage** (volts) is push; **resistance** (ohms) opposes flow.",
+        "**Ohm’s law**: **V = I × R** (Ohm, 1827).",
+        "**Series** circuits share one loop; **parallel** circuits have separate branches, as in homes.",
+        "**Power = V × I** in watts; energy bills use **kilowatt-hours**; heating and cooling dominate costs.",
+        "**Fuses**, **earthing** and **RCDs** protect against dangerous currents."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Electricity powers almost every part of modern life. Understanding current, voltage and resistance helps you use appliances safely, understand your electricity bill and make sense of energy debates. Next, you’ll discover the deep connection between electricity and magnetism, and how power stations and the grid deliver electricity to your home."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are current, voltage and resistance, how are they related by Ohm’s law, and how would you calculate the cost of running an appliance?"
+  }
+}

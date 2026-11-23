@@ -1,0 +1,86 @@
+{
+  "id": "physics.atoms.2",
+  "region": "physics",
+  "topic": "atoms",
+  "level": 2,
+  "prerequisites": [
+    "physics.atoms.1"
+  ],
+  "title": "The Power in the Nucleus",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **December 1938**, in Berlin, the chemists **Otto Hahn** and **Fritz Strassmann** bombarded uranium with neutrons and found something baffling: traces of barium, an element roughly half the size of uranium. They couldn’t explain it.\n\nHahn wrote to his longtime colleague **Lise Meitner**, an Austrian physicist of Jewish heritage who had recently fled Nazi Germany to Sweden. Walking in the snow with her nephew, the physicist **Otto Frisch**, over the Christmas holidays, Meitner worked out the answer: the uranium nucleus had **split in two**, releasing an enormous amount of energy, calculated using Einstein’s famous equation. They called it **fission**. Within seven years, that discovery would power the first nuclear reactor and destroy two cities. Hahn alone received the Nobel Prize for it, an omission widely regarded today as a serious injustice to Meitner."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that the atomic nucleus is held together by the incredibly powerful **strong nuclear force**. Changing a nucleus, by splitting it, fusing nuclei together or letting it decay, can release vast amounts of energy, far more than chemical reactions like burning fuel.\n\nThe key is **Einstein’s equation, E = mc²**, published in **1905**. It says mass and energy are equivalent: a small amount of mass (m) corresponds to an enormous amount of energy (E), because it’s multiplied by the speed of light squared (c²), an immense number.\n\nWhen nuclei split or fuse in certain ways, the products have slightly **less mass** than the starting materials. The missing mass, called the **mass defect**, is released as energy. Converting just one gram of mass entirely into energy would release about as much as the explosion of roughly **20,000 tonnes** of TNT."
+    },
+    {
+      "type": "text",
+      "heading": "Radioactivity",
+      "md": "Some nuclei are unstable and spontaneously change, releasing radiation. This is **radioactivity**, discovered by the French physicist **Henri Becquerel** in **1896**, when he found that uranium salts darkened photographic plates even in the dark.\n\n**Marie Curie**, a Polish-French scientist, and her husband **Pierre Curie** went on to discover two new radioactive elements, **polonium** (named after Poland) and **radium**. Marie Curie became the first person to win **two** Nobel Prizes, in Physics (1903) and Chemistry (1911), and remains the only person to win in two different sciences.\n\nThere are three main types of radiation:\n\n- **Alpha particles**: two protons and two neutrons. Heavy and slow; stopped by a sheet of paper or the outer layer of skin, but dangerous if swallowed or inhaled.\n- **Beta particles**: fast electrons (or their positive counterparts). Stopped by a thin sheet of aluminium.\n- **Gamma rays**: high-energy light. Very penetrating; reduced by thick lead or concrete."
+    },
+    {
+      "type": "steps",
+      "title": "Half-life and carbon dating",
+      "items": [
+        "Radioactive decay is random for any single atom, but predictable for large numbers of them.",
+        "The **half-life** is the time it takes for **half** of a radioactive sample to decay.",
+        "**Carbon-14**, a radioactive form of carbon, has a half-life of about **5,730 years**. Living things constantly take in carbon, including a small, steady proportion of carbon-14.",
+        "When an organism dies, it stops taking in carbon, and its carbon-14 slowly decays.",
+        "After 5,730 years, half remains; after about 11,460 years, a quarter; and so on.",
+        "By measuring how much carbon-14 is left in bones, wood or cloth, scientists can estimate how long ago the organism died, up to about **50,000 years**. This technique, developed by **Willard Libby** in the late 1940s, transformed archaeology, and helped date many of the events in the History region."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Fission and the chain reaction",
+      "md": "In **fission**, a heavy nucleus, like uranium-235, absorbs a neutron, becomes unstable and splits into two smaller nuclei, releasing energy and **two or three new neutrons**.\n\nThose neutrons can strike other uranium nuclei, causing more fission, releasing more neutrons, and so on: a **chain reaction**. If uncontrolled, it releases energy in a fraction of a second: a nuclear explosion. If carefully controlled, using materials that absorb excess neutrons, it releases energy steadily: a **nuclear reactor**.\n\nThe first controlled chain reaction was achieved in **December 1942** by a team led by the Italian-American physicist **Enrico Fermi**, in a pile of uranium and graphite under a sports stadium at the University of Chicago, as part of the wartime Manhattan Project."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a chain reaction like a crowded hall full of mousetraps, each loaded with two ping-pong balls. Drop one ball in, and it sets off a trap, which launches two balls, which set off two more traps, and so on, until the whole hall erupts in seconds. A nuclear reactor is like adding nets that catch most of the flying balls, so that each trap sets off, on average, exactly one more, keeping the reaction steady."
+    },
+    {
+      "type": "text",
+      "heading": "Nuclear power",
+      "md": "A nuclear power station uses the heat from controlled fission to boil water, producing steam that drives turbines to generate electricity, much like a coal plant, but without burning fuel or emitting carbon dioxide during operation.\n\nNuclear power provides around **9%** of the world’s electricity. **France** gets roughly two-thirds of its electricity from nuclear power. **India** has a long-term nuclear programme, envisioned by the physicist **Homi Bhabha** in the 1950s as a **three-stage plan** designed eventually to use India’s large reserves of **thorium**, since the country has limited uranium.\n\nThe debate over nuclear power is intense:\n\n- **For**: very low carbon emissions; reliable power regardless of weather; a small land footprint; and, measured by deaths per unit of electricity produced, one of the **safest** energy sources, comparable to wind and solar and far safer than coal, oil and gas, which kill many people through air pollution.\n- **Against**: rare but serious accidents, like **Chernobyl** in the Soviet Union (1986) and **Fukushima** in Japan (2011, triggered by an earthquake and tsunami), which forced large evacuations; long-lived **radioactive waste** that must be stored safely for thousands of years; high construction costs and long building times; and links to nuclear weapons proliferation."
+    },
+    {
+      "type": "text",
+      "heading": "Fusion: powering the stars",
+      "md": "**Fusion** is the opposite of fission: light nuclei, such as forms of hydrogen, join together to form heavier ones, releasing energy. Fusion powers the **Sun** and all stars, as you saw in the Space region.\n\nAchieving fusion on Earth requires temperatures of over **100 million degrees Celsius**, hotter than the Sun’s core, to force nuclei close enough together. The fuel is abundant, fusion produces no long-lived high-level waste, and a runaway chain reaction isn’t possible.\n\nIn **December 2022**, the **National Ignition Facility** in California achieved a milestone: for the first time, a fusion experiment released more energy (about **3.15 megajoules**) than the laser energy delivered to the fuel (about **2.05 megajoules**). However, the lasers themselves used far more energy from the grid, so practical fusion power is still likely decades away. The international **ITER** project in France, with India among its members, is building a large fusion reactor to test the technology at scale."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Are you exposed to radiation every day?",
+      "md": "Yes. Everyone is constantly exposed to low levels of natural **background radiation**: from radon gas seeping out of rocks and soil, cosmic rays from space, radioactive elements in the ground and building materials, and even from your own body, which contains small amounts of radioactive potassium and carbon. A banana contains a tiny amount of radioactive potassium-40. The average person worldwide receives a few millisieverts of natural radiation a year, varying greatly by location; parts of Kerala, India, have unusually high natural background levels because of thorium-rich sands. A chest X-ray adds a small dose; a CT scan considerably more. Low doses carry very small risks; high doses can cause radiation sickness and increase cancer risk, which is why medical imaging is used when its benefits outweigh those small risks."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**E = mc²** (Einstein, 1905): tiny amounts of mass correspond to enormous energy; nuclear reactions release energy from a **mass defect**.",
+        "**Radioactivity** was discovered by **Becquerel (1896)**; **Marie Curie** discovered polonium and radium and won two Nobel Prizes.",
+        "**Alpha**, **beta** and **gamma** radiation differ in penetrating power.",
+        "**Half-life** enables **carbon-14 dating** (half-life ~5,730 years).",
+        "**Fission** splits heavy nuclei; a controlled **chain reaction** powers reactors (Fermi, **1942**).",
+        "**Nuclear power** is low-carbon and statistically very safe but raises concerns about accidents, waste and cost.",
+        "**Fusion** powers stars; the **NIF** achieved a net energy gain from the fuel in **2022**, but practical fusion power remains distant."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Nuclear physics shapes major decisions about energy, climate and security. Understanding how fission, fusion and radiation actually work helps you evaluate debates about nuclear power, nuclear weapons and medical imaging, beyond fear or hype. And it reveals the extraordinary energy locked inside every atom, the same energy that makes the stars shine."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do fission and fusion release energy, what is a half-life, and what are the main arguments for and against nuclear power?"
+  }
+}

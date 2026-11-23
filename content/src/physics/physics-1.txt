@@ -1,0 +1,289 @@
+##### LESSON
+id: physics.forces.2
+title: Momentum, Friction and Going in Circles
+minutes: 14
+prereq: physics.forces.1
+check: In your own words: what is momentum and why is it conserved, how do airbags reduce injuries, and what force keeps a car moving around a curve?
+
+=== hook
+On **2 August 1971**, standing on the Moon, Apollo 15 astronaut **David Scott** held up a geological hammer in one hand and a falcon feather in the other, and let them go at the same moment. On live television, they fell side by side and hit the dusty ground together.
+
+On Earth, the feather would drift down slowly, held back by air. On the airless Moon, it fell exactly as fast as the hammer. Scott said the experiment proved Galileo right. Galileo had argued, over three centuries earlier, that without air resistance, all objects fall at the same rate regardless of their weight. It took a trip to the Moon to show it so clearly.
+
+=== core
+In the previous lesson, you met Newton’s three laws: inertia, F = ma, and equal and opposite forces. This lesson builds on them with several ideas that explain collisions, car safety, falling and turning.
+
+The first is **momentum**: a measure of how hard it is to stop a moving object. Momentum equals **mass × velocity**. A slow, heavy lorry and a fast, light bullet can both have large momentum.
+
+Momentum has a remarkable property: in any collision or interaction, as long as no outside force acts, the **total momentum stays the same**. This is the **law of conservation of momentum**. It follows from Newton’s third law: when two objects push on each other, they exchange equal and opposite amounts of momentum.
+
+=== text Conservation of momentum in action
+- **Recoil**: when a gun fires a bullet forward, the gun is pushed backward. The bullet’s forward momentum is balanced by the gun’s backward momentum. Because the gun is much heavier, it moves much more slowly.
+- **Rockets**: a rocket pushes exhaust gas backward at high speed, and gains equal momentum forward, which is why rockets work in space, as you saw in the previous lesson.
+- **Newton’s cradle**: in the desk toy with a row of hanging steel balls, lift and release one ball and one ball swings out at the other end; lift two and two swing out. Momentum (and energy) passes through the row.
+- **Ice skaters**: two skaters standing still push each other apart. They move in opposite directions, the lighter skater faster, so their momenta still add up to zero.
+
+=== callout analogy
+Think of momentum as a kind of motion money that can be passed between objects but never created or destroyed in a collision. When a cue ball hits another snooker ball and stops dead, it has handed all its motion money to the other ball, which rolls off with the same momentum the cue ball had.
+
+=== text Stopping safely: impulse
+To change an object’s momentum, you need a force acting for some time. The change in momentum equals **force × time**, called **impulse**.
+
+That has a life-saving consequence. To stop a moving body, the change in momentum is fixed. But if you **stretch out the time** the stop takes, the force needed becomes much smaller.
+
+- **Airbags** and **seatbelts** slow your body over a longer time than hitting the dashboard would, greatly reducing the force on you.
+- **Crumple zones** in cars are designed to collapse in a crash, lengthening the collision time and absorbing energy, so passengers experience less force.
+- Bending your knees when you land from a jump, or a cricketer drawing their hands back when catching a hard ball, does the same thing.
+
+=== steps Worked example: why seatbelts matter
+- A 70 kg passenger travelling at **50 km/h** (about **14 m/s**) has momentum of 70 × 14 ≈ **980 kg·m/s**.
+- In a crash, that momentum must drop to zero.
+- **Without a seatbelt**, if they hit a hard dashboard and stop in about **0.01 seconds**, the average force is 980 ÷ 0.01 ≈ **98,000 newtons**, roughly 140 times their body weight.
+- **With a seatbelt and airbag**, stopping over about **0.15 seconds**, the force is 980 ÷ 0.15 ≈ **6,500 newtons**, around 15 times lower.
+- Same speed, same mass, same change in momentum. Spreading the stop over a longer time makes the force survivable.
+
+=== text Friction: the force that both helps and hinders
+**Friction** is the force that resists surfaces sliding against each other. It comes from microscopic bumps and the attraction between molecules where surfaces touch.
+
+- **Static friction** holds objects still. It’s why you can walk: your foot pushes backward on the ground, and static friction pushes you forward. On ice, with little friction, walking becomes difficult.
+- **Kinetic friction** acts once things are sliding, and is usually a bit weaker than static friction. That’s why it takes more effort to start pushing a heavy box than to keep it moving.
+
+Friction wastes energy as heat in engines and machines, so engineers use lubricants and ball bearings to reduce it. But brakes, tyres and even holding a pen depend on it.
+
+=== text Falling through air: terminal velocity
+When an object falls through air, air resistance pushes upward, and it grows as the object speeds up. Eventually, air resistance balances gravity; the net force becomes zero, and, by Newton’s first law, the object stops accelerating. It continues at a steady speed called **terminal velocity**.
+
+A skydiver falling belly-down reaches a terminal velocity of roughly **200 km/h**. Diving head-first, with less air resistance, they can go much faster. Opening a parachute greatly increases air resistance, lowering terminal velocity to a safe landing speed. Small creatures, like insects, have such low terminal velocities that they can survive falls from great heights.
+
+=== text Going round in circles
+By Newton’s first law, a moving object travels in a straight line unless a force acts on it. So to move in a **circle**, an object needs a constant force pulling it towards the centre of the circle. This is called **centripetal force** (“centre-seeking”).
+
+- For a car turning a corner, **friction** between the tyres and road provides the centripetal force. On an icy or oily road, friction may not be enough, and the car slides straight on.
+- For the Moon orbiting Earth, **gravity** provides it, as you saw in the Space region.
+- For a ball whirled on a string, **tension** in the string provides it.
+
+The faster you go, or the tighter the turn, the more centripetal force is needed. That’s why sharp bends have lower speed limits, and why race tracks and some roads are **banked**, tilted inward to help push vehicles round the curve.
+
+=== reveal When a car turns sharply, you feel pushed outward against the door. What force is pushing you?
+No outward force is pushing you. Your body, by inertia, tends to keep moving in a straight line. The car turns beneath you, and the door pushes **inward** on you, providing the centripetal force that makes you follow the curve. The feeling of being flung outward is sometimes called **centrifugal force**, and it’s useful in some calculations, but it’s really the effect of inertia, viewed from inside a turning vehicle. The same principle drives the spin cycle in a washing machine: the drum pushes the clothes in a circle, but the water passes through the holes and continues in a straight line, out of the clothes.
+
+=== keypoints
+- **Momentum** = mass × velocity; in collisions, total momentum is **conserved**.
+- Conservation of momentum explains **recoil**, **rockets** and **Newton’s cradle**.
+- **Impulse** = force × time; **airbags**, **seatbelts** and **crumple zones** lengthen stopping time to reduce force.
+- **Friction** resists sliding: **static** friction holds things still, **kinetic** friction acts while sliding.
+- **Terminal velocity** is reached when air resistance balances gravity; Apollo 15 showed objects fall equally without air.
+- Moving in a circle requires **centripetal force** towards the centre; “centrifugal force” is really inertia.
+
+=== why
+These ideas are behind car safety design, sports techniques, parachutes, spacecraft and the way you walk. Understanding momentum and impulse could genuinely save your life, by explaining why seatbelts and helmets matter so much. Next, you’ll explore energy: the quantity that, like momentum, is never created or destroyed.
+
+##### LESSON
+id: physics.energy.1
+title: Energy: The Currency of the Universe
+minutes: 14
+check: In your own words: what is the law of conservation of energy, and trace the energy changes from sunlight to you climbing a flight of stairs.
+
+=== hook
+In the 1840s, an English brewer’s son named **James Prescott Joule** carried out a series of patient experiments. In one, a falling weight turned a paddle wheel inside a container of water. The churning paddles warmed the water by a tiny amount, a fraction of a degree. Joule measured it with extraordinary care.
+
+He showed that a given amount of mechanical work always produced the same amount of heat. Motion and heat weren’t separate things; they were different forms of the same underlying quantity. The scientific unit of energy, the **joule**, is named after him. His work helped establish one of the most important laws in all of science: energy can change form, but it is never created or destroyed.
+
+=== core
+**Energy** is the capacity to do **work**, to cause change: to move things, heat them, light them up or power chemical reactions. It comes in many forms:
+
+- **Kinetic energy**: the energy of motion. A moving car, a flowing river, a flying ball.
+- **Potential energy**: stored energy, due to position or arrangement.
+  - **Gravitational**: a book on a high shelf, water behind a dam.
+  - **Chemical**: stored in the bonds of molecules, in food, fuel and batteries.
+  - **Elastic**: a stretched spring or rubber band.
+  - **Nuclear**: stored in the nuclei of atoms.
+- **Thermal energy**: the random motion of particles, which we experience as temperature.
+- **Radiant energy**: carried by light and other electromagnetic waves.
+- **Electrical energy**: carried by moving electric charges.
+
+=== text The law of conservation of energy
+The **law of conservation of energy** states that energy cannot be created or destroyed, only **transformed** from one form to another or **transferred** from one object to another. The total amount of energy in a closed system stays constant.
+
+This is one of the most thoroughly tested laws in science. Whenever energy seems to disappear, it has been converted into a form that’s harder to notice, usually **heat**. A ball bouncing lower each time isn’t losing energy into nothing; it’s converting some kinetic energy into heat and sound with each bounce.
+
+=== callout analogy
+Think of energy as money that can be exchanged between different currencies, such as rupees, dollars and euros, but never printed or burned. When you exchange it, some might go to fees (heat lost along the way), but the total, counting the fees, is always the same. Physics is the strictest accountant in the universe: the books always balance.
+
+=== steps Following energy from the Sun to the stairs
+- Inside the **Sun**, nuclear fusion converts a tiny amount of mass into a huge amount of energy, as you saw in the Space region.
+- That energy travels to Earth as **radiant energy**: sunlight.
+- A **plant** captures sunlight through photosynthesis, storing it as **chemical energy** in sugars and other molecules.
+- You eat food made from plants (or from animals that ate plants). Your body breaks down the molecules, releasing **chemical energy**.
+- Your muscles convert some of it into **kinetic energy** to move your legs, and as you climb, into **gravitational potential energy** as you rise higher.
+- Much of the food energy is released as **thermal energy**, which is why you warm up when exercising. At no step was energy created or destroyed; it simply changed form.
+
+=== text Measuring energy and power
+The scientific unit of energy is the **joule (J)**. Lifting an apple (about 100 grams) by one metre takes roughly one joule.
+
+Food energy is usually measured in **kilocalories** (often written as Calories): one kilocalorie is about **4,184 joules**.
+
+**Power** is the **rate** of using or transferring energy, measured in **watts (W)**: one watt is one joule per second. A 10-watt LED bulb uses 10 joules every second.
+
+Electricity bills use the **kilowatt-hour (kWh)**: the energy used by a 1,000-watt appliance running for one hour, equal to **3.6 million joules**.
+
+=== steps Worked example: can you burn off a sweet by climbing stairs?
+- Gravitational potential energy = mass × gravity × height. On Earth, gravity is about **9.8** newtons per kilogram.
+- A 70 kg person climbing a 10-metre staircase (about three floors) gains 70 × 9.8 × 10 ≈ **6,900 joules**.
+- That’s about **1.6 kilocalories**.
+- A single sweet or biscuit might contain **50 to 100** kilocalories.
+- Human muscles are only roughly **20–25%** efficient; the rest becomes heat. So the body actually burns several times more food energy than the climb itself requires, perhaps 7 or 8 kilocalories. That’s still far less than one biscuit.
+- Food contains a lot of energy, which is why exercise alone is a slow way to offset large amounts of food, though exercise has many other benefits, as you saw in the Mind region.
+
+=== text Efficiency: where the energy goes
+No real machine converts energy perfectly into the form we want. **Efficiency** measures how much of the input energy becomes **useful** output.
+
+- An old-fashioned **incandescent light bulb** converted only around **5%** of its electrical energy into light; the rest became heat. An **LED** bulb is several times more efficient.
+- A typical **petrol car engine** converts roughly 20–30% of fuel energy into motion; most is lost as heat.
+- **Electric motors** are often over **85–90%** efficient.
+
+Improving efficiency is one of the cheapest ways to reduce energy use and costs, from better bulbs and appliances to insulated homes.
+
+=== reveal Why can’t we build a perpetual motion machine that runs forever, producing free energy?
+Because it would violate the **conservation of energy**. A machine that produces more energy than it takes in would be creating energy from nothing. And even a machine that simply keeps running forever, with no input, would eventually stop, because some energy is always converted into heat by friction and other effects, as the next lesson explains. Inventors have proposed perpetual motion machines for centuries, and patent offices in many countries refuse to grant patents for them without a working model. None has ever worked.
+
+=== keypoints
+- **Energy** is the capacity to do work or cause change, in forms like **kinetic**, **potential** (gravitational, chemical, elastic, nuclear), **thermal**, **radiant** and **electrical**.
+- **Conservation of energy**: energy is never created or destroyed, only **transformed** or **transferred** (established partly by **Joule** in the 1840s).
+- Energy flows from **sunlight** to **plants** to **food** to **muscles**, changing form at each step.
+- Energy is measured in **joules**; food in **kilocalories** (about 4,184 J); electricity in **kilowatt-hours** (3.6 million J).
+- **Power** is energy per second, measured in **watts**.
+- **Efficiency** measures useful output; most real machines lose much energy as **heat**.
+
+=== why
+Energy is central to almost every issue in the modern world: climate change, electricity bills, food and nutrition, transport and technology. Understanding that energy is conserved but often wasted as heat helps you make sense of debates about energy sources, efficiency and the future of power. Next, you’ll see why energy always tends to spread out, and why that gives time its direction.
+
+##### LESSON
+id: physics.energy.2
+title: Heat, Entropy and the Arrow of Time
+minutes: 15
+prereq: physics.energy.1
+check: In your own words: what does the second law of thermodynamics say, what is entropy, and why does it explain why time seems to flow in one direction?
+
+=== hook
+Watch a film of a glass falling off a table and shattering, then play it backwards. You see shards of glass leaping up from the floor, fitting themselves together perfectly and landing neatly back on the table. You instantly know the film is reversed.
+
+But here’s the strange thing: the basic laws of motion work equally well forwards and backwards. Nothing in Newton’s laws forbids the glass from reassembling itself. So why do we never see it happen? The answer lies in one of the most profound laws in physics, which explains why heat flows from hot to cold, why engines can never be perfectly efficient, and why time seems to have a direction at all.
+
+=== core
+**Thermodynamics** is the science of heat, energy and work. It developed in the 1800s, partly to understand and improve steam engines, but its laws turned out to apply to everything, from stars to living cells.
+
+The **laws of thermodynamics** can be summarised informally:
+
+- **First law**: energy is conserved. You can’t get more energy out than you put in. (You can’t win.)
+- **Second law**: in any natural process, the total **entropy** of an isolated system tends to increase. Heat flows spontaneously from hot to cold, never the reverse. (You can’t break even.)
+- **Third law**: as temperature approaches **absolute zero** (−273.15 °C), entropy approaches a minimum, and absolute zero can never quite be reached.
+
+There’s also a **zeroth law**, added later because it was so basic: if two objects are each in thermal balance with a third, they’re in balance with each other, which is what makes thermometers work.
+
+=== text What is entropy?
+**Entropy** is often loosely described as disorder, but a more precise idea comes from the Austrian physicist **Ludwig Boltzmann** in the 1870s. Entropy measures **how many ways** the particles of a system can be arranged while still looking the same from the outside.
+
+Consider a room with a perfume bottle opened in one corner. There are vastly more ways for the perfume molecules to be spread throughout the room than to be bunched up in the corner. So as the molecules move around randomly, they almost certainly end up spread out. Not because any law pushes them, but because spread-out arrangements are overwhelmingly more numerous.
+
+The second law, then, is really about **probability**. Systems drift towards states with more possible arrangements, simply because there are so many more of them. Boltzmann’s equation linking entropy to the number of arrangements, **S = k log W**, is carved on his tombstone in Vienna.
+
+=== callout analogy
+Think of a brand-new pack of cards, perfectly sorted by suit and number. Shuffle it, and it becomes jumbled. Shuffle it again, and it stays jumbled. Could shuffling ever return it to perfect order? In principle, yes. But there are so many jumbled arrangements, about 8 followed by 67 zeros in total, compared with just one perfectly sorted order, that you’d never expect to see it. Entropy increasing is like this, but with trillions of trillions of particles instead of 52 cards.
+
+=== text Why time has a direction
+The second law gives time an **arrow**. In the past, entropy was lower; in the future, it will be higher. That’s why:
+
+- Hot coffee cools down, but cold coffee never spontaneously heats up.
+- Eggs break but don’t unbreak.
+- Ice melts in a warm room, but water doesn’t spontaneously freeze into cubes.
+- We remember the past, not the future.
+
+This raises a deep question: if entropy always increases, the universe must have started in a state of extraordinarily **low** entropy. Why? Cosmologists link this to the conditions of the Big Bang, but exactly why the universe began so orderly remains one of the great open questions in physics.
+
+=== text Heat engines and their limits
+A **heat engine**, like a steam engine, car engine or power station turbine, converts heat into work by letting heat flow from a hot place to a cold place, and capturing some of the energy along the way.
+
+In **1824**, the French engineer **Sadi Carnot** showed that even a perfect engine can’t convert all its heat into work. The maximum possible efficiency depends on the temperatures of the hot and cold places: the bigger the temperature difference, the higher the possible efficiency. Some heat must always be dumped into the cold surroundings. This is why power stations have huge cooling towers, and why car engines need radiators: the waste heat is an unavoidable consequence of the second law, not just poor engineering.
+
+=== steps How a refrigerator moves heat “uphill”
+- Heat naturally flows from hot to cold. A fridge makes heat flow the **other way**: out of the cold interior into the warmer kitchen.
+- It does this using a special fluid called a **refrigerant**, pumped around a closed loop of pipes.
+- Inside the fridge, the refrigerant **evaporates** at low pressure, absorbing heat from the food compartment, just as sweat evaporating from your skin cools you.
+- A **compressor** squeezes the vapour, making it hot.
+- In the coils at the back of the fridge, the hot refrigerant **releases heat** into the room and condenses back into a liquid.
+- The cycle repeats. Moving heat against its natural direction requires **work**, supplied by electricity, and the fridge releases more heat into the room than it removes from the food. Entropy still increases overall, so the second law isn’t broken. Heat pumps, used to heat homes efficiently, work the same way in reverse.
+
+=== reveal Living things build highly ordered bodies from simple ingredients. Doesn’t life break the second law?
+No. The second law says total entropy increases in an **isolated** system. Living things aren’t isolated: they constantly take in energy, from food or sunlight, and release heat and waste into their surroundings. Your body maintains its low-entropy order by increasing entropy around it, mostly as heat, by much more. In **1944**, the physicist **Erwin Schrödinger** explored this in a famous short book, *What Is Life?*, describing living things as feeding on order from their environment. The Earth as a whole receives energy from the Sun in a concentrated form (visible light) and radiates it back to space as many more, lower-energy infrared photons, a flow that increases entropy and powers all life on our planet.
+
+=== keypoints
+- **Thermodynamics** studies heat, energy and work; its laws apply from engines to stars to cells.
+- **First law**: energy is conserved. **Second law**: the entropy of an isolated system tends to increase; heat flows from hot to cold.
+- **Entropy**, as defined by **Boltzmann**, measures the number of ways particles can be arranged; the second law is about **probability**.
+- The second law gives time its **arrow**; the universe must have started with very low entropy.
+- **Carnot (1824)** showed no heat engine can be perfectly efficient; waste heat is unavoidable.
+- **Refrigerators** and **heat pumps** move heat against its natural flow using work, increasing total entropy.
+- Life maintains order by increasing **entropy in its surroundings**.
+
+=== why
+The second law of thermodynamics explains why engines waste heat, why perpetual motion is impossible, why the future differs from the past and why life needs a constant flow of energy. It links physics to chemistry, biology, engineering and cosmology, and it’s considered by many physicists to be one of the most secure laws in all of science.
+
+##### LESSON
+id: physics.atoms.1
+title: Inside the Atom
+minutes: 15
+check: In your own words: what did Rutherford’s gold foil experiment reveal, what are the three main particles in an atom, and why does solid matter feel solid if atoms are mostly empty space?
+
+=== hook
+In **1909**, at the University of Manchester, **Hans Geiger** and a young student, **Ernest Marsden**, working under **Ernest Rutherford**, fired tiny, fast-moving particles at a sheet of gold foil just a few hundred atoms thick. Most passed straight through, as expected. But a very small fraction bounced back, almost directly towards the source.
+
+Rutherford was astonished. He later said it was as if you had fired a 15-inch artillery shell at a piece of tissue paper and it had come back and hit you. That single observation overturned the existing picture of the atom and revealed something remarkable: the atom is almost entirely empty, with nearly all its mass packed into a tiny, dense centre.
+
+=== core
+Everything around you, including air, water, rock and your own body, is made of **atoms**. They are incredibly small: a typical atom is about a **tenth of a billionth of a metre** across. A single human hair is about a million atoms wide.
+
+The idea of atoms is ancient. Around the 5th century BCE, the Greek philosophers **Leucippus** and **Democritus** proposed that matter is made of tiny, indivisible particles they called *atomos*, meaning “uncuttable”. In ancient India, the philosopher **Kanada**, founder of the **Vaisheshika** school, also proposed that matter is made of indivisible particles, called **paramanu**. But these were philosophical ideas, not tested theories.
+
+Modern atomic theory began in **1808**, when the English chemist **John Dalton** argued, based on careful experiments, that each chemical element is made of its own kind of atom, and that atoms combine in fixed ratios to form compounds.
+
+=== steps How our picture of the atom evolved
+- **1897**: **J. J. Thomson** discovered the **electron**, a tiny, negatively charged particle, far lighter than any atom. Atoms, it turned out, could be cut after all.
+- Thomson proposed a **“plum pudding” model**: a ball of positive charge with negative electrons dotted through it, like plums in a pudding.
+- **1909–1911**: The gold foil experiment showed this was wrong. If positive charge were spread out evenly, nothing could bounce back. Rutherford concluded that positive charge and most of the mass must be concentrated in a tiny **nucleus**, with electrons around it and mostly empty space in between.
+- **1913**: **Niels Bohr** proposed that electrons orbit the nucleus only at certain fixed energy levels, which explained the colours of light atoms emit, as you’ll see in the quantum lessons.
+- **1919**: Rutherford identified the **proton**, the positively charged particle in the nucleus.
+- **1932**: **James Chadwick** discovered the **neutron**, a particle with no charge, also in the nucleus.
+- Later, quantum mechanics replaced neat orbits with fuzzy **clouds of probability**, showing where electrons are likely to be found.
+
+=== text The three main particles
+- **Protons**: positively charged, found in the nucleus. The number of protons determines which **element** an atom is, as you saw in the Chemistry region: hydrogen has 1, carbon 6, gold 79.
+- **Neutrons**: no charge, also in the nucleus, with about the same mass as a proton. They help hold the nucleus together.
+- **Electrons**: negatively charged, about **1,800 times lighter** than a proton, found in regions around the nucleus. In a neutral atom, the number of electrons equals the number of protons. Electrons are responsible for chemical bonding and electricity.
+
+Atoms of the same element can have different numbers of neutrons; these versions are called **isotopes**. For example, most carbon atoms have 6 neutrons (carbon-12), but some have 8 (carbon-14), which is radioactive and used to date ancient remains.
+
+=== callout analogy
+If an atom were enlarged to the size of a large cricket or football stadium, the nucleus would be about the size of a small pea in the centre. The electrons would be like tiny specks of dust somewhere in the stands. Everything else would be empty space. Yet that pea would contain more than **99.9%** of the atom’s mass.
+
+=== text What holds the nucleus together?
+The nucleus poses a puzzle. Protons are all positively charged, and like charges repel each other strongly, especially when packed so closely together. So why doesn’t the nucleus fly apart?
+
+The answer is the **strong nuclear force**, one of the four fundamental forces of nature (along with gravity, electromagnetism and the weak nuclear force). It’s extremely powerful at very short distances, strong enough to overcome the electrical repulsion between protons, but it acts only over distances about the size of a nucleus. Neutrons help, contributing strong-force attraction without adding repulsion. Much of the energy stored in nuclei, released in nuclear power and nuclear weapons, comes from this force, as the next lesson explains.
+
+Protons and neutrons themselves are made of smaller particles called **quarks**, held together by the strong force. Electrons, as far as we know, are fundamental: not made of anything smaller.
+
+=== reveal If atoms are mostly empty space, why can’t you walk through walls?
+Because of **electromagnetic forces** and the rules of quantum physics. The electrons on the outside of the atoms in your hand and those in the wall are negatively charged and repel each other strongly. On top of that, a quantum rule called the **Pauli exclusion principle** prevents electrons from crowding into the same states, which makes matter resist being squeezed together. So, strangely, when you touch a table, your atoms never really touch its atoms in the everyday sense. What you feel is the electromagnetic push between their electrons. Solidity isn’t about atoms being full; it’s about forces and quantum rules keeping them apart.
+
+=== keypoints
+- All matter is made of **atoms**, about a tenth of a billionth of a metre across.
+- Ancient ideas of atoms came from **Democritus** and **Kanada**; modern atomic theory began with **Dalton (1808)**.
+- **Thomson (1897)** discovered the **electron**; **Rutherford’s gold foil experiment (1909–11)** revealed the tiny, dense **nucleus**.
+- Atoms contain **protons** (positive), **neutrons** (neutral) and **electrons** (negative, about 1,800 times lighter).
+- **Isotopes** are atoms of the same element with different numbers of neutrons.
+- The **strong nuclear force** holds the nucleus together; protons and neutrons are made of **quarks**.
+- Atoms are mostly **empty space**; solidity comes from **electromagnetic repulsion** and the **Pauli exclusion principle**.
+
+=== why
+The atom is the foundation of chemistry, biology, materials science and modern technology, from electronics to medicine. Understanding its structure explains why elements behave as they do, how nuclear energy works and why the world around us feels solid. Next, you’ll explore the enormous energy hidden in the atomic nucleus.

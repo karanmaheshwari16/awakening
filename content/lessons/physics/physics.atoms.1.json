@@ -1,0 +1,75 @@
+{
+  "id": "physics.atoms.1",
+  "region": "physics",
+  "topic": "atoms",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Inside the Atom",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1909**, at the University of Manchester, **Hans Geiger** and a young student, **Ernest Marsden**, working under **Ernest Rutherford**, fired tiny, fast-moving particles at a sheet of gold foil just a few hundred atoms thick. Most passed straight through, as expected. But a very small fraction bounced back, almost directly towards the source.\n\nRutherford was astonished. He later said it was as if you had fired a 15-inch artillery shell at a piece of tissue paper and it had come back and hit you. That single observation overturned the existing picture of the atom and revealed something remarkable: the atom is almost entirely empty, with nearly all its mass packed into a tiny, dense centre."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Everything around you, including air, water, rock and your own body, is made of **atoms**. They are incredibly small: a typical atom is about a **tenth of a billionth of a metre** across. A single human hair is about a million atoms wide.\n\nThe idea of atoms is ancient. Around the 5th century BCE, the Greek philosophers **Leucippus** and **Democritus** proposed that matter is made of tiny, indivisible particles they called *atomos*, meaning “uncuttable”. In ancient India, the philosopher **Kanada**, founder of the **Vaisheshika** school, also proposed that matter is made of indivisible particles, called **paramanu**. But these were philosophical ideas, not tested theories.\n\nModern atomic theory began in **1808**, when the English chemist **John Dalton** argued, based on careful experiments, that each chemical element is made of its own kind of atom, and that atoms combine in fixed ratios to form compounds."
+    },
+    {
+      "type": "steps",
+      "title": "How our picture of the atom evolved",
+      "items": [
+        "**1897**: **J. J. Thomson** discovered the **electron**, a tiny, negatively charged particle, far lighter than any atom. Atoms, it turned out, could be cut after all.",
+        "Thomson proposed a **“plum pudding” model**: a ball of positive charge with negative electrons dotted through it, like plums in a pudding.",
+        "**1909–1911**: The gold foil experiment showed this was wrong. If positive charge were spread out evenly, nothing could bounce back. Rutherford concluded that positive charge and most of the mass must be concentrated in a tiny **nucleus**, with electrons around it and mostly empty space in between.",
+        "**1913**: **Niels Bohr** proposed that electrons orbit the nucleus only at certain fixed energy levels, which explained the colours of light atoms emit, as you’ll see in the quantum lessons.",
+        "**1919**: Rutherford identified the **proton**, the positively charged particle in the nucleus.",
+        "**1932**: **James Chadwick** discovered the **neutron**, a particle with no charge, also in the nucleus.",
+        "Later, quantum mechanics replaced neat orbits with fuzzy **clouds of probability**, showing where electrons are likely to be found."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The three main particles",
+      "md": "- **Protons**: positively charged, found in the nucleus. The number of protons determines which **element** an atom is, as you saw in the Chemistry region: hydrogen has 1, carbon 6, gold 79.\n- **Neutrons**: no charge, also in the nucleus, with about the same mass as a proton. They help hold the nucleus together.\n- **Electrons**: negatively charged, about **1,800 times lighter** than a proton, found in regions around the nucleus. In a neutral atom, the number of electrons equals the number of protons. Electrons are responsible for chemical bonding and electricity.\n\nAtoms of the same element can have different numbers of neutrons; these versions are called **isotopes**. For example, most carbon atoms have 6 neutrons (carbon-12), but some have 8 (carbon-14), which is radioactive and used to date ancient remains."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "If an atom were enlarged to the size of a large cricket or football stadium, the nucleus would be about the size of a small pea in the centre. The electrons would be like tiny specks of dust somewhere in the stands. Everything else would be empty space. Yet that pea would contain more than **99.9%** of the atom’s mass."
+    },
+    {
+      "type": "text",
+      "heading": "What holds the nucleus together?",
+      "md": "The nucleus poses a puzzle. Protons are all positively charged, and like charges repel each other strongly, especially when packed so closely together. So why doesn’t the nucleus fly apart?\n\nThe answer is the **strong nuclear force**, one of the four fundamental forces of nature (along with gravity, electromagnetism and the weak nuclear force). It’s extremely powerful at very short distances, strong enough to overcome the electrical repulsion between protons, but it acts only over distances about the size of a nucleus. Neutrons help, contributing strong-force attraction without adding repulsion. Much of the energy stored in nuclei, released in nuclear power and nuclear weapons, comes from this force, as the next lesson explains.\n\nProtons and neutrons themselves are made of smaller particles called **quarks**, held together by the strong force. Electrons, as far as we know, are fundamental: not made of anything smaller."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If atoms are mostly empty space, why can’t you walk through walls?",
+      "md": "Because of **electromagnetic forces** and the rules of quantum physics. The electrons on the outside of the atoms in your hand and those in the wall are negatively charged and repel each other strongly. On top of that, a quantum rule called the **Pauli exclusion principle** prevents electrons from crowding into the same states, which makes matter resist being squeezed together. So, strangely, when you touch a table, your atoms never really touch its atoms in the everyday sense. What you feel is the electromagnetic push between their electrons. Solidity isn’t about atoms being full; it’s about forces and quantum rules keeping them apart."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "All matter is made of **atoms**, about a tenth of a billionth of a metre across.",
+        "Ancient ideas of atoms came from **Democritus** and **Kanada**; modern atomic theory began with **Dalton (1808)**.",
+        "**Thomson (1897)** discovered the **electron**; **Rutherford’s gold foil experiment (1909–11)** revealed the tiny, dense **nucleus**.",
+        "Atoms contain **protons** (positive), **neutrons** (neutral) and **electrons** (negative, about 1,800 times lighter).",
+        "**Isotopes** are atoms of the same element with different numbers of neutrons.",
+        "The **strong nuclear force** holds the nucleus together; protons and neutrons are made of **quarks**.",
+        "Atoms are mostly **empty space**; solidity comes from **electromagnetic repulsion** and the **Pauli exclusion principle**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The atom is the foundation of chemistry, biology, materials science and modern technology, from electronics to medicine. Understanding its structure explains why elements behave as they do, how nuclear energy works and why the world around us feels solid. Next, you’ll explore the enormous energy hidden in the atomic nucleus."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what did Rutherford’s gold foil experiment reveal, what are the three main particles in an atom, and why does solid matter feel solid if atoms are mostly empty space?"
+  }
+}

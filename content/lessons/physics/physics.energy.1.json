@@ -1,0 +1,90 @@
+{
+  "id": "physics.energy.1",
+  "region": "physics",
+  "topic": "energy",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Energy: The Currency of the Universe",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1840s, an English brewer’s son named **James Prescott Joule** carried out a series of patient experiments. In one, a falling weight turned a paddle wheel inside a container of water. The churning paddles warmed the water by a tiny amount, a fraction of a degree. Joule measured it with extraordinary care.\n\nHe showed that a given amount of mechanical work always produced the same amount of heat. Motion and heat weren’t separate things; they were different forms of the same underlying quantity. The scientific unit of energy, the **joule**, is named after him. His work helped establish one of the most important laws in all of science: energy can change form, but it is never created or destroyed."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Energy** is the capacity to do **work**, to cause change: to move things, heat them, light them up or power chemical reactions. It comes in many forms:\n\n- **Kinetic energy**: the energy of motion. A moving car, a flowing river, a flying ball.\n- **Potential energy**: stored energy, due to position or arrangement.\n  - **Gravitational**: a book on a high shelf, water behind a dam.\n  - **Chemical**: stored in the bonds of molecules, in food, fuel and batteries.\n  - **Elastic**: a stretched spring or rubber band.\n  - **Nuclear**: stored in the nuclei of atoms.\n- **Thermal energy**: the random motion of particles, which we experience as temperature.\n- **Radiant energy**: carried by light and other electromagnetic waves.\n- **Electrical energy**: carried by moving electric charges."
+    },
+    {
+      "type": "text",
+      "heading": "The law of conservation of energy",
+      "md": "The **law of conservation of energy** states that energy cannot be created or destroyed, only **transformed** from one form to another or **transferred** from one object to another. The total amount of energy in a closed system stays constant.\n\nThis is one of the most thoroughly tested laws in science. Whenever energy seems to disappear, it has been converted into a form that’s harder to notice, usually **heat**. A ball bouncing lower each time isn’t losing energy into nothing; it’s converting some kinetic energy into heat and sound with each bounce."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of energy as money that can be exchanged between different currencies, such as rupees, dollars and euros, but never printed or burned. When you exchange it, some might go to fees (heat lost along the way), but the total, counting the fees, is always the same. Physics is the strictest accountant in the universe: the books always balance."
+    },
+    {
+      "type": "steps",
+      "title": "Following energy from the Sun to the stairs",
+      "items": [
+        "Inside the **Sun**, nuclear fusion converts a tiny amount of mass into a huge amount of energy, as you saw in the Space region.",
+        "That energy travels to Earth as **radiant energy**: sunlight.",
+        "A **plant** captures sunlight through photosynthesis, storing it as **chemical energy** in sugars and other molecules.",
+        "You eat food made from plants (or from animals that ate plants). Your body breaks down the molecules, releasing **chemical energy**.",
+        "Your muscles convert some of it into **kinetic energy** to move your legs, and as you climb, into **gravitational potential energy** as you rise higher.",
+        "Much of the food energy is released as **thermal energy**, which is why you warm up when exercising. At no step was energy created or destroyed; it simply changed form."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Measuring energy and power",
+      "md": "The scientific unit of energy is the **joule (J)**. Lifting an apple (about 100 grams) by one metre takes roughly one joule.\n\nFood energy is usually measured in **kilocalories** (often written as Calories): one kilocalorie is about **4,184 joules**.\n\n**Power** is the **rate** of using or transferring energy, measured in **watts (W)**: one watt is one joule per second. A 10-watt LED bulb uses 10 joules every second.\n\nElectricity bills use the **kilowatt-hour (kWh)**: the energy used by a 1,000-watt appliance running for one hour, equal to **3.6 million joules**."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: can you burn off a sweet by climbing stairs?",
+      "items": [
+        "Gravitational potential energy = mass × gravity × height. On Earth, gravity is about **9.8** newtons per kilogram.",
+        "A 70 kg person climbing a 10-metre staircase (about three floors) gains 70 × 9.8 × 10 ≈ **6,900 joules**.",
+        "That’s about **1.6 kilocalories**.",
+        "A single sweet or biscuit might contain **50 to 100** kilocalories.",
+        "Human muscles are only roughly **20–25%** efficient; the rest becomes heat. So the body actually burns several times more food energy than the climb itself requires, perhaps 7 or 8 kilocalories. That’s still far less than one biscuit.",
+        "Food contains a lot of energy, which is why exercise alone is a slow way to offset large amounts of food, though exercise has many other benefits, as you saw in the Mind region."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Efficiency: where the energy goes",
+      "md": "No real machine converts energy perfectly into the form we want. **Efficiency** measures how much of the input energy becomes **useful** output.\n\n- An old-fashioned **incandescent light bulb** converted only around **5%** of its electrical energy into light; the rest became heat. An **LED** bulb is several times more efficient.\n- A typical **petrol car engine** converts roughly 20–30% of fuel energy into motion; most is lost as heat.\n- **Electric motors** are often over **85–90%** efficient.\n\nImproving efficiency is one of the cheapest ways to reduce energy use and costs, from better bulbs and appliances to insulated homes."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why can’t we build a perpetual motion machine that runs forever, producing free energy?",
+      "md": "Because it would violate the **conservation of energy**. A machine that produces more energy than it takes in would be creating energy from nothing. And even a machine that simply keeps running forever, with no input, would eventually stop, because some energy is always converted into heat by friction and other effects, as the next lesson explains. Inventors have proposed perpetual motion machines for centuries, and patent offices in many countries refuse to grant patents for them without a working model. None has ever worked."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Energy** is the capacity to do work or cause change, in forms like **kinetic**, **potential** (gravitational, chemical, elastic, nuclear), **thermal**, **radiant** and **electrical**.",
+        "**Conservation of energy**: energy is never created or destroyed, only **transformed** or **transferred** (established partly by **Joule** in the 1840s).",
+        "Energy flows from **sunlight** to **plants** to **food** to **muscles**, changing form at each step.",
+        "Energy is measured in **joules**; food in **kilocalories** (about 4,184 J); electricity in **kilowatt-hours** (3.6 million J).",
+        "**Power** is energy per second, measured in **watts**.",
+        "**Efficiency** measures useful output; most real machines lose much energy as **heat**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Energy is central to almost every issue in the modern world: climate change, electricity bills, food and nutrition, transport and technology. Understanding that energy is conserved but often wasted as heat helps you make sense of debates about energy sources, efficiency and the future of power. Next, you’ll see why energy always tends to spread out, and why that gives time its direction."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the law of conservation of energy, and trace the energy changes from sunlight to you climbing a flight of stairs."
+  }
+}

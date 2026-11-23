@@ -1,0 +1,86 @@
+{
+  "id": "physics.quantum.2",
+  "region": "physics",
+  "topic": "quantum",
+  "level": 2,
+  "prerequisites": [
+    "physics.quantum.1"
+  ],
+  "title": "Entanglement and the Quantum Future",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1935**, Albert Einstein and two colleagues, **Boris Podolsky** and **Nathan Rosen**, published a paper arguing that quantum mechanics must be **incomplete**. They pointed to a strange consequence of the theory: two particles could be linked so that measuring one instantly seemed to determine the state of the other, however far apart they were. Einstein later called this “**spooky action at a distance**”.\n\nEinstein believed there had to be hidden information inside the particles, deciding the outcomes in advance. For decades, the question seemed too philosophical to test. Then, in **2022**, the Nobel Prize in Physics went to **Alain Aspect**, **John Clauser** and **Anton Zeilinger** for experiments that settled it. Einstein, it turned out, was wrong: the spookiness is real."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Quantum entanglement** occurs when two or more particles become linked so that their properties are correlated in a way that can’t be explained by each particle having its own independent, pre-set state.\n\nFor example, two entangled photons can be created so that if one is measured to have a certain polarisation, the other is always found to have a related polarisation, even if they’re on opposite sides of a laboratory, or hundreds of kilometres apart. Before measurement, neither has a definite polarisation; they exist in a shared superposition.\n\nEinstein, Podolsky and Rosen (often abbreviated **EPR**) argued that this either meant faster-than-light influence, which seemed to clash with relativity, or that the particles carried **hidden variables**, pre-set instructions determining the results all along."
+    },
+    {
+      "type": "text",
+      "heading": "Bell’s test",
+      "md": "In **1964**, the Northern Irish physicist **John Stewart Bell** made a breakthrough. He showed that the hidden-variable idea and quantum mechanics make **different predictions**, which could be tested by measuring entangled particles at various angles and comparing the statistics.\n\nIf particles carried pre-set local instructions, the correlations between measurements would have to stay within a certain limit, now called **Bell’s inequality**. Quantum mechanics predicted the correlations would **exceed** that limit.\n\nExperiments began in the 1970s, with John Clauser’s team, and were refined by Alain Aspect in France in the early **1980s** and Anton Zeilinger’s group in Austria, among others. In **2015**, several teams performed “loophole-free” tests closing the remaining gaps. Every time, the results matched quantum mechanics and **violated** Bell’s inequality. The world is not built from particles carrying simple local instructions."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine two magic coins given to two friends who travel to different cities. Each flips their coin at the same moment, and whenever they compare results, they find their coins are linked in a pattern so strong that no pre-arranged plan, no secret script printed inside each coin, could ever reproduce it. Yet neither friend can control their own coin’s result, so they can’t use the coins to send a message. Entanglement is like that, though, as with all quantum analogies, the real thing is even stranger."
+    },
+    {
+      "type": "text",
+      "heading": "No faster-than-light messages",
+      "md": "If measuring one particle instantly affects the correlation with the other, can we use entanglement to send messages faster than light? **No**. Each person’s individual results look completely random. Only when the two sides **compare** their results, using ordinary communication limited by the speed of light, do the correlations appear. So entanglement doesn’t allow faster-than-light communication, and doesn’t break Einstein’s relativity in that sense, but it does show that nature is connected in ways classical physics never imagined."
+    },
+    {
+      "type": "text",
+      "heading": "What is really going on? Interpretations",
+      "md": "Quantum mechanics predicts experimental results with astonishing accuracy, but physicists still disagree about what it says about reality. Major **interpretations** include:\n\n- **The Copenhagen interpretation**, associated with Niels Bohr: the wave function is a tool for predicting measurement outcomes; asking what happens between measurements may not have a meaningful answer. Measurement causes the wave function to “collapse” to a definite result.\n- **The many-worlds interpretation**, proposed by **Hugh Everett** in **1957**: the wave function never collapses. Instead, every possible outcome happens, each in a separate, branching world. You only experience one branch.\n- **Pilot-wave theory** (de Broglie–Bohm): particles always have definite positions, guided by a wave, but the guidance is non-local, connecting distant parts of the universe.\n- Several other interpretations exist. They mostly make the **same predictions** for experiments so far, so choosing between them involves philosophy as much as physics."
+    },
+    {
+      "type": "steps",
+      "title": "How quantum computers work, and their limits",
+      "items": [
+        "Ordinary computers store information in **bits**, each either 0 or 1, as you saw in the Technology region.",
+        "Quantum computers use **qubits**, which can be in a **superposition** of 0 and 1, and can be **entangled** with each other.",
+        "Cleverly designed quantum algorithms use interference to make wrong answers cancel out and right answers reinforce, solving certain problems much faster than ordinary computers.",
+        "Promising applications include simulating molecules for new materials and medicines, certain optimisation problems and, as you saw with **Shor’s algorithm**, breaking some of today’s encryption.",
+        "But qubits are extremely fragile. Tiny disturbances from heat or vibration cause **decoherence**, destroying superpositions. Many quantum computers must be cooled to near **absolute zero**.",
+        "In **2019**, Google claimed its quantum processor performed a specific calculation far faster than any classical supercomputer could, a milestone it called **quantum supremacy**; IBM disputed how large the advantage really was. Useful, error-corrected quantum computers that outperform classical machines on practical problems are widely expected to take years more of development."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Quantum technology today",
+      "md": "Quantum physics is already being used in new technologies beyond computing:\n\n- **Quantum key distribution** uses quantum properties to share encryption keys so that any eavesdropping can be detected. In **2017**, Chinese scientists used the **Micius** satellite to demonstrate quantum-secured communication over more than 1,000 kilometres.\n- **Quantum sensors** can measure time, gravity and magnetic fields with extraordinary precision, improving atomic clocks, navigation and medical imaging.\n- Many countries are investing heavily. **India** launched a **National Quantum Mission** in **2023**, aiming to develop quantum computers, communication networks and sensors."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Products are often marketed with words like “quantum healing” or “quantum energy”. Is that real physics?",
+      "md": "Almost never. Genuine quantum effects like superposition and entanglement are extremely delicate and are quickly destroyed by interactions with a warm, noisy environment, such as the human body, except in carefully controlled situations. Marketing that uses “quantum” to sell health products, bracelets, water or wellness programmes typically borrows the word’s mystique without any connection to actual quantum physics. A good test: real quantum technologies come with specific, testable claims, published research and precise engineering. Vague promises that quantum energy will heal, balance or transform you are a warning sign, linking back to the scams and reasoning lessons."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Entanglement** links particles so their properties are correlated beyond anything pre-set **hidden variables** could explain.",
+        "**EPR (1935)** argued quantum mechanics was incomplete; Einstein called entanglement “**spooky action at a distance**”.",
+        "**Bell (1964)** showed hidden variables and quantum mechanics make different predictions; experiments, finalised by **loophole-free tests in 2015**, support quantum mechanics (Nobel Prize **2022**).",
+        "Entanglement **can’t** send faster-than-light messages.",
+        "Interpretations include **Copenhagen**, **many-worlds** (Everett, 1957) and **pilot-wave** theory.",
+        "**Quantum computers** use **qubits** in superposition and entanglement; they’re powerful for some problems but fragile and still developing.",
+        "**Quantum key distribution**, **quantum sensors** and national programmes like **India’s National Quantum Mission (2023)** are emerging; “quantum” in health marketing is usually misleading."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Entanglement challenges our deepest assumptions about reality, locality and cause and effect, and it’s now being turned into real technology. Understanding what quantum physics does and doesn’t say helps you appreciate one of science’s most profound discoveries, follow developments in quantum computing and security, and see through the misuse of “quantum” in marketing."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is quantum entanglement, what did Bell’s experiments show, and why are quantum computers potentially powerful but still limited?"
+  }
+}

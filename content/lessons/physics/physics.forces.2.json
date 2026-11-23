@@ -1,0 +1,89 @@
+{
+  "id": "physics.forces.2",
+  "region": "physics",
+  "topic": "forces",
+  "level": 2,
+  "prerequisites": [
+    "physics.forces.1"
+  ],
+  "title": "Momentum, Friction and Going in Circles",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **2 August 1971**, standing on the Moon, Apollo 15 astronaut **David Scott** held up a geological hammer in one hand and a falcon feather in the other, and let them go at the same moment. On live television, they fell side by side and hit the dusty ground together.\n\nOn Earth, the feather would drift down slowly, held back by air. On the airless Moon, it fell exactly as fast as the hammer. Scott said the experiment proved Galileo right. Galileo had argued, over three centuries earlier, that without air resistance, all objects fall at the same rate regardless of their weight. It took a trip to the Moon to show it so clearly."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met Newton’s three laws: inertia, F = ma, and equal and opposite forces. This lesson builds on them with several ideas that explain collisions, car safety, falling and turning.\n\nThe first is **momentum**: a measure of how hard it is to stop a moving object. Momentum equals **mass × velocity**. A slow, heavy lorry and a fast, light bullet can both have large momentum.\n\nMomentum has a remarkable property: in any collision or interaction, as long as no outside force acts, the **total momentum stays the same**. This is the **law of conservation of momentum**. It follows from Newton’s third law: when two objects push on each other, they exchange equal and opposite amounts of momentum."
+    },
+    {
+      "type": "text",
+      "heading": "Conservation of momentum in action",
+      "md": "- **Recoil**: when a gun fires a bullet forward, the gun is pushed backward. The bullet’s forward momentum is balanced by the gun’s backward momentum. Because the gun is much heavier, it moves much more slowly.\n- **Rockets**: a rocket pushes exhaust gas backward at high speed, and gains equal momentum forward, which is why rockets work in space, as you saw in the previous lesson.\n- **Newton’s cradle**: in the desk toy with a row of hanging steel balls, lift and release one ball and one ball swings out at the other end; lift two and two swing out. Momentum (and energy) passes through the row.\n- **Ice skaters**: two skaters standing still push each other apart. They move in opposite directions, the lighter skater faster, so their momenta still add up to zero."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of momentum as a kind of motion money that can be passed between objects but never created or destroyed in a collision. When a cue ball hits another snooker ball and stops dead, it has handed all its motion money to the other ball, which rolls off with the same momentum the cue ball had."
+    },
+    {
+      "type": "text",
+      "heading": "Stopping safely: impulse",
+      "md": "To change an object’s momentum, you need a force acting for some time. The change in momentum equals **force × time**, called **impulse**.\n\nThat has a life-saving consequence. To stop a moving body, the change in momentum is fixed. But if you **stretch out the time** the stop takes, the force needed becomes much smaller.\n\n- **Airbags** and **seatbelts** slow your body over a longer time than hitting the dashboard would, greatly reducing the force on you.\n- **Crumple zones** in cars are designed to collapse in a crash, lengthening the collision time and absorbing energy, so passengers experience less force.\n- Bending your knees when you land from a jump, or a cricketer drawing their hands back when catching a hard ball, does the same thing."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: why seatbelts matter",
+      "items": [
+        "A 70 kg passenger travelling at **50 km/h** (about **14 m/s**) has momentum of 70 × 14 ≈ **980 kg·m/s**.",
+        "In a crash, that momentum must drop to zero.",
+        "**Without a seatbelt**, if they hit a hard dashboard and stop in about **0.01 seconds**, the average force is 980 ÷ 0.01 ≈ **98,000 newtons**, roughly 140 times their body weight.",
+        "**With a seatbelt and airbag**, stopping over about **0.15 seconds**, the force is 980 ÷ 0.15 ≈ **6,500 newtons**, around 15 times lower.",
+        "Same speed, same mass, same change in momentum. Spreading the stop over a longer time makes the force survivable."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Friction: the force that both helps and hinders",
+      "md": "**Friction** is the force that resists surfaces sliding against each other. It comes from microscopic bumps and the attraction between molecules where surfaces touch.\n\n- **Static friction** holds objects still. It’s why you can walk: your foot pushes backward on the ground, and static friction pushes you forward. On ice, with little friction, walking becomes difficult.\n- **Kinetic friction** acts once things are sliding, and is usually a bit weaker than static friction. That’s why it takes more effort to start pushing a heavy box than to keep it moving.\n\nFriction wastes energy as heat in engines and machines, so engineers use lubricants and ball bearings to reduce it. But brakes, tyres and even holding a pen depend on it."
+    },
+    {
+      "type": "text",
+      "heading": "Falling through air: terminal velocity",
+      "md": "When an object falls through air, air resistance pushes upward, and it grows as the object speeds up. Eventually, air resistance balances gravity; the net force becomes zero, and, by Newton’s first law, the object stops accelerating. It continues at a steady speed called **terminal velocity**.\n\nA skydiver falling belly-down reaches a terminal velocity of roughly **200 km/h**. Diving head-first, with less air resistance, they can go much faster. Opening a parachute greatly increases air resistance, lowering terminal velocity to a safe landing speed. Small creatures, like insects, have such low terminal velocities that they can survive falls from great heights."
+    },
+    {
+      "type": "text",
+      "heading": "Going round in circles",
+      "md": "By Newton’s first law, a moving object travels in a straight line unless a force acts on it. So to move in a **circle**, an object needs a constant force pulling it towards the centre of the circle. This is called **centripetal force** (“centre-seeking”).\n\n- For a car turning a corner, **friction** between the tyres and road provides the centripetal force. On an icy or oily road, friction may not be enough, and the car slides straight on.\n- For the Moon orbiting Earth, **gravity** provides it, as you saw in the Space region.\n- For a ball whirled on a string, **tension** in the string provides it.\n\nThe faster you go, or the tighter the turn, the more centripetal force is needed. That’s why sharp bends have lower speed limits, and why race tracks and some roads are **banked**, tilted inward to help push vehicles round the curve."
+    },
+    {
+      "type": "reveal",
+      "prompt": "When a car turns sharply, you feel pushed outward against the door. What force is pushing you?",
+      "md": "No outward force is pushing you. Your body, by inertia, tends to keep moving in a straight line. The car turns beneath you, and the door pushes **inward** on you, providing the centripetal force that makes you follow the curve. The feeling of being flung outward is sometimes called **centrifugal force**, and it’s useful in some calculations, but it’s really the effect of inertia, viewed from inside a turning vehicle. The same principle drives the spin cycle in a washing machine: the drum pushes the clothes in a circle, but the water passes through the holes and continues in a straight line, out of the clothes."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Momentum** = mass × velocity; in collisions, total momentum is **conserved**.",
+        "Conservation of momentum explains **recoil**, **rockets** and **Newton’s cradle**.",
+        "**Impulse** = force × time; **airbags**, **seatbelts** and **crumple zones** lengthen stopping time to reduce force.",
+        "**Friction** resists sliding: **static** friction holds things still, **kinetic** friction acts while sliding.",
+        "**Terminal velocity** is reached when air resistance balances gravity; Apollo 15 showed objects fall equally without air.",
+        "Moving in a circle requires **centripetal force** towards the centre; “centrifugal force” is really inertia."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "These ideas are behind car safety design, sports techniques, parachutes, spacecraft and the way you walk. Understanding momentum and impulse could genuinely save your life, by explaining why seatbelts and helmets matter so much. Next, you’ll explore energy: the quantity that, like momentum, is never created or destroyed."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is momentum and why is it conserved, how do airbags reduce injuries, and what force keeps a car moving around a curve?"
+  }
+}

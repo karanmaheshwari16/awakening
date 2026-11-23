@@ -1,0 +1,79 @@
+{
+  "id": "physics.light.1",
+  "region": "physics",
+  "topic": "light",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Light and the Electromagnetic Spectrum",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the **1660s**, a young **Isaac Newton**, staying at home in the countryside while Cambridge University was closed by the plague, darkened his room, let a thin beam of sunlight in through a hole in the shutter, and passed it through a triangular glass prism. On the opposite wall appeared a band of colours: red, orange, yellow, green, blue and violet.\n\nOthers had seen prisms create colours before, but most thought the glass was adding colour to white light. Newton showed the opposite: white light is a **mixture** of all colours, and the prism simply separates them. He then used a second prism to recombine the colours back into white light. It was a simple experiment that revealed something fundamental about light."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Light is a form of energy that travels as a **wave**, specifically an **electromagnetic wave**, made of oscillating electric and magnetic fields. Unlike sound or water waves, it doesn’t need a medium to travel through; it can cross the vacuum of space, which is how sunlight reaches us.\n\nEvery wave can be described by a few properties:\n\n- **Wavelength**: the distance between one wave peak and the next.\n- **Frequency**: how many wave peaks pass a point each second, measured in **hertz (Hz)**.\n- **Amplitude**: the height of the wave, related to brightness for light.\n\nFor light, wavelength and frequency are linked: the shorter the wavelength, the higher the frequency. And all light travels at the same speed in a vacuum: about **299,792 kilometres per second**, the **speed of light**, the fastest speed possible in the universe."
+    },
+    {
+      "type": "text",
+      "heading": "How fast is light?",
+      "md": "For most of history, people assumed light travelled instantly. In **1676**, the Danish astronomer **Ole Rømer** noticed that eclipses of Jupiter’s moon Io came slightly earlier when Earth was closer to Jupiter and later when it was farther away. He realised the difference was the extra time light took to cross the greater distance, and made one of the first estimates of the speed of light.\n\nAt the speed of light, you could circle the Earth about **seven and a half times in one second**. Light from the Moon takes just over a second to reach us; from the Sun, about eight minutes."
+    },
+    {
+      "type": "text",
+      "heading": "The electromagnetic spectrum",
+      "md": "The light our eyes can see is just a tiny slice of a vast range of electromagnetic waves, called the **electromagnetic spectrum**. All of them travel at the speed of light; they differ only in wavelength and frequency:\n\n- **Radio waves**: the longest wavelengths, from millimetres to kilometres. Used for radio, television and mobile communication.\n- **Microwaves**: used in microwave ovens, Wi-Fi, mobile networks and radar.\n- **Infrared**: felt as heat. Used in TV remote controls and thermal cameras.\n- **Visible light**: wavelengths from about **400 nanometres** (violet) to **700 nanometres** (red).\n- **Ultraviolet (UV)**: causes sunburn and helps the skin make vitamin D.\n- **X-rays**: pass through soft tissue but are blocked by bones, so they’re used for medical imaging.\n- **Gamma rays**: the shortest wavelengths and highest energy, produced by radioactive decay and violent cosmic events."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the electromagnetic spectrum as a gigantic piano keyboard, stretching for kilometres. Radio waves are the low notes at one end, gamma rays the highest notes at the other. Visible light is a single octave somewhere in the middle, the only part our eyes can “hear”. Other animals hear a bit more: bees see ultraviolet, and some snakes sense infrared."
+    },
+    {
+      "type": "text",
+      "heading": "Bending and bouncing light",
+      "md": "**Reflection**: light bounces off surfaces. A smooth surface, like a mirror, reflects it neatly so you see an image. The angle at which light hits the surface equals the angle at which it bounces off.\n\n**Refraction**: when light passes from one material into another, like from air into water or glass, it changes speed and bends. That’s why a straw looks bent in a glass of water, and how lenses in glasses, cameras and microscopes focus light.\n\nOne of the great pioneers of optics was **Ibn al-Haytham** (known in Latin as Alhazen), a scholar working in Cairo in the early 11th century. His **Book of Optics** argued, from careful experiments, that we see because light travels **into** our eyes from objects, rather than our eyes sending out rays, as many earlier thinkers believed. He studied reflection, refraction and the **camera obscura**, and his emphasis on experiment has led some to call him an early pioneer of the scientific method."
+    },
+    {
+      "type": "steps",
+      "title": "How a rainbow forms",
+      "items": [
+        "Sunlight, a mixture of all colours, enters a raindrop.",
+        "As it enters, it **refracts** (bends), and each colour bends by a slightly different amount: violet bends most, red least.",
+        "The light **reflects** off the back of the raindrop.",
+        "It refracts again as it leaves, spreading the colours further apart.",
+        "Each raindrop sends light of different colours out at slightly different angles. You see red from drops higher in the sky and violet from drops lower down, forming an arc.",
+        "You only see a rainbow with the Sun **behind** you and rain in front of you. Every person sees their own rainbow, from a slightly different set of raindrops."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why is the sky blue, and why are sunsets red?",
+      "md": "Sunlight passing through the atmosphere hits gas molecules, mainly nitrogen and oxygen, which are much smaller than the wavelength of light. They scatter **shorter** wavelengths, like blue, much more strongly than longer ones, like red. This is called **Rayleigh scattering**, after the British physicist Lord Rayleigh. Blue light gets scattered all across the sky, so wherever you look, you see blue. (Violet is scattered even more, but sunlight contains less violet and our eyes are less sensitive to it.) At sunset, sunlight travels through much more atmosphere to reach you, so most of the blue is scattered away before it arrives, leaving the reds and oranges. In **1928**, the Indian physicist **C. V. Raman** discovered a different kind of light scattering, in which a tiny fraction of light changes wavelength, now called the **Raman effect**. He won the 1930 Nobel Prize in Physics, the first Asian scientist to win a Nobel in science. India celebrates National Science Day on 28 February to mark his discovery."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Light is an **electromagnetic wave** that can travel through a vacuum at about **299,792 km/s**.",
+        "Waves have **wavelength**, **frequency** and **amplitude**; shorter wavelength means higher frequency.",
+        "**Newton** showed white light is a mixture of colours; **Rømer (1676)** made an early estimate of light’s speed.",
+        "The **electromagnetic spectrum** runs from **radio waves** to **gamma rays**; visible light is about **400–700 nm**.",
+        "**Reflection** bounces light; **refraction** bends it; **Ibn al-Haytham** pioneered experimental optics.",
+        "**Rainbows** come from refraction and reflection in raindrops; the sky is blue due to **Rayleigh scattering**.",
+        "**C. V. Raman** discovered the **Raman effect** (Nobel Prize, 1930)."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Light is how we see the world and how most information about the universe reaches us, from distant galaxies to medical images of our own bodies. The electromagnetic spectrum underpins radio, mobile phones, Wi-Fi, microwaves, X-rays and much more. Next, you’ll discover that light is even stranger than it seems: it sometimes behaves like a particle."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are wavelength and frequency, what is the electromagnetic spectrum, and why is the sky blue?"
+  }
+}

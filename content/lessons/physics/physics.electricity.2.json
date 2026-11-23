@@ -1,0 +1,91 @@
+{
+  "id": "physics.electricity.2",
+  "region": "physics",
+  "topic": "electricity",
+  "level": 2,
+  "prerequisites": [
+    "physics.electricity.1"
+  ],
+  "title": "Magnetism, Generators and the Grid",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1820**, during a lecture in Copenhagen, the Danish physicist **Hans Christian Ørsted** noticed something odd. When he switched on an electric current in a wire, a nearby compass needle twitched and swung away from north. When he switched the current off, the needle swung back.\n\nIt was a small movement with enormous consequences. Electricity and magnetism, long thought to be separate phenomena, were connected. Within about a decade, that connection would be used to build the first electric motors and generators. Today, nearly all the electricity in the world, whether from coal, gas, nuclear, hydro or wind, is produced using the principle that grew from Ørsted’s twitching compass."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Magnetism** is a force produced by moving electric charges. Magnets have two poles, **north** and **south**; like poles repel, opposite poles attract. Around every magnet is a **magnetic field**, the region where its force acts, which you can see by sprinkling iron filings around a bar magnet.\n\nØrsted’s discovery showed that an **electric current creates a magnetic field**. Coil a current-carrying wire around an iron core, and you get an **electromagnet**: a magnet you can switch on and off. Electromagnets are used in scrapyard cranes, MRI scanners, loudspeakers, electric bells and countless motors.\n\nThe reverse is also true, and it’s even more important: **a changing magnetic field can create an electric current**."
+    },
+    {
+      "type": "text",
+      "heading": "Faraday and electromagnetic induction",
+      "md": "In **1831**, the English scientist **Michael Faraday**, who had little formal education and began his career as a bookbinder’s apprentice, discovered **electromagnetic induction**. When he moved a magnet in and out of a coil of wire, a current flowed in the wire. Hold the magnet still, and the current stopped. It was the **change** in magnetic field that mattered.\n\nThis is the principle behind the **generator**: rotate a coil of wire in a magnetic field (or rotate magnets near a coil), and electricity flows. Faraday also built early **motors**, which work the opposite way: current flowing through a coil in a magnetic field makes it turn, converting electrical energy into motion.\n\nLater, **James Clerk Maxwell** combined electricity and magnetism into a single theory of **electromagnetism**, which, as you saw in the light lessons, also explained light itself."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of electricity and magnetism as dance partners. When one moves, the other responds. A moving current makes a magnetic field swirl around it; a moving magnet drives a current through a wire. A generator spins the dance to produce electricity from motion; a motor reverses it to produce motion from electricity."
+    },
+    {
+      "type": "steps",
+      "title": "How a power station makes electricity",
+      "items": [
+        "Most power stations ultimately do one thing: **spin a turbine**.",
+        "In coal, gas and nuclear plants, heat boils water into high-pressure steam, which pushes the blades of a turbine.",
+        "In hydroelectric plants, falling water spins the turbine; in wind farms, moving air spins the blades.",
+        "The turbine is connected to a **generator**, where powerful magnets rotate near coils of wire (or coils rotate near magnets).",
+        "The changing magnetic field induces an electric current in the coils, by Faraday’s principle.",
+        "**Solar panels** are the main exception: they turn light directly into electricity using the photovoltaic effect you met in the light lessons, with no spinning parts at all."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "AC versus DC: the war of the currents",
+      "md": "Electricity can flow in two ways:\n\n- **Direct current (DC)** flows steadily in one direction, as from a battery.\n- **Alternating current (AC)** rapidly reverses direction, many times a second. Generators naturally produce AC.\n\nIn the **1880s and 1890s**, a fierce rivalry, later called the **war of the currents**, broke out in the US. **Thomas Edison** promoted DC systems. **Nikola Tesla**, a Serbian-American inventor who developed key AC technologies, and the businessman **George Westinghouse** championed AC. Edison’s side emphasised the dangers of high-voltage AC.\n\nAC won for most power grids, largely because of the **transformer**, a device that can easily raise or lower AC voltage. That turned out to be crucial for sending electricity over long distances."
+    },
+    {
+      "type": "text",
+      "heading": "Why power lines use very high voltages",
+      "md": "When electricity flows through wires, some energy is lost as heat because of resistance. The losses depend on the **current**: in fact, they increase with the **square** of the current. Double the current and you quadruple the losses.\n\nFor the same amount of power (power = voltage × current), you can use **high voltage and low current** instead of low voltage and high current. So power stations use transformers to step voltage **up**, often to hundreds of thousands of volts, for long-distance transmission, then substations step it back **down** to safer levels, such as 230 volts, for homes. This is why you see tall pylons carrying high-voltage lines across the countryside."
+    },
+    {
+      "type": "text",
+      "heading": "The grid: a balancing act",
+      "md": "A **power grid** is a network connecting power stations to homes and businesses, often across an entire country or several countries.\n\nThe grid has a remarkable constraint: electricity must be generated at almost **exactly the same moment** it’s used, because large-scale storage has historically been limited. If demand exceeds supply, the grid’s **frequency**, which is about **50 hertz** (cycles per second) in India, the UK and Europe, and **60 hertz** in the US, starts to drop. If it falls too far, equipment can be damaged and blackouts can spread. Grid operators constantly adjust supply to match demand, minute by minute.\n\nIndia completed the synchronisation of its regional grids into a single national grid, operating at one frequency, in **2013**, under the vision of “**One Nation, One Grid**”, one of the largest synchronised grids in the world. A year earlier, in **2012**, India experienced one of the largest blackouts in history, affecting hundreds of millions of people, after grid disturbances spread across northern and eastern regions."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Solar and wind power vary with the weather. How can a grid cope?",
+      "md": "This is one of the central challenges of the energy transition. Grid operators use several approaches: **storage**, especially large **batteries**, whose costs have fallen dramatically, and **pumped hydro**, which pumps water uphill when power is plentiful and releases it through turbines when needed; **flexible generation**, like gas or hydro plants that can ramp up quickly; **wider grids** that connect regions with different weather; **demand response**, encouraging users to shift consumption, like charging electric vehicles, to times when power is plentiful; and better **forecasting** of wind and sunshine. Combining these makes it possible to run grids with high shares of renewable energy, though the best mix depends on each country’s resources."
+    },
+    {
+      "type": "text",
+      "heading": "Earth: a giant magnet",
+      "md": "Earth itself has a magnetic field, generated by the movement of molten iron in its outer core. That’s why compass needles point roughly north, a fact used for navigation for around a thousand years, with early compasses developed in China.\n\nEarth’s magnetic field also forms the **magnetosphere**, which deflects much of the stream of charged particles from the Sun, called the **solar wind**. Where some particles funnel in near the poles, they make the atmosphere glow in the beautiful **auroras**, the northern and southern lights. Strong solar storms can disrupt satellites, radio communication and even power grids."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Ørsted (1820)** discovered that electric current creates a **magnetic field**; electromagnets use this.",
+        "**Faraday (1831)** discovered **electromagnetic induction**: a changing magnetic field creates current, the basis of **generators** and **motors**.",
+        "Most power stations **spin turbines** connected to generators; **solar panels** are the main exception.",
+        "**AC** won the **war of the currents** (Edison vs Tesla and Westinghouse) because **transformers** change AC voltage easily.",
+        "High-voltage transmission reduces losses, which rise with the **square of the current**.",
+        "Grids must balance supply and demand continuously; frequency is **50 Hz** in India, the UK and Europe and **60 Hz** in the US. India unified its grid in **2013**.",
+        "Earth’s magnetic field guides compasses and shields us from the **solar wind**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every time you switch on a light, you rely on Faraday’s discovery and on a vast grid balancing supply and demand in real time. Understanding how electricity is generated and delivered helps you make sense of power cuts, energy prices and debates about renewable energy, grids and storage, which are central to tackling climate change."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does a generator turn motion into electricity, why is electricity transmitted at very high voltages, and why must the grid constantly balance supply and demand?"
+  }
+}

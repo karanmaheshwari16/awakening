@@ -1,0 +1,34 @@
+[
+  {
+    "id": "physics.gate.1",
+    "region": "physics",
+    "tier": 1,
+    "title": "From Fuel to Light Bulb",
+    "question": "Trace the journey of energy from the uranium nucleus in a nuclear power station to the light glowing in an LED bulb in your home. At each step, name the form of energy, the physical principle involved, and where energy is lost. Use ideas from forces and motion, energy and entropy, atoms, light and electricity.",
+    "links": ["forces", "energy", "atoms", "light", "electricity"],
+    "model_answer": "In the reactor, a uranium-235 nucleus absorbs a neutron and splits. The fragments have slightly less mass than the original, and that missing mass becomes energy, as E = mc² describes. The energy appears mainly as the kinetic energy of fast-moving fragments, which collide with surrounding atoms and become thermal energy. Neutrons released by each fission sustain a controlled chain reaction.\n\nThe heat boils water into high-pressure steam. The steam pushes on turbine blades, applying a force that makes them rotate: thermal energy becomes kinetic energy. The turbine spins a generator, where magnets rotate near coils of wire; the changing magnetic field induces an electric current, by Faraday’s law of induction.\n\nTransformers step the voltage up for transmission, because losses in the wires rise with the square of the current, then substations step it down to around 230 volts for homes. In the LED, electrons passing through a semiconductor drop to lower energy levels and emit photons of visible light, whose colour depends on the size of the energy gap.\n\nAt every stage, energy is conserved, but much of it is lost as heat, which the second law of thermodynamics makes unavoidable. A heat engine like the steam turbine cannot be fully efficient (Carnot’s limit), so most of the reactor’s heat is dumped through cooling towers or water. More is lost to resistance in the wires and to heat in the LED, though an LED wastes far less than an old incandescent bulb.",
+    "key_points": [
+      "Fission converts a small mass defect into energy (E = mc²), sustained by a chain reaction.",
+      "Heat makes steam; steam forces turbines to spin, turning thermal energy into kinetic energy.",
+      "Generators use electromagnetic induction; transformers raise voltage to cut transmission losses.",
+      "In an LED, electrons dropping between energy levels emit photons of visible light.",
+      "Energy is conserved throughout, but the second law makes heat losses unavoidable, especially in the turbine."
+    ]
+  },
+  {
+    "id": "physics.gate.2",
+    "region": "physics",
+    "tier": 2,
+    "title": "The Strangeness of Small Things",
+    "question": "A friend says: \"Physics is just common sense written in maths.\" Using what you have learned about entropy, the structure of the atom, the nature of light and quantum mechanics, explain why this is not true. Give at least three examples where nature behaves in ways our everyday intuition would never predict, and how we know these are real.",
+    "links": ["quantum", "light", "atoms", "energy"],
+    "model_answer": "Everyday intuition evolved for medium-sized objects moving slowly, and physics repeatedly shows that nature at other scales defies it.\n\nAtoms are almost entirely empty. Rutherford’s gold foil experiment showed nearly all the mass is in a tiny nucleus; if an atom were a stadium, the nucleus would be a pea. Matter feels solid not because it is full, but because of electromagnetic repulsion between electrons and the Pauli exclusion principle.\n\nLight is both a wave and a particle. Young’s double-slit experiment shows interference, a wave property, while the photoelectric effect shows light arrives in packets whose energy depends on frequency, which is why red light cannot eject electrons however bright it is. Sending single photons or electrons through two slits still builds up an interference pattern.\n\nQuantum systems exist in superpositions and only give definite results when measured; the uncertainty principle says position and momentum cannot both be precisely defined; and particles can tunnel through barriers they lack the energy to cross, which helps power the Sun. Entangled particles show correlations that no pre-set hidden instructions can explain, as Bell tests have confirmed.\n\nEven entropy is subtle: the basic laws of motion work equally well forwards and backwards, yet heat flows only from hot to cold, because disordered arrangements vastly outnumber ordered ones.\n\nWe know these are real because they make precise, risky predictions that have been tested repeatedly, from loophole-free Bell tests to quantum predictions matching experiments to about one part in a trillion, and because technologies like lasers, chips, flash memory and nuclear power depend on them.",
+    "key_points": [
+      "Intuition evolved for everyday scales; nature at other scales often defies it.",
+      "Atoms are mostly empty; solidity comes from electromagnetic forces and the exclusion principle.",
+      "Light shows wave-particle duality (double slit, photoelectric effect).",
+      "Superposition, uncertainty, tunnelling and entanglement have no everyday analogue.",
+      "Evidence: precise tested predictions (Bell tests, quantum precision) and working technologies."
+    ]
+  }
+]
