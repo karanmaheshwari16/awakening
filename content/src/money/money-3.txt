@@ -1,0 +1,217 @@
+##### LESSON
+id: money.risk.2
+title: Why Our Instincts Get Risk Wrong
+minutes: 14
+disclaimer: financial
+check: In your own words: give two examples of how human intuition misjudges risk, and explain what expected value means and why lotteries are a poor bet by that measure.
+
+=== hook
+After the attacks of **11 September 2001**, many Americans became afraid of flying. Over the following months, large numbers chose to drive long distances instead. But driving is far more dangerous per kilometre than flying.
+
+The psychologist **Gerd Gigerenzer** analysed traffic data and estimated that, in the year after the attacks, around **1,600** additional Americans died on the roads because of this shift, roughly half the number killed in the attacks themselves. Fear of one risk pushed people into a bigger one. Our instincts about risk evolved for a very different world, and they often mislead us.
+
+=== core
+In the previous lesson, you saw that risk combines **likelihood** and **impact**. In theory, we should judge risks by those two factors. In practice, human risk perception is shaped by mental shortcuts and emotions that can wildly distort our judgements.
+
+Research by psychologists like **Paul Slovic**, Daniel Kahneman and Amos Tversky has identified patterns in how we misjudge risk. Understanding them helps with money, health, travel and almost every decision under uncertainty.
+
+=== text Distortion 1: the availability heuristic
+We judge how likely something is by how easily examples come to mind. Dramatic, vivid, widely reported events, like plane crashes, shark attacks and terror attacks, feel more common than they are. Quiet, everyday killers, like heart disease, road accidents, diabetes and air pollution, feel less threatening, because they rarely make headlines.
+
+The same happens with money. After hearing stories of people getting rich from a hot investment, it can feel common and easy. Stories of the many who lost money are rarely told.
+
+=== text Distortion 2: dread and control
+Paul Slovic found that people fear risks more when they’re **dreaded** (catastrophic, unfamiliar, involuntary) and less when they feel **in control**. Many people feel safer driving than flying partly because they’re holding the steering wheel, even though they’re statistically in more danger.
+
+We also tend to underestimate risks that are **familiar** and **voluntary**, like smoking or not wearing a seatbelt, and overestimate risks that are new, invisible or imposed by others.
+
+=== text Distortion 3: optimism bias
+Most people believe they’re **less likely** than average to experience bad events, like illness, accidents, divorce or job loss, and more likely to experience good ones. This **optimism bias**, studied by the neuroscientist **Tali Sharot** and others, is found across many cultures.
+
+It may help motivation and wellbeing, but it also leads people to under-save, under-insure and take on too much debt, because “it won’t happen to me”.
+
+=== callout analogy
+Think of your risk instincts as an old smoke detector designed for a cave. It reacts loudly to sudden, dramatic threats, like a predator in the shadows. But it barely registers slow, invisible dangers, like a gas leak building over months. Modern life is full of slow, statistical risks, and the old detector often stays silent when it matters most.
+
+=== text Thinking in expected value
+A useful tool for cutting through intuition is **expected value**: the average outcome you’d get if you could repeat a decision many times. You calculate it by multiplying each possible outcome by its probability, and adding them up.
+
+=== steps Is a lottery ticket worth it?
+- Imagine a lottery ticket costing **100**, with a **1 in 1,000,000** chance of winning **50,000,000**.
+- Expected winnings = 50,000,000 × (1 ÷ 1,000,000) = **50**.
+- So, on average, each ticket costing 100 returns 50: an expected **loss** of 50 per ticket.
+- Real lotteries are often structured similarly: many return roughly **half** of ticket sales as prizes, with the rest going to costs, profits, taxes or good causes.
+- By expected value, lotteries are a poor investment. People buy them anyway, partly for the fun of dreaming, and partly because tiny probabilities are hard to feel: one in a million and one in a hundred million both just feel like “maybe”.
+- Spending a small amount for entertainment is a personal choice. Treating lotteries or gambling as a financial plan is not.
+
+=== text Risk, return and the long run
+In investing, the relationship between **risk and return** you met earlier is often misunderstood:
+
+- **Volatility** (prices going up and down) is not the same as **permanent loss**. A diversified investment can fall sharply in a crash yet recover over time. A single company can go bankrupt and never recover.
+- **Short-term risk can become long-term safety**, and vice versa. Shares are risky over one year, but historically have been less risky over decades. Cash feels safe, but over decades, inflation can quietly erode it.
+- **Time horizon** matters: the right level of risk depends on when you’ll need the money.
+
+=== text Rare disasters: black swans
+The writer and former trader **Nassim Nicholas Taleb** popularised the term **black swan** for rare, high-impact events that most people consider impossible until they happen, like the 2008 financial crisis or the COVID-19 pandemic. Before Europeans reached Australia, everyone “knew” all swans were white; one sighting of a black swan overturned that certainty.
+
+Taleb argues that financial models often underestimate extreme events, and that the most important risks are often the ones not in anyone’s model. The practical lesson is to build **resilience**: emergency funds, diversification, avoiding excessive debt, so that an unexpected shock doesn’t ruin you.
+
+=== reveal A coin lands heads five times in a row. Is tails now “due”?
+No. Each toss of a fair coin is **independent**: the coin has no memory, so the chance of tails on the next toss is still 50%. The mistaken belief that past results change future odds in independent events is called the **gambler’s fallacy**. It leads gamblers to keep betting after losing streaks, convinced a win is due. In a famous case at the Monte Carlo Casino in **1913**, a roulette ball landed on black **26 times** in a row, and gamblers reportedly lost millions betting on red, sure that the streak had to end.
+
+=== keypoints
+- Human risk perception is distorted by mental shortcuts and emotions.
+- The **availability heuristic** makes vivid, well-reported risks feel more common than quiet, everyday ones.
+- We fear **dreaded**, **involuntary** risks more and underrate **familiar**, **controllable** ones.
+- **Optimism bias** makes us think bad things are less likely to happen to us.
+- **Expected value** averages outcomes by probability; lotteries typically have strongly **negative** expected value.
+- **Volatility** differs from **permanent loss**; **time horizon** changes what’s risky.
+- **Black swans** are rare, extreme events; the **gambler’s fallacy** wrongly assumes independent events “balance out”.
+
+=== why
+Every major life decision involves risk: careers, investments, health choices, travel, insurance. Learning to separate gut fear from actual probability helps you avoid both needless anxiety and dangerous complacency. These ideas connect closely to the Math region’s lessons on probability and statistics, and to the Philosophy region’s lessons on clear thinking.
+
+##### LESSON
+id: money.scams.1
+title: How Scams Work on Smart People
+minutes: 14
+disclaimer: financial
+check: In your own words: what psychological principles do scammers exploit, and what are three red flags that a message or call is likely to be a scam?
+
+=== hook
+The phone rings. A calm, official-sounding voice says they’re calling from your bank’s fraud department. They tell you there’s been suspicious activity on your account, and they need to verify your identity urgently to block the fraudulent transaction. To prove they’re genuine, they already know your name and the last digits of your card. They just need you to read out the one-time password (OTP) that’s about to arrive on your phone.
+
+Thousands of people, including educated, careful people, fall for calls like this every year. Scams don’t work because victims are stupid. They work because scammers are skilled at exploiting normal human psychology, especially under pressure.
+
+=== core
+A **scam** is a deception designed to trick you into giving away money, personal information or access to your accounts. Scams have existed for centuries, but digital technology has made them faster, cheaper and easier to run at massive scale, from anywhere in the world.
+
+Researchers **Frank Stajano** and **Paul Wilson**, studying scams for a 2009 paper, worked with a magician and con artist expert and identified recurring psychological principles that scammers use. Combined with **Robert Cialdini**’s famous research on persuasion, they reveal a clear toolkit.
+
+=== text The scammer’s toolkit
+- **Authority**: impersonating banks, police, tax authorities, courts or company officials. We’re conditioned to obey authority.
+- **Urgency and time pressure**: “Your account will be blocked in 30 minutes”, “Act now or face arrest”. Pressure stops us thinking carefully, which is exactly the point.
+- **Fear**: threats of legal action, account closure or harm to a loved one trigger panic.
+- **Greed and need**: promises of prizes, high returns, jobs or loans offered to people who need money.
+- **Social proof**: fake reviews, testimonials or messages showing “others are profiting”, a principle Cialdini called social proof.
+- **Liking and trust**: scammers build rapport, flattery or even romance before asking for money.
+- **Reciprocity**: giving something small first, like a small “payout” on an investment, so you feel obliged or reassured.
+- **Distraction and complexity**: overwhelming you with details, technical jargon or multiple steps so you can’t spot the trick.
+
+=== callout analogy
+Think of a scam as a magic trick. A magician doesn’t rely on you being foolish. They direct your attention with movement, speed and a story, so you don’t notice the important move. Scammers do the same: urgency, fear or excitement direct your attention away from the one question that would expose them: **is this really who they say they are?**
+
+=== text Common scams today
+- **Phishing**: emails, texts or messages pretending to be from trusted organisations, with links to fake websites that steal login details.
+- **OTP and bank impersonation fraud**: calls asking you to share OTPs, PINs or passwords, or to install “remote access” apps.
+- **Fake KYC updates**: messages claiming your bank account, SIM card or wallet will be blocked unless you update your details through a link.
+- **“Digital arrest” scams**: callers impersonating police, customs or other officials, sometimes on video calls with fake uniforms and offices, claiming the victim is involved in a crime and demanding payment to avoid arrest. Indian authorities have issued repeated warnings about this growing scam, and stressed that no genuine agency arrests anyone over a video call.
+- **Impersonating family**: messages like “Hi Mum, I’ve lost my phone, this is my new number, can you send money urgently?”, sometimes now using AI-cloned voices.
+- **Romance scams**: building an online relationship over weeks or months, then asking for money for an emergency or investment.
+- **Fake job offers**: paid tasks or job offers that require an upfront “registration fee”, or that gradually draw victims into fake investments.
+- **Investment and crypto scams**: fake platforms showing impressive (fictional) gains, encouraging larger deposits before disappearing.
+
+=== steps What to do when you’re unsure
+- **Pause.** Urgency is the scammer’s best weapon. A genuine bank or authority will not punish you for taking time to check.
+- **Never share OTPs, PINs, passwords or CVV numbers** with anyone, including someone claiming to be from your bank. Banks say clearly that they will never ask for them.
+- **Hang up and call back** using the official number on your card, bank app or the organisation’s official website, not a number given by the caller or message.
+- **Don’t click links** in unexpected messages; go directly to the official app or website.
+- **Never install remote-access apps** at a stranger’s request.
+- **Verify family emergencies** by calling the person on their known number, or asking a question only they would know.
+- **Report it quickly**: contact your bank immediately to block transactions. In India, cyber fraud can be reported via the national helpline **1930** or cybercrime.gov.in; other countries have similar services, like Action Fraud in the UK or the FTC in the US.
+
+=== reveal Why do scammers often send messages with obvious spelling mistakes and unbelievable stories?
+One intriguing theory, proposed by Microsoft researcher **Cormac Herley** in 2012, is that obvious red flags can be **deliberate**. Scammers spend real time and effort on each person who responds. A ridiculous story filters out sceptical people early, so that those who do reply are more likely to be gullible enough to go all the way, making the scam more efficient. Whether or not all scammers think this way, the lesson stands: a polished message isn’t proof of legitimacy, and a clumsy one isn’t proof of harmlessness. Modern scams, increasingly using AI, can look completely professional.
+
+=== callout note | No shame in being targeted
+Scam victims often feel too embarrassed to report what happened, which helps scammers continue. Fraud affects people of all ages and education levels. Researchers find that being rushed, stressed, lonely or distracted matters more than intelligence. Talking openly about scams, especially with older relatives and young people new to managing money, is one of the best protections.
+
+=== keypoints
+- Scams exploit normal psychology: **authority**, **urgency**, **fear**, **greed and need**, **social proof**, **liking**, **reciprocity** and **distraction**.
+- Common scams include **phishing**, **OTP fraud**, **fake KYC**, **“digital arrest”**, **family impersonation**, **romance** and **investment** scams.
+- **Pause** when pressured; urgency is a major red flag.
+- **Never share OTPs, PINs or passwords**; genuine banks don’t ask for them.
+- **Hang up and call back** on an official number; don’t click links or install remote-access apps.
+- **Report quickly**: in India, call **1930**; elsewhere, contact your bank and national fraud services.
+
+=== why
+Scams are one of the fastest-growing crimes in the world, and almost everyone will be targeted many times. A few simple habits, like pausing under pressure and verifying through official channels, can protect your savings and your family’s. Next, you’ll look at large-scale frauds and financial bubbles, where persuasion works on entire markets.
+
+##### LESSON
+id: money.scams.2
+title: Ponzi Schemes, Bubbles and Madness of Crowds
+minutes: 15
+disclaimer: financial
+prereq: money.scams.1
+check: In your own words: how does a Ponzi scheme work and why must it eventually collapse, and how is a financial bubble different from a scam?
+
+=== hook
+In **1720**, shares in Britain’s **South Sea Company** soared as investors rushed to buy into its promised riches from trade with South America. Among the investors was **Isaac Newton**, one of the greatest scientific minds in history. He reportedly bought, sold at a profit, then watched the price keep climbing, bought back in near the peak, and lost a fortune, about **£20,000**, worth millions today, when the bubble burst.
+
+Newton is often quoted as saying he could calculate the motions of heavenly bodies, but not the madness of people. Whether or not he said exactly that, the story makes a powerful point: intelligence alone does not protect you from financial manias.
+
+=== core
+Some of history’s biggest financial losses come from two related but different phenomena:
+
+- **Ponzi schemes and other frauds**: deliberate deceptions in which promoters know the investment is fake or unsustainable.
+- **Bubbles**: periods when the price of an asset rises far above any reasonable estimate of its value, driven by excitement and the expectation of further rises, until it collapses. Bubbles can happen without anyone deliberately lying, though fraud often thrives inside them.
+
+Both rely on the same human tendencies: greed, fear of missing out, trust in others’ judgement and the belief that this time is different.
+
+=== text How a Ponzi scheme works
+In **1920**, **Charles Ponzi**, an Italian immigrant in Boston, promised investors a **50% return in 45 days**, supposedly by exploiting differences in the price of international postal reply coupons. In reality, he paid early investors with money from newer investors. As word spread of the incredible returns, money poured in, at its peak millions of dollars a week. Within months, the scheme collapsed and Ponzi was arrested.
+
+The structure now bears his name. In a **Ponzi scheme**:
+
+1. Early investors are promised high, steady returns.
+2. They’re paid using money from **new investors**, not from real profits.
+3. Satisfied early investors spread the word, attracting more money.
+4. The scheme needs ever-growing inflows to keep paying returns.
+5. When new money slows, or many investors want to withdraw at once, it **collapses**, and most investors lose most of their money.
+
+=== callout analogy
+Think of a Ponzi scheme like a bucket with a hole in the bottom, kept full only by pouring in more and more water from above. As long as the pouring speeds up, the bucket looks healthy. The moment it slows, the bucket empties. And because the hole gets bigger as promised returns grow, the pouring must grow forever, which is impossible.
+
+=== text Famous frauds
+**Bernie Madoff**, a respected former chairman of the NASDAQ stock exchange, ran the largest known Ponzi scheme in history for decades. Investors received remarkably **steady** returns, year after year, in good markets and bad. That consistency, too good to be true, was itself a warning sign that a few analysts raised for years, without regulators acting. When the 2008 financial crisis caused many investors to withdraw money, the scheme collapsed. Paper losses were estimated at around **$65 billion**.
+
+In India, the **Saradha Group** collapse in **2013** devastated hundreds of thousands of small investors, largely in West Bengal and neighbouring states, who had put savings into what were marketed as high-return deposit schemes. Such schemes often target people with limited access to formal banking, using local agents whom investors know and trust.
+
+=== text Pyramid schemes and MLMs
+A **pyramid scheme** is similar to a Ponzi scheme, but participants earn mainly by **recruiting** others, who pay to join. Since recruitment can’t grow forever, the people at the bottom, who are always the majority, lose. Pyramid schemes are illegal in many countries.
+
+**Multi-level marketing (MLM)** companies sell products through networks of distributors who earn from their own sales and from sales by people they recruit. MLMs are legal in many places when based on genuine product sales, but regulators like the US Federal Trade Commission have warned that **most participants earn little or lose money**, and some MLMs function much like pyramid schemes. Earnings disclosures, where available, often show that a small fraction at the top earn most of the income.
+
+=== steps How a bubble inflates and bursts
+- **A new story**: a genuine innovation or opportunity appears, such as railways, the internet, new trade routes or a new technology.
+- **Rising prices attract attention**: early investors make money, and media stories spread excitement.
+- **Euphoria**: people buy not because of the asset’s value, but because they expect prices to keep rising. Borrowing to invest increases. “This time is different” becomes a common phrase.
+- **Fear of missing out** draws in latecomers, including people with little experience.
+- **The turn**: something triggers doubt, such as rising interest rates, a failure or simply a shortage of new buyers. Prices start to fall.
+- **Panic**: everyone rushes to sell at once, prices crash and late buyers suffer the heaviest losses. Borrowed money magnifies the damage.
+- Examples include the **South Sea Bubble (1720)**, the **dot-com bubble** (which burst in **2000**), the US **housing bubble** that led to the **2008** financial crisis, and repeated booms and busts in cryptocurrencies.
+
+=== callout caution | Tulip mania: a cautionary tale about cautionary tales
+The **Dutch tulip mania** of the 1630s is often described as the first great bubble, with stories of people trading houses for single tulip bulbs and the Dutch economy collapsing when prices crashed in **1637**. Historians like **Anne Goldgar** have found the reality was more modest: prices for rare bulbs did spike and crash, but the wider economic damage seems to have been limited, and many famous anecdotes came from moralising pamphlets. It’s a good reminder to check even well-known stories.
+
+=== text Protecting yourself
+- **Too good to be true usually is.** High returns with low risk, or unusually smooth returns, are classic warning signs.
+- **Understand how the money is made.** If you can’t explain where the returns come from, be very cautious.
+- **Check registration.** In India, verify investment advisers and schemes with **SEBI** and deposit-taking institutions with the **RBI**; in the UK, use the **FCA** register; in the US, check the **SEC** and **FINRA**.
+- **Beware affinity fraud**: scams often spread through religious groups, communities, friends and family, exploiting trust.
+- **Watch for pressure to recruit** others or to act quickly.
+- **Never borrow** to invest in something you don’t fully understand.
+
+=== reveal Why do smart, experienced people still fall for frauds and bubbles?
+Several reasons. **Overconfidence**: experts may trust their own judgement too much. **Social proof**: if respected people, friends or famous investors are involved, it feels safe; Madoff’s investors included sophisticated institutions and wealthy individuals. **Incentives**: during a bubble, people who stay out look foolish while prices rise, and professionals risk losing clients or jobs by not joining in. As the economist John Maynard Keynes is often quoted as saying, markets can stay irrational longer than you can stay solvent. Resisting a mania requires not just knowledge but the confidence to look foolish for a while.
+
+=== keypoints
+- **Ponzi schemes** pay old investors with new investors’ money and must collapse when inflows slow; named after **Charles Ponzi (1920)**.
+- **Bernie Madoff’s** scheme (about **$65 billion** in paper losses) was exposed in 2008; India’s **Saradha** collapse in 2013 hit small investors.
+- **Pyramid schemes** rely on recruitment; many **MLM** participants earn little or lose money.
+- **Bubbles** occur when prices far exceed value, driven by stories, euphoria and **fear of missing out**, then crash.
+- Famous bubbles include the **South Sea Bubble (1720)**, **dot-com (2000)** and the **housing bubble (2008)**.
+- Protect yourself: distrust **too-good-to-be-true** returns, understand the source of profits and **check regulators**.
+
+=== why
+Every generation sees new versions of these schemes and manias, dressed in the latest technology and buzzwords. Recognising the underlying patterns, rather than the specific product, is what protects you. And understanding bubbles also helps make sense of the wider economy, connecting to the Economics region’s lessons on markets, money and banks.

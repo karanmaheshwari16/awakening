@@ -1,0 +1,78 @@
+{
+  "id": "money.debt.1",
+  "region": "money",
+  "topic": "debt",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Borrowing: The Cost of Having It Now",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Imagine you owe **1,000** on a credit card charging **24%** a year in interest, and you decide to pay a fixed **30** a month until it’s gone. How long will it take?\n\nMost people guess around three years. The real answer is about **four and a half years**, and by the end, you’ll have paid roughly **1,665** in total. Two-thirds of what you borrowed again, purely in interest. Borrowing isn’t inherently good or bad. But it always has a price, and that price is often far higher than it looks."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "When you borrow money, you receive a sum now, called the **principal**, and agree to repay it later, plus **interest**: the price of using someone else’s money. Interest is usually expressed as a yearly percentage.\n\nCommon forms of debt include:\n\n- **Credit cards**: flexible borrowing up to a limit, often with very high interest if not paid off in full each month.\n- **Personal loans**: a fixed amount repaid in regular instalments.\n- **Home loans (mortgages)**: large, long-term loans to buy property, secured against the home.\n- **Vehicle and education loans.**\n- **Buy now, pay later (BNPL)**: short-term instalment plans offered at checkout.\n\nDebt can be **secured** (backed by an asset, like a house or car, that the lender can take if you don’t pay) or **unsecured** (backed only by your promise, like most credit cards). Unsecured debt is riskier for lenders, so it usually costs more."
+    },
+    {
+      "type": "text",
+      "heading": "Reading the real price: APR",
+      "md": "Lenders can quote costs in confusing ways: monthly rates, flat rates, processing fees, insurance add-ons. To compare loans fairly, look for the **annual percentage rate (APR)**, which includes interest plus most fees, expressed as a yearly rate. Many countries require lenders to disclose it.\n\nWatch out for **flat interest rates**, sometimes used for personal or vehicle loans. A “10% flat” loan charges interest on the **original** amount for the whole term, even as you repay it, making the true cost much higher, often close to double the quoted figure. Always ask for the APR or the effective rate."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of borrowing as renting money. Just as renting a flat costs a monthly fee for the right to use someone else’s property, borrowing costs interest for the right to use someone else’s money. A good deal on rent can make sense; paying a fortune to rent something you could have waited to buy usually doesn’t."
+    },
+    {
+      "type": "steps",
+      "title": "The minimum payment trap, worked through",
+      "items": [
+        "You owe **1,000** at **24%** a year, which is about **2%** a month.",
+        "In the first month, interest adds about **20**. You pay **30**, so only **10** actually reduces what you owe.",
+        "Because most of each early payment goes to interest, the balance falls painfully slowly at first.",
+        "Paying 30 a month, it takes about **56 months** to clear the debt, costing roughly **665** in interest.",
+        "Double the payment to **60** a month and it takes about **20 months**, with total interest of roughly **230**. Paying more each month saves both time and a lot of money.",
+        "Many credit cards set **minimum payments** as a small percentage of the balance, which falls as the balance falls, stretching repayment out for many years. Paying only the minimum is one of the most expensive habits in personal finance."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How loan repayments work: amortisation",
+      "md": "Most loans are repaid in equal regular instalments, in India often called **EMIs** (equated monthly instalments). Each payment covers that period’s interest, and the rest reduces the principal. This schedule is called **amortisation**.\n\nEarly in a long loan, most of each payment is **interest**, because the balance is large. Over time, the interest portion shrinks and more goes to principal. On a 20-year home loan, the early years may feel like you’re barely denting the balance. This is why making **extra payments early** can save a large amount of interest, and why the total paid over a long mortgage can be far more than the original loan."
+    },
+    {
+      "type": "text",
+      "heading": "Can debt be good?",
+      "md": "People often distinguish “good debt” from “bad debt”:\n\n- Debt can make sense when it pays for something that **lasts longer than the loan** or **increases your future income**, at a reasonable interest rate: a home, education that leads to better earnings, or a business investment with solid prospects.\n- Debt is usually harmful when it pays for **consumption** that’s gone long before the loan is repaid, like holidays, gadgets or daily spending, especially at high interest rates.\n\nThis distinction is helpful but not absolute. An education loan for a course with poor job prospects can be a burden; a home loan that stretches your budget to breaking point can be dangerous. The real questions are: **What does it cost? What does it buy? Can I comfortably afford the repayments, even if things go wrong?**"
+    },
+    {
+      "type": "reveal",
+      "prompt": "Many credit cards charge no interest if you pay the full balance every month. So who pays for the rewards and cashback?",
+      "md": "Partly the **shops**, which pay fees on each card transaction, often around 1–3% of the purchase, and often build that cost into prices for everyone, including people paying cash. And partly the **cardholders who don’t pay in full**, whose high interest charges are a major source of card company profits. People who pay in full every month can genuinely benefit from rewards. People who carry a balance usually pay far more in interest than they gain in rewards. A card is a useful tool if you treat it like a debit card; an expensive one if you treat it like extra income."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Borrowing means receiving **principal** now and repaying it with **interest**.",
+        "Debt can be **secured** (backed by an asset) or **unsecured**; unsecured is usually more expensive.",
+        "Compare loans using the **APR**, and beware **flat rates**, which understate the real cost.",
+        "Paying only small or **minimum payments** on high-interest debt can take years and cost a large share of the original amount.",
+        "**Amortisation**: early payments are mostly interest; **extra early payments** save the most.",
+        "Debt can make sense for long-lasting assets at reasonable rates, but is risky for **consumption** at high rates."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Almost everyone borrows at some point, whether for education, a home, a vehicle or an emergency. Understanding the true cost of debt helps you borrow wisely when it makes sense and avoid the traps that keep many people stuck for years. Next, you’ll look at credit scores, the most dangerous forms of debt, and strategies for getting out."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does it really cost to borrow money, why can paying only the minimum on a credit card be so expensive, and how does a loan repayment schedule work?"
+  }
+}

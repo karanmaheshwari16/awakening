@@ -1,0 +1,279 @@
+##### LESSON
+id: money.debt.2
+title: Credit Scores, Debt Traps and the Way Out
+minutes: 14
+disclaimer: financial
+prereq: money.debt.1
+check: In your own words: what affects a credit score, why are payday-style loans so dangerous, and what are two strategies for paying off several debts?
+
+=== hook
+In 2016, researchers at Northwestern University’s Kellogg School studied thousands of people working through debt-repayment programmes. Economically, the smartest strategy is to pay off the debt with the **highest interest rate** first. But the researchers found that people who focused on paying off their **smallest balances** first, regardless of interest rate, were more likely to eliminate their debt entirely.
+
+Why would a mathematically worse strategy work better? Because getting out of debt isn’t only a maths problem. It’s also a motivation problem, and small wins keep people going. Understanding both sides is the key to escaping debt.
+
+=== core
+When you apply for a loan or credit card, lenders want to know how likely you are to repay. In many countries, they rely heavily on your **credit score**: a number summarising your borrowing history, calculated by **credit bureaus** from records of your loans and repayments.
+
+Different countries use different systems. In India, the best-known score is from **TransUnion CIBIL**, ranging from **300 to 900**. In the US, **FICO** scores range from **300 to 850**. In the UK, agencies like Experian, Equifax and TransUnion each use their own scales. Higher scores generally mean easier approval and **lower interest rates**, which can save a lot of money on large loans like mortgages.
+
+=== text What shapes your score
+Scoring formulas are proprietary and vary, but the main factors are broadly similar:
+
+- **Payment history** (usually the biggest factor): do you pay on time? Missed or late payments can hurt your score for years.
+- **Credit utilisation**: how much of your available credit you’re using. Using a large share of your credit card limits suggests financial stress. Many experts suggest keeping usage well below about **30%** of your limits.
+- **Length of credit history**: a longer record of responsible borrowing helps.
+- **Credit mix**: a combination of different types of credit, like a card and a loan, can help slightly.
+- **New applications**: applying for many loans in a short period can lower your score temporarily, as it suggests you may be in difficulty.
+
+=== callout analogy
+Think of a credit score as your reputation in a small town where everyone lends to each other. If you’ve always returned borrowed tools on time, neighbours lend to you happily. If you’ve returned things late or broken, they hesitate, or ask for a deposit. Credit bureaus are the town’s memory, written down.
+
+=== text The most dangerous debts
+Some forms of borrowing carry extremely high costs:
+
+**Payday loans** are short-term loans, often marketed to people waiting for their next pay cheque, with fees that can translate into APRs of **hundreds of percent**. Borrowers who can’t repay on time often roll the loan over, piling on fees. After widespread harm, the UK capped payday loan costs in **2015**: interest and fees are limited to 0.8% per day, and total costs can never exceed the amount borrowed.
+
+**Illegal and predatory lending apps**: in India, a wave of unregulated digital lending apps offered instant small loans, then charged extreme fees and, in some reported cases, harassed borrowers by contacting people in their phone contacts. The **Reserve Bank of India** issued digital lending guidelines in **2022** requiring loans to come from regulated entities and fees to be clearly disclosed. Always check that a lender is regulated.
+
+**Informal moneylenders**, common in many countries where formal credit is hard to access, can charge very high rates, sometimes with coercive collection.
+
+**Buy now, pay later (BNPL)**: often interest-free if paid on time, but late fees, multiple overlapping plans and the ease of spending can lead to problems. Regulators in several countries have been tightening rules.
+
+=== steps Two ways to pay off multiple debts
+- **List every debt**: balance, interest rate and minimum payment.
+- Always pay at least the **minimum** on every debt, to avoid penalties and damage to your credit score.
+- Put every extra amount you can towards **one** target debt at a time.
+- **Avalanche method**: target the debt with the **highest interest rate** first. This saves the most money.
+- **Snowball method**: target the **smallest balance** first. You clear debts sooner, building motivation, as the Kellogg study found.
+- When one debt is cleared, roll its payment into the next target. Payments grow like a snowball as each debt disappears.
+- Choose the method you’ll actually **stick to**. The best strategy is the one you complete.
+
+=== text Other tools, used carefully
+**Debt consolidation** means taking a new, lower-interest loan to pay off several higher-interest debts, leaving one simpler payment. It can help, but only if the new rate is genuinely lower, the fees are reasonable and you **stop adding new debt**; otherwise, people can end up with the consolidation loan and new card balances.
+
+**Talking to lenders early** helps more often than people expect. Many lenders offer hardship arrangements, such as reduced payments or restructuring, especially if contacted before payments are missed. Many countries also have free, non-profit **debt advice services**, such as StepChange or Citizens Advice in the UK.
+
+=== reveal Why do people end up in serious debt? Is it mainly poor decisions?
+Sometimes, but research suggests **unexpected shocks** play a huge role: job loss, illness, divorce, a family emergency or a business failure. Without an emergency fund, a shock forces people into expensive borrowing, and high interest can turn a temporary problem into a long-term one. Research by economists **Sendhil Mullainathan** and **Eldar Shafir** also found that financial scarcity itself captures attention and mental bandwidth, making careful long-term decisions harder, which can trap people in a cycle. This is why emergency funds, access to fair credit and supportive policies matter, and why shame about debt is often misplaced.
+
+=== callout note | Debt and wellbeing
+Studies consistently link problem debt with stress, anxiety, depression and poor sleep. If debt is affecting your mental health, it’s worth seeking help on both fronts: free debt advice for the money, and support from a doctor or counsellor for the stress. Problems tend to shrink once they’re faced with a plan.
+
+=== keypoints
+- **Credit scores** summarise borrowing history: **CIBIL** (300–900) in India, **FICO** (300–850) in the US.
+- Key factors: **payment history**, **credit utilisation** (keep it low), **length of history**, **mix** and **new applications**.
+- **Payday loans** and predatory lending apps can carry APRs of **hundreds of percent**; regulators like the UK’s FCA and the **RBI** have tightened rules.
+- **Avalanche** (highest interest first) saves the most money; **snowball** (smallest balance first) can boost motivation.
+- **Consolidation** helps only with a genuinely lower rate and no new borrowing.
+- Serious debt often starts with **shocks**, and **scarcity** itself can make good decisions harder.
+
+=== why
+Your credit history affects your ability to rent a home, get a loan at a fair price and, in some countries, even get certain jobs. Knowing how it works lets you build it deliberately. And understanding debt traps and repayment strategies can help you, or someone you care about, avoid years of financial stress, or find a clear way out.
+
+##### LESSON
+id: money.inflation.1
+title: Why Prices Rise
+minutes: 14
+disclaimer: financial
+check: In your own words: what is inflation, how is it measured, and what are two different causes of it?
+
+=== hook
+In Germany in **1923**, prices rose so fast that workers were paid twice a day and rushed to spend their wages before they lost value. A loaf of bread that cost about 250 marks in January cost around **200 billion** marks by November. People reportedly burned banknotes for heat because they were cheaper than firewood.
+
+That was **hyperinflation**, an extreme case. But a milder version touches your life every year. If you remember what a cup of tea, a bus ticket or a cinema ticket cost ten years ago, you’ve noticed inflation quietly at work.
+
+=== core
+**Inflation** is the general rise in prices across an economy over time. When inflation happens, each unit of money buys **less** than before: its **purchasing power** falls.
+
+The opposite, a general fall in prices, is called **deflation**. A slowing in the rate of inflation, where prices still rise but more slowly, is called **disinflation**.
+
+Inflation is usually measured as a yearly percentage. If inflation is 5%, something that cost 100 last year costs about 105 now, on average. Not every price rises equally: some may jump, others fall. Inflation measures the overall trend.
+
+=== text How inflation is measured
+Most countries measure inflation using a **Consumer Price Index (CPI)**. Statisticians define a **basket** of goods and services that a typical household buys, such as food, housing, fuel, transport, clothing, healthcare and education, and track their prices over time, weighted by how much households spend on each.
+
+- In **India**, the main CPI is published by the Ministry of Statistics (MoSPI). Food has a large weight, reflecting typical household budgets, so vegetable and cereal prices strongly influence the overall figure.
+- In the **UK**, the Office for National Statistics publishes CPI, which the Bank of England targets.
+- In the **US**, the Bureau of Labor Statistics publishes CPI, while the Federal Reserve targets a related measure.
+
+Because everyone’s spending differs, your **personal** inflation rate may be higher or lower than the official figure. A family spending heavily on food or rent will feel price rises in those items more.
+
+=== callout analogy
+Think of money as a measuring tape. If the tape slowly stretches each year, the same object measures as fewer centimetres, even though it hasn’t changed. Inflation is like money stretching: each unit measures out a little less real stuff than before.
+
+=== text What causes inflation?
+Economists describe several causes, which often work together:
+
+**Demand-pull inflation**: when people and businesses want to buy more than the economy can produce, prices rise. This can happen when an economy booms, when governments spend heavily or when borrowing is cheap.
+
+**Cost-push inflation**: when the costs of producing goods rise, businesses pass them on to customers. A classic example is the **1973 oil crisis**, when oil-exporting countries cut supplies and oil prices roughly quadrupled, raising costs throughout economies that depended on oil.
+
+**Too much money**: if the amount of money in an economy grows much faster than the goods and services available, each unit of money tends to lose value. The economist **Milton Friedman** famously said inflation is “always and everywhere a monetary phenomenon”. Most economists today see money as one important factor among several.
+
+**Expectations**: if people expect prices to keep rising, workers ask for higher wages and businesses raise prices in advance, which helps make the expectations come true.
+
+=== steps The Rule of 70: how fast inflation erodes money
+- Divide **70** by the inflation rate to estimate how many years it takes for prices to **double** (and for money’s purchasing power to halve).
+- At **2%** inflation: about **35 years**.
+- At **5%**: about **14 years**.
+- At **7%**: about **10 years**. Something costing 1,000 today would cost around 2,000 in a decade.
+- This is the same mathematics as compounding, working in reverse on the value of your money. It’s why cash kept under a mattress quietly loses value, and why savings earning less than inflation are shrinking in **real** terms.
+
+=== text Nominal versus real
+Economists distinguish **nominal** values (measured in money, as printed) from **real** values (adjusted for inflation, measuring actual buying power).
+
+If your salary rises 4% but inflation is 6%, your **nominal** pay went up, but your **real** pay fell by about 2%. You can buy less than before. Likewise, a savings account paying 5% interest when inflation is 6% delivers a negative **real interest rate**.
+
+Always ask: **is this number adjusted for inflation?** Comparing prices or incomes from decades apart without adjusting for inflation is one of the most common statistical mistakes.
+
+=== reveal Prices of some products haven’t risen, but the packets got smaller. Is that inflation?
+Yes. It’s often called **shrinkflation**: a chocolate bar, biscuit pack or crisp bag keeps the same price but contains less. The price per gram has risen, even if the label price hasn’t. Statistical agencies try to account for this by tracking prices per unit of quantity. Businesses do it because customers notice price rises more than size reductions, another example of the behavioural shortcuts from earlier lessons. Checking the **unit price** (per 100 grams, per litre) is the best way to compare.
+
+=== callout example | When prices spiral out of control
+**Hyperinflation** (often defined as prices rising more than **50% a month**) has struck several countries, usually during wars, political crises or when governments print money to cover huge deficits. **Germany** in 1923, **Hungary** in 1946 (the worst on record, with prices doubling roughly every 15 hours at the peak), **Zimbabwe** in 2007–2009, and **Venezuela** in the late 2010s are well-known examples. Savings were wiped out, and people turned to foreign currencies or barter.
+
+=== keypoints
+- **Inflation** is a general rise in prices, reducing money’s **purchasing power**; **deflation** is a general fall.
+- It’s measured by a **Consumer Price Index**: the changing cost of a weighted **basket** of goods and services.
+- Causes include **demand-pull**, **cost-push** (like the **1973 oil crisis**), **money growth** and **expectations**.
+- **Rule of 70**: 70 ÷ inflation rate ≈ years for prices to double.
+- **Real** values adjust for inflation; **nominal** values don’t.
+- **Hyperinflation**, as in Germany 1923 or Zimbabwe 2008, can wipe out savings.
+
+=== why
+Inflation affects your salary, your savings, your rent and the price of everything you buy. Understanding it helps you judge whether you’re truly better off, compare prices across time and make sense of news about interest rates and the economy. Next, you’ll see how central banks try to keep inflation under control, and why it’s so difficult.
+
+##### LESSON
+id: money.inflation.2
+title: Central Banks and the Inflation Battle
+minutes: 15
+disclaimer: financial
+prereq: money.inflation.1
+check: In your own words: how does raising interest rates help bring inflation down, what is the cost of doing so, and why do central banks care so much about expectations?
+
+=== hook
+In 1979, inflation in the United States was running above **11%** and rising. **Paul Volcker**, the new head of the Federal Reserve, did something deeply unpopular: he pushed interest rates up dramatically, with the key rate eventually reaching around **20%** in 1981.
+
+Borrowing became painfully expensive. The economy fell into a deep recession, unemployment rose to over 10%, and protesting farmers drove tractors to the Federal Reserve building. But inflation broke: from a peak of around 14.8% in 1980, it fell to under 4% by 1983. Volcker’s gamble showed both the power of central banks and the price of using it.
+
+=== core
+A **central bank** is the institution that manages a country’s money and banking system. Examples include the **Reserve Bank of India (RBI)**, the **US Federal Reserve** (the Fed), the **Bank of England** and the **European Central Bank**.
+
+One of their most important jobs is keeping inflation **low and stable**. Many central banks have explicit targets:
+
+- The **RBI** has targeted CPI inflation of **4%**, with a tolerance band from 2% to 6%, under a framework adopted in 2016.
+- The **Bank of England** and the **Federal Reserve** target **2%**.
+
+Why not zero? A small, steady amount of inflation is generally seen as healthier than none, because it gives room to cut interest rates in downturns and reduces the risk of **deflation**, which can be harmful in its own way.
+
+=== text The main tool: interest rates
+A central bank sets a key **policy interest rate**, the rate at which it lends to commercial banks. In India, this is the **repo rate**. Changes ripple through the economy:
+
+- When the central bank **raises** rates, banks raise their own lending and deposit rates. Loans, mortgages and credit become more expensive; saving becomes more attractive.
+- People and businesses borrow and spend less. Demand cools.
+- With less demand, businesses find it harder to raise prices, and inflation tends to fall, though with a delay often estimated at one to two years.
+
+When the central bank **cuts** rates, the opposite happens: borrowing gets cheaper, spending rises and the economy is stimulated. Central banks also use other tools, such as buying or selling government bonds to influence longer-term interest rates.
+
+=== callout analogy
+Think of the economy as a car and the central bank as the driver, with interest rates as the accelerator and brake. Press the brake (raise rates) to slow down when the economy overheats with inflation. Ease off and press the accelerator (cut rates) when it’s sluggish. The tricky part: the controls respond with a long delay, so the driver must anticipate the road ahead, through fog, using imperfect instruments.
+
+=== text The trade-off: inflation versus jobs
+In **1958**, the economist **A. W. Phillips** found that historically, in the UK, periods of low unemployment tended to coincide with faster wage growth. This became known as the **Phillips curve**, suggesting a trade-off: lower unemployment could be bought at the price of somewhat higher inflation.
+
+Then the 1970s brought **stagflation**: high inflation **and** high unemployment at the same time, partly due to the oil shocks. The simple trade-off broke down. Economists like Milton Friedman and Edmund Phelps had argued that once people come to **expect** inflation, it gets built into wages and prices, and the trade-off disappears in the long run. Today, most economists believe there can be a short-term trade-off, but it’s unstable and depends heavily on expectations.
+
+=== text Why expectations matter so much
+If workers and businesses believe inflation will stay around 2% or 4%, they set wages and prices accordingly, and inflation tends to stay there. If they start expecting high inflation, they demand bigger wage rises and raise prices pre-emptively, which pushes inflation up, a self-fulfilling cycle.
+
+That’s why central banks put so much effort into **credibility**: clearly stating their targets, explaining their decisions and showing they’ll act if needed. Volcker’s harsh rate rises were partly about convincing people that the Fed was serious, resetting expectations. Many economists argue that **central bank independence**, freedom from short-term political pressure, helps maintain this credibility, although the degree of independence is a matter of political debate in many countries.
+
+=== steps The post-pandemic inflation surge
+- During the **COVID-19 pandemic**, governments spent heavily to support people and businesses, and central banks cut interest rates to near zero in many countries.
+- As economies reopened in 2021, demand surged while **supply chains** were still disrupted: factories, shipping and ports struggled to keep up.
+- In 2022, Russia’s full-scale invasion of Ukraine pushed up **energy and food** prices sharply.
+- Inflation reached levels not seen in decades: about **9.1%** in the US in mid-2022, over **11%** in the UK later that year, and close to **8%** in India in April 2022.
+- Central banks raised interest rates rapidly. Inflation fell substantially through 2023 and 2024, though prices stayed permanently higher than before; falling inflation means prices rise more slowly, not that they go back down.
+- Economists still debate how much of the surge was caused by demand (government spending and low rates) versus supply shocks, and whether central banks acted too late.
+
+=== reveal If inflation is bad, why is deflation also feared?
+Because falling prices can trap an economy. If people expect prices to keep falling, they may **delay purchases**, waiting for cheaper prices, which reduces demand, leading businesses to cut production, jobs and wages, which reduces demand further. Deflation also makes **debts heavier** in real terms, since incomes fall while debts stay fixed. **Japan** experienced long periods of very low inflation or mild deflation from the 1990s onwards, alongside slow growth, sometimes called its “lost decades”. And the Great Depression of the 1930s involved severe deflation in many countries.
+
+=== callout note | Winners and losers from inflation
+Unexpected inflation redistributes wealth. **Borrowers** with fixed-rate debts tend to gain, because they repay with money worth less. **Savers** and people on **fixed incomes**, like some pensioners, tend to lose, as their money buys less. People whose wages rise slower than prices lose purchasing power. This is one reason inflation often hits poorer households hardest: they spend a larger share of income on essentials like food and fuel, and have fewer ways to protect themselves.
+
+=== keypoints
+- **Central banks** like the **RBI**, **Fed** and **Bank of England** aim for low, stable inflation: **4%** in India, **2%** in the US and UK.
+- Raising the **policy rate** (the **repo rate** in India) makes borrowing costlier, cools demand and lowers inflation, with a **delay**.
+- The **Phillips curve** suggested an inflation–unemployment trade-off; **stagflation** in the 1970s showed it isn’t stable.
+- **Expectations** can make inflation self-fulfilling, so central bank **credibility** is vital.
+- **Volcker** broke US inflation around 1980 at the cost of a deep recession.
+- **Post-pandemic inflation** peaked in 2022 from demand and supply shocks; **deflation** carries its own risks.
+
+=== why
+Central bank decisions affect your loan payments, savings interest, job prospects and the prices you pay, yet they’re rarely explained clearly. Understanding the basic logic helps you follow economic news, judge political claims about prices and make better decisions about borrowing and saving. These ideas connect directly to the Economics region, where you’ll explore money and banks in more depth.
+
+##### LESSON
+id: money.risk.1
+title: Risk, Insurance and the Power of Pooling
+minutes: 14
+disclaimer: financial
+check: In your own words: how does insurance work by pooling risk, and what are moral hazard and adverse selection?
+
+=== hook
+In the late 1680s, merchants, ship owners and sea captains gathered at **Edward Lloyd’s coffee house** in London to swap shipping news. Some of them began offering a service: for a fee, they would agree to cover part of the loss if a ship sank or its cargo was seized by pirates. Each wealthy backer would write their name under the terms of the deal, which is why insurers are still called **underwriters**.
+
+From those coffee-house deals grew **Lloyd’s of London**, one of the world’s most famous insurance markets. But the idea behind it is much older and very simple: when many people share a risk, no one has to bear a disaster alone.
+
+=== core
+**Risk** is the possibility that something bad will happen. It has two parts:
+
+- **Likelihood**: how probable the event is.
+- **Impact**: how bad it would be if it happened.
+
+Some risks are likely but minor, like a scratched phone screen. Others are unlikely but devastating, like a serious illness, a house fire or the death of a family’s main earner. **Insurance** is most valuable for the second kind: **low probability, high impact** events that could ruin you financially.
+
+=== text How insurance works: pooling
+Insurance works by **pooling** risk. Many people each pay a relatively small, predictable amount, called a **premium**, into a shared fund. The few who suffer a loss are paid from that fund.
+
+This works because of a principle from probability called the **law of large numbers**. You can’t predict whether **your** house will catch fire this year. But an insurer covering a million houses can predict quite accurately roughly **how many** will burn, and set premiums to cover the expected claims, plus costs and profit. Uncertainty for an individual becomes near-certainty for the group.
+
+=== callout analogy
+Imagine 1,000 villagers, each with a small chance that their hut is destroyed by a storm this year, costing 50,000 to rebuild. Each could save 50,000 just in case, which most can’t afford. Instead, each contributes 100 to a village fund. If one or two huts are destroyed, the fund of 100,000 covers them. Everyone exchanges a small, certain cost for protection against a large, uncertain one.
+
+=== steps The language of an insurance policy
+- **Premium**: what you pay, monthly or yearly, for coverage.
+- **Sum insured (or cover)**: the maximum the insurer will pay.
+- **Deductible (or excess)**: the part of a claim you pay yourself before the insurer pays. Higher deductibles usually mean lower premiums.
+- **Co-payment**: in some health policies, a percentage of each bill you pay yourself.
+- **Exclusions**: what the policy doesn’t cover, such as certain pre-existing conditions or specific causes of damage. Always read them.
+- **Waiting period**: time after buying a policy before certain claims are allowed, common in health insurance.
+
+=== text Two problems every insurer faces
+**Moral hazard**: once people are insured, they may take **more risks** or less care, because they don’t bear the full cost. Someone with full phone insurance might be less careful with their phone. Insurers respond with deductibles and co-payments, so people still have some “skin in the game”.
+
+**Adverse selection**: people who know they’re **higher risk** are more likely to buy insurance. If someone knows they have health problems, they’re more eager to buy health cover. If too many high-risk people join and low-risk people stay away, premiums rise, pushing even more low-risk people out, a potential spiral. The economist **George Akerlof** described this kind of problem, caused by one side knowing more than the other, in a famous 1970 paper about used cars (“The Market for Lemons”), work that helped win him a Nobel Prize.
+
+This is one reason many governments make some insurance **compulsory**, such as motor insurance covering harm to others, or create public schemes, so that both low- and high-risk people are in the same pool.
+
+=== text Which insurance matters most?
+Priorities vary by country and situation, but common recommendations include:
+
+- **Health insurance**: medical costs are one of the leading causes of financial hardship worldwide. In India, a large share of healthcare spending has historically been paid out of pocket. Government schemes like **Ayushman Bharat PM-JAY**, launched in **2018**, offer hospital cover to eligible lower-income families, while many others rely on employer or private policies. The UK’s NHS and various US programmes and private plans take very different approaches.
+- **Term life insurance**: if others depend on your income, term life insurance pays a lump sum if you die during the policy term. It’s usually far **cheaper** than policies that combine insurance with savings or investment, like many endowment plans, which often offer lower returns and higher fees. Many financial educators suggest keeping insurance and investment separate.
+- **Disability or income protection**: covers part of your income if illness or injury prevents you from working.
+- **Property and vehicle insurance**: especially where required by law or by lenders.
+
+=== reveal Should you insure everything, like your phone, your holiday and your new appliance’s extended warranty?
+Usually **not**. Insurance has a cost beyond the expected claims: the insurer’s expenses and profit. On average, policyholders pay more in premiums than they get back in claims, which is fine for catastrophes you couldn’t otherwise afford, but poor value for small losses you could cover yourself. **Extended warranties** on electronics, for example, are often highly profitable for sellers because claims are relatively rare and costs are low compared with the price. A common principle: **insure against disasters, and self-insure small risks** by keeping an emergency fund.
+
+=== keypoints
+- **Risk** combines **likelihood** and **impact**; insurance is most valuable for **low-probability, high-impact** events.
+- Insurance works by **pooling**: many pay small **premiums**, and the few who suffer losses are paid.
+- The **law of large numbers** makes losses predictable for large groups.
+- Key terms: **premium**, **sum insured**, **deductible**, **co-payment**, **exclusions**, **waiting period**.
+- **Moral hazard** (less care when insured) and **adverse selection** (high-risk people buying more) shape how insurance is designed.
+- Priorities often include **health**, **term life** (if others depend on you) and **income protection**; small risks are usually better **self-insured**.
+
+=== why
+One unlucky event, like an illness, accident or death in the family, can undo years of careful saving. Insurance is how people and societies protect themselves from that. Understanding how it works helps you buy the cover you actually need, avoid expensive policies you don’t, and read the small print. Next, you’ll explore how people think about risk, and why our instincts often get it wrong.

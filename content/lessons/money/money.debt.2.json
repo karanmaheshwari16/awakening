@@ -1,0 +1,87 @@
+{
+  "id": "money.debt.2",
+  "region": "money",
+  "topic": "debt",
+  "level": 2,
+  "prerequisites": [
+    "money.debt.1"
+  ],
+  "title": "Credit Scores, Debt Traps and the Way Out",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 2016, researchers at Northwestern University’s Kellogg School studied thousands of people working through debt-repayment programmes. Economically, the smartest strategy is to pay off the debt with the **highest interest rate** first. But the researchers found that people who focused on paying off their **smallest balances** first, regardless of interest rate, were more likely to eliminate their debt entirely.\n\nWhy would a mathematically worse strategy work better? Because getting out of debt isn’t only a maths problem. It’s also a motivation problem, and small wins keep people going. Understanding both sides is the key to escaping debt."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "When you apply for a loan or credit card, lenders want to know how likely you are to repay. In many countries, they rely heavily on your **credit score**: a number summarising your borrowing history, calculated by **credit bureaus** from records of your loans and repayments.\n\nDifferent countries use different systems. In India, the best-known score is from **TransUnion CIBIL**, ranging from **300 to 900**. In the US, **FICO** scores range from **300 to 850**. In the UK, agencies like Experian, Equifax and TransUnion each use their own scales. Higher scores generally mean easier approval and **lower interest rates**, which can save a lot of money on large loans like mortgages."
+    },
+    {
+      "type": "text",
+      "heading": "What shapes your score",
+      "md": "Scoring formulas are proprietary and vary, but the main factors are broadly similar:\n\n- **Payment history** (usually the biggest factor): do you pay on time? Missed or late payments can hurt your score for years.\n- **Credit utilisation**: how much of your available credit you’re using. Using a large share of your credit card limits suggests financial stress. Many experts suggest keeping usage well below about **30%** of your limits.\n- **Length of credit history**: a longer record of responsible borrowing helps.\n- **Credit mix**: a combination of different types of credit, like a card and a loan, can help slightly.\n- **New applications**: applying for many loans in a short period can lower your score temporarily, as it suggests you may be in difficulty."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a credit score as your reputation in a small town where everyone lends to each other. If you’ve always returned borrowed tools on time, neighbours lend to you happily. If you’ve returned things late or broken, they hesitate, or ask for a deposit. Credit bureaus are the town’s memory, written down."
+    },
+    {
+      "type": "text",
+      "heading": "The most dangerous debts",
+      "md": "Some forms of borrowing carry extremely high costs:\n\n**Payday loans** are short-term loans, often marketed to people waiting for their next pay cheque, with fees that can translate into APRs of **hundreds of percent**. Borrowers who can’t repay on time often roll the loan over, piling on fees. After widespread harm, the UK capped payday loan costs in **2015**: interest and fees are limited to 0.8% per day, and total costs can never exceed the amount borrowed.\n\n**Illegal and predatory lending apps**: in India, a wave of unregulated digital lending apps offered instant small loans, then charged extreme fees and, in some reported cases, harassed borrowers by contacting people in their phone contacts. The **Reserve Bank of India** issued digital lending guidelines in **2022** requiring loans to come from regulated entities and fees to be clearly disclosed. Always check that a lender is regulated.\n\n**Informal moneylenders**, common in many countries where formal credit is hard to access, can charge very high rates, sometimes with coercive collection.\n\n**Buy now, pay later (BNPL)**: often interest-free if paid on time, but late fees, multiple overlapping plans and the ease of spending can lead to problems. Regulators in several countries have been tightening rules."
+    },
+    {
+      "type": "steps",
+      "title": "Two ways to pay off multiple debts",
+      "items": [
+        "**List every debt**: balance, interest rate and minimum payment.",
+        "Always pay at least the **minimum** on every debt, to avoid penalties and damage to your credit score.",
+        "Put every extra amount you can towards **one** target debt at a time.",
+        "**Avalanche method**: target the debt with the **highest interest rate** first. This saves the most money.",
+        "**Snowball method**: target the **smallest balance** first. You clear debts sooner, building motivation, as the Kellogg study found.",
+        "When one debt is cleared, roll its payment into the next target. Payments grow like a snowball as each debt disappears.",
+        "Choose the method you’ll actually **stick to**. The best strategy is the one you complete."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Other tools, used carefully",
+      "md": "**Debt consolidation** means taking a new, lower-interest loan to pay off several higher-interest debts, leaving one simpler payment. It can help, but only if the new rate is genuinely lower, the fees are reasonable and you **stop adding new debt**; otherwise, people can end up with the consolidation loan and new card balances.\n\n**Talking to lenders early** helps more often than people expect. Many lenders offer hardship arrangements, such as reduced payments or restructuring, especially if contacted before payments are missed. Many countries also have free, non-profit **debt advice services**, such as StepChange or Citizens Advice in the UK."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do people end up in serious debt? Is it mainly poor decisions?",
+      "md": "Sometimes, but research suggests **unexpected shocks** play a huge role: job loss, illness, divorce, a family emergency or a business failure. Without an emergency fund, a shock forces people into expensive borrowing, and high interest can turn a temporary problem into a long-term one. Research by economists **Sendhil Mullainathan** and **Eldar Shafir** also found that financial scarcity itself captures attention and mental bandwidth, making careful long-term decisions harder, which can trap people in a cycle. This is why emergency funds, access to fair credit and supportive policies matter, and why shame about debt is often misplaced."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "Debt and wellbeing",
+      "md": "Studies consistently link problem debt with stress, anxiety, depression and poor sleep. If debt is affecting your mental health, it’s worth seeking help on both fronts: free debt advice for the money, and support from a doctor or counsellor for the stress. Problems tend to shrink once they’re faced with a plan."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Credit scores** summarise borrowing history: **CIBIL** (300–900) in India, **FICO** (300–850) in the US.",
+        "Key factors: **payment history**, **credit utilisation** (keep it low), **length of history**, **mix** and **new applications**.",
+        "**Payday loans** and predatory lending apps can carry APRs of **hundreds of percent**; regulators like the UK’s FCA and the **RBI** have tightened rules.",
+        "**Avalanche** (highest interest first) saves the most money; **snowball** (smallest balance first) can boost motivation.",
+        "**Consolidation** helps only with a genuinely lower rate and no new borrowing.",
+        "Serious debt often starts with **shocks**, and **scarcity** itself can make good decisions harder."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Your credit history affects your ability to rent a home, get a loan at a fair price and, in some countries, even get certain jobs. Knowing how it works lets you build it deliberately. And understanding debt traps and repayment strategies can help you, or someone you care about, avoid years of financial stress, or find a clear way out."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what affects a credit score, why are payday-style loans so dangerous, and what are two strategies for paying off several debts?"
+  }
+}

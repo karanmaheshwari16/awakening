@@ -1,0 +1,78 @@
+{
+  "id": "money.risk.1",
+  "region": "money",
+  "topic": "risk",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Risk, Insurance and the Power of Pooling",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the late 1680s, merchants, ship owners and sea captains gathered at **Edward Lloyd’s coffee house** in London to swap shipping news. Some of them began offering a service: for a fee, they would agree to cover part of the loss if a ship sank or its cargo was seized by pirates. Each wealthy backer would write their name under the terms of the deal, which is why insurers are still called **underwriters**.\n\nFrom those coffee-house deals grew **Lloyd’s of London**, one of the world’s most famous insurance markets. But the idea behind it is much older and very simple: when many people share a risk, no one has to bear a disaster alone."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Risk** is the possibility that something bad will happen. It has two parts:\n\n- **Likelihood**: how probable the event is.\n- **Impact**: how bad it would be if it happened.\n\nSome risks are likely but minor, like a scratched phone screen. Others are unlikely but devastating, like a serious illness, a house fire or the death of a family’s main earner. **Insurance** is most valuable for the second kind: **low probability, high impact** events that could ruin you financially."
+    },
+    {
+      "type": "text",
+      "heading": "How insurance works: pooling",
+      "md": "Insurance works by **pooling** risk. Many people each pay a relatively small, predictable amount, called a **premium**, into a shared fund. The few who suffer a loss are paid from that fund.\n\nThis works because of a principle from probability called the **law of large numbers**. You can’t predict whether **your** house will catch fire this year. But an insurer covering a million houses can predict quite accurately roughly **how many** will burn, and set premiums to cover the expected claims, plus costs and profit. Uncertainty for an individual becomes near-certainty for the group."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine 1,000 villagers, each with a small chance that their hut is destroyed by a storm this year, costing 50,000 to rebuild. Each could save 50,000 just in case, which most can’t afford. Instead, each contributes 100 to a village fund. If one or two huts are destroyed, the fund of 100,000 covers them. Everyone exchanges a small, certain cost for protection against a large, uncertain one."
+    },
+    {
+      "type": "steps",
+      "title": "The language of an insurance policy",
+      "items": [
+        "**Premium**: what you pay, monthly or yearly, for coverage.",
+        "**Sum insured (or cover)**: the maximum the insurer will pay.",
+        "**Deductible (or excess)**: the part of a claim you pay yourself before the insurer pays. Higher deductibles usually mean lower premiums.",
+        "**Co-payment**: in some health policies, a percentage of each bill you pay yourself.",
+        "**Exclusions**: what the policy doesn’t cover, such as certain pre-existing conditions or specific causes of damage. Always read them.",
+        "**Waiting period**: time after buying a policy before certain claims are allowed, common in health insurance."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Two problems every insurer faces",
+      "md": "**Moral hazard**: once people are insured, they may take **more risks** or less care, because they don’t bear the full cost. Someone with full phone insurance might be less careful with their phone. Insurers respond with deductibles and co-payments, so people still have some “skin in the game”.\n\n**Adverse selection**: people who know they’re **higher risk** are more likely to buy insurance. If someone knows they have health problems, they’re more eager to buy health cover. If too many high-risk people join and low-risk people stay away, premiums rise, pushing even more low-risk people out, a potential spiral. The economist **George Akerlof** described this kind of problem, caused by one side knowing more than the other, in a famous 1970 paper about used cars (“The Market for Lemons”), work that helped win him a Nobel Prize.\n\nThis is one reason many governments make some insurance **compulsory**, such as motor insurance covering harm to others, or create public schemes, so that both low- and high-risk people are in the same pool."
+    },
+    {
+      "type": "text",
+      "heading": "Which insurance matters most?",
+      "md": "Priorities vary by country and situation, but common recommendations include:\n\n- **Health insurance**: medical costs are one of the leading causes of financial hardship worldwide. In India, a large share of healthcare spending has historically been paid out of pocket. Government schemes like **Ayushman Bharat PM-JAY**, launched in **2018**, offer hospital cover to eligible lower-income families, while many others rely on employer or private policies. The UK’s NHS and various US programmes and private plans take very different approaches.\n- **Term life insurance**: if others depend on your income, term life insurance pays a lump sum if you die during the policy term. It’s usually far **cheaper** than policies that combine insurance with savings or investment, like many endowment plans, which often offer lower returns and higher fees. Many financial educators suggest keeping insurance and investment separate.\n- **Disability or income protection**: covers part of your income if illness or injury prevents you from working.\n- **Property and vehicle insurance**: especially where required by law or by lenders."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Should you insure everything, like your phone, your holiday and your new appliance’s extended warranty?",
+      "md": "Usually **not**. Insurance has a cost beyond the expected claims: the insurer’s expenses and profit. On average, policyholders pay more in premiums than they get back in claims, which is fine for catastrophes you couldn’t otherwise afford, but poor value for small losses you could cover yourself. **Extended warranties** on electronics, for example, are often highly profitable for sellers because claims are relatively rare and costs are low compared with the price. A common principle: **insure against disasters, and self-insure small risks** by keeping an emergency fund."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Risk** combines **likelihood** and **impact**; insurance is most valuable for **low-probability, high-impact** events.",
+        "Insurance works by **pooling**: many pay small **premiums**, and the few who suffer losses are paid.",
+        "The **law of large numbers** makes losses predictable for large groups.",
+        "Key terms: **premium**, **sum insured**, **deductible**, **co-payment**, **exclusions**, **waiting period**.",
+        "**Moral hazard** (less care when insured) and **adverse selection** (high-risk people buying more) shape how insurance is designed.",
+        "Priorities often include **health**, **term life** (if others depend on you) and **income protection**; small risks are usually better **self-insured**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "One unlucky event, like an illness, accident or death in the family, can undo years of careful saving. Insurance is how people and societies protect themselves from that. Understanding how it works helps you buy the cover you actually need, avoid expensive policies you don’t, and read the small print. Next, you’ll explore how people think about risk, and why our instincts often get it wrong."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does insurance work by pooling risk, and what are moral hazard and adverse selection?"
+  }
+}

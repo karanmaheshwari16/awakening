@@ -1,0 +1,92 @@
+{
+  "id": "money.scams.2",
+  "region": "money",
+  "topic": "scams",
+  "level": 2,
+  "prerequisites": [
+    "money.scams.1"
+  ],
+  "title": "Ponzi Schemes, Bubbles and Madness of Crowds",
+  "estimated_minutes": 15,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1720**, shares in Britain’s **South Sea Company** soared as investors rushed to buy into its promised riches from trade with South America. Among the investors was **Isaac Newton**, one of the greatest scientific minds in history. He reportedly bought, sold at a profit, then watched the price keep climbing, bought back in near the peak, and lost a fortune, about **£20,000**, worth millions today, when the bubble burst.\n\nNewton is often quoted as saying he could calculate the motions of heavenly bodies, but not the madness of people. Whether or not he said exactly that, the story makes a powerful point: intelligence alone does not protect you from financial manias."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Some of history’s biggest financial losses come from two related but different phenomena:\n\n- **Ponzi schemes and other frauds**: deliberate deceptions in which promoters know the investment is fake or unsustainable.\n- **Bubbles**: periods when the price of an asset rises far above any reasonable estimate of its value, driven by excitement and the expectation of further rises, until it collapses. Bubbles can happen without anyone deliberately lying, though fraud often thrives inside them.\n\nBoth rely on the same human tendencies: greed, fear of missing out, trust in others’ judgement and the belief that this time is different."
+    },
+    {
+      "type": "text",
+      "heading": "How a Ponzi scheme works",
+      "md": "In **1920**, **Charles Ponzi**, an Italian immigrant in Boston, promised investors a **50% return in 45 days**, supposedly by exploiting differences in the price of international postal reply coupons. In reality, he paid early investors with money from newer investors. As word spread of the incredible returns, money poured in, at its peak millions of dollars a week. Within months, the scheme collapsed and Ponzi was arrested.\n\nThe structure now bears his name. In a **Ponzi scheme**:\n\n1. Early investors are promised high, steady returns.\n2. They’re paid using money from **new investors**, not from real profits.\n3. Satisfied early investors spread the word, attracting more money.\n4. The scheme needs ever-growing inflows to keep paying returns.\n5. When new money slows, or many investors want to withdraw at once, it **collapses**, and most investors lose most of their money."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a Ponzi scheme like a bucket with a hole in the bottom, kept full only by pouring in more and more water from above. As long as the pouring speeds up, the bucket looks healthy. The moment it slows, the bucket empties. And because the hole gets bigger as promised returns grow, the pouring must grow forever, which is impossible."
+    },
+    {
+      "type": "text",
+      "heading": "Famous frauds",
+      "md": "**Bernie Madoff**, a respected former chairman of the NASDAQ stock exchange, ran the largest known Ponzi scheme in history for decades. Investors received remarkably **steady** returns, year after year, in good markets and bad. That consistency, too good to be true, was itself a warning sign that a few analysts raised for years, without regulators acting. When the 2008 financial crisis caused many investors to withdraw money, the scheme collapsed. Paper losses were estimated at around **$65 billion**.\n\nIn India, the **Saradha Group** collapse in **2013** devastated hundreds of thousands of small investors, largely in West Bengal and neighbouring states, who had put savings into what were marketed as high-return deposit schemes. Such schemes often target people with limited access to formal banking, using local agents whom investors know and trust."
+    },
+    {
+      "type": "text",
+      "heading": "Pyramid schemes and MLMs",
+      "md": "A **pyramid scheme** is similar to a Ponzi scheme, but participants earn mainly by **recruiting** others, who pay to join. Since recruitment can’t grow forever, the people at the bottom, who are always the majority, lose. Pyramid schemes are illegal in many countries.\n\n**Multi-level marketing (MLM)** companies sell products through networks of distributors who earn from their own sales and from sales by people they recruit. MLMs are legal in many places when based on genuine product sales, but regulators like the US Federal Trade Commission have warned that **most participants earn little or lose money**, and some MLMs function much like pyramid schemes. Earnings disclosures, where available, often show that a small fraction at the top earn most of the income."
+    },
+    {
+      "type": "steps",
+      "title": "How a bubble inflates and bursts",
+      "items": [
+        "**A new story**: a genuine innovation or opportunity appears, such as railways, the internet, new trade routes or a new technology.",
+        "**Rising prices attract attention**: early investors make money, and media stories spread excitement.",
+        "**Euphoria**: people buy not because of the asset’s value, but because they expect prices to keep rising. Borrowing to invest increases. “This time is different” becomes a common phrase.",
+        "**Fear of missing out** draws in latecomers, including people with little experience.",
+        "**The turn**: something triggers doubt, such as rising interest rates, a failure or simply a shortage of new buyers. Prices start to fall.",
+        "**Panic**: everyone rushes to sell at once, prices crash and late buyers suffer the heaviest losses. Borrowed money magnifies the damage.",
+        "Examples include the **South Sea Bubble (1720)**, the **dot-com bubble** (which burst in **2000**), the US **housing bubble** that led to the **2008** financial crisis, and repeated booms and busts in cryptocurrencies."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Tulip mania: a cautionary tale about cautionary tales",
+      "md": "The **Dutch tulip mania** of the 1630s is often described as the first great bubble, with stories of people trading houses for single tulip bulbs and the Dutch economy collapsing when prices crashed in **1637**. Historians like **Anne Goldgar** have found the reality was more modest: prices for rare bulbs did spike and crash, but the wider economic damage seems to have been limited, and many famous anecdotes came from moralising pamphlets. It’s a good reminder to check even well-known stories."
+    },
+    {
+      "type": "text",
+      "heading": "Protecting yourself",
+      "md": "- **Too good to be true usually is.** High returns with low risk, or unusually smooth returns, are classic warning signs.\n- **Understand how the money is made.** If you can’t explain where the returns come from, be very cautious.\n- **Check registration.** In India, verify investment advisers and schemes with **SEBI** and deposit-taking institutions with the **RBI**; in the UK, use the **FCA** register; in the US, check the **SEC** and **FINRA**.\n- **Beware affinity fraud**: scams often spread through religious groups, communities, friends and family, exploiting trust.\n- **Watch for pressure to recruit** others or to act quickly.\n- **Never borrow** to invest in something you don’t fully understand."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do smart, experienced people still fall for frauds and bubbles?",
+      "md": "Several reasons. **Overconfidence**: experts may trust their own judgement too much. **Social proof**: if respected people, friends or famous investors are involved, it feels safe; Madoff’s investors included sophisticated institutions and wealthy individuals. **Incentives**: during a bubble, people who stay out look foolish while prices rise, and professionals risk losing clients or jobs by not joining in. As the economist John Maynard Keynes is often quoted as saying, markets can stay irrational longer than you can stay solvent. Resisting a mania requires not just knowledge but the confidence to look foolish for a while."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Ponzi schemes** pay old investors with new investors’ money and must collapse when inflows slow; named after **Charles Ponzi (1920)**.",
+        "**Bernie Madoff’s** scheme (about **$65 billion** in paper losses) was exposed in 2008; India’s **Saradha** collapse in 2013 hit small investors.",
+        "**Pyramid schemes** rely on recruitment; many **MLM** participants earn little or lose money.",
+        "**Bubbles** occur when prices far exceed value, driven by stories, euphoria and **fear of missing out**, then crash.",
+        "Famous bubbles include the **South Sea Bubble (1720)**, **dot-com (2000)** and the **housing bubble (2008)**.",
+        "Protect yourself: distrust **too-good-to-be-true** returns, understand the source of profits and **check regulators**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every generation sees new versions of these schemes and manias, dressed in the latest technology and buzzwords. Recognising the underlying patterns, rather than the specific product, is what protects you. And understanding bubbles also helps make sense of the wider economy, connecting to the Economics region’s lessons on markets, money and banks."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does a Ponzi scheme work and why must it eventually collapse, and how is a financial bubble different from a scam?"
+  }
+}

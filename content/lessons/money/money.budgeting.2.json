@@ -1,0 +1,91 @@
+{
+  "id": "money.budgeting.2",
+  "region": "money",
+  "topic": "budgeting",
+  "level": 2,
+  "prerequisites": [
+    "money.budgeting.1"
+  ],
+  "title": "The Psychology of Spending",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 2001, two professors at MIT, **Drazen Prelec** and **Duncan Simester**, ran an auction for tickets to sold-out basketball and baseball games. Half the bidders were told they must pay in **cash**; the other half by **credit card**. Same tickets, same people, same value.\n\nThe credit card group bid substantially more, in some cases more than **double** the cash group’s average bids. Nothing about the tickets had changed. Only the way the money felt leaving their hands. Much of our spending is driven not by careful calculation but by mental shortcuts, and businesses understand them very well."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Traditional economics often assumed people make rational decisions about money: weighing costs and benefits carefully and consistently. **Behavioural economics**, developed by psychologists like **Daniel Kahneman** and **Amos Tversky** and economists like **Richard Thaler** (Nobel Prize 2017), studies how people actually behave, and finds systematic, predictable departures from that ideal.\n\nThese aren’t signs of stupidity. They’re mental shortcuts that usually serve us well, but that can be exploited or can backfire with money. Knowing them is the first defence."
+    },
+    {
+      "type": "text",
+      "heading": "Shortcut 1: the pain of paying",
+      "md": "Paying with cash feels like a loss: you watch notes leave your wallet. Paying by card, phone or UPI feels almost painless, because the money is abstract and the moment of payment is quick. Researchers call this the **pain of paying**, and reducing it tends to increase spending.\n\nThis doesn’t mean digital payments are bad; they’re convenient and safe. But it means you may need **deliberate checks**, like reviewing spending weekly or setting app limits, to replace the natural brake that cash once provided."
+    },
+    {
+      "type": "text",
+      "heading": "Shortcut 2: mental accounting",
+      "md": "We treat money differently depending on where it came from or what we’ve labelled it for, even though money is interchangeable. Richard Thaler called this **mental accounting**.\n\nPeople splurge a bonus, tax refund or gift money that they would never spend from their salary. Someone might keep savings earning little interest while carrying credit card debt costing far more, because the savings are mentally labelled “for emergencies”. Mental accounting can be useful too: labelling savings for specific goals, like “travel fund” or “emergency fund”, can make people less likely to raid them."
+    },
+    {
+      "type": "text",
+      "heading": "Shortcut 3: present bias",
+      "md": "We tend to value rewards **now** much more than rewards **later**, more than a consistent calculation would justify. This is called **present bias**. It’s why saving for retirement is so hard: the cost is today; the benefit is decades away, for a future self who feels almost like a stranger.\n\nPresent bias also explains the appeal of “buy now, pay later”, which lets you have the reward immediately while pushing the cost into the future."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your present self and future self as two different people sharing a bank account. Present you is impulsive and loud; future you is quiet and not in the room. Every spending decision is made by present you. Good financial habits are ways of giving future you a vote, like automatic savings, which commit present you before temptation arrives."
+    },
+    {
+      "type": "text",
+      "heading": "Shortcut 4: anchoring, decoys and “sales”",
+      "md": "**Anchoring**: the first number we see shapes our judgement. A jacket “reduced from 8,000 to 4,000” feels like a bargain, even if 4,000 is what it was always worth. The original price is the anchor.\n\n**The decoy effect**: in a famous example described by the behavioural economist Dan Ariely, a magazine offered three subscriptions: online only for 59, print only for 125, and print plus online for 125. Almost nobody chose print only, but its presence made print plus online look like a great deal, and many more people chose it than when only two options were offered. The middle option existed to steer choices.\n\n**Scarcity and urgency**: “Only 2 left!” and countdown timers push quick decisions before you’ve had time to think."
+    },
+    {
+      "type": "text",
+      "heading": "Shortcut 5: loss aversion and lifestyle creep",
+      "md": "Kahneman and Tversky found that losses feel roughly **twice** as painful as equivalent gains feel good. This **loss aversion** makes free trials powerful: once you have something, cancelling it feels like a loss.\n\n**Lifestyle inflation** (or lifestyle creep) is what happens when spending rises automatically with income. A pay rise brings a nicer phone, more expensive outings, a bigger flat. Each upgrade quickly feels normal, a process psychologists call **hedonic adaptation**, and the satisfaction fades while the costs remain."
+    },
+    {
+      "type": "steps",
+      "title": "Designing finances that work with your brain",
+      "items": [
+        "**Automate good decisions.** Automatic savings and investments on payday beat relying on willpower each month.",
+        "**Use defaults.** When the UK began **automatically enrolling** workers into workplace pensions from 2012 (with the option to opt out), participation rose dramatically. Research by Brigitte Madrian and Dennis Shea in the US found a similar effect. You can apply the same idea to yourself.",
+        "**Add friction to impulse spending.** Delete saved card details from shopping apps, unsubscribe from marketing emails, and use a waiting rule: for non-essential purchases above a set amount, wait 24 to 48 hours.",
+        "**Save part of every raise.** When your income goes up, increase your automatic saving by part of the increase before you get used to spending it.",
+        "**Label your savings** with specific goals to make them harder to raid.",
+        "**Review regularly.** A weekly or monthly look at spending replaces the lost “pain of paying” with awareness."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Does spending money on things or on experiences make people happier?",
+      "md": "Research by psychologists including **Thomas Gilovich** suggests that, on average, **experiences** (trips, concerts, meals with friends) tend to bring more lasting happiness than material possessions, partly because we adapt to objects quickly, while experiences become memories and stories, and are often shared with others. Other studies, notably by **Elizabeth Dunn** and colleagues, found that spending money **on other people** tends to boost happiness more than spending it on yourself. These are averages, not rules, but they suggest that how you spend may matter as much as how much."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Behavioural economics** studies predictable ways real people depart from purely rational money decisions.",
+        "The **pain of paying** is reduced by cards and digital payments, which tends to raise spending.",
+        "**Mental accounting**: we treat money differently depending on its source or label.",
+        "**Present bias** makes future rewards feel less important than they should.",
+        "**Anchoring**, **decoys**, **scarcity** cues and **loss aversion** are widely used in marketing.",
+        "**Lifestyle inflation** absorbs pay rises as we adapt to new comforts.",
+        "**Automation**, **defaults** and **friction** let you design finances that work with your psychology."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every day, you face marketing, pricing and app designs built around these shortcuts. Understanding them won’t make you immune, since even experts fall for them, but it lets you notice the pull and build systems that protect your goals. These ideas also connect to the Philosophy region, where you’ll meet more cognitive biases that affect how we think about everything."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: name two mental shortcuts that lead people to spend more than they intend, and explain how you could design your finances to work with your psychology rather than against it."
+  }
+}

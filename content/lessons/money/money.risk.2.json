@@ -1,0 +1,94 @@
+{
+  "id": "money.risk.2",
+  "region": "money",
+  "topic": "risk",
+  "level": 2,
+  "prerequisites": [],
+  "title": "Why Our Instincts Get Risk Wrong",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "After the attacks of **11 September 2001**, many Americans became afraid of flying. Over the following months, large numbers chose to drive long distances instead. But driving is far more dangerous per kilometre than flying.\n\nThe psychologist **Gerd Gigerenzer** analysed traffic data and estimated that, in the year after the attacks, around **1,600** additional Americans died on the roads because of this shift, roughly half the number killed in the attacks themselves. Fear of one risk pushed people into a bigger one. Our instincts about risk evolved for a very different world, and they often mislead us."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that risk combines **likelihood** and **impact**. In theory, we should judge risks by those two factors. In practice, human risk perception is shaped by mental shortcuts and emotions that can wildly distort our judgements.\n\nResearch by psychologists like **Paul Slovic**, Daniel Kahneman and Amos Tversky has identified patterns in how we misjudge risk. Understanding them helps with money, health, travel and almost every decision under uncertainty."
+    },
+    {
+      "type": "text",
+      "heading": "Distortion 1: the availability heuristic",
+      "md": "We judge how likely something is by how easily examples come to mind. Dramatic, vivid, widely reported events, like plane crashes, shark attacks and terror attacks, feel more common than they are. Quiet, everyday killers, like heart disease, road accidents, diabetes and air pollution, feel less threatening, because they rarely make headlines.\n\nThe same happens with money. After hearing stories of people getting rich from a hot investment, it can feel common and easy. Stories of the many who lost money are rarely told."
+    },
+    {
+      "type": "text",
+      "heading": "Distortion 2: dread and control",
+      "md": "Paul Slovic found that people fear risks more when they’re **dreaded** (catastrophic, unfamiliar, involuntary) and less when they feel **in control**. Many people feel safer driving than flying partly because they’re holding the steering wheel, even though they’re statistically in more danger.\n\nWe also tend to underestimate risks that are **familiar** and **voluntary**, like smoking or not wearing a seatbelt, and overestimate risks that are new, invisible or imposed by others."
+    },
+    {
+      "type": "text",
+      "heading": "Distortion 3: optimism bias",
+      "md": "Most people believe they’re **less likely** than average to experience bad events, like illness, accidents, divorce or job loss, and more likely to experience good ones. This **optimism bias**, studied by the neuroscientist **Tali Sharot** and others, is found across many cultures.\n\nIt may help motivation and wellbeing, but it also leads people to under-save, under-insure and take on too much debt, because “it won’t happen to me”."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your risk instincts as an old smoke detector designed for a cave. It reacts loudly to sudden, dramatic threats, like a predator in the shadows. But it barely registers slow, invisible dangers, like a gas leak building over months. Modern life is full of slow, statistical risks, and the old detector often stays silent when it matters most."
+    },
+    {
+      "type": "text",
+      "heading": "Thinking in expected value",
+      "md": "A useful tool for cutting through intuition is **expected value**: the average outcome you’d get if you could repeat a decision many times. You calculate it by multiplying each possible outcome by its probability, and adding them up."
+    },
+    {
+      "type": "steps",
+      "title": "Is a lottery ticket worth it?",
+      "items": [
+        "Imagine a lottery ticket costing **100**, with a **1 in 1,000,000** chance of winning **50,000,000**.",
+        "Expected winnings = 50,000,000 × (1 ÷ 1,000,000) = **50**.",
+        "So, on average, each ticket costing 100 returns 50: an expected **loss** of 50 per ticket.",
+        "Real lotteries are often structured similarly: many return roughly **half** of ticket sales as prizes, with the rest going to costs, profits, taxes or good causes.",
+        "By expected value, lotteries are a poor investment. People buy them anyway, partly for the fun of dreaming, and partly because tiny probabilities are hard to feel: one in a million and one in a hundred million both just feel like “maybe”.",
+        "Spending a small amount for entertainment is a personal choice. Treating lotteries or gambling as a financial plan is not."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Risk, return and the long run",
+      "md": "In investing, the relationship between **risk and return** you met earlier is often misunderstood:\n\n- **Volatility** (prices going up and down) is not the same as **permanent loss**. A diversified investment can fall sharply in a crash yet recover over time. A single company can go bankrupt and never recover.\n- **Short-term risk can become long-term safety**, and vice versa. Shares are risky over one year, but historically have been less risky over decades. Cash feels safe, but over decades, inflation can quietly erode it.\n- **Time horizon** matters: the right level of risk depends on when you’ll need the money."
+    },
+    {
+      "type": "text",
+      "heading": "Rare disasters: black swans",
+      "md": "The writer and former trader **Nassim Nicholas Taleb** popularised the term **black swan** for rare, high-impact events that most people consider impossible until they happen, like the 2008 financial crisis or the COVID-19 pandemic. Before Europeans reached Australia, everyone “knew” all swans were white; one sighting of a black swan overturned that certainty.\n\nTaleb argues that financial models often underestimate extreme events, and that the most important risks are often the ones not in anyone’s model. The practical lesson is to build **resilience**: emergency funds, diversification, avoiding excessive debt, so that an unexpected shock doesn’t ruin you."
+    },
+    {
+      "type": "reveal",
+      "prompt": "A coin lands heads five times in a row. Is tails now “due”?",
+      "md": "No. Each toss of a fair coin is **independent**: the coin has no memory, so the chance of tails on the next toss is still 50%. The mistaken belief that past results change future odds in independent events is called the **gambler’s fallacy**. It leads gamblers to keep betting after losing streaks, convinced a win is due. In a famous case at the Monte Carlo Casino in **1913**, a roulette ball landed on black **26 times** in a row, and gamblers reportedly lost millions betting on red, sure that the streak had to end."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Human risk perception is distorted by mental shortcuts and emotions.",
+        "The **availability heuristic** makes vivid, well-reported risks feel more common than quiet, everyday ones.",
+        "We fear **dreaded**, **involuntary** risks more and underrate **familiar**, **controllable** ones.",
+        "**Optimism bias** makes us think bad things are less likely to happen to us.",
+        "**Expected value** averages outcomes by probability; lotteries typically have strongly **negative** expected value.",
+        "**Volatility** differs from **permanent loss**; **time horizon** changes what’s risky.",
+        "**Black swans** are rare, extreme events; the **gambler’s fallacy** wrongly assumes independent events “balance out”."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every major life decision involves risk: careers, investments, health choices, travel, insurance. Learning to separate gut fear from actual probability helps you avoid both needless anxiety and dangerous complacency. These ideas connect closely to the Math region’s lessons on probability and statistics, and to the Philosophy region’s lessons on clear thinking."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: give two examples of how human intuition misjudges risk, and explain what expected value means and why lotteries are a poor bet by that measure."
+  }
+}

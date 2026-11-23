@@ -1,0 +1,86 @@
+{
+  "id": "money.inflation.2",
+  "region": "money",
+  "topic": "inflation",
+  "level": 2,
+  "prerequisites": [
+    "money.inflation.1"
+  ],
+  "title": "Central Banks and the Inflation Battle",
+  "estimated_minutes": 15,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 1979, inflation in the United States was running above **11%** and rising. **Paul Volcker**, the new head of the Federal Reserve, did something deeply unpopular: he pushed interest rates up dramatically, with the key rate eventually reaching around **20%** in 1981.\n\nBorrowing became painfully expensive. The economy fell into a deep recession, unemployment rose to over 10%, and protesting farmers drove tractors to the Federal Reserve building. But inflation broke: from a peak of around 14.8% in 1980, it fell to under 4% by 1983. Volcker’s gamble showed both the power of central banks and the price of using it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **central bank** is the institution that manages a country’s money and banking system. Examples include the **Reserve Bank of India (RBI)**, the **US Federal Reserve** (the Fed), the **Bank of England** and the **European Central Bank**.\n\nOne of their most important jobs is keeping inflation **low and stable**. Many central banks have explicit targets:\n\n- The **RBI** has targeted CPI inflation of **4%**, with a tolerance band from 2% to 6%, under a framework adopted in 2016.\n- The **Bank of England** and the **Federal Reserve** target **2%**.\n\nWhy not zero? A small, steady amount of inflation is generally seen as healthier than none, because it gives room to cut interest rates in downturns and reduces the risk of **deflation**, which can be harmful in its own way."
+    },
+    {
+      "type": "text",
+      "heading": "The main tool: interest rates",
+      "md": "A central bank sets a key **policy interest rate**, the rate at which it lends to commercial banks. In India, this is the **repo rate**. Changes ripple through the economy:\n\n- When the central bank **raises** rates, banks raise their own lending and deposit rates. Loans, mortgages and credit become more expensive; saving becomes more attractive.\n- People and businesses borrow and spend less. Demand cools.\n- With less demand, businesses find it harder to raise prices, and inflation tends to fall, though with a delay often estimated at one to two years.\n\nWhen the central bank **cuts** rates, the opposite happens: borrowing gets cheaper, spending rises and the economy is stimulated. Central banks also use other tools, such as buying or selling government bonds to influence longer-term interest rates."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the economy as a car and the central bank as the driver, with interest rates as the accelerator and brake. Press the brake (raise rates) to slow down when the economy overheats with inflation. Ease off and press the accelerator (cut rates) when it’s sluggish. The tricky part: the controls respond with a long delay, so the driver must anticipate the road ahead, through fog, using imperfect instruments."
+    },
+    {
+      "type": "text",
+      "heading": "The trade-off: inflation versus jobs",
+      "md": "In **1958**, the economist **A. W. Phillips** found that historically, in the UK, periods of low unemployment tended to coincide with faster wage growth. This became known as the **Phillips curve**, suggesting a trade-off: lower unemployment could be bought at the price of somewhat higher inflation.\n\nThen the 1970s brought **stagflation**: high inflation **and** high unemployment at the same time, partly due to the oil shocks. The simple trade-off broke down. Economists like Milton Friedman and Edmund Phelps had argued that once people come to **expect** inflation, it gets built into wages and prices, and the trade-off disappears in the long run. Today, most economists believe there can be a short-term trade-off, but it’s unstable and depends heavily on expectations."
+    },
+    {
+      "type": "text",
+      "heading": "Why expectations matter so much",
+      "md": "If workers and businesses believe inflation will stay around 2% or 4%, they set wages and prices accordingly, and inflation tends to stay there. If they start expecting high inflation, they demand bigger wage rises and raise prices pre-emptively, which pushes inflation up, a self-fulfilling cycle.\n\nThat’s why central banks put so much effort into **credibility**: clearly stating their targets, explaining their decisions and showing they’ll act if needed. Volcker’s harsh rate rises were partly about convincing people that the Fed was serious, resetting expectations. Many economists argue that **central bank independence**, freedom from short-term political pressure, helps maintain this credibility, although the degree of independence is a matter of political debate in many countries."
+    },
+    {
+      "type": "steps",
+      "title": "The post-pandemic inflation surge",
+      "items": [
+        "During the **COVID-19 pandemic**, governments spent heavily to support people and businesses, and central banks cut interest rates to near zero in many countries.",
+        "As economies reopened in 2021, demand surged while **supply chains** were still disrupted: factories, shipping and ports struggled to keep up.",
+        "In 2022, Russia’s full-scale invasion of Ukraine pushed up **energy and food** prices sharply.",
+        "Inflation reached levels not seen in decades: about **9.1%** in the US in mid-2022, over **11%** in the UK later that year, and close to **8%** in India in April 2022.",
+        "Central banks raised interest rates rapidly. Inflation fell substantially through 2023 and 2024, though prices stayed permanently higher than before; falling inflation means prices rise more slowly, not that they go back down.",
+        "Economists still debate how much of the surge was caused by demand (government spending and low rates) versus supply shocks, and whether central banks acted too late."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If inflation is bad, why is deflation also feared?",
+      "md": "Because falling prices can trap an economy. If people expect prices to keep falling, they may **delay purchases**, waiting for cheaper prices, which reduces demand, leading businesses to cut production, jobs and wages, which reduces demand further. Deflation also makes **debts heavier** in real terms, since incomes fall while debts stay fixed. **Japan** experienced long periods of very low inflation or mild deflation from the 1990s onwards, alongside slow growth, sometimes called its “lost decades”. And the Great Depression of the 1930s involved severe deflation in many countries."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "Winners and losers from inflation",
+      "md": "Unexpected inflation redistributes wealth. **Borrowers** with fixed-rate debts tend to gain, because they repay with money worth less. **Savers** and people on **fixed incomes**, like some pensioners, tend to lose, as their money buys less. People whose wages rise slower than prices lose purchasing power. This is one reason inflation often hits poorer households hardest: they spend a larger share of income on essentials like food and fuel, and have fewer ways to protect themselves."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Central banks** like the **RBI**, **Fed** and **Bank of England** aim for low, stable inflation: **4%** in India, **2%** in the US and UK.",
+        "Raising the **policy rate** (the **repo rate** in India) makes borrowing costlier, cools demand and lowers inflation, with a **delay**.",
+        "The **Phillips curve** suggested an inflation–unemployment trade-off; **stagflation** in the 1970s showed it isn’t stable.",
+        "**Expectations** can make inflation self-fulfilling, so central bank **credibility** is vital.",
+        "**Volcker** broke US inflation around 1980 at the cost of a deep recession.",
+        "**Post-pandemic inflation** peaked in 2022 from demand and supply shocks; **deflation** carries its own risks."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Central bank decisions affect your loan payments, savings interest, job prospects and the prices you pay, yet they’re rarely explained clearly. Understanding the basic logic helps you follow economic news, judge political claims about prices and make better decisions about borrowing and saving. These ideas connect directly to the Economics region, where you’ll explore money and banks in more depth."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does raising interest rates help bring inflation down, what is the cost of doing so, and why do central banks care so much about expectations?"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "money.scams.1",
+  "region": "money",
+  "topic": "scams",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Scams Work on Smart People",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "The phone rings. A calm, official-sounding voice says they’re calling from your bank’s fraud department. They tell you there’s been suspicious activity on your account, and they need to verify your identity urgently to block the fraudulent transaction. To prove they’re genuine, they already know your name and the last digits of your card. They just need you to read out the one-time password (OTP) that’s about to arrive on your phone.\n\nThousands of people, including educated, careful people, fall for calls like this every year. Scams don’t work because victims are stupid. They work because scammers are skilled at exploiting normal human psychology, especially under pressure."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **scam** is a deception designed to trick you into giving away money, personal information or access to your accounts. Scams have existed for centuries, but digital technology has made them faster, cheaper and easier to run at massive scale, from anywhere in the world.\n\nResearchers **Frank Stajano** and **Paul Wilson**, studying scams for a 2009 paper, worked with a magician and con artist expert and identified recurring psychological principles that scammers use. Combined with **Robert Cialdini**’s famous research on persuasion, they reveal a clear toolkit."
+    },
+    {
+      "type": "text",
+      "heading": "The scammer’s toolkit",
+      "md": "- **Authority**: impersonating banks, police, tax authorities, courts or company officials. We’re conditioned to obey authority.\n- **Urgency and time pressure**: “Your account will be blocked in 30 minutes”, “Act now or face arrest”. Pressure stops us thinking carefully, which is exactly the point.\n- **Fear**: threats of legal action, account closure or harm to a loved one trigger panic.\n- **Greed and need**: promises of prizes, high returns, jobs or loans offered to people who need money.\n- **Social proof**: fake reviews, testimonials or messages showing “others are profiting”, a principle Cialdini called social proof.\n- **Liking and trust**: scammers build rapport, flattery or even romance before asking for money.\n- **Reciprocity**: giving something small first, like a small “payout” on an investment, so you feel obliged or reassured.\n- **Distraction and complexity**: overwhelming you with details, technical jargon or multiple steps so you can’t spot the trick."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a scam as a magic trick. A magician doesn’t rely on you being foolish. They direct your attention with movement, speed and a story, so you don’t notice the important move. Scammers do the same: urgency, fear or excitement direct your attention away from the one question that would expose them: **is this really who they say they are?**"
+    },
+    {
+      "type": "text",
+      "heading": "Common scams today",
+      "md": "- **Phishing**: emails, texts or messages pretending to be from trusted organisations, with links to fake websites that steal login details.\n- **OTP and bank impersonation fraud**: calls asking you to share OTPs, PINs or passwords, or to install “remote access” apps.\n- **Fake KYC updates**: messages claiming your bank account, SIM card or wallet will be blocked unless you update your details through a link.\n- **“Digital arrest” scams**: callers impersonating police, customs or other officials, sometimes on video calls with fake uniforms and offices, claiming the victim is involved in a crime and demanding payment to avoid arrest. Indian authorities have issued repeated warnings about this growing scam, and stressed that no genuine agency arrests anyone over a video call.\n- **Impersonating family**: messages like “Hi Mum, I’ve lost my phone, this is my new number, can you send money urgently?”, sometimes now using AI-cloned voices.\n- **Romance scams**: building an online relationship over weeks or months, then asking for money for an emergency or investment.\n- **Fake job offers**: paid tasks or job offers that require an upfront “registration fee”, or that gradually draw victims into fake investments.\n- **Investment and crypto scams**: fake platforms showing impressive (fictional) gains, encouraging larger deposits before disappearing."
+    },
+    {
+      "type": "steps",
+      "title": "What to do when you’re unsure",
+      "items": [
+        "**Pause.** Urgency is the scammer’s best weapon. A genuine bank or authority will not punish you for taking time to check.",
+        "**Never share OTPs, PINs, passwords or CVV numbers** with anyone, including someone claiming to be from your bank. Banks say clearly that they will never ask for them.",
+        "**Hang up and call back** using the official number on your card, bank app or the organisation’s official website, not a number given by the caller or message.",
+        "**Don’t click links** in unexpected messages; go directly to the official app or website.",
+        "**Never install remote-access apps** at a stranger’s request.",
+        "**Verify family emergencies** by calling the person on their known number, or asking a question only they would know.",
+        "**Report it quickly**: contact your bank immediately to block transactions. In India, cyber fraud can be reported via the national helpline **1930** or cybercrime.gov.in; other countries have similar services, like Action Fraud in the UK or the FTC in the US."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do scammers often send messages with obvious spelling mistakes and unbelievable stories?",
+      "md": "One intriguing theory, proposed by Microsoft researcher **Cormac Herley** in 2012, is that obvious red flags can be **deliberate**. Scammers spend real time and effort on each person who responds. A ridiculous story filters out sceptical people early, so that those who do reply are more likely to be gullible enough to go all the way, making the scam more efficient. Whether or not all scammers think this way, the lesson stands: a polished message isn’t proof of legitimacy, and a clumsy one isn’t proof of harmlessness. Modern scams, increasingly using AI, can look completely professional."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "No shame in being targeted",
+      "md": "Scam victims often feel too embarrassed to report what happened, which helps scammers continue. Fraud affects people of all ages and education levels. Researchers find that being rushed, stressed, lonely or distracted matters more than intelligence. Talking openly about scams, especially with older relatives and young people new to managing money, is one of the best protections."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Scams exploit normal psychology: **authority**, **urgency**, **fear**, **greed and need**, **social proof**, **liking**, **reciprocity** and **distraction**.",
+        "Common scams include **phishing**, **OTP fraud**, **fake KYC**, **“digital arrest”**, **family impersonation**, **romance** and **investment** scams.",
+        "**Pause** when pressured; urgency is a major red flag.",
+        "**Never share OTPs, PINs or passwords**; genuine banks don’t ask for them.",
+        "**Hang up and call back** on an official number; don’t click links or install remote-access apps.",
+        "**Report quickly**: in India, call **1930**; elsewhere, contact your bank and national fraud services."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Scams are one of the fastest-growing crimes in the world, and almost everyone will be targeted many times. A few simple habits, like pausing under pressure and verifying through official channels, can protect your savings and your family’s. Next, you’ll look at large-scale frauds and financial bubbles, where persuasion works on entire markets."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what psychological principles do scammers exploit, and what are three red flags that a message or call is likely to be a scam?"
+  }
+}

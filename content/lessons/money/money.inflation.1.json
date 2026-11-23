@@ -1,0 +1,83 @@
+{
+  "id": "money.inflation.1",
+  "region": "money",
+  "topic": "inflation",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Why Prices Rise",
+  "estimated_minutes": 14,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In Germany in **1923**, prices rose so fast that workers were paid twice a day and rushed to spend their wages before they lost value. A loaf of bread that cost about 250 marks in January cost around **200 billion** marks by November. People reportedly burned banknotes for heat because they were cheaper than firewood.\n\nThat was **hyperinflation**, an extreme case. But a milder version touches your life every year. If you remember what a cup of tea, a bus ticket or a cinema ticket cost ten years ago, you’ve noticed inflation quietly at work."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Inflation** is the general rise in prices across an economy over time. When inflation happens, each unit of money buys **less** than before: its **purchasing power** falls.\n\nThe opposite, a general fall in prices, is called **deflation**. A slowing in the rate of inflation, where prices still rise but more slowly, is called **disinflation**.\n\nInflation is usually measured as a yearly percentage. If inflation is 5%, something that cost 100 last year costs about 105 now, on average. Not every price rises equally: some may jump, others fall. Inflation measures the overall trend."
+    },
+    {
+      "type": "text",
+      "heading": "How inflation is measured",
+      "md": "Most countries measure inflation using a **Consumer Price Index (CPI)**. Statisticians define a **basket** of goods and services that a typical household buys, such as food, housing, fuel, transport, clothing, healthcare and education, and track their prices over time, weighted by how much households spend on each.\n\n- In **India**, the main CPI is published by the Ministry of Statistics (MoSPI). Food has a large weight, reflecting typical household budgets, so vegetable and cereal prices strongly influence the overall figure.\n- In the **UK**, the Office for National Statistics publishes CPI, which the Bank of England targets.\n- In the **US**, the Bureau of Labor Statistics publishes CPI, while the Federal Reserve targets a related measure.\n\nBecause everyone’s spending differs, your **personal** inflation rate may be higher or lower than the official figure. A family spending heavily on food or rent will feel price rises in those items more."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of money as a measuring tape. If the tape slowly stretches each year, the same object measures as fewer centimetres, even though it hasn’t changed. Inflation is like money stretching: each unit measures out a little less real stuff than before."
+    },
+    {
+      "type": "text",
+      "heading": "What causes inflation?",
+      "md": "Economists describe several causes, which often work together:\n\n**Demand-pull inflation**: when people and businesses want to buy more than the economy can produce, prices rise. This can happen when an economy booms, when governments spend heavily or when borrowing is cheap.\n\n**Cost-push inflation**: when the costs of producing goods rise, businesses pass them on to customers. A classic example is the **1973 oil crisis**, when oil-exporting countries cut supplies and oil prices roughly quadrupled, raising costs throughout economies that depended on oil.\n\n**Too much money**: if the amount of money in an economy grows much faster than the goods and services available, each unit of money tends to lose value. The economist **Milton Friedman** famously said inflation is “always and everywhere a monetary phenomenon”. Most economists today see money as one important factor among several.\n\n**Expectations**: if people expect prices to keep rising, workers ask for higher wages and businesses raise prices in advance, which helps make the expectations come true."
+    },
+    {
+      "type": "steps",
+      "title": "The Rule of 70: how fast inflation erodes money",
+      "items": [
+        "Divide **70** by the inflation rate to estimate how many years it takes for prices to **double** (and for money’s purchasing power to halve).",
+        "At **2%** inflation: about **35 years**.",
+        "At **5%**: about **14 years**.",
+        "At **7%**: about **10 years**. Something costing 1,000 today would cost around 2,000 in a decade.",
+        "This is the same mathematics as compounding, working in reverse on the value of your money. It’s why cash kept under a mattress quietly loses value, and why savings earning less than inflation are shrinking in **real** terms."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Nominal versus real",
+      "md": "Economists distinguish **nominal** values (measured in money, as printed) from **real** values (adjusted for inflation, measuring actual buying power).\n\nIf your salary rises 4% but inflation is 6%, your **nominal** pay went up, but your **real** pay fell by about 2%. You can buy less than before. Likewise, a savings account paying 5% interest when inflation is 6% delivers a negative **real interest rate**.\n\nAlways ask: **is this number adjusted for inflation?** Comparing prices or incomes from decades apart without adjusting for inflation is one of the most common statistical mistakes."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Prices of some products haven’t risen, but the packets got smaller. Is that inflation?",
+      "md": "Yes. It’s often called **shrinkflation**: a chocolate bar, biscuit pack or crisp bag keeps the same price but contains less. The price per gram has risen, even if the label price hasn’t. Statistical agencies try to account for this by tracking prices per unit of quantity. Businesses do it because customers notice price rises more than size reductions, another example of the behavioural shortcuts from earlier lessons. Checking the **unit price** (per 100 grams, per litre) is the best way to compare."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "When prices spiral out of control",
+      "md": "**Hyperinflation** (often defined as prices rising more than **50% a month**) has struck several countries, usually during wars, political crises or when governments print money to cover huge deficits. **Germany** in 1923, **Hungary** in 1946 (the worst on record, with prices doubling roughly every 15 hours at the peak), **Zimbabwe** in 2007–2009, and **Venezuela** in the late 2010s are well-known examples. Savings were wiped out, and people turned to foreign currencies or barter."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Inflation** is a general rise in prices, reducing money’s **purchasing power**; **deflation** is a general fall.",
+        "It’s measured by a **Consumer Price Index**: the changing cost of a weighted **basket** of goods and services.",
+        "Causes include **demand-pull**, **cost-push** (like the **1973 oil crisis**), **money growth** and **expectations**.",
+        "**Rule of 70**: 70 ÷ inflation rate ≈ years for prices to double.",
+        "**Real** values adjust for inflation; **nominal** values don’t.",
+        "**Hyperinflation**, as in Germany 1923 or Zimbabwe 2008, can wipe out savings."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Inflation affects your salary, your savings, your rent and the price of everything you buy. Understanding it helps you judge whether you’re truly better off, compare prices across time and make sense of news about interest rates and the economy. Next, you’ll see how central banks try to keep inflation under control, and why it’s so difficult."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is inflation, how is it measured, and what are two different causes of it?"
+  }
+}

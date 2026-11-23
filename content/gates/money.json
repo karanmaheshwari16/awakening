@@ -5,7 +5,11 @@
     "tier": 1,
     "title": "The Two-Edged Snowball",
     "question": "A friend has some savings earning interest and a credit card balance they only partly pay off each month. Using what you know about compounding (and budgeting and debt, if you’ve met them), explain what is happening to their money over time and what you would suggest they look at first.",
-    "links": ["compounding", "debt", "budgeting"],
+    "links": [
+      "compounding",
+      "debt",
+      "budgeting"
+    ],
     "model_answer": "Both the savings and the debt are compounding, but in opposite directions. The savings earn interest on interest, which helps them. The unpaid card balance is charged interest on interest, which works against them.\n\nThe key is to compare the **rates**. Savings accounts usually pay much less than credit cards charge. If the card charges far more than the savings earn, the debt snowball grows faster than the savings snowball. In that case they are losing money overall, even though their savings look like they’re growing.\n\nA sensible first step is often to pay down the highest-rate debt, because every unit paid off “earns” that high rate by avoiding it. Many people also keep a small emergency fund so a surprise bill doesn’t push them back onto the card. Looking at the budget, meaning where the money goes each month, shows how much can go towards the debt.\n\nThis is general reasoning, not personal financial advice. Real choices depend on the exact rates, fees and local rules.",
     "key_points": [
       "Savings and unpaid debt both compound, in opposite directions.",
@@ -13,6 +17,28 @@
       "Credit card rates are usually much higher than savings rates.",
       "Paying off high-rate debt is like earning that rate, risk-free.",
       "A small emergency fund and a clear budget help stop the debt coming back."
+    ]
+  },
+  {
+    "id": "money.gate.2",
+    "region": "money",
+    "tier": 2,
+    "title": "The Offer",
+    "question": "A friend tells you about an investment app promising \"guaranteed 4% returns every month\", recommended by people in their community who have already been paid. They plan to put in their emergency savings and borrow on a credit card to invest more. Using what you have learned about compounding, risk, debt, inflation and scams, explain what is wrong with this plan and what you would advise instead.",
+    "links": [
+      "scams",
+      "risk",
+      "debt",
+      "compounding",
+      "inflation"
+    ],
+    "model_answer": "Almost every part of this plan is a warning sign.\n\nFirst, the return. Four percent a month compounds to roughly 60 percent a year. Higher returns come with higher risk; a guaranteed return at that level is not plausible, and steady, too-good-to-be-true returns are the classic signature of a Ponzi scheme, which pays early investors with money from new ones until inflows slow and it collapses. Being paid early, and hearing about it through a trusted community, is exactly how Ponzi schemes and affinity frauds spread, using social proof and trust.\n\nSecond, the money. An emergency fund exists to protect against shocks like job loss or illness; using it removes that protection. Borrowing on a credit card at perhaps 24 to 40 percent a year to invest in something risky magnifies losses: if the scheme collapses, the money is gone but the debt keeps compounding.\n\nThird, verification. The friend should check whether the platform and any adviser are registered with the relevant regulator (SEBI or RBI in India, FCA in the UK, SEC or FINRA in the US) and understand exactly how returns are generated.\n\nA better plan: keep the emergency fund intact, avoid high-interest debt, and if they want to grow money over the long term, consider diversified, low-cost, regulated investments suited to their time horizon, accepting that real returns are uncertain and that beating inflation by a few percent a year over the long run is a reasonable expectation, not 60 percent.",
+    "key_points": [
+      "Guaranteed high returns are implausible; steady, unusually high payouts suggest a Ponzi scheme.",
+      "Early payouts and community recommendations exploit social proof and trust (affinity fraud).",
+      "Spending the emergency fund removes protection against shocks.",
+      "Borrowing at high interest to invest magnifies losses; the debt keeps compounding.",
+      "Check regulators and understand how returns are made; prefer diversified, low-cost, regulated options."
     ]
   }
 ]

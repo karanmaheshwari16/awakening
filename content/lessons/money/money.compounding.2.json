@@ -1,0 +1,91 @@
+{
+  "id": "money.compounding.2",
+  "region": "money",
+  "topic": "compounding",
+  "level": 2,
+  "prerequisites": [
+    "money.compounding.1"
+  ],
+  "title": "Investing for the Long Game",
+  "estimated_minutes": 15,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 2007, the billionaire investor **Warren Buffett** made a famous bet. He wagered that over the next ten years, a simple, low-cost fund that just tracked the US stock market would beat a portfolio of hedge funds hand-picked by professional managers who charged high fees.\n\nA firm called Protégé Partners took the bet. By the end of 2017, Buffett’s index fund had returned about **126%**, while the hedge funds averaged around **36%**. The professionals weren’t foolish; many were highly skilled. But their high fees and the difficulty of consistently beating the market proved too much. Buffett donated his winnings to charity."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson on compounding, you saw how money can grow over time when returns are reinvested. But savings accounts typically pay modest interest, which may barely keep pace with inflation. To grow wealth substantially over decades, many people **invest**: they put money into assets expected to grow faster, accepting more risk in return.\n\nThe main types of investment include:\n\n- **Shares (stocks or equities):** small pieces of ownership in companies. If the company grows and profits, the shares may rise in value and pay **dividends**. If it struggles, they can fall, sometimes to zero.\n- **Bonds:** loans to governments or companies, which pay interest and return the original amount at a set date. Usually less risky than shares, with lower expected returns.\n- **Cash and deposits:** savings accounts and fixed deposits. Low risk, low return.\n- **Property, gold and others:** real estate, precious metals and other assets, each with their own risks."
+    },
+    {
+      "type": "text",
+      "heading": "Risk and return go together",
+      "md": "A central principle of investing is that **higher expected returns usually come with higher risk**. Shares have historically outperformed bonds and cash over long periods, but with much bigger ups and downs along the way.\n\nLong-run research covering many countries, such as studies by the economists Elroy Dimson, Paul Marsh and Mike Staunton, finds that global shares have returned roughly **5% a year above inflation** on average over more than a century. But that average hides brutal periods: during the 2008 global financial crisis, major stock markets fell by around **half** from their peaks. Some markets have taken over a decade to recover from major crashes. Investing in shares makes most sense for money you won’t need for many years."
+    },
+    {
+      "type": "text",
+      "heading": "Don’t put all your eggs in one basket",
+      "md": "**Diversification** means spreading your money across many different investments, so that a disaster in one doesn’t wipe you out.\n\nIf you own shares in just one company and it fails, you lose everything. If you own small amounts of hundreds of companies across different industries and countries, the failure of a few has a limited effect. Diversification reduces risk without necessarily reducing expected returns, which is why it’s sometimes called the only “free lunch” in investing."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a diversified portfolio like a fruit stall that sells many kinds of fruit. If a pest destroys the mango harvest one year, the stall survives on bananas, apples and oranges. A stall that sells only mangoes is fine in a good year and ruined in a bad one."
+    },
+    {
+      "type": "text",
+      "heading": "Index funds: owning the whole market",
+      "md": "In **1976**, **John Bogle**, founder of the investment company Vanguard, launched one of the first **index funds** available to ordinary investors. Instead of paying managers to pick winning shares, an index fund simply buys all (or a representative sample) of the shares in a market index, such as the US S&P 500, India’s Nifty 50 or the UK’s FTSE 100.\n\nCritics initially mocked it as “settling for average”. But decades of data have been striking. Reports comparing actively managed funds with their benchmark indices, such as S&P’s regular **SPIVA** reports, consistently find that a large majority of active funds underperform their benchmark over long periods, often **80–90%** over fifteen years in markets like the US. Results vary by market and period, but beating the market consistently, after fees, is very hard."
+    },
+    {
+      "type": "steps",
+      "title": "How fees eat your returns",
+      "items": [
+        "Suppose you invest **100,000** for **30 years**, earning **7%** a year before fees.",
+        "**With fees of 0.1% a year** (typical of low-cost index funds), your effective return is 6.9%. After 30 years: about **740,000**.",
+        "**With fees of 1.5% a year** (common for some actively managed funds or advisory arrangements), your effective return is 5.5%. After 30 years: about **498,000**.",
+        "The difference, roughly **240,000**, went to fees, despite identical underlying returns.",
+        "A fee of “just 1.5%” sounds small, but over three decades it consumed about a **third** of the final result. Compounding works on fees too."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Time in the market",
+      "md": "Trying to buy just before markets rise and sell just before they fall, called **market timing**, sounds sensible but is extremely difficult. Many of the market’s best days come shortly after its worst days, during periods of panic. Investors who sell in fear often miss the recovery.\n\nA common alternative is to invest a fixed amount **regularly**, regardless of prices: in India often through a **SIP** (systematic investment plan). When prices are low, the same amount buys more units; when prices are high, it buys fewer. This doesn’t guarantee profits, but it removes the temptation to time the market and builds an automatic habit."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If shares have done so well historically, why not put all your money in them?",
+      "md": "Because **history is not a guarantee**, and your personal situation matters. Past returns came from specific historical conditions; future returns could be lower. Shares can fall sharply and stay down for years, which is disastrous if you need the money during that time, for a home deposit, school fees or retirement. That’s why people usually hold a mix of assets that suits their **time horizon** (when they’ll need the money) and **risk tolerance** (how much decline they can bear, financially and emotionally). Many also keep an emergency fund in safe, accessible savings. Choosing a mix for your own circumstances is where qualified, regulated advice can help."
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Beware promises of high, safe returns",
+      "md": "Any investment promising **high returns with little or no risk** is a major warning sign. Higher returns require accepting more risk. Promises of guaranteed high returns are a hallmark of scams and Ponzi schemes, which you’ll study later in this region. In India, check that advisers and products are registered with **SEBI**; in the UK, with the **FCA**; in the US, with the **SEC** or **FINRA**."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Main asset types: **shares**, **bonds**, **cash** and others like property and gold.",
+        "**Higher expected returns come with higher risk**; global shares returned about **5% a year above inflation** historically, with severe crashes.",
+        "**Diversification** spreads risk across many investments.",
+        "**Index funds** (pioneered by **John Bogle**, 1976) track a market cheaply; most active funds **underperform** their index over long periods.",
+        "**Fees compound**: 1.5% vs 0.1% a year can cost around a **third** of the result over 30 years.",
+        "**Time in the market** and regular investing (like **SIPs**) usually beat trying to time the market.",
+        "Past returns are **not guaranteed**; match investments to your **time horizon** and **risk tolerance**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Investing decisions you make early in life can shape your financial security for decades, thanks to compounding. Understanding risk, diversification and fees helps you avoid the most common and expensive mistakes, and recognise sales pitches that serve the seller more than you. This lesson gives general principles; your own decisions should reflect your circumstances and, where needed, regulated advice."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do investors diversify, why do fees matter so much over the long term, and why do historical returns come with a warning that the future may be different?"
+  }
+}

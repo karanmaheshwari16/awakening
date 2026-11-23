@@ -1,0 +1,84 @@
+{
+  "id": "money.budgeting.1",
+  "region": "money",
+  "topic": "budgeting",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Where Does the Money Go?",
+  "estimated_minutes": 13,
+  "disclaimer": "financial",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Many people earn a reasonable income, yet arrive at the end of each month wondering where it all went. They don’t remember buying anything big. There was no single disaster. The money simply leaked away, in small amounts, in dozens of directions.\n\nSurveys in many countries find that a large share of households would struggle to cover an unexpected expense, like a medical bill or a broken phone, without borrowing. Often the problem isn’t income alone; it’s that money has no plan. A **budget** is that plan. Despite its reputation, a good budget isn’t about restriction. It’s about deciding in advance what your money is for."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **budget** is simply a plan for your income: how much comes in, and where you intend it to go. It has three basic parts:\n\n1. **Income**: what you actually receive after tax and deductions, sometimes called **take-home pay** or **net income**.\n2. **Expenses**: what you spend. These come in two kinds:\n   - **Fixed expenses**, which stay roughly the same each month: rent, loan repayments, phone plans, school fees, insurance.\n   - **Variable expenses**, which change: food, transport, eating out, shopping, entertainment.\n3. **Savings and goals**: money set aside for the future, from an emergency fund to long-term investments.\n\nThe basic rule is unglamorous but powerful: **spend less than you earn**, consistently. The gap between income and spending is what creates choices, security and wealth over time."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your income as water flowing into a bucket with several holes. Some holes are necessary, like rent and food. Others are tiny leaks you barely notice: subscriptions, convenience deliveries, impulse purchases. A budget is the moment you look at the bucket carefully, decide which holes you want, and plug the ones you don’t."
+    },
+    {
+      "type": "text",
+      "heading": "Step one: find out where it actually goes",
+      "md": "Most people dramatically underestimate their spending on small, frequent items. Before making any plan, track your spending for a month. Bank and payment apps make this easier than ever, since most transactions, including UPI payments, card payments and transfers, are recorded automatically.\n\nSort your spending into categories and look for surprises. Common discoveries include forgotten **subscriptions**, frequent food delivery, and many small purchases that add up to a large monthly total. The goal isn’t guilt; it’s information. You can’t make good decisions about money you can’t see."
+    },
+    {
+      "type": "text",
+      "heading": "A simple framework: 50/30/20",
+      "md": "One popular starting point, described by Elizabeth Warren and Amelia Warren Tyagi in a 2005 book, splits take-home pay into three parts:\n\n- **About 50% for needs**: housing, food, utilities, transport, minimum loan payments, insurance.\n- **About 30% for wants**: eating out, entertainment, hobbies, travel, non-essential shopping.\n- **About 20% for savings and extra debt repayment.**\n\nIt’s a rule of thumb, not a law. In expensive cities, needs may take far more than half; on low incomes, saving 20% may be impossible at first. Many people adapt it, for example 60/20/20 or 70/20/10. The value is in having **some** deliberate split, rather than letting spending decide itself."
+    },
+    {
+      "type": "steps",
+      "title": "A worked monthly budget",
+      "items": [
+        "Suppose your take-home pay is **50,000** a month (in any currency).",
+        "**Needs:** rent 15,000; groceries 6,000; transport 3,000; phone and internet 1,000; utilities 2,000. Total: **27,000** (54%).",
+        "**Savings first:** you decide to set aside **10,000** (20%) the day your salary arrives: 5,000 to an emergency fund, 5,000 to a long-term investment.",
+        "**Wants:** that leaves **13,000** (26%) for eating out, entertainment, clothes and everything else. You can spend this guilt-free, because your important goals are already covered.",
+        "**Check monthly:** compare what you planned with what happened. If wants overshot, adjust next month rather than abandoning the plan."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Pay yourself first",
+      "md": "The most important budgeting habit is also the simplest: **save at the start of the month, not the end**.\n\nIf you plan to save “whatever is left over”, there usually isn’t much left, because spending tends to expand to fill the money available. Instead, move savings out of your spending account **automatically** on payday, through a standing instruction, a recurring deposit or an automatic investment plan. Then live on the rest.\n\nThis works because it uses the habit principles you met in the Mind region: it makes saving the **default**, requiring no willpower each month."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "The emergency fund",
+      "md": "Before investing for the long term, most financial educators recommend building an **emergency fund**: savings covering roughly **three to six months** of essential expenses, kept somewhere safe and easy to access, like a savings account. It protects you from being forced into expensive debt when something goes wrong, like job loss, illness or urgent repairs. Start small: even one month’s expenses is a meaningful cushion."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Does cutting out small treats, like a daily coffee, really make you rich?",
+      "md": "This idea, sometimes called the **“latte factor”**, has some truth: small daily spending adds up, and invested over decades it can grow substantially through compounding. But critics point out that for most people, the **big** decisions matter far more: housing costs, transport, debt and income growth. Cutting a daily coffee might save a few thousand a year; choosing a slightly cheaper home or avoiding a high-interest loan can save far more. The healthiest approach is usually to get the big things right first, then cut small spending you don’t actually value, while keeping the small pleasures you do."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **budget** is a plan for income, covering **fixed** and **variable** expenses plus **savings**.",
+        "The core rule: **spend less than you earn**, consistently.",
+        "**Track spending** first; small, frequent purchases are easy to underestimate.",
+        "The **50/30/20** rule (needs/wants/savings) is a flexible starting point, not a law.",
+        "**Pay yourself first**: automate savings on payday, then spend what’s left.",
+        "Build an **emergency fund** of roughly **3–6 months** of essential expenses.",
+        "**Big decisions** (housing, transport, debt) usually matter more than small treats."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Budgeting is the foundation of every other money skill in this region. Without it, compounding has nothing to work with, debt creeps up unnoticed and emergencies become crises. With it, money becomes a tool for the things you care about, rather than a constant source of stress. Next, you’ll explore why spending decisions are often less rational than we think."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a budget really for, and why does “paying yourself first” work better than saving whatever is left at the end of the month?"
+  }
+}
