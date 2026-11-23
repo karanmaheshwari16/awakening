@@ -1,0 +1,90 @@
+{
+  "id": "earth.oceans.2",
+  "region": "earth",
+  "topic": "oceans",
+  "level": 2,
+  "prerequisites": [
+    "earth.oceans.1"
+  ],
+  "title": "Oceans Under Pressure",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2016**, divers on Australia’s **Great Barrier Reef**, the largest coral reef system on Earth, visible from space, witnessed something devastating. Vast stretches of normally colourful coral had turned ghostly white. Over the following months, a large share of the corals in the reef’s northern section died.\n\nIt happened again in **2017**, and again in 2020, 2022 and 2024. Scientists linked the events to unusually hot ocean water during marine heatwaves. In 2024, the US National Oceanic and Atmospheric Administration confirmed a **fourth global coral bleaching event**, affecting reefs in dozens of countries. Coral reefs are early warning signs of the stress the ocean is under."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how the ocean regulates climate, absorbing heat and carbon dioxide. But that service comes at a cost. The ocean is under pressure from several directions at once:\n\n1. **Warming**\n2. **Acidification**\n3. **Overfishing**\n4. **Pollution**, especially plastics and nutrients\n5. **Sea-level rise**\n\nThese threats often interact, making each other worse."
+    },
+    {
+      "type": "text",
+      "heading": "Warming and marine heatwaves",
+      "md": "As the ocean absorbs extra heat from greenhouse gases, its average temperature is rising. Recent years have set records for ocean heat content.\n\nThe ocean is also experiencing more frequent and intense **marine heatwaves**: periods when water temperatures are unusually high for days to months. They can kill fish, seabirds and marine mammals, and devastate coral reefs and kelp forests.\n\nWarming water also expands, contributing to sea-level rise, and holds less oxygen, contributing to the spread of low-oxygen zones."
+    },
+    {
+      "type": "text",
+      "heading": "Coral bleaching",
+      "md": "Corals live in partnership with tiny algae living inside their tissues. The algae photosynthesise, providing the coral with food and giving it its colour; the coral provides shelter.\n\nWhen water becomes too hot for too long, this partnership breaks down. The stressed coral expels the algae, turning white: **coral bleaching**. Bleached corals aren’t dead, and they can recover if temperatures return to normal quickly enough. But prolonged or repeated bleaching leaves corals starving and vulnerable, and many die.\n\nThe **IPCC** has projected that if global warming reaches **1.5 °C**, around **70 to 90%** of warm-water coral reefs could be lost; at **2 °C**, more than **99%**. Coral reefs support fisheries, tourism and coastal protection for hundreds of millions of people."
+    },
+    {
+      "type": "text",
+      "heading": "Ocean acidification",
+      "md": "When carbon dioxide dissolves in seawater, it forms **carbonic acid**. As the ocean has absorbed human CO₂ emissions, its surface waters have become more acidic. Average surface ocean **pH** has fallen by about **0.1** units since before the Industrial Revolution. Because the pH scale is logarithmic, that’s roughly a **30%** increase in acidity.\n\nThe ocean isn’t literally becoming acid; it’s still slightly alkaline. But even small changes matter. More acidic water reduces the availability of **carbonate**, which many marine organisms, including corals, oysters, clams, sea urchins and some plankton, need to build their shells and skeletons. Acidification has been called climate change’s “evil twin”, because it comes from the same cause, rising CO₂."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the ocean as a giant sponge soaking up our carbon dioxide. That has slowed climate change, a huge favour to us. But the sponge doesn’t absorb it without changing: the water’s chemistry shifts, making it harder for shell-building creatures to build and maintain their homes. The favour comes with a bill attached."
+    },
+    {
+      "type": "text",
+      "heading": "Overfishing",
+      "md": "Fish provide an important source of protein for billions of people, and fisheries support the livelihoods of tens of millions, including in India’s coastal states. But many fish populations are being caught faster than they can reproduce.\n\nAccording to the UN Food and Agriculture Organization, roughly **a third** of the world’s assessed fish stocks are fished at biologically unsustainable levels, up from about 10% in the 1970s. A famous warning came from **Newfoundland** in Canada, where the once-enormous **cod** fishery collapsed in the early **1990s** after decades of overfishing, forcing a moratorium that put tens of thousands of people out of work. Decades later, the cod still haven’t fully recovered.\n\nSolutions include science-based catch limits, protecting breeding areas, reducing illegal fishing, cutting harmful subsidies that encourage overfishing, and **marine protected areas**, where fishing is restricted, which can help fish populations recover and spill over into surrounding waters."
+    },
+    {
+      "type": "text",
+      "heading": "Plastic and nutrient pollution",
+      "md": "Each year, an estimated **millions of tonnes** of plastic waste enter the ocean, from rivers, coastlines and fishing gear. Plastic doesn’t biodegrade; it breaks into ever-smaller pieces, called **microplastics**, which are now found from the deepest trenches to Arctic ice, and in seafood, salt and drinking water. Marine animals become entangled in plastic or mistake it for food. Ocean currents concentrate floating debris in gyres, such as the **Great Pacific Garbage Patch**, which is less a solid island than a vast area with high concentrations of plastic fragments.\n\n**Nutrient pollution**, from fertilisers and sewage washing into the sea, feeds explosive growth of algae. When the algae die and decompose, bacteria use up the oxygen in the water, creating **dead zones** where most marine life can’t survive. The Gulf of Mexico has one of the largest, fed by the Mississippi River."
+    },
+    {
+      "type": "steps",
+      "title": "Rising seas",
+      "items": [
+        "Global average sea level rose by about **20 centimetres** between 1900 and 2020, and the rate of rise has accelerated to around **4 millimetres per year** in recent years.",
+        "Two main causes: **thermal expansion** (warmer water takes up more space) and **melting land ice**, especially glaciers and the ice sheets of **Greenland** and **Antarctica**. (Melting sea ice, which already floats, doesn’t raise sea level significantly.)",
+        "Projections for 2100 depend on future emissions, ranging from roughly half a metre to over a metre, with a risk of more if ice sheets become unstable.",
+        "Rising seas increase coastal flooding, erosion and saltwater intrusion into farmland and drinking water.",
+        "Low-lying areas are especially vulnerable, including parts of **Mumbai**, **Kolkata**, the **Sundarbans**, Bangladesh, and small island nations like the **Maldives**, much of which lies only around a metre above sea level."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is anything being done to protect the high seas?",
+      "md": "The **high seas**, ocean areas beyond any country’s national jurisdiction, cover nearly half the planet’s surface, but for decades had very little legal protection. In **2023**, after nearly two decades of negotiations, UN members agreed a landmark **High Seas Treaty** (formally the Agreement on Biodiversity Beyond National Jurisdiction), creating a framework for establishing marine protected areas in international waters, assessing the environmental impact of activities and sharing benefits from marine genetic resources more fairly. It reached enough ratifications to come into force, which is an important step towards the global goal of protecting **30%** of the ocean by 2030, though enforcement will be the real test."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The ocean faces **warming**, **acidification**, **overfishing**, **pollution** and **sea-level rise**, which interact.",
+        "**Marine heatwaves** cause **coral bleaching**; the **Great Barrier Reef** bleached repeatedly from 2016, and a **fourth global bleaching event** was confirmed in **2024**.",
+        "At **1.5 °C**, 70–90% of warm-water reefs could be lost; at **2 °C**, over 99%.",
+        "Absorbed CO₂ has made surface oceans about **30% more acidic**, harming shell-building organisms.",
+        "About **a third** of assessed fish stocks are overfished; the **Newfoundland cod** collapse is a warning.",
+        "**Plastics** and **nutrient pollution** cause harm and **dead zones**; sea level has risen about **20 cm** since 1900.",
+        "The **High Seas Treaty (2023)** aims to protect international waters."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The ocean’s health directly affects food supplies, coastal communities, the climate and the oxygen in the air. Many of the threats come from activities on land, like burning fossil fuels, using fertilisers and producing plastic, so solutions involve everyone, not just people living by the sea. Understanding these pressures helps you see why ocean protection is part of tackling climate change and biodiversity loss."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is ocean acidification and why does it matter, why are coral reefs bleaching, and what are two other major threats to the ocean?"
+  }
+}

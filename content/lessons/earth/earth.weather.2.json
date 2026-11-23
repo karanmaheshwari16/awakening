@@ -1,0 +1,85 @@
+{
+  "id": "earth.weather.2",
+  "region": "earth",
+  "topic": "weather",
+  "level": 2,
+  "prerequisites": [
+    "earth.weather.1"
+  ],
+  "title": "Monsoons, Cyclones and Extreme Weather",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **October 1999**, a super cyclone struck the coast of **Odisha** with winds of over 250 km/h and a storm surge that pushed seawater kilometres inland. Around **10,000** people died. Villages were wiped out; millions were left homeless.\n\nFourteen years later, in **October 2013**, **Cyclone Phailin**, of similar strength, hit almost the same coast. This time, authorities evacuated around **a million** people in advance, using cyclone shelters, early warnings and a massive coordinated operation. The death toll was **under 50**. In 2019, Cyclone Fani brought a similar success. Nature hadn’t become gentler. What changed was preparation. It’s one of the great disaster-management success stories of recent decades."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how uneven heating drives the weather. Two weather systems shape life in South Asia more than any others: the **monsoon**, which brings most of the region’s rainfall, and **tropical cyclones**, which bring some of its most destructive storms.\n\nThe word **monsoon** comes from the Arabic *mawsim*, meaning “season”. It refers to a seasonal **reversal of winds** that brings dramatically different weather at different times of year. Monsoon systems affect large parts of Asia, Africa, Australia and the Americas, but the **South Asian monsoon** is the largest and most famous."
+    },
+    {
+      "type": "text",
+      "heading": "How the Indian monsoon works",
+      "md": "The monsoon is, at heart, a giant version of the sea breeze from the previous lesson, operating over a whole season and a whole subcontinent:\n\n- In **summer**, the Indian landmass, and especially the high **Tibetan Plateau**, heats up intensely. Hot air rises, creating a large area of **low pressure** over northern India.\n- The Indian Ocean heats up more slowly, so it stays relatively cool, with **higher pressure**.\n- Moist air from the ocean flows towards the land, deflected by Earth’s rotation into **southwesterly winds**.\n- The band of heavy tropical rain, the ITCZ you met in the previous lesson, shifts northward over South Asia.\n- As the moist air rises over the land and the mountains, especially the **Western Ghats** and the **Himalayas**, it cools and drops enormous amounts of rain.\n- In **winter**, the pattern reverses: the land cools faster than the sea, and dry winds blow from the land towards the ocean. This northeast monsoon brings rain to parts of southeastern India, like Tamil Nadu."
+    },
+    {
+      "type": "steps",
+      "title": "The monsoon’s year",
+      "items": [
+        "The southwest monsoon typically reaches **Kerala** around **1 June**, a date eagerly watched across India.",
+        "Over the following weeks, it advances northward, usually covering the whole country by around early **July**.",
+        "From roughly **June to September**, India receives about **70 to 80%** of its annual rainfall.",
+        "The monsoon withdraws gradually from the northwest, starting from around mid-September.",
+        "Rainfall varies enormously by region: **Mawsynram** and **Cherrapunji** in Meghalaya are among the wettest places on Earth, while parts of Rajasthan receive very little.",
+        "The monsoon isn’t steady; it comes in active spells and **breaks**, when rain pauses for days or weeks."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of India in summer as a giant stove switched on, with the cooler Indian Ocean beside it. The hot land acts like a chimney, drawing in moist ocean air from the southwest. As that air rises over the hills and mountains, it rains out its moisture. In winter, the stove turns off, the land cools and the flow reverses. The monsoon is the breathing in and breathing out of a whole subcontinent."
+    },
+    {
+      "type": "text",
+      "heading": "Why the monsoon matters so much",
+      "md": "The monsoon is the lifeblood of South Asia:\n\n- **Agriculture**: around half of India’s farmland depends mainly on rainfall rather than irrigation. A good monsoon means good harvests of crops like rice, pulses and cotton; a weak one can mean drought, crop failure, rural distress and higher food prices.\n- **Water supply**: monsoon rains refill reservoirs, rivers and groundwater.\n- **Economy**: monsoon performance affects inflation, rural incomes and economic growth.\n- **Disasters**: heavy monsoon rains can cause **floods** and **landslides**, as in Kerala in 2018 and in the Himalayan states in several recent years.\n\nThe **India Meteorological Department (IMD)**, founded in **1875**, issues long-range monsoon forecasts and daily weather warnings."
+    },
+    {
+      "type": "text",
+      "heading": "El Niño and La Niña",
+      "md": "The monsoon is influenced by conditions far away, especially in the Pacific Ocean. Every few years, the waters of the eastern tropical Pacific become unusually warm, an event called **El Niño** (Spanish for “the boy child”, as it was noticed by Peruvian fishermen around Christmas). Its opposite, unusually cool waters, is called **La Niña**.\n\nEl Niño shifts patterns of rising air and rainfall across the tropics. It is often, though not always, associated with a **weaker Indian monsoon** and drought, while La Niña often brings stronger monsoons. Another pattern, the **Indian Ocean Dipole**, also affects monsoon rainfall. These links help forecasters, but they’re not perfect predictors."
+    },
+    {
+      "type": "text",
+      "heading": "Tropical cyclones",
+      "md": "A **tropical cyclone** is a large, rotating storm system that forms over warm tropical oceans. They have different names in different regions, but they’re the same phenomenon:\n\n- **Hurricanes** in the Atlantic and northeast Pacific.\n- **Typhoons** in the northwest Pacific.\n- **Cyclones** in the Indian Ocean and around Australia.\n\nCyclones need warm sea surface temperatures, generally above about **26.5 °C**, to form. Warm, moist air rises over the ocean, releasing heat as water vapour condenses into clouds. This heat powers the storm, drawing in more air at the surface. The Coriolis effect makes the system spin. At its centre is the calm **eye**, surrounded by the **eyewall**, where winds are strongest.\n\nCyclones cause damage through three main threats:\n\n1. **Extreme winds**, which can exceed 250 km/h.\n2. **Heavy rainfall**, causing flooding and landslides.\n3. **Storm surge**: wind and low pressure push seawater onto the coast, often the deadliest threat. The **1970 Bhola cyclone** in what was then East Pakistan (now Bangladesh) killed an estimated **300,000** or more people, largely from storm surge, one of the deadliest natural disasters in recorded history.\n\nThe **Bay of Bengal**, with its warm waters and low-lying, densely populated coasts, is one of the most dangerous regions in the world for cyclones."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How did India reduce cyclone deaths so dramatically?",
+      "md": "Through a combination of **better forecasting**, **early warnings**, **infrastructure** and **community preparedness**. After 1999, Odisha set up a dedicated disaster management authority and built hundreds of multi-purpose **cyclone shelters**. Improved satellite monitoring and computer models from the IMD allowed accurate forecasts of a cyclone’s path and strength days in advance. Warnings were spread through radio, television, mobile phones and community volunteers. Authorities carried out large-scale **evacuations**, moving people to shelters before the storm hit. Similar approaches in **Bangladesh**, built around cyclone shelters and community warning networks, have also reduced deaths dramatically since 1970. Damage to property and livelihoods remains enormous, but far fewer people die. It’s a powerful example of how science and preparation can save lives."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **monsoon** is a seasonal **reversal of winds**; summer heating of the land, especially the **Tibetan Plateau**, draws in moist ocean air.",
+        "India receives about **70–80%** of its rainfall from **June to September**; the monsoon reaches **Kerala** around **1 June**.",
+        "The monsoon drives agriculture, water supply and the economy, and can cause floods and landslides.",
+        "**El Niño** often weakens the Indian monsoon; **La Niña** often strengthens it.",
+        "**Tropical cyclones** (hurricanes, typhoons) form over seas warmer than about **26.5 °C**; threats include **wind**, **rain** and **storm surge**.",
+        "Better forecasting, warnings, shelters and evacuations cut cyclone deaths in **Odisha** from about **10,000 (1999)** to **under 50** for **Phailin (2013)**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "For over a billion people in South Asia, the monsoon and cyclones aren’t abstract science; they determine harvests, water, livelihoods and safety. Understanding how they work helps you make sense of forecasts and news, appreciate the link between distant oceans and local rainfall, and see how preparation can turn natural hazards from catastrophes into manageable events."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what causes the Indian monsoon, how do tropical cyclones form, and why did cyclone deaths in Odisha fall so dramatically between 1999 and 2013?"
+  }
+}

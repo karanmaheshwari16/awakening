@@ -1,0 +1,84 @@
+{
+  "id": "earth.weather.1",
+  "region": "earth",
+  "topic": "weather",
+  "level": 1,
+  "prerequisites": [],
+  "title": "What Makes the Weather",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "During World War I, a British meteorologist named **Lewis Fry Richardson**, serving as an ambulance driver in France, tried something no one had done before. Between duties, using pencil and paper, he attempted to calculate the weather six hours ahead for a small region of Europe, using the equations of physics.\n\nIt took him about six weeks. And his forecast was badly wrong. But in his 1922 book, he imagined a vast hall filled with **64,000 human “computers”**, each calculating the weather for one patch of the globe, coordinated by a conductor. He had foreseen modern weather forecasting. Today, supercomputers perform his calculations billions of times faster, and a five-day forecast is about as accurate as a one-day forecast was in the 1980s."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Weather** is the state of the atmosphere at a particular place and time: temperature, rainfall, wind, humidity, cloud and air pressure. **Climate**, which you’ll study later in this region, is the average pattern of weather over many years.\n\nAlmost all weather is driven by one thing: **uneven heating by the Sun**. The equator receives far more direct sunlight than the poles; land heats and cools faster than water; and day and night create constant cycles of warming and cooling. The atmosphere and oceans constantly move heat around, trying to even out these differences. That movement is the weather."
+    },
+    {
+      "type": "text",
+      "heading": "Air pressure and wind",
+      "md": "When air is heated, it expands, becomes less dense and **rises**, leaving lower pressure near the ground. When air cools, it becomes denser and **sinks**, creating higher pressure.\n\n- **Low-pressure** areas usually bring rising air, clouds and rain, and often unsettled, stormy weather.\n- **High-pressure** areas usually bring sinking air, clear skies and calmer, drier weather.\n\n**Wind** is air moving from areas of **high pressure** towards areas of **low pressure**, like air rushing out of a balloon. The bigger the pressure difference, the stronger the wind.\n\nBut winds don’t blow in straight lines over long distances. Because Earth rotates, moving air is deflected: to the **right** in the Northern Hemisphere and to the **left** in the Southern Hemisphere. This is called the **Coriolis effect**. It’s why large storms spin: anticlockwise around low-pressure centres in the Northern Hemisphere, clockwise in the Southern. (It’s far too weak to determine which way water drains from a sink, despite the popular myth.)"
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a sea breeze on a sunny day at the beach. During the day, the land heats up faster than the sea. Air over the land warms, rises and creates lower pressure. Cooler air from over the sea, at higher pressure, flows in to replace it: a refreshing breeze from the water. At night, the land cools faster, and the breeze reverses, blowing from land to sea. That’s weather in miniature: uneven heating, pressure differences and moving air."
+    },
+    {
+      "type": "steps",
+      "title": "How clouds and rain form",
+      "items": [
+        "The Sun evaporates water from oceans, lakes, soil and plants, adding invisible **water vapour** to the air.",
+        "Warm air can hold more water vapour than cold air.",
+        "When air **rises**, because it’s heated, pushed up a mountain or lifted along a weather front, it expands in the lower pressure and **cools**.",
+        "When it cools to its **dew point**, the air can’t hold all its water vapour, which **condenses** onto tiny particles, like dust, sea salt or smoke, forming countless microscopic droplets or ice crystals: a **cloud**.",
+        "Inside clouds, droplets collide and merge, or ice crystals grow, until they’re heavy enough to fall as **rain**, **snow** or **hail**.",
+        "This is why mountains often get heavy rain on the side facing incoming moist winds, while the far side stays dry, in a **rain shadow**. The Western Ghats receive huge monsoon rainfall on their western slopes, while parts of the Deccan Plateau beyond them are much drier."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Weather fronts",
+      "md": "Air masses, large bodies of air with similar temperature and humidity, form over regions like oceans, continents or polar areas. Where two different air masses meet, they form a **front**.\n\n- At a **cold front**, cold, dense air pushes under warmer air, forcing it up rapidly, often causing heavy showers, thunderstorms and a sudden drop in temperature.\n- At a **warm front**, warm air slides gradually up over colder air, often bringing widespread cloud and steady rain.\n\nFronts are especially important in mid-latitude weather, such as in Europe and North America, and in the **Western Disturbances** that bring winter rain and snow to north India and the Himalayas, coming from the Mediterranean region."
+    },
+    {
+      "type": "text",
+      "heading": "Global circulation",
+      "md": "On a global scale, uneven heating drives great loops of circulating air:\n\n- Near the equator, intense heating makes air rise, forming a band of clouds and heavy rain called the **Intertropical Convergence Zone (ITCZ)**.\n- The air spreads towards the poles high in the atmosphere, cools and sinks around **30 degrees** north and south of the equator, creating zones of high pressure and dry air, where many of the world’s great deserts are found, like the Sahara and the Thar.\n- Near the surface, air flows back towards the equator, deflected by the Coriolis effect into the steady **trade winds**, which sailors relied on for centuries.\n\nThese loops are called **Hadley cells**, after George Hadley, who described the idea in the 18th century. Similar but weaker loops exist at higher latitudes. Fast, high-altitude rivers of wind called **jet streams** form between them, steering storms and weather systems."
+    },
+    {
+      "type": "text",
+      "heading": "Forecasting and chaos",
+      "md": "Modern weather forecasting uses **numerical weather prediction**: dividing the atmosphere into a three-dimensional grid of millions of points, feeding in current observations from weather stations, balloons, aircraft, ships, radar and satellites, and using supercomputers to calculate how temperature, pressure, humidity and wind will evolve, step by step.\n\nForecasts have improved steadily, by roughly a day of useful accuracy every decade. But there’s a fundamental limit. In the early **1960s**, the American meteorologist **Edward Lorenz** found that in his simple computer model of the atmosphere, tiny differences in starting conditions, such as rounding a number from six decimal places to three, led to completely different weather weeks later. This **sensitive dependence on initial conditions** became a founding idea of **chaos theory**, popularised by Lorenz’s question about whether the flap of a butterfly’s wings in Brazil could set off a tornado in Texas: the **butterfly effect**."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If weather beyond about two weeks is unpredictable, how can scientists predict climate decades ahead?",
+      "md": "Because predicting **climate** is a different problem from predicting **weather**. You can’t predict whether it will rain in your city on a particular day three months from now, but you can confidently predict that July will be hotter than January in Delhi, or that the monsoon will bring rain in summer. Climate is about **averages** and **statistics** over many years, driven by factors like the amount of sunlight and greenhouse gases, which can be modelled even though individual weather events can’t. It’s like rolling dice: you can’t predict a single roll, but you can confidently predict the average of thousands of rolls. If someone loads the dice, you can predict that sixes will become more common."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Weather** is short-term atmospheric conditions; it’s driven by **uneven heating** by the Sun.",
+        "Air rises in **low-pressure** areas (clouds, rain) and sinks in **high-pressure** areas (clear, calm weather); **wind** flows from high to low pressure.",
+        "The **Coriolis effect** deflects winds and makes large storms spin.",
+        "Clouds form when rising air **cools to its dew point**; mountains create **rain shadows**, as with the Western Ghats.",
+        "**Fronts** form where air masses meet; **Hadley cells**, **trade winds** and **jet streams** shape global circulation.",
+        "**Numerical weather prediction** has improved steadily, but **chaos** (Lorenz’s butterfly effect) limits detailed forecasts to about two weeks.",
+        "**Climate** can be predicted as long-term averages even though individual weather can’t."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Weather affects your daily plans, farmers’ crops, transport, energy use and safety. Understanding what drives it helps you read forecasts intelligently, understand why forecasts are sometimes wrong and appreciate how chaotic systems work. Next, you’ll explore the most important weather system for India, the monsoon, along with cyclones and extreme weather."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why does air move from high to low pressure, how do clouds form, and why is it so hard to forecast weather more than about ten days ahead?"
+  }
+}

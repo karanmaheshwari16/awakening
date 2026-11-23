@@ -1,0 +1,87 @@
+{
+  "id": "earth.climate-change.2",
+  "region": "earth",
+  "topic": "climate-change",
+  "level": 2,
+  "prerequisites": [
+    "earth.climate-change.1"
+  ],
+  "title": "Impacts, Solutions and Fairness",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2010**, a solar panel cost several times as much as it does today. Over the following decade, the price of solar electricity fell by **roughly 90%**, faster than almost anyone predicted. By the early 2020s, building new solar or wind farms had become the **cheapest** way to generate electricity in many parts of the world.\n\nIndia has been at the centre of this shift. Its solar capacity grew from almost nothing in 2010 to among the largest in the world by the mid-2020s, with vast solar parks like **Bhadla** in Rajasthan. The story of climate change is often told as one of doom. It’s also a story of extraordinary technological change, and of difficult choices about who pays, who benefits and how fast the world can move."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw the evidence that humans are warming the planet. This lesson explores what that warming means, what can be done about it, and why the politics are so difficult.\n\nResponses to climate change fall into two broad categories:\n\n- **Mitigation**: reducing greenhouse gas emissions, or removing them from the atmosphere, to limit how much warming happens.\n- **Adaptation**: adjusting to the changes that are already happening or are unavoidable, such as building flood defences, developing heat-resistant crops or improving early warning systems.\n\nBoth are necessary. Even if emissions stopped tomorrow, some further changes, like continued sea-level rise, are already locked in."
+    },
+    {
+      "type": "text",
+      "heading": "Impacts: what warming means",
+      "md": "The effects of climate change are already visible, and they grow with every increment of warming:\n\n- **Heat**: heatwaves are becoming more frequent and intense. India experienced severe heatwaves in **2022** and **2024**, with temperatures approaching or exceeding **50 °C** in some places. Extreme heat is dangerous to health, especially for outdoor workers, older people and the poor, and reduces productivity.\n- **Water**: rainfall patterns are shifting, with more intense downpours in some places and more severe droughts in others. Shrinking glaciers threaten long-term water supplies.\n- **Food**: heat and drought can reduce crop yields; changing rainfall disrupts planting.\n- **Sea-level rise**: threatens coastal cities, farmland and island nations.\n- **Ecosystems**: coral reefs, forests and many species face severe stress, as you saw in the Biology and Oceans lessons.\n- **Health**: heat stress, the spread of diseases like dengue to new areas, and effects on food and water security.\n\nThe effects fall unevenly: poorer countries and communities, who have contributed least to the problem, are often the most exposed and least able to adapt."
+    },
+    {
+      "type": "text",
+      "heading": "Why half a degree matters",
+      "md": "In the **2015 Paris Agreement**, countries agreed to limit warming to “well below **2 °C**” above pre-industrial levels, and to pursue efforts to limit it to **1.5 °C**. A **2018** IPCC special report compared the two levels and found that the extra half degree makes a big difference:\n\n- Far more people exposed to severe heatwaves at 2 °C.\n- Warm-water **coral reefs**: about 70–90% lost at 1.5 °C, versus more than 99% at 2 °C.\n- Greater reductions in crop yields and fisheries.\n- More species losing large parts of their range.\n- Higher sea-level rise and greater risk of crossing **tipping points**, like the irreversible loss of ice sheets or large-scale forest dieback.\n\nThe IPCC found that limiting warming to 1.5 °C would require global CO₂ emissions to fall by roughly **half** by around 2030 and reach **net zero** around **2050**. Many analysts now consider staying below 1.5 °C extremely difficult, which makes every fraction of a degree avoided more important."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of climate change like a fever. A rise of 1 °C in body temperature makes you feel unwell; 2 °C is a serious fever; 3 or 4 °C is a medical emergency. Each extra degree isn’t just a little worse; the damage accelerates. And just as a fever affects every organ, global warming affects every part of the Earth system, from oceans to farms to cities."
+    },
+    {
+      "type": "steps",
+      "title": "The main ways to cut emissions",
+      "items": [
+        "**Clean electricity**: replacing coal and gas power plants with **solar**, **wind**, **hydro**, **nuclear** and other low-carbon sources, supported by **storage** and better grids, as you saw in the Physics region.",
+        "**Electrifying** transport, heating and industry, so they can run on clean electricity: **electric vehicles**, heat pumps and electric industrial processes.",
+        "**Efficiency**: using less energy for the same result, through better buildings, appliances, lighting (LEDs) and industrial processes.",
+        "**Industry**: developing cleaner ways to make steel, cement and chemicals, which are major emitters and hard to decarbonise, using options like **green hydrogen**.",
+        "**Land and food**: halting deforestation, restoring forests, improving farming practices, reducing food waste and shifting diets towards less emissions-intensive foods.",
+        "**Methane**: cutting leaks from oil and gas operations, landfills and agriculture. Methane is a powerful short-term warming gas, so cutting it can slow warming quickly.",
+        "**Carbon removal**: removing CO₂ from the air, through forests or technologies like direct air capture, likely needed for some hard-to-cut emissions, but not a substitute for cutting emissions."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Paris Agreement and national pledges",
+      "md": "The **Paris Agreement**, adopted in **2015**, is the main international framework for tackling climate change. Under it, each country sets its own emissions targets, called **Nationally Determined Contributions (NDCs)**, and is expected to strengthen them over time.\n\n- **India** has pledged to reach **net-zero** emissions by **2070**, announced in **2021**, and set targets including expanding non-fossil electricity capacity to **500 gigawatts** by **2030** and reducing the emissions intensity of its economy.\n- **China** has pledged to peak emissions before 2030 and reach carbon neutrality before **2060**.\n- The **EU** and **UK** aim for net zero by **2050**.\n- The **United States** has joined and left the agreement as administrations changed, illustrating how domestic politics affect global action.\n\nCurrent pledges, if fully implemented, would still lead to warming well above 1.5 °C, so pressure continues for faster action."
+    },
+    {
+      "type": "text",
+      "heading": "The question of fairness",
+      "md": "Climate negotiations are shaped by deep questions of **fairness**:\n\n- **Historical responsibility**: the warming we experience today is driven by the **total** CO₂ emitted since the Industrial Revolution. Countries that industrialised early, like the **United States** and European nations, have contributed the largest shares of cumulative emissions. The US alone accounts for roughly a quarter of cumulative CO₂ emissions; India, despite its large population, accounts for only around 3%.\n- **Per-person emissions**: **China** is now the largest annual emitter in total, followed by the US and India. But per person, emissions vary enormously: an average American emits roughly **14 to 15 tonnes** of CO₂ a year, the average Chinese person around 8, and the average Indian around **2**.\n- **Development**: lower-income countries argue they need room to grow their economies, lift people out of poverty and provide energy access, as rich countries did. They call for **“common but differentiated responsibilities”**, a principle recognised in UN climate agreements.\n- **Finance**: developing countries argue that rich countries should provide financial support for clean energy and adaptation. At **COP27** in **2022**, countries agreed to establish a **loss and damage** fund to help vulnerable countries cope with climate impacts.\n\nThese debates are not only scientific but ethical and political, connecting to the Philosophy, Economics and Politics regions."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Do individual actions matter, or is it all up to governments and companies?",
+      "md": "Both matter, in different ways. The biggest emission cuts require **systemic** changes: clean power grids, public transport, building standards, industrial innovation and international agreements, which depend on governments, businesses and investors. But individual choices add up, especially for higher-income households, whose emissions are much larger. Actions like using public transport, choosing efficient appliances, reducing waste, eating less emissions-intensive food and flying less reduce emissions directly. Perhaps most importantly, individuals influence systemic change as **citizens**, **voters**, **consumers**, **employees** and members of communities, by supporting policies, shaping social norms and driving demand for clean technologies. Researchers have found that visible behaviours, like installing solar panels, can spread through neighbourhoods. Individual and collective action reinforce each other."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Responses combine **mitigation** (cutting emissions) and **adaptation** (coping with changes).",
+        "Impacts include **heatwaves**, shifting **rainfall**, **food** and **water** risks, **sea-level rise** and threats to **ecosystems**; poorer communities are often hit hardest.",
+        "The **Paris Agreement (2015)** aims for **well below 2 °C**, pursuing **1.5 °C**; the extra half degree matters greatly, for example for coral reefs.",
+        "Limiting warming to 1.5 °C requires halving CO₂ emissions by around **2030** and reaching **net zero** around **2050**.",
+        "Solutions include **clean electricity**, **electrification**, **efficiency**, cleaner **industry**, **land and food** changes, cutting **methane** and some **carbon removal**; solar costs fell about **90%** in a decade.",
+        "India targets **net zero by 2070** and **500 GW** of non-fossil capacity by **2030**.",
+        "**Fairness** issues include **historical responsibility**, **per-person emissions**, the right to **development** and **climate finance**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Climate change is one of the defining challenges of your lifetime, and the choices made in the coming decades will shape the world for centuries. Understanding the impacts, the solutions and the fairness debates helps you see beyond both denial and despair, engage with policy discussions thoughtfully, and recognise that the future isn’t fixed: every fraction of a degree of warming avoided matters."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why does the difference between 1.5 °C and 2 °C of warming matter, what are the main ways to reduce emissions, and why is fairness such a central issue in climate negotiations?"
+  }
+}

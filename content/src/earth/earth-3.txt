@@ -1,0 +1,248 @@
+##### LESSON
+id: earth.water-cycle.2
+title: Water Scarcity and Sharing a Precious Resource
+minutes: 15
+prereq: earth.water-cycle.1
+check: In your own words: why is groundwater being depleted in parts of India, what is virtual water, and how have countries shared rivers that cross their borders?
+
+=== hook
+In early **2018**, the South African city of **Cape Town**, home to around four million people, faced a terrifying prospect. After three years of severe drought, its reservoirs were running dry. Officials announced a date, “**Day Zero**”, when they would have to turn off most household taps, and residents would queue at around 200 collection points for a daily ration of 25 litres each.
+
+Residents and businesses slashed their water use dramatically, roughly halving the city’s consumption, through strict restrictions, higher prices and public campaigns. Combined with agriculture cuts and the return of rains, Day Zero was avoided. A year later, in **2019**, **Chennai**, one of India’s largest cities, faced its own crisis when its main reservoirs ran almost dry, and water had to be brought in by train. Water scarcity isn’t a distant future threat; it’s already here.
+
+=== core
+In the previous lesson, you saw that only a tiny fraction of Earth’s water is accessible fresh water. **Water scarcity** occurs when demand for water exceeds the available supply, or when poor quality or inadequate infrastructure limits access.
+
+Scarcity comes in two main forms:
+
+- **Physical scarcity**: there simply isn’t enough water to meet demand, common in dry regions.
+- **Economic scarcity**: water exists, but people lack the infrastructure, money or institutions to access it safely, common in many lower-income regions.
+
+**India** illustrates the challenge. It has roughly **18%** of the world’s population, but only about **4%** of its fresh water resources. Rainfall is concentrated in a few monsoon months and unevenly distributed across regions. Rising demand from a growing population, cities, industry and especially agriculture puts enormous pressure on supplies.
+
+=== text Agriculture: the thirstiest sector
+Globally, agriculture uses about **70%** of fresh water withdrawals; in India, the share is even higher, around **80% or more**. Crops like **rice** and **sugarcane** are particularly water-intensive.
+
+Much irrigation is inefficient. Traditional **flood irrigation**, where fields are flooded with water, loses large amounts through evaporation and runoff. Methods like **drip irrigation**, which delivers water directly to plant roots through tubes, and **sprinkler irrigation** can cut water use dramatically, though they require investment.
+
+=== text India’s groundwater crisis
+India is the world’s **largest user of groundwater**, extracting more than any other country, roughly a quarter of the global total. Groundwater supplies a majority of India’s irrigation and much of its drinking water.
+
+The spread of **electric pumps** and tube wells since the 1970s helped power the **Green Revolution**, boosting food production. But in many regions, especially in parts of **Punjab, Haryana, Rajasthan** and some southern states, water is being pumped faster than rain can recharge it. Water tables have fallen sharply in many districts, forcing farmers to dig ever deeper wells.
+
+One factor is that electricity for farm pumps is heavily subsidised or free in several states, so farmers have little financial incentive to conserve water. Changing this is politically difficult, since farmers rely on cheap power for their livelihoods, a classic example of the tragedy of the commons from the Economics region. Some states have experimented with solutions like paying farmers for saving electricity, or separating farm power supply to schedule it.
+
+=== callout analogy
+Think of an aquifer as a bank account into which the monsoon makes one deposit a year. For decades, many farmers have been making withdrawals far larger than the deposit, living off savings built up over centuries. The account still shows money for now, but the balance keeps falling, and eventually the withdrawals will have to stop, whether by choice or because the account runs dry.
+
+=== text Virtual water: the hidden water in what we buy
+**Virtual water** is the water used to produce goods and services. The concept, developed by the geographer **Tony Allan** in the 1990s, reveals how much water is hidden in everyday products. Rough global averages include:
+
+- About **1,800 litres** to produce a kilogram of **wheat**.
+- Roughly **2,500 litres** for a kilogram of **rice** (varying hugely by region and method).
+- Around **15,000 litres** for a kilogram of **beef**, largely for animal feed.
+- Over **10,000 litres** for a pair of jeans, mostly for growing cotton.
+
+When countries trade goods, they effectively trade virtual water. Water-scarce countries can save their own water by importing water-intensive goods. India, conversely, has been a major exporter of rice, effectively exporting large amounts of its scarce water.
+
+=== text The Aral Sea: a warning
+The **Aral Sea**, between Kazakhstan and Uzbekistan, was once the world’s **fourth-largest lake**. From the **1960s**, Soviet planners diverted the two rivers feeding it to irrigate vast cotton fields in the desert.
+
+Deprived of inflow, the sea shrank dramatically, splitting into separate lakes and losing most of its volume. Fishing towns found themselves many kilometres from the water; the exposed seabed became a salty, dusty desert, with storms spreading salt and pesticide residues, harming people’s health. It’s widely considered one of the worst environmental disasters of the 20th century. Since the 2000s, a dam built by Kazakhstan has helped the smaller northern part partially recover.
+
+=== steps Rivers that cross borders
+- About **60%** of the world’s fresh water flows in rivers shared by two or more countries, creating potential for tension, and for cooperation.
+- The **Indus Waters Treaty**, signed in **1960** between India and Pakistan with the help of the **World Bank**, divided the six rivers of the Indus system: the three eastern rivers (Ravi, Beas, Sutlej) mainly to India, and the three western rivers (Indus, Jhelum, Chenab) mainly to Pakistan, with India allowed certain uses.
+- The treaty survived several wars and was long cited as an example of water cooperation between rivals.
+- In **April 2025**, following a terrorist attack in Pahalgam in Jammu and Kashmir, India announced it was holding the treaty “in abeyance”, a move Pakistan strongly condemned. Its future has become a major issue in relations between the two countries.
+- India and **Bangladesh** signed the **Ganges Water Treaty** in **1996**, sharing dry-season flows at the Farakka Barrage.
+- Research by the geographer **Aaron Wolf** and colleagues found that, historically, international disputes over water have far more often led to cooperation and agreements than to war, though tensions can be serious.
+
+=== text Solutions
+Approaches to water scarcity include:
+
+- **Using water more efficiently**: drip irrigation, fixing leaking pipes (many cities lose a large share of their water to leaks), and water-efficient appliances.
+- **Rainwater harvesting**: capturing and storing rain from rooftops or recharging groundwater. Tamil Nadu made rooftop rainwater harvesting mandatory for buildings in the early 2000s.
+- **Recycling wastewater**: **Singapore**’s “NEWater” treats wastewater to a very high standard, supplying a significant share of the country’s water needs, mostly for industry.
+- **Desalination**: removing salt from seawater. It’s energy-intensive and expensive but increasingly used, notably in Israel and the Gulf states, and in Chennai, which has desalination plants.
+- **Better pricing and governance**: pricing water to reflect its scarcity, while ensuring affordable basic access for everyone, and managing shared aquifers and rivers cooperatively.
+- **Shifting crops**: encouraging less water-intensive crops, like millets and pulses, in water-stressed regions.
+
+=== reveal Is access to clean water a human right?
+In **2010**, the **United Nations General Assembly** formally recognised access to safe and clean drinking water and sanitation as a **human right**. Yet as of recent years, around **2 billion** people still lacked safely managed drinking water, and more lacked safe sanitation. India’s **Jal Jeevan Mission**, launched in **2019**, aims to provide tap water connections to every rural household, and has dramatically expanded coverage, though questions remain about the reliability and quality of supply in some areas. Recognising water as a right raises hard questions: how to fund water systems, how to price water fairly, and how to balance household needs against farming and industry.
+
+=== keypoints
+- **Water scarcity** can be **physical** (not enough water) or **economic** (lack of infrastructure or institutions).
+- India has about **18%** of the world’s people but only about **4%** of its fresh water.
+- **Agriculture** uses about **70%** of global fresh water withdrawals, and more in India; **drip irrigation** saves water.
+- India is the world’s **largest groundwater user**; subsidised electricity and over-pumping have caused falling water tables.
+- **Virtual water** is the hidden water in goods: about **15,000 litres** for a kilogram of beef.
+- The **Aral Sea** shrank catastrophically after rivers were diverted for irrigation.
+- The **Indus Waters Treaty (1960)** shared rivers between India and Pakistan; India placed it in abeyance in **2025**.
+- Solutions include efficiency, **rainwater harvesting**, **recycling**, **desalination**, better pricing and crop choices.
+
+=== why
+Water scarcity affects food prices, health, cities, farmers and even relations between countries. Understanding where water goes and why it’s running short in some places helps you make sense of droughts, water conflicts and policy debates, and see how individual habits, farming choices and good governance all play a part in sharing a precious resource.
+
+##### LESSON
+id: earth.climate-change.1
+title: Climate Change: What the Evidence Shows
+minutes: 16
+check: In your own words: how does adding carbon dioxide warm the planet, what are three independent lines of evidence for climate change, and how do scientists know humans are the main cause?
+
+=== hook
+In **1958**, a young American scientist named **Charles David Keeling** began measuring carbon dioxide in the air at an observatory high on the slopes of **Mauna Loa**, a volcano in Hawaii, far from cities and factories. He wanted precise measurements of the background level of CO₂ in the atmosphere.
+
+Within a few years, he noticed two patterns. CO₂ rose and fell slightly each year, as Northern Hemisphere plants absorbed it in summer and released it in winter, as if the planet were breathing. And beneath that rhythm, the overall level was **steadily rising**. When Keeling began, it was about **315 parts per million**. Today, it’s over **420**. The **Keeling Curve**, still measured today, is one of the most important records in science.
+
+=== core
+**Climate change** refers to long-term shifts in global and regional climate patterns. Today, it usually refers to the rapid warming of Earth since the late 19th century, driven mainly by human activities, especially burning **fossil fuels** (coal, oil and gas), which releases carbon dioxide and other **greenhouse gases**.
+
+In the atmosphere lessons, you saw that the natural greenhouse effect keeps Earth habitable. By adding large amounts of greenhouse gases, humans are **enhancing** that effect, trapping more heat and warming the planet.
+
+The scientific basics have been understood for a long time:
+
+- In the **1820s**, the French mathematician **Joseph Fourier** realised that the atmosphere must trap heat to keep Earth as warm as it is.
+- In **1856**, the American scientist **Eunice Foote** showed experimentally that carbon dioxide traps heat from the Sun, warming air in glass cylinders.
+- In **1859**, the Irish physicist **John Tyndall** measured how gases like water vapour and CO₂ absorb infrared radiation.
+- In **1896**, the Swedish chemist **Svante Arrhenius** calculated that doubling atmospheric CO₂ would warm the planet by several degrees.
+
+=== text How much has Earth warmed?
+Global average surface temperature has risen by roughly **1.2 to 1.3 °C** since the late 19th century, the period before large-scale fossil fuel use, often called the **pre-industrial** baseline. In **2024**, the hottest year on record, global temperatures were, for the first time over a full calendar year, around **1.5 °C** above pre-industrial levels, though the long-term average remains a little lower, partly because of a strong El Niño that year.
+
+That may sound small, but it’s a global **average** across land and ocean, day and night, all seasons. Warming over land is greater than over the ocean, and the **Arctic** has warmed around **three to four times** faster than the global average. For comparison, the difference between today’s climate and the depths of the last ice age, when ice sheets covered much of North America and Europe, was only around **5 to 6 °C** of global average temperature.
+
+=== callout analogy
+Think of greenhouse gases as a blanket over the planet. A thin blanket keeps you comfortably warm at night; that’s the natural greenhouse effect. Adding CO₂ is like steadily thickening the blanket. Even a modestly thicker blanket, kept on night after night, makes you uncomfortably hot. Humans have been thickening Earth’s blanket faster than at any time in at least hundreds of thousands of years.
+
+=== text Multiple lines of evidence
+Climate scientists are confident because many independent lines of evidence point the same way:
+
+- **Thermometer records**: thousands of weather stations, ships and buoys show global warming since the late 1800s. Each of the last several decades has been warmer than the one before.
+- **Ocean heat**: as you saw in the oceans lessons, the ocean has absorbed most of the extra heat, and its heat content keeps setting records.
+- **Melting ice**: mountain glaciers are retreating worldwide, including in the Himalayas. The **Greenland** and **Antarctic** ice sheets are losing ice. **Arctic sea ice** in late summer has shrunk dramatically since satellite records began in 1979.
+- **Rising seas**: global sea level has risen about **20 cm** since 1900, and the rate is accelerating.
+- **Ecosystems**: many plants and animals are shifting towards the poles and to higher altitudes; spring events like flowering are happening earlier.
+- **Ice cores**: air bubbles trapped in Antarctic ice reveal atmospheric CO₂ levels over the past **800,000 years**. Throughout that time, CO₂ rose and fell with ice ages, but never came close to today’s levels; it stayed below about 300 parts per million.
+
+=== steps How we know humans are responsible
+- **Timing**: the rise in CO₂ and temperatures closely follows the growth of fossil fuel use since the Industrial Revolution.
+- **Quantity**: humans release tens of billions of tonnes of CO₂ each year, more than enough to explain the observed rise, even though the ocean and land absorb about half.
+- **Chemical fingerprint**: carbon from fossil fuels has a distinctive ratio of carbon isotopes (and lacks carbon-14, which has decayed away over millions of years). The changing isotope ratios in atmospheric CO₂ show that the extra carbon comes from fossil fuels, not volcanoes or the ocean.
+- **Ruling out natural causes**: the Sun’s output has been roughly flat or slightly declining since the 1950s, while temperatures have climbed. Volcanoes emit far less CO₂ than humans, and major eruptions actually cause temporary **cooling**.
+- **The pattern of warming**: the lower atmosphere is warming while the upper atmosphere (stratosphere) is **cooling**, exactly what you’d expect from more greenhouse gases, but not from a brighter Sun, which would warm both.
+- **Climate models**: computer models that include human emissions reproduce observed warming; models with only natural factors don’t.
+
+=== text The scientific consensus
+The **Intergovernmental Panel on Climate Change (IPCC)**, set up by the UN in **1988**, regularly assesses the scientific literature, involving thousands of scientists from around the world, including India. Its **2021** report stated that it is “**unequivocal** that human influence has warmed the atmosphere, ocean and land”.
+
+Multiple studies of published climate research have found that around **97%** or more of climate scientists actively publishing agree that recent warming is mainly caused by humans; more recent analyses put the figure above **99%**. National science academies around the world, including the **Indian National Science Academy**, have endorsed this conclusion.
+
+Scientists still debate many details: exactly how sensitive the climate is to CO₂, how fast ice sheets will melt, and how regional rainfall will change. But the core conclusion, that humans are warming the planet, is as firmly established as almost anything in science.
+
+=== reveal If CO₂ is only 0.04% of the atmosphere, how can it have such a big effect?
+Because what matters is not how common a gas is, but how it **interacts with heat**. Nitrogen and oxygen, which make up 99% of the atmosphere, are almost transparent to infrared radiation; they barely trap heat at all. CO₂ molecules, by contrast, strongly absorb and re-emit infrared radiation at certain wavelengths. Small concentrations can have big effects, just as a small amount of ink can colour a whole glass of water, or a tiny dose of a medicine can affect the whole body. Since pre-industrial times, CO₂ concentrations have risen by about **50%**, from roughly 280 to over 420 parts per million, a large change in an important heat-trapping gas.
+
+=== keypoints
+- **Climate change** today mainly means rapid warming driven by human greenhouse gas emissions, especially from **fossil fuels**.
+- The physics was established by **Fourier**, **Foote (1856)**, **Tyndall (1859)** and **Arrhenius (1896)**.
+- The **Keeling Curve** shows CO₂ rising from about **315 ppm (1958)** to over **420 ppm**; about **280 ppm** before industrialisation.
+- Earth has warmed about **1.2–1.3 °C** since pre-industrial times; **2024** was around **1.5 °C** above; the **Arctic** warms 3–4 times faster.
+- Evidence: **thermometers**, **ocean heat**, **melting ice**, **rising seas**, shifting **ecosystems** and **ice cores**.
+- Human causation is shown by **timing**, **quantity**, **isotopic fingerprints**, **ruling out natural causes** and the **pattern of warming**.
+- The **IPCC (2021)** called human influence **unequivocal**; scientific agreement is around **97–99%** or more.
+
+=== why
+Climate change will shape the world you live in for the rest of your life, affecting weather, water, food, health, economies and politics. Understanding the evidence lets you separate well-established science from genuine uncertainty and from misinformation. The final lesson in this region looks at the impacts and the solutions, and the hard questions of fairness involved.
+
+##### LESSON
+id: earth.climate-change.2
+title: Impacts, Solutions and Fairness
+minutes: 16
+prereq: earth.climate-change.1
+check: In your own words: why does the difference between 1.5 °C and 2 °C of warming matter, what are the main ways to reduce emissions, and why is fairness such a central issue in climate negotiations?
+
+=== hook
+In **2010**, a solar panel cost several times as much as it does today. Over the following decade, the price of solar electricity fell by **roughly 90%**, faster than almost anyone predicted. By the early 2020s, building new solar or wind farms had become the **cheapest** way to generate electricity in many parts of the world.
+
+India has been at the centre of this shift. Its solar capacity grew from almost nothing in 2010 to among the largest in the world by the mid-2020s, with vast solar parks like **Bhadla** in Rajasthan. The story of climate change is often told as one of doom. It’s also a story of extraordinary technological change, and of difficult choices about who pays, who benefits and how fast the world can move.
+
+=== core
+In the previous lesson, you saw the evidence that humans are warming the planet. This lesson explores what that warming means, what can be done about it, and why the politics are so difficult.
+
+Responses to climate change fall into two broad categories:
+
+- **Mitigation**: reducing greenhouse gas emissions, or removing them from the atmosphere, to limit how much warming happens.
+- **Adaptation**: adjusting to the changes that are already happening or are unavoidable, such as building flood defences, developing heat-resistant crops or improving early warning systems.
+
+Both are necessary. Even if emissions stopped tomorrow, some further changes, like continued sea-level rise, are already locked in.
+
+=== text Impacts: what warming means
+The effects of climate change are already visible, and they grow with every increment of warming:
+
+- **Heat**: heatwaves are becoming more frequent and intense. India experienced severe heatwaves in **2022** and **2024**, with temperatures approaching or exceeding **50 °C** in some places. Extreme heat is dangerous to health, especially for outdoor workers, older people and the poor, and reduces productivity.
+- **Water**: rainfall patterns are shifting, with more intense downpours in some places and more severe droughts in others. Shrinking glaciers threaten long-term water supplies.
+- **Food**: heat and drought can reduce crop yields; changing rainfall disrupts planting.
+- **Sea-level rise**: threatens coastal cities, farmland and island nations.
+- **Ecosystems**: coral reefs, forests and many species face severe stress, as you saw in the Biology and Oceans lessons.
+- **Health**: heat stress, the spread of diseases like dengue to new areas, and effects on food and water security.
+
+The effects fall unevenly: poorer countries and communities, who have contributed least to the problem, are often the most exposed and least able to adapt.
+
+=== text Why half a degree matters
+In the **2015 Paris Agreement**, countries agreed to limit warming to “well below **2 °C**” above pre-industrial levels, and to pursue efforts to limit it to **1.5 °C**. A **2018** IPCC special report compared the two levels and found that the extra half degree makes a big difference:
+
+- Far more people exposed to severe heatwaves at 2 °C.
+- Warm-water **coral reefs**: about 70–90% lost at 1.5 °C, versus more than 99% at 2 °C.
+- Greater reductions in crop yields and fisheries.
+- More species losing large parts of their range.
+- Higher sea-level rise and greater risk of crossing **tipping points**, like the irreversible loss of ice sheets or large-scale forest dieback.
+
+The IPCC found that limiting warming to 1.5 °C would require global CO₂ emissions to fall by roughly **half** by around 2030 and reach **net zero** around **2050**. Many analysts now consider staying below 1.5 °C extremely difficult, which makes every fraction of a degree avoided more important.
+
+=== callout analogy
+Think of climate change like a fever. A rise of 1 °C in body temperature makes you feel unwell; 2 °C is a serious fever; 3 or 4 °C is a medical emergency. Each extra degree isn’t just a little worse; the damage accelerates. And just as a fever affects every organ, global warming affects every part of the Earth system, from oceans to farms to cities.
+
+=== steps The main ways to cut emissions
+- **Clean electricity**: replacing coal and gas power plants with **solar**, **wind**, **hydro**, **nuclear** and other low-carbon sources, supported by **storage** and better grids, as you saw in the Physics region.
+- **Electrifying** transport, heating and industry, so they can run on clean electricity: **electric vehicles**, heat pumps and electric industrial processes.
+- **Efficiency**: using less energy for the same result, through better buildings, appliances, lighting (LEDs) and industrial processes.
+- **Industry**: developing cleaner ways to make steel, cement and chemicals, which are major emitters and hard to decarbonise, using options like **green hydrogen**.
+- **Land and food**: halting deforestation, restoring forests, improving farming practices, reducing food waste and shifting diets towards less emissions-intensive foods.
+- **Methane**: cutting leaks from oil and gas operations, landfills and agriculture. Methane is a powerful short-term warming gas, so cutting it can slow warming quickly.
+- **Carbon removal**: removing CO₂ from the air, through forests or technologies like direct air capture, likely needed for some hard-to-cut emissions, but not a substitute for cutting emissions.
+
+=== text The Paris Agreement and national pledges
+The **Paris Agreement**, adopted in **2015**, is the main international framework for tackling climate change. Under it, each country sets its own emissions targets, called **Nationally Determined Contributions (NDCs)**, and is expected to strengthen them over time.
+
+- **India** has pledged to reach **net-zero** emissions by **2070**, announced in **2021**, and set targets including expanding non-fossil electricity capacity to **500 gigawatts** by **2030** and reducing the emissions intensity of its economy.
+- **China** has pledged to peak emissions before 2030 and reach carbon neutrality before **2060**.
+- The **EU** and **UK** aim for net zero by **2050**.
+- The **United States** has joined and left the agreement as administrations changed, illustrating how domestic politics affect global action.
+
+Current pledges, if fully implemented, would still lead to warming well above 1.5 °C, so pressure continues for faster action.
+
+=== text The question of fairness
+Climate negotiations are shaped by deep questions of **fairness**:
+
+- **Historical responsibility**: the warming we experience today is driven by the **total** CO₂ emitted since the Industrial Revolution. Countries that industrialised early, like the **United States** and European nations, have contributed the largest shares of cumulative emissions. The US alone accounts for roughly a quarter of cumulative CO₂ emissions; India, despite its large population, accounts for only around 3%.
+- **Per-person emissions**: **China** is now the largest annual emitter in total, followed by the US and India. But per person, emissions vary enormously: an average American emits roughly **14 to 15 tonnes** of CO₂ a year, the average Chinese person around 8, and the average Indian around **2**.
+- **Development**: lower-income countries argue they need room to grow their economies, lift people out of poverty and provide energy access, as rich countries did. They call for **“common but differentiated responsibilities”**, a principle recognised in UN climate agreements.
+- **Finance**: developing countries argue that rich countries should provide financial support for clean energy and adaptation. At **COP27** in **2022**, countries agreed to establish a **loss and damage** fund to help vulnerable countries cope with climate impacts.
+
+These debates are not only scientific but ethical and political, connecting to the Philosophy, Economics and Politics regions.
+
+=== reveal Do individual actions matter, or is it all up to governments and companies?
+Both matter, in different ways. The biggest emission cuts require **systemic** changes: clean power grids, public transport, building standards, industrial innovation and international agreements, which depend on governments, businesses and investors. But individual choices add up, especially for higher-income households, whose emissions are much larger. Actions like using public transport, choosing efficient appliances, reducing waste, eating less emissions-intensive food and flying less reduce emissions directly. Perhaps most importantly, individuals influence systemic change as **citizens**, **voters**, **consumers**, **employees** and members of communities, by supporting policies, shaping social norms and driving demand for clean technologies. Researchers have found that visible behaviours, like installing solar panels, can spread through neighbourhoods. Individual and collective action reinforce each other.
+
+=== keypoints
+- Responses combine **mitigation** (cutting emissions) and **adaptation** (coping with changes).
+- Impacts include **heatwaves**, shifting **rainfall**, **food** and **water** risks, **sea-level rise** and threats to **ecosystems**; poorer communities are often hit hardest.
+- The **Paris Agreement (2015)** aims for **well below 2 °C**, pursuing **1.5 °C**; the extra half degree matters greatly, for example for coral reefs.
+- Limiting warming to 1.5 °C requires halving CO₂ emissions by around **2030** and reaching **net zero** around **2050**.
+- Solutions include **clean electricity**, **electrification**, **efficiency**, cleaner **industry**, **land and food** changes, cutting **methane** and some **carbon removal**; solar costs fell about **90%** in a decade.
+- India targets **net zero by 2070** and **500 GW** of non-fossil capacity by **2030**.
+- **Fairness** issues include **historical responsibility**, **per-person emissions**, the right to **development** and **climate finance**.
+
+=== why
+Climate change is one of the defining challenges of your lifetime, and the choices made in the coming decades will shape the world for centuries. Understanding the impacts, the solutions and the fairness debates helps you see beyond both denial and despair, engage with policy discussions thoughtfully, and recognise that the future isn’t fixed: every fraction of a degree of warming avoided matters.

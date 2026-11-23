@@ -1,0 +1,78 @@
+{
+  "id": "earth.atmosphere.1",
+  "region": "earth",
+  "topic": "atmosphere",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Ocean of Air Above Us",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1985**, three British scientists, **Joseph Farman**, **Brian Gardiner** and **Jonathan Shanklin**, published startling results from Antarctica. Each southern spring, the amount of **ozone** in the atmosphere above them had been dropping dramatically, far more than anyone expected. Satellite data, re-examined, confirmed it: a vast **ozone hole** was opening over Antarctica every year.\n\nThe cause was human-made chemicals, mainly **CFCs**, used in refrigerators, aerosol sprays and foams. Within two years, the world agreed the **Montreal Protocol** to phase them out. The thin layer of ozone high above us shields life from harmful ultraviolet radiation, and the episode revealed how fragile, and how important, our atmosphere is."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The **atmosphere** is the layer of gases surrounding Earth, held in place by gravity. Without it, there would be no breathable air, no weather, no protection from harmful radiation and space debris, and temperatures would swing wildly between day and night.\n\nDry air is made mostly of:\n\n- **Nitrogen**: about **78%**.\n- **Oxygen**: about **21%**.\n- **Argon**: about **0.9%**.\n- **Carbon dioxide**: about **0.04%**, or roughly **420 parts per million**, and rising, as you’ll see in the climate lessons.\n- Tiny amounts of other gases, including neon, helium, methane and ozone.\n\nAir also contains varying amounts of **water vapour**, from almost none in cold deserts to around 4% in hot, humid places."
+    },
+    {
+      "type": "text",
+      "heading": "The layers of the atmosphere",
+      "md": "Scientists divide the atmosphere into layers based on how temperature changes with height:\n\n**Troposphere**: from the ground up to about **8 to 18 kilometres** (thicker near the equator, thinner near the poles). It contains about 75 to 80% of the atmosphere’s mass and almost all its water vapour. Nearly all **weather** happens here. Temperature generally falls with height, which is why mountain tops are cold.\n\n**Stratosphere**: from the top of the troposphere up to about **50 km**. It contains the **ozone layer**. Temperature rises with height here, because ozone absorbs ultraviolet radiation. Commercial jets often cruise near the bottom of the stratosphere, above most weather and turbulence.\n\n**Mesosphere**: up to about **85 km**. The coldest part of the atmosphere, with temperatures below −90 °C. Most **meteors** burn up here, creating shooting stars.\n\n**Thermosphere**: up to around 500 to 1,000 km. The air is extremely thin. The **International Space Station** orbits here, and the **auroras** glow here.\n\n**Exosphere**: the outermost layer, fading gradually into space."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the atmosphere as a thin skin on an apple. Most of the air’s mass is within about **16 kilometres** of the surface, which, compared to Earth’s diameter of about 12,700 km, is thinner than an apple’s skin is to the apple. Everything we breathe, all our weather and our protection from space lies in that delicate layer."
+    },
+    {
+      "type": "text",
+      "heading": "Air pressure",
+      "md": "Air has weight. The column of air above you presses down with a force of about **1 kilogram per square centimetre** at sea level: roughly the weight of a small car on every square metre. You don’t feel it because the air inside your body pushes back equally.\n\nAir pressure decreases with height, because there’s less air above you. At the summit of **Mount Everest**, about 8,849 metres high, pressure is only about **one third** of that at sea level, so each breath contains far less oxygen. Most climbers use bottled oxygen; those who don’t risk severe altitude sickness. Aeroplane cabins are pressurised for the same reason."
+    },
+    {
+      "type": "text",
+      "heading": "The natural greenhouse effect",
+      "md": "Sunlight passes through the atmosphere and warms Earth’s surface. The warm surface gives off heat as **infrared** radiation. Certain gases, called **greenhouse gases**, mainly **water vapour** and **carbon dioxide**, plus methane and others, absorb some of this infrared radiation and send part of it back towards the surface, keeping it warmer than it would otherwise be.\n\nThis **natural greenhouse effect** is essential for life. Without it, Earth’s average surface temperature would be around **−18 °C**, a frozen world. With it, the average is about **+15 °C**. The problem, as the climate lessons explain, is that humans are **adding** greenhouse gases, strengthening the effect and warming the planet."
+    },
+    {
+      "type": "steps",
+      "title": "The ozone layer and the Montreal Protocol",
+      "items": [
+        "**Ozone** is a molecule made of three oxygen atoms (O₃). In the stratosphere, it absorbs most of the Sun’s harmful **UV-B** and **UV-C** radiation, which can cause skin cancer, cataracts and damage to crops and marine life.",
+        "In **1974**, chemists **Mario Molina** and **Sherwood Rowland** warned that **CFCs**, chemicals that are stable at ground level, could drift into the stratosphere, where UV light breaks them apart, releasing chlorine atoms.",
+        "A single chlorine atom can destroy many thousands of ozone molecules.",
+        "The discovery of the Antarctic **ozone hole** in **1985** confirmed the danger. Cold Antarctic winters create special clouds that accelerate ozone destruction each spring.",
+        "The **Montreal Protocol** of **1987** committed countries to phase out CFCs and similar chemicals. It became the first UN treaty ratified by every country in the world. India and other developing countries received longer timelines and financial support.",
+        "Scientists project that the ozone layer should recover to 1980 levels by around the **2040s to 2060s**, depending on the region. Molina, Rowland and Paul Crutzen won the 1995 Nobel Prize in Chemistry."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If ozone protects us in the stratosphere, why is it considered a pollutant at ground level?",
+      "md": "Because ozone is the same molecule, but its effects depend on **where** it is. High in the stratosphere, it shields life from UV radiation. Near the ground, ozone forms when pollutants from vehicles and industry, nitrogen oxides and volatile organic compounds, react in sunlight. At breathing level, it irritates the lungs, worsens asthma and damages crops. Ground-level ozone is a major component of summer **smog** in many cities. As the saying goes: ozone is “good up high, bad nearby”. The next lesson explores air pollution in more detail."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **atmosphere** is mostly **nitrogen (78%)** and **oxygen (21%)**, with **argon**, about **0.04% carbon dioxide** and variable **water vapour**.",
+        "Layers: **troposphere** (weather), **stratosphere** (ozone layer), **mesosphere** (meteors), **thermosphere** (ISS, auroras), **exosphere**.",
+        "Most of the atmosphere’s mass is within about **16 km** of the surface.",
+        "Air pressure is about **1 kg per cm²** at sea level and about **one third** of that on Everest.",
+        "The **natural greenhouse effect** keeps Earth at about **+15 °C** instead of **−18 °C**.",
+        "The **ozone hole** (discovered **1985**) was caused by **CFCs**; the **Montreal Protocol (1987)** is helping the ozone layer recover."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The atmosphere makes Earth habitable, shapes the weather and climate, and protects us from radiation. Understanding its structure helps you make sense of weather forecasts, flights, mountain climbing, air pollution and climate change. The story of the ozone layer also shows that global environmental problems can be solved when science is clear and countries act together."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the atmosphere made of, what happens in its main layers, and why would Earth be frozen without the natural greenhouse effect?"
+  }
+}

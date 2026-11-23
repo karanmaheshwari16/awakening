@@ -1,0 +1,312 @@
+##### LESSON
+id: earth.weather.2
+title: Monsoons, Cyclones and Extreme Weather
+minutes: 15
+prereq: earth.weather.1
+check: In your own words: what causes the Indian monsoon, how do tropical cyclones form, and why did cyclone deaths in Odisha fall so dramatically between 1999 and 2013?
+
+=== hook
+In **October 1999**, a super cyclone struck the coast of **Odisha** with winds of over 250 km/h and a storm surge that pushed seawater kilometres inland. Around **10,000** people died. Villages were wiped out; millions were left homeless.
+
+Fourteen years later, in **October 2013**, **Cyclone Phailin**, of similar strength, hit almost the same coast. This time, authorities evacuated around **a million** people in advance, using cyclone shelters, early warnings and a massive coordinated operation. The death toll was **under 50**. In 2019, Cyclone Fani brought a similar success. Nature hadn’t become gentler. What changed was preparation. It’s one of the great disaster-management success stories of recent decades.
+
+=== core
+In the previous lesson, you saw how uneven heating drives the weather. Two weather systems shape life in South Asia more than any others: the **monsoon**, which brings most of the region’s rainfall, and **tropical cyclones**, which bring some of its most destructive storms.
+
+The word **monsoon** comes from the Arabic *mawsim*, meaning “season”. It refers to a seasonal **reversal of winds** that brings dramatically different weather at different times of year. Monsoon systems affect large parts of Asia, Africa, Australia and the Americas, but the **South Asian monsoon** is the largest and most famous.
+
+=== text How the Indian monsoon works
+The monsoon is, at heart, a giant version of the sea breeze from the previous lesson, operating over a whole season and a whole subcontinent:
+
+- In **summer**, the Indian landmass, and especially the high **Tibetan Plateau**, heats up intensely. Hot air rises, creating a large area of **low pressure** over northern India.
+- The Indian Ocean heats up more slowly, so it stays relatively cool, with **higher pressure**.
+- Moist air from the ocean flows towards the land, deflected by Earth’s rotation into **southwesterly winds**.
+- The band of heavy tropical rain, the ITCZ you met in the previous lesson, shifts northward over South Asia.
+- As the moist air rises over the land and the mountains, especially the **Western Ghats** and the **Himalayas**, it cools and drops enormous amounts of rain.
+- In **winter**, the pattern reverses: the land cools faster than the sea, and dry winds blow from the land towards the ocean. This northeast monsoon brings rain to parts of southeastern India, like Tamil Nadu.
+
+=== steps The monsoon’s year
+- The southwest monsoon typically reaches **Kerala** around **1 June**, a date eagerly watched across India.
+- Over the following weeks, it advances northward, usually covering the whole country by around early **July**.
+- From roughly **June to September**, India receives about **70 to 80%** of its annual rainfall.
+- The monsoon withdraws gradually from the northwest, starting from around mid-September.
+- Rainfall varies enormously by region: **Mawsynram** and **Cherrapunji** in Meghalaya are among the wettest places on Earth, while parts of Rajasthan receive very little.
+- The monsoon isn’t steady; it comes in active spells and **breaks**, when rain pauses for days or weeks.
+
+=== callout analogy
+Think of India in summer as a giant stove switched on, with the cooler Indian Ocean beside it. The hot land acts like a chimney, drawing in moist ocean air from the southwest. As that air rises over the hills and mountains, it rains out its moisture. In winter, the stove turns off, the land cools and the flow reverses. The monsoon is the breathing in and breathing out of a whole subcontinent.
+
+=== text Why the monsoon matters so much
+The monsoon is the lifeblood of South Asia:
+
+- **Agriculture**: around half of India’s farmland depends mainly on rainfall rather than irrigation. A good monsoon means good harvests of crops like rice, pulses and cotton; a weak one can mean drought, crop failure, rural distress and higher food prices.
+- **Water supply**: monsoon rains refill reservoirs, rivers and groundwater.
+- **Economy**: monsoon performance affects inflation, rural incomes and economic growth.
+- **Disasters**: heavy monsoon rains can cause **floods** and **landslides**, as in Kerala in 2018 and in the Himalayan states in several recent years.
+
+The **India Meteorological Department (IMD)**, founded in **1875**, issues long-range monsoon forecasts and daily weather warnings.
+
+=== text El Niño and La Niña
+The monsoon is influenced by conditions far away, especially in the Pacific Ocean. Every few years, the waters of the eastern tropical Pacific become unusually warm, an event called **El Niño** (Spanish for “the boy child”, as it was noticed by Peruvian fishermen around Christmas). Its opposite, unusually cool waters, is called **La Niña**.
+
+El Niño shifts patterns of rising air and rainfall across the tropics. It is often, though not always, associated with a **weaker Indian monsoon** and drought, while La Niña often brings stronger monsoons. Another pattern, the **Indian Ocean Dipole**, also affects monsoon rainfall. These links help forecasters, but they’re not perfect predictors.
+
+=== text Tropical cyclones
+A **tropical cyclone** is a large, rotating storm system that forms over warm tropical oceans. They have different names in different regions, but they’re the same phenomenon:
+
+- **Hurricanes** in the Atlantic and northeast Pacific.
+- **Typhoons** in the northwest Pacific.
+- **Cyclones** in the Indian Ocean and around Australia.
+
+Cyclones need warm sea surface temperatures, generally above about **26.5 °C**, to form. Warm, moist air rises over the ocean, releasing heat as water vapour condenses into clouds. This heat powers the storm, drawing in more air at the surface. The Coriolis effect makes the system spin. At its centre is the calm **eye**, surrounded by the **eyewall**, where winds are strongest.
+
+Cyclones cause damage through three main threats:
+
+1. **Extreme winds**, which can exceed 250 km/h.
+2. **Heavy rainfall**, causing flooding and landslides.
+3. **Storm surge**: wind and low pressure push seawater onto the coast, often the deadliest threat. The **1970 Bhola cyclone** in what was then East Pakistan (now Bangladesh) killed an estimated **300,000** or more people, largely from storm surge, one of the deadliest natural disasters in recorded history.
+
+The **Bay of Bengal**, with its warm waters and low-lying, densely populated coasts, is one of the most dangerous regions in the world for cyclones.
+
+=== reveal How did India reduce cyclone deaths so dramatically?
+Through a combination of **better forecasting**, **early warnings**, **infrastructure** and **community preparedness**. After 1999, Odisha set up a dedicated disaster management authority and built hundreds of multi-purpose **cyclone shelters**. Improved satellite monitoring and computer models from the IMD allowed accurate forecasts of a cyclone’s path and strength days in advance. Warnings were spread through radio, television, mobile phones and community volunteers. Authorities carried out large-scale **evacuations**, moving people to shelters before the storm hit. Similar approaches in **Bangladesh**, built around cyclone shelters and community warning networks, have also reduced deaths dramatically since 1970. Damage to property and livelihoods remains enormous, but far fewer people die. It’s a powerful example of how science and preparation can save lives.
+
+=== keypoints
+- The **monsoon** is a seasonal **reversal of winds**; summer heating of the land, especially the **Tibetan Plateau**, draws in moist ocean air.
+- India receives about **70–80%** of its rainfall from **June to September**; the monsoon reaches **Kerala** around **1 June**.
+- The monsoon drives agriculture, water supply and the economy, and can cause floods and landslides.
+- **El Niño** often weakens the Indian monsoon; **La Niña** often strengthens it.
+- **Tropical cyclones** (hurricanes, typhoons) form over seas warmer than about **26.5 °C**; threats include **wind**, **rain** and **storm surge**.
+- Better forecasting, warnings, shelters and evacuations cut cyclone deaths in **Odisha** from about **10,000 (1999)** to **under 50** for **Phailin (2013)**.
+
+=== why
+For over a billion people in South Asia, the monsoon and cyclones aren’t abstract science; they determine harvests, water, livelihoods and safety. Understanding how they work helps you make sense of forecasts and news, appreciate the link between distant oceans and local rainfall, and see how preparation can turn natural hazards from catastrophes into manageable events.
+
+##### LESSON
+id: earth.oceans.1
+title: The Ocean: Earth’s Great Engine
+minutes: 14
+check: In your own words: how do ocean currents move heat around the planet, and why is the ocean so important for regulating Earth’s climate?
+
+=== hook
+In **January 1992**, a cargo ship crossing the Pacific Ocean in a storm lost several containers overboard. One held about **29,000** plastic bath toys: yellow ducks, blue turtles, green frogs and red beavers.
+
+Over the following months and years, the toys began washing up on beaches around the Pacific: in Alaska, Hawaii, South America and Australia. Some drifted north through the Bering Strait into the Arctic, apparently frozen into sea ice. Oceanographers, notably **Curtis Ebbesmeyer**, used reports of where and when the “Friendly Floatees” appeared to study ocean currents. An accident turned into one of the most unusual oceanography experiments ever, revealing how the ocean connects the whole planet.
+
+=== core
+The ocean covers about **71%** of Earth’s surface and holds about **97%** of all its water. Its average depth is around **3.7 kilometres**, and its deepest point, the **Challenger Deep** in the Mariana Trench in the western Pacific, plunges nearly **11 kilometres** below the surface, deeper than Mount Everest is tall.
+
+Though we often speak of separate oceans, the Pacific, Atlantic, Indian, Southern and Arctic, they’re all connected into one **global ocean**.
+
+Seawater is salty, containing on average about **3.5%** dissolved salts, mostly sodium chloride (common salt). The salt comes mainly from rocks on land, slowly dissolved by rain and carried to the sea by rivers, along with minerals from undersea volcanic vents, accumulating over hundreds of millions of years as water evaporates and leaves the salt behind.
+
+=== text Surface currents
+The ocean is constantly moving. **Surface currents**, in roughly the top few hundred metres, are driven mainly by **winds**, like the trade winds you met in the weather lessons, and shaped by the Coriolis effect and the shapes of the continents.
+
+In each major ocean basin, currents form giant rotating loops called **gyres**: clockwise in the Northern Hemisphere and anticlockwise in the Southern Hemisphere.
+
+Some currents carry enormous amounts of heat. The **Gulf Stream** carries warm water from the Gulf of Mexico across the Atlantic towards Europe, helping keep parts of northwestern Europe much milder than other places at similar latitudes. In the Indian Ocean, currents actually **reverse direction** with the monsoon seasons, unlike in any other ocean.
+
+=== text The global conveyor belt
+Deep below the surface, a much slower circulation is driven by differences in water **density**, which depend on temperature and salt content. This is called **thermohaline circulation** (thermo for heat, haline for salt), often nicknamed the **global conveyor belt**.
+
+- In the far North Atlantic and around Antarctica, surface water becomes very cold and salty (when seawater freezes into sea ice, it leaves salt behind). Cold, salty water is dense, so it **sinks** deep into the ocean.
+- This deep water spreads slowly along the ocean floor through the world’s ocean basins.
+- Eventually, it rises back towards the surface in other regions, warms and flows back, completing the loop.
+- A single journey around the conveyor belt is estimated to take around **1,000 years**.
+
+This circulation carries heat, oxygen and nutrients around the planet, and has a major influence on climate.
+
+=== callout analogy
+Think of the ocean as Earth’s central heating system. The tropics are the boiler, absorbing huge amounts of solar heat. Ocean currents are the pipes, carrying warm water towards the cold poles and bringing cold water back. Without this system, the tropics would be much hotter and high latitudes much colder.
+
+=== text The ocean and climate
+The ocean is the planet’s greatest regulator of climate:
+
+- **Heat storage**: water can absorb far more heat than air or land before warming up. The ocean has absorbed over **90%** of the extra heat trapped by rising greenhouse gases in recent decades. Without it, the atmosphere would have warmed far more.
+- **Carbon storage**: the ocean holds about **50 times** more carbon than the atmosphere, and it has absorbed roughly a **quarter** of the carbon dioxide humans have emitted each year, slowing climate change, but with consequences you’ll see in the next lesson.
+- **Weather**: evaporation from the ocean supplies most of the water that falls as rain, including the monsoon. Ocean temperatures fuel cyclones and influence patterns like El Niño.
+
+=== text Life in the ocean
+The ocean is home to an astonishing diversity of life, from microscopic plankton to the **blue whale**, the largest animal known to have ever lived, which can reach around 30 metres long.
+
+Tiny drifting photosynthetic organisms called **phytoplankton** form the base of most ocean food webs. They’re so abundant that, together with other marine photosynthesisers, they produce roughly **half** of the oxygen generated by photosynthesis on Earth.
+
+Much of the deep ocean remains unexplored. Large parts of the seafloor have still not been mapped in high detail; an international project called **Seabed 2030** aims to map it all. Scientists regularly discover new species in the deep sea, including communities around **hydrothermal vents**, discovered in **1977**, where life thrives without sunlight, based on chemical energy from minerals in the hot water.
+
+=== steps Coastal ecosystems that protect us
+- **Mangrove forests** grow along tropical coasts, with tangled roots that thrive in salty water. The **Sundarbans**, shared by India and Bangladesh, is the world’s largest mangrove forest and home to Bengal tigers.
+- Mangroves **buffer storm surges**, reduce coastal erosion, provide nurseries for fish and store large amounts of carbon.
+- **Coral reefs**, built by tiny animals living in partnership with algae, cover less than 1% of the ocean floor but support around a **quarter** of all known marine species. India has reefs in places like the Gulf of Mannar, the Andaman and Nicobar Islands, and Lakshadweep.
+- **Seagrass meadows** shelter marine life and store carbon.
+- Protecting these ecosystems is a cost-effective way to protect coastal communities from storms and support fisheries.
+
+=== reveal Why is the sea blue, and is it really just reflecting the sky?
+Partly, but not mainly. Water itself absorbs **red, orange and yellow** light more strongly than blue light, so as sunlight penetrates deeper, the longer wavelengths are absorbed, and the light that scatters back to your eyes is mostly blue. Reflection of the sky adds to the effect, especially on calm days, but even on cloudy days, deep, clear water looks blue. Where water contains lots of phytoplankton, it can look greener; where rivers carry sediment, it can look brown. Satellites use ocean colour to measure phytoplankton across the globe.
+
+=== keypoints
+- The ocean covers about **71%** of Earth’s surface, holds about **97%** of its water and averages about **3.7 km** deep; the **Challenger Deep** is nearly **11 km** deep.
+- **Surface currents** are driven by winds and form **gyres**; the **Gulf Stream** warms northwestern Europe.
+- **Thermohaline circulation** (the global conveyor belt) is driven by differences in **temperature and salt**, taking about **1,000 years** per loop.
+- The ocean has absorbed over **90%** of extra heat from greenhouse gases and about a **quarter** of human CO₂ emissions.
+- **Phytoplankton** and other marine photosynthesisers produce about **half** of Earth’s photosynthetic oxygen.
+- **Mangroves** (like the **Sundarbans**), **coral reefs** and seagrass protect coasts and support life.
+
+=== why
+The ocean regulates the climate, supplies much of the oxygen you breathe, feeds billions of people and drives the monsoon rains. Understanding it shows why changes far from shore, like warming water or melting ice, affect everyone, including those who live far from the coast. Next, you’ll see the pressures the ocean is under.
+
+##### LESSON
+id: earth.oceans.2
+title: Oceans Under Pressure
+minutes: 15
+prereq: earth.oceans.1
+check: In your own words: what is ocean acidification and why does it matter, why are coral reefs bleaching, and what are two other major threats to the ocean?
+
+=== hook
+In **2016**, divers on Australia’s **Great Barrier Reef**, the largest coral reef system on Earth, visible from space, witnessed something devastating. Vast stretches of normally colourful coral had turned ghostly white. Over the following months, a large share of the corals in the reef’s northern section died.
+
+It happened again in **2017**, and again in 2020, 2022 and 2024. Scientists linked the events to unusually hot ocean water during marine heatwaves. In 2024, the US National Oceanic and Atmospheric Administration confirmed a **fourth global coral bleaching event**, affecting reefs in dozens of countries. Coral reefs are early warning signs of the stress the ocean is under.
+
+=== core
+In the previous lesson, you saw how the ocean regulates climate, absorbing heat and carbon dioxide. But that service comes at a cost. The ocean is under pressure from several directions at once:
+
+1. **Warming**
+2. **Acidification**
+3. **Overfishing**
+4. **Pollution**, especially plastics and nutrients
+5. **Sea-level rise**
+
+These threats often interact, making each other worse.
+
+=== text Warming and marine heatwaves
+As the ocean absorbs extra heat from greenhouse gases, its average temperature is rising. Recent years have set records for ocean heat content.
+
+The ocean is also experiencing more frequent and intense **marine heatwaves**: periods when water temperatures are unusually high for days to months. They can kill fish, seabirds and marine mammals, and devastate coral reefs and kelp forests.
+
+Warming water also expands, contributing to sea-level rise, and holds less oxygen, contributing to the spread of low-oxygen zones.
+
+=== text Coral bleaching
+Corals live in partnership with tiny algae living inside their tissues. The algae photosynthesise, providing the coral with food and giving it its colour; the coral provides shelter.
+
+When water becomes too hot for too long, this partnership breaks down. The stressed coral expels the algae, turning white: **coral bleaching**. Bleached corals aren’t dead, and they can recover if temperatures return to normal quickly enough. But prolonged or repeated bleaching leaves corals starving and vulnerable, and many die.
+
+The **IPCC** has projected that if global warming reaches **1.5 °C**, around **70 to 90%** of warm-water coral reefs could be lost; at **2 °C**, more than **99%**. Coral reefs support fisheries, tourism and coastal protection for hundreds of millions of people.
+
+=== text Ocean acidification
+When carbon dioxide dissolves in seawater, it forms **carbonic acid**. As the ocean has absorbed human CO₂ emissions, its surface waters have become more acidic. Average surface ocean **pH** has fallen by about **0.1** units since before the Industrial Revolution. Because the pH scale is logarithmic, that’s roughly a **30%** increase in acidity.
+
+The ocean isn’t literally becoming acid; it’s still slightly alkaline. But even small changes matter. More acidic water reduces the availability of **carbonate**, which many marine organisms, including corals, oysters, clams, sea urchins and some plankton, need to build their shells and skeletons. Acidification has been called climate change’s “evil twin”, because it comes from the same cause, rising CO₂.
+
+=== callout analogy
+Think of the ocean as a giant sponge soaking up our carbon dioxide. That has slowed climate change, a huge favour to us. But the sponge doesn’t absorb it without changing: the water’s chemistry shifts, making it harder for shell-building creatures to build and maintain their homes. The favour comes with a bill attached.
+
+=== text Overfishing
+Fish provide an important source of protein for billions of people, and fisheries support the livelihoods of tens of millions, including in India’s coastal states. But many fish populations are being caught faster than they can reproduce.
+
+According to the UN Food and Agriculture Organization, roughly **a third** of the world’s assessed fish stocks are fished at biologically unsustainable levels, up from about 10% in the 1970s. A famous warning came from **Newfoundland** in Canada, where the once-enormous **cod** fishery collapsed in the early **1990s** after decades of overfishing, forcing a moratorium that put tens of thousands of people out of work. Decades later, the cod still haven’t fully recovered.
+
+Solutions include science-based catch limits, protecting breeding areas, reducing illegal fishing, cutting harmful subsidies that encourage overfishing, and **marine protected areas**, where fishing is restricted, which can help fish populations recover and spill over into surrounding waters.
+
+=== text Plastic and nutrient pollution
+Each year, an estimated **millions of tonnes** of plastic waste enter the ocean, from rivers, coastlines and fishing gear. Plastic doesn’t biodegrade; it breaks into ever-smaller pieces, called **microplastics**, which are now found from the deepest trenches to Arctic ice, and in seafood, salt and drinking water. Marine animals become entangled in plastic or mistake it for food. Ocean currents concentrate floating debris in gyres, such as the **Great Pacific Garbage Patch**, which is less a solid island than a vast area with high concentrations of plastic fragments.
+
+**Nutrient pollution**, from fertilisers and sewage washing into the sea, feeds explosive growth of algae. When the algae die and decompose, bacteria use up the oxygen in the water, creating **dead zones** where most marine life can’t survive. The Gulf of Mexico has one of the largest, fed by the Mississippi River.
+
+=== steps Rising seas
+- Global average sea level rose by about **20 centimetres** between 1900 and 2020, and the rate of rise has accelerated to around **4 millimetres per year** in recent years.
+- Two main causes: **thermal expansion** (warmer water takes up more space) and **melting land ice**, especially glaciers and the ice sheets of **Greenland** and **Antarctica**. (Melting sea ice, which already floats, doesn’t raise sea level significantly.)
+- Projections for 2100 depend on future emissions, ranging from roughly half a metre to over a metre, with a risk of more if ice sheets become unstable.
+- Rising seas increase coastal flooding, erosion and saltwater intrusion into farmland and drinking water.
+- Low-lying areas are especially vulnerable, including parts of **Mumbai**, **Kolkata**, the **Sundarbans**, Bangladesh, and small island nations like the **Maldives**, much of which lies only around a metre above sea level.
+
+=== reveal Is anything being done to protect the high seas?
+The **high seas**, ocean areas beyond any country’s national jurisdiction, cover nearly half the planet’s surface, but for decades had very little legal protection. In **2023**, after nearly two decades of negotiations, UN members agreed a landmark **High Seas Treaty** (formally the Agreement on Biodiversity Beyond National Jurisdiction), creating a framework for establishing marine protected areas in international waters, assessing the environmental impact of activities and sharing benefits from marine genetic resources more fairly. It reached enough ratifications to come into force, which is an important step towards the global goal of protecting **30%** of the ocean by 2030, though enforcement will be the real test.
+
+=== keypoints
+- The ocean faces **warming**, **acidification**, **overfishing**, **pollution** and **sea-level rise**, which interact.
+- **Marine heatwaves** cause **coral bleaching**; the **Great Barrier Reef** bleached repeatedly from 2016, and a **fourth global bleaching event** was confirmed in **2024**.
+- At **1.5 °C**, 70–90% of warm-water reefs could be lost; at **2 °C**, over 99%.
+- Absorbed CO₂ has made surface oceans about **30% more acidic**, harming shell-building organisms.
+- About **a third** of assessed fish stocks are overfished; the **Newfoundland cod** collapse is a warning.
+- **Plastics** and **nutrient pollution** cause harm and **dead zones**; sea level has risen about **20 cm** since 1900.
+- The **High Seas Treaty (2023)** aims to protect international waters.
+
+=== why
+The ocean’s health directly affects food supplies, coastal communities, the climate and the oxygen in the air. Many of the threats come from activities on land, like burning fossil fuels, using fertilisers and producing plastic, so solutions involve everyone, not just people living by the sea. Understanding these pressures helps you see why ocean protection is part of tackling climate change and biodiversity loss.
+
+##### LESSON
+id: earth.water-cycle.1
+title: The Endless Journey of Water
+minutes: 14
+check: In your own words: what are the main stages of the water cycle, how much of Earth’s water is fresh and accessible, and why are Himalayan glaciers so important for South Asia?
+
+=== hook
+The water you drank today may once have passed through a dinosaur, fallen as rain on an ancient forest, frozen in a glacier for thousands of years and flowed down the Ganges. Earth has roughly the same amount of water today as it did billions of years ago. It just keeps moving.
+
+Each year, the Sun evaporates an astonishing amount of water, around **500,000 cubic kilometres**, from oceans, lakes, soil and plants. That’s enough to cover the whole of India under a layer of water well over a hundred metres deep. All of it eventually falls back to Earth. This endless circulation, the **water cycle**, makes life on land possible.
+
+=== core
+The **water cycle** (or hydrological cycle) is the continuous movement of water between the ocean, the atmosphere and the land. It’s driven mainly by **energy from the Sun** and by **gravity**.
+
+Water constantly changes state, between **liquid**, **gas** (water vapour) and **solid** (ice and snow), as it moves through the cycle. The total amount of water on Earth stays roughly constant; it’s simply redistributed.
+
+=== steps The stages of the water cycle
+- **Evaporation**: the Sun heats water in oceans, lakes and rivers, turning it into invisible water vapour that rises into the air. Most evaporation comes from the ocean.
+- **Transpiration**: plants draw water from the soil through their roots and release water vapour through tiny pores in their leaves. A large tree can release hundreds of litres a day. Together, evaporation and transpiration are called **evapotranspiration**.
+- **Condensation**: as moist air rises and cools, water vapour condenses into tiny droplets, forming **clouds**, as you saw in the weather lessons.
+- **Precipitation**: when droplets or ice crystals grow heavy enough, they fall as **rain**, **snow**, **sleet** or **hail**.
+- **Collection and runoff**: precipitation flows over the land into streams, rivers and lakes, and eventually back to the ocean.
+- **Infiltration**: some water soaks into the ground, filling spaces between soil particles and cracks in rock, becoming **groundwater**, which may flow slowly underground for years or millennia before emerging in springs, rivers or wells.
+- **Storage**: water can be stored for long periods as ice in glaciers and ice sheets, in deep groundwater, in lakes and, for the longest times, in the ocean.
+
+=== text How long does water stay in each place?
+Scientists talk about **residence time**: the average time a water molecule spends in a particular part of the cycle.
+
+- **Atmosphere**: about **9 days** on average, before falling as precipitation.
+- **Rivers**: weeks to months.
+- **Soil moisture**: weeks to months.
+- **Lakes**: years to centuries, depending on size.
+- **Groundwater**: from days in shallow aquifers to **thousands of years** or more in deep ones.
+- **Ocean**: around **3,000 years** on average.
+- **Ice sheets**: hundreds of thousands of years; ice cores from Antarctica contain water that fell as snow over **800,000 years** ago.
+
+=== callout analogy
+Think of Earth’s water as money moving between accounts. The ocean is a huge long-term savings account; the atmosphere is a fast-moving current account, with money constantly flowing in and out within days; groundwater is a fixed deposit that can take years or millennia to mature; glaciers are a frozen trust fund. If you withdraw from slow accounts faster than they’re refilled, as with deep groundwater, the balance falls, even if water keeps flowing through the fast accounts.
+
+=== text How much water can we actually use?
+Although Earth is called the blue planet, very little of its water is available for human use:
+
+- About **97%** of Earth’s water is salty seawater.
+- Only about **2.5%** is fresh water.
+- Of that fresh water, roughly **69%** is locked up in **glaciers and ice sheets**, mainly in Antarctica and Greenland.
+- About **30%** is **groundwater**, much of it deep underground.
+- Only around **1%** of fresh water is in lakes, rivers, soil moisture and the atmosphere, the most accessible sources.
+
+If all Earth’s water fitted in a 1-litre bottle, the fresh water in lakes and rivers would amount to only a small fraction of a single teaspoon.
+
+=== text The water towers of Asia
+The **Himalayas** and the neighbouring **Hindu Kush** and Tibetan Plateau contain the largest store of ice outside the polar regions, which is why they’re sometimes called the **“Third Pole”** or the **“water towers of Asia”**.
+
+Snow and glacier melt from these mountains feed major rivers, including the **Indus**, **Ganges** and **Brahmaputra**, as well as the Yangtze, Mekong and others. These river basins support well over a billion people. In the Ganges basin, the monsoon provides most of the water, but snow and glacier melt are especially important in dry seasons and in the upper Indus basin, where they make up a large share of river flow.
+
+Many Himalayan glaciers are shrinking as the climate warms. A major 2019 assessment by the International Centre for Integrated Mountain Development (ICIMOD) warned that even if global warming is limited to 1.5 °C, around a third of the region’s glaciers could be lost by 2100, and far more with higher warming. In the short term, faster melting can increase river flows and the risk of **glacial lake outburst floods**; in the long term, it could reduce dry-season water supplies.
+
+=== text Groundwater: the hidden reservoir
+Groundwater is stored in **aquifers**: layers of porous rock, sand or gravel that hold water, like a sponge. Wells and tube wells tap into aquifers. Groundwater provides drinking water for billions of people and irrigation for a large share of the world’s crops.
+
+Because it’s hidden, groundwater is easy to overuse. When pumping exceeds the natural rate of recharge from rain and rivers, **water tables** fall, wells must be dug deeper, and in some places the ground itself sinks. You’ll explore this in the next lesson.
+
+=== reveal Does cutting down forests really affect rainfall?
+Yes, it can. Forests are part of the water cycle. Through transpiration, trees return huge amounts of water vapour to the atmosphere, which can fall again as rain further downwind. In the **Amazon**, scientists estimate that a significant share of rainfall in some regions comes from moisture recycled by the forest itself, sometimes described as “flying rivers” carrying moisture across South America. Large-scale deforestation can reduce this recycling, potentially reducing rainfall and making regions drier. Forests also help rainwater soak into the ground, recharging groundwater and reducing floods and soil erosion. Protecting forests is therefore also about protecting water supplies.
+
+=== keypoints
+- The **water cycle** moves water between ocean, atmosphere and land, driven by the **Sun** and **gravity**.
+- Stages: **evaporation**, **transpiration**, **condensation**, **precipitation**, **runoff**, **infiltration** and **storage**.
+- **Residence times** range from about **9 days** in the atmosphere to around **3,000 years** in the ocean and longer in ice.
+- Only about **2.5%** of Earth’s water is fresh, and only about **1%** of that is in lakes, rivers and soil.
+- The **Himalayas** are the “**water towers of Asia**”, feeding the **Indus, Ganges and Brahmaputra**; many glaciers are shrinking.
+- **Groundwater** in **aquifers** is a vital but easily overused hidden reservoir.
+- **Forests** recycle moisture and can influence regional rainfall.
+
+=== why
+Water is essential for drinking, farming, energy and industry, and its availability shapes where people live and how economies grow. Understanding the water cycle helps you see why fresh water is so precious, why glaciers and forests matter far beyond their own regions and why groundwater can run out. The next lesson explores water scarcity and how societies manage shared water.

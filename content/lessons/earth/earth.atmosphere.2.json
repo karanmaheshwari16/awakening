@@ -1,0 +1,82 @@
+{
+  "id": "earth.atmosphere.2",
+  "region": "earth",
+  "topic": "atmosphere",
+  "level": 2,
+  "prerequisites": [],
+  "title": "Air Pollution: The Invisible Killer",
+  "estimated_minutes": 15,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **December 1952**, a thick, yellowish fog settled over London. Cold, still weather trapped smoke from millions of coal fires and factories close to the ground. For five days, visibility in parts of the city dropped to a few metres. Buses were led by people walking with torches. Cattle at a livestock show reportedly suffocated.\n\nAt the time, officials estimated about **4,000** extra deaths; later studies suggest the total may have reached around **10,000 to 12,000**, including deaths in the following months. The **Great Smog** shocked Britain into passing the **Clean Air Act of 1956**, restricting coal burning in cities. Today, air pollution kills far more people worldwide every year, but often more quietly."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Air pollution** is the presence of harmful substances in the air, from both natural sources (dust storms, wildfires, volcanoes) and human activities (burning fuels, industry, farming, construction).\n\nThe World Health Organization estimates that air pollution, both outdoor and indoor, is linked to around **7 million** premature deaths worldwide each year, making it one of the largest environmental threats to health. It contributes to heart disease, strokes, lung cancer, chronic lung disease and respiratory infections, and is increasingly linked to effects on children’s development and on the brain."
+    },
+    {
+      "type": "text",
+      "heading": "The main pollutants",
+      "md": "- **Particulate matter (PM)**: tiny solid and liquid particles suspended in the air. **PM10** particles are smaller than 10 micrometres across; **PM2.5** are smaller than **2.5 micrometres**, about **30 times** thinner than a human hair. PM2.5 is especially dangerous because it can penetrate deep into the lungs and even enter the bloodstream.\n- **Nitrogen dioxide (NO₂)**: mainly from vehicle exhausts and power plants; irritates airways.\n- **Sulphur dioxide (SO₂)**: from burning coal and oil containing sulphur; contributes to acid rain and particles.\n- **Ground-level ozone**: formed from other pollutants in sunlight, as you saw in the previous lesson.\n- **Carbon monoxide (CO)**: a colourless, odourless gas from incomplete burning that reduces the blood’s ability to carry oxygen.\n\nIn **2021**, the WHO tightened its air quality guidelines, recommending that annual average PM2.5 levels should not exceed **5 micrograms per cubic metre**. A large majority of the world’s population lives in places exceeding this guideline, and many cities exceed it many times over."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of PM2.5 particles as the finest dust imaginable: so small that the body’s usual defences, like nose hairs and mucus, can’t filter them out. Larger particles get caught at the door; PM2.5 slips straight past the security guards and into the deepest rooms of your lungs, and even into your bloodstream."
+    },
+    {
+      "type": "text",
+      "heading": "Why north India’s winters are so polluted",
+      "md": "Cities in the Indo-Gangetic Plain, including **Delhi**, regularly rank among the most polluted in the world, especially from late October to January. Several factors combine:\n\n- **Many sources**: vehicles, industry, power plants, construction dust, burning waste and household fuels.\n- **Crop residue burning**: after the rice harvest in Punjab and Haryana, many farmers burn the leftover stubble to clear fields quickly for the next crop, sending smoke across the region. Its share of Delhi’s pollution varies a lot day to day.\n- **Festival fireworks** can cause short-term spikes.\n- **Weather and geography**: in winter, cold air near the ground gets trapped under warmer air above, a **temperature inversion**, which acts like a lid, preventing pollution from rising and dispersing. Winds are often weak. The Himalayas to the north also limit how air moves out of the plain.\n\nStudies estimate that long-term exposure to pollution at these levels can shorten average life expectancy in parts of north India by several years."
+    },
+    {
+      "type": "text",
+      "heading": "Pollution inside the home",
+      "md": "**Household air pollution** is a major problem in many developing countries. Cooking over open fires or simple stoves burning wood, dung, crop waste or coal fills homes with smoke, exposing women and children, who often spend the most time near the stove, to very high pollution levels.\n\nIndia launched the **Pradhan Mantri Ujjwala Yojana** in **2016** to provide liquefied petroleum gas (LPG) connections to poor households, reaching tens of millions of families. Studies suggest it has expanded access considerably, though cost of refills has meant some households still use traditional fuels part of the time."
+    },
+    {
+      "type": "steps",
+      "title": "How cities have cleaned their air",
+      "items": [
+        "**London**: after the Great Smog, the Clean Air Act of 1956 created smoke-free zones and encouraged cleaner fuels. Coal smoke fell dramatically. More recently, an **Ultra Low Emission Zone** charges older, more polluting vehicles.",
+        "**Beijing**: in **2013**, after severe smog episodes, China launched an action plan to tackle air pollution: closing or upgrading coal plants, switching homes from coal to gas or electricity, restricting vehicles and relocating heavy industry. Average PM2.5 levels in Beijing fell substantially over the following decade, though they remain above WHO guidelines.",
+        "**United States**: the **Clean Air Act** of 1970 and later amendments set national standards. Emissions of major pollutants fell sharply even as the economy grew.",
+        "**India**: the **National Clean Air Programme**, launched in **2019**, set targets to reduce particulate pollution in more than 100 cities. Other measures include stricter vehicle emission standards (leaping to **Bharat Stage VI** in 2020), shifting public transport to CNG and electricity, and efforts to provide alternatives to stubble burning.",
+        "Common lessons: clear standards, enforcement, monitoring, cleaner energy and regional cooperation, since pollution crosses city and state boundaries."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Measuring pollution: the AQI",
+      "md": "Many countries publish an **Air Quality Index (AQI)**, which converts pollutant concentrations into a simple number and colour scale. India’s national AQI, launched in **2014**, ranges from “Good” to “Severe”. The scales differ between countries, so the same number may not mean the same thing everywhere.\n\nOn high-pollution days, health advice often includes reducing strenuous outdoor activity, especially for children, older people and those with heart or lung conditions, keeping windows closed during peak pollution, and using well-fitted masks rated for fine particles, such as N95 masks, if going outside. Indoor air purifiers with good filters can help in homes."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What is acid rain, and is it still a problem?",
+      "md": "**Acid rain** forms when sulphur dioxide and nitrogen oxides from burning fossil fuels react with water in the atmosphere to form acids, which fall as rain, snow or fog. In the 1970s and 1980s, it damaged forests, acidified lakes, killing fish, and eroded buildings and monuments in Europe and North America. In India, there were concerns that pollution from nearby industry was yellowing and damaging the marble of the **Taj Mahal**, leading the Supreme Court to restrict polluting industries in the surrounding area in the 1990s. Laws cutting sulphur emissions, including the US cap-and-trade programme you met in the Economics region, greatly reduced acid rain in many Western countries. It remains a concern in some rapidly industrialising regions."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Air pollution is linked to around **7 million** premature deaths a year worldwide (WHO).",
+        "**PM2.5** particles, about 30 times thinner than a hair, penetrate deep into the lungs and bloodstream; the WHO guideline is an annual average of **5 µg/m³**.",
+        "Other pollutants include **NO₂**, **SO₂**, **ground-level ozone** and **carbon monoxide**.",
+        "North India’s winter pollution comes from many sources plus **stubble burning** and **temperature inversions**.",
+        "**Household air pollution** from cooking fuels harms women and children; India’s **Ujjwala** scheme expanded LPG access.",
+        "**London (1956)**, the **US (1970)** and **Beijing (2013 onward)** show air can be cleaned with strong policies; India launched the **NCAP** in 2019."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The air you breathe affects your health every day, and in many parts of India and the world, air pollution is one of the biggest threats to life expectancy. Understanding where pollution comes from, how it harms the body and what has worked elsewhere helps you protect yourself, interpret air quality reports and engage with one of the most important public health issues of our time."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is PM2.5 and why is it so harmful, what causes severe winter pollution in north India, and what are two examples of places that cleaned up their air?"
+  }
+}

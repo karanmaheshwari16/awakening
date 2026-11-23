@@ -1,0 +1,79 @@
+{
+  "id": "earth.climate-change.1",
+  "region": "earth",
+  "topic": "climate-change",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Climate Change: What the Evidence Shows",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1958**, a young American scientist named **Charles David Keeling** began measuring carbon dioxide in the air at an observatory high on the slopes of **Mauna Loa**, a volcano in Hawaii, far from cities and factories. He wanted precise measurements of the background level of CO₂ in the atmosphere.\n\nWithin a few years, he noticed two patterns. CO₂ rose and fell slightly each year, as Northern Hemisphere plants absorbed it in summer and released it in winter, as if the planet were breathing. And beneath that rhythm, the overall level was **steadily rising**. When Keeling began, it was about **315 parts per million**. Today, it’s over **420**. The **Keeling Curve**, still measured today, is one of the most important records in science."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Climate change** refers to long-term shifts in global and regional climate patterns. Today, it usually refers to the rapid warming of Earth since the late 19th century, driven mainly by human activities, especially burning **fossil fuels** (coal, oil and gas), which releases carbon dioxide and other **greenhouse gases**.\n\nIn the atmosphere lessons, you saw that the natural greenhouse effect keeps Earth habitable. By adding large amounts of greenhouse gases, humans are **enhancing** that effect, trapping more heat and warming the planet.\n\nThe scientific basics have been understood for a long time:\n\n- In the **1820s**, the French mathematician **Joseph Fourier** realised that the atmosphere must trap heat to keep Earth as warm as it is.\n- In **1856**, the American scientist **Eunice Foote** showed experimentally that carbon dioxide traps heat from the Sun, warming air in glass cylinders.\n- In **1859**, the Irish physicist **John Tyndall** measured how gases like water vapour and CO₂ absorb infrared radiation.\n- In **1896**, the Swedish chemist **Svante Arrhenius** calculated that doubling atmospheric CO₂ would warm the planet by several degrees."
+    },
+    {
+      "type": "text",
+      "heading": "How much has Earth warmed?",
+      "md": "Global average surface temperature has risen by roughly **1.2 to 1.3 °C** since the late 19th century, the period before large-scale fossil fuel use, often called the **pre-industrial** baseline. In **2024**, the hottest year on record, global temperatures were, for the first time over a full calendar year, around **1.5 °C** above pre-industrial levels, though the long-term average remains a little lower, partly because of a strong El Niño that year.\n\nThat may sound small, but it’s a global **average** across land and ocean, day and night, all seasons. Warming over land is greater than over the ocean, and the **Arctic** has warmed around **three to four times** faster than the global average. For comparison, the difference between today’s climate and the depths of the last ice age, when ice sheets covered much of North America and Europe, was only around **5 to 6 °C** of global average temperature."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of greenhouse gases as a blanket over the planet. A thin blanket keeps you comfortably warm at night; that’s the natural greenhouse effect. Adding CO₂ is like steadily thickening the blanket. Even a modestly thicker blanket, kept on night after night, makes you uncomfortably hot. Humans have been thickening Earth’s blanket faster than at any time in at least hundreds of thousands of years."
+    },
+    {
+      "type": "text",
+      "heading": "Multiple lines of evidence",
+      "md": "Climate scientists are confident because many independent lines of evidence point the same way:\n\n- **Thermometer records**: thousands of weather stations, ships and buoys show global warming since the late 1800s. Each of the last several decades has been warmer than the one before.\n- **Ocean heat**: as you saw in the oceans lessons, the ocean has absorbed most of the extra heat, and its heat content keeps setting records.\n- **Melting ice**: mountain glaciers are retreating worldwide, including in the Himalayas. The **Greenland** and **Antarctic** ice sheets are losing ice. **Arctic sea ice** in late summer has shrunk dramatically since satellite records began in 1979.\n- **Rising seas**: global sea level has risen about **20 cm** since 1900, and the rate is accelerating.\n- **Ecosystems**: many plants and animals are shifting towards the poles and to higher altitudes; spring events like flowering are happening earlier.\n- **Ice cores**: air bubbles trapped in Antarctic ice reveal atmospheric CO₂ levels over the past **800,000 years**. Throughout that time, CO₂ rose and fell with ice ages, but never came close to today’s levels; it stayed below about 300 parts per million."
+    },
+    {
+      "type": "steps",
+      "title": "How we know humans are responsible",
+      "items": [
+        "**Timing**: the rise in CO₂ and temperatures closely follows the growth of fossil fuel use since the Industrial Revolution.",
+        "**Quantity**: humans release tens of billions of tonnes of CO₂ each year, more than enough to explain the observed rise, even though the ocean and land absorb about half.",
+        "**Chemical fingerprint**: carbon from fossil fuels has a distinctive ratio of carbon isotopes (and lacks carbon-14, which has decayed away over millions of years). The changing isotope ratios in atmospheric CO₂ show that the extra carbon comes from fossil fuels, not volcanoes or the ocean.",
+        "**Ruling out natural causes**: the Sun’s output has been roughly flat or slightly declining since the 1950s, while temperatures have climbed. Volcanoes emit far less CO₂ than humans, and major eruptions actually cause temporary **cooling**.",
+        "**The pattern of warming**: the lower atmosphere is warming while the upper atmosphere (stratosphere) is **cooling**, exactly what you’d expect from more greenhouse gases, but not from a brighter Sun, which would warm both.",
+        "**Climate models**: computer models that include human emissions reproduce observed warming; models with only natural factors don’t."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The scientific consensus",
+      "md": "The **Intergovernmental Panel on Climate Change (IPCC)**, set up by the UN in **1988**, regularly assesses the scientific literature, involving thousands of scientists from around the world, including India. Its **2021** report stated that it is “**unequivocal** that human influence has warmed the atmosphere, ocean and land”.\n\nMultiple studies of published climate research have found that around **97%** or more of climate scientists actively publishing agree that recent warming is mainly caused by humans; more recent analyses put the figure above **99%**. National science academies around the world, including the **Indian National Science Academy**, have endorsed this conclusion.\n\nScientists still debate many details: exactly how sensitive the climate is to CO₂, how fast ice sheets will melt, and how regional rainfall will change. But the core conclusion, that humans are warming the planet, is as firmly established as almost anything in science."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If CO₂ is only 0.04% of the atmosphere, how can it have such a big effect?",
+      "md": "Because what matters is not how common a gas is, but how it **interacts with heat**. Nitrogen and oxygen, which make up 99% of the atmosphere, are almost transparent to infrared radiation; they barely trap heat at all. CO₂ molecules, by contrast, strongly absorb and re-emit infrared radiation at certain wavelengths. Small concentrations can have big effects, just as a small amount of ink can colour a whole glass of water, or a tiny dose of a medicine can affect the whole body. Since pre-industrial times, CO₂ concentrations have risen by about **50%**, from roughly 280 to over 420 parts per million, a large change in an important heat-trapping gas."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Climate change** today mainly means rapid warming driven by human greenhouse gas emissions, especially from **fossil fuels**.",
+        "The physics was established by **Fourier**, **Foote (1856)**, **Tyndall (1859)** and **Arrhenius (1896)**.",
+        "The **Keeling Curve** shows CO₂ rising from about **315 ppm (1958)** to over **420 ppm**; about **280 ppm** before industrialisation.",
+        "Earth has warmed about **1.2–1.3 °C** since pre-industrial times; **2024** was around **1.5 °C** above; the **Arctic** warms 3–4 times faster.",
+        "Evidence: **thermometers**, **ocean heat**, **melting ice**, **rising seas**, shifting **ecosystems** and **ice cores**.",
+        "Human causation is shown by **timing**, **quantity**, **isotopic fingerprints**, **ruling out natural causes** and the **pattern of warming**.",
+        "The **IPCC (2021)** called human influence **unequivocal**; scientific agreement is around **97–99%** or more."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Climate change will shape the world you live in for the rest of your life, affecting weather, water, food, health, economies and politics. Understanding the evidence lets you separate well-established science from genuine uncertainty and from misinformation. The final lesson in this region looks at the impacts and the solutions, and the hard questions of fairness involved."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does adding carbon dioxide warm the planet, what are three independent lines of evidence for climate change, and how do scientists know humans are the main cause?"
+  }
+}

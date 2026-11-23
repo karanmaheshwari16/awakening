@@ -1,0 +1,86 @@
+{
+  "id": "earth.plates.2",
+  "region": "earth",
+  "topic": "plates",
+  "level": 2,
+  "prerequisites": [
+    "earth.plates.1"
+  ],
+  "title": "Earthquakes, Volcanoes and a Restless Planet",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On the morning of **26 December 2004**, an undersea earthquake of magnitude **9.1** struck off the coast of Sumatra, Indonesia, one of the most powerful ever recorded. A section of seafloor more than 1,000 kilometres long lurched upward by several metres, lifting a vast column of ocean water.\n\nThe resulting **tsunami** raced across the Indian Ocean at the speed of a jet airliner. Within hours, waves up to 30 metres high struck coasts in Indonesia, Sri Lanka, India, Thailand and as far away as East Africa. Around **230,000** people died in 14 countries, including over 10,000 in India, along the coasts of Tamil Nadu, Kerala and the Andaman and Nicobar Islands. There was no warning system in the Indian Ocean. Today there is, and India runs one of its key centres."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that Earth’s outer shell is broken into moving **tectonic plates**. Where plates meet, enormous forces build up. **Earthquakes** and **volcanoes** are the most dramatic results.\n\nPlates don’t slide past each other smoothly. Along **faults**, the boundaries where rocks break and move, friction locks the rocks together while stress slowly builds up over years, decades or centuries. When the stress finally overcomes the friction, the rocks suddenly slip, releasing energy as **seismic waves** that shake the ground. That’s an earthquake.\n\nThe point underground where the slip begins is the **focus** (or hypocentre); the point on the surface directly above it is the **epicentre**."
+    },
+    {
+      "type": "text",
+      "heading": "Measuring earthquakes",
+      "md": "Earthquake size is usually measured by **magnitude**. Scientists now mostly use the **moment magnitude scale**, which replaced the older Richter scale for large quakes, though news reports often still say “Richter”.\n\nThe scale is **logarithmic**: each whole number increase represents about **32 times more energy** released. A magnitude 7 earthquake releases about 32 times more energy than a magnitude 6, and about **1,000 times** more than a magnitude 5. The 2004 magnitude 9.1 earthquake released roughly as much energy as tens of thousands of the largest nuclear weapons ever tested.\n\nMagnitude isn’t the only factor in damage. Depth, distance from cities, local soil and, above all, the quality of buildings matter enormously."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a fault like bending a stick slowly in your hands. At first, it just flexes, storing energy. You keep bending, and it keeps flexing. Then suddenly, with a snap, it breaks and the stored energy is released all at once, sending vibrations up your arms. An earthquake is a fault snapping after years of slowly building stress."
+    },
+    {
+      "type": "text",
+      "heading": "Earthquakes in India and its neighbours",
+      "md": "India sits on a moving plate pushing north into Asia, as you saw with the formation of the Himalayas. This makes much of northern India, the Himalayas and the northeast highly earthquake-prone.\n\n- The **2001 Bhuj earthquake** in Gujarat, magnitude **7.7**, killed around **20,000** people and destroyed hundreds of thousands of buildings.\n- The **2015 Gorkha earthquake** in Nepal, magnitude **7.8**, killed nearly **9,000** people and damaged historic temples in Kathmandu.\n- Scientists warn that parts of the Himalayan front have not had a major rupture for centuries and are storing strain, though no one can predict exactly when a large earthquake will occur."
+    },
+    {
+      "type": "text",
+      "heading": "Tsunamis",
+      "md": "When an undersea earthquake suddenly lifts or drops the seafloor, it displaces a huge volume of water, creating a **tsunami** (Japanese for “harbour wave”). In the deep ocean, a tsunami may be less than a metre high and travel at **700 km/h** or more, passing unnoticed beneath ships. As it reaches shallow water near the coast, it slows down and the water piles up into towering waves.\n\nA warning sign is the sea suddenly **retreating** far from the shore, exposing the seabed. In 2004, many people walked out to look, not realising a wave was coming. After the disaster, countries built the **Indian Ocean Tsunami Warning System**. India’s **Indian National Centre for Ocean Information Services (INCOIS)** in Hyderabad began operating a tsunami warning centre in **2007**, using seismic sensors and ocean buoys to issue alerts within minutes."
+    },
+    {
+      "type": "text",
+      "heading": "Volcanoes",
+      "md": "A **volcano** is an opening in Earth’s crust where molten rock, called **magma** underground and **lava** once it erupts, along with gases and ash, escapes from below. Most volcanoes form at plate boundaries: where plates pull apart, as in Iceland, or where one plate sinks beneath another, as in Japan, Indonesia and the Andes. Others form over **hotspots**, plumes of hot material rising from deep in the mantle, like Hawaii.\n\n- **Shield volcanoes**, like those in Hawaii, have runny lava that flows long distances, building broad, gentle slopes.\n- **Stratovolcanoes**, like Mount Fuji or Mount Vesuvius, have thicker, stickier magma that traps gas, leading to explosive eruptions.\n\nIn **79 CE**, Vesuvius buried the Roman towns of **Pompeii** and Herculaneum under ash and hot gas. India’s only confirmed active volcano is on **Barren Island** in the Andaman Sea, which has erupted several times since the 1990s."
+    },
+    {
+      "type": "steps",
+      "title": "How scientists discovered Earth’s interior",
+      "items": [
+        "No one has drilled more than about **12 kilometres** into Earth, a tiny scratch compared with its radius of about 6,370 km. So how do we know what’s inside?",
+        "Earthquakes send **seismic waves** through the planet. There are different types: some (P-waves) can travel through solids and liquids; others (S-waves) can only travel through solids.",
+        "Seismometers around the world record when and where waves arrive. Their paths bend and change speed as they pass through different materials.",
+        "Scientists noticed a “shadow zone” on the opposite side of Earth from large earthquakes, where S-waves never arrive. This revealed that Earth has a **liquid outer core** that blocks them.",
+        "In **1936**, the Danish seismologist **Inge Lehmann** noticed faint P-waves arriving in the shadow zone, and deduced that inside the liquid outer core there must be a **solid inner core**.",
+        "Today’s picture: a thin rocky **crust**; a thick, hot, slowly flowing **mantle**; a liquid iron-nickel **outer core**, whose motion generates Earth’s magnetic field; and a solid **inner core**, about as hot as the surface of the Sun."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can scientists predict earthquakes?",
+      "md": "Not precisely. Scientists can identify **where** large earthquakes are likely, using fault maps, past earthquakes and measurements of how much strain is building, and estimate the **probability** of a major quake in a region over decades. But predicting the exact **time**, place and size of a specific earthquake remains beyond current science. What is possible is **earthquake early warning**: sensors detect the first, faster but weaker waves and send alerts seconds to tens of seconds before stronger shaking arrives, giving time to stop trains, shut gas lines and take cover. Japan and parts of the US have such systems. The most effective protection is still **earthquake-resistant buildings**: engineers often say that earthquakes don’t kill people, collapsing buildings do. Building codes, if properly enforced, save enormous numbers of lives."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Earthquakes** happen when stress builds up along **faults** and rocks suddenly slip, releasing **seismic waves**.",
+        "The **moment magnitude** scale is logarithmic: each whole number is about **32 times** more energy.",
+        "India’s plate collision makes the **Himalayas** and north India earthquake-prone; **Bhuj (2001)** and **Gorkha (2015)** were deadly examples.",
+        "**Tsunamis** come from undersea quakes; the **2004** tsunami killed about **230,000** people; India’s **INCOIS** now issues warnings.",
+        "**Volcanoes** form at plate boundaries and hotspots; **shield** and **stratovolcanoes** erupt differently.",
+        "Seismic waves revealed Earth’s **crust, mantle, liquid outer core** and **solid inner core** (Lehmann, 1936).",
+        "Earthquakes can’t be precisely predicted; **early warning** and **resistant buildings** save lives."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Hundreds of millions of people, including many in India, live in earthquake, volcano or tsunami zones. Understanding these hazards helps you make sense of risk maps, building codes and warning systems, and know what to do if disaster strikes. It also shows how scientists can investigate places no one will ever visit, like Earth’s core, using clever reasoning from indirect evidence."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what causes earthquakes and tsunamis, how did scientists discover what Earth’s interior is like, and why is building design so important in earthquake zones?"
+  }
+}

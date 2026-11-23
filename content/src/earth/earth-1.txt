@@ -1,0 +1,287 @@
+##### LESSON
+id: earth.plates.2
+title: Earthquakes, Volcanoes and a Restless Planet
+minutes: 15
+prereq: earth.plates.1
+check: In your own words: what causes earthquakes and tsunamis, how did scientists discover what Earth’s interior is like, and why is building design so important in earthquake zones?
+
+=== hook
+On the morning of **26 December 2004**, an undersea earthquake of magnitude **9.1** struck off the coast of Sumatra, Indonesia, one of the most powerful ever recorded. A section of seafloor more than 1,000 kilometres long lurched upward by several metres, lifting a vast column of ocean water.
+
+The resulting **tsunami** raced across the Indian Ocean at the speed of a jet airliner. Within hours, waves up to 30 metres high struck coasts in Indonesia, Sri Lanka, India, Thailand and as far away as East Africa. Around **230,000** people died in 14 countries, including over 10,000 in India, along the coasts of Tamil Nadu, Kerala and the Andaman and Nicobar Islands. There was no warning system in the Indian Ocean. Today there is, and India runs one of its key centres.
+
+=== core
+In the previous lesson, you saw that Earth’s outer shell is broken into moving **tectonic plates**. Where plates meet, enormous forces build up. **Earthquakes** and **volcanoes** are the most dramatic results.
+
+Plates don’t slide past each other smoothly. Along **faults**, the boundaries where rocks break and move, friction locks the rocks together while stress slowly builds up over years, decades or centuries. When the stress finally overcomes the friction, the rocks suddenly slip, releasing energy as **seismic waves** that shake the ground. That’s an earthquake.
+
+The point underground where the slip begins is the **focus** (or hypocentre); the point on the surface directly above it is the **epicentre**.
+
+=== text Measuring earthquakes
+Earthquake size is usually measured by **magnitude**. Scientists now mostly use the **moment magnitude scale**, which replaced the older Richter scale for large quakes, though news reports often still say “Richter”.
+
+The scale is **logarithmic**: each whole number increase represents about **32 times more energy** released. A magnitude 7 earthquake releases about 32 times more energy than a magnitude 6, and about **1,000 times** more than a magnitude 5. The 2004 magnitude 9.1 earthquake released roughly as much energy as tens of thousands of the largest nuclear weapons ever tested.
+
+Magnitude isn’t the only factor in damage. Depth, distance from cities, local soil and, above all, the quality of buildings matter enormously.
+
+=== callout analogy
+Think of a fault like bending a stick slowly in your hands. At first, it just flexes, storing energy. You keep bending, and it keeps flexing. Then suddenly, with a snap, it breaks and the stored energy is released all at once, sending vibrations up your arms. An earthquake is a fault snapping after years of slowly building stress.
+
+=== text Earthquakes in India and its neighbours
+India sits on a moving plate pushing north into Asia, as you saw with the formation of the Himalayas. This makes much of northern India, the Himalayas and the northeast highly earthquake-prone.
+
+- The **2001 Bhuj earthquake** in Gujarat, magnitude **7.7**, killed around **20,000** people and destroyed hundreds of thousands of buildings.
+- The **2015 Gorkha earthquake** in Nepal, magnitude **7.8**, killed nearly **9,000** people and damaged historic temples in Kathmandu.
+- Scientists warn that parts of the Himalayan front have not had a major rupture for centuries and are storing strain, though no one can predict exactly when a large earthquake will occur.
+
+=== text Tsunamis
+When an undersea earthquake suddenly lifts or drops the seafloor, it displaces a huge volume of water, creating a **tsunami** (Japanese for “harbour wave”). In the deep ocean, a tsunami may be less than a metre high and travel at **700 km/h** or more, passing unnoticed beneath ships. As it reaches shallow water near the coast, it slows down and the water piles up into towering waves.
+
+A warning sign is the sea suddenly **retreating** far from the shore, exposing the seabed. In 2004, many people walked out to look, not realising a wave was coming. After the disaster, countries built the **Indian Ocean Tsunami Warning System**. India’s **Indian National Centre for Ocean Information Services (INCOIS)** in Hyderabad began operating a tsunami warning centre in **2007**, using seismic sensors and ocean buoys to issue alerts within minutes.
+
+=== text Volcanoes
+A **volcano** is an opening in Earth’s crust where molten rock, called **magma** underground and **lava** once it erupts, along with gases and ash, escapes from below. Most volcanoes form at plate boundaries: where plates pull apart, as in Iceland, or where one plate sinks beneath another, as in Japan, Indonesia and the Andes. Others form over **hotspots**, plumes of hot material rising from deep in the mantle, like Hawaii.
+
+- **Shield volcanoes**, like those in Hawaii, have runny lava that flows long distances, building broad, gentle slopes.
+- **Stratovolcanoes**, like Mount Fuji or Mount Vesuvius, have thicker, stickier magma that traps gas, leading to explosive eruptions.
+
+In **79 CE**, Vesuvius buried the Roman towns of **Pompeii** and Herculaneum under ash and hot gas. India’s only confirmed active volcano is on **Barren Island** in the Andaman Sea, which has erupted several times since the 1990s.
+
+=== steps How scientists discovered Earth’s interior
+- No one has drilled more than about **12 kilometres** into Earth, a tiny scratch compared with its radius of about 6,370 km. So how do we know what’s inside?
+- Earthquakes send **seismic waves** through the planet. There are different types: some (P-waves) can travel through solids and liquids; others (S-waves) can only travel through solids.
+- Seismometers around the world record when and where waves arrive. Their paths bend and change speed as they pass through different materials.
+- Scientists noticed a “shadow zone” on the opposite side of Earth from large earthquakes, where S-waves never arrive. This revealed that Earth has a **liquid outer core** that blocks them.
+- In **1936**, the Danish seismologist **Inge Lehmann** noticed faint P-waves arriving in the shadow zone, and deduced that inside the liquid outer core there must be a **solid inner core**.
+- Today’s picture: a thin rocky **crust**; a thick, hot, slowly flowing **mantle**; a liquid iron-nickel **outer core**, whose motion generates Earth’s magnetic field; and a solid **inner core**, about as hot as the surface of the Sun.
+
+=== reveal Can scientists predict earthquakes?
+Not precisely. Scientists can identify **where** large earthquakes are likely, using fault maps, past earthquakes and measurements of how much strain is building, and estimate the **probability** of a major quake in a region over decades. But predicting the exact **time**, place and size of a specific earthquake remains beyond current science. What is possible is **earthquake early warning**: sensors detect the first, faster but weaker waves and send alerts seconds to tens of seconds before stronger shaking arrives, giving time to stop trains, shut gas lines and take cover. Japan and parts of the US have such systems. The most effective protection is still **earthquake-resistant buildings**: engineers often say that earthquakes don’t kill people, collapsing buildings do. Building codes, if properly enforced, save enormous numbers of lives.
+
+=== keypoints
+- **Earthquakes** happen when stress builds up along **faults** and rocks suddenly slip, releasing **seismic waves**.
+- The **moment magnitude** scale is logarithmic: each whole number is about **32 times** more energy.
+- India’s plate collision makes the **Himalayas** and north India earthquake-prone; **Bhuj (2001)** and **Gorkha (2015)** were deadly examples.
+- **Tsunamis** come from undersea quakes; the **2004** tsunami killed about **230,000** people; India’s **INCOIS** now issues warnings.
+- **Volcanoes** form at plate boundaries and hotspots; **shield** and **stratovolcanoes** erupt differently.
+- Seismic waves revealed Earth’s **crust, mantle, liquid outer core** and **solid inner core** (Lehmann, 1936).
+- Earthquakes can’t be precisely predicted; **early warning** and **resistant buildings** save lives.
+
+=== why
+Hundreds of millions of people, including many in India, live in earthquake, volcano or tsunami zones. Understanding these hazards helps you make sense of risk maps, building codes and warning systems, and know what to do if disaster strikes. It also shows how scientists can investigate places no one will ever visit, like Earth’s core, using clever reasoning from indirect evidence.
+
+##### LESSON
+id: earth.atmosphere.1
+title: The Ocean of Air Above Us
+minutes: 14
+check: In your own words: what is the atmosphere made of, what happens in its main layers, and why would Earth be frozen without the natural greenhouse effect?
+
+=== hook
+In **1985**, three British scientists, **Joseph Farman**, **Brian Gardiner** and **Jonathan Shanklin**, published startling results from Antarctica. Each southern spring, the amount of **ozone** in the atmosphere above them had been dropping dramatically, far more than anyone expected. Satellite data, re-examined, confirmed it: a vast **ozone hole** was opening over Antarctica every year.
+
+The cause was human-made chemicals, mainly **CFCs**, used in refrigerators, aerosol sprays and foams. Within two years, the world agreed the **Montreal Protocol** to phase them out. The thin layer of ozone high above us shields life from harmful ultraviolet radiation, and the episode revealed how fragile, and how important, our atmosphere is.
+
+=== core
+The **atmosphere** is the layer of gases surrounding Earth, held in place by gravity. Without it, there would be no breathable air, no weather, no protection from harmful radiation and space debris, and temperatures would swing wildly between day and night.
+
+Dry air is made mostly of:
+
+- **Nitrogen**: about **78%**.
+- **Oxygen**: about **21%**.
+- **Argon**: about **0.9%**.
+- **Carbon dioxide**: about **0.04%**, or roughly **420 parts per million**, and rising, as you’ll see in the climate lessons.
+- Tiny amounts of other gases, including neon, helium, methane and ozone.
+
+Air also contains varying amounts of **water vapour**, from almost none in cold deserts to around 4% in hot, humid places.
+
+=== text The layers of the atmosphere
+Scientists divide the atmosphere into layers based on how temperature changes with height:
+
+**Troposphere**: from the ground up to about **8 to 18 kilometres** (thicker near the equator, thinner near the poles). It contains about 75 to 80% of the atmosphere’s mass and almost all its water vapour. Nearly all **weather** happens here. Temperature generally falls with height, which is why mountain tops are cold.
+
+**Stratosphere**: from the top of the troposphere up to about **50 km**. It contains the **ozone layer**. Temperature rises with height here, because ozone absorbs ultraviolet radiation. Commercial jets often cruise near the bottom of the stratosphere, above most weather and turbulence.
+
+**Mesosphere**: up to about **85 km**. The coldest part of the atmosphere, with temperatures below −90 °C. Most **meteors** burn up here, creating shooting stars.
+
+**Thermosphere**: up to around 500 to 1,000 km. The air is extremely thin. The **International Space Station** orbits here, and the **auroras** glow here.
+
+**Exosphere**: the outermost layer, fading gradually into space.
+
+=== callout analogy
+Think of the atmosphere as a thin skin on an apple. Most of the air’s mass is within about **16 kilometres** of the surface, which, compared to Earth’s diameter of about 12,700 km, is thinner than an apple’s skin is to the apple. Everything we breathe, all our weather and our protection from space lies in that delicate layer.
+
+=== text Air pressure
+Air has weight. The column of air above you presses down with a force of about **1 kilogram per square centimetre** at sea level: roughly the weight of a small car on every square metre. You don’t feel it because the air inside your body pushes back equally.
+
+Air pressure decreases with height, because there’s less air above you. At the summit of **Mount Everest**, about 8,849 metres high, pressure is only about **one third** of that at sea level, so each breath contains far less oxygen. Most climbers use bottled oxygen; those who don’t risk severe altitude sickness. Aeroplane cabins are pressurised for the same reason.
+
+=== text The natural greenhouse effect
+Sunlight passes through the atmosphere and warms Earth’s surface. The warm surface gives off heat as **infrared** radiation. Certain gases, called **greenhouse gases**, mainly **water vapour** and **carbon dioxide**, plus methane and others, absorb some of this infrared radiation and send part of it back towards the surface, keeping it warmer than it would otherwise be.
+
+This **natural greenhouse effect** is essential for life. Without it, Earth’s average surface temperature would be around **−18 °C**, a frozen world. With it, the average is about **+15 °C**. The problem, as the climate lessons explain, is that humans are **adding** greenhouse gases, strengthening the effect and warming the planet.
+
+=== steps The ozone layer and the Montreal Protocol
+- **Ozone** is a molecule made of three oxygen atoms (O₃). In the stratosphere, it absorbs most of the Sun’s harmful **UV-B** and **UV-C** radiation, which can cause skin cancer, cataracts and damage to crops and marine life.
+- In **1974**, chemists **Mario Molina** and **Sherwood Rowland** warned that **CFCs**, chemicals that are stable at ground level, could drift into the stratosphere, where UV light breaks them apart, releasing chlorine atoms.
+- A single chlorine atom can destroy many thousands of ozone molecules.
+- The discovery of the Antarctic **ozone hole** in **1985** confirmed the danger. Cold Antarctic winters create special clouds that accelerate ozone destruction each spring.
+- The **Montreal Protocol** of **1987** committed countries to phase out CFCs and similar chemicals. It became the first UN treaty ratified by every country in the world. India and other developing countries received longer timelines and financial support.
+- Scientists project that the ozone layer should recover to 1980 levels by around the **2040s to 2060s**, depending on the region. Molina, Rowland and Paul Crutzen won the 1995 Nobel Prize in Chemistry.
+
+=== reveal If ozone protects us in the stratosphere, why is it considered a pollutant at ground level?
+Because ozone is the same molecule, but its effects depend on **where** it is. High in the stratosphere, it shields life from UV radiation. Near the ground, ozone forms when pollutants from vehicles and industry, nitrogen oxides and volatile organic compounds, react in sunlight. At breathing level, it irritates the lungs, worsens asthma and damages crops. Ground-level ozone is a major component of summer **smog** in many cities. As the saying goes: ozone is “good up high, bad nearby”. The next lesson explores air pollution in more detail.
+
+=== keypoints
+- The **atmosphere** is mostly **nitrogen (78%)** and **oxygen (21%)**, with **argon**, about **0.04% carbon dioxide** and variable **water vapour**.
+- Layers: **troposphere** (weather), **stratosphere** (ozone layer), **mesosphere** (meteors), **thermosphere** (ISS, auroras), **exosphere**.
+- Most of the atmosphere’s mass is within about **16 km** of the surface.
+- Air pressure is about **1 kg per cm²** at sea level and about **one third** of that on Everest.
+- The **natural greenhouse effect** keeps Earth at about **+15 °C** instead of **−18 °C**.
+- The **ozone hole** (discovered **1985**) was caused by **CFCs**; the **Montreal Protocol (1987)** is helping the ozone layer recover.
+
+=== why
+The atmosphere makes Earth habitable, shapes the weather and climate, and protects us from radiation. Understanding its structure helps you make sense of weather forecasts, flights, mountain climbing, air pollution and climate change. The story of the ozone layer also shows that global environmental problems can be solved when science is clear and countries act together.
+
+##### LESSON
+id: earth.atmosphere.2
+title: Air Pollution: The Invisible Killer
+minutes: 15
+disclaimer: health
+check: In your own words: what is PM2.5 and why is it so harmful, what causes severe winter pollution in north India, and what are two examples of places that cleaned up their air?
+
+=== hook
+In **December 1952**, a thick, yellowish fog settled over London. Cold, still weather trapped smoke from millions of coal fires and factories close to the ground. For five days, visibility in parts of the city dropped to a few metres. Buses were led by people walking with torches. Cattle at a livestock show reportedly suffocated.
+
+At the time, officials estimated about **4,000** extra deaths; later studies suggest the total may have reached around **10,000 to 12,000**, including deaths in the following months. The **Great Smog** shocked Britain into passing the **Clean Air Act of 1956**, restricting coal burning in cities. Today, air pollution kills far more people worldwide every year, but often more quietly.
+
+=== core
+**Air pollution** is the presence of harmful substances in the air, from both natural sources (dust storms, wildfires, volcanoes) and human activities (burning fuels, industry, farming, construction).
+
+The World Health Organization estimates that air pollution, both outdoor and indoor, is linked to around **7 million** premature deaths worldwide each year, making it one of the largest environmental threats to health. It contributes to heart disease, strokes, lung cancer, chronic lung disease and respiratory infections, and is increasingly linked to effects on children’s development and on the brain.
+
+=== text The main pollutants
+- **Particulate matter (PM)**: tiny solid and liquid particles suspended in the air. **PM10** particles are smaller than 10 micrometres across; **PM2.5** are smaller than **2.5 micrometres**, about **30 times** thinner than a human hair. PM2.5 is especially dangerous because it can penetrate deep into the lungs and even enter the bloodstream.
+- **Nitrogen dioxide (NO₂)**: mainly from vehicle exhausts and power plants; irritates airways.
+- **Sulphur dioxide (SO₂)**: from burning coal and oil containing sulphur; contributes to acid rain and particles.
+- **Ground-level ozone**: formed from other pollutants in sunlight, as you saw in the previous lesson.
+- **Carbon monoxide (CO)**: a colourless, odourless gas from incomplete burning that reduces the blood’s ability to carry oxygen.
+
+In **2021**, the WHO tightened its air quality guidelines, recommending that annual average PM2.5 levels should not exceed **5 micrograms per cubic metre**. A large majority of the world’s population lives in places exceeding this guideline, and many cities exceed it many times over.
+
+=== callout analogy
+Think of PM2.5 particles as the finest dust imaginable: so small that the body’s usual defences, like nose hairs and mucus, can’t filter them out. Larger particles get caught at the door; PM2.5 slips straight past the security guards and into the deepest rooms of your lungs, and even into your bloodstream.
+
+=== text Why north India’s winters are so polluted
+Cities in the Indo-Gangetic Plain, including **Delhi**, regularly rank among the most polluted in the world, especially from late October to January. Several factors combine:
+
+- **Many sources**: vehicles, industry, power plants, construction dust, burning waste and household fuels.
+- **Crop residue burning**: after the rice harvest in Punjab and Haryana, many farmers burn the leftover stubble to clear fields quickly for the next crop, sending smoke across the region. Its share of Delhi’s pollution varies a lot day to day.
+- **Festival fireworks** can cause short-term spikes.
+- **Weather and geography**: in winter, cold air near the ground gets trapped under warmer air above, a **temperature inversion**, which acts like a lid, preventing pollution from rising and dispersing. Winds are often weak. The Himalayas to the north also limit how air moves out of the plain.
+
+Studies estimate that long-term exposure to pollution at these levels can shorten average life expectancy in parts of north India by several years.
+
+=== text Pollution inside the home
+**Household air pollution** is a major problem in many developing countries. Cooking over open fires or simple stoves burning wood, dung, crop waste or coal fills homes with smoke, exposing women and children, who often spend the most time near the stove, to very high pollution levels.
+
+India launched the **Pradhan Mantri Ujjwala Yojana** in **2016** to provide liquefied petroleum gas (LPG) connections to poor households, reaching tens of millions of families. Studies suggest it has expanded access considerably, though cost of refills has meant some households still use traditional fuels part of the time.
+
+=== steps How cities have cleaned their air
+- **London**: after the Great Smog, the Clean Air Act of 1956 created smoke-free zones and encouraged cleaner fuels. Coal smoke fell dramatically. More recently, an **Ultra Low Emission Zone** charges older, more polluting vehicles.
+- **Beijing**: in **2013**, after severe smog episodes, China launched an action plan to tackle air pollution: closing or upgrading coal plants, switching homes from coal to gas or electricity, restricting vehicles and relocating heavy industry. Average PM2.5 levels in Beijing fell substantially over the following decade, though they remain above WHO guidelines.
+- **United States**: the **Clean Air Act** of 1970 and later amendments set national standards. Emissions of major pollutants fell sharply even as the economy grew.
+- **India**: the **National Clean Air Programme**, launched in **2019**, set targets to reduce particulate pollution in more than 100 cities. Other measures include stricter vehicle emission standards (leaping to **Bharat Stage VI** in 2020), shifting public transport to CNG and electricity, and efforts to provide alternatives to stubble burning.
+- Common lessons: clear standards, enforcement, monitoring, cleaner energy and regional cooperation, since pollution crosses city and state boundaries.
+
+=== text Measuring pollution: the AQI
+Many countries publish an **Air Quality Index (AQI)**, which converts pollutant concentrations into a simple number and colour scale. India’s national AQI, launched in **2014**, ranges from “Good” to “Severe”. The scales differ between countries, so the same number may not mean the same thing everywhere.
+
+On high-pollution days, health advice often includes reducing strenuous outdoor activity, especially for children, older people and those with heart or lung conditions, keeping windows closed during peak pollution, and using well-fitted masks rated for fine particles, such as N95 masks, if going outside. Indoor air purifiers with good filters can help in homes.
+
+=== reveal What is acid rain, and is it still a problem?
+**Acid rain** forms when sulphur dioxide and nitrogen oxides from burning fossil fuels react with water in the atmosphere to form acids, which fall as rain, snow or fog. In the 1970s and 1980s, it damaged forests, acidified lakes, killing fish, and eroded buildings and monuments in Europe and North America. In India, there were concerns that pollution from nearby industry was yellowing and damaging the marble of the **Taj Mahal**, leading the Supreme Court to restrict polluting industries in the surrounding area in the 1990s. Laws cutting sulphur emissions, including the US cap-and-trade programme you met in the Economics region, greatly reduced acid rain in many Western countries. It remains a concern in some rapidly industrialising regions.
+
+=== keypoints
+- Air pollution is linked to around **7 million** premature deaths a year worldwide (WHO).
+- **PM2.5** particles, about 30 times thinner than a hair, penetrate deep into the lungs and bloodstream; the WHO guideline is an annual average of **5 µg/m³**.
+- Other pollutants include **NO₂**, **SO₂**, **ground-level ozone** and **carbon monoxide**.
+- North India’s winter pollution comes from many sources plus **stubble burning** and **temperature inversions**.
+- **Household air pollution** from cooking fuels harms women and children; India’s **Ujjwala** scheme expanded LPG access.
+- **London (1956)**, the **US (1970)** and **Beijing (2013 onward)** show air can be cleaned with strong policies; India launched the **NCAP** in 2019.
+
+=== why
+The air you breathe affects your health every day, and in many parts of India and the world, air pollution is one of the biggest threats to life expectancy. Understanding where pollution comes from, how it harms the body and what has worked elsewhere helps you protect yourself, interpret air quality reports and engage with one of the most important public health issues of our time.
+
+##### LESSON
+id: earth.weather.1
+title: What Makes the Weather
+minutes: 15
+check: In your own words: why does air move from high to low pressure, how do clouds form, and why is it so hard to forecast weather more than about ten days ahead?
+
+=== hook
+During World War I, a British meteorologist named **Lewis Fry Richardson**, serving as an ambulance driver in France, tried something no one had done before. Between duties, using pencil and paper, he attempted to calculate the weather six hours ahead for a small region of Europe, using the equations of physics.
+
+It took him about six weeks. And his forecast was badly wrong. But in his 1922 book, he imagined a vast hall filled with **64,000 human “computers”**, each calculating the weather for one patch of the globe, coordinated by a conductor. He had foreseen modern weather forecasting. Today, supercomputers perform his calculations billions of times faster, and a five-day forecast is about as accurate as a one-day forecast was in the 1980s.
+
+=== core
+**Weather** is the state of the atmosphere at a particular place and time: temperature, rainfall, wind, humidity, cloud and air pressure. **Climate**, which you’ll study later in this region, is the average pattern of weather over many years.
+
+Almost all weather is driven by one thing: **uneven heating by the Sun**. The equator receives far more direct sunlight than the poles; land heats and cools faster than water; and day and night create constant cycles of warming and cooling. The atmosphere and oceans constantly move heat around, trying to even out these differences. That movement is the weather.
+
+=== text Air pressure and wind
+When air is heated, it expands, becomes less dense and **rises**, leaving lower pressure near the ground. When air cools, it becomes denser and **sinks**, creating higher pressure.
+
+- **Low-pressure** areas usually bring rising air, clouds and rain, and often unsettled, stormy weather.
+- **High-pressure** areas usually bring sinking air, clear skies and calmer, drier weather.
+
+**Wind** is air moving from areas of **high pressure** towards areas of **low pressure**, like air rushing out of a balloon. The bigger the pressure difference, the stronger the wind.
+
+But winds don’t blow in straight lines over long distances. Because Earth rotates, moving air is deflected: to the **right** in the Northern Hemisphere and to the **left** in the Southern Hemisphere. This is called the **Coriolis effect**. It’s why large storms spin: anticlockwise around low-pressure centres in the Northern Hemisphere, clockwise in the Southern. (It’s far too weak to determine which way water drains from a sink, despite the popular myth.)
+
+=== callout analogy
+Think of a sea breeze on a sunny day at the beach. During the day, the land heats up faster than the sea. Air over the land warms, rises and creates lower pressure. Cooler air from over the sea, at higher pressure, flows in to replace it: a refreshing breeze from the water. At night, the land cools faster, and the breeze reverses, blowing from land to sea. That’s weather in miniature: uneven heating, pressure differences and moving air.
+
+=== steps How clouds and rain form
+- The Sun evaporates water from oceans, lakes, soil and plants, adding invisible **water vapour** to the air.
+- Warm air can hold more water vapour than cold air.
+- When air **rises**, because it’s heated, pushed up a mountain or lifted along a weather front, it expands in the lower pressure and **cools**.
+- When it cools to its **dew point**, the air can’t hold all its water vapour, which **condenses** onto tiny particles, like dust, sea salt or smoke, forming countless microscopic droplets or ice crystals: a **cloud**.
+- Inside clouds, droplets collide and merge, or ice crystals grow, until they’re heavy enough to fall as **rain**, **snow** or **hail**.
+- This is why mountains often get heavy rain on the side facing incoming moist winds, while the far side stays dry, in a **rain shadow**. The Western Ghats receive huge monsoon rainfall on their western slopes, while parts of the Deccan Plateau beyond them are much drier.
+
+=== text Weather fronts
+Air masses, large bodies of air with similar temperature and humidity, form over regions like oceans, continents or polar areas. Where two different air masses meet, they form a **front**.
+
+- At a **cold front**, cold, dense air pushes under warmer air, forcing it up rapidly, often causing heavy showers, thunderstorms and a sudden drop in temperature.
+- At a **warm front**, warm air slides gradually up over colder air, often bringing widespread cloud and steady rain.
+
+Fronts are especially important in mid-latitude weather, such as in Europe and North America, and in the **Western Disturbances** that bring winter rain and snow to north India and the Himalayas, coming from the Mediterranean region.
+
+=== text Global circulation
+On a global scale, uneven heating drives great loops of circulating air:
+
+- Near the equator, intense heating makes air rise, forming a band of clouds and heavy rain called the **Intertropical Convergence Zone (ITCZ)**.
+- The air spreads towards the poles high in the atmosphere, cools and sinks around **30 degrees** north and south of the equator, creating zones of high pressure and dry air, where many of the world’s great deserts are found, like the Sahara and the Thar.
+- Near the surface, air flows back towards the equator, deflected by the Coriolis effect into the steady **trade winds**, which sailors relied on for centuries.
+
+These loops are called **Hadley cells**, after George Hadley, who described the idea in the 18th century. Similar but weaker loops exist at higher latitudes. Fast, high-altitude rivers of wind called **jet streams** form between them, steering storms and weather systems.
+
+=== text Forecasting and chaos
+Modern weather forecasting uses **numerical weather prediction**: dividing the atmosphere into a three-dimensional grid of millions of points, feeding in current observations from weather stations, balloons, aircraft, ships, radar and satellites, and using supercomputers to calculate how temperature, pressure, humidity and wind will evolve, step by step.
+
+Forecasts have improved steadily, by roughly a day of useful accuracy every decade. But there’s a fundamental limit. In the early **1960s**, the American meteorologist **Edward Lorenz** found that in his simple computer model of the atmosphere, tiny differences in starting conditions, such as rounding a number from six decimal places to three, led to completely different weather weeks later. This **sensitive dependence on initial conditions** became a founding idea of **chaos theory**, popularised by Lorenz’s question about whether the flap of a butterfly’s wings in Brazil could set off a tornado in Texas: the **butterfly effect**.
+
+=== reveal If weather beyond about two weeks is unpredictable, how can scientists predict climate decades ahead?
+Because predicting **climate** is a different problem from predicting **weather**. You can’t predict whether it will rain in your city on a particular day three months from now, but you can confidently predict that July will be hotter than January in Delhi, or that the monsoon will bring rain in summer. Climate is about **averages** and **statistics** over many years, driven by factors like the amount of sunlight and greenhouse gases, which can be modelled even though individual weather events can’t. It’s like rolling dice: you can’t predict a single roll, but you can confidently predict the average of thousands of rolls. If someone loads the dice, you can predict that sixes will become more common.
+
+=== keypoints
+- **Weather** is short-term atmospheric conditions; it’s driven by **uneven heating** by the Sun.
+- Air rises in **low-pressure** areas (clouds, rain) and sinks in **high-pressure** areas (clear, calm weather); **wind** flows from high to low pressure.
+- The **Coriolis effect** deflects winds and makes large storms spin.
+- Clouds form when rising air **cools to its dew point**; mountains create **rain shadows**, as with the Western Ghats.
+- **Fronts** form where air masses meet; **Hadley cells**, **trade winds** and **jet streams** shape global circulation.
+- **Numerical weather prediction** has improved steadily, but **chaos** (Lorenz’s butterfly effect) limits detailed forecasts to about two weeks.
+- **Climate** can be predicted as long-term averages even though individual weather can’t.
+
+=== why
+Weather affects your daily plans, farmers’ crops, transport, energy use and safety. Understanding what drives it helps you read forecasts intelligently, understand why forecasts are sometimes wrong and appreciate how chaotic systems work. Next, you’ll explore the most important weather system for India, the monsoon, along with cyclones and extreme weather.

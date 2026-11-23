@@ -1,0 +1,82 @@
+{
+  "id": "earth.oceans.1",
+  "region": "earth",
+  "topic": "oceans",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Ocean: Earth’s Great Engine",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **January 1992**, a cargo ship crossing the Pacific Ocean in a storm lost several containers overboard. One held about **29,000** plastic bath toys: yellow ducks, blue turtles, green frogs and red beavers.\n\nOver the following months and years, the toys began washing up on beaches around the Pacific: in Alaska, Hawaii, South America and Australia. Some drifted north through the Bering Strait into the Arctic, apparently frozen into sea ice. Oceanographers, notably **Curtis Ebbesmeyer**, used reports of where and when the “Friendly Floatees” appeared to study ocean currents. An accident turned into one of the most unusual oceanography experiments ever, revealing how the ocean connects the whole planet."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The ocean covers about **71%** of Earth’s surface and holds about **97%** of all its water. Its average depth is around **3.7 kilometres**, and its deepest point, the **Challenger Deep** in the Mariana Trench in the western Pacific, plunges nearly **11 kilometres** below the surface, deeper than Mount Everest is tall.\n\nThough we often speak of separate oceans, the Pacific, Atlantic, Indian, Southern and Arctic, they’re all connected into one **global ocean**.\n\nSeawater is salty, containing on average about **3.5%** dissolved salts, mostly sodium chloride (common salt). The salt comes mainly from rocks on land, slowly dissolved by rain and carried to the sea by rivers, along with minerals from undersea volcanic vents, accumulating over hundreds of millions of years as water evaporates and leaves the salt behind."
+    },
+    {
+      "type": "text",
+      "heading": "Surface currents",
+      "md": "The ocean is constantly moving. **Surface currents**, in roughly the top few hundred metres, are driven mainly by **winds**, like the trade winds you met in the weather lessons, and shaped by the Coriolis effect and the shapes of the continents.\n\nIn each major ocean basin, currents form giant rotating loops called **gyres**: clockwise in the Northern Hemisphere and anticlockwise in the Southern Hemisphere.\n\nSome currents carry enormous amounts of heat. The **Gulf Stream** carries warm water from the Gulf of Mexico across the Atlantic towards Europe, helping keep parts of northwestern Europe much milder than other places at similar latitudes. In the Indian Ocean, currents actually **reverse direction** with the monsoon seasons, unlike in any other ocean."
+    },
+    {
+      "type": "text",
+      "heading": "The global conveyor belt",
+      "md": "Deep below the surface, a much slower circulation is driven by differences in water **density**, which depend on temperature and salt content. This is called **thermohaline circulation** (thermo for heat, haline for salt), often nicknamed the **global conveyor belt**.\n\n- In the far North Atlantic and around Antarctica, surface water becomes very cold and salty (when seawater freezes into sea ice, it leaves salt behind). Cold, salty water is dense, so it **sinks** deep into the ocean.\n- This deep water spreads slowly along the ocean floor through the world’s ocean basins.\n- Eventually, it rises back towards the surface in other regions, warms and flows back, completing the loop.\n- A single journey around the conveyor belt is estimated to take around **1,000 years**.\n\nThis circulation carries heat, oxygen and nutrients around the planet, and has a major influence on climate."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the ocean as Earth’s central heating system. The tropics are the boiler, absorbing huge amounts of solar heat. Ocean currents are the pipes, carrying warm water towards the cold poles and bringing cold water back. Without this system, the tropics would be much hotter and high latitudes much colder."
+    },
+    {
+      "type": "text",
+      "heading": "The ocean and climate",
+      "md": "The ocean is the planet’s greatest regulator of climate:\n\n- **Heat storage**: water can absorb far more heat than air or land before warming up. The ocean has absorbed over **90%** of the extra heat trapped by rising greenhouse gases in recent decades. Without it, the atmosphere would have warmed far more.\n- **Carbon storage**: the ocean holds about **50 times** more carbon than the atmosphere, and it has absorbed roughly a **quarter** of the carbon dioxide humans have emitted each year, slowing climate change, but with consequences you’ll see in the next lesson.\n- **Weather**: evaporation from the ocean supplies most of the water that falls as rain, including the monsoon. Ocean temperatures fuel cyclones and influence patterns like El Niño."
+    },
+    {
+      "type": "text",
+      "heading": "Life in the ocean",
+      "md": "The ocean is home to an astonishing diversity of life, from microscopic plankton to the **blue whale**, the largest animal known to have ever lived, which can reach around 30 metres long.\n\nTiny drifting photosynthetic organisms called **phytoplankton** form the base of most ocean food webs. They’re so abundant that, together with other marine photosynthesisers, they produce roughly **half** of the oxygen generated by photosynthesis on Earth.\n\nMuch of the deep ocean remains unexplored. Large parts of the seafloor have still not been mapped in high detail; an international project called **Seabed 2030** aims to map it all. Scientists regularly discover new species in the deep sea, including communities around **hydrothermal vents**, discovered in **1977**, where life thrives without sunlight, based on chemical energy from minerals in the hot water."
+    },
+    {
+      "type": "steps",
+      "title": "Coastal ecosystems that protect us",
+      "items": [
+        "**Mangrove forests** grow along tropical coasts, with tangled roots that thrive in salty water. The **Sundarbans**, shared by India and Bangladesh, is the world’s largest mangrove forest and home to Bengal tigers.",
+        "Mangroves **buffer storm surges**, reduce coastal erosion, provide nurseries for fish and store large amounts of carbon.",
+        "**Coral reefs**, built by tiny animals living in partnership with algae, cover less than 1% of the ocean floor but support around a **quarter** of all known marine species. India has reefs in places like the Gulf of Mannar, the Andaman and Nicobar Islands, and Lakshadweep.",
+        "**Seagrass meadows** shelter marine life and store carbon.",
+        "Protecting these ecosystems is a cost-effective way to protect coastal communities from storms and support fisheries."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why is the sea blue, and is it really just reflecting the sky?",
+      "md": "Partly, but not mainly. Water itself absorbs **red, orange and yellow** light more strongly than blue light, so as sunlight penetrates deeper, the longer wavelengths are absorbed, and the light that scatters back to your eyes is mostly blue. Reflection of the sky adds to the effect, especially on calm days, but even on cloudy days, deep, clear water looks blue. Where water contains lots of phytoplankton, it can look greener; where rivers carry sediment, it can look brown. Satellites use ocean colour to measure phytoplankton across the globe."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The ocean covers about **71%** of Earth’s surface, holds about **97%** of its water and averages about **3.7 km** deep; the **Challenger Deep** is nearly **11 km** deep.",
+        "**Surface currents** are driven by winds and form **gyres**; the **Gulf Stream** warms northwestern Europe.",
+        "**Thermohaline circulation** (the global conveyor belt) is driven by differences in **temperature and salt**, taking about **1,000 years** per loop.",
+        "The ocean has absorbed over **90%** of extra heat from greenhouse gases and about a **quarter** of human CO₂ emissions.",
+        "**Phytoplankton** and other marine photosynthesisers produce about **half** of Earth’s photosynthetic oxygen.",
+        "**Mangroves** (like the **Sundarbans**), **coral reefs** and seagrass protect coasts and support life."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The ocean regulates the climate, supplies much of the oxygen you breathe, feeds billions of people and drives the monsoon rains. Understanding it shows why changes far from shore, like warming water or melting ice, affect everyone, including those who live far from the coast. Next, you’ll see the pressures the ocean is under."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do ocean currents move heat around the planet, and why is the ocean so important for regulating Earth’s climate?"
+  }
+}

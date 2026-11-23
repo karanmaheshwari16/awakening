@@ -1,0 +1,92 @@
+{
+  "id": "earth.water-cycle.2",
+  "region": "earth",
+  "topic": "water-cycle",
+  "level": 2,
+  "prerequisites": [
+    "earth.water-cycle.1"
+  ],
+  "title": "Water Scarcity and Sharing a Precious Resource",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In early **2018**, the South African city of **Cape Town**, home to around four million people, faced a terrifying prospect. After three years of severe drought, its reservoirs were running dry. Officials announced a date, “**Day Zero**”, when they would have to turn off most household taps, and residents would queue at around 200 collection points for a daily ration of 25 litres each.\n\nResidents and businesses slashed their water use dramatically, roughly halving the city’s consumption, through strict restrictions, higher prices and public campaigns. Combined with agriculture cuts and the return of rains, Day Zero was avoided. A year later, in **2019**, **Chennai**, one of India’s largest cities, faced its own crisis when its main reservoirs ran almost dry, and water had to be brought in by train. Water scarcity isn’t a distant future threat; it’s already here."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that only a tiny fraction of Earth’s water is accessible fresh water. **Water scarcity** occurs when demand for water exceeds the available supply, or when poor quality or inadequate infrastructure limits access.\n\nScarcity comes in two main forms:\n\n- **Physical scarcity**: there simply isn’t enough water to meet demand, common in dry regions.\n- **Economic scarcity**: water exists, but people lack the infrastructure, money or institutions to access it safely, common in many lower-income regions.\n\n**India** illustrates the challenge. It has roughly **18%** of the world’s population, but only about **4%** of its fresh water resources. Rainfall is concentrated in a few monsoon months and unevenly distributed across regions. Rising demand from a growing population, cities, industry and especially agriculture puts enormous pressure on supplies."
+    },
+    {
+      "type": "text",
+      "heading": "Agriculture: the thirstiest sector",
+      "md": "Globally, agriculture uses about **70%** of fresh water withdrawals; in India, the share is even higher, around **80% or more**. Crops like **rice** and **sugarcane** are particularly water-intensive.\n\nMuch irrigation is inefficient. Traditional **flood irrigation**, where fields are flooded with water, loses large amounts through evaporation and runoff. Methods like **drip irrigation**, which delivers water directly to plant roots through tubes, and **sprinkler irrigation** can cut water use dramatically, though they require investment."
+    },
+    {
+      "type": "text",
+      "heading": "India’s groundwater crisis",
+      "md": "India is the world’s **largest user of groundwater**, extracting more than any other country, roughly a quarter of the global total. Groundwater supplies a majority of India’s irrigation and much of its drinking water.\n\nThe spread of **electric pumps** and tube wells since the 1970s helped power the **Green Revolution**, boosting food production. But in many regions, especially in parts of **Punjab, Haryana, Rajasthan** and some southern states, water is being pumped faster than rain can recharge it. Water tables have fallen sharply in many districts, forcing farmers to dig ever deeper wells.\n\nOne factor is that electricity for farm pumps is heavily subsidised or free in several states, so farmers have little financial incentive to conserve water. Changing this is politically difficult, since farmers rely on cheap power for their livelihoods, a classic example of the tragedy of the commons from the Economics region. Some states have experimented with solutions like paying farmers for saving electricity, or separating farm power supply to schedule it."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an aquifer as a bank account into which the monsoon makes one deposit a year. For decades, many farmers have been making withdrawals far larger than the deposit, living off savings built up over centuries. The account still shows money for now, but the balance keeps falling, and eventually the withdrawals will have to stop, whether by choice or because the account runs dry."
+    },
+    {
+      "type": "text",
+      "heading": "Virtual water: the hidden water in what we buy",
+      "md": "**Virtual water** is the water used to produce goods and services. The concept, developed by the geographer **Tony Allan** in the 1990s, reveals how much water is hidden in everyday products. Rough global averages include:\n\n- About **1,800 litres** to produce a kilogram of **wheat**.\n- Roughly **2,500 litres** for a kilogram of **rice** (varying hugely by region and method).\n- Around **15,000 litres** for a kilogram of **beef**, largely for animal feed.\n- Over **10,000 litres** for a pair of jeans, mostly for growing cotton.\n\nWhen countries trade goods, they effectively trade virtual water. Water-scarce countries can save their own water by importing water-intensive goods. India, conversely, has been a major exporter of rice, effectively exporting large amounts of its scarce water."
+    },
+    {
+      "type": "text",
+      "heading": "The Aral Sea: a warning",
+      "md": "The **Aral Sea**, between Kazakhstan and Uzbekistan, was once the world’s **fourth-largest lake**. From the **1960s**, Soviet planners diverted the two rivers feeding it to irrigate vast cotton fields in the desert.\n\nDeprived of inflow, the sea shrank dramatically, splitting into separate lakes and losing most of its volume. Fishing towns found themselves many kilometres from the water; the exposed seabed became a salty, dusty desert, with storms spreading salt and pesticide residues, harming people’s health. It’s widely considered one of the worst environmental disasters of the 20th century. Since the 2000s, a dam built by Kazakhstan has helped the smaller northern part partially recover."
+    },
+    {
+      "type": "steps",
+      "title": "Rivers that cross borders",
+      "items": [
+        "About **60%** of the world’s fresh water flows in rivers shared by two or more countries, creating potential for tension, and for cooperation.",
+        "The **Indus Waters Treaty**, signed in **1960** between India and Pakistan with the help of the **World Bank**, divided the six rivers of the Indus system: the three eastern rivers (Ravi, Beas, Sutlej) mainly to India, and the three western rivers (Indus, Jhelum, Chenab) mainly to Pakistan, with India allowed certain uses.",
+        "The treaty survived several wars and was long cited as an example of water cooperation between rivals.",
+        "In **April 2025**, following a terrorist attack in Pahalgam in Jammu and Kashmir, India announced it was holding the treaty “in abeyance”, a move Pakistan strongly condemned. Its future has become a major issue in relations between the two countries.",
+        "India and **Bangladesh** signed the **Ganges Water Treaty** in **1996**, sharing dry-season flows at the Farakka Barrage.",
+        "Research by the geographer **Aaron Wolf** and colleagues found that, historically, international disputes over water have far more often led to cooperation and agreements than to war, though tensions can be serious."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Solutions",
+      "md": "Approaches to water scarcity include:\n\n- **Using water more efficiently**: drip irrigation, fixing leaking pipes (many cities lose a large share of their water to leaks), and water-efficient appliances.\n- **Rainwater harvesting**: capturing and storing rain from rooftops or recharging groundwater. Tamil Nadu made rooftop rainwater harvesting mandatory for buildings in the early 2000s.\n- **Recycling wastewater**: **Singapore**’s “NEWater” treats wastewater to a very high standard, supplying a significant share of the country’s water needs, mostly for industry.\n- **Desalination**: removing salt from seawater. It’s energy-intensive and expensive but increasingly used, notably in Israel and the Gulf states, and in Chennai, which has desalination plants.\n- **Better pricing and governance**: pricing water to reflect its scarcity, while ensuring affordable basic access for everyone, and managing shared aquifers and rivers cooperatively.\n- **Shifting crops**: encouraging less water-intensive crops, like millets and pulses, in water-stressed regions."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is access to clean water a human right?",
+      "md": "In **2010**, the **United Nations General Assembly** formally recognised access to safe and clean drinking water and sanitation as a **human right**. Yet as of recent years, around **2 billion** people still lacked safely managed drinking water, and more lacked safe sanitation. India’s **Jal Jeevan Mission**, launched in **2019**, aims to provide tap water connections to every rural household, and has dramatically expanded coverage, though questions remain about the reliability and quality of supply in some areas. Recognising water as a right raises hard questions: how to fund water systems, how to price water fairly, and how to balance household needs against farming and industry."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Water scarcity** can be **physical** (not enough water) or **economic** (lack of infrastructure or institutions).",
+        "India has about **18%** of the world’s people but only about **4%** of its fresh water.",
+        "**Agriculture** uses about **70%** of global fresh water withdrawals, and more in India; **drip irrigation** saves water.",
+        "India is the world’s **largest groundwater user**; subsidised electricity and over-pumping have caused falling water tables.",
+        "**Virtual water** is the hidden water in goods: about **15,000 litres** for a kilogram of beef.",
+        "The **Aral Sea** shrank catastrophically after rivers were diverted for irrigation.",
+        "The **Indus Waters Treaty (1960)** shared rivers between India and Pakistan; India placed it in abeyance in **2025**.",
+        "Solutions include efficiency, **rainwater harvesting**, **recycling**, **desalination**, better pricing and crop choices."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Water scarcity affects food prices, health, cities, farmers and even relations between countries. Understanding where water goes and why it’s running short in some places helps you make sense of droughts, water conflicts and policy debates, and see how individual habits, farming choices and good governance all play a part in sharing a precious resource."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why is groundwater being depleted in parts of India, what is virtual water, and how have countries shared rivers that cross their borders?"
+  }
+}

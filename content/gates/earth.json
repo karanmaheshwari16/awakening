@@ -1,0 +1,34 @@
+[
+  {
+    "id": "earth.gate.1",
+    "region": "earth",
+    "tier": 1,
+    "title": "A Year in the Life of the Monsoon",
+    "question": "Explain how the Indian summer monsoon brings rain, connecting at least four things you have learned: plate tectonics and the Himalayas, the atmosphere and air pressure, the oceans and the water cycle. Then explain why air pollution in north India is often worst in winter rather than during the monsoon.",
+    "links": ["plates", "atmosphere", "weather", "oceans", "water-cycle"],
+    "model_answer": "The monsoon begins with geography shaped by plate tectonics. The Indian plate’s collision with Asia raised the Himalayas and the Tibetan Plateau. In summer, the Sun heats this vast landmass and the high plateau intensely; warm air rises, creating a large area of low pressure over northern India.\n\nThe Indian Ocean heats more slowly because water absorbs a lot of heat before warming, so it stays relatively cool with higher pressure. Air flows from high to low pressure, and the Coriolis effect turns it into southwesterly winds carrying moisture evaporated from the warm ocean, part of the water cycle. The band of tropical rain, the ITCZ, shifts north over South Asia.\n\nWhen the moist air meets the Western Ghats and later the Himalayas, it is forced to rise, expands in lower pressure and cools. At its dew point, water vapour condenses into clouds and falls as heavy rain, which is why the windward slopes are so wet and areas behind them lie in rain shadow. The rain fills rivers, reservoirs and aquifers, and Himalayan snow and glacier melt add to river flows in drier seasons.\n\nIn winter, the pattern reverses: the land cools faster than the sea, winds weaken and blow from the land, and rain largely stops. Cold air near the ground gets trapped beneath warmer air above in a temperature inversion, which acts like a lid. With weak winds, no rain to wash particles out, and extra sources like crop stubble burning, pollutants from vehicles, industry and fires build up. During the monsoon, by contrast, rain washes particles from the air and stronger, moist winds disperse pollution.",
+    "key_points": [
+      "Plate collision raised the Himalayas and Tibetan Plateau, which heat strongly in summer.",
+      "Low pressure over hot land draws in moist ocean air; Coriolis turns it southwesterly.",
+      "Rising air over the Ghats and Himalayas cools to its dew point, causing heavy rain and rain shadows.",
+      "Rain recharges rivers and groundwater; glaciers feed rivers in dry seasons.",
+      "Winter brings inversions, weak winds and no rain, trapping pollution, worsened by stubble burning."
+    ]
+  },
+  {
+    "id": "earth.gate.2",
+    "region": "earth",
+    "tier": 2,
+    "title": "The Coastal City",
+    "question": "Imagine you advise the government of a large coastal city in India, such as Mumbai or Kolkata. Using what you have learned about climate change, oceans, weather extremes and water, explain the main climate-related risks the city faces over the next 50 years and propose a balanced plan that combines mitigation and adaptation.",
+    "links": ["climate-change", "oceans", "weather", "water-cycle"],
+    "model_answer": "The city faces several connected risks.\n\nSea-level rise: global sea level has risen about 20 cm since 1900 and is accelerating, driven by thermal expansion and melting land ice. Combined with land subsidence in some areas, this raises the baseline for flooding, coastal erosion and saltwater intrusion into groundwater.\n\nStorms and extreme rain: warmer seas provide more energy and moisture to cyclones, increasing the potential for intense rainfall and storm surge, while monsoon downpours are becoming heavier, overwhelming drains, as Mumbai’s floods have shown.\n\nHeat: heatwaves are becoming more frequent and intense, with dense cities warmer still because of the urban heat island effect, threatening outdoor workers, older people and the poor.\n\nWater: paradoxically, the city may face both floods and shortages, as rainfall becomes more erratic and groundwater is depleted or contaminated by salt.\n\nEcosystems: mangroves and coastal wetlands that buffer storm surges are under pressure from development and warming.\n\nAdaptation: protect and restore mangroves and wetlands; upgrade drainage and build sea defences where needed; zone new development away from the highest-risk areas; strengthen cyclone and flood early warning systems, shelters and evacuation plans, learning from Odisha’s success; create heat action plans with cool shelters, shade, adjusted working hours and alerts; harvest rainwater, reduce leaks, recycle wastewater and consider desalination.\n\nMitigation: although one city cannot stop global warming, it can expand public transport and electric buses, encourage rooftop solar, improve building efficiency, cut methane from landfills and improve waste management, which also reduces air pollution. The plan should prioritise vulnerable communities, who face the greatest risks, so that adaptation is fair as well as effective.",
+    "key_points": [
+      "Risks: sea-level rise, stronger storms and extreme rain, heatwaves, water shortages and saltwater intrusion.",
+      "Warmer oceans fuel storms and heavier rainfall; mangroves and wetlands buffer surges.",
+      "Adaptation: nature-based defences, drainage, zoning, early warnings and evacuation, heat action plans, water security.",
+      "Mitigation: public transport, electrification, solar, efficiency, methane and waste reduction.",
+      "Fairness: prioritise vulnerable communities who face the greatest risks."
+    ]
+  }
+]

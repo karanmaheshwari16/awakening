@@ -1,0 +1,85 @@
+{
+  "id": "earth.water-cycle.1",
+  "region": "earth",
+  "topic": "water-cycle",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Endless Journey of Water",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "The water you drank today may once have passed through a dinosaur, fallen as rain on an ancient forest, frozen in a glacier for thousands of years and flowed down the Ganges. Earth has roughly the same amount of water today as it did billions of years ago. It just keeps moving.\n\nEach year, the Sun evaporates an astonishing amount of water, around **500,000 cubic kilometres**, from oceans, lakes, soil and plants. That’s enough to cover the whole of India under a layer of water well over a hundred metres deep. All of it eventually falls back to Earth. This endless circulation, the **water cycle**, makes life on land possible."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The **water cycle** (or hydrological cycle) is the continuous movement of water between the ocean, the atmosphere and the land. It’s driven mainly by **energy from the Sun** and by **gravity**.\n\nWater constantly changes state, between **liquid**, **gas** (water vapour) and **solid** (ice and snow), as it moves through the cycle. The total amount of water on Earth stays roughly constant; it’s simply redistributed."
+    },
+    {
+      "type": "steps",
+      "title": "The stages of the water cycle",
+      "items": [
+        "**Evaporation**: the Sun heats water in oceans, lakes and rivers, turning it into invisible water vapour that rises into the air. Most evaporation comes from the ocean.",
+        "**Transpiration**: plants draw water from the soil through their roots and release water vapour through tiny pores in their leaves. A large tree can release hundreds of litres a day. Together, evaporation and transpiration are called **evapotranspiration**.",
+        "**Condensation**: as moist air rises and cools, water vapour condenses into tiny droplets, forming **clouds**, as you saw in the weather lessons.",
+        "**Precipitation**: when droplets or ice crystals grow heavy enough, they fall as **rain**, **snow**, **sleet** or **hail**.",
+        "**Collection and runoff**: precipitation flows over the land into streams, rivers and lakes, and eventually back to the ocean.",
+        "**Infiltration**: some water soaks into the ground, filling spaces between soil particles and cracks in rock, becoming **groundwater**, which may flow slowly underground for years or millennia before emerging in springs, rivers or wells.",
+        "**Storage**: water can be stored for long periods as ice in glaciers and ice sheets, in deep groundwater, in lakes and, for the longest times, in the ocean."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How long does water stay in each place?",
+      "md": "Scientists talk about **residence time**: the average time a water molecule spends in a particular part of the cycle.\n\n- **Atmosphere**: about **9 days** on average, before falling as precipitation.\n- **Rivers**: weeks to months.\n- **Soil moisture**: weeks to months.\n- **Lakes**: years to centuries, depending on size.\n- **Groundwater**: from days in shallow aquifers to **thousands of years** or more in deep ones.\n- **Ocean**: around **3,000 years** on average.\n- **Ice sheets**: hundreds of thousands of years; ice cores from Antarctica contain water that fell as snow over **800,000 years** ago."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of Earth’s water as money moving between accounts. The ocean is a huge long-term savings account; the atmosphere is a fast-moving current account, with money constantly flowing in and out within days; groundwater is a fixed deposit that can take years or millennia to mature; glaciers are a frozen trust fund. If you withdraw from slow accounts faster than they’re refilled, as with deep groundwater, the balance falls, even if water keeps flowing through the fast accounts."
+    },
+    {
+      "type": "text",
+      "heading": "How much water can we actually use?",
+      "md": "Although Earth is called the blue planet, very little of its water is available for human use:\n\n- About **97%** of Earth’s water is salty seawater.\n- Only about **2.5%** is fresh water.\n- Of that fresh water, roughly **69%** is locked up in **glaciers and ice sheets**, mainly in Antarctica and Greenland.\n- About **30%** is **groundwater**, much of it deep underground.\n- Only around **1%** of fresh water is in lakes, rivers, soil moisture and the atmosphere, the most accessible sources.\n\nIf all Earth’s water fitted in a 1-litre bottle, the fresh water in lakes and rivers would amount to only a small fraction of a single teaspoon."
+    },
+    {
+      "type": "text",
+      "heading": "The water towers of Asia",
+      "md": "The **Himalayas** and the neighbouring **Hindu Kush** and Tibetan Plateau contain the largest store of ice outside the polar regions, which is why they’re sometimes called the **“Third Pole”** or the **“water towers of Asia”**.\n\nSnow and glacier melt from these mountains feed major rivers, including the **Indus**, **Ganges** and **Brahmaputra**, as well as the Yangtze, Mekong and others. These river basins support well over a billion people. In the Ganges basin, the monsoon provides most of the water, but snow and glacier melt are especially important in dry seasons and in the upper Indus basin, where they make up a large share of river flow.\n\nMany Himalayan glaciers are shrinking as the climate warms. A major 2019 assessment by the International Centre for Integrated Mountain Development (ICIMOD) warned that even if global warming is limited to 1.5 °C, around a third of the region’s glaciers could be lost by 2100, and far more with higher warming. In the short term, faster melting can increase river flows and the risk of **glacial lake outburst floods**; in the long term, it could reduce dry-season water supplies."
+    },
+    {
+      "type": "text",
+      "heading": "Groundwater: the hidden reservoir",
+      "md": "Groundwater is stored in **aquifers**: layers of porous rock, sand or gravel that hold water, like a sponge. Wells and tube wells tap into aquifers. Groundwater provides drinking water for billions of people and irrigation for a large share of the world’s crops.\n\nBecause it’s hidden, groundwater is easy to overuse. When pumping exceeds the natural rate of recharge from rain and rivers, **water tables** fall, wells must be dug deeper, and in some places the ground itself sinks. You’ll explore this in the next lesson."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Does cutting down forests really affect rainfall?",
+      "md": "Yes, it can. Forests are part of the water cycle. Through transpiration, trees return huge amounts of water vapour to the atmosphere, which can fall again as rain further downwind. In the **Amazon**, scientists estimate that a significant share of rainfall in some regions comes from moisture recycled by the forest itself, sometimes described as “flying rivers” carrying moisture across South America. Large-scale deforestation can reduce this recycling, potentially reducing rainfall and making regions drier. Forests also help rainwater soak into the ground, recharging groundwater and reducing floods and soil erosion. Protecting forests is therefore also about protecting water supplies."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **water cycle** moves water between ocean, atmosphere and land, driven by the **Sun** and **gravity**.",
+        "Stages: **evaporation**, **transpiration**, **condensation**, **precipitation**, **runoff**, **infiltration** and **storage**.",
+        "**Residence times** range from about **9 days** in the atmosphere to around **3,000 years** in the ocean and longer in ice.",
+        "Only about **2.5%** of Earth’s water is fresh, and only about **1%** of that is in lakes, rivers and soil.",
+        "The **Himalayas** are the “**water towers of Asia**”, feeding the **Indus, Ganges and Brahmaputra**; many glaciers are shrinking.",
+        "**Groundwater** in **aquifers** is a vital but easily overused hidden reservoir.",
+        "**Forests** recycle moisture and can influence regional rainfall."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Water is essential for drinking, farming, energy and industry, and its availability shapes where people live and how economies grow. Understanding the water cycle helps you see why fresh water is so precious, why glaciers and forests matter far beyond their own regions and why groundwater can run out. The next lesson explores water scarcity and how societies manage shared water."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the main stages of the water cycle, how much of Earth’s water is fresh and accessible, and why are Himalayan glaciers so important for South Asia?"
+  }
+}
