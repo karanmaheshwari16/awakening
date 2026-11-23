@@ -1,0 +1,83 @@
+{
+  "id": "democracy.federalism.1",
+  "region": "democracy",
+  "topic": "federalism",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Federalism: Sharing Power Across Levels",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **October 1952**, a freedom fighter named **Potti Sriramulu** began a fast unto death in Madras (now Chennai), demanding a separate state for Telugu-speaking people, carved out of the large Madras State. After **58 days** without food, he died on **15 December 1952**.\n\nHis death sparked widespread protests and unrest. Within days, Prime Minister Jawaharlal Nehru announced that a separate **Andhra State** would be created, and it came into existence in **1953**. The movement led to the **States Reorganisation Commission**, and in **1956**, India’s states were largely redrawn along **linguistic lines**. How power is shared between a country’s central government and its regions, called **federalism**, turned out to be deeply bound up with identity, language and democracy itself."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Every country must decide how to divide power between its **central** (national) government and **regional** or **local** governments. There are three broad approaches:\n\n- **Unitary systems**: the central government holds supreme authority, and any regional or local governments exercise only the powers the centre chooses to give them, which it can change or take back. Examples include **France**, **Japan** and **China**. The **United Kingdom** is formally unitary, though it has devolved significant powers to Scotland, Wales and Northern Ireland.\n- **Federal systems**: power is **constitutionally divided** between a central government and regional governments (called states, provinces or cantons), each with its own areas of authority that the other can’t simply take away. Examples include the **United States**, **India**, Germany, Canada, Australia, Brazil and Switzerland.\n- **Confederal systems**: independent states keep most power and delegate limited functions to a weak central body. The **European Union** has some confederal features, alongside some federal ones."
+    },
+    {
+      "type": "text",
+      "heading": "Why federalism?",
+      "md": "Countries adopt federalism for many reasons:\n\n- **Size and diversity**: large, diverse countries can accommodate different languages, cultures, religions and regional identities by giving regions self-government. India and Switzerland are prominent examples.\n- **Bringing together**: federations can be formed when separate states unite while keeping some autonomy, as the American colonies did after independence, creating the US Constitution in **1787**.\n- **Holding together**: some countries adopt federalism to keep a diverse nation united by giving groups a stake in their own governance. India is often described as a “holding together” federation.\n- **Limiting power**: dividing power between levels of government is itself a check on tyranny, complementing the separation of powers."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of federalism like a large family business with branches in different cities. Head office handles things that need to be the same everywhere, like the brand, major finances and overall strategy. Each branch manages local matters, like hiring local staff, adapting products to local tastes and handling local customers, because it knows its area best. The constitution is the agreement setting out who decides what, so neither head office nor the branches can simply grab the other’s responsibilities."
+    },
+    {
+      "type": "text",
+      "heading": "India’s federal structure",
+      "md": "India’s Constitution describes India as a “**Union of States**” (Article 1). Its federal structure has some distinctive features, leading many scholars to call it **quasi-federal** or a federation with a strong centre.\n\nThe **Seventh Schedule** of the Constitution divides legislative powers into three lists:\n\n- The **Union List**: subjects on which only Parliament can make laws, such as **defence**, **foreign affairs**, **currency**, **railways**, **banking** and **atomic energy**.\n- The **State List**: subjects on which state legislatures make laws, such as **police**, **public order**, **public health**, **agriculture** (mostly), **land** and **local government**.\n- The **Concurrent List**: subjects on which both can legislate, such as **education**, **forests**, **criminal law**, **marriage** and **labour**. If laws conflict, Parliament’s law generally prevails.\n\nPowers not listed, called **residuary powers**, belong to the Union, unlike in the US, where they belong to the states."
+    },
+    {
+      "type": "text",
+      "heading": "Features of a strong centre",
+      "md": "Several features give India’s central government significant power:\n\n- Parliament can **create new states** and change state boundaries by ordinary law, as it did when creating states like Telangana in **2014**.\n- **Governors** of states are appointed by the President, on the central government’s advice.\n- In emergencies, the centre can take over many state powers.\n- Under **Article 356**, if a state government can’t function according to the Constitution, the President can impose **President’s Rule**, with the centre governing the state directly, as you’ll see in the next lesson.\n- Many major taxes are collected by the centre, giving it financial leverage.\n\nAt the same time, India has become more federal in practice over time, especially as strong regional parties have governed many states and coalition governments at the centre depended on them."
+    },
+    {
+      "type": "steps",
+      "title": "Three tiers: local government",
+      "items": [
+        "In **1992**, the **73rd and 74th Constitutional Amendments** created a constitutionally recognised **third tier** of government: elected **panchayats** in rural areas and **municipalities** in urban areas.",
+        "Rural local government has three levels in most states: **village**, **block** and **district**.",
+        "Elections must be held every five years, overseen by **State Election Commissions**.",
+        "Seats are **reserved** for Scheduled Castes, Scheduled Tribes and women; at least one-third of seats for women, raised to half in many states.",
+        "Local bodies handle matters like local roads, water supply, sanitation and some welfare programmes.",
+        "In practice, many local bodies remain limited by insufficient funds, staff and real powers, which state governments control, so the depth of decentralisation varies greatly between states."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Federalism around the world",
+      "md": "- **United States**: states have broad powers, including over most criminal law, education and elections. Each state has its own constitution, and the Senate gives each state equal representation regardless of population.\n- **Switzerland**: highly decentralised, with **26 cantons** holding significant powers, and frequent referendums at every level.\n- **Germany**: states (Länder) implement most federal laws and are represented directly in the upper house, the **Bundesrat**.\n- **Canada**: provinces have substantial powers; **Quebec**, French-speaking, has held two referendums on independence, in 1980 and 1995, both narrowly rejected."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What are the advantages and disadvantages of federalism?",
+      "md": "**Advantages**: policies can be **tailored** to local needs and preferences; governments are **closer** to the people; diverse groups can enjoy **self-government**, reducing conflict; power is **divided**, limiting tyranny; and states can act as **laboratories of democracy**, a phrase from US Supreme Court Justice **Louis Brandeis** in **1932**, experimenting with policies that others can copy if they succeed, such as Kerala’s achievements in health and education. **Disadvantages**: **inequality** between regions in services and opportunities; **duplication** and complexity; difficulty **coordinating** responses to national problems, like pandemics or pollution that cross state borders; disputes over **powers and money**; and the risk that regional differences harden into divisions. Most federal countries continually renegotiate the balance."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Unitary** systems concentrate authority at the centre; **federal** systems divide it constitutionally; **confederal** systems keep most power with member states.",
+        "Federalism helps accommodate **size and diversity**, **unite** separate states, **hold together** diverse nations and **limit power**.",
+        "**Potti Sriramulu’s** fast (**1952**) led to **Andhra State** and **linguistic reorganisation** of states in **1956**.",
+        "India is a “**Union of States**”, often called **quasi-federal**; the **Seventh Schedule** divides powers into **Union**, **State** and **Concurrent Lists**, with **residuary powers** for the Union.",
+        "The **73rd and 74th Amendments (1992)** created elected **panchayats** and **municipalities**.",
+        "Federalism allows **local tailoring** and **experimentation** (“laboratories of democracy”) but can create **inequality** and **coordination** problems."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Many of the services that affect your daily life, like police, health, schools, roads and water, are run by state or local governments, while others are national. Understanding federalism helps you know who is responsible for what, make sense of disputes between the centre and states, and see how large, diverse democracies like India hold together. Next, you’ll explore the money and politics of centre–state relations."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between unitary and federal systems, how does India’s Constitution divide powers between the Union and the states, and what are the main advantages and disadvantages of federalism?"
+  }
+}

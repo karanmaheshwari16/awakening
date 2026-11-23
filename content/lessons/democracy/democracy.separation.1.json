@@ -1,0 +1,77 @@
+{
+  "id": "democracy.separation.1",
+  "region": "democracy",
+  "topic": "separation",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Separation of Powers: Keeping Power in Check",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On the night of **25 June 1975**, Indian President **Fakhruddin Ali Ahmed**, on the advice of Prime Minister **Indira Gandhi**, declared a national **Emergency**, citing threats to internal security. It came shortly after the Allahabad High Court had found Indira Gandhi guilty of electoral malpractice in her 1971 election, invalidating her election.\n\nFor the next **21 months**, civil liberties were suspended. Opposition leaders and tens of thousands of others were jailed without trial; newspapers were censored; elections were postponed. In a **1976** case known as **ADM Jabalpur**, the Supreme Court ruled that during the Emergency, people could not go to court to challenge unlawful detention. When elections were finally held in **1977**, voters decisively defeated the ruling party, and the new government passed constitutional amendments to make such an Emergency much harder in future. The episode remains a powerful lesson in why power must be divided and limited."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "One of the central ideas of constitutional democracy is that concentrating all power in one person or institution is dangerous, however good their intentions. The solution is to **divide** power and make different parts of government **check** each other.\n\nThe idea was famously developed by the French philosopher **Montesquieu** in *The Spirit of the Laws* (**1748**). Inspired partly by his reading of the British constitution, he argued that liberty could only be secure if the powers of government were separated into three branches:\n\n1. The **legislature**, which **makes laws**: India’s Parliament, the US Congress, the UK Parliament.\n2. The **executive**, which **implements and enforces** laws and runs the government: the Prime Minister, President, ministers and civil service.\n3. The **judiciary**, which **interprets laws** and settles disputes: the courts.\n\nMontesquieu warned that when the legislative and executive powers are united in the same person or body, there can be no liberty, and that there is no liberty if the judicial power is not separated from the other two."
+    },
+    {
+      "type": "text",
+      "heading": "Checks and balances",
+      "md": "Separation alone isn’t enough; each branch also needs ways to **limit** the others. These are called **checks and balances**.\n\nThe **United States Constitution** of **1787** built in many of them:\n\n- Congress passes laws, but the **President can veto** them.\n- Congress can **override** a veto with a two-thirds majority in both houses.\n- The President appoints judges and senior officials, but the **Senate must confirm** them.\n- The courts can strike down laws that violate the Constitution, a power called **judicial review**, established in the landmark case **Marbury v. Madison** in **1803**.\n- Congress can **impeach** and remove the President and judges for serious misconduct."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the three branches as three people who each hold one key to a vault, with three locks. No one can open the vault alone; they must agree. And each can watch the others to make sure no one tries to break in on their own. It’s less efficient than giving one person all the keys, but much safer, especially when you can’t be sure who will be holding them in the future."
+    },
+    {
+      "type": "text",
+      "heading": "Separation in parliamentary systems",
+      "md": "In **parliamentary systems**, like India and the UK, the separation between the executive and legislature is less strict. The Prime Minister and ministers are members of Parliament and depend on its support. This is sometimes called a **fusion** of powers.\n\nChecks still operate:\n\n- **Parliament holds the government accountable** through debates, questions, committees and votes on budgets and laws.\n- A government that loses a **vote of no confidence** must resign or call an election.\n- An **independent judiciary** can review government actions and, in India, laws.\n- In India, the **President**, though largely acting on the advice of the government, can return certain bills to Parliament for reconsideration once."
+    },
+    {
+      "type": "text",
+      "heading": "India’s judiciary and the basic structure",
+      "md": "India’s **Supreme Court** has wide powers of **judicial review**: it can strike down laws and government actions that violate the Constitution, including **fundamental rights**.\n\nA central question in India was whether Parliament could amend **any** part of the Constitution. In the landmark **Kesavananda Bharati** case of **1973**, decided by a 13-judge bench, the Supreme Court ruled, by a narrow 7–6 majority, that Parliament can amend the Constitution, but **cannot alter its basic structure**. Elements identified as part of the basic structure in this and later cases include the supremacy of the Constitution, democracy, secularism, federalism, the separation of powers, judicial review and free and fair elections.\n\nThe **basic structure doctrine** is one of the most important features of Indian constitutional law. Supporters see it as a vital safeguard against majorities dismantling democracy; critics argue it gives unelected judges too much power over elected lawmakers. Courts in several other countries, including Bangladesh and Kenya, have drawn on similar ideas."
+    },
+    {
+      "type": "steps",
+      "title": "Lessons from the Emergency",
+      "items": [
+        "The Emergency (**1975–1977**) showed how constitutional powers could be used to suspend democracy legally.",
+        "After the 1977 election, the new government passed the **44th Amendment** in **1978**, adding safeguards: a national emergency can now be declared on grounds of **armed rebellion** rather than vaguer “internal disturbance”, only on written advice of the Cabinet, and must be approved by Parliament with a special majority.",
+        "It also ensured that the **right to life and personal liberty** (Article 21) cannot be suspended even during an emergency.",
+        "In **2017**, a nine-judge bench of the Supreme Court, in the **Puttaswamy** case recognising a fundamental **right to privacy**, explicitly stated that the **ADM Jabalpur** judgment had been seriously flawed and was overruled.",
+        "The episode is often cited as showing both the fragility of democratic safeguards and the power of voters and institutions to restore them."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Doesn’t separating powers make government slow and inefficient?",
+      "md": "Yes, sometimes, and that’s partly the point. Checks and balances are deliberately designed to make it **harder** to act, so that major decisions require broad agreement and can’t be imposed by a single person or a temporary majority. The trade-off is that they can produce **gridlock**, delays and frustration, especially when different branches are controlled by opposing parties, as often happens in the United States. Some argue that strong, unchecked leaders can “get things done” faster. But history suggests that concentrated power can also make catastrophic mistakes, abuse rights and become impossible to remove. Most constitutional designers accept some inefficiency as the price of protecting liberty and preventing the worst outcomes."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Montesquieu (1748)** argued liberty requires separating **legislative**, **executive** and **judicial** powers.",
+        "**Checks and balances** let each branch limit the others: **vetoes**, **confirmations**, **judicial review** (**Marbury v. Madison, 1803**) and **impeachment** in the US.",
+        "**Parliamentary systems** fuse executive and legislature, but Parliament holds government accountable, including through **no-confidence votes**.",
+        "India’s **Supreme Court** has strong **judicial review**; the **Kesavananda Bharati (1973)** case established the **basic structure doctrine**.",
+        "The **Emergency (1975–77)** suspended civil liberties; the **44th Amendment (1978)** added safeguards; **ADM Jabalpur** was overruled in **2017**.",
+        "Checks and balances can cause **gridlock**, but protect against the abuse of concentrated power."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "How power is divided determines whether leaders can be held accountable and whether rights are protected when majorities or leaders overreach. Understanding separation of powers helps you make sense of clashes between governments, parliaments and courts, and appreciate the safeguards that protect democracy, as well as the debates about where the balance should lie."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the three branches of government, what are checks and balances, and what is India’s basic structure doctrine?"
+  }
+}

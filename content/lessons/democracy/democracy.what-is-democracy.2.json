@@ -1,0 +1,81 @@
+{
+  "id": "democracy.what-is-democracy.2",
+  "region": "democracy",
+  "topic": "what-is-democracy",
+  "level": 2,
+  "prerequisites": [
+    "democracy.what-is-democracy.1"
+  ],
+  "title": "Many Kinds of Democracy, and How to Measure Them",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Between **2016 and 2018**, the Republic of Ireland tried an unusual experiment. The government brought together **99** ordinary citizens, chosen randomly to reflect the population by age, gender, region and social background, into a **Citizens’ Assembly**. Over several weekends, they heard from experts, advocates and people with personal experience, then deliberated in small groups about some of the country’s most divisive issues, including abortion, which was then almost entirely banned under the constitution.\n\nThe assembly recommended significant change. In a **2018** referendum, Irish voters agreed, by about two to one. Supporters argued the assembly had helped a deeply divided society discuss a painful issue more calmly and thoughtfully than politicians alone could. Democracy, it turns out, can take many forms beyond simply voting every few years."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw the core features of democracy: free and fair elections, universal suffrage, rights, the rule of law and peaceful transfers of power. But democracies organise themselves in many different ways.\n\nOne of the most important differences is how the **executive** (the government that runs the country) relates to the **legislature** (the elected body that makes laws):\n\n- In a **parliamentary system**, like **India**, the **UK**, Japan and Canada, voters elect a legislature, and the government is formed by whoever can command a majority there. The **Prime Minister** is usually the leader of the largest party or coalition, and remains in office only as long as they keep the legislature’s confidence. A separate **head of state**, such as India’s President or the British monarch, has a largely ceremonial role.\n- In a **presidential system**, like the **United States**, Brazil and Mexico, voters directly elect a **President** who is both head of state and head of government, for a fixed term, separately from the legislature. The President can’t normally be removed by a vote of no confidence.\n- In a **semi-presidential system**, like **France**, there is both a directly elected President with significant powers and a Prime Minister accountable to the legislature."
+    },
+    {
+      "type": "text",
+      "heading": "Strengths and weaknesses",
+      "md": "Each system has trade-offs:\n\n- **Parliamentary systems** can act quickly when the government has a majority, and can replace an unpopular leader without waiting for an election. But they can be unstable when no party has a majority, and a government with a large majority may face few checks.\n- **Presidential systems** give voters a direct choice of leader and provide stability through fixed terms. But conflict between a President and a legislature controlled by opponents can produce **gridlock**. The political scientist **Juan Linz** argued that presidential systems were more prone to democratic breakdown, especially in Latin America, though others dispute how strong that pattern is.\n\nMany democracies are also **constitutional monarchies**, like the UK, Japan, Sweden and Thailand, where a hereditary monarch is head of state but real power lies with elected institutions."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a parliamentary system like a company where the shareholders elect a board, and the board chooses the chief executive, who can be replaced by the board at any time. A presidential system is like a company where shareholders elect both the board and the chief executive separately, for fixed terms. The first is more flexible; the second is more stable, but the chief executive and the board might be at war for years."
+    },
+    {
+      "type": "text",
+      "heading": "Measuring democracy",
+      "md": "Several organisations try to measure how democratic countries are, using expert assessments, surveys and other data:\n\n- **V-Dem** (Varieties of Democracy), based at the University of Gothenburg in Sweden, uses thousands of country experts to assess many aspects of democracy, from elections to civil liberties and judicial independence.\n- **Freedom House**, a US-based organisation, rates countries as “Free”, “Partly Free” or “Not Free” based on political rights and civil liberties.\n- The **Economist Intelligence Unit’s Democracy Index** classifies countries as full democracies, flawed democracies, hybrid regimes or authoritarian regimes.\n\nThese indices are widely used by researchers and journalists, but they’re also **debated**. Critics question how subjective expert judgements are, whether the criteria reflect particular cultural or political assumptions, and whether ratings are applied consistently across countries. Governments sometimes strongly dispute their ratings: in recent years, for example, several indices downgraded their assessments of **India**, and the Indian government rejected those assessments as biased and flawed. Different indices also sometimes disagree with each other. They’re best treated as useful starting points for asking questions, rather than final verdicts."
+    },
+    {
+      "type": "text",
+      "heading": "Democracy beyond elections",
+      "md": "Some thinkers argue that democracy should involve more than voting every few years:\n\n- **Deliberative democracy** emphasises reasoned public discussion: citizens weighing evidence and arguments together before decisions are made, as in Ireland’s Citizens’ Assembly. Citizens’ assemblies have also been used on climate change in France and the UK, and in many local governments.\n- **Participatory budgeting**, pioneered in the Brazilian city of **Porto Alegre** in **1989**, lets residents directly decide how to spend part of the city budget. The idea has spread to thousands of cities worldwide, including some in India, such as Pune.\n- **Direct democracy** through **referendums**, common in **Switzerland**, where citizens vote on many national and local issues several times a year.\n- **Local democracy**: India’s **73rd and 74th Constitutional Amendments** of **1992** created elected local governments in villages (**panchayats**) and towns, with at least **one-third** of seats reserved for women, raised to **50%** in many states. This created over a million elected women representatives, one of the largest experiments in local democracy anywhere."
+    },
+    {
+      "type": "steps",
+      "title": "Why democracy, despite its flaws?",
+      "items": [
+        "In **1947**, **Winston Churchill** told the British House of Commons that democracy is the worst form of government, except for all the others that have been tried, noting that he was repeating something that had been said before.",
+        "**Accountability**: voters can remove leaders who perform badly, without violence.",
+        "**Rights**: democracies generally protect freedoms of speech, belief and association better than other systems.",
+        "**Famine prevention**: the Indian economist **Amartya Sen** observed that no major famine has occurred in a functioning democracy with a free press, because governments must respond to public pressure and information flows freely. India has not suffered a major famine since independence, unlike under colonial rule.",
+        "**Peace**: as you saw in the Politics region, democracies rarely fight wars against each other.",
+        "**Error correction**: open debate and changes of government allow societies to recognise and fix mistakes, though not always quickly."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can a country be democratic if it holds elections but restricts rights?",
+      "md": "This is why political scientists distinguish different kinds of regimes. As you saw in the previous lesson, **electoral democracies** hold real, competitive elections; **liberal democracies** also robustly protect rights and constrain power. Beyond these, some regimes hold elections that are not truly fair, because opponents are harassed, media are controlled or courts are captured, while maintaining a democratic appearance. Scholars call these **competitive authoritarian** or **hybrid** regimes. The boundaries between categories can be blurry, and assessing where a country falls involves judgement, which is exactly why democracy ratings are so often debated. You’ll explore how democracies can weaken, and strengthen, later in this region."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Parliamentary systems** (India, UK) form governments from the legislature; **presidential systems** (US, Brazil) elect a president separately; **semi-presidential systems** (France) combine both.",
+        "Parliamentary systems are flexible but can be unstable; presidential systems are stable but prone to **gridlock**.",
+        "**Constitutional monarchies** keep a hereditary head of state with power held by elected institutions.",
+        "Indices like **V-Dem**, **Freedom House** and the **EIU Democracy Index** measure democracy, but their methods and ratings are **debated**, and governments sometimes dispute them.",
+        "**Deliberative democracy** (Ireland’s **Citizens’ Assembly**), **participatory budgeting** (**Porto Alegre, 1989**) and **referendums** (Switzerland) expand participation.",
+        "India’s **1992** amendments created elected **panchayats** with reserved seats for women.",
+        "**Amartya Sen** observed that famines don’t occur in functioning democracies with a free press."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding the different forms democracy can take helps you compare countries, interpret news about elections and governments, and think about how democracy could work better. It also helps you evaluate claims about how democratic a country is, including your own, with a critical eye towards both the evidence and the methods used to measure it."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between parliamentary and presidential democracy, how do organisations try to measure democracy and why are their ratings debated, and what is deliberative democracy?"
+  }
+}

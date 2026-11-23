@@ -1,0 +1,85 @@
+{
+  "id": "democracy.federalism.2",
+  "region": "democracy",
+  "topic": "federalism",
+  "level": 2,
+  "prerequisites": [
+    "democracy.federalism.1"
+  ],
+  "title": "Centre, States and Money",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **1 July 2017**, at a special midnight session of Parliament, India launched the **Goods and Services Tax (GST)**. It replaced a tangle of different taxes levied by the central government and each of the states, which had made moving goods across state borders slow and costly, with trucks often waiting for hours at state border checkpoints.\n\nAgreeing to GST took more than a decade of negotiation, and required a constitutional amendment. States had to give up some of their independent power to set taxes, in exchange for a share of a unified system and promises of compensation for lost revenue. It was one of the biggest reforms in India’s history, and a vivid example of how money lies at the heart of federalism."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how federalism divides **powers** between the centre and the states. But powers mean little without **money** to carry them out. **Fiscal federalism** is the study of how taxing and spending responsibilities, and money itself, are divided between levels of government.\n\nA common challenge in federations is **vertical fiscal imbalance**: the central government often has the most powerful sources of revenue, like income tax and corporate tax, while states are responsible for many of the most expensive services, like health, education, police and agriculture. As a result, money has to be **transferred** from the centre to the states.\n\nThere’s also **horizontal imbalance**: some states are much richer than others, with greater ability to raise revenue, while poorer states may need more help to provide basic services."
+    },
+    {
+      "type": "text",
+      "heading": "The Finance Commission",
+      "md": "India’s Constitution provides a mechanism for sharing money fairly: the **Finance Commission**, established under **Article 280**. It’s an independent body appointed by the President every **five years**.\n\nIts main tasks include recommending:\n\n- How much of the central government’s tax revenue should be **shared with the states** (the **divisible pool**).\n- How that share should be **divided among the states**, using a formula based on factors like population, area, income levels (giving more to poorer states), forest cover and demographic performance.\n- Grants to states and local bodies.\n\nThe **15th Finance Commission**, covering the period from 2021 to 2026, recommended that states receive **41%** of the divisible pool of central taxes. The formula is often debated: some states, especially in the south, argue they’re penalised for better performance, such as success in controlling population growth or higher incomes, by receiving a smaller share than they contribute."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of fiscal federalism as a large joint family where one member, the centre, earns most of the household’s income, but the other members, the states, do most of the work of running the house: feeding everyone, looking after health and schooling. A fair arrangement is needed for sharing the income, with extra help for members who have more mouths to feed but earn less. The Finance Commission is like a respected elder who recommends how to divide the money, so that arguments are settled by an agreed formula rather than favouritism."
+    },
+    {
+      "type": "text",
+      "heading": "GST: pooling sovereignty",
+      "md": "Before **2017**, the centre and states levied many different indirect taxes on goods and services, with different rates in different states, and taxes often charged on top of other taxes. **GST** replaced many of them with a single, unified system:\n\n- Both the centre and states levy GST on the same transactions, sharing the revenue.\n- A **GST Council**, chaired by the Union Finance Minister and including the finance ministers of all states, decides on tax rates and rules. The centre has one-third of the voting weight and states two-thirds, and decisions need a three-quarters majority, so neither can act alone.\n- States were promised **compensation** for any revenue losses during the first five years.\n\nGST has been described as an example of **cooperative federalism**, with centre and states pooling some of their tax powers. It has simplified interstate trade and widened the tax base. Critics point to its multiple tax rates, complex compliance for small businesses, and disputes over compensation, especially after the COVID-19 pandemic reduced revenues. Some states argue that GST reduced their fiscal autonomy."
+    },
+    {
+      "type": "text",
+      "heading": "Cooperative and competitive federalism",
+      "md": "- **Cooperative federalism** emphasises the centre and states working together on shared goals, through joint bodies like the GST Council and the **NITI Aayog**, which replaced the Planning Commission in **2015** as a policy think tank including state chief ministers.\n- **Competitive federalism** emphasises states competing with each other to attract investment, improve governance and deliver better services, encouraged by rankings on things like ease of doing business.\n\nIn practice, Indian federalism also has a **conflictual** side: disputes between central and state governments led by different parties over funds, governors’ roles, central agencies and policies."
+    },
+    {
+      "type": "steps",
+      "title": "Article 356 and President’s Rule",
+      "items": [
+        "**Article 356** allows the President, usually on the central government’s advice, to impose **President’s Rule** on a state if the state government cannot function according to the Constitution. The state government is dismissed, and the centre governs directly through the Governor.",
+        "It was intended as a rare emergency measure. But in practice, it was used **over 100 times** since independence, often against state governments led by opposition parties, sometimes on questionable grounds.",
+        "In the landmark **S. R. Bommai** case of **1994**, the Supreme Court ruled that the President’s satisfaction under Article 356 is subject to **judicial review**, and that a government’s majority should be tested on the floor of the legislature, not decided by the Governor’s opinion.",
+        "Since the Bommai judgment, the use of Article 356 has declined considerably.",
+        "The roles of **Governors**, who are appointed by the centre, remain a source of tension, with disputes over delays in approving state bills, which the Supreme Court has also addressed in recent years."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Special arrangements and changes",
+      "md": "Federal systems sometimes include special arrangements for particular regions. India’s Constitution included **Article 370**, which gave the state of **Jammu and Kashmir** special autonomous status, with its own constitution and limits on the application of central laws.\n\nIn **August 2019**, the central government revoked Jammu and Kashmir’s special status and reorganised the state into two **Union Territories**, Jammu and Kashmir, and Ladakh, governed more directly by the centre. Supporters argued it would integrate the region more fully, promote development and improve security; critics argued it undermined federalism and was carried out without the consent of the region’s elected representatives, during a period of communication restrictions and detentions. In **December 2023**, the Supreme Court upheld the revocation of Article 370, while directing that statehood be restored and elections held; assembly elections took place in **2024**.\n\nSeveral northeastern states also have special constitutional provisions protecting local customs, land and governance."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How does the European Union compare to a federation?",
+      "md": "The **European Union** is a unique hybrid. Its **27** member states remain sovereign countries with their own armies, foreign policies and most taxes. But they’ve **pooled** sovereignty in many areas: a single market with common rules, freedom for citizens to live and work across member states, a **European Parliament** directly elected by citizens, a **Court of Justice** whose rulings bind member states, and, for 20 members, a shared currency, the **euro**, managed by the European Central Bank. Some see the EU as moving towards federation; others insist it must remain a union of nation-states. Debates over how much power to share came to a head in **2016**, when voters in the **United Kingdom** decided in a referendum to **leave** the EU, by **52%** to **48%**, a process known as **Brexit**, completed in 2020. It showed that the balance of power between levels of government is always open to democratic challenge."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Fiscal federalism** concerns how taxing and spending are divided; **vertical fiscal imbalance** means the centre raises more revenue while states provide many services.",
+        "India’s **Finance Commission** (**Article 280**) recommends sharing central taxes with states; the **15th Finance Commission** set the states’ share at **41%**.",
+        "**GST (2017)** unified indirect taxes, governed by a **GST Council** where centre and states share decisions: an example of **cooperative federalism**.",
+        "**NITI Aayog** (2015) replaced the Planning Commission; federalism also has **competitive** and **conflictual** sides.",
+        "**Article 356** (President’s Rule) was used over **100 times**; the **S. R. Bommai** case (**1994**) limited its misuse.",
+        "Jammu and Kashmir’s special status under **Article 370** was revoked in **2019**; the Supreme Court upheld this in **2023**.",
+        "The **EU** pools sovereignty in a unique hybrid; the UK voted to leave in **2016** (**Brexit**)."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "How money and power flow between national and state governments affects the schools, hospitals, roads and services in your area, and shapes political battles between governments led by different parties. Understanding fiscal federalism helps you follow debates about tax sharing, GST, governors and state autonomy, and appreciate the constant negotiation that holds large, diverse democracies together."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is fiscal federalism and why does the Finance Commission matter, how did GST change centre–state relations, and why has Article 356 been controversial?"
+  }
+}

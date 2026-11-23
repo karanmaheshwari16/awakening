@@ -1,0 +1,310 @@
+##### LESSON
+id: democracy.separation.2
+title: Watchdogs: Courts, Auditors and the Right to Know
+minutes: 15
+prereq: democracy.separation.1
+check: In your own words: why do democracies need independent institutions like courts, auditors and ombudsmen, how does India’s Right to Information Act work, and what tension exists between independence and accountability?
+
+=== hook
+In the late **1990s**, in villages in **Rajasthan**, a grassroots organisation called the **Mazdoor Kisan Shakti Sangathan (MKSS)**, co-founded by **Aruna Roy**, began holding public hearings called **jan sunwais**. At these meetings, officials’ records of spending on local public works, such as roads, wells and wages, were read aloud in front of villagers.
+
+Villagers frequently discovered that money had been recorded as spent on workers who didn’t exist, or on projects never built. People who had supposedly been paid wages stood up to say they had never received them. The campaign’s slogan was simple: “**Our money, our accounts**.” This grassroots movement helped drive the passage of India’s **Right to Information Act** in **2005**, one of the most widely used transparency laws in the world. Democracy, it showed, needs more than elections: it needs ways for citizens to see what those in power are doing.
+
+=== core
+In the previous lesson, you saw how democracies divide power between the legislature, executive and judiciary. But modern democracies also rely on a wider set of **independent institutions**, sometimes called **watchdogs** or **guardian institutions**, designed to hold power accountable, ensure fair rules and protect citizens.
+
+These include:
+
+- **Independent courts**, which interpret laws and protect rights.
+- **Election commissions**, which run elections impartially, as you saw earlier.
+- **Central banks**, which manage money and inflation, as you saw in the Money and Economics regions.
+- **Auditors**, who check how public money is spent.
+- **Ombudsmen** and anti-corruption bodies, who investigate complaints and wrongdoing.
+- **Human rights commissions** and information commissions.
+- A **free press**, which, though not a government institution, performs a vital watchdog role.
+
+A common feature is that they’re designed to be insulated from the day-to-day pressures of politics, so they can act impartially, including against the government of the day.
+
+=== text Independent courts
+**Judicial independence** means judges can decide cases based on law and evidence, without pressure from governments, parties, businesses or the public. Without it, courts can’t protect rights or check abuses of power.
+
+Safeguards include **security of tenure** (judges can’t easily be removed), protected **salaries**, and independent processes for **appointing** judges.
+
+How judges should be appointed is debated in many countries. In **India**, senior judges are appointed through the **collegium system**, in which a group of the most senior Supreme Court judges recommends appointments, a system that developed through court judgments in the 1990s. In **2014**, Parliament created a **National Judicial Appointments Commission (NJAC)** that would have included government representatives. In **2015**, the Supreme Court struck it down, ruling that it threatened judicial independence, part of the basic structure. Critics argue the collegium lacks transparency and accountability; supporters say it protects courts from political influence. The debate continues.
+
+=== text Auditors and the CAG
+Public money is collected from citizens through taxes, so citizens have a right to know it’s spent properly. **Supreme audit institutions** examine government accounts and report to legislatures.
+
+In India, the **Comptroller and Auditor General (CAG)**, established under the Constitution, audits the accounts of the central and state governments and many public bodies. Its reports are presented to Parliament and state legislatures and examined by committees such as the **Public Accounts Committee**, traditionally chaired by a member of the opposition.
+
+CAG reports have sometimes triggered major political debates. A **2010** CAG report on the allocation of **2G telecom spectrum** estimated a very large presumptive loss to the government, sparking huge public controversy, a Supreme Court decision cancelling the licences in 2012, and criminal cases. In **2017**, a special court acquitted all the accused in the main case, saying the prosecution had failed to prove its case. The episode showed both the power of audits to drive accountability and debates about how losses should be estimated.
+
+=== callout analogy
+Think of a democracy as a household where you’ve hired people to manage your money, your property and your safety. Elections let you hire and fire the managers every few years. But between elections, you need an accountant to check the books (auditors), a trusted referee to settle disputes (courts), someone you can complain to if you’re treated unfairly (ombudsmen) and the right to inspect the paperwork yourself (right to information). Without them, you’re trusting the managers blindly.
+
+=== text Ombudsmen and anti-corruption bodies
+The word **ombudsman** comes from **Sweden**, which created an official in **1809** to investigate citizens’ complaints against public authorities. The idea spread worldwide.
+
+In India, the **Lokpal and Lokayuktas Act** was passed in **2013**, after a high-profile anti-corruption movement in **2011**, led by the activist **Anna Hazare**, brought large crowds onto the streets. The law created a **Lokpal**, an anti-corruption ombudsman at the national level, with the power to investigate allegations against public officials, including the Prime Minister under certain conditions, and **Lokayuktas** at the state level. The first Lokpal was appointed in **2019**.
+
+=== steps How India’s Right to Information Act works
+- The **Right to Information (RTI) Act**, passed in **2005**, gives any citizen the right to request information from public authorities.
+- A citizen submits a written request, usually with a small fee, waived for people below the poverty line, without needing to give a reason.
+- The authority must respond within **30 days**, or **48 hours** if the information concerns someone’s life or liberty.
+- Some information can be withheld, such as information affecting national security or personal privacy, but the law encourages disclosure.
+- If a request is refused or ignored, citizens can appeal to independent **Information Commissions**, which can impose penalties on officials.
+- Millions of RTI requests are filed every year. Citizens have used RTI to expose corruption, track the delivery of welfare schemes and obtain their own records. It has also come at a cost: many RTI activists have been threatened, and some killed. Amendments in **2019** changing the terms of Information Commissioners were criticised by transparency advocates as reducing their independence.
+
+=== text Who guards the guardians?
+The Roman poet **Juvenal** asked: “*Quis custodiet ipsos custodes?*”, often translated as “**Who will guard the guards themselves?**” It captures a basic tension in democratic design.
+
+Independent institutions need to be protected from political pressure, so they can act against those in power. But they also need to be **accountable** themselves, since unelected officials and judges can make mistakes, overreach or pursue their own agendas. Debates about **judicial activism**, where courts are accused of making policy rather than interpreting law, about central bank powers, and about the appointment of watchdog officials all reflect this tension.
+
+Democracies try to balance independence and accountability through transparent appointments, fixed terms, public reasoning for decisions, parliamentary oversight and the possibility of appeal or reform through legitimate processes.
+
+=== reveal What happens to democracy when independent institutions are weakened?
+As you saw in the Politics region, political scientists such as Steven Levitsky and Daniel Ziblatt warn that modern democratic decline often happens gradually, through the **capture of referees**: appointing loyalists to courts, election commissions and watchdog bodies, or reducing their powers and budgets. Once referees are captured, those in power can use them against opponents while appearing to follow legal procedures. This can be harder to detect than a coup, because elections still happen and institutions still exist on paper. That’s why many scholars argue that defending the independence of courts, election bodies, auditors and the press, whichever party is in government, is one of the most important protections for democracy. You’ll explore these dynamics further in the resilience lessons.
+
+=== keypoints
+- Democracies rely on **independent institutions**: **courts**, **election commissions**, **central banks**, **auditors**, **ombudsmen** and a **free press**.
+- **Judicial independence** needs secure tenure and independent appointments; India uses the **collegium**; the **NJAC** was struck down in **2015**.
+- India’s **CAG** audits public spending; the **2G spectrum** report (2010) showed audits’ power and debates over estimates.
+- The **ombudsman** originated in **Sweden (1809)**; India’s **Lokpal Act (2013)** followed the **2011** anti-corruption movement.
+- India’s **RTI Act (2005)**, driven partly by the **MKSS** movement, lets citizens request government information within **30 days**.
+- “**Who guards the guardians?**”: democracies must balance **independence** with **accountability**.
+- **Capturing referees** is a common route to democratic decline.
+
+=== why
+Elections are only part of democracy. Between elections, independent institutions and transparency laws let citizens see how power is used, challenge abuses and hold officials accountable. Understanding them helps you use tools like RTI, recognise when watchdogs are under threat, and appreciate the quiet work that keeps democracies honest.
+
+##### LESSON
+id: democracy.parties.1
+title: Political Parties: The Machinery of Democracy
+minutes: 15
+check: In your own words: what functions do political parties perform, what are the main types of party systems, and why did India introduce an anti-defection law?
+
+=== hook
+In **1967**, the state of **Haryana** experienced a political spectacle. An elected legislator named **Gaya Lal** reportedly switched parties three times within a short span, in some accounts within a single day or two. The phrase “**Aaya Ram, Gaya Ram**” (Ram came, Ram went) became a popular way to describe politicians who changed parties frequently, often lured by offers of ministerial posts or money.
+
+Such defections toppled several state governments in the late 1960s and after. Voters who had chosen a candidate partly because of their party found their votes effectively switched to a party they hadn’t supported. In **1985**, India amended its Constitution to add an **anti-defection law**. The episode highlights a basic fact of modern democracy: parties are central to how it works, for better and worse.
+
+=== core
+A **political party** is an organisation that seeks to gain political power, usually by contesting elections, in order to implement its policies and ideas. Parties aren’t mentioned in many older constitutions, and some early democratic thinkers, including George Washington, warned against “factions”. Yet parties emerged in almost every democracy, because they perform functions that democracy needs.
+
+Key functions of parties include:
+
+- **Offering choices**: parties bundle policies into recognisable platforms, making it easier for voters to choose among alternatives.
+- **Aggregating interests**: they bring together different groups and demands into broader coalitions.
+- **Recruiting and training leaders**: most politicians rise through parties.
+- **Mobilising voters**: parties encourage people to register, participate and vote.
+- **Forming governments** and providing **opposition**: in parliamentary systems, the party or coalition with a majority forms the government; others hold it accountable.
+- **Accountability**: voters can reward or punish a party for its record, even when individual politicians change.
+
+=== text Types of party systems
+Countries differ in how many parties compete effectively:
+
+- **One-party systems**: only one party is legally allowed to hold power, as in China, where the Communist Party rules. These aren’t democracies.
+- **Dominant-party systems**: multiple parties compete freely, but one party wins for long periods. India from 1947 to the late 1960s was described by the political scientist **Rajni Kothari** as the “**Congress system**”: the Indian National Congress dominated, but contained many internal factions that competed within it, while opposition parties exerted pressure from outside. Japan’s Liberal Democratic Party and South Africa’s ANC have also been dominant for long periods.
+- **Two-party systems**: two major parties alternate in power, as in the **United States**, with the Democrats and Republicans, and historically the United Kingdom.
+- **Multi-party systems**: several parties win significant support, and governments are often coalitions, as in Germany, the Netherlands and, since the late 1980s, often India.
+
+As you saw in the elections lessons, electoral systems strongly influence which type develops.
+
+=== callout analogy
+Think of political parties like restaurants offering set menus. Instead of voters having to evaluate hundreds of individual policies, each party offers a combination of dishes: its positions on the economy, welfare, security, rights and so on. Voters choose the menu that suits them best, even if they don’t love every dish. Without parties, voters would face a confusing buffet of thousands of independent candidates with no clear idea what any combination would produce.
+
+=== text India’s party landscape
+India has one of the world’s most complex party systems:
+
+- The **Election Commission** recognises a small number of **national parties**, which have significant support across several states, and many **state parties**, which are strong in particular states.
+- Thousands of **registered** parties exist in total, though most are small.
+- State parties often reflect **regional identities**, languages or social groups, and many have governed their states for long periods.
+- From **1989** to **2014**, no single party won a majority in the Lok Sabha, and India was governed by **coalitions**, with national parties relying on regional allies. In **2014** and **2019**, the Bharatiya Janata Party won majorities on its own; in **2024**, it fell short of a majority and governed with coalition partners.
+
+=== text The anti-defection law
+To curb frequent party-switching, the **52nd Amendment** in **1985** added the **Tenth Schedule** to the Constitution, known as the **anti-defection law**. Under it:
+
+- A legislator can be **disqualified** if they voluntarily give up membership of their party, or vote against their party’s instructions (called a **whip**) on important votes, without permission.
+- The decision on disqualification is made by the **Speaker** or chairperson of the legislature.
+- An exception allows a **merger** if at least two-thirds of a party’s legislators agree to join another party.
+
+Supporters say the law brought stability and respects voters who chose candidates partly for their party. Critics argue it reduces legislators to following party orders, weakening independent debate and their ability to represent constituents, and that Speakers, who are usually from the ruling party, have sometimes delayed or decided cases in partisan ways. Defections have also continued in new forms, such as mass resignations or mergers.
+
+=== steps How parties choose candidates and leaders
+- **Membership**: parties recruit members who pay fees, campaign and sometimes vote on leaders and policies.
+- **Candidate selection**: in many Indian parties, candidates are chosen largely by party leadership, sometimes after consultations. In the US, candidates are often chosen by voters in **primary elections**.
+- **Leadership selection**: some parties hold internal elections; others are dominated by a single leader or family.
+- **Internal democracy** varies widely, and many observers argue weak internal democracy is a problem in parties across the world, including India.
+- **Dynastic politics**, where leadership passes within families, is common in many countries, including India, where a significant share of members of Parliament come from political families across many parties. Critics argue it limits opportunities for new talent; defenders note that voters still decide.
+
+=== reveal How are political parties funded, and why does it matter?
+Parties need money for campaigns, staff, offices, travel and advertising, and elections in large democracies are expensive. Funding sources include **membership fees**, **donations** from individuals and companies, and in some countries **public funding** from the state. Rules differ greatly: some countries cap donations and spending, require detailed disclosure or provide public funds to reduce dependence on wealthy donors; the **United States** allows very large spending by independent groups following a 2010 Supreme Court decision. Funding matters because those who pay may expect influence, and because unequal resources can make competition unfair. As you saw earlier, India’s **electoral bonds** scheme, which allowed anonymous donations, was struck down by the Supreme Court in **2024** on the grounds that voters have a right to know who funds parties. Transparency in political funding remains a major issue in democracies everywhere.
+
+=== keypoints
+- **Political parties** seek power through elections; they **offer choices**, **aggregate interests**, **recruit leaders**, **mobilise voters**, **form governments and opposition** and enable **accountability**.
+- Party systems include **one-party** (not democratic), **dominant-party** (India’s “**Congress system**”), **two-party** (US) and **multi-party** systems.
+- India has **national** and **state parties**; it was governed by **coalitions** from **1989 to 2014**.
+- “**Aaya Ram, Gaya Ram**” defections led to the **anti-defection law** (**52nd Amendment, 1985**, Tenth Schedule).
+- The law brings stability but critics say it weakens legislators’ independence.
+- **Internal democracy**, **dynastic politics** and **party funding** are major debates.
+
+=== why
+Political parties are the machinery through which democracy actually operates: they shape the choices on your ballot, form governments and organise opposition. Understanding how they work, and their weaknesses, helps you evaluate parties critically, understand coalition politics and engage with debates about reform. Next, you’ll explore why voters choose the parties they do.
+
+##### LESSON
+id: democracy.parties.2
+title: Why Voters Choose: Identity, Interests and Polarisation
+minutes: 15
+prereq: democracy.parties.1
+check: In your own words: what are the main theories of how voters decide, what is the median voter theorem, and what is affective polarisation?
+
+=== hook
+During the **1992** US presidential campaign, the strategist **James Carville**, working for candidate **Bill Clinton**, hung a sign in the campaign headquarters to keep staff focused. One of its lines became famous: “**The economy, stupid.**”
+
+Clinton, a relatively little-known governor, defeated the sitting President, **George H. W. Bush**, who had been extremely popular just a year earlier after the Gulf War, partly because voters were worried about a recession. The slogan captured one popular theory of voting: people judge governments mainly by the state of the economy. But is that how most voters really decide? Political scientists have found that the answer is much more complicated, and much more interesting.
+
+=== core
+Why do people vote the way they do? Political scientists have developed several theories, each capturing part of the truth:
+
+1. **Party identification**: many voters develop a long-term psychological attachment to a party, often from family and community, which shapes how they see issues and candidates.
+2. **Rational choice**: voters weigh which party’s policies best serve their interests.
+3. **Economic voting**: voters reward or punish governments based on economic conditions.
+4. **Social identity**: voters support parties associated with their social group, such as religion, caste, ethnicity, region or class.
+5. **Leaders and campaigns**: the personal appeal of leaders, and campaign messages, can sway voters, especially those without strong attachments.
+
+=== text Party identification
+In **1960**, researchers at the University of Michigan published *The American Voter*, based on large surveys. They found that many Americans held a stable **party identification**, often inherited from their parents, which acted like a lens: voters tended to adopt their party’s positions, view its candidates favourably and interpret events in its favour.
+
+Party loyalty helps voters make sense of complex politics without studying every issue. But it can also mean voters judge evidence differently depending on which party benefits, a form of the confirmation bias you met in the Philosophy region.
+
+=== text Rational choice and the median voter
+In **1957**, the economist **Anthony Downs** applied economic reasoning to elections in *An Economic Theory of Democracy*. He imagined voters lined up along a single left–right spectrum, each voting for the party closest to their views.
+
+His **median voter theorem** predicts that, in a two-party system, both parties will move towards the **centre**, towards the voter in the exact middle of the distribution, because that’s where the winning votes are. A party that moves too far to one side leaves space for its rival to capture the centre.
+
+This helps explain why major parties in two-party systems sometimes sound similar. But real politics often departs from the model: parties also need to energise their committed supporters, who may be more extreme; issues are multidimensional; and turnout varies.
+
+=== callout analogy
+Imagine two ice cream sellers on a long beach, with customers spread evenly along it. If the sellers set up at opposite ends, each gets half the beach. But each can steal customers by moving a little towards the middle. Soon, both end up side by side in the centre. Downs argued that political parties behave similarly, converging towards the median voter, though real voters, like real beachgoers, sometimes stay home if both options are too far from what they want.
+
+=== text Economic voting
+Many studies find that the economy strongly affects elections: incumbent governments tend to do better when incomes and employment are growing and worse during recessions or high inflation. Voters may judge governments **retrospectively**, based on past performance, or **prospectively**, based on expectations.
+
+The post-pandemic inflation surge you met in the Money region was followed by many incumbent governments losing votes in elections around the world in **2024**, which some analysts linked partly to frustration over the cost of living.
+
+=== text Identity and voting in India
+In **India**, research by organisations such as the **Lokniti programme** of the Centre for the Study of Developing Societies (CSDS), which has conducted large election surveys for decades, shows that many factors influence voting:
+
+- **Caste and community**: parties often build coalitions among particular caste groups, and caste-based mobilisation has been important, especially since the rise of parties representing backward castes and Dalits from the late 1980s.
+- **Religion**: religious identity has become increasingly significant in voting patterns in recent decades.
+- **Region and language**: state parties often draw strength from regional identities.
+- **Welfare delivery**: some analysts describe a growing group of **labharthi** (beneficiary) voters, who reward governments for delivering welfare schemes like housing, gas connections and food rations.
+- **Leadership**: the popularity of national leaders has become an important factor in national elections.
+- **Local candidates** and **anti-incumbency**: voters often punish sitting representatives or state governments perceived as underperforming.
+
+Researchers stress that no single factor explains Indian voting; identity, interests, leadership and performance interact, and patterns vary between states and elections.
+
+=== text Clientelism
+In many democracies, including parts of India, some voters and politicians engage in **clientelism**: exchanging votes for personal benefits, like jobs, help with official paperwork, contracts or cash, distributed through networks of local brokers. Clientelism can help poor voters get access to services, but it can also distort democracy, rewarding loyalty over performance and making governments less focused on broad public goods. Studies suggest that as welfare programmes become more rule-based and directly delivered, for example through direct benefit transfers, the role of brokers may decline.
+
+=== steps Affective polarisation
+- **Polarisation** can mean two things. **Ideological polarisation** is when voters’ views on issues move further apart. **Affective polarisation** is when voters increasingly **dislike and distrust** supporters of the other side, regardless of how different their policy views really are.
+- In the **United States**, surveys show affective polarisation has risen sharply over recent decades: many people say they would be unhappy if their child married someone from the other party, a share that was much smaller in the mid-20th century.
+- Researchers find that many people overestimate how extreme the other side’s views are, a phenomenon called **perception gaps**.
+- Causes debated by researchers include partisan media, social media, the sorting of parties along lines of identity like religion, geography and education, and political strategies that emphasise threats from the other side.
+- Affective polarisation can make compromise harder, increase tolerance for norm-breaking by one’s own side and weaken trust in democratic institutions.
+- Research suggests that **contact** with people across political lines, correcting exaggerated perceptions, and leaders modelling respect can reduce hostility.
+
+=== reveal Why do people vote at all, if one vote is so unlikely to change the result?
+This puzzle, sometimes called the **paradox of voting**, troubled rational choice theorists like Anthony Downs: in a large election, the chance that your single vote decides the outcome is tiny, while voting takes time and effort. Yet hundreds of millions of people vote. Explanations include a sense of **civic duty**; **identity** and expressing who you are; **social pressure** and community norms; the satisfaction of participating; and an understanding that, while one vote rarely decides an election, **collectively** voters do. Elections are occasionally decided by remarkably small margins: in India, some state assembly seats have been decided by just a handful of votes. Voting can also be seen as part of being a citizen in a shared community, rather than only as an individual calculation.
+
+=== keypoints
+- Theories of voting include **party identification** (*The American Voter*, 1960), **rational choice**, **economic voting**, **social identity** and **leaders and campaigns**.
+- **Downs’s median voter theorem (1957)** predicts parties converge towards the centre in two-party systems.
+- **Economic voting**: incumbents often suffer during recessions or high inflation (“**The economy, stupid**”, 1992).
+- In India, **caste**, **religion**, **region**, **welfare delivery** (labharthi voters), **leadership** and **anti-incumbency** all shape voting, as surveys like **Lokniti-CSDS** show.
+- **Clientelism** trades votes for personal benefits through brokers.
+- **Affective polarisation**, rising dislike of the other side, has increased in countries like the US; people often overestimate opponents’ extremism.
+- People vote despite the **paradox of voting** because of duty, identity and collective impact.
+
+=== why
+Understanding why people vote as they do helps you interpret election results beyond simple headlines, understand fellow citizens who make different choices and recognise the forces, like polarisation and clientelism, that can strengthen or weaken democracy. It also invites you to reflect on what drives your own political choices.
+
+##### LESSON
+id: democracy.federalism.1
+title: Federalism: Sharing Power Across Levels
+minutes: 15
+check: In your own words: what is the difference between unitary and federal systems, how does India’s Constitution divide powers between the Union and the states, and what are the main advantages and disadvantages of federalism?
+
+=== hook
+In **October 1952**, a freedom fighter named **Potti Sriramulu** began a fast unto death in Madras (now Chennai), demanding a separate state for Telugu-speaking people, carved out of the large Madras State. After **58 days** without food, he died on **15 December 1952**.
+
+His death sparked widespread protests and unrest. Within days, Prime Minister Jawaharlal Nehru announced that a separate **Andhra State** would be created, and it came into existence in **1953**. The movement led to the **States Reorganisation Commission**, and in **1956**, India’s states were largely redrawn along **linguistic lines**. How power is shared between a country’s central government and its regions, called **federalism**, turned out to be deeply bound up with identity, language and democracy itself.
+
+=== core
+Every country must decide how to divide power between its **central** (national) government and **regional** or **local** governments. There are three broad approaches:
+
+- **Unitary systems**: the central government holds supreme authority, and any regional or local governments exercise only the powers the centre chooses to give them, which it can change or take back. Examples include **France**, **Japan** and **China**. The **United Kingdom** is formally unitary, though it has devolved significant powers to Scotland, Wales and Northern Ireland.
+- **Federal systems**: power is **constitutionally divided** between a central government and regional governments (called states, provinces or cantons), each with its own areas of authority that the other can’t simply take away. Examples include the **United States**, **India**, Germany, Canada, Australia, Brazil and Switzerland.
+- **Confederal systems**: independent states keep most power and delegate limited functions to a weak central body. The **European Union** has some confederal features, alongside some federal ones.
+
+=== text Why federalism?
+Countries adopt federalism for many reasons:
+
+- **Size and diversity**: large, diverse countries can accommodate different languages, cultures, religions and regional identities by giving regions self-government. India and Switzerland are prominent examples.
+- **Bringing together**: federations can be formed when separate states unite while keeping some autonomy, as the American colonies did after independence, creating the US Constitution in **1787**.
+- **Holding together**: some countries adopt federalism to keep a diverse nation united by giving groups a stake in their own governance. India is often described as a “holding together” federation.
+- **Limiting power**: dividing power between levels of government is itself a check on tyranny, complementing the separation of powers.
+
+=== callout analogy
+Think of federalism like a large family business with branches in different cities. Head office handles things that need to be the same everywhere, like the brand, major finances and overall strategy. Each branch manages local matters, like hiring local staff, adapting products to local tastes and handling local customers, because it knows its area best. The constitution is the agreement setting out who decides what, so neither head office nor the branches can simply grab the other’s responsibilities.
+
+=== text India’s federal structure
+India’s Constitution describes India as a “**Union of States**” (Article 1). Its federal structure has some distinctive features, leading many scholars to call it **quasi-federal** or a federation with a strong centre.
+
+The **Seventh Schedule** of the Constitution divides legislative powers into three lists:
+
+- The **Union List**: subjects on which only Parliament can make laws, such as **defence**, **foreign affairs**, **currency**, **railways**, **banking** and **atomic energy**.
+- The **State List**: subjects on which state legislatures make laws, such as **police**, **public order**, **public health**, **agriculture** (mostly), **land** and **local government**.
+- The **Concurrent List**: subjects on which both can legislate, such as **education**, **forests**, **criminal law**, **marriage** and **labour**. If laws conflict, Parliament’s law generally prevails.
+
+Powers not listed, called **residuary powers**, belong to the Union, unlike in the US, where they belong to the states.
+
+=== text Features of a strong centre
+Several features give India’s central government significant power:
+
+- Parliament can **create new states** and change state boundaries by ordinary law, as it did when creating states like Telangana in **2014**.
+- **Governors** of states are appointed by the President, on the central government’s advice.
+- In emergencies, the centre can take over many state powers.
+- Under **Article 356**, if a state government can’t function according to the Constitution, the President can impose **President’s Rule**, with the centre governing the state directly, as you’ll see in the next lesson.
+- Many major taxes are collected by the centre, giving it financial leverage.
+
+At the same time, India has become more federal in practice over time, especially as strong regional parties have governed many states and coalition governments at the centre depended on them.
+
+=== steps Three tiers: local government
+- In **1992**, the **73rd and 74th Constitutional Amendments** created a constitutionally recognised **third tier** of government: elected **panchayats** in rural areas and **municipalities** in urban areas.
+- Rural local government has three levels in most states: **village**, **block** and **district**.
+- Elections must be held every five years, overseen by **State Election Commissions**.
+- Seats are **reserved** for Scheduled Castes, Scheduled Tribes and women; at least one-third of seats for women, raised to half in many states.
+- Local bodies handle matters like local roads, water supply, sanitation and some welfare programmes.
+- In practice, many local bodies remain limited by insufficient funds, staff and real powers, which state governments control, so the depth of decentralisation varies greatly between states.
+
+=== text Federalism around the world
+- **United States**: states have broad powers, including over most criminal law, education and elections. Each state has its own constitution, and the Senate gives each state equal representation regardless of population.
+- **Switzerland**: highly decentralised, with **26 cantons** holding significant powers, and frequent referendums at every level.
+- **Germany**: states (Länder) implement most federal laws and are represented directly in the upper house, the **Bundesrat**.
+- **Canada**: provinces have substantial powers; **Quebec**, French-speaking, has held two referendums on independence, in 1980 and 1995, both narrowly rejected.
+
+=== reveal What are the advantages and disadvantages of federalism?
+**Advantages**: policies can be **tailored** to local needs and preferences; governments are **closer** to the people; diverse groups can enjoy **self-government**, reducing conflict; power is **divided**, limiting tyranny; and states can act as **laboratories of democracy**, a phrase from US Supreme Court Justice **Louis Brandeis** in **1932**, experimenting with policies that others can copy if they succeed, such as Kerala’s achievements in health and education. **Disadvantages**: **inequality** between regions in services and opportunities; **duplication** and complexity; difficulty **coordinating** responses to national problems, like pandemics or pollution that cross state borders; disputes over **powers and money**; and the risk that regional differences harden into divisions. Most federal countries continually renegotiate the balance.
+
+=== keypoints
+- **Unitary** systems concentrate authority at the centre; **federal** systems divide it constitutionally; **confederal** systems keep most power with member states.
+- Federalism helps accommodate **size and diversity**, **unite** separate states, **hold together** diverse nations and **limit power**.
+- **Potti Sriramulu’s** fast (**1952**) led to **Andhra State** and **linguistic reorganisation** of states in **1956**.
+- India is a “**Union of States**”, often called **quasi-federal**; the **Seventh Schedule** divides powers into **Union**, **State** and **Concurrent Lists**, with **residuary powers** for the Union.
+- The **73rd and 74th Amendments (1992)** created elected **panchayats** and **municipalities**.
+- Federalism allows **local tailoring** and **experimentation** (“laboratories of democracy”) but can create **inequality** and **coordination** problems.
+
+=== why
+Many of the services that affect your daily life, like police, health, schools, roads and water, are run by state or local governments, while others are national. Understanding federalism helps you know who is responsible for what, make sense of disputes between the centre and states, and see how large, diverse democracies like India hold together. Next, you’ll explore the money and politics of centre–state relations.

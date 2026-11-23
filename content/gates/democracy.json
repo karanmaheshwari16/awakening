@@ -1,0 +1,34 @@
+[
+  {
+    "id": "democracy.gate.1",
+    "region": "democracy",
+    "tier": 1,
+    "title": "Designing a New Democracy",
+    "question": "Imagine a newly independent, large and diverse country asks you to help design its democracy. Using what you have learned about what democracy requires, electoral systems, free and fair elections and the separation of powers, recommend the key choices you would make and explain the trade-offs involved.",
+    "links": ["what-is-democracy", "elections", "separation", "parties"],
+    "model_answer": "First, the foundations: universal adult suffrage from the start, as India chose in 1951–52, guaranteed fundamental rights, the rule of law and peaceful transfers of power, all written into a constitution that is difficult, but not impossible, to amend. Elections alone are not enough; minority rights need protection so the majority cannot vote them away.\n\nSystem of government: a parliamentary system offers flexibility, since an unpopular government can be replaced without waiting for a fixed term, but can be unstable when no party has a majority. A presidential system offers stability and a directly chosen leader, but risks gridlock. For a diverse country, a parliamentary system with strong committees and an independent head of state is one reasonable choice.\n\nElectoral system: first-past-the-post is simple, links representatives to local areas and tends to produce stable majorities, but can produce disproportionate results and wasted votes. Proportional representation is fairer to smaller parties and minorities but often produces coalitions. A mixed system, like Germany’s or New Zealand’s, combines local representation with proportionality. Arrow’s theorem reminds us no system is perfect.\n\nFree and fair elections: an independent election commission with secure tenure, a secret ballot, voter lists that include everyone, independent boundary drawing to prevent gerrymandering, clear campaign finance rules and transparent counting.\n\nSeparation of powers: an independent judiciary with judicial review, perhaps protecting a basic structure; checks and balances so no branch dominates; and safeguards on emergency powers, learning from India’s Emergency and the 44th Amendment. The trade-off throughout is between decisive government and protection against abuse of power.",
+    "key_points": [
+      "Universal suffrage, rights, rule of law and protection of minorities, entrenched in a constitution.",
+      "Parliamentary systems are flexible but can be unstable; presidential systems stable but prone to gridlock.",
+      "FPTP is simple and decisive but disproportional; PR is fairer but coalition-prone; mixed systems balance both; no system is perfect.",
+      "Independent election administration, secret ballot, fair boundaries and finance rules ensure free and fair elections.",
+      "An independent judiciary, checks and balances, and limits on emergency powers protect against abuse."
+    ]
+  },
+  {
+    "id": "democracy.gate.2",
+    "region": "democracy",
+    "tier": 2,
+    "title": "Stress Test",
+    "question": "A democratic country faces a severe economic crisis, deep polarisation between two large parties, and a dispute between the central government and several states over money and powers. Using what you have learned about independent institutions, parties and voting, federalism and democratic resilience, explain how these pressures could weaken its democracy and what would help it emerge stronger.",
+    "links": ["resilience", "federalism", "parties", "separation"],
+    "model_answer": "Each pressure creates risks of democratic backsliding.\n\nEconomic crisis: economic voting means voters may punish incumbents, which is healthy, but crisis also breeds frustration and demand for strong leaders who promise quick fixes. Historically, crises have opened the door to leaders who weaken institutions, sometimes with popular support.\n\nPolarisation: when affective polarisation is high, voters see the other side as an enemy and become more willing to tolerate norm-breaking by their own side, as Svolik and Graham’s research suggests. That undermines mutual tolerance and forbearance, the unwritten norms Levitsky and Ziblatt highlight.\n\nCentre–state conflict: in a federation, disputes over money and powers, for example over tax sharing, Finance Commission formulas, governors’ roles or emergency powers like India’s Article 356, can escalate if the centre uses its powers in partisan ways against states run by opponents, or if states feel excluded.\n\nCombined, these could lead to executive aggrandisement: capturing referees, pressuring courts and media, and changing rules, while elections continue.\n\nWhat helps: independent courts that act as neutral arbiters of centre–state disputes and constitutional limits, as in the S. R. Bommai judgment; impartial election bodies and auditors; a free press; and institutions for cooperative federalism, such as the GST Council or the Finance Commission, that settle disputes by agreed rules rather than power. Political leaders on both sides need to defend rules even when it costs them, and parties can compete fiercely on policy without delegitimising opponents. Civic engagement and social capital, as Putnam showed, help citizens cooperate and hold leaders accountable. Inclusive economic recovery reduces the grievances anti-democratic leaders exploit, echoing Ambedkar’s warning that political democracy needs social and economic fairness.",
+    "key_points": [
+      "Crises can fuel demand for strong leaders who weaken institutions.",
+      "Affective polarisation erodes mutual tolerance and forbearance, increasing tolerance for norm-breaking.",
+      "Partisan use of central powers over states, money or emergency rule can deepen conflict.",
+      "Independent courts, election bodies, auditors, press and cooperative federal institutions act as stabilisers.",
+      "Leaders defending rules, civic engagement and inclusive recovery help democracy emerge stronger."
+    ]
+  }
+]

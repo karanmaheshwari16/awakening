@@ -1,0 +1,77 @@
+{
+  "id": "democracy.resilience.1",
+  "region": "democracy",
+  "topic": "resilience",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Democracies Weaken",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "For much of the 20th century, democracies usually died suddenly and violently: tanks in the streets, the presidential palace surrounded, the radio station seized, a general announcing that the army had taken control. In Chile in **1973**, for example, the military overthrew the elected government of Salvador Allende in a violent coup.\n\nToday, outright coups still happen, especially in parts of Africa, where a wave of military takeovers swept the Sahel region between **2020 and 2023**. But political scientists have noticed a more common pattern in recent decades: democracies weakening **gradually**, from within, at the hands of elected leaders, through steps that each seem legal and may be presented as reforms. There may be no single dramatic moment, which makes it much harder to notice, or resist."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Democratic backsliding** (also called democratic erosion or autocratisation) refers to the decline of democratic qualities in a country: elections becoming less free and fair, civil liberties being restricted, checks and balances weakened and accountability reduced.\n\nIn an influential **2016** article, the political scientist **Nancy Bermeo** argued that the most common form of backsliding today is **executive aggrandisement**: elected leaders gradually weakening the institutions that check their power, such as courts, election bodies and the press, often through legal means and while maintaining elections.\n\nData from organisations like **V-Dem**, which you met earlier, suggest that after a long period of democratic expansion following the end of the Cold War, the world has seen more countries moving towards autocracy than towards democracy in recent years. By V-Dem’s measures, a majority of the world’s population now lives in countries classified as autocracies of some kind, though, as you saw, such measures are debated."
+    },
+    {
+      "type": "text",
+      "heading": "Competitive authoritarianism",
+      "md": "In **2010**, the political scientists **Steven Levitsky** and **Lucan Way** described **competitive authoritarianism**: regimes in which elections are held and opposition parties compete, but the playing field is so tilted that the ruling party almost always wins. Opponents aren’t usually banned outright; instead, they face harassment, unfair access to media and money, and courts and election bodies that favour the government.\n\nSuch regimes are hard to classify, because they keep many democratic forms. They often present themselves, and may be seen by many citizens, as legitimate democracies."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of democracy as a football match. In a coup, someone simply walks onto the pitch and declares themselves the winner. In gradual backsliding, the match continues, but one team quietly starts choosing the referees, tilting the pitch, shortening the opposing goal and controlling what the commentators say. The match still looks like a match, with real goals and a real scoreboard. But the result becomes increasingly predictable, and the other team can no longer realistically win."
+    },
+    {
+      "type": "text",
+      "heading": "Common tactics",
+      "md": "Researchers studying backsliding across many countries have identified recurring tactics, used by leaders from across the political spectrum:\n\n- **Capturing the referees**: appointing loyalists to courts, election commissions, prosecution services, tax authorities and police, or changing rules to control appointments.\n- **Weakening the courts**: packing them with new judges, changing retirement ages to remove judges, limiting their powers or ignoring their rulings.\n- **Controlling the media**: pressuring or buying media outlets, using regulators or tax investigations against critical journalists, or concentrating ownership among friendly businesses.\n- **Targeting opponents**: using investigations, prosecutions or legal restrictions selectively against opposition politicians, activists and civil society groups.\n- **Changing the rules of the game**: redrawing electoral boundaries, changing electoral laws, or amending constitutions to extend term limits or concentrate power.\n- **Restricting civil society**: limiting foreign funding for organisations, imposing burdensome registration rules or labelling critics as foreign agents.\n- **Polarisation and delegitimisation**: portraying opponents as enemies of the nation, and claiming that only the leader truly represents the people."
+    },
+    {
+      "type": "steps",
+      "title": "Examples researchers often cite",
+      "items": [
+        "**Hungary**: since **2010**, under Prime Minister **Viktor Orbán**, critics, including the **European Parliament**, which in **2022** described Hungary as a “hybrid regime of electoral autocracy”, have pointed to constitutional changes, influence over media and courts, and electoral rules favouring the ruling party. The Hungarian government rejects these characterisations, arguing it defends national sovereignty and traditional values and continues to win elections.",
+        "**Venezuela**: under **Hugo Chávez** and then **Nicolás Maduro**, a once-competitive democracy saw courts and electoral bodies brought under government influence, media restricted and opposition repressed. The disputed **2024** presidential election, in which the official result was rejected by the opposition and many foreign governments, was widely seen as a further step away from democracy.",
+        "**Turkey**: researchers have documented increasing concentration of power under President **Recep Tayyip Erdoğan**, especially after a failed coup attempt in **2016**, followed by mass purges and a constitutional change to a powerful presidential system in **2017**.",
+        "Rating organisations have also debated changes in large, long-standing democracies, including the **United States** and **India**, conclusions that have been disputed, including by those governments. Assessing such cases involves judgement, and reasonable observers disagree."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why do voters sometimes support backsliding?",
+      "md": "Backsliding often happens with significant popular support. Research suggests several reasons:\n\n- **Polarisation**: when voters see the other side as a dangerous enemy, they become more willing to accept norm-breaking by their own side to keep opponents out of power. Experiments by political scientists **Milan Svolik** and **Matthew Graham** found that many voters in the US will tolerate undemocratic actions by politicians from their own party.\n- **Delivering results**: leaders who deliver economic growth, welfare or security may earn loyalty even as institutions weaken.\n- **Grievances**: voters frustrated with corruption, inequality or established elites may welcome leaders promising to sweep the old system away.\n- **Gradualness**: each step may seem small, justified or technical, and not obviously threatening democracy.\n- **Information control**: when media are captured, citizens may not learn about abuses."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can democratic backsliding be reversed?",
+      "md": "Yes, sometimes. Research by V-Dem and others has found that a meaningful share of countries that began backsliding later recovered, often through **elections** in which united oppositions defeated incumbents, **courts** that resisted pressure, **mass protests** and a resilient **civil society** and **press**. Examples researchers have cited include **Brazil**, where institutions and voters played key roles in recent years, and **Poland**, where an opposition coalition won elections in **2023** after a period of concern over judicial independence, then began trying to reverse earlier changes, a process that proved politically contentious in its own right. Recovery is more likely when backsliding is caught early, before referees are fully captured and elections become meaningless. The next lesson looks at what makes democracies resilient."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Democratic backsliding** is the decline of democratic qualities: freer elections, liberties, checks and accountability eroding.",
+        "**Bermeo (2016)**: the most common form today is **executive aggrandisement** by elected leaders.",
+        "**Competitive authoritarianism** (Levitsky and Way, 2010): elections continue on a heavily tilted playing field.",
+        "Tactics include **capturing referees**, **weakening courts**, **controlling media**, **targeting opponents**, **changing rules**, **restricting civil society** and **delegitimising opponents**.",
+        "Researchers often cite **Hungary**, **Venezuela** and **Turkey**; assessments of other countries are debated and sometimes disputed by governments.",
+        "Voters may support backsliding because of **polarisation**, **delivery of results**, **grievances**, **gradualness** and **information control**.",
+        "Backsliding can be **reversed**, especially when caught early."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Democracy isn’t a permanent achievement; it can erode quietly, step by step, in ways that are easy to miss. Understanding the warning signs, regardless of which party or leader displays them, helps you recognise threats to democratic institutions early, and understand why defending the rules matters even when your own side is in power."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is democratic backsliding, what is executive aggrandisement, and what are common tactics used to weaken democracy from within?"
+  }
+}

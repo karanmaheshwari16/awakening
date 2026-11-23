@@ -1,0 +1,86 @@
+{
+  "id": "democracy.elections.2",
+  "region": "democracy",
+  "topic": "elections",
+  "level": 2,
+  "prerequisites": [
+    "democracy.elections.1"
+  ],
+  "title": "Running Free and Fair Elections",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the **2024** Indian general election, around **970 million** people were eligible to vote, and about **640 million** actually voted, the largest democratic exercise in history. The election took place in **seven phases** over about six weeks. More than a million polling stations were set up, from crowded cities to remote Himalayan villages, forests and islands.\n\nTo reach voters, election officials travelled by foot, boat, horse and helicopter. In the Gir forest in Gujarat, a polling station has famously been set up for a single voter, a priest at a remote temple, honouring the rule that no voter should have to travel more than about two kilometres to vote. Organising elections on this scale requires extraordinary planning, and it shows that free and fair elections don’t happen by themselves."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Elections are at the heart of democracy, but simply holding elections isn’t enough. Many authoritarian regimes hold elections too. What matters is whether elections are **free and fair**.\n\nKey features of free and fair elections include:\n\n- **Universal suffrage**: all adult citizens can vote, without unreasonable barriers.\n- **Secret ballot**: voters can choose without anyone knowing how they voted, protecting them from intimidation or bribery.\n- **Genuine choice**: opposition parties and candidates can compete freely, campaign and criticise the government.\n- **Free media and information**: voters can access diverse information about candidates and issues.\n- **Independent administration**: elections are run by impartial bodies, not by the ruling party.\n- **Accurate counting** and transparent results.\n- **Acceptance of results** and peaceful transfer of power.\n- **Fair campaign conditions**: rules on campaign spending and access to media that don’t heavily favour one side."
+    },
+    {
+      "type": "text",
+      "heading": "The secret ballot",
+      "md": "For much of history, voting was often public: voters announced their choices aloud or used ballots printed by parties in distinctive colours, which made intimidation and vote-buying easy. Employers, landlords and party agents could see exactly how people voted.\n\nThe **secret ballot**, with official ballots listing all candidates, marked in private, was introduced in the Australian colony of **Victoria** in **1856**, and became known as the “**Australian ballot**”. It spread to Britain in **1872** and gradually around the world. Today, it’s considered a cornerstone of free elections, recognised in the **Universal Declaration of Human Rights**."
+    },
+    {
+      "type": "text",
+      "heading": "The Election Commission of India",
+      "md": "India’s elections are run by the **Election Commission of India (ECI)**, established in **1950** under the Constitution as an independent body. It oversees elections to Parliament, state legislatures and the offices of President and Vice President.\n\nThe ECI enforces a **Model Code of Conduct**: guidelines for parties and candidates during elections, such as banning the use of government resources for campaigning and announcing new schemes once elections are called. The Code’s enforcement was dramatically strengthened in the early **1990s** under Chief Election Commissioner **T. N. Seshan**, who became famous for cracking down on electoral malpractice, such as excessive spending, misuse of official machinery and intimidation of voters.\n\nDebates continue over how election commissioners should be appointed. In **2023**, Parliament passed a law setting up a selection committee, a change critics argued gave the government too much influence and supporters defended as within Parliament’s powers."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an election as a cricket match between political parties. The voters are the crowd who decide the winner, but the match only means something if the umpires are neutral, the rules are fair for both sides, no one tampers with the ball and the scoreboard is accurate. An election commission is the umpire. If the umpire can be pressured by one team, the result loses its legitimacy, however many people watched."
+    },
+    {
+      "type": "text",
+      "heading": "Voting technology",
+      "md": "India began using **electronic voting machines (EVMs)** in some constituencies in the late 1990s and used them in all constituencies from the **2004** general election. EVMs replaced paper ballots, reducing invalid votes and speeding up counting.\n\nTo address concerns about whether EVMs record votes correctly, India added the **Voter Verifiable Paper Audit Trail (VVPAT)**, which prints a slip showing the voter’s choice, visible briefly through a window, before it drops into a sealed box. A sample of VVPAT slips is counted and matched against EVM totals. Some political parties and activists have raised concerns about EVMs over the years; the **Supreme Court**, in **2024**, rejected petitions seeking a return to paper ballots or full counting of VVPAT slips, while suggesting additional safeguards.\n\nIndia also introduced the **NOTA** (“None of the Above”) option on ballots in **2013**, following a Supreme Court ruling, allowing voters to formally register that they reject all candidates, though NOTA votes don’t affect who wins."
+    },
+    {
+      "type": "steps",
+      "title": "Ways elections can be distorted",
+      "items": [
+        "**Gerrymandering**: drawing constituency boundaries to favour one party. The term comes from **Elbridge Gerry**, governor of Massachusetts, who in **1812** approved a district so oddly shaped that a newspaper cartoon compared it to a salamander, a “Gerry-mander”. Common tactics include **packing** opponents’ voters into a few districts they win by huge margins, and **cracking** them across many districts so they’re a minority everywhere. In India, boundaries are redrawn by an independent **Delimitation Commission**, whose decisions can’t be challenged in court.",
+        "**Voter suppression**: making it harder for certain groups to vote, through strict ID rules, purging voter lists, reducing polling stations or long queues in particular areas.",
+        "**Vote buying**: offering cash, gifts or goods in exchange for votes. Election authorities in India regularly seize large amounts of cash, liquor and goods during campaigns.",
+        "**Intimidation and violence** against voters, candidates or officials.",
+        "**Misinformation**, as you saw in the Politics region, spreading false claims about candidates or voting procedures.",
+        "**Unequal resources**: when one side has far more money or media access, competition becomes less fair, even without illegal activity."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Turnout and participation",
+      "md": "**Voter turnout**, the share of eligible voters who actually vote, varies widely. India’s turnout in national elections has generally been in the range of around **60 to 67%** in recent decades, with notably high participation among rural voters and, increasingly, women. In the 2019 and 2024 elections, women’s turnout roughly matched or exceeded men’s, a striking change from earlier decades.\n\nSome countries, like **Australia**, make voting **compulsory**, with small fines for not voting, achieving turnout above 90%. Supporters argue it gives governments a stronger mandate and representation from everyone; critics argue that freedom should include the freedom not to vote."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do international observers monitor elections?",
+      "md": "Election observers, from organisations like the **Organisation for Security and Co-operation in Europe**, the **African Union**, the **European Union**, the Commonwealth and groups like the **Carter Center**, monitor elections in many countries, assessing whether they meet international standards. They watch polling, counting and campaigning, and publish reports. Their presence can deter fraud, build public confidence in fair results and help expose manipulation. However, observers can’t be everywhere, and determined governments can rig elections in ways observers struggle to detect, such as through long-term control of media or courts rather than on election day itself. Many established democracies, including India, run elections without formal international monitoring, relying on domestic institutions, parties’ own polling agents, the media and courts to ensure fairness."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Free and fair elections need **universal suffrage**, a **secret ballot**, **genuine choice**, **free media**, **independent administration**, **accurate counting** and **acceptance of results**.",
+        "The **secret ballot** began in **Victoria, Australia, in 1856**.",
+        "The **Election Commission of India (1950)** runs elections and enforces the **Model Code of Conduct**, strengthened by **T. N. Seshan** in the 1990s.",
+        "India used **EVMs** nationwide from **2004**, adding **VVPAT** paper trails; the **Supreme Court** upheld their use in **2024**. **NOTA** was introduced in **2013**.",
+        "The **2024** Indian election, with about **640 million** voters, was the largest in history.",
+        "Distortions include **gerrymandering** (named after **Elbridge Gerry, 1812**), **voter suppression**, **vote buying**, **intimidation**, **misinformation** and **unequal resources**.",
+        "India’s turnout is around **60–67%**, with **women’s turnout** now matching men’s."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Elections are how citizens in a democracy choose and remove their leaders, but they only work if they’re genuinely free and fair. Understanding how elections are run, and how they can be distorted, helps you value the institutions that protect them, recognise threats to them, and take part with confidence. Next, you’ll explore how democracies divide power to prevent any one person or group from becoming too powerful."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what makes an election free and fair, what role does the Election Commission of India play, and what is gerrymandering?"
+  }
+}

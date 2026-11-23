@@ -1,0 +1,77 @@
+{
+  "id": "democracy.parties.1",
+  "region": "democracy",
+  "topic": "parties",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Political Parties: The Machinery of Democracy",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1967**, the state of **Haryana** experienced a political spectacle. An elected legislator named **Gaya Lal** reportedly switched parties three times within a short span, in some accounts within a single day or two. The phrase “**Aaya Ram, Gaya Ram**” (Ram came, Ram went) became a popular way to describe politicians who changed parties frequently, often lured by offers of ministerial posts or money.\n\nSuch defections toppled several state governments in the late 1960s and after. Voters who had chosen a candidate partly because of their party found their votes effectively switched to a party they hadn’t supported. In **1985**, India amended its Constitution to add an **anti-defection law**. The episode highlights a basic fact of modern democracy: parties are central to how it works, for better and worse."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **political party** is an organisation that seeks to gain political power, usually by contesting elections, in order to implement its policies and ideas. Parties aren’t mentioned in many older constitutions, and some early democratic thinkers, including George Washington, warned against “factions”. Yet parties emerged in almost every democracy, because they perform functions that democracy needs.\n\nKey functions of parties include:\n\n- **Offering choices**: parties bundle policies into recognisable platforms, making it easier for voters to choose among alternatives.\n- **Aggregating interests**: they bring together different groups and demands into broader coalitions.\n- **Recruiting and training leaders**: most politicians rise through parties.\n- **Mobilising voters**: parties encourage people to register, participate and vote.\n- **Forming governments** and providing **opposition**: in parliamentary systems, the party or coalition with a majority forms the government; others hold it accountable.\n- **Accountability**: voters can reward or punish a party for its record, even when individual politicians change."
+    },
+    {
+      "type": "text",
+      "heading": "Types of party systems",
+      "md": "Countries differ in how many parties compete effectively:\n\n- **One-party systems**: only one party is legally allowed to hold power, as in China, where the Communist Party rules. These aren’t democracies.\n- **Dominant-party systems**: multiple parties compete freely, but one party wins for long periods. India from 1947 to the late 1960s was described by the political scientist **Rajni Kothari** as the “**Congress system**”: the Indian National Congress dominated, but contained many internal factions that competed within it, while opposition parties exerted pressure from outside. Japan’s Liberal Democratic Party and South Africa’s ANC have also been dominant for long periods.\n- **Two-party systems**: two major parties alternate in power, as in the **United States**, with the Democrats and Republicans, and historically the United Kingdom.\n- **Multi-party systems**: several parties win significant support, and governments are often coalitions, as in Germany, the Netherlands and, since the late 1980s, often India.\n\nAs you saw in the elections lessons, electoral systems strongly influence which type develops."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of political parties like restaurants offering set menus. Instead of voters having to evaluate hundreds of individual policies, each party offers a combination of dishes: its positions on the economy, welfare, security, rights and so on. Voters choose the menu that suits them best, even if they don’t love every dish. Without parties, voters would face a confusing buffet of thousands of independent candidates with no clear idea what any combination would produce."
+    },
+    {
+      "type": "text",
+      "heading": "India’s party landscape",
+      "md": "India has one of the world’s most complex party systems:\n\n- The **Election Commission** recognises a small number of **national parties**, which have significant support across several states, and many **state parties**, which are strong in particular states.\n- Thousands of **registered** parties exist in total, though most are small.\n- State parties often reflect **regional identities**, languages or social groups, and many have governed their states for long periods.\n- From **1989** to **2014**, no single party won a majority in the Lok Sabha, and India was governed by **coalitions**, with national parties relying on regional allies. In **2014** and **2019**, the Bharatiya Janata Party won majorities on its own; in **2024**, it fell short of a majority and governed with coalition partners."
+    },
+    {
+      "type": "text",
+      "heading": "The anti-defection law",
+      "md": "To curb frequent party-switching, the **52nd Amendment** in **1985** added the **Tenth Schedule** to the Constitution, known as the **anti-defection law**. Under it:\n\n- A legislator can be **disqualified** if they voluntarily give up membership of their party, or vote against their party’s instructions (called a **whip**) on important votes, without permission.\n- The decision on disqualification is made by the **Speaker** or chairperson of the legislature.\n- An exception allows a **merger** if at least two-thirds of a party’s legislators agree to join another party.\n\nSupporters say the law brought stability and respects voters who chose candidates partly for their party. Critics argue it reduces legislators to following party orders, weakening independent debate and their ability to represent constituents, and that Speakers, who are usually from the ruling party, have sometimes delayed or decided cases in partisan ways. Defections have also continued in new forms, such as mass resignations or mergers."
+    },
+    {
+      "type": "steps",
+      "title": "How parties choose candidates and leaders",
+      "items": [
+        "**Membership**: parties recruit members who pay fees, campaign and sometimes vote on leaders and policies.",
+        "**Candidate selection**: in many Indian parties, candidates are chosen largely by party leadership, sometimes after consultations. In the US, candidates are often chosen by voters in **primary elections**.",
+        "**Leadership selection**: some parties hold internal elections; others are dominated by a single leader or family.",
+        "**Internal democracy** varies widely, and many observers argue weak internal democracy is a problem in parties across the world, including India.",
+        "**Dynastic politics**, where leadership passes within families, is common in many countries, including India, where a significant share of members of Parliament come from political families across many parties. Critics argue it limits opportunities for new talent; defenders note that voters still decide."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "How are political parties funded, and why does it matter?",
+      "md": "Parties need money for campaigns, staff, offices, travel and advertising, and elections in large democracies are expensive. Funding sources include **membership fees**, **donations** from individuals and companies, and in some countries **public funding** from the state. Rules differ greatly: some countries cap donations and spending, require detailed disclosure or provide public funds to reduce dependence on wealthy donors; the **United States** allows very large spending by independent groups following a 2010 Supreme Court decision. Funding matters because those who pay may expect influence, and because unequal resources can make competition unfair. As you saw earlier, India’s **electoral bonds** scheme, which allowed anonymous donations, was struck down by the Supreme Court in **2024** on the grounds that voters have a right to know who funds parties. Transparency in political funding remains a major issue in democracies everywhere."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Political parties** seek power through elections; they **offer choices**, **aggregate interests**, **recruit leaders**, **mobilise voters**, **form governments and opposition** and enable **accountability**.",
+        "Party systems include **one-party** (not democratic), **dominant-party** (India’s “**Congress system**”), **two-party** (US) and **multi-party** systems.",
+        "India has **national** and **state parties**; it was governed by **coalitions** from **1989 to 2014**.",
+        "“**Aaya Ram, Gaya Ram**” defections led to the **anti-defection law** (**52nd Amendment, 1985**, Tenth Schedule).",
+        "The law brings stability but critics say it weakens legislators’ independence.",
+        "**Internal democracy**, **dynastic politics** and **party funding** are major debates."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Political parties are the machinery through which democracy actually operates: they shape the choices on your ballot, form governments and organise opposition. Understanding how they work, and their weaknesses, helps you evaluate parties critically, understand coalition politics and engage with debates about reform. Next, you’ll explore why voters choose the parties they do."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what functions do political parties perform, what are the main types of party systems, and why did India introduce an anti-defection law?"
+  }
+}

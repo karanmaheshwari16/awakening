@@ -1,0 +1,80 @@
+{
+  "id": "democracy.resilience.2",
+  "region": "democracy",
+  "topic": "resilience",
+  "level": 2,
+  "prerequisites": [],
+  "title": "How Democracies Grow Stronger",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **25 November 1949**, as India’s Constitution was about to be adopted, **B. R. Ambedkar**, chair of the Constitution’s Drafting Committee, gave a remarkable final speech to the Constituent Assembly. He didn’t simply celebrate. He warned.\n\nHe cautioned that Indians must use constitutional methods to achieve their goals, abandoning what he called the “**grammar of anarchy**”. He warned against laying liberties at the feet of even a great leader, observing that in politics, hero-worship is a sure road to degradation and eventually to dictatorship. And he warned that political democracy, one person one vote, could not last without **social democracy**: liberty, equality and fraternity in social and economic life, in a society deeply divided by caste and inequality. Seventy-five years later, his warnings remain a guide to what makes democracy endure."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how democracies can weaken. This lesson asks the opposite question: what makes democracies **resilient**, able to survive crises, peacefully transfer power, correct mistakes and deepen over time?\n\nPolitical scientists point to several factors:\n\n- **Strong, independent institutions**: courts, election bodies, a free press and other watchdogs, as you saw earlier in this region.\n- **Democratic norms**: unwritten rules like **mutual tolerance** (accepting opponents as legitimate) and **forbearance** (not using power to the absolute limit against rivals).\n- **Civic culture**: citizens who participate, trust each other and value democracy.\n- **Inclusive participation**: all groups feeling they have a stake in the system.\n- **Economic performance and fairness**: democracies that deliver rising living standards, and don’t leave large groups behind, tend to be more stable.\n- **Peaceful transfers of power**: repeated experiences of losing and winning elections build confidence that democracy works for everyone."
+    },
+    {
+      "type": "text",
+      "heading": "Civic life and social capital",
+      "md": "In **1993**, the American political scientist **Robert Putnam** published *Making Democracy Work*, based on two decades of research into new regional governments created in **Italy** in the 1970s. All had similar formal structures, yet some performed far better than others.\n\nPutnam found that the best-performing regional governments, largely in northern Italy, were in areas with long traditions of **civic engagement**: choral societies, sports clubs, cooperatives, newspapers read widely and high levels of trust between citizens. He called these networks and norms of trust and cooperation **social capital**. Where people were used to cooperating in voluntary associations, they also held governments accountable and worked together on shared problems.\n\nIn *Bowling Alone* (**2000**), Putnam warned that social capital was declining in the United States, as people joined fewer clubs, associations and community groups, and spent less time with neighbours. His findings have been debated, but the idea that democracy depends on a healthy civic life has been highly influential."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of democracy as a building. The constitution and institutions are the visible structure: walls, floors and roof. But the building also needs foundations that you don’t see: the habits, trust and cooperation of the people who live in it. A beautiful structure on weak foundations can crack in the first earthquake; a modest building on strong foundations can stand for centuries. Civic life is democracy’s foundation."
+    },
+    {
+      "type": "text",
+      "heading": "How democracies consolidate",
+      "md": "Political scientists say a democracy is **consolidated** when it becomes, in a famous phrase by **Juan Linz** and **Alfred Stepan**, “**the only game in town**”: when major political groups, and most citizens, accept that power can only be won through democratic elections. Some examples of consolidation:\n\n- **Spain**: after the death of the dictator **Francisco Franco** in **1975**, Spain made a negotiated transition to democracy. Rival parties, from conservatives to communists, agreed on a new constitution in **1978**, and signed economic agreements called the **Moncloa Pacts**. In **February 1981**, a group of military officers stormed parliament in an attempted coup; King **Juan Carlos** publicly opposed it on television, and it collapsed. Spain went on to become a stable democracy.\n- **South Korea**: after decades of military rule, mass protests in **1987** forced the government to accept direct presidential elections. In the following decades, power changed hands peacefully between rival parties several times. In **December 2024**, when President **Yoon Suk Yeol** declared martial law, legislators rushed to parliament, past troops, and voted unanimously to lift it within hours; he was later impeached and removed by the Constitutional Court in **2025**. Many observers saw this as a test that South Korea’s democratic institutions passed.\n- **Ghana**: since a return to multi-party democracy in **1992**, Ghana has seen several peaceful transfers of power between rival parties through elections, making it one of Africa’s more stable democracies."
+    },
+    {
+      "type": "text",
+      "heading": "India’s democratic endurance",
+      "md": "At independence, many observers doubted that democracy could survive in **India**: a poor, largely illiterate, enormously diverse country, emerging from the trauma of Partition. Universal adult suffrage, granted from the very first general election in **1951–52**, was an extraordinary gamble.\n\nYet India has held regular national elections ever since, and power has changed hands peacefully between parties many times: in **1977**, when voters ended the Emergency by defeating the ruling Congress; in **1989**, **1996**, **1998**, **2004** and **2014**, among others. State governments change hands frequently. Scholars attribute India’s democratic endurance to factors including a strong constitution, independent institutions such as the Election Commission and judiciary, the habits built by regular elections, the representation of diverse groups through federalism and reserved seats, and the commitment of citizens, including the very high participation of poorer and rural voters. Scholars also debate contemporary challenges, from polarisation to institutional independence, reflecting the ongoing, contested nature of democracy everywhere."
+    },
+    {
+      "type": "steps",
+      "title": "What citizens can do",
+      "items": [
+        "**Vote**, in national, state and local elections, and help others to do so.",
+        "**Participate locally**: attend gram sabha or ward meetings, join residents’ associations, parent–teacher groups or community organisations. Local participation builds the habits of democracy.",
+        "**Stay informed** from diverse, reliable sources, using the media literacy skills from the Politics region.",
+        "**Use democratic tools**: petitions, the Right to Information, contacting representatives, peaceful protest and courts.",
+        "**Defend the rules**, not just outcomes: support independent institutions and fair processes even when your preferred side is in power, or when a ruling goes against it.",
+        "**Practise mutual tolerance**: treat political opponents as fellow citizens with legitimate views, not enemies, and talk across divides.",
+        "**Avoid hero-worship**, as Ambedkar warned: judge leaders by their actions and respect for institutions, not by personal devotion."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is democracy only about politics, or does it need equality in society too?",
+      "md": "Ambedkar argued strongly that political democracy, equal votes, cannot survive without **social democracy**: a way of life recognising **liberty, equality and fraternity** as principles of life. In his 1949 speech, he warned that India was entering a life of contradictions: equality in politics, but inequality in social and economic life, and that if the contradiction persisted, those who suffered inequality might blow up the structure of political democracy. Many political scientists agree that extreme economic inequality, social exclusion and discrimination can undermine democracy, by concentrating political influence among the wealthy, alienating those left behind and fuelling resentment that anti-democratic leaders can exploit. This is why many democracies pursue policies to widen opportunity and inclusion, from education and anti-discrimination laws to reserved representation, though how best to do so remains debated."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Resilient democracies combine **strong institutions**, **democratic norms** (mutual tolerance and forbearance), **civic culture**, **inclusion**, **fair economic performance** and **peaceful transfers of power**.",
+        "**Putnam (1993)** found that **social capital**, networks of civic engagement and trust, made Italian regional governments work better; *Bowling Alone* (2000) warned of its decline in the US.",
+        "A democracy is **consolidated** when it’s “**the only game in town**” (Linz and Stepan).",
+        "**Spain** (after 1975, coup foiled in 1981), **South Korea** (1987; martial law reversed in 2024) and **Ghana** (since 1992) illustrate consolidation.",
+        "**India** has held regular elections with many peaceful transfers of power since **1951–52**.",
+        "Citizens strengthen democracy by **voting**, **participating locally**, **staying informed**, **using democratic tools**, **defending the rules** and **practising tolerance**.",
+        "**Ambedkar** warned against **hero-worship** and argued political democracy needs **social democracy**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Democracy depends not only on constitutions and institutions, but on the everyday choices of citizens. Understanding what makes democracies strong helps you see your own role: not as a spectator, but as a participant whose engagement, tolerance and defence of fair rules help keep democracy alive for future generations."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what did Robert Putnam find about civic life and democracy, what helped countries like Spain and South Korea consolidate democracy, and what can ordinary citizens do to strengthen it?"
+  }
+}

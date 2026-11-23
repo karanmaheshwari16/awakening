@@ -1,0 +1,212 @@
+##### LESSON
+id: democracy.federalism.2
+title: Centre, States and Money
+minutes: 15
+prereq: democracy.federalism.1
+check: In your own words: what is fiscal federalism and why does the Finance Commission matter, how did GST change centre–state relations, and why has Article 356 been controversial?
+
+=== hook
+On **1 July 2017**, at a special midnight session of Parliament, India launched the **Goods and Services Tax (GST)**. It replaced a tangle of different taxes levied by the central government and each of the states, which had made moving goods across state borders slow and costly, with trucks often waiting for hours at state border checkpoints.
+
+Agreeing to GST took more than a decade of negotiation, and required a constitutional amendment. States had to give up some of their independent power to set taxes, in exchange for a share of a unified system and promises of compensation for lost revenue. It was one of the biggest reforms in India’s history, and a vivid example of how money lies at the heart of federalism.
+
+=== core
+In the previous lesson, you saw how federalism divides **powers** between the centre and the states. But powers mean little without **money** to carry them out. **Fiscal federalism** is the study of how taxing and spending responsibilities, and money itself, are divided between levels of government.
+
+A common challenge in federations is **vertical fiscal imbalance**: the central government often has the most powerful sources of revenue, like income tax and corporate tax, while states are responsible for many of the most expensive services, like health, education, police and agriculture. As a result, money has to be **transferred** from the centre to the states.
+
+There’s also **horizontal imbalance**: some states are much richer than others, with greater ability to raise revenue, while poorer states may need more help to provide basic services.
+
+=== text The Finance Commission
+India’s Constitution provides a mechanism for sharing money fairly: the **Finance Commission**, established under **Article 280**. It’s an independent body appointed by the President every **five years**.
+
+Its main tasks include recommending:
+
+- How much of the central government’s tax revenue should be **shared with the states** (the **divisible pool**).
+- How that share should be **divided among the states**, using a formula based on factors like population, area, income levels (giving more to poorer states), forest cover and demographic performance.
+- Grants to states and local bodies.
+
+The **15th Finance Commission**, covering the period from 2021 to 2026, recommended that states receive **41%** of the divisible pool of central taxes. The formula is often debated: some states, especially in the south, argue they’re penalised for better performance, such as success in controlling population growth or higher incomes, by receiving a smaller share than they contribute.
+
+=== callout analogy
+Think of fiscal federalism as a large joint family where one member, the centre, earns most of the household’s income, but the other members, the states, do most of the work of running the house: feeding everyone, looking after health and schooling. A fair arrangement is needed for sharing the income, with extra help for members who have more mouths to feed but earn less. The Finance Commission is like a respected elder who recommends how to divide the money, so that arguments are settled by an agreed formula rather than favouritism.
+
+=== text GST: pooling sovereignty
+Before **2017**, the centre and states levied many different indirect taxes on goods and services, with different rates in different states, and taxes often charged on top of other taxes. **GST** replaced many of them with a single, unified system:
+
+- Both the centre and states levy GST on the same transactions, sharing the revenue.
+- A **GST Council**, chaired by the Union Finance Minister and including the finance ministers of all states, decides on tax rates and rules. The centre has one-third of the voting weight and states two-thirds, and decisions need a three-quarters majority, so neither can act alone.
+- States were promised **compensation** for any revenue losses during the first five years.
+
+GST has been described as an example of **cooperative federalism**, with centre and states pooling some of their tax powers. It has simplified interstate trade and widened the tax base. Critics point to its multiple tax rates, complex compliance for small businesses, and disputes over compensation, especially after the COVID-19 pandemic reduced revenues. Some states argue that GST reduced their fiscal autonomy.
+
+=== text Cooperative and competitive federalism
+- **Cooperative federalism** emphasises the centre and states working together on shared goals, through joint bodies like the GST Council and the **NITI Aayog**, which replaced the Planning Commission in **2015** as a policy think tank including state chief ministers.
+- **Competitive federalism** emphasises states competing with each other to attract investment, improve governance and deliver better services, encouraged by rankings on things like ease of doing business.
+
+In practice, Indian federalism also has a **conflictual** side: disputes between central and state governments led by different parties over funds, governors’ roles, central agencies and policies.
+
+=== steps Article 356 and President’s Rule
+- **Article 356** allows the President, usually on the central government’s advice, to impose **President’s Rule** on a state if the state government cannot function according to the Constitution. The state government is dismissed, and the centre governs directly through the Governor.
+- It was intended as a rare emergency measure. But in practice, it was used **over 100 times** since independence, often against state governments led by opposition parties, sometimes on questionable grounds.
+- In the landmark **S. R. Bommai** case of **1994**, the Supreme Court ruled that the President’s satisfaction under Article 356 is subject to **judicial review**, and that a government’s majority should be tested on the floor of the legislature, not decided by the Governor’s opinion.
+- Since the Bommai judgment, the use of Article 356 has declined considerably.
+- The roles of **Governors**, who are appointed by the centre, remain a source of tension, with disputes over delays in approving state bills, which the Supreme Court has also addressed in recent years.
+
+=== text Special arrangements and changes
+Federal systems sometimes include special arrangements for particular regions. India’s Constitution included **Article 370**, which gave the state of **Jammu and Kashmir** special autonomous status, with its own constitution and limits on the application of central laws.
+
+In **August 2019**, the central government revoked Jammu and Kashmir’s special status and reorganised the state into two **Union Territories**, Jammu and Kashmir, and Ladakh, governed more directly by the centre. Supporters argued it would integrate the region more fully, promote development and improve security; critics argued it undermined federalism and was carried out without the consent of the region’s elected representatives, during a period of communication restrictions and detentions. In **December 2023**, the Supreme Court upheld the revocation of Article 370, while directing that statehood be restored and elections held; assembly elections took place in **2024**.
+
+Several northeastern states also have special constitutional provisions protecting local customs, land and governance.
+
+=== reveal How does the European Union compare to a federation?
+The **European Union** is a unique hybrid. Its **27** member states remain sovereign countries with their own armies, foreign policies and most taxes. But they’ve **pooled** sovereignty in many areas: a single market with common rules, freedom for citizens to live and work across member states, a **European Parliament** directly elected by citizens, a **Court of Justice** whose rulings bind member states, and, for 20 members, a shared currency, the **euro**, managed by the European Central Bank. Some see the EU as moving towards federation; others insist it must remain a union of nation-states. Debates over how much power to share came to a head in **2016**, when voters in the **United Kingdom** decided in a referendum to **leave** the EU, by **52%** to **48%**, a process known as **Brexit**, completed in 2020. It showed that the balance of power between levels of government is always open to democratic challenge.
+
+=== keypoints
+- **Fiscal federalism** concerns how taxing and spending are divided; **vertical fiscal imbalance** means the centre raises more revenue while states provide many services.
+- India’s **Finance Commission** (**Article 280**) recommends sharing central taxes with states; the **15th Finance Commission** set the states’ share at **41%**.
+- **GST (2017)** unified indirect taxes, governed by a **GST Council** where centre and states share decisions: an example of **cooperative federalism**.
+- **NITI Aayog** (2015) replaced the Planning Commission; federalism also has **competitive** and **conflictual** sides.
+- **Article 356** (President’s Rule) was used over **100 times**; the **S. R. Bommai** case (**1994**) limited its misuse.
+- Jammu and Kashmir’s special status under **Article 370** was revoked in **2019**; the Supreme Court upheld this in **2023**.
+- The **EU** pools sovereignty in a unique hybrid; the UK voted to leave in **2016** (**Brexit**).
+
+=== why
+How money and power flow between national and state governments affects the schools, hospitals, roads and services in your area, and shapes political battles between governments led by different parties. Understanding fiscal federalism helps you follow debates about tax sharing, GST, governors and state autonomy, and appreciate the constant negotiation that holds large, diverse democracies together.
+
+##### LESSON
+id: democracy.resilience.1
+title: How Democracies Weaken
+minutes: 16
+check: In your own words: what is democratic backsliding, what is executive aggrandisement, and what are common tactics used to weaken democracy from within?
+
+=== hook
+For much of the 20th century, democracies usually died suddenly and violently: tanks in the streets, the presidential palace surrounded, the radio station seized, a general announcing that the army had taken control. In Chile in **1973**, for example, the military overthrew the elected government of Salvador Allende in a violent coup.
+
+Today, outright coups still happen, especially in parts of Africa, where a wave of military takeovers swept the Sahel region between **2020 and 2023**. But political scientists have noticed a more common pattern in recent decades: democracies weakening **gradually**, from within, at the hands of elected leaders, through steps that each seem legal and may be presented as reforms. There may be no single dramatic moment, which makes it much harder to notice, or resist.
+
+=== core
+**Democratic backsliding** (also called democratic erosion or autocratisation) refers to the decline of democratic qualities in a country: elections becoming less free and fair, civil liberties being restricted, checks and balances weakened and accountability reduced.
+
+In an influential **2016** article, the political scientist **Nancy Bermeo** argued that the most common form of backsliding today is **executive aggrandisement**: elected leaders gradually weakening the institutions that check their power, such as courts, election bodies and the press, often through legal means and while maintaining elections.
+
+Data from organisations like **V-Dem**, which you met earlier, suggest that after a long period of democratic expansion following the end of the Cold War, the world has seen more countries moving towards autocracy than towards democracy in recent years. By V-Dem’s measures, a majority of the world’s population now lives in countries classified as autocracies of some kind, though, as you saw, such measures are debated.
+
+=== text Competitive authoritarianism
+In **2010**, the political scientists **Steven Levitsky** and **Lucan Way** described **competitive authoritarianism**: regimes in which elections are held and opposition parties compete, but the playing field is so tilted that the ruling party almost always wins. Opponents aren’t usually banned outright; instead, they face harassment, unfair access to media and money, and courts and election bodies that favour the government.
+
+Such regimes are hard to classify, because they keep many democratic forms. They often present themselves, and may be seen by many citizens, as legitimate democracies.
+
+=== callout analogy
+Think of democracy as a football match. In a coup, someone simply walks onto the pitch and declares themselves the winner. In gradual backsliding, the match continues, but one team quietly starts choosing the referees, tilting the pitch, shortening the opposing goal and controlling what the commentators say. The match still looks like a match, with real goals and a real scoreboard. But the result becomes increasingly predictable, and the other team can no longer realistically win.
+
+=== text Common tactics
+Researchers studying backsliding across many countries have identified recurring tactics, used by leaders from across the political spectrum:
+
+- **Capturing the referees**: appointing loyalists to courts, election commissions, prosecution services, tax authorities and police, or changing rules to control appointments.
+- **Weakening the courts**: packing them with new judges, changing retirement ages to remove judges, limiting their powers or ignoring their rulings.
+- **Controlling the media**: pressuring or buying media outlets, using regulators or tax investigations against critical journalists, or concentrating ownership among friendly businesses.
+- **Targeting opponents**: using investigations, prosecutions or legal restrictions selectively against opposition politicians, activists and civil society groups.
+- **Changing the rules of the game**: redrawing electoral boundaries, changing electoral laws, or amending constitutions to extend term limits or concentrate power.
+- **Restricting civil society**: limiting foreign funding for organisations, imposing burdensome registration rules or labelling critics as foreign agents.
+- **Polarisation and delegitimisation**: portraying opponents as enemies of the nation, and claiming that only the leader truly represents the people.
+
+=== steps Examples researchers often cite
+- **Hungary**: since **2010**, under Prime Minister **Viktor Orbán**, critics, including the **European Parliament**, which in **2022** described Hungary as a “hybrid regime of electoral autocracy”, have pointed to constitutional changes, influence over media and courts, and electoral rules favouring the ruling party. The Hungarian government rejects these characterisations, arguing it defends national sovereignty and traditional values and continues to win elections.
+- **Venezuela**: under **Hugo Chávez** and then **Nicolás Maduro**, a once-competitive democracy saw courts and electoral bodies brought under government influence, media restricted and opposition repressed. The disputed **2024** presidential election, in which the official result was rejected by the opposition and many foreign governments, was widely seen as a further step away from democracy.
+- **Turkey**: researchers have documented increasing concentration of power under President **Recep Tayyip Erdoğan**, especially after a failed coup attempt in **2016**, followed by mass purges and a constitutional change to a powerful presidential system in **2017**.
+- Rating organisations have also debated changes in large, long-standing democracies, including the **United States** and **India**, conclusions that have been disputed, including by those governments. Assessing such cases involves judgement, and reasonable observers disagree.
+
+=== text Why do voters sometimes support backsliding?
+Backsliding often happens with significant popular support. Research suggests several reasons:
+
+- **Polarisation**: when voters see the other side as a dangerous enemy, they become more willing to accept norm-breaking by their own side to keep opponents out of power. Experiments by political scientists **Milan Svolik** and **Matthew Graham** found that many voters in the US will tolerate undemocratic actions by politicians from their own party.
+- **Delivering results**: leaders who deliver economic growth, welfare or security may earn loyalty even as institutions weaken.
+- **Grievances**: voters frustrated with corruption, inequality or established elites may welcome leaders promising to sweep the old system away.
+- **Gradualness**: each step may seem small, justified or technical, and not obviously threatening democracy.
+- **Information control**: when media are captured, citizens may not learn about abuses.
+
+=== reveal Can democratic backsliding be reversed?
+Yes, sometimes. Research by V-Dem and others has found that a meaningful share of countries that began backsliding later recovered, often through **elections** in which united oppositions defeated incumbents, **courts** that resisted pressure, **mass protests** and a resilient **civil society** and **press**. Examples researchers have cited include **Brazil**, where institutions and voters played key roles in recent years, and **Poland**, where an opposition coalition won elections in **2023** after a period of concern over judicial independence, then began trying to reverse earlier changes, a process that proved politically contentious in its own right. Recovery is more likely when backsliding is caught early, before referees are fully captured and elections become meaningless. The next lesson looks at what makes democracies resilient.
+
+=== keypoints
+- **Democratic backsliding** is the decline of democratic qualities: freer elections, liberties, checks and accountability eroding.
+- **Bermeo (2016)**: the most common form today is **executive aggrandisement** by elected leaders.
+- **Competitive authoritarianism** (Levitsky and Way, 2010): elections continue on a heavily tilted playing field.
+- Tactics include **capturing referees**, **weakening courts**, **controlling media**, **targeting opponents**, **changing rules**, **restricting civil society** and **delegitimising opponents**.
+- Researchers often cite **Hungary**, **Venezuela** and **Turkey**; assessments of other countries are debated and sometimes disputed by governments.
+- Voters may support backsliding because of **polarisation**, **delivery of results**, **grievances**, **gradualness** and **information control**.
+- Backsliding can be **reversed**, especially when caught early.
+
+=== why
+Democracy isn’t a permanent achievement; it can erode quietly, step by step, in ways that are easy to miss. Understanding the warning signs, regardless of which party or leader displays them, helps you recognise threats to democratic institutions early, and understand why defending the rules matters even when your own side is in power.
+
+##### LESSON
+id: democracy.resilience.2
+title: How Democracies Grow Stronger
+minutes: 16
+check: In your own words: what did Robert Putnam find about civic life and democracy, what helped countries like Spain and South Korea consolidate democracy, and what can ordinary citizens do to strengthen it?
+
+=== hook
+On **25 November 1949**, as India’s Constitution was about to be adopted, **B. R. Ambedkar**, chair of the Constitution’s Drafting Committee, gave a remarkable final speech to the Constituent Assembly. He didn’t simply celebrate. He warned.
+
+He cautioned that Indians must use constitutional methods to achieve their goals, abandoning what he called the “**grammar of anarchy**”. He warned against laying liberties at the feet of even a great leader, observing that in politics, hero-worship is a sure road to degradation and eventually to dictatorship. And he warned that political democracy, one person one vote, could not last without **social democracy**: liberty, equality and fraternity in social and economic life, in a society deeply divided by caste and inequality. Seventy-five years later, his warnings remain a guide to what makes democracy endure.
+
+=== core
+In the previous lesson, you saw how democracies can weaken. This lesson asks the opposite question: what makes democracies **resilient**, able to survive crises, peacefully transfer power, correct mistakes and deepen over time?
+
+Political scientists point to several factors:
+
+- **Strong, independent institutions**: courts, election bodies, a free press and other watchdogs, as you saw earlier in this region.
+- **Democratic norms**: unwritten rules like **mutual tolerance** (accepting opponents as legitimate) and **forbearance** (not using power to the absolute limit against rivals).
+- **Civic culture**: citizens who participate, trust each other and value democracy.
+- **Inclusive participation**: all groups feeling they have a stake in the system.
+- **Economic performance and fairness**: democracies that deliver rising living standards, and don’t leave large groups behind, tend to be more stable.
+- **Peaceful transfers of power**: repeated experiences of losing and winning elections build confidence that democracy works for everyone.
+
+=== text Civic life and social capital
+In **1993**, the American political scientist **Robert Putnam** published *Making Democracy Work*, based on two decades of research into new regional governments created in **Italy** in the 1970s. All had similar formal structures, yet some performed far better than others.
+
+Putnam found that the best-performing regional governments, largely in northern Italy, were in areas with long traditions of **civic engagement**: choral societies, sports clubs, cooperatives, newspapers read widely and high levels of trust between citizens. He called these networks and norms of trust and cooperation **social capital**. Where people were used to cooperating in voluntary associations, they also held governments accountable and worked together on shared problems.
+
+In *Bowling Alone* (**2000**), Putnam warned that social capital was declining in the United States, as people joined fewer clubs, associations and community groups, and spent less time with neighbours. His findings have been debated, but the idea that democracy depends on a healthy civic life has been highly influential.
+
+=== callout analogy
+Think of democracy as a building. The constitution and institutions are the visible structure: walls, floors and roof. But the building also needs foundations that you don’t see: the habits, trust and cooperation of the people who live in it. A beautiful structure on weak foundations can crack in the first earthquake; a modest building on strong foundations can stand for centuries. Civic life is democracy’s foundation.
+
+=== text How democracies consolidate
+Political scientists say a democracy is **consolidated** when it becomes, in a famous phrase by **Juan Linz** and **Alfred Stepan**, “**the only game in town**”: when major political groups, and most citizens, accept that power can only be won through democratic elections. Some examples of consolidation:
+
+- **Spain**: after the death of the dictator **Francisco Franco** in **1975**, Spain made a negotiated transition to democracy. Rival parties, from conservatives to communists, agreed on a new constitution in **1978**, and signed economic agreements called the **Moncloa Pacts**. In **February 1981**, a group of military officers stormed parliament in an attempted coup; King **Juan Carlos** publicly opposed it on television, and it collapsed. Spain went on to become a stable democracy.
+- **South Korea**: after decades of military rule, mass protests in **1987** forced the government to accept direct presidential elections. In the following decades, power changed hands peacefully between rival parties several times. In **December 2024**, when President **Yoon Suk Yeol** declared martial law, legislators rushed to parliament, past troops, and voted unanimously to lift it within hours; he was later impeached and removed by the Constitutional Court in **2025**. Many observers saw this as a test that South Korea’s democratic institutions passed.
+- **Ghana**: since a return to multi-party democracy in **1992**, Ghana has seen several peaceful transfers of power between rival parties through elections, making it one of Africa’s more stable democracies.
+
+=== text India’s democratic endurance
+At independence, many observers doubted that democracy could survive in **India**: a poor, largely illiterate, enormously diverse country, emerging from the trauma of Partition. Universal adult suffrage, granted from the very first general election in **1951–52**, was an extraordinary gamble.
+
+Yet India has held regular national elections ever since, and power has changed hands peacefully between parties many times: in **1977**, when voters ended the Emergency by defeating the ruling Congress; in **1989**, **1996**, **1998**, **2004** and **2014**, among others. State governments change hands frequently. Scholars attribute India’s democratic endurance to factors including a strong constitution, independent institutions such as the Election Commission and judiciary, the habits built by regular elections, the representation of diverse groups through federalism and reserved seats, and the commitment of citizens, including the very high participation of poorer and rural voters. Scholars also debate contemporary challenges, from polarisation to institutional independence, reflecting the ongoing, contested nature of democracy everywhere.
+
+=== steps What citizens can do
+- **Vote**, in national, state and local elections, and help others to do so.
+- **Participate locally**: attend gram sabha or ward meetings, join residents’ associations, parent–teacher groups or community organisations. Local participation builds the habits of democracy.
+- **Stay informed** from diverse, reliable sources, using the media literacy skills from the Politics region.
+- **Use democratic tools**: petitions, the Right to Information, contacting representatives, peaceful protest and courts.
+- **Defend the rules**, not just outcomes: support independent institutions and fair processes even when your preferred side is in power, or when a ruling goes against it.
+- **Practise mutual tolerance**: treat political opponents as fellow citizens with legitimate views, not enemies, and talk across divides.
+- **Avoid hero-worship**, as Ambedkar warned: judge leaders by their actions and respect for institutions, not by personal devotion.
+
+=== reveal Is democracy only about politics, or does it need equality in society too?
+Ambedkar argued strongly that political democracy, equal votes, cannot survive without **social democracy**: a way of life recognising **liberty, equality and fraternity** as principles of life. In his 1949 speech, he warned that India was entering a life of contradictions: equality in politics, but inequality in social and economic life, and that if the contradiction persisted, those who suffered inequality might blow up the structure of political democracy. Many political scientists agree that extreme economic inequality, social exclusion and discrimination can undermine democracy, by concentrating political influence among the wealthy, alienating those left behind and fuelling resentment that anti-democratic leaders can exploit. This is why many democracies pursue policies to widen opportunity and inclusion, from education and anti-discrimination laws to reserved representation, though how best to do so remains debated.
+
+=== keypoints
+- Resilient democracies combine **strong institutions**, **democratic norms** (mutual tolerance and forbearance), **civic culture**, **inclusion**, **fair economic performance** and **peaceful transfers of power**.
+- **Putnam (1993)** found that **social capital**, networks of civic engagement and trust, made Italian regional governments work better; *Bowling Alone* (2000) warned of its decline in the US.
+- A democracy is **consolidated** when it’s “**the only game in town**” (Linz and Stepan).
+- **Spain** (after 1975, coup foiled in 1981), **South Korea** (1987; martial law reversed in 2024) and **Ghana** (since 1992) illustrate consolidation.
+- **India** has held regular elections with many peaceful transfers of power since **1951–52**.
+- Citizens strengthen democracy by **voting**, **participating locally**, **staying informed**, **using democratic tools**, **defending the rules** and **practising tolerance**.
+- **Ambedkar** warned against **hero-worship** and argued political democracy needs **social democracy**.
+
+=== why
+Democracy depends not only on constitutions and institutions, but on the everyday choices of citizens. Understanding what makes democracies strong helps you see your own role: not as a spectator, but as a participant whose engagement, tolerance and defence of fair rules help keep democracy alive for future generations.

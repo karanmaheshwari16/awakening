@@ -1,0 +1,305 @@
+##### LESSON
+id: democracy.what-is-democracy.2
+title: Many Kinds of Democracy, and How to Measure Them
+minutes: 15
+prereq: democracy.what-is-democracy.1
+check: In your own words: what is the difference between parliamentary and presidential democracy, how do organisations try to measure democracy and why are their ratings debated, and what is deliberative democracy?
+
+=== hook
+Between **2016 and 2018**, the Republic of Ireland tried an unusual experiment. The government brought together **99** ordinary citizens, chosen randomly to reflect the population by age, gender, region and social background, into a **Citizens’ Assembly**. Over several weekends, they heard from experts, advocates and people with personal experience, then deliberated in small groups about some of the country’s most divisive issues, including abortion, which was then almost entirely banned under the constitution.
+
+The assembly recommended significant change. In a **2018** referendum, Irish voters agreed, by about two to one. Supporters argued the assembly had helped a deeply divided society discuss a painful issue more calmly and thoughtfully than politicians alone could. Democracy, it turns out, can take many forms beyond simply voting every few years.
+
+=== core
+In the previous lesson, you saw the core features of democracy: free and fair elections, universal suffrage, rights, the rule of law and peaceful transfers of power. But democracies organise themselves in many different ways.
+
+One of the most important differences is how the **executive** (the government that runs the country) relates to the **legislature** (the elected body that makes laws):
+
+- In a **parliamentary system**, like **India**, the **UK**, Japan and Canada, voters elect a legislature, and the government is formed by whoever can command a majority there. The **Prime Minister** is usually the leader of the largest party or coalition, and remains in office only as long as they keep the legislature’s confidence. A separate **head of state**, such as India’s President or the British monarch, has a largely ceremonial role.
+- In a **presidential system**, like the **United States**, Brazil and Mexico, voters directly elect a **President** who is both head of state and head of government, for a fixed term, separately from the legislature. The President can’t normally be removed by a vote of no confidence.
+- In a **semi-presidential system**, like **France**, there is both a directly elected President with significant powers and a Prime Minister accountable to the legislature.
+
+=== text Strengths and weaknesses
+Each system has trade-offs:
+
+- **Parliamentary systems** can act quickly when the government has a majority, and can replace an unpopular leader without waiting for an election. But they can be unstable when no party has a majority, and a government with a large majority may face few checks.
+- **Presidential systems** give voters a direct choice of leader and provide stability through fixed terms. But conflict between a President and a legislature controlled by opponents can produce **gridlock**. The political scientist **Juan Linz** argued that presidential systems were more prone to democratic breakdown, especially in Latin America, though others dispute how strong that pattern is.
+
+Many democracies are also **constitutional monarchies**, like the UK, Japan, Sweden and Thailand, where a hereditary monarch is head of state but real power lies with elected institutions.
+
+=== callout analogy
+Think of a parliamentary system like a company where the shareholders elect a board, and the board chooses the chief executive, who can be replaced by the board at any time. A presidential system is like a company where shareholders elect both the board and the chief executive separately, for fixed terms. The first is more flexible; the second is more stable, but the chief executive and the board might be at war for years.
+
+=== text Measuring democracy
+Several organisations try to measure how democratic countries are, using expert assessments, surveys and other data:
+
+- **V-Dem** (Varieties of Democracy), based at the University of Gothenburg in Sweden, uses thousands of country experts to assess many aspects of democracy, from elections to civil liberties and judicial independence.
+- **Freedom House**, a US-based organisation, rates countries as “Free”, “Partly Free” or “Not Free” based on political rights and civil liberties.
+- The **Economist Intelligence Unit’s Democracy Index** classifies countries as full democracies, flawed democracies, hybrid regimes or authoritarian regimes.
+
+These indices are widely used by researchers and journalists, but they’re also **debated**. Critics question how subjective expert judgements are, whether the criteria reflect particular cultural or political assumptions, and whether ratings are applied consistently across countries. Governments sometimes strongly dispute their ratings: in recent years, for example, several indices downgraded their assessments of **India**, and the Indian government rejected those assessments as biased and flawed. Different indices also sometimes disagree with each other. They’re best treated as useful starting points for asking questions, rather than final verdicts.
+
+=== text Democracy beyond elections
+Some thinkers argue that democracy should involve more than voting every few years:
+
+- **Deliberative democracy** emphasises reasoned public discussion: citizens weighing evidence and arguments together before decisions are made, as in Ireland’s Citizens’ Assembly. Citizens’ assemblies have also been used on climate change in France and the UK, and in many local governments.
+- **Participatory budgeting**, pioneered in the Brazilian city of **Porto Alegre** in **1989**, lets residents directly decide how to spend part of the city budget. The idea has spread to thousands of cities worldwide, including some in India, such as Pune.
+- **Direct democracy** through **referendums**, common in **Switzerland**, where citizens vote on many national and local issues several times a year.
+- **Local democracy**: India’s **73rd and 74th Constitutional Amendments** of **1992** created elected local governments in villages (**panchayats**) and towns, with at least **one-third** of seats reserved for women, raised to **50%** in many states. This created over a million elected women representatives, one of the largest experiments in local democracy anywhere.
+
+=== steps Why democracy, despite its flaws?
+- In **1947**, **Winston Churchill** told the British House of Commons that democracy is the worst form of government, except for all the others that have been tried, noting that he was repeating something that had been said before.
+- **Accountability**: voters can remove leaders who perform badly, without violence.
+- **Rights**: democracies generally protect freedoms of speech, belief and association better than other systems.
+- **Famine prevention**: the Indian economist **Amartya Sen** observed that no major famine has occurred in a functioning democracy with a free press, because governments must respond to public pressure and information flows freely. India has not suffered a major famine since independence, unlike under colonial rule.
+- **Peace**: as you saw in the Politics region, democracies rarely fight wars against each other.
+- **Error correction**: open debate and changes of government allow societies to recognise and fix mistakes, though not always quickly.
+
+=== reveal Can a country be democratic if it holds elections but restricts rights?
+This is why political scientists distinguish different kinds of regimes. As you saw in the previous lesson, **electoral democracies** hold real, competitive elections; **liberal democracies** also robustly protect rights and constrain power. Beyond these, some regimes hold elections that are not truly fair, because opponents are harassed, media are controlled or courts are captured, while maintaining a democratic appearance. Scholars call these **competitive authoritarian** or **hybrid** regimes. The boundaries between categories can be blurry, and assessing where a country falls involves judgement, which is exactly why democracy ratings are so often debated. You’ll explore how democracies can weaken, and strengthen, later in this region.
+
+=== keypoints
+- **Parliamentary systems** (India, UK) form governments from the legislature; **presidential systems** (US, Brazil) elect a president separately; **semi-presidential systems** (France) combine both.
+- Parliamentary systems are flexible but can be unstable; presidential systems are stable but prone to **gridlock**.
+- **Constitutional monarchies** keep a hereditary head of state with power held by elected institutions.
+- Indices like **V-Dem**, **Freedom House** and the **EIU Democracy Index** measure democracy, but their methods and ratings are **debated**, and governments sometimes dispute them.
+- **Deliberative democracy** (Ireland’s **Citizens’ Assembly**), **participatory budgeting** (**Porto Alegre, 1989**) and **referendums** (Switzerland) expand participation.
+- India’s **1992** amendments created elected **panchayats** with reserved seats for women.
+- **Amartya Sen** observed that famines don’t occur in functioning democracies with a free press.
+
+=== why
+Understanding the different forms democracy can take helps you compare countries, interpret news about elections and governments, and think about how democracy could work better. It also helps you evaluate claims about how democratic a country is, including your own, with a critical eye towards both the evidence and the methods used to measure it.
+
+##### LESSON
+id: democracy.elections.1
+title: How Votes Become Power: Electoral Systems
+minutes: 15
+check: In your own words: how does first-past-the-post work and what are its strengths and weaknesses, how does proportional representation differ, and why do electoral systems affect how many parties a country has?
+
+=== hook
+In the **2024** general election in the **United Kingdom**, the Labour Party won about **34%** of the votes across the country. Yet it won about **63%** of the seats in Parliament, 411 out of 650, giving it a large majority. Meanwhile, the Reform UK party won about **14%** of votes but just **5** seats, and the Green Party nearly **7%** of votes but only **4** seats.
+
+Nothing was unfair in the sense of breaking the rules. The result followed directly from the UK’s **electoral system**, the same one India and the United States use for their main elections. Electoral systems, the rules that turn votes into seats, can produce dramatically different outcomes from exactly the same votes. They shape which parties exist, who governs and how voters are represented.
+
+=== core
+An **electoral system** is the set of rules that determines how votes are cast and how they’re translated into seats in a legislature or into the election of an official. It sounds technical, but it profoundly shapes politics.
+
+There are three broad families of electoral system:
+
+1. **Majoritarian (or plurality) systems**, which reward the candidates with the most votes in each area.
+2. **Proportional representation (PR)** systems, which aim to give parties seats in proportion to their share of votes.
+3. **Mixed systems**, which combine elements of both.
+
+=== text First-past-the-post
+In **first-past-the-post (FPTP)**, the country is divided into **constituencies**, each electing one representative. In each constituency, the candidate with the **most votes wins**, even without a majority. It’s used for India’s **Lok Sabha** and state assemblies, the UK House of Commons, the US House of Representatives and Canada’s Parliament.
+
+**Strengths**:
+
+- **Simple** to understand and count.
+- A clear **link** between each representative and a local area.
+- Often produces **single-party majority governments**, which can act decisively and are easy for voters to hold accountable.
+- Tends to exclude extremist parties with thinly spread support.
+
+**Weaknesses**:
+
+- **Disproportional results**: a party’s share of seats can differ greatly from its share of votes, as in the UK in 2024.
+- **Wasted votes**: votes for losing candidates, and extra votes beyond what the winner needed, don’t affect the outcome. In a constituency where the winner gets 35% and four others share 65%, most voters backed someone else.
+- **Tactical voting**: voters may vote for a less-preferred candidate who has a better chance of winning, to block one they dislike most.
+- Smaller parties with support spread across the country, rather than concentrated in particular areas, struggle to win seats.
+
+=== text Proportional representation
+In **proportional representation**, parties receive seats roughly in proportion to their share of the vote. If a party wins 20% of votes, it gets about 20% of seats.
+
+In a common form, **party-list PR**, voters choose a party, and seats are filled from lists of candidates each party publishes. It’s used in countries like the **Netherlands**, **Israel**, **South Africa**, Spain and many others.
+
+**Strengths**:
+
+- Results closely reflect voters’ preferences.
+- **Fewer wasted votes**, so voters can support their genuine first choice.
+- More **diverse** parliaments, often with better representation of smaller parties, women and minorities.
+
+**Weaknesses**:
+
+- Often produces **coalition governments**, which can involve lengthy negotiations, compromises voters didn’t choose and sometimes instability. After the 2021 Dutch election, forming a government took around nine months.
+- Small parties can gain significant **bargaining power** as coalition partners.
+- In pure list systems, the **link** between representatives and specific local areas can be weaker.
+
+=== callout analogy
+Think of FPTP as a series of separate races where only the winner of each race gets a medal, no matter how close the others came. Proportional representation is like awarding points to every runner based on their finishing positions across all races combined. The first system creates clear winners; the second better reflects everyone’s overall performance, but may leave no single champion.
+
+=== text Other systems
+- **Mixed-member proportional (MMP)**: used in **Germany** and **New Zealand** (which adopted it after a 1993 referendum, first using it in 1996). Voters cast two votes: one for a local representative and one for a party. Party votes are used to top up seats so the overall result is roughly proportional, combining local links with fairness.
+- **Ranked-choice voting** (or the alternative vote): voters **rank** candidates in order of preference. If no one has a majority, the last-placed candidate is eliminated and their votes transfer to voters’ next choices, until someone has a majority. It’s used for Australia’s House of Representatives and in some US elections.
+- **Single transferable vote (STV)**: a proportional system using ranked ballots in multi-member constituencies, used in **Ireland**. India’s **Rajya Sabha** members are elected indirectly by state legislators using STV, and India’s **President** is elected by an electoral college using a form of preferential voting.
+- **Two-round system**: if no candidate wins a majority in the first round, the top candidates face a run-off, as in **France**’s presidential elections.
+
+=== steps Duverger’s law: how rules shape party systems
+- In the **1950s**, the French political scientist **Maurice Duverger** observed a pattern: **FPTP** systems tend to produce **two major parties**, while **proportional** systems tend to produce **many parties**.
+- Why? In FPTP, voters avoid “wasting” votes on small parties that can’t win, and politicians gather into large parties to compete. This is a **mechanical** effect (small parties win few seats) combined with a **psychological** effect (voters and politicians anticipate it).
+- The **United States**, with FPTP, has been dominated by two parties for over 150 years.
+- But **India** is an important exception: despite FPTP, it has many significant parties. This is partly because Duverger’s logic works at the **constituency** level, and in different Indian states, different parties are strong, so the national picture is multi-party even if many individual contests are between two main rivals.
+- Duverger’s “law” is therefore better seen as a strong **tendency** than an iron rule.
+
+=== reveal Is there a perfect voting system?
+No, and mathematics proves it. In **1951**, the economist **Kenneth Arrow** proved what is now called **Arrow’s impossibility theorem**: when voters rank three or more options, no voting method can always satisfy a small set of reasonable-sounding fairness conditions at the same time. Every system involves trade-offs. Even earlier, in the 18th century, the French mathematician the **Marquis de Condorcet** showed that majority preferences can be **cyclical**: a group might prefer A to B, B to C, and yet C to A, so there’s no clear winner. Arrow won the Nobel Prize in Economics in 1972, partly for this work. The practical lesson: choosing an electoral system isn’t about finding the perfect one, but deciding which trade-offs a society values most, such as stable government, proportional fairness, local representation or simplicity.
+
+=== keypoints
+- An **electoral system** turns votes into seats; families include **majoritarian**, **proportional** and **mixed** systems.
+- **First-past-the-post** (India’s Lok Sabha, UK, US House) gives each seat to the top vote-winner: **simple** and **decisive**, but **disproportional**, with **wasted votes** (UK 2024: ~34% of votes, ~63% of seats).
+- **Proportional representation** matches seats to vote shares: **fairer** and more **diverse**, but often leads to **coalitions**.
+- Other systems include **MMP** (Germany, New Zealand), **ranked-choice** (Australia), **STV** (Ireland, India’s Rajya Sabha) and **two-round** (France).
+- **Duverger’s law**: FPTP tends towards two parties, PR towards many; **India** is a notable exception.
+- **Arrow’s impossibility theorem (1951)**: no voting system is perfect; all involve trade-offs.
+
+=== why
+Electoral systems quietly shape who governs, which parties exist and whose voices are heard. Understanding them helps you interpret election results, see why a party can win power with a minority of votes, and engage with debates about electoral reform. The next lesson explores how elections are actually run, and what makes them free and fair.
+
+##### LESSON
+id: democracy.elections.2
+title: Running Free and Fair Elections
+minutes: 15
+prereq: democracy.elections.1
+check: In your own words: what makes an election free and fair, what role does the Election Commission of India play, and what is gerrymandering?
+
+=== hook
+In the **2024** Indian general election, around **970 million** people were eligible to vote, and about **640 million** actually voted, the largest democratic exercise in history. The election took place in **seven phases** over about six weeks. More than a million polling stations were set up, from crowded cities to remote Himalayan villages, forests and islands.
+
+To reach voters, election officials travelled by foot, boat, horse and helicopter. In the Gir forest in Gujarat, a polling station has famously been set up for a single voter, a priest at a remote temple, honouring the rule that no voter should have to travel more than about two kilometres to vote. Organising elections on this scale requires extraordinary planning, and it shows that free and fair elections don’t happen by themselves.
+
+=== core
+Elections are at the heart of democracy, but simply holding elections isn’t enough. Many authoritarian regimes hold elections too. What matters is whether elections are **free and fair**.
+
+Key features of free and fair elections include:
+
+- **Universal suffrage**: all adult citizens can vote, without unreasonable barriers.
+- **Secret ballot**: voters can choose without anyone knowing how they voted, protecting them from intimidation or bribery.
+- **Genuine choice**: opposition parties and candidates can compete freely, campaign and criticise the government.
+- **Free media and information**: voters can access diverse information about candidates and issues.
+- **Independent administration**: elections are run by impartial bodies, not by the ruling party.
+- **Accurate counting** and transparent results.
+- **Acceptance of results** and peaceful transfer of power.
+- **Fair campaign conditions**: rules on campaign spending and access to media that don’t heavily favour one side.
+
+=== text The secret ballot
+For much of history, voting was often public: voters announced their choices aloud or used ballots printed by parties in distinctive colours, which made intimidation and vote-buying easy. Employers, landlords and party agents could see exactly how people voted.
+
+The **secret ballot**, with official ballots listing all candidates, marked in private, was introduced in the Australian colony of **Victoria** in **1856**, and became known as the “**Australian ballot**”. It spread to Britain in **1872** and gradually around the world. Today, it’s considered a cornerstone of free elections, recognised in the **Universal Declaration of Human Rights**.
+
+=== text The Election Commission of India
+India’s elections are run by the **Election Commission of India (ECI)**, established in **1950** under the Constitution as an independent body. It oversees elections to Parliament, state legislatures and the offices of President and Vice President.
+
+The ECI enforces a **Model Code of Conduct**: guidelines for parties and candidates during elections, such as banning the use of government resources for campaigning and announcing new schemes once elections are called. The Code’s enforcement was dramatically strengthened in the early **1990s** under Chief Election Commissioner **T. N. Seshan**, who became famous for cracking down on electoral malpractice, such as excessive spending, misuse of official machinery and intimidation of voters.
+
+Debates continue over how election commissioners should be appointed. In **2023**, Parliament passed a law setting up a selection committee, a change critics argued gave the government too much influence and supporters defended as within Parliament’s powers.
+
+=== callout analogy
+Think of an election as a cricket match between political parties. The voters are the crowd who decide the winner, but the match only means something if the umpires are neutral, the rules are fair for both sides, no one tampers with the ball and the scoreboard is accurate. An election commission is the umpire. If the umpire can be pressured by one team, the result loses its legitimacy, however many people watched.
+
+=== text Voting technology
+India began using **electronic voting machines (EVMs)** in some constituencies in the late 1990s and used them in all constituencies from the **2004** general election. EVMs replaced paper ballots, reducing invalid votes and speeding up counting.
+
+To address concerns about whether EVMs record votes correctly, India added the **Voter Verifiable Paper Audit Trail (VVPAT)**, which prints a slip showing the voter’s choice, visible briefly through a window, before it drops into a sealed box. A sample of VVPAT slips is counted and matched against EVM totals. Some political parties and activists have raised concerns about EVMs over the years; the **Supreme Court**, in **2024**, rejected petitions seeking a return to paper ballots or full counting of VVPAT slips, while suggesting additional safeguards.
+
+India also introduced the **NOTA** (“None of the Above”) option on ballots in **2013**, following a Supreme Court ruling, allowing voters to formally register that they reject all candidates, though NOTA votes don’t affect who wins.
+
+=== steps Ways elections can be distorted
+- **Gerrymandering**: drawing constituency boundaries to favour one party. The term comes from **Elbridge Gerry**, governor of Massachusetts, who in **1812** approved a district so oddly shaped that a newspaper cartoon compared it to a salamander, a “Gerry-mander”. Common tactics include **packing** opponents’ voters into a few districts they win by huge margins, and **cracking** them across many districts so they’re a minority everywhere. In India, boundaries are redrawn by an independent **Delimitation Commission**, whose decisions can’t be challenged in court.
+- **Voter suppression**: making it harder for certain groups to vote, through strict ID rules, purging voter lists, reducing polling stations or long queues in particular areas.
+- **Vote buying**: offering cash, gifts or goods in exchange for votes. Election authorities in India regularly seize large amounts of cash, liquor and goods during campaigns.
+- **Intimidation and violence** against voters, candidates or officials.
+- **Misinformation**, as you saw in the Politics region, spreading false claims about candidates or voting procedures.
+- **Unequal resources**: when one side has far more money or media access, competition becomes less fair, even without illegal activity.
+
+=== text Turnout and participation
+**Voter turnout**, the share of eligible voters who actually vote, varies widely. India’s turnout in national elections has generally been in the range of around **60 to 67%** in recent decades, with notably high participation among rural voters and, increasingly, women. In the 2019 and 2024 elections, women’s turnout roughly matched or exceeded men’s, a striking change from earlier decades.
+
+Some countries, like **Australia**, make voting **compulsory**, with small fines for not voting, achieving turnout above 90%. Supporters argue it gives governments a stronger mandate and representation from everyone; critics argue that freedom should include the freedom not to vote.
+
+=== reveal Why do international observers monitor elections?
+Election observers, from organisations like the **Organisation for Security and Co-operation in Europe**, the **African Union**, the **European Union**, the Commonwealth and groups like the **Carter Center**, monitor elections in many countries, assessing whether they meet international standards. They watch polling, counting and campaigning, and publish reports. Their presence can deter fraud, build public confidence in fair results and help expose manipulation. However, observers can’t be everywhere, and determined governments can rig elections in ways observers struggle to detect, such as through long-term control of media or courts rather than on election day itself. Many established democracies, including India, run elections without formal international monitoring, relying on domestic institutions, parties’ own polling agents, the media and courts to ensure fairness.
+
+=== keypoints
+- Free and fair elections need **universal suffrage**, a **secret ballot**, **genuine choice**, **free media**, **independent administration**, **accurate counting** and **acceptance of results**.
+- The **secret ballot** began in **Victoria, Australia, in 1856**.
+- The **Election Commission of India (1950)** runs elections and enforces the **Model Code of Conduct**, strengthened by **T. N. Seshan** in the 1990s.
+- India used **EVMs** nationwide from **2004**, adding **VVPAT** paper trails; the **Supreme Court** upheld their use in **2024**. **NOTA** was introduced in **2013**.
+- The **2024** Indian election, with about **640 million** voters, was the largest in history.
+- Distortions include **gerrymandering** (named after **Elbridge Gerry, 1812**), **voter suppression**, **vote buying**, **intimidation**, **misinformation** and **unequal resources**.
+- India’s turnout is around **60–67%**, with **women’s turnout** now matching men’s.
+
+=== why
+Elections are how citizens in a democracy choose and remove their leaders, but they only work if they’re genuinely free and fair. Understanding how elections are run, and how they can be distorted, helps you value the institutions that protect them, recognise threats to them, and take part with confidence. Next, you’ll explore how democracies divide power to prevent any one person or group from becoming too powerful.
+
+##### LESSON
+id: democracy.separation.1
+title: Separation of Powers: Keeping Power in Check
+minutes: 15
+check: In your own words: what are the three branches of government, what are checks and balances, and what is India’s basic structure doctrine?
+
+=== hook
+On the night of **25 June 1975**, Indian President **Fakhruddin Ali Ahmed**, on the advice of Prime Minister **Indira Gandhi**, declared a national **Emergency**, citing threats to internal security. It came shortly after the Allahabad High Court had found Indira Gandhi guilty of electoral malpractice in her 1971 election, invalidating her election.
+
+For the next **21 months**, civil liberties were suspended. Opposition leaders and tens of thousands of others were jailed without trial; newspapers were censored; elections were postponed. In a **1976** case known as **ADM Jabalpur**, the Supreme Court ruled that during the Emergency, people could not go to court to challenge unlawful detention. When elections were finally held in **1977**, voters decisively defeated the ruling party, and the new government passed constitutional amendments to make such an Emergency much harder in future. The episode remains a powerful lesson in why power must be divided and limited.
+
+=== core
+One of the central ideas of constitutional democracy is that concentrating all power in one person or institution is dangerous, however good their intentions. The solution is to **divide** power and make different parts of government **check** each other.
+
+The idea was famously developed by the French philosopher **Montesquieu** in *The Spirit of the Laws* (**1748**). Inspired partly by his reading of the British constitution, he argued that liberty could only be secure if the powers of government were separated into three branches:
+
+1. The **legislature**, which **makes laws**: India’s Parliament, the US Congress, the UK Parliament.
+2. The **executive**, which **implements and enforces** laws and runs the government: the Prime Minister, President, ministers and civil service.
+3. The **judiciary**, which **interprets laws** and settles disputes: the courts.
+
+Montesquieu warned that when the legislative and executive powers are united in the same person or body, there can be no liberty, and that there is no liberty if the judicial power is not separated from the other two.
+
+=== text Checks and balances
+Separation alone isn’t enough; each branch also needs ways to **limit** the others. These are called **checks and balances**.
+
+The **United States Constitution** of **1787** built in many of them:
+
+- Congress passes laws, but the **President can veto** them.
+- Congress can **override** a veto with a two-thirds majority in both houses.
+- The President appoints judges and senior officials, but the **Senate must confirm** them.
+- The courts can strike down laws that violate the Constitution, a power called **judicial review**, established in the landmark case **Marbury v. Madison** in **1803**.
+- Congress can **impeach** and remove the President and judges for serious misconduct.
+
+=== callout analogy
+Think of the three branches as three people who each hold one key to a vault, with three locks. No one can open the vault alone; they must agree. And each can watch the others to make sure no one tries to break in on their own. It’s less efficient than giving one person all the keys, but much safer, especially when you can’t be sure who will be holding them in the future.
+
+=== text Separation in parliamentary systems
+In **parliamentary systems**, like India and the UK, the separation between the executive and legislature is less strict. The Prime Minister and ministers are members of Parliament and depend on its support. This is sometimes called a **fusion** of powers.
+
+Checks still operate:
+
+- **Parliament holds the government accountable** through debates, questions, committees and votes on budgets and laws.
+- A government that loses a **vote of no confidence** must resign or call an election.
+- An **independent judiciary** can review government actions and, in India, laws.
+- In India, the **President**, though largely acting on the advice of the government, can return certain bills to Parliament for reconsideration once.
+
+=== text India’s judiciary and the basic structure
+India’s **Supreme Court** has wide powers of **judicial review**: it can strike down laws and government actions that violate the Constitution, including **fundamental rights**.
+
+A central question in India was whether Parliament could amend **any** part of the Constitution. In the landmark **Kesavananda Bharati** case of **1973**, decided by a 13-judge bench, the Supreme Court ruled, by a narrow 7–6 majority, that Parliament can amend the Constitution, but **cannot alter its basic structure**. Elements identified as part of the basic structure in this and later cases include the supremacy of the Constitution, democracy, secularism, federalism, the separation of powers, judicial review and free and fair elections.
+
+The **basic structure doctrine** is one of the most important features of Indian constitutional law. Supporters see it as a vital safeguard against majorities dismantling democracy; critics argue it gives unelected judges too much power over elected lawmakers. Courts in several other countries, including Bangladesh and Kenya, have drawn on similar ideas.
+
+=== steps Lessons from the Emergency
+- The Emergency (**1975–1977**) showed how constitutional powers could be used to suspend democracy legally.
+- After the 1977 election, the new government passed the **44th Amendment** in **1978**, adding safeguards: a national emergency can now be declared on grounds of **armed rebellion** rather than vaguer “internal disturbance”, only on written advice of the Cabinet, and must be approved by Parliament with a special majority.
+- It also ensured that the **right to life and personal liberty** (Article 21) cannot be suspended even during an emergency.
+- In **2017**, a nine-judge bench of the Supreme Court, in the **Puttaswamy** case recognising a fundamental **right to privacy**, explicitly stated that the **ADM Jabalpur** judgment had been seriously flawed and was overruled.
+- The episode is often cited as showing both the fragility of democratic safeguards and the power of voters and institutions to restore them.
+
+=== reveal Doesn’t separating powers make government slow and inefficient?
+Yes, sometimes, and that’s partly the point. Checks and balances are deliberately designed to make it **harder** to act, so that major decisions require broad agreement and can’t be imposed by a single person or a temporary majority. The trade-off is that they can produce **gridlock**, delays and frustration, especially when different branches are controlled by opposing parties, as often happens in the United States. Some argue that strong, unchecked leaders can “get things done” faster. But history suggests that concentrated power can also make catastrophic mistakes, abuse rights and become impossible to remove. Most constitutional designers accept some inefficiency as the price of protecting liberty and preventing the worst outcomes.
+
+=== keypoints
+- **Montesquieu (1748)** argued liberty requires separating **legislative**, **executive** and **judicial** powers.
+- **Checks and balances** let each branch limit the others: **vetoes**, **confirmations**, **judicial review** (**Marbury v. Madison, 1803**) and **impeachment** in the US.
+- **Parliamentary systems** fuse executive and legislature, but Parliament holds government accountable, including through **no-confidence votes**.
+- India’s **Supreme Court** has strong **judicial review**; the **Kesavananda Bharati (1973)** case established the **basic structure doctrine**.
+- The **Emergency (1975–77)** suspended civil liberties; the **44th Amendment (1978)** added safeguards; **ADM Jabalpur** was overruled in **2017**.
+- Checks and balances can cause **gridlock**, but protect against the abuse of concentrated power.
+
+=== why
+How power is divided determines whether leaders can be held accountable and whether rights are protected when majorities or leaders overreach. Understanding separation of powers helps you make sense of clashes between governments, parliaments and courts, and appreciate the safeguards that protect democracy, as well as the debates about where the balance should lie.

@@ -1,0 +1,91 @@
+{
+  "id": "democracy.parties.2",
+  "region": "democracy",
+  "topic": "parties",
+  "level": 2,
+  "prerequisites": [
+    "democracy.parties.1"
+  ],
+  "title": "Why Voters Choose: Identity, Interests and Polarisation",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "During the **1992** US presidential campaign, the strategist **James Carville**, working for candidate **Bill Clinton**, hung a sign in the campaign headquarters to keep staff focused. One of its lines became famous: “**The economy, stupid.**”\n\nClinton, a relatively little-known governor, defeated the sitting President, **George H. W. Bush**, who had been extremely popular just a year earlier after the Gulf War, partly because voters were worried about a recession. The slogan captured one popular theory of voting: people judge governments mainly by the state of the economy. But is that how most voters really decide? Political scientists have found that the answer is much more complicated, and much more interesting."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Why do people vote the way they do? Political scientists have developed several theories, each capturing part of the truth:\n\n1. **Party identification**: many voters develop a long-term psychological attachment to a party, often from family and community, which shapes how they see issues and candidates.\n2. **Rational choice**: voters weigh which party’s policies best serve their interests.\n3. **Economic voting**: voters reward or punish governments based on economic conditions.\n4. **Social identity**: voters support parties associated with their social group, such as religion, caste, ethnicity, region or class.\n5. **Leaders and campaigns**: the personal appeal of leaders, and campaign messages, can sway voters, especially those without strong attachments."
+    },
+    {
+      "type": "text",
+      "heading": "Party identification",
+      "md": "In **1960**, researchers at the University of Michigan published *The American Voter*, based on large surveys. They found that many Americans held a stable **party identification**, often inherited from their parents, which acted like a lens: voters tended to adopt their party’s positions, view its candidates favourably and interpret events in its favour.\n\nParty loyalty helps voters make sense of complex politics without studying every issue. But it can also mean voters judge evidence differently depending on which party benefits, a form of the confirmation bias you met in the Philosophy region."
+    },
+    {
+      "type": "text",
+      "heading": "Rational choice and the median voter",
+      "md": "In **1957**, the economist **Anthony Downs** applied economic reasoning to elections in *An Economic Theory of Democracy*. He imagined voters lined up along a single left–right spectrum, each voting for the party closest to their views.\n\nHis **median voter theorem** predicts that, in a two-party system, both parties will move towards the **centre**, towards the voter in the exact middle of the distribution, because that’s where the winning votes are. A party that moves too far to one side leaves space for its rival to capture the centre.\n\nThis helps explain why major parties in two-party systems sometimes sound similar. But real politics often departs from the model: parties also need to energise their committed supporters, who may be more extreme; issues are multidimensional; and turnout varies."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine two ice cream sellers on a long beach, with customers spread evenly along it. If the sellers set up at opposite ends, each gets half the beach. But each can steal customers by moving a little towards the middle. Soon, both end up side by side in the centre. Downs argued that political parties behave similarly, converging towards the median voter, though real voters, like real beachgoers, sometimes stay home if both options are too far from what they want."
+    },
+    {
+      "type": "text",
+      "heading": "Economic voting",
+      "md": "Many studies find that the economy strongly affects elections: incumbent governments tend to do better when incomes and employment are growing and worse during recessions or high inflation. Voters may judge governments **retrospectively**, based on past performance, or **prospectively**, based on expectations.\n\nThe post-pandemic inflation surge you met in the Money region was followed by many incumbent governments losing votes in elections around the world in **2024**, which some analysts linked partly to frustration over the cost of living."
+    },
+    {
+      "type": "text",
+      "heading": "Identity and voting in India",
+      "md": "In **India**, research by organisations such as the **Lokniti programme** of the Centre for the Study of Developing Societies (CSDS), which has conducted large election surveys for decades, shows that many factors influence voting:\n\n- **Caste and community**: parties often build coalitions among particular caste groups, and caste-based mobilisation has been important, especially since the rise of parties representing backward castes and Dalits from the late 1980s.\n- **Religion**: religious identity has become increasingly significant in voting patterns in recent decades.\n- **Region and language**: state parties often draw strength from regional identities.\n- **Welfare delivery**: some analysts describe a growing group of **labharthi** (beneficiary) voters, who reward governments for delivering welfare schemes like housing, gas connections and food rations.\n- **Leadership**: the popularity of national leaders has become an important factor in national elections.\n- **Local candidates** and **anti-incumbency**: voters often punish sitting representatives or state governments perceived as underperforming.\n\nResearchers stress that no single factor explains Indian voting; identity, interests, leadership and performance interact, and patterns vary between states and elections."
+    },
+    {
+      "type": "text",
+      "heading": "Clientelism",
+      "md": "In many democracies, including parts of India, some voters and politicians engage in **clientelism**: exchanging votes for personal benefits, like jobs, help with official paperwork, contracts or cash, distributed through networks of local brokers. Clientelism can help poor voters get access to services, but it can also distort democracy, rewarding loyalty over performance and making governments less focused on broad public goods. Studies suggest that as welfare programmes become more rule-based and directly delivered, for example through direct benefit transfers, the role of brokers may decline."
+    },
+    {
+      "type": "steps",
+      "title": "Affective polarisation",
+      "items": [
+        "**Polarisation** can mean two things. **Ideological polarisation** is when voters’ views on issues move further apart. **Affective polarisation** is when voters increasingly **dislike and distrust** supporters of the other side, regardless of how different their policy views really are.",
+        "In the **United States**, surveys show affective polarisation has risen sharply over recent decades: many people say they would be unhappy if their child married someone from the other party, a share that was much smaller in the mid-20th century.",
+        "Researchers find that many people overestimate how extreme the other side’s views are, a phenomenon called **perception gaps**.",
+        "Causes debated by researchers include partisan media, social media, the sorting of parties along lines of identity like religion, geography and education, and political strategies that emphasise threats from the other side.",
+        "Affective polarisation can make compromise harder, increase tolerance for norm-breaking by one’s own side and weaken trust in democratic institutions.",
+        "Research suggests that **contact** with people across political lines, correcting exaggerated perceptions, and leaders modelling respect can reduce hostility."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do people vote at all, if one vote is so unlikely to change the result?",
+      "md": "This puzzle, sometimes called the **paradox of voting**, troubled rational choice theorists like Anthony Downs: in a large election, the chance that your single vote decides the outcome is tiny, while voting takes time and effort. Yet hundreds of millions of people vote. Explanations include a sense of **civic duty**; **identity** and expressing who you are; **social pressure** and community norms; the satisfaction of participating; and an understanding that, while one vote rarely decides an election, **collectively** voters do. Elections are occasionally decided by remarkably small margins: in India, some state assembly seats have been decided by just a handful of votes. Voting can also be seen as part of being a citizen in a shared community, rather than only as an individual calculation."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Theories of voting include **party identification** (*The American Voter*, 1960), **rational choice**, **economic voting**, **social identity** and **leaders and campaigns**.",
+        "**Downs’s median voter theorem (1957)** predicts parties converge towards the centre in two-party systems.",
+        "**Economic voting**: incumbents often suffer during recessions or high inflation (“**The economy, stupid**”, 1992).",
+        "In India, **caste**, **religion**, **region**, **welfare delivery** (labharthi voters), **leadership** and **anti-incumbency** all shape voting, as surveys like **Lokniti-CSDS** show.",
+        "**Clientelism** trades votes for personal benefits through brokers.",
+        "**Affective polarisation**, rising dislike of the other side, has increased in countries like the US; people often overestimate opponents’ extremism.",
+        "People vote despite the **paradox of voting** because of duty, identity and collective impact."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding why people vote as they do helps you interpret election results beyond simple headlines, understand fellow citizens who make different choices and recognise the forces, like polarisation and clientelism, that can strengthen or weaken democracy. It also invites you to reflect on what drives your own political choices."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the main theories of how voters decide, what is the median voter theorem, and what is affective polarisation?"
+  }
+}

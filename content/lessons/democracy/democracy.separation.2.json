@@ -1,0 +1,86 @@
+{
+  "id": "democracy.separation.2",
+  "region": "democracy",
+  "topic": "separation",
+  "level": 2,
+  "prerequisites": [
+    "democracy.separation.1"
+  ],
+  "title": "Watchdogs: Courts, Auditors and the Right to Know",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the late **1990s**, in villages in **Rajasthan**, a grassroots organisation called the **Mazdoor Kisan Shakti Sangathan (MKSS)**, co-founded by **Aruna Roy**, began holding public hearings called **jan sunwais**. At these meetings, officials’ records of spending on local public works, such as roads, wells and wages, were read aloud in front of villagers.\n\nVillagers frequently discovered that money had been recorded as spent on workers who didn’t exist, or on projects never built. People who had supposedly been paid wages stood up to say they had never received them. The campaign’s slogan was simple: “**Our money, our accounts**.” This grassroots movement helped drive the passage of India’s **Right to Information Act** in **2005**, one of the most widely used transparency laws in the world. Democracy, it showed, needs more than elections: it needs ways for citizens to see what those in power are doing."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how democracies divide power between the legislature, executive and judiciary. But modern democracies also rely on a wider set of **independent institutions**, sometimes called **watchdogs** or **guardian institutions**, designed to hold power accountable, ensure fair rules and protect citizens.\n\nThese include:\n\n- **Independent courts**, which interpret laws and protect rights.\n- **Election commissions**, which run elections impartially, as you saw earlier.\n- **Central banks**, which manage money and inflation, as you saw in the Money and Economics regions.\n- **Auditors**, who check how public money is spent.\n- **Ombudsmen** and anti-corruption bodies, who investigate complaints and wrongdoing.\n- **Human rights commissions** and information commissions.\n- A **free press**, which, though not a government institution, performs a vital watchdog role.\n\nA common feature is that they’re designed to be insulated from the day-to-day pressures of politics, so they can act impartially, including against the government of the day."
+    },
+    {
+      "type": "text",
+      "heading": "Independent courts",
+      "md": "**Judicial independence** means judges can decide cases based on law and evidence, without pressure from governments, parties, businesses or the public. Without it, courts can’t protect rights or check abuses of power.\n\nSafeguards include **security of tenure** (judges can’t easily be removed), protected **salaries**, and independent processes for **appointing** judges.\n\nHow judges should be appointed is debated in many countries. In **India**, senior judges are appointed through the **collegium system**, in which a group of the most senior Supreme Court judges recommends appointments, a system that developed through court judgments in the 1990s. In **2014**, Parliament created a **National Judicial Appointments Commission (NJAC)** that would have included government representatives. In **2015**, the Supreme Court struck it down, ruling that it threatened judicial independence, part of the basic structure. Critics argue the collegium lacks transparency and accountability; supporters say it protects courts from political influence. The debate continues."
+    },
+    {
+      "type": "text",
+      "heading": "Auditors and the CAG",
+      "md": "Public money is collected from citizens through taxes, so citizens have a right to know it’s spent properly. **Supreme audit institutions** examine government accounts and report to legislatures.\n\nIn India, the **Comptroller and Auditor General (CAG)**, established under the Constitution, audits the accounts of the central and state governments and many public bodies. Its reports are presented to Parliament and state legislatures and examined by committees such as the **Public Accounts Committee**, traditionally chaired by a member of the opposition.\n\nCAG reports have sometimes triggered major political debates. A **2010** CAG report on the allocation of **2G telecom spectrum** estimated a very large presumptive loss to the government, sparking huge public controversy, a Supreme Court decision cancelling the licences in 2012, and criminal cases. In **2017**, a special court acquitted all the accused in the main case, saying the prosecution had failed to prove its case. The episode showed both the power of audits to drive accountability and debates about how losses should be estimated."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a democracy as a household where you’ve hired people to manage your money, your property and your safety. Elections let you hire and fire the managers every few years. But between elections, you need an accountant to check the books (auditors), a trusted referee to settle disputes (courts), someone you can complain to if you’re treated unfairly (ombudsmen) and the right to inspect the paperwork yourself (right to information). Without them, you’re trusting the managers blindly."
+    },
+    {
+      "type": "text",
+      "heading": "Ombudsmen and anti-corruption bodies",
+      "md": "The word **ombudsman** comes from **Sweden**, which created an official in **1809** to investigate citizens’ complaints against public authorities. The idea spread worldwide.\n\nIn India, the **Lokpal and Lokayuktas Act** was passed in **2013**, after a high-profile anti-corruption movement in **2011**, led by the activist **Anna Hazare**, brought large crowds onto the streets. The law created a **Lokpal**, an anti-corruption ombudsman at the national level, with the power to investigate allegations against public officials, including the Prime Minister under certain conditions, and **Lokayuktas** at the state level. The first Lokpal was appointed in **2019**."
+    },
+    {
+      "type": "steps",
+      "title": "How India’s Right to Information Act works",
+      "items": [
+        "The **Right to Information (RTI) Act**, passed in **2005**, gives any citizen the right to request information from public authorities.",
+        "A citizen submits a written request, usually with a small fee, waived for people below the poverty line, without needing to give a reason.",
+        "The authority must respond within **30 days**, or **48 hours** if the information concerns someone’s life or liberty.",
+        "Some information can be withheld, such as information affecting national security or personal privacy, but the law encourages disclosure.",
+        "If a request is refused or ignored, citizens can appeal to independent **Information Commissions**, which can impose penalties on officials.",
+        "Millions of RTI requests are filed every year. Citizens have used RTI to expose corruption, track the delivery of welfare schemes and obtain their own records. It has also come at a cost: many RTI activists have been threatened, and some killed. Amendments in **2019** changing the terms of Information Commissioners were criticised by transparency advocates as reducing their independence."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who guards the guardians?",
+      "md": "The Roman poet **Juvenal** asked: “*Quis custodiet ipsos custodes?*”, often translated as “**Who will guard the guards themselves?**” It captures a basic tension in democratic design.\n\nIndependent institutions need to be protected from political pressure, so they can act against those in power. But they also need to be **accountable** themselves, since unelected officials and judges can make mistakes, overreach or pursue their own agendas. Debates about **judicial activism**, where courts are accused of making policy rather than interpreting law, about central bank powers, and about the appointment of watchdog officials all reflect this tension.\n\nDemocracies try to balance independence and accountability through transparent appointments, fixed terms, public reasoning for decisions, parliamentary oversight and the possibility of appeal or reform through legitimate processes."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What happens to democracy when independent institutions are weakened?",
+      "md": "As you saw in the Politics region, political scientists such as Steven Levitsky and Daniel Ziblatt warn that modern democratic decline often happens gradually, through the **capture of referees**: appointing loyalists to courts, election commissions and watchdog bodies, or reducing their powers and budgets. Once referees are captured, those in power can use them against opponents while appearing to follow legal procedures. This can be harder to detect than a coup, because elections still happen and institutions still exist on paper. That’s why many scholars argue that defending the independence of courts, election bodies, auditors and the press, whichever party is in government, is one of the most important protections for democracy. You’ll explore these dynamics further in the resilience lessons."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Democracies rely on **independent institutions**: **courts**, **election commissions**, **central banks**, **auditors**, **ombudsmen** and a **free press**.",
+        "**Judicial independence** needs secure tenure and independent appointments; India uses the **collegium**; the **NJAC** was struck down in **2015**.",
+        "India’s **CAG** audits public spending; the **2G spectrum** report (2010) showed audits’ power and debates over estimates.",
+        "The **ombudsman** originated in **Sweden (1809)**; India’s **Lokpal Act (2013)** followed the **2011** anti-corruption movement.",
+        "India’s **RTI Act (2005)**, driven partly by the **MKSS** movement, lets citizens request government information within **30 days**.",
+        "“**Who guards the guardians?**”: democracies must balance **independence** with **accountability**.",
+        "**Capturing referees** is a common route to democratic decline."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Elections are only part of democracy. Between elections, independent institutions and transparency laws let citizens see how power is used, challenge abuses and hold officials accountable. Understanding them helps you use tools like RTI, recognise when watchdogs are under threat, and appreciate the quiet work that keeps democracies honest."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do democracies need independent institutions like courts, auditors and ombudsmen, how does India’s Right to Information Act work, and what tension exists between independence and accountability?"
+  }
+}
