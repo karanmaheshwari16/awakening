@@ -1,0 +1,85 @@
+{
+  "id": "space.black-holes.2",
+  "region": "space",
+  "topic": "black-holes",
+  "level": 2,
+  "prerequisites": [
+    "space.black-holes.1"
+  ],
+  "title": "Giants at the Hearts of Galaxies",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **10 April 2019**, astronomers released an image that many had thought impossible: a glowing orange ring surrounding a dark centre. It showed the surroundings of a black hole at the heart of a galaxy called **M87**, about **55 million light-years** away.\n\nTo take that picture, scientists linked radio telescopes across four continents, from Hawaii and Chile to Spain and the South Pole, turning the whole planet into a single virtual telescope. The dark centre was the **shadow** of a black hole about **6.5 billion times** the mass of the Sun. For the first time, humans had seen the edge of the abyss."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The black holes in the previous lesson were made by dying stars and weigh a few to a few dozen times the Sun. But there’s another class altogether: **supermassive black holes**, weighing millions to billions of solar masses.\n\nAs far as we can tell, **nearly every large galaxy has one at its centre**, including our own Milky Way, whose central black hole, **Sagittarius A***, weighs about 4 million solar masses.\n\nHow they grew so large is one of astronomy’s open questions. They might have started from the collapse of the very first giant stars, or from vast gas clouds collapsing directly, then grown by swallowing gas and merging with other black holes. The James Webb Space Telescope has found surprisingly large black holes existing within a few hundred million years of the Big Bang, which is challenging some of these ideas."
+    },
+    {
+      "type": "text",
+      "heading": "Quasars: the brightest things in the universe",
+      "md": "In the 1960s, astronomers found mysterious star-like points of light emitting powerful radio waves. Their light was hugely redshifted, meaning they were billions of light-years away, and yet they appeared bright. To look that bright from so far, they had to be giving out more light than entire galaxies, from a region smaller than our solar system. They were called **quasars** (quasi-stellar radio sources).\n\nThe explanation is supermassive black holes **feeding**. As gas spirals in, it forms a disc rubbing against itself, heating to extreme temperatures and blazing with energy before it crosses the horizon. Feeding black holes are the most efficient energy generators known, converting a far larger fraction of mass into energy than nuclear fusion does. Some also launch narrow jets of particles at nearly the speed of light, stretching far beyond their galaxies.\n\nQuasars were most common billions of years ago, when galaxies had more gas. Today, our own Sagittarius A* is a quiet, slow eater."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a supermassive black hole like a drain in a large bath. Most of the water sits calmly. But near the drain, water swirls faster and faster, and the spinning, frothing whirlpool around the plughole is far more dramatic than the drain itself. With black holes, that swirling disc of infalling matter is what blazes with light; the black hole itself stays dark."
+    },
+    {
+      "type": "text",
+      "heading": "How do you photograph something black?",
+      "md": "You can’t photograph the black hole itself, but you can photograph the glowing gas around it. Its gravity bends light so strongly that it creates a dark central **shadow**, outlined by a bright ring of light bent around it. General relativity predicts the size and shape of that shadow precisely.\n\nThe problem is size. Even though M87’s black hole is enormous, it is so far away that seeing it is like spotting an orange on the surface of the Moon from Earth. A single telescope would need to be the size of the planet.\n\nSo the **Event Horizon Telescope** collaboration did the next best thing. Radio dishes around the world observed the same target at the same moment, each recording data with an atomic clock. The data, so large it was flown on hard drives rather than sent over the internet, was combined by supercomputers to simulate an Earth-sized telescope. The ring they found matched Einstein’s predictions. In **2022**, the same team released an image of Sagittarius A*, at the centre of our own galaxy."
+    },
+    {
+      "type": "text",
+      "heading": "Hearing black holes collide",
+      "md": "Light isn’t the only way to sense black holes. In **September 2015**, the two LIGO detectors in the United States recorded a tiny ripple in spacetime: a **gravitational wave**. It came from two black holes, about **36 and 29 times** the Sun’s mass, spiralling together and merging about **1.3 billion light-years** away.\n\nIn the final fraction of a second, the merger converted about **three solar masses** into energy in the form of gravitational waves, briefly outshining the combined light of all the stars in the observable universe, but in ripples of space rather than light. When the signal was converted to sound, it made a brief rising “chirp”.\n\nSince then, detectors in the US, Europe and Japan have recorded **hundreds** of mergers, giving astronomers an entirely new way to observe the universe: by listening to how space itself vibrates. An Indian LIGO detector is planned to join the network."
+    },
+    {
+      "type": "steps",
+      "title": "How a galaxy and its black hole shape each other",
+      "items": [
+        "Observations show a surprisingly close link: bigger galaxy bulges host proportionally bigger central black holes.",
+        "That’s odd, because the black hole is tiny compared with the galaxy, like a coin compared to a city.",
+        "A leading explanation is **feedback**. When the black hole feeds intensely, the energy it blasts out heats and pushes away gas in the galaxy.",
+        "Without cool gas, the galaxy stops forming new stars, and the black hole runs out of food.",
+        "So black holes may act as thermostats that regulate how galaxies grow. The details are still being worked out."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Black holes swallow information about everything that falls in. If they eventually evaporate through Hawking radiation, where does that information go?",
+      "md": "This is the **black hole information paradox**, one of the deepest unsolved problems in physics. Quantum theory says information can never be truly destroyed: in principle, you could always reconstruct the past from the present. But Hawking’s calculation suggested that the radiation leaking out is random, carrying no record of what fell in. If so, when the black hole evaporates, the information vanishes, breaking a basic rule of quantum physics. Hawking himself changed his view over the years. Many physicists now think the information does escape, somehow encoded in the radiation, but exactly how is not settled. Solving it will likely require a theory of **quantum gravity**."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "Could a particle collider make a dangerous black hole?",
+      "md": "When the Large Hadron Collider near Geneva started up in 2008, some people feared it might create a black hole that would swallow Earth. Physicists examined the risk carefully. Even if tiny black holes could form there (none have been seen), cosmic rays have been smashing into Earth, the Moon and other bodies at far higher energies for billions of years, and those bodies are still here. The fear was not supported by evidence."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Supermassive black holes** weigh millions to billions of solar masses and sit at the centres of most large galaxies.",
+        "**Quasars** are supermassive black holes feeding on gas, outshining whole galaxies.",
+        "The **Event Horizon Telescope** linked dishes worldwide to image **M87*** (2019) and **Sagittarius A*** (2022).",
+        "**LIGO** detected **gravitational waves** from merging black holes in **2015**; hundreds of mergers have been recorded since.",
+        "Black holes and their galaxies appear to regulate each other through **feedback**.",
+        "The **information paradox** remains unsolved and points towards a theory of quantum gravity."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Black holes went from a mathematical curiosity to photographed, measured objects within a single human lifetime, a striking example of how fast science can move once the right tools exist. They also sit at the meeting point of physics’ two great theories, general relativity and quantum mechanics, which don’t yet fit together. Whoever finally unites them will likely use black holes as the test."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a supermassive black hole, and what did the 2019 black hole image and the 2015 gravitational wave detection each show us?"
+  }
+}

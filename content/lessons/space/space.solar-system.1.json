@@ -1,0 +1,77 @@
+{
+  "id": "space.solar-system.1",
+  "region": "space",
+  "topic": "solar-system",
+  "level": 1,
+  "prerequisites": [],
+  "title": "A Tour of the Neighbourhood",
+  "estimated_minutes": 13,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Most pictures of the solar system lie to you. They show the planets lined up like beads on a string, a short hop from one to the next. They have to: drawn to scale, the planets would be invisible specks on a page several kilometres wide.\n\nHere is a scale model you could actually build. Shrink the Sun to the size of a football. Earth becomes a **peppercorn** about 25 metres away. Jupiter is a large marble about 130 metres away. Neptune, the farthest planet, is a small bead the best part of a kilometre away. And the nearest star beyond the Sun? On this scale, it would be another football **thousands of kilometres** away. Space is, above all, empty."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The **solar system** is the Sun and everything bound to it by gravity: eight planets, their more than 400 known moons (the count keeps rising), dwarf planets, asteroids, comets and countless smaller fragments.\n\nThe Sun dominates completely. It holds about **99.8% of the solar system’s mass**. Everything else, including all the planets, is the leftover crumbs. Of those crumbs, **Jupiter** alone has about two and a half times the mass of all the other planets combined.\n\nThe planets fall into three families:\n\n- **Rocky planets** (Mercury, Venus, Earth, Mars): small, dense worlds of rock and metal, close to the Sun.\n- **Gas giants** (Jupiter, Saturn): enormous planets made mostly of hydrogen and helium, with no solid surface to stand on.\n- **Ice giants** (Uranus, Neptune): smaller than the gas giants, made largely of water, ammonia and methane “ices” around a rocky core, beneath thick atmospheres."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the young solar system as a kitchen with an oven in the middle. Near the oven, only things that can survive heat (rock and metal) stay solid; anything icy melts and evaporates. Further away, where it’s cold, ice survives as well, and there was far more ice than rock to build with. That’s the basic reason the inner planets are small and rocky while the outer ones grew huge."
+    },
+    {
+      "type": "text",
+      "heading": "The dividing line: the frost line",
+      "md": "Astronomers call the boundary the **frost line** (or snow line): the distance from the young Sun beyond which water could freeze into solid ice. It lay roughly between where Mars and Jupiter orbit today.\n\nInside it, planets could only be built from rock and metal, which were relatively scarce, so they stayed small. Outside it, ice was abundant too, so growing planets could become much bigger, fast. Once a young planet reached about ten times Earth’s mass, its gravity was strong enough to grab hydrogen and helium gas directly from the surrounding disc, snowballing into a giant. Jupiter and Saturn managed this before the gas cleared; Uranus and Neptune, further out where material was sparser, grabbed less."
+    },
+    {
+      "type": "text",
+      "heading": "Quick portraits of the eight planets",
+      "md": "**Mercury:** smallest planet, closest to the Sun. Almost no atmosphere, so temperatures swing from about 430 °C in the day to −180 °C at night.\n\n**Venus:** nearly Earth’s size, but wrapped in a crushing carbon dioxide atmosphere about 90 times thicker than ours. A runaway greenhouse effect makes it the **hottest** planet, around **465 °C**, hotter than Mercury despite being further from the Sun.\n\n**Earth:** the only place known to have liquid water oceans on its surface and life.\n\n**Mars:** a cold desert world with a thin atmosphere, the largest volcano in the solar system (Olympus Mons) and strong evidence of ancient rivers and lakes. India’s Mangalyaan reached Mars orbit in 2014 on its first attempt, at a strikingly low cost.\n\n**Jupiter:** the giant. Its Great Red Spot is a storm wider than Earth that has raged for at least a couple of centuries.\n\n**Saturn:** famous for its rings, which are made of countless pieces of ice and rock, from dust grains to house-sized chunks, yet are mostly only tens of metres thick.\n\n**Uranus:** tipped over on its side, probably by an ancient collision, so it rolls around the Sun.\n\n**Neptune:** the windiest planet, with winds over 2,000 km/h. It was found in 1846 by mathematics: astronomers predicted its position from wobbles in Uranus’s orbit before anyone saw it."
+    },
+    {
+      "type": "steps",
+      "title": "Beyond the planets",
+      "items": [
+        "Between Mars and Jupiter lies the **asteroid belt**: millions of rocky bodies. Despite films, it’s mostly empty space; spacecraft fly through without dodging anything.",
+        "Beyond Neptune is the **Kuiper Belt**, a broad ring of icy bodies, including **Pluto**.",
+        "In **2006**, the International Astronomical Union reclassified Pluto as a **dwarf planet**: big enough to be round, but not dominant enough to clear its orbit of other objects. Many similar icy worlds had been found out there, and calling them all planets would have made the list very long.",
+        "Far beyond, perhaps extending a light-year or more, scientists think there is a vast sphere of icy bodies called the **Oort Cloud**, the source of long-period comets. It has never been directly observed; its existence is inferred from comet orbits."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "How long does light take?",
+      "md": "Sunlight takes about **8 minutes 20 seconds** to reach Earth, so you always see the Sun as it was slightly in the past. Light from Neptune takes about **4 hours**. NASA’s **Voyager 1**, launched in 1977 and now the most distant human-made object, is so far away that its radio signals take **nearly a day** to reach us."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If planets formed from a spinning disc, what clue would you expect to see today?",
+      "md": "That they all orbit in roughly the **same direction** and nearly the **same flat plane**, and that’s exactly what we see. All eight planets orbit the Sun in the same direction as the Sun spins, and their orbits are tilted only slightly from one another. That flatness is a fossil of the disc they were born from. Most of the planets also spin in that same direction; Venus and Uranus are the oddballs, probably knocked off course by giant collisions."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The solar system is the Sun plus everything held by its gravity; the Sun has **99.8%** of the mass.",
+        "Planets come in three families: **rocky** (inner four), **gas giants** (Jupiter, Saturn) and **ice giants** (Uranus, Neptune).",
+        "The **frost line** explains why: beyond it, ice was available to build bigger planets that could grab gas.",
+        "**Venus** is the hottest planet because of a runaway greenhouse effect.",
+        "Pluto has been a **dwarf planet** since **2006**; it sits in the **Kuiper Belt**.",
+        "The solar system is overwhelmingly **empty space**: on a football-sized-Sun scale, Earth is a peppercorn 25 metres away."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Knowing your cosmic neighbourhood puts everyday life in perspective: our entire planet is a peppercorn in a vast, mostly empty space. It also explains why Earth is unusual: at the right distance for liquid water, rocky, with a protective atmosphere. And it sets up the next lessons in this region: how this system formed, and how we are now discovering thousands of planets around other stars."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why are the inner planets small and rocky while the outer planets are giant and made mostly of gas and ice? And roughly how empty is the solar system?"
+  }
+}

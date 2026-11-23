@@ -1,0 +1,207 @@
+##### LESSON
+id: space.big-bang.2
+title: Inflation, Dark Energy and the Edge of What We Know
+minutes: 15
+prereq: space.big-bang.1
+check: In your own words: what is dark energy, how was it discovered, and what parts of the universe’s story are still genuinely unknown?
+
+=== hook
+In the 1990s, two rival teams of astronomers set out to measure how much the expansion of the universe was **slowing down**. It seemed obvious that it must be: gravity pulls everything together, so it should act like a brake.
+
+In 1998, both teams announced the same shocking result. The expansion isn’t slowing down. It’s **speeding up**. Something is pushing the universe apart faster and faster, and that something appears to make up about **two-thirds** of everything there is. We still don’t know what it is. The discovery won the 2011 Nobel Prize in Physics.
+
+=== core
+By the late twentieth century, astronomers had an accounting problem. Add up everything in the universe and you get something like this:
+
+- **Ordinary matter** (atoms: stars, gas, planets, people): about **5%**.
+- **Dark matter** (invisible, detected only by its gravity): about **27%**.
+- **Dark energy** (whatever is accelerating the expansion): about **68%**.
+
+These percentages describe the universe’s total **energy content**, counting mass as a form of energy (Einstein’s E = mc²). In other words, about **95%** of the universe is made of things we cannot see and do not understand. Cosmology, the science of the universe as a whole, is in the odd position of having an extremely successful model built mostly out of mysteries.
+
+=== text How the acceleration was found
+Both teams used a particular kind of exploding star, a **Type Ia supernova**. These occur when a white dwarf in a close pair of stars pulls material from its companion until it nears the Chandrasekhar limit and detonates. Because they blow up at roughly the same mass, they reach roughly the same peak brightness, making them **standard candles**: if you know how bright something truly is, how bright it *looks* tells you how far away it is.
+
+Comparing each supernova’s distance with its redshift (how much space has stretched since its light set out) let the teams reconstruct the history of expansion. Distant supernovae were **fainter** than expected, meaning they were further away than a slowing universe would allow. The expansion had been decelerating early on, under gravity’s pull, but began **accelerating** roughly **5 billion years ago**.
+
+=== callout analogy
+Imagine throwing a ball upward and timing how fast it slows down, expecting to learn how strong gravity is. Instead, after rising for a while, the ball starts speeding **up** and shooting away from you. You would conclude that something you hadn’t accounted for was pushing it. That’s what the supernova teams faced.
+
+=== text What could dark energy be?
+The simplest explanation is one Einstein himself introduced in 1917 and later abandoned: the **cosmological constant**, an energy that belongs to empty space itself. As space expands, there is more space, and so more of this energy, which keeps the push going.
+
+The trouble is that when physicists try to calculate how much energy empty space should have using quantum theory, they get a number that is wildly too big, by a factor often quoted as around 10^120. This has been called the worst prediction in the history of physics. Other ideas suggest dark energy might change over time; some recent survey results hint at this, but the evidence is not yet conclusive. For now, “dark energy” is mostly a name for something we can measure but can’t explain.
+
+=== text Inflation: the first fraction of a second
+The Big Bang theory, as described in the previous lesson, had puzzles of its own:
+
+- **The horizon problem.** The cosmic microwave background is almost exactly the same temperature in every direction. But regions on opposite sides of the sky should never have been close enough to exchange heat and even out. How did they end up so uniform?
+- **The flatness problem.** The universe’s geometry is measured to be almost perfectly “flat”, which requires extraordinarily fine-tuned starting conditions.
+
+In **1980**, the physicist **Alan Guth** proposed **cosmic inflation**: in a tiny fraction of the first second, the universe expanded at a tremendous rate, by a factor of at least 10^26, before settling into the gentler expansion we see today.
+
+Inflation would have taken a tiny, evenly mixed region and blown it up to cosmic size, solving the horizon problem, and stretched any curvature flat, solving the flatness problem. It also predicts that microscopic quantum jitters were stretched into the slight ripples in the cosmic microwave background, and the pattern of those ripples matches inflation’s predictions well.
+
+=== callout caution | Strong but not proven
+Inflation is widely accepted as the leading explanation for the very early universe, but it hasn’t been confirmed the way the Big Bang itself has. A key predicted signature, a particular twisting pattern in the cosmic microwave background caused by gravitational waves from inflation, has not yet been detected. In 2014, one team announced they’d found it, but the signal turned out to be caused by dust in our own galaxy. Some physicists favour alternative ideas.
+
+=== text A crack in the model? The Hubble tension
+The **Hubble constant** measures how fast the universe is expanding today. There are two main ways to measure it:
+
+1. From the **early universe**: use the cosmic microwave background and the standard model of cosmology to calculate today’s expansion rate. Result: about **67** kilometres per second per megaparsec.
+2. From the **nearby universe**: measure distances to galaxies with Cepheids and supernovae directly. Result: about **73**.
+
+That might sound close, but both measurements are now precise enough that the gap is very unlikely to be chance. Either there is a subtle error in one method, or the standard model of the universe is missing something. This **Hubble tension** is one of the most actively researched questions in cosmology today.
+
+=== steps How might the universe end?
+- If dark energy stays constant, the expansion keeps accelerating forever. Galaxies beyond our local group will eventually recede out of sight.
+- Over trillions of years, stars use up their gas and stop forming. Existing stars burn out.
+- Over almost unimaginably long times, even black holes may evaporate.
+- The universe would approach a cold, dark, dilute state, often called **heat death**, with no usable energy left.
+- If dark energy grows stronger, it could eventually tear apart galaxies, stars and atoms, a scenario called the **Big Rip**. If it weakens or reverses, the expansion might stop or even reverse. Current evidence favours endless expansion, but since we don’t understand dark energy, the far future is genuinely uncertain.
+
+=== reveal What happened before the Big Bang?
+**Nobody knows**, and it’s possible the question doesn’t have an answer in the usual sense. In general relativity, time itself is part of the universe, so “before the beginning” might be like asking what is north of the North Pole. Some speculative theories propose that our universe emerged from an earlier phase, or is one bubble among many in a larger **multiverse** produced by eternal inflation. These ideas are mathematically interesting but currently have no direct evidence. This is the honest edge of human knowledge.
+
+=== keypoints
+- In **1998**, Type Ia **supernovae** revealed the expansion of the universe is **accelerating**.
+- The cause is called **dark energy**: about **68%** of the universe; dark matter is about **27%**; ordinary matter about **5%**.
+- The simplest explanation is a **cosmological constant**, but its size can’t be explained by current theory.
+- **Inflation** (Guth, 1980) proposes extremely rapid expansion in the first fraction of a second, solving the **horizon** and **flatness** problems.
+- Inflation is the leading idea but **not confirmed**.
+- The **Hubble tension** (about 67 vs 73) may hint at missing physics.
+- The likely far future is endless expansion toward **heat death**, but this depends on dark energy.
+
+=== why
+This lesson marks the boundary between what science knows and what it doesn’t. Learning to tell the difference, between well-tested theory, promising hypothesis and pure speculation, is one of the most valuable thinking skills there is, far beyond astronomy. It’s also exciting: some of the biggest questions about the universe remain open, and they could be answered within your lifetime.
+
+##### LESSON
+id: space.black-holes.1
+title: Where Gravity Wins
+minutes: 14
+check: In your own words: what is a black hole, what is an event horizon, and why wouldn’t Earth be swallowed if the Sun were replaced by a black hole of the same mass?
+
+=== hook
+Throw a ball upward and it comes back down. Throw it faster and it goes higher before falling. Throw it at about **11.2 kilometres per second** and it never comes back: it escapes Earth’s gravity entirely. That’s Earth’s **escape velocity**.
+
+Now imagine an object so dense that its escape velocity is faster than **light**, the fastest thing in the universe. Nothing could ever leave it: not rockets, not radio signals, not light itself. In 1783, an English clergyman named **John Michell** imagined exactly this and called such objects “dark stars”. Today we call them **black holes**, and we know they are real.
+
+=== core
+A **black hole** is a region where gravity is so strong that nothing, not even light, can escape. It forms when a large amount of mass is squeezed into a small enough space.
+
+Its boundary is the **event horizon**: the point of no return. Outside it, a powerful enough rocket could still escape. Once anything crosses it, every possible path leads further in. The event horizon isn’t a physical surface; there’s nothing there to touch. It’s a boundary in space defined by gravity.
+
+At the centre, according to general relativity, all the mass is crushed to a point of infinite density called a **singularity**. Most physicists suspect that “infinite” is a sign that general relativity breaks down there, and that a future theory combining gravity with quantum physics will describe what really happens.
+
+=== text How small would you need to squeeze something?
+Any mass could become a black hole if compressed enough. The size at which it would happen is called its **Schwarzschild radius**, after the German physicist **Karl Schwarzschild**, who worked out the first exact black hole solution to Einstein’s equations in **1916**, while serving as a soldier on the Russian front in World War I. He died a few months later.
+
+- To turn the **Sun** into a black hole, you’d have to squeeze it from about 1.4 million kilometres across to a ball about **6 kilometres** across (a radius of about 3 km).
+- To turn **Earth** into a black hole, you’d have to squeeze it to about the size of a **marble**, with a radius of about 9 millimetres.
+
+Nothing in ordinary circumstances can compress matter that much. It takes the collapse of a massive star’s core, where gravity overwhelms every other force.
+
+=== callout analogy
+Imagine a river flowing towards a waterfall, getting faster and faster the closer it gets. Fish can swim upstream against the current far from the edge. But at some point the current flows faster than any fish can swim. Past that line, every fish is carried over, no matter how hard it tries. The event horizon is like that line, except what’s flowing inward is space itself, and the fastest swimmer is light.
+
+=== text How black holes form
+The most common black holes, **stellar-mass black holes**, form from the deaths of very massive stars. When such a star’s core collapses in a supernova, if the remaining core is heavy enough (more than about **2 to 3 solar masses**, though the exact limit is uncertain), even neutrons can’t hold it up, and it collapses completely.
+
+There are probably **millions** of stellar-mass black holes in the Milky Way alone. Most are invisible, since by definition they emit no light of their own.
+
+=== steps How do you find something invisible?
+- Look for its effect on **nearby matter**. Many stars live in pairs. If one becomes a black hole, its partner may orbit an apparently empty point.
+- Measure the partner’s orbit. Using Newton’s and Kepler’s laws, calculate the mass of the unseen object.
+- If the hidden object is too heavy to be a neutron star but gives off no light, a black hole is the only known explanation.
+- Black holes in pairs often pull gas from their partner. The gas forms a swirling **accretion disc**, heating to millions of degrees and blasting out **X-rays** before it falls in. Ironically, the area around a black hole can be one of the brightest things in the sky.
+- The first strong candidate, **Cygnus X-1**, was identified in the early 1970s this way. Stephen Hawking famously bet the physicist Kip Thorne that it was *not* a black hole, as an insurance policy in case his life’s work was wrong. He conceded in 1990.
+
+=== text What would happen if you fell in?
+Near a stellar-mass black hole, gravity changes extremely rapidly with distance. If you fell in feet first, your feet would be pulled much harder than your head, stretching you out like a strand of spaghetti while squeezing you from the sides. Physicists really do call this **spaghettification**. Around a stellar-mass black hole, it would happen well before you reached the event horizon.
+
+Time would also behave strangely. Because gravity slows time, a distant observer watching you fall would see your clock tick slower and slower and your image grow dimmer and redder, apparently freezing at the horizon. From your own point of view, though, you’d cross the horizon in a finite time, without noticing anything special at that exact moment.
+
+=== callout note | A myth worth correcting
+Black holes are not cosmic vacuum cleaners sucking in everything around them. At a distance, a black hole’s gravity is the same as any other object of the same mass. If the Sun were somehow replaced by a black hole of **exactly the same mass**, Earth would keep orbiting just as it does now. It would get very cold and dark, but our orbit wouldn’t change. Only things that get very close are in danger.
+
+=== reveal If nothing can escape a black hole, does that mean it lasts forever?
+In **1974**, Stephen Hawking showed, by combining quantum theory with general relativity, that black holes should very slowly leak energy, now called **Hawking radiation**, and eventually evaporate. For a stellar-mass black hole, the process is unimaginably slow: far, far longer than the current age of the universe. Hawking radiation has never been observed directly, because it would be far too faint to detect from any known black hole. But it’s taken seriously because it follows from combining two very well-tested theories, and it raises deep puzzles that are still unresolved.
+
+=== keypoints
+- A **black hole** is a region where gravity is so strong that **nothing, not even light**, can escape.
+- The **event horizon** is the point of no return; at the centre, general relativity predicts a **singularity**.
+- The **Schwarzschild radius**: the Sun would need to shrink to about **6 km** across; Earth to about **marble** size.
+- **Stellar-mass** black holes form from the collapsed cores of massive stars.
+- They’re found through their effect on **companion stars** and the **X-rays** from heated gas, as with **Cygnus X-1**.
+- Falling in causes **spaghettification** and extreme **time dilation**.
+- At a distance, a black hole’s gravity is no different from any other object of the same mass.
+
+=== why
+Black holes push our best theories to breaking point, which is exactly why physicists find them so valuable: they’re natural laboratories for the extremes of gravity, time and matter. They also show how far careful reasoning can reach: a thought experiment from 1783 and an equation from 1916 predicted something that wouldn’t be confirmed for decades. Next, you’ll see how astronomers finally photographed one, and heard others collide.
+
+##### LESSON
+id: space.black-holes.2
+title: Giants at the Hearts of Galaxies
+minutes: 15
+prereq: space.black-holes.1
+check: In your own words: what is a supermassive black hole, and what did the 2019 black hole image and the 2015 gravitational wave detection each show us?
+
+=== hook
+On **10 April 2019**, astronomers released an image that many had thought impossible: a glowing orange ring surrounding a dark centre. It showed the surroundings of a black hole at the heart of a galaxy called **M87**, about **55 million light-years** away.
+
+To take that picture, scientists linked radio telescopes across four continents, from Hawaii and Chile to Spain and the South Pole, turning the whole planet into a single virtual telescope. The dark centre was the **shadow** of a black hole about **6.5 billion times** the mass of the Sun. For the first time, humans had seen the edge of the abyss.
+
+=== core
+The black holes in the previous lesson were made by dying stars and weigh a few to a few dozen times the Sun. But there’s another class altogether: **supermassive black holes**, weighing millions to billions of solar masses.
+
+As far as we can tell, **nearly every large galaxy has one at its centre**, including our own Milky Way, whose central black hole, **Sagittarius A***, weighs about 4 million solar masses.
+
+How they grew so large is one of astronomy’s open questions. They might have started from the collapse of the very first giant stars, or from vast gas clouds collapsing directly, then grown by swallowing gas and merging with other black holes. The James Webb Space Telescope has found surprisingly large black holes existing within a few hundred million years of the Big Bang, which is challenging some of these ideas.
+
+=== text Quasars: the brightest things in the universe
+In the 1960s, astronomers found mysterious star-like points of light emitting powerful radio waves. Their light was hugely redshifted, meaning they were billions of light-years away, and yet they appeared bright. To look that bright from so far, they had to be giving out more light than entire galaxies, from a region smaller than our solar system. They were called **quasars** (quasi-stellar radio sources).
+
+The explanation is supermassive black holes **feeding**. As gas spirals in, it forms a disc rubbing against itself, heating to extreme temperatures and blazing with energy before it crosses the horizon. Feeding black holes are the most efficient energy generators known, converting a far larger fraction of mass into energy than nuclear fusion does. Some also launch narrow jets of particles at nearly the speed of light, stretching far beyond their galaxies.
+
+Quasars were most common billions of years ago, when galaxies had more gas. Today, our own Sagittarius A* is a quiet, slow eater.
+
+=== callout analogy
+Think of a supermassive black hole like a drain in a large bath. Most of the water sits calmly. But near the drain, water swirls faster and faster, and the spinning, frothing whirlpool around the plughole is far more dramatic than the drain itself. With black holes, that swirling disc of infalling matter is what blazes with light; the black hole itself stays dark.
+
+=== text How do you photograph something black?
+You can’t photograph the black hole itself, but you can photograph the glowing gas around it. Its gravity bends light so strongly that it creates a dark central **shadow**, outlined by a bright ring of light bent around it. General relativity predicts the size and shape of that shadow precisely.
+
+The problem is size. Even though M87’s black hole is enormous, it is so far away that seeing it is like spotting an orange on the surface of the Moon from Earth. A single telescope would need to be the size of the planet.
+
+So the **Event Horizon Telescope** collaboration did the next best thing. Radio dishes around the world observed the same target at the same moment, each recording data with an atomic clock. The data, so large it was flown on hard drives rather than sent over the internet, was combined by supercomputers to simulate an Earth-sized telescope. The ring they found matched Einstein’s predictions. In **2022**, the same team released an image of Sagittarius A*, at the centre of our own galaxy.
+
+=== text Hearing black holes collide
+Light isn’t the only way to sense black holes. In **September 2015**, the two LIGO detectors in the United States recorded a tiny ripple in spacetime: a **gravitational wave**. It came from two black holes, about **36 and 29 times** the Sun’s mass, spiralling together and merging about **1.3 billion light-years** away.
+
+In the final fraction of a second, the merger converted about **three solar masses** into energy in the form of gravitational waves, briefly outshining the combined light of all the stars in the observable universe, but in ripples of space rather than light. When the signal was converted to sound, it made a brief rising “chirp”.
+
+Since then, detectors in the US, Europe and Japan have recorded **hundreds** of mergers, giving astronomers an entirely new way to observe the universe: by listening to how space itself vibrates. An Indian LIGO detector is planned to join the network.
+
+=== steps How a galaxy and its black hole shape each other
+- Observations show a surprisingly close link: bigger galaxy bulges host proportionally bigger central black holes.
+- That’s odd, because the black hole is tiny compared with the galaxy, like a coin compared to a city.
+- A leading explanation is **feedback**. When the black hole feeds intensely, the energy it blasts out heats and pushes away gas in the galaxy.
+- Without cool gas, the galaxy stops forming new stars, and the black hole runs out of food.
+- So black holes may act as thermostats that regulate how galaxies grow. The details are still being worked out.
+
+=== reveal Black holes swallow information about everything that falls in. If they eventually evaporate through Hawking radiation, where does that information go?
+This is the **black hole information paradox**, one of the deepest unsolved problems in physics. Quantum theory says information can never be truly destroyed: in principle, you could always reconstruct the past from the present. But Hawking’s calculation suggested that the radiation leaking out is random, carrying no record of what fell in. If so, when the black hole evaporates, the information vanishes, breaking a basic rule of quantum physics. Hawking himself changed his view over the years. Many physicists now think the information does escape, somehow encoded in the radiation, but exactly how is not settled. Solving it will likely require a theory of **quantum gravity**.
+
+=== callout note | Could a particle collider make a dangerous black hole?
+When the Large Hadron Collider near Geneva started up in 2008, some people feared it might create a black hole that would swallow Earth. Physicists examined the risk carefully. Even if tiny black holes could form there (none have been seen), cosmic rays have been smashing into Earth, the Moon and other bodies at far higher energies for billions of years, and those bodies are still here. The fear was not supported by evidence.
+
+=== keypoints
+- **Supermassive black holes** weigh millions to billions of solar masses and sit at the centres of most large galaxies.
+- **Quasars** are supermassive black holes feeding on gas, outshining whole galaxies.
+- The **Event Horizon Telescope** linked dishes worldwide to image **M87*** (2019) and **Sagittarius A*** (2022).
+- **LIGO** detected **gravitational waves** from merging black holes in **2015**; hundreds of mergers have been recorded since.
+- Black holes and their galaxies appear to regulate each other through **feedback**.
+- The **information paradox** remains unsolved and points towards a theory of quantum gravity.
+
+=== why
+Black holes went from a mathematical curiosity to photographed, measured objects within a single human lifetime, a striking example of how fast science can move once the right tools exist. They also sit at the meeting point of physics’ two great theories, general relativity and quantum mechanics, which don’t yet fit together. Whoever finally unites them will likely use black holes as the test.

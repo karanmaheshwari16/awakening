@@ -5,7 +5,11 @@
     "tier": 1,
     "title": "The Weight of Light",
     "question": "Gravity shapes both the life of a star and the paths of the planets around it. Explain how the same force can hold a star together and also keep planets in orbit, and why a star’s mass matters for both.",
-    "links": ["stars", "gravity-orbits", "solar-system"],
+    "links": [
+      "stars",
+      "gravity-orbits",
+      "solar-system"
+    ],
     "model_answer": "Gravity is the attraction between masses, and the more mass there is, the stronger the pull.\n\nInside a star, gravity pulls all the gas inward. The star survives because nuclear fusion in the core keeps the gas hot, and hot gas pushes outward. The balance between that inward pull and outward pressure keeps the star stable for millions or billions of years. A more massive star has stronger gravity, so its core must be hotter to resist it. That makes it burn its fuel much faster and live a shorter life.\n\nAround the star, the same gravity pulls on each planet. A planet doesn’t fall in because it is also moving sideways very fast. It keeps “falling around” the star instead of into it, which is what an orbit is. A more massive star pulls harder, so planets at the same distance must move faster to stay in orbit.\n\nSo one force does two jobs. It squeezes the star into a ball hot enough to shine, and it holds the planetary system together. The star’s mass sets the strength of both.",
     "key_points": [
       "Gravity is an attraction between masses that gets stronger with more mass.",
@@ -13,6 +17,27 @@
       "More massive stars need hotter cores, so they burn fuel faster and live shorter lives.",
       "An orbit is sideways motion combined with constant falling towards the star.",
       "A heavier star pulls harder, so planets must move faster to stay in orbit."
+    ]
+  },
+  {
+    "id": "space.gate.2",
+    "region": "space",
+    "tier": 2,
+    "title": "The Shape of Everything",
+    "question": "Einstein described gravity as the curving of spacetime. Using that idea, explain how it connects three things you have studied: the bending of light around massive objects, the existence of black holes, and the evidence for dark matter. Then say which part of this picture is still genuinely uncertain.",
+    "links": [
+      "gravity-orbits",
+      "black-holes",
+      "galaxies",
+      "big-bang"
+    ],
+    "model_answer": "In general relativity, mass and energy curve spacetime, and everything, including light, follows the straightest available path through that curved spacetime.\n\nBecause light follows curved spacetime, it bends when it passes near a massive object. This was confirmed in 1919 when stars near the eclipsed Sun appeared shifted, and today we see whole clusters of galaxies acting as lenses that distort the images of galaxies behind them.\n\nIf enough mass is packed into a small enough space, the curvature becomes so extreme that there is a boundary, the event horizon, beyond which every path leads inward. Nothing, not even light, can get out. That is a black hole. We now see them through the X-rays from gas around them, through the orbits of stars around Sagittarius A*, through the Event Horizon Telescope images and through gravitational waves from mergers.\n\nGravitational lensing is also one of the main lines of evidence for dark matter. The amount of bending around galaxy clusters reveals far more mass than the visible stars and gas can account for, matching what galaxy rotation curves and cluster motions also suggest.\n\nWhat remains uncertain: we do not know what dark matter is, since no particle has been detected, and a minority view argues that gravity itself behaves differently at low accelerations. We also do not know what happens at a black hole’s singularity, or how information escapes, because that requires a theory joining gravity and quantum physics.",
+    "key_points": [
+      "Mass and energy curve spacetime; matter and light follow that curvature.",
+      "Light bending (gravitational lensing) was confirmed in 1919 and is seen around galaxy clusters.",
+      "A black hole forms when curvature is so extreme that an event horizon traps even light.",
+      "Lensing reveals far more mass than is visible, supporting dark matter alongside rotation curves.",
+      "Unknowns: what dark matter is, whether gravity needs modifying, and what happens inside black holes."
     ]
   }
 ]

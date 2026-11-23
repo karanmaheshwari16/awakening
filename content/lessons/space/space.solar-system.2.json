@@ -1,0 +1,88 @@
+{
+  "id": "space.solar-system.2",
+  "region": "space",
+  "topic": "solar-system",
+  "level": 2,
+  "prerequisites": [
+    "space.solar-system.1"
+  ],
+  "title": "Born from Dust, and Worlds Beyond",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "For most of history, nobody knew whether other stars had planets at all. Then, in 1995, two Swiss astronomers, **Michel Mayor** and **Didier Queloz**, announced a planet orbiting a Sun-like star called 51 Pegasi. It was bizarre: a gas giant about half Jupiter’s mass, so close to its star that its “year” lasts just over **four days**.\n\nTheories of planet formation said giant planets should form far out, like Jupiter. Here was one practically scorching its star. That single discovery forced astronomers to rethink how solar systems are built, and opened a field that has since found **thousands** of planets. Mayor and Queloz shared the 2019 Nobel Prize in Physics."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The leading explanation for how our solar system formed is the **nebular hypothesis**, first sketched in the 1700s by Immanuel Kant and Pierre-Simon Laplace and now backed by direct observations of young stars.\n\nAbout **4.6 billion years ago**, part of a giant cloud of gas and dust began to collapse, possibly nudged by a shock wave from a nearby supernova. As it collapsed, it spun faster (just as a spinning ice skater speeds up by pulling in their arms) and flattened into a rotating disc. Most material fell to the centre and became the **Sun**. The rest, a thin **protoplanetary disc**, became everything else.\n\nTelescopes such as the ALMA observatory in Chile have now photographed discs like this around young stars, complete with dark gaps where planets appear to be forming. We are, in effect, watching other solar systems being born."
+    },
+    {
+      "type": "steps",
+      "title": "From dust to planets",
+      "items": [
+        "**Dust sticks together.** Microscopic grains collide gently and cling, building fluffy clumps, then pebbles.",
+        "**Pebbles become planetesimals.** Somehow, pebbles assemble into bodies kilometres across. How exactly this step happens is still being researched; one popular idea is that turbulence in the disc concentrates pebbles until gravity pulls them together.",
+        "**Planetesimals grow into protoplanets.** Once bodies are big enough, their gravity pulls in more material. The biggest grow fastest, a runaway process.",
+        "**Giants grab gas.** Beyond the frost line, cores of about ten Earth masses pull in huge envelopes of hydrogen and helium: the gas giants.",
+        "**The disc clears.** Within a few million years, the young Sun’s radiation and wind blow away the remaining gas. Gas giants must have formed before this deadline.",
+        "**Giant impacts.** For tens of millions of years, protoplanets in the inner system crash into each other, merging into the four rocky planets."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The violent birth of the Moon",
+      "md": "One of those giant impacts likely made our Moon. The most widely accepted explanation is that, around **4.5 billion years ago**, a Mars-sized body (sometimes called **Theia**) struck the young Earth. Debris from both was flung into orbit and gathered to form the Moon.\n\nEvidence for this includes the Moon’s small iron core and the striking similarity between Moon rocks brought back by the Apollo missions and rocks from Earth’s mantle. The details are still debated, especially why Earth and Moon rocks are *so* similar, but the general picture of a giant collision is the leading theory."
+    },
+    {
+      "type": "callout",
+      "tone": "open-question",
+      "title": "Did Jupiter wander?",
+      "md": "Computer models suggest the giant planets didn’t stay where they formed. One idea, called the **Grand Tack**, proposes that Jupiter drifted inward towards the Sun, then was pulled back out by Saturn, scattering material as it went. This might explain why Mars is so small and why the asteroid belt is a mix of rocky and icy bodies. It’s a hypothesis, not settled fact, but planetary migration in general is now widely accepted, partly because of what we see around other stars."
+    },
+    {
+      "type": "text",
+      "heading": "How to find a planet you can’t see",
+      "md": "Planets around other stars, called **exoplanets**, are tiny, dim and lost in the glare of their stars. Imagine trying to spot a firefly next to a stadium floodlight from thousands of kilometres away. So astronomers mostly detect them indirectly.\n\n**The wobble method (radial velocity).** A planet and its star both orbit their shared centre of mass, so the star wobbles slightly. As it moves towards us, its light is squeezed to slightly bluer wavelengths; as it moves away, slightly redder. Measuring these tiny shifts reveals the planet and gives its minimum mass. This is how 51 Pegasi b was found.\n\n**The transit method.** If a planet’s orbit is lined up just right, it passes in front of its star once per orbit, dimming the starlight by a tiny fraction. Jupiter crossing the Sun would dim it by about 1%; Earth by about **0.01%**. NASA’s Kepler space telescope (2009–2018) stared at about 150,000 stars, watching for these dips, and found thousands of planets. The amount of dimming reveals the planet’s size.\n\nCombine both methods and you get mass and size, and therefore **density**, which tells you whether a planet is rocky, watery or gassy."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "Seven Earth-sized worlds",
+      "md": "In 2017, astronomers announced that a small, cool star called **TRAPPIST-1**, about 40 light-years away, has **seven** roughly Earth-sized planets, several of them in the zone where liquid water could exist. The James Webb Space Telescope is now studying whether any of them have atmospheres. Early results suggest the innermost ones may not, which is a reminder that “Earth-sized” is not the same as “Earth-like”."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Astronomers have now confirmed more than 5,000 exoplanets. What is the most common type, and do we have one?",
+      "md": "The most common types found so far are planets **between Earth and Neptune in size**, often called **super-Earths** and **mini-Neptunes**. Our own solar system has **none** of them, which is one of the surprises of exoplanet science. Hot Jupiters, like 51 Pegasi b, turned out to be relatively rare, but they were found first because they are the easiest to detect: big planets close to their stars produce large wobbles and frequent transits. This is a classic example of **selection bias**: what you find depends partly on what your methods are good at finding."
+    },
+    {
+      "type": "text",
+      "heading": "Is anyone out there?",
+      "md": "Astronomers talk about a star’s **habitable zone**: the range of distances where a planet could have liquid water on its surface. Studies of Kepler data suggest that a meaningful fraction of Sun-like stars could have roughly Earth-sized planets in that zone, which in our galaxy could mean **billions** of candidates, although estimates vary widely.\n\nBut being in the habitable zone doesn’t make a planet habitable. It also needs the right atmosphere, chemistry and stability. The next big goal is to analyse exoplanet atmospheres for gases that life might produce. No convincing evidence of life beyond Earth has been found so far. The question is open, and for the first time in history, we are building instruments that could genuinely help answer it."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **nebular hypothesis**: the solar system formed **4.6 billion years ago** from a collapsing, spinning cloud that flattened into a disc.",
+        "Dust grew into pebbles, **planetesimals**, protoplanets and planets; gas giants formed before the gas cleared.",
+        "The **Moon** most likely formed from a giant impact on the young Earth.",
+        "Planets probably **migrated** after forming; the Grand Tack is one hypothesis.",
+        "**Exoplanets** are found mainly by the **wobble** (radial velocity) and **transit** methods.",
+        "The first planet around a Sun-like star was found in **1995**; there are now **more than 5,000**.",
+        "**Super-Earths** and **mini-Neptunes** are common elsewhere but absent from our solar system."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "For thousands of years, people wondered whether other worlds exist. Your generation is the first to know that planets are common: there are probably more planets in our galaxy than stars. This changes how we think about our place in the universe, and turns the ancient question “Are we alone?” into a scientific project. It also shows how science advances: a single surprising discovery overturned confident theories and led to better ones."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did the planets form from a disc of gas and dust, and how do astronomers find planets around other stars that are far too faint to see directly?"
+  }
+}

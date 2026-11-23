@@ -1,0 +1,272 @@
+##### LESSON
+id: space.gravity-orbits.2
+title: From Kepler’s Ellipses to Einstein’s Curved Space
+minutes: 15
+prereq: space.gravity-orbits.1
+check: In your own words: what did Einstein change about our understanding of gravity, and what is one piece of evidence that his picture is better than Newton’s?
+
+=== hook
+Your phone’s map knows where you are to within a few metres. To do that, it compares timing signals from satellites about 20,000 kilometres overhead. But those satellite clocks tick slightly **faster** than clocks on the ground, by about **38 microseconds a day**.
+
+That sounds trivial. Yet if engineers ignored it, GPS positions would drift by roughly **10 kilometres every day**. The reason the clocks disagree is that gravity doesn’t just pull on things; it actually changes the flow of time. That idea comes from Albert Einstein, and it rests on a story that begins with a stubborn German astronomer and a planet that wouldn’t behave.
+
+=== core
+In the early 1600s, **Johannes Kepler** inherited the most precise naked-eye observations of the planets ever made, collected by the Danish astronomer **Tycho Brahe**. Kepler spent years trying to fit Mars’s motion to perfect circles, the shape everyone since ancient Greece had assumed. It never quite worked. The errors were small, but Kepler trusted Tycho’s data more than tradition.
+
+Eventually he found three rules that fit perfectly, published in 1609 and 1619:
+
+1. **Planets move in ellipses** (stretched circles), with the Sun at one focus, not the centre.
+2. **A planet sweeps out equal areas in equal times.** It moves faster when close to the Sun and slower when far away.
+3. **The further out a planet orbits, the longer its year**, in a precise mathematical relationship: the square of the orbital period is proportional to the cube of the average distance.
+
+Kepler described *how* planets move, but not *why*. About seventy years later, Newton showed that all three laws follow naturally from his law of gravity. Kepler’s rules became consequences of a deeper principle.
+
+=== steps Kepler’s third law in action
+- Earth orbits at **1 astronomical unit** (AU, the Earth–Sun distance) and takes **1 year**.
+- Jupiter orbits at about **5.2 AU**. Cube that: 5.2 × 5.2 × 5.2 ≈ **141**.
+- The third law says the period squared equals this number (in these units), so the period is the square root of 141, about **11.9 years**.
+- Jupiter’s actual year is **11.86 Earth years**. A rule found from Mars’s motion predicts Jupiter almost exactly.
+- The same law, generalised by Newton, lets astronomers weigh things they can never visit: measure how fast something orbits and how far out, and you can calculate the mass it’s orbiting, from planets to the black hole at the centre of our galaxy.
+
+=== text Newton’s triumph, and its tiny crack
+For two centuries, Newton’s gravity looked perfect. In 1846, astronomers even used it to predict where an unseen planet must be, based on small disturbances in Uranus’s orbit. They looked, and found **Neptune**.
+
+But one planet refused to cooperate. **Mercury**’s elliptical orbit slowly rotates around the Sun, so its closest point shifts a little each orbit. Most of that shift is caused by the pull of other planets, which Newton’s laws explain. But a tiny leftover, about **43 arcseconds per century** (roughly the width of a coin seen from a hundred metres away), could not be explained. Astronomers even searched for a hidden planet, nicknamed **Vulcan**, inside Mercury’s orbit. It doesn’t exist.
+
+=== text Einstein’s new picture
+In **1915**, Albert Einstein published his **general theory of relativity**. In it, gravity is not a force pulling across empty space. Instead:
+
+- **Mass and energy curve space and time** (together called **spacetime**).
+- **Objects move along the straightest possible paths through that curved spacetime.** Those paths look to us like orbits and falls.
+
+In the physicist John Wheeler’s famous summary: *spacetime tells matter how to move; matter tells spacetime how to curve.*
+
+Einstein calculated what his theory predicted for Mercury, and got exactly the missing **43 arcseconds per century**. He later wrote that he was beside himself with excitement for days.
+
+=== callout analogy
+Picture a stretched trampoline. Place a heavy bowling ball in the middle and the surface dips. Roll a marble across, and it curves around the dip, maybe circling it several times. The marble isn’t being pulled by a hidden string; it’s following the shape of the surface. That’s the core idea of general relativity, with one caution: the real thing involves curved **time** as well as space, which no trampoline can show.
+
+=== text Testing the theory
+**Starlight bends.** Relativity predicted that the Sun’s gravity should bend light from distant stars passing near it, by twice the amount a Newtonian calculation gives. In **1919**, during a total solar eclipse, expeditions led by **Arthur Eddington** photographed stars near the darkened Sun and found them shifted by roughly the predicted amount. Newspapers around the world announced that Newton had been overthrown, and Einstein became a global celebrity overnight.
+
+**Clocks run slower in stronger gravity.** This has been measured with atomic clocks on aircraft, on mountains, and even in labs, where a clock raised by about **30 centimetres** ticks measurably faster. GPS satellites must correct for both this effect and a smaller one from their speed, which is the 38 microseconds from the start of this lesson.
+
+**Gravitational waves.** Einstein predicted that accelerating masses send ripples through spacetime. In **2015**, the LIGO detectors in the United States caught one, from two black holes colliding about **1.3 billion light-years** away. The ripple stretched and squeezed the detectors’ four-kilometre arms by less than a thousandth of the width of a proton. The discovery won the 2017 Nobel Prize in Physics.
+
+=== callout note | So was Newton wrong?
+Not exactly. Newton’s gravity is an extremely accurate **approximation** of Einstein’s when gravity is weak and speeds are low, which covers nearly everything in daily life and most spaceflight. NASA still uses Newtonian calculations for most missions. Relativity matters near very massive objects, at very high speeds, or when extreme precision is needed. Good scientific theories are rarely thrown away; they’re shown to be special cases of something broader.
+
+=== reveal Why are there two high tides a day, when the Moon is only overhead once?
+Because tides come from the **difference** in the Moon’s pull across Earth, not just the pull itself. The side of Earth facing the Moon is pulled slightly more strongly than Earth’s centre, so water bulges towards the Moon. The far side is pulled slightly **less** than the centre, so, relative to the centre, water there is “left behind”, forming a second bulge. Earth rotates through both bulges each day, giving two high tides. The Sun has a similar but smaller effect; when Sun and Moon line up, we get extra-large **spring tides**. Tidal friction is also very slowly pushing the Moon away from Earth, by about **3.8 centimetres a year**, measured by bouncing lasers off mirrors left by Apollo astronauts.
+
+=== keypoints
+- **Kepler’s laws** (1609, 1619): orbits are **ellipses**, planets sweep **equal areas in equal times**, and period² ∝ distance³.
+- **Newton** explained Kepler’s laws with universal gravity, and used it to predict **Neptune**.
+- Mercury’s orbit shifted by an unexplained **43 arcseconds per century**.
+- **Einstein’s general relativity (1915)**: mass curves **spacetime**, and objects follow its curves.
+- Confirmed by Mercury’s orbit, **bending starlight (1919)**, **gravitational time dilation** and **gravitational waves (2015)**.
+- **GPS** must correct for relativity, or positions would drift by about **10 km a day**.
+- Newton’s gravity remains an excellent **approximation** in everyday conditions.
+
+=== why
+This story shows science at its best: tiny anomalies taken seriously, bold new ideas, and precise tests that could have proven them wrong. It also shows that our most abstract theories have practical payoffs: without relativity, the navigation on your phone would fail within hours. And curved spacetime is the key to the strangest objects in this region: black holes and the expanding universe itself.
+
+##### LESSON
+id: space.galaxies.1
+title: Islands of Stars
+minutes: 14
+check: In your own words: what is a galaxy, how did astronomers discover that the Milky Way is just one of many, and roughly where is our Sun within it?
+
+=== hook
+On a clear, dark night away from city lights, you can see a faint band of glowing haze stretching across the sky. Many cultures named it after a river or a path: the Ganges of the sky (Akash Ganga) in India, the Silver River in China, the Milky Way in Europe.
+
+In 1610, Galileo turned his telescope on it and discovered it was made of countless faint stars. What nobody realised until a century ago is that you’re looking at our home galaxy from the inside, edge-on, and that it is just one of perhaps **hundreds of billions** of galaxies in the observable universe.
+
+=== core
+A **galaxy** is an enormous system of stars, gas, dust and dark matter, all held together by gravity. Galaxies range from dwarfs with a few hundred million stars to giants with more than a trillion.
+
+Our galaxy, the **Milky Way**, contains somewhere between about **100 and 400 billion stars** (it’s hard to count from the inside). It is a **barred spiral**: a central bulge crossed by a bar of stars, surrounded by a flat, rotating disc with spiral arms, all embedded in a much larger, roughly spherical halo.
+
+The disc is about **100,000 light-years** across but only about a thousand light-years thick: proportionally thinner than a CD. The Sun sits about **26,000 light-years** from the centre, in a minor spiral arm, roughly halfway out. When you see the Milky Way’s band in the sky, you are looking along the plane of that disc, where most of its stars are.
+
+=== callout note | What is a light-year?
+A **light-year** is a distance, not a time: how far light travels in a year, about **9.5 trillion kilometres**. Light from the Moon takes about a second to reach us; from the Sun, eight minutes. Light from the other side of the Milky Way has been travelling for tens of thousands of years.
+
+=== callout analogy
+If the solar system, out to Neptune, were shrunk to the size of a coin, the Milky Way on the same scale would be roughly the size of a large country. The nearest star would be a couple of hundred metres from the coin. The galaxy is mostly empty space between widely scattered stars.
+
+=== text Our galactic year
+The Milky Way rotates. The Sun travels around the galactic centre at about **230 kilometres per second**, but the galaxy is so vast that one lap takes roughly **230 million years**, sometimes called a **galactic year**. The last time the Sun was in its current position, the earliest dinosaurs were just appearing. Since the Sun formed, it has completed only about twenty laps.
+
+=== text The Great Debate
+By the early 1900s, astronomers had catalogued many faint, fuzzy patches in the sky called **nebulae**. Some were spiral-shaped. Were they clouds of gas inside our galaxy, or entire galaxies far beyond it, “island universes”, as the philosopher Kant had speculated?
+
+In **1920**, two American astronomers, **Harlow Shapley** and **Heber Curtis**, publicly debated the question. Shapley argued the Milky Way was essentially the whole universe; Curtis argued the spirals were separate galaxies. The evidence of the time wasn’t enough to settle it.
+
+=== steps How a measuring stick settled it
+- In **1912**, **Henrietta Swan Leavitt**, working at Harvard studying photographic plates (one of a group of women hired to analyse astronomical data, often for low pay), discovered something crucial about stars called **Cepheid variables**.
+- Cepheids brighten and dim in a regular cycle. Leavitt found that the **longer the cycle, the brighter the star really is**.
+- That meant if you measure a Cepheid’s cycle, you know its true brightness. Compare that with how bright it **looks**, and you can work out its **distance**, the way you could judge how far away a lightbulb of known wattage is.
+- In **1923–24**, **Edwin Hubble** used the large telescope at Mount Wilson in California to find Cepheids in the Andromeda “nebula”.
+- Their cycles showed Andromeda was far too distant to be inside the Milky Way: modern measurements put it about **2.5 million light-years** away.
+- The debate was over. The spirals were galaxies, and the universe was suddenly vastly bigger than anyone had imagined.
+
+=== text Kinds of galaxies
+Hubble went on to classify galaxies by shape, a scheme still used in modified form:
+
+- **Spiral galaxies**, like the Milky Way and Andromeda: flat, rotating discs with arms where new stars are being born, so they glow with bright young blue stars.
+- **Elliptical galaxies**: smooth, rounded or egg-shaped collections of mostly old, reddish stars, with little gas left to form new ones. The largest galaxies known are giant ellipticals.
+- **Irregular galaxies**: no clear shape, often because of gravitational disturbance. The **Large and Small Magellanic Clouds**, visible from the Southern Hemisphere, are irregular dwarf galaxies orbiting the Milky Way.
+
+=== reveal You can see the Andromeda Galaxy with the naked eye on a dark night. When did the light you’re seeing leave it?
+About **2.5 million years ago**. That light set out when our ancestors were early members of the human family, long before modern humans existed. Andromeda is one of the most distant objects you can see without a telescope. Looking into space is always looking back in time, and astronomers use this to their advantage: by observing galaxies billions of light-years away, they see what galaxies looked like billions of years ago, and can study how they changed.
+
+=== callout example | One tiny patch of sky
+In 1995, the Hubble Space Telescope stared at a tiny, seemingly empty patch of sky, about the size of a grain of sand held at arm’s length, for ten days. The resulting image, the **Hubble Deep Field**, showed around **3,000 galaxies**. Later images went deeper, and the James Webb Space Telescope now routinely reveals thousands of galaxies in similar patches, some seen as they were within a few hundred million years of the Big Bang.
+
+=== keypoints
+- A **galaxy** is a gravitationally bound system of stars, gas, dust and dark matter.
+- The **Milky Way** is a **barred spiral** with **100–400 billion** stars, about **100,000 light-years** across.
+- The Sun is about **26,000 light-years** from the centre and orbits it every **~230 million years**.
+- **Henrietta Leavitt** found that Cepheid variables reveal distances; **Hubble** used them in **1923–24** to show **Andromeda** is a separate galaxy.
+- Main types: **spiral**, **elliptical** and **irregular**.
+- The observable universe holds **hundreds of billions** of galaxies, and looking far away means **looking back in time**.
+
+=== why
+The discovery that the Milky Way is one galaxy among countless others is one of the biggest shifts in human self-understanding, comparable to realising Earth orbits the Sun. It also shows how science often depends on unglamorous, careful work, like Leavitt’s analysis of photographic plates, that makes later breakthroughs possible. Next, you’ll see that galaxies hide a mystery: most of their mass seems to be invisible.
+
+##### LESSON
+id: space.galaxies.2
+title: The Invisible Majority: Dark Matter
+minutes: 15
+prereq: space.galaxies.1
+check: In your own words: what evidence makes astronomers think dark matter exists, and why haven’t they simply concluded that our theory of gravity is wrong instead?
+
+=== hook
+In the 1970s, the American astronomer **Vera Rubin** and her colleague **Kent Ford** measured how fast stars and gas orbit in spiral galaxies. They expected a simple pattern, like the solar system: things far from the centre should move more slowly, the way Neptune crawls around the Sun while Mercury races.
+
+That isn’t what they found. Far out in galaxy after galaxy, stars moved just as fast as those closer in. By everything astronomers could see, those galaxies should have been flying apart. Something unseen was holding them together, and there seemed to be far more of it than of everything visible.
+
+=== core
+Astronomers can weigh a galaxy in two ways:
+
+1. **Count the light**: add up the stars, gas and dust we can see, and estimate their mass.
+2. **Watch the motion**: measure how fast things orbit, and use gravity (as with Kepler’s and Newton’s laws) to calculate how much mass must be there to hold them in.
+
+The two answers don’t match. The motion method gives **far more** mass, typically around five to six times as much as the visible matter. Astronomers call the missing mass **dark matter**: “dark” because it doesn’t emit, absorb or reflect light in any way we can detect. It seems to interact only through **gravity**.
+
+Current estimates suggest dark matter makes up about **85% of all matter** in the universe. Everything made of ordinary atoms, including every star, planet and person, is the minority.
+
+=== diagram A graph with distance from a galaxy's centre on the horizontal axis and orbital speed on the vertical axis. A dashed line labelled expected rises quickly then falls away. A solid line labelled observed rises quickly then stays flat. | Rotation curves: stars far out move much faster than visible matter alone can explain.
+<svg viewBox="0 0 320 190" xmlns="http://www.w3.org/2000/svg">
+<g style="stroke:var(--line-2);stroke-width:1"><path d="M40 160 H300"/><path d="M40 20 V160"/></g>
+<path d="M40 160 C60 80 80 60 100 62 C140 66 200 110 290 130" style="fill:none;stroke:currentColor;stroke-width:1.6;stroke-dasharray:5 4;opacity:.75"/>
+<path d="M40 160 C60 80 80 58 110 55 C160 52 220 52 290 52" style="fill:none;stroke:var(--accent);stroke-width:2"/>
+<g style="font:500 9px var(--font-ui);fill:var(--text-2)"><text x="170" y="178" text-anchor="middle">distance from centre</text><text x="28" y="90" text-anchor="middle" transform="rotate(-90 28 90)">orbital speed</text><text x="232" y="44" style="fill:var(--accent)">observed</text><text x="232" y="122">expected</text></g>
+</svg>
+
+=== callout analogy
+Imagine watching a merry-go-round from a distance at night. You can see a few lit-up riders, but they’re spinning so fast that, by your calculations, the ride should be shaking itself apart. You conclude there must be a heavy, unlit structure holding it together. You can’t see it, but you can measure its effect. That’s the logic of dark matter.
+
+=== text It’s not just one clue
+Rotation curves alone might have been a fluke. What persuades most astronomers is that very different kinds of evidence point the same way:
+
+**Galaxy clusters.** As early as **1933**, the Swiss astronomer **Fritz Zwicky** noticed that galaxies in the Coma Cluster move far too fast to stay bound by the visible mass. He proposed *dunkle Materie*, dark matter. He was largely ignored for decades.
+
+**Gravitational lensing.** As Einstein predicted, mass bends light. Massive clusters distort the images of galaxies behind them into arcs, like a lens. Measuring the distortion reveals how much mass is in the cluster, and again it’s far more than we can see.
+
+**The Bullet Cluster.** In this pair of colliding galaxy clusters, the hot gas (most of the visible mass) has been slowed and piled up in the middle by the collision. But lensing shows most of the **mass** has passed straight through, sitting with the galaxies on either side. This looks just like what you’d expect if most of the mass is dark matter that barely interacts with anything.
+
+**The early universe.** Detailed measurements of the faint afterglow of the Big Bang show patterns that match predictions only if dark matter is included in the right amount.
+
+=== text What could it be?
+Here’s the uncomfortable part: **nobody knows what dark matter is**.
+
+It isn’t ordinary dark stuff like dust, dead stars or black holes in sufficient quantity; searches have ruled most of those out as the main answer. The leading idea is that it’s a new kind of **particle**, not yet discovered, that has mass but doesn’t interact with light. Candidates have names like **WIMPs** (weakly interacting massive particles) and **axions**.
+
+Physicists have built extraordinarily sensitive detectors deep underground, shielded from cosmic rays, hoping to catch a dark matter particle bumping into an ordinary atom. They’ve also searched at particle colliders. So far, after decades of searching, there has been **no confirmed detection**.
+
+=== callout open-question | Or is gravity different?
+A minority of physicists argue that instead of invisible matter, our **theory of gravity** may need changing at very low accelerations, an idea called **MOND** (Modified Newtonian Dynamics), proposed by Mordehai Milgrom in 1983. MOND explains galaxy rotation curves remarkably well, but struggles with galaxy clusters, the Bullet Cluster and the early universe, where dark matter fits better. Most astronomers favour dark matter, but the question will only be fully settled when dark matter is detected directly, or something better explains all the evidence.
+
+=== text A monster at the centre
+Galaxies have another, very different heavyweight hidden in their cores. By tracking stars orbiting the centre of the Milky Way for decades, teams led by **Reinhard Genzel** and **Andrea Ghez** showed that they orbit an invisible object of about **4 million solar masses**, packed into a region smaller than our solar system. Only a black hole fits. They shared the 2020 Nobel Prize in Physics. Named **Sagittarius A***, it was first imaged directly in **2022** by the Event Horizon Telescope. Almost every large galaxy seems to have such a **supermassive black hole** at its heart.
+
+=== reveal The Andromeda Galaxy is heading towards us at about 110 km per second. What will happen when it arrives in roughly 4 to 5 billion years?
+The Milky Way and Andromeda will collide and, over hundreds of millions of years, merge into a single large galaxy, possibly an elliptical one (sometimes nicknamed **Milkomeda**). Surprisingly, almost **no stars will actually hit each other**: stars are so far apart that the two galaxies will mostly pass through one another, with gravity reshaping their orbits. The night sky from any surviving planet would be spectacular. Our Sun will likely be flung into a new orbit, but the solar system itself should survive. Recent studies suggest the collision is likely but not certain.
+
+=== keypoints
+- Weighing galaxies by **motion** gives far more mass than counting **visible** matter.
+- **Vera Rubin** and **Kent Ford** found galaxy **rotation curves** stay flat far from the centre.
+- Independent evidence: **galaxy clusters** (Zwicky, 1933), **gravitational lensing**, the **Bullet Cluster** and the **early universe**.
+- **Dark matter** is about **85%** of all matter, but its nature is **unknown**; no particle has been detected.
+- **MOND** is an alternative idea that modifies gravity; most astronomers favour dark matter.
+- Most large galaxies host a **supermassive black hole**; ours, **Sagittarius A***, has about **4 million** solar masses.
+
+=== why
+Dark matter is a humbling reminder that everything we’ve ever seen, touched or studied directly may be only a small fraction of what exists. It’s also a live mystery: the answer could come in your lifetime, from an underground detector, a telescope or a new theory. And it shows how scientists reason when they can’t see something directly: by testing whether many independent lines of evidence point the same way.
+
+##### LESSON
+id: space.big-bang.1
+title: The Universe Had a Beginning
+minutes: 14
+check: In your own words: what does it mean that the universe is expanding, and what are two pieces of evidence that the universe began in a hot, dense state about 13.8 billion years ago?
+
+=== hook
+In 1964, two radio astronomers at Bell Labs in New Jersey, **Arno Penzias** and **Robert Wilson**, were troubled by a faint hiss in their antenna. It came from every direction, day and night, no matter where they pointed it. They checked their equipment, and even evicted a pair of pigeons nesting inside and scrubbed out what they politely called a “white dielectric material”.
+
+The hiss didn’t go away. It turned out to be the faint, cooled-down glow of the universe’s birth, light that had been travelling for about **13.8 billion years**. They had stumbled on the strongest evidence that the universe had a beginning, and won the 1978 Nobel Prize in Physics for it.
+
+=== core
+The **Big Bang** theory says the universe began in an extremely hot, dense state about **13.8 billion years ago**, and has been **expanding and cooling** ever since.
+
+A common misunderstanding is to picture an explosion at one point, with matter flying out into empty space. That’s not the idea. The Big Bang wasn’t an explosion *in* space; it was the rapid expansion *of* space itself, happening everywhere at once. There’s no centre and no edge that the universe is expanding into, at least as far as we can tell.
+
+What the theory describes is how the universe evolved **from** that hot, dense early state. What happened at the very first instant, or whether “before” even makes sense, is still unknown.
+
+=== callout analogy
+Imagine a loaf of raisin bread rising in an oven. As the dough expands, every raisin moves away from every other raisin. Raisins that start further apart separate faster, because there’s more dough between them to expand. From any raisin, it looks as if all the others are rushing away from it, yet no raisin is the centre. Galaxies are the raisins; space is the dough. (Like all analogies, it breaks down: a loaf has an edge and a middle, and as far as we know the universe doesn’t.)
+
+=== text Clue 1: the galaxies are rushing away
+In the 1910s and 1920s, astronomers measuring galaxy light noticed it was usually **redshifted**: stretched to longer, redder wavelengths, a sign they are moving away from us.
+
+In **1929**, **Edwin Hubble**, combining his distance measurements with earlier redshift measurements by **Vesto Slipher**, showed a simple pattern: **the further away a galaxy is, the faster it’s receding**. Double the distance, double the speed. Two years earlier, the Belgian physicist and Catholic priest **Georges Lemaître** had predicted exactly this from Einstein’s equations, and suggested the universe started from a “primeval atom”.
+
+If everything is moving apart, then running the film backwards means everything was once closer together, and denser, and hotter.
+
+=== text Clue 2: the afterglow of creation
+For roughly the first **380,000 years**, the universe was so hot that atoms couldn’t hold together. It was a glowing fog of charged particles that light couldn’t travel through freely.
+
+When it cooled to about **3,000 kelvin** (roughly 2,700 °C), electrons joined nuclei to form atoms, and the fog suddenly cleared. The light released at that moment has been travelling ever since. Stretched by billions of years of expansion, it now arrives as faint microwaves at about **2.7 degrees above absolute zero**. This is the **cosmic microwave background (CMB)**: the hiss Penzias and Wilson found.
+
+Satellites have since mapped it in exquisite detail. It is astonishingly uniform, with tiny ripples of about one part in 100,000. Those ripples were the seeds that gravity later grew into galaxies.
+
+=== text Clue 3: the recipe for the elements
+In the first few minutes, the universe was hot enough for nuclear fusion everywhere. Calculations of what that early fusion should produce predict that the first matter should be roughly **75% hydrogen and 25% helium** by mass, with traces of lithium.
+
+When astronomers measure the oldest stars and most pristine gas clouds, that’s almost exactly what they find. Stars alone could not have made that much helium. The Big Bang explains it naturally.
+
+=== steps A very short history of everything
+- **0 to a tiny fraction of a second:** the universe is unimaginably hot and dense. Physics as we know it may break down here.
+- **First seconds:** the basic particles, protons and neutrons, form.
+- **First few minutes:** fusion builds hydrogen and helium nuclei, then stops as the universe cools.
+- **About 380,000 years:** atoms form, the universe becomes transparent and the CMB light is released.
+- **A few hundred million years:** the first stars ignite, ending the cosmic “dark ages”.
+- **Billions of years:** galaxies grow and merge. Around **4.6 billion years ago**, the Sun and Earth form in one of them.
+
+=== callout example | The name was meant as a put-down
+The term **“Big Bang”** was coined in **1949** by the British astronomer **Fred Hoyle** on BBC radio. Hoyle supported a rival **steady state** theory, in which the universe has no beginning and new matter is created continuously as it expands. The discovery of the CMB in 1964 was a major blow to the steady state idea, which predicted no such afterglow. The nickname stuck anyway.
+
+=== reveal If the universe is 13.8 billion years old, how can we see galaxies that are now more than 13.8 billion light-years away?
+Because space has kept **expanding** while their light was travelling to us. Light that left a galaxy 13 billion years ago crossed a distance that kept stretching beneath it, and the galaxy itself has been carried much further away since. Taking expansion into account, the edge of the **observable universe** is now about **46 billion light-years** away in every direction. The universe beyond that may well be far larger, possibly infinite; we simply can’t see it, because its light hasn’t had time to reach us.
+
+=== keypoints
+- The **Big Bang** theory: the universe began hot and dense about **13.8 billion years ago** and has been **expanding** and cooling since.
+- It was an expansion **of space itself**, everywhere at once, not an explosion from one point.
+- **Hubble (1929)** and **Lemaître (1927)**: more distant galaxies recede faster.
+- The **cosmic microwave background**, found in **1964**, is the afterglow released about **380,000 years** after the start.
+- Early fusion predicts about **75% hydrogen and 25% helium**, matching observations.
+- The **observable universe** extends about **46 billion light-years** in every direction because of expansion.
+
+=== why
+The Big Bang is the creation story that science has assembled from evidence, and every culture has wondered how everything began. Knowing what the evidence actually shows (and what it doesn’t) lets you separate the solid science from speculation. It also connects every region of this map: the atoms in your body, the stars, the planets and life itself all trace back to that hot, dense beginning.

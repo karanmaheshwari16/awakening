@@ -1,0 +1,87 @@
+{
+  "id": "space.stars.2",
+  "region": "space",
+  "topic": "stars",
+  "level": 2,
+  "prerequisites": [
+    "space.stars.1"
+  ],
+  "title": "How Stars Die, and Why You Exist Because of It",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the year **1054**, astronomers in Song dynasty China recorded a “guest star” in the constellation we call Taurus. It was bright enough to see in daylight for about three weeks, then faded over the following two years. Records from the Islamic world and possibly from Ancestral Puebloan rock art in North America may describe the same event.\n\nPoint a telescope at that spot today and you find the **Crab Nebula**: a glowing, expanding cloud of debris about 11 light-years across. At its centre sits an object only about 20 kilometres wide that spins around **30 times every second**. Those astronomers witnessed a star’s death. What they could not know is that deaths like this one made the iron in your blood and the calcium in your bones."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson you saw that a star is a balance: **gravity squeezes inward, and pressure from fusion-heated gas pushes outward**. A star lives for as long as it can keep that balance going. It dies when its core runs out of fuel it can use.\n\nWhat happens next depends almost entirely on one number: the star’s **mass**.\n\n- **Low- and medium-mass stars** (up to roughly 8 times the Sun’s mass) end quietly, by astronomical standards. They swell into red giants, puff off their outer layers and leave behind a small, hot core called a **white dwarf**.\n- **Massive stars** (more than about 8 solar masses) end violently. Their cores collapse in under a second and the rest of the star explodes as a **supernova**, leaving behind a **neutron star** or, for the heaviest, a **black hole**.\n\nThe dividing line isn’t perfectly sharp, and astronomers still debate the details, but the basic split is well established."
+    },
+    {
+      "type": "text",
+      "heading": "The Sun’s future: a slow, swollen ending",
+      "md": "The Sun is about **4.6 billion years old** and roughly halfway through its hydrogen-burning life. In about **5 billion years**, the hydrogen in its core will run low.\n\nWith less fusion holding it up, the core contracts and heats. That heat ignites hydrogen burning in a shell around the core, which makes the outer layers swell enormously. The Sun becomes a **red giant**, perhaps a couple of hundred times its current width. Mercury and Venus will almost certainly be swallowed; whether Earth survives is still uncertain, and either way it will be scorched long before that.\n\nEventually the core reaches about **100 million °C**, hot enough to fuse **helium into carbon and oxygen**. But a star of the Sun’s mass never gets hot enough to go further. Its outer layers drift away into space as a glowing shell called a **planetary nebula** (a misleading name from the days of blurry telescopes; it has nothing to do with planets).\n\nWhat remains is the exposed core: a **white dwarf**. It packs roughly half the Sun’s mass into a ball about the size of Earth. A teaspoon of white dwarf material would weigh **several tonnes**. It no longer produces energy by fusion; it simply glows from leftover heat and cools over billions of years."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "An Indian student’s calculation on a ship",
+      "md": "In 1930, a 19-year-old **Subrahmanyan Chandrasekhar** was sailing from India to study at Cambridge. On the voyage, he worked out that a white dwarf can only be held up against gravity up to a certain mass, about **1.4 times the Sun’s mass**. Beyond that, nothing in ordinary matter can resist collapse. Senior astronomers dismissed the idea for years. It is now called the **Chandrasekhar limit**, and in 1983 he shared the Nobel Prize in Physics for his work on how stars evolve."
+    },
+    {
+      "type": "text",
+      "heading": "Massive stars: building an onion, then collapsing",
+      "md": "A massive star has far more gravity, so its core gets far hotter. After helium, it can go on fusing heavier and heavier elements: **carbon, neon, oxygen, silicon**. Each new fuel lasts a shorter time than the one before. In a star of about 25 solar masses, hydrogen burning lasts millions of years, but silicon burning lasts roughly **a day**.\n\nBy the end, the star’s interior is layered like an onion, with lighter elements burning in outer shells and heavier ones nearer the centre. At the very centre builds up **iron**.\n\nIron is the dead end. Fusing lighter elements releases energy, which is what holds the star up. But fusing iron **consumes** energy instead of releasing it. Once the core is mostly iron, the star’s energy source shuts off."
+    },
+    {
+      "type": "steps",
+      "title": "How a core collapse unfolds",
+      "items": [
+        "The iron core grows until it passes the Chandrasekhar limit. Nothing can now hold it up.",
+        "The core collapses inward at up to about a quarter of the speed of light. An object roughly the size of Earth shrinks to a ball about **20 kilometres** across in **less than a second**.",
+        "Electrons are squeezed into protons, turning them into neutrons and releasing a flood of almost massless particles called **neutrinos**.",
+        "The core becomes so dense that it suddenly stiffens and stops collapsing. Infalling material slams into it and rebounds.",
+        "With help from the enormous blast of neutrinos, a shock wave tears outward through the star and blows it apart. For a few weeks, this single **supernova** can outshine an entire galaxy of billions of stars.",
+        "Left behind is a **neutron star**, an object so dense that a teaspoon of it would weigh around a **billion tonnes**. If the leftover core is heavy enough, even neutrons can’t resist, and it collapses into a **black hole**."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a star’s life as a household burning through its savings. A modest household (the Sun) spends slowly and lasts a long time, ending up with a small nest egg: the white dwarf. A wealthy household (a massive star) spends lavishly, moving from savings to investments to selling the furniture, each source running out faster than the last. When it hits the one asset that costs more to sell than it’s worth (iron), the whole thing collapses at once."
+    },
+    {
+      "type": "text",
+      "heading": "The lighthouse in the Crab",
+      "md": "In 1967, a doctoral student in Cambridge named **Jocelyn Bell Burnell** noticed a strange signal in radio telescope data: pulses arriving every 1.33 seconds, as regular as a clock. Her team half-jokingly labelled it “LGM-1”, for *little green men*, before realising it was natural. It was the first known **pulsar**: a spinning neutron star sweeping beams of radio waves across space like a lighthouse.\n\nThe object at the heart of the Crab Nebula is one of these pulsars, the remnant of the star that exploded in 1054. Its discovery confirmed that neutron stars, predicted on paper in the 1930s, were real."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If iron is where fusion stops, where did gold, silver and uranium come from?",
+      "md": "They need extra energy to build, and supernovae and related events supply it. Elements heavier than iron are made mainly when atomic nuclei rapidly absorb **neutrons** in extreme environments. Supernovae make some. But a big share of the heaviest elements, including much of the universe’s gold and platinum, appears to come from **collisions of two neutron stars**. In 2017, detectors recorded ripples in space from exactly such a collision, and telescopes then saw the glow of freshly made heavy elements, a material estimated at several times Earth’s mass in gold and platinum alone. Every gold ring on Earth contains atoms forged in an event like that, long before the Sun was born."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A star dies when its core runs out of usable fuel; its **mass** decides how.",
+        "Stars up to about **8 solar masses** become **red giants**, shed **planetary nebulae** and leave **white dwarfs** (Earth-sized, extremely dense).",
+        "The **Chandrasekhar limit** (about **1.4 solar masses**) is the most a white dwarf can weigh.",
+        "Massive stars fuse elements up to **iron**; iron fusion absorbs energy, so the core **collapses** in under a second.",
+        "The rebound drives a **supernova**, leaving a **neutron star** or a **black hole**.",
+        "**Pulsars** are spinning neutron stars, first found by **Jocelyn Bell Burnell** in **1967**.",
+        "Elements heavier than iron come from supernovae and **neutron star collisions**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The phrase “we are made of star stuff”, popularised by Carl Sagan, isn’t poetry; it’s chemistry. Apart from hydrogen and some helium, nearly every atom in your body was forged inside a star and scattered by its death. Understanding how stars die also explains what astronomers find across the sky, from glowing nebulae to pulsars and black holes, and it links directly to the Chemistry region, where those elements take centre stage."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why does a massive star end in a supernova while a star like the Sun ends as a white dwarf, and what does this have to do with the atoms in your body?"
+  }
+}

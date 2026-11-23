@@ -1,0 +1,80 @@
+{
+  "id": "space.galaxies.2",
+  "region": "space",
+  "topic": "galaxies",
+  "level": 2,
+  "prerequisites": [
+    "space.galaxies.1"
+  ],
+  "title": "The Invisible Majority: Dark Matter",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1970s, the American astronomer **Vera Rubin** and her colleague **Kent Ford** measured how fast stars and gas orbit in spiral galaxies. They expected a simple pattern, like the solar system: things far from the centre should move more slowly, the way Neptune crawls around the Sun while Mercury races.\n\nThat isn’t what they found. Far out in galaxy after galaxy, stars moved just as fast as those closer in. By everything astronomers could see, those galaxies should have been flying apart. Something unseen was holding them together, and there seemed to be far more of it than of everything visible."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Astronomers can weigh a galaxy in two ways:\n\n1. **Count the light**: add up the stars, gas and dust we can see, and estimate their mass.\n2. **Watch the motion**: measure how fast things orbit, and use gravity (as with Kepler’s and Newton’s laws) to calculate how much mass must be there to hold them in.\n\nThe two answers don’t match. The motion method gives **far more** mass, typically around five to six times as much as the visible matter. Astronomers call the missing mass **dark matter**: “dark” because it doesn’t emit, absorb or reflect light in any way we can detect. It seems to interact only through **gravity**.\n\nCurrent estimates suggest dark matter makes up about **85% of all matter** in the universe. Everything made of ordinary atoms, including every star, planet and person, is the minority."
+    },
+    {
+      "type": "diagram",
+      "alt": "A graph with distance from a galaxy's centre on the horizontal axis and orbital speed on the vertical axis. A dashed line labelled expected rises quickly then falls away. A solid line labelled observed rises quickly then stays flat.",
+      "caption": "Rotation curves: stars far out move much faster than visible matter alone can explain.",
+      "svg": "<svg viewBox=\"0 0 320 190\" xmlns=\"http://www.w3.org/2000/svg\"> <g style=\"stroke:var(--line-2);stroke-width:1\"><path d=\"M40 160 H300\"/><path d=\"M40 20 V160\"/></g> <path d=\"M40 160 C60 80 80 60 100 62 C140 66 200 110 290 130\" style=\"fill:none;stroke:currentColor;stroke-width:1.6;stroke-dasharray:5 4;opacity:.75\"/> <path d=\"M40 160 C60 80 80 58 110 55 C160 52 220 52 290 52\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/> <g style=\"font:500 9px var(--font-ui);fill:var(--text-2)\"><text x=\"170\" y=\"178\" text-anchor=\"middle\">distance from centre</text><text x=\"28\" y=\"90\" text-anchor=\"middle\" transform=\"rotate(-90 28 90)\">orbital speed</text><text x=\"232\" y=\"44\" style=\"fill:var(--accent)\">observed</text><text x=\"232\" y=\"122\">expected</text></g> </svg>"
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine watching a merry-go-round from a distance at night. You can see a few lit-up riders, but they’re spinning so fast that, by your calculations, the ride should be shaking itself apart. You conclude there must be a heavy, unlit structure holding it together. You can’t see it, but you can measure its effect. That’s the logic of dark matter."
+    },
+    {
+      "type": "text",
+      "heading": "It’s not just one clue",
+      "md": "Rotation curves alone might have been a fluke. What persuades most astronomers is that very different kinds of evidence point the same way:\n\n**Galaxy clusters.** As early as **1933**, the Swiss astronomer **Fritz Zwicky** noticed that galaxies in the Coma Cluster move far too fast to stay bound by the visible mass. He proposed *dunkle Materie*, dark matter. He was largely ignored for decades.\n\n**Gravitational lensing.** As Einstein predicted, mass bends light. Massive clusters distort the images of galaxies behind them into arcs, like a lens. Measuring the distortion reveals how much mass is in the cluster, and again it’s far more than we can see.\n\n**The Bullet Cluster.** In this pair of colliding galaxy clusters, the hot gas (most of the visible mass) has been slowed and piled up in the middle by the collision. But lensing shows most of the **mass** has passed straight through, sitting with the galaxies on either side. This looks just like what you’d expect if most of the mass is dark matter that barely interacts with anything.\n\n**The early universe.** Detailed measurements of the faint afterglow of the Big Bang show patterns that match predictions only if dark matter is included in the right amount."
+    },
+    {
+      "type": "text",
+      "heading": "What could it be?",
+      "md": "Here’s the uncomfortable part: **nobody knows what dark matter is**.\n\nIt isn’t ordinary dark stuff like dust, dead stars or black holes in sufficient quantity; searches have ruled most of those out as the main answer. The leading idea is that it’s a new kind of **particle**, not yet discovered, that has mass but doesn’t interact with light. Candidates have names like **WIMPs** (weakly interacting massive particles) and **axions**.\n\nPhysicists have built extraordinarily sensitive detectors deep underground, shielded from cosmic rays, hoping to catch a dark matter particle bumping into an ordinary atom. They’ve also searched at particle colliders. So far, after decades of searching, there has been **no confirmed detection**."
+    },
+    {
+      "type": "callout",
+      "tone": "open-question",
+      "title": "Or is gravity different?",
+      "md": "A minority of physicists argue that instead of invisible matter, our **theory of gravity** may need changing at very low accelerations, an idea called **MOND** (Modified Newtonian Dynamics), proposed by Mordehai Milgrom in 1983. MOND explains galaxy rotation curves remarkably well, but struggles with galaxy clusters, the Bullet Cluster and the early universe, where dark matter fits better. Most astronomers favour dark matter, but the question will only be fully settled when dark matter is detected directly, or something better explains all the evidence."
+    },
+    {
+      "type": "text",
+      "heading": "A monster at the centre",
+      "md": "Galaxies have another, very different heavyweight hidden in their cores. By tracking stars orbiting the centre of the Milky Way for decades, teams led by **Reinhard Genzel** and **Andrea Ghez** showed that they orbit an invisible object of about **4 million solar masses**, packed into a region smaller than our solar system. Only a black hole fits. They shared the 2020 Nobel Prize in Physics. Named **Sagittarius A***, it was first imaged directly in **2022** by the Event Horizon Telescope. Almost every large galaxy seems to have such a **supermassive black hole** at its heart."
+    },
+    {
+      "type": "reveal",
+      "prompt": "The Andromeda Galaxy is heading towards us at about 110 km per second. What will happen when it arrives in roughly 4 to 5 billion years?",
+      "md": "The Milky Way and Andromeda will collide and, over hundreds of millions of years, merge into a single large galaxy, possibly an elliptical one (sometimes nicknamed **Milkomeda**). Surprisingly, almost **no stars will actually hit each other**: stars are so far apart that the two galaxies will mostly pass through one another, with gravity reshaping their orbits. The night sky from any surviving planet would be spectacular. Our Sun will likely be flung into a new orbit, but the solar system itself should survive. Recent studies suggest the collision is likely but not certain."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Weighing galaxies by **motion** gives far more mass than counting **visible** matter.",
+        "**Vera Rubin** and **Kent Ford** found galaxy **rotation curves** stay flat far from the centre.",
+        "Independent evidence: **galaxy clusters** (Zwicky, 1933), **gravitational lensing**, the **Bullet Cluster** and the **early universe**.",
+        "**Dark matter** is about **85%** of all matter, but its nature is **unknown**; no particle has been detected.",
+        "**MOND** is an alternative idea that modifies gravity; most astronomers favour dark matter.",
+        "Most large galaxies host a **supermassive black hole**; ours, **Sagittarius A***, has about **4 million** solar masses."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Dark matter is a humbling reminder that everything we’ve ever seen, touched or studied directly may be only a small fraction of what exists. It’s also a live mystery: the answer could come in your lifetime, from an underground detector, a telescope or a new theory. And it shows how scientists reason when they can’t see something directly: by testing whether many independent lines of evidence point the same way."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what evidence makes astronomers think dark matter exists, and why haven’t they simply concluded that our theory of gravity is wrong instead?"
+  }
+}

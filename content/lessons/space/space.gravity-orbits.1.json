@@ -1,0 +1,83 @@
+{
+  "id": "space.gravity-orbits.1",
+  "region": "space",
+  "topic": "gravity-orbits",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Falling Around the World",
+  "estimated_minutes": 13,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Astronauts on the International Space Station float around, so it’s natural to assume there’s no gravity up there. But the station orbits only about **400 kilometres** above the ground, roughly the distance from Delhi to Jaipur, or from London to Paris. At that height, Earth’s gravity is still about **90%** as strong as on the surface.\n\nSo why do astronauts float? The answer is surprising: they aren’t escaping gravity at all. They are falling, constantly, and missing the ground. Understanding that idea unlocks how the Moon, satellites, planets and even galaxies move."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Isaac Newton realised that the force making an apple fall from a tree is the **same force** that keeps the Moon circling Earth: **gravity**. Every mass attracts every other mass. The pull is stronger for bigger masses and weaker for greater distances.\n\nSpecifically, gravity follows an **inverse square law**: double the distance between two objects and the pull becomes four times weaker; triple it and it becomes nine times weaker.\n\nAn **orbit** is what happens when something moves sideways fast enough that, as it falls, the ground curves away beneath it just as fast. It keeps falling **towards** Earth but never **reaches** it. An orbit is a never-ending fall."
+    },
+    {
+      "type": "text",
+      "heading": "Newton’s cannon",
+      "md": "Newton explained this with a thought experiment, published in his writings in the 1680s. Imagine a cannon on top of an impossibly tall mountain, above the air, firing horizontally:\n\n- Fire slowly and the ball curves down and hits the ground nearby.\n- Fire faster and it lands further away.\n- Fire fast enough and the ball falls just as quickly as Earth’s curved surface drops away beneath it. It never lands. It circles the planet and comes back to the mountain from behind. That’s an orbit.\n- Fire faster still and the orbit stretches into an oval (an ellipse). Fast enough, and the ball escapes Earth entirely.\n\nFor a low orbit just above the atmosphere, that magic speed is about **7.8 kilometres per second**, around **28,000 km/h**. That’s how fast the ISS travels, circling the whole planet roughly every **90 minutes**, so astronauts see about sixteen sunrises a day."
+    },
+    {
+      "type": "diagram",
+      "alt": "A circle representing Earth with a mountain on top. Several curved paths start at the mountain: short ones hitting the ground nearby, a longer one landing far away, and one that circles all the way around the planet.",
+      "caption": "Newton’s cannon: fire fast enough and the ball falls all the way around the Earth.",
+      "svg": "<svg viewBox=\"0 0 320 220\" xmlns=\"http://www.w3.org/2000/svg\"> <circle cx=\"160\" cy=\"125\" r=\"70\" style=\"fill:none;stroke:currentColor;stroke-width:2\"/> <path d=\"M156 55 L160 42 L164 55\" style=\"fill:none;stroke:currentColor;stroke-width:2\"/> <path d=\"M162 42 C185 42 200 52 205 70\" style=\"fill:none;stroke:var(--text-3);stroke-width:1.5;stroke-dasharray:4 3\"/> <path d=\"M162 42 C210 40 236 75 228 110\" style=\"fill:none;stroke:var(--text-3);stroke-width:1.5;stroke-dasharray:4 3\"/> <circle cx=\"160\" cy=\"125\" r=\"83\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/> <g style=\"font:500 9px var(--font-ui);fill:var(--text-2)\"><text x=\"210\" y=\"62\">too slow</text><text x=\"236\" y=\"114\">faster</text><text x=\"246\" y=\"190\" style=\"fill:var(--accent)\">orbit</text><text x=\"160\" y=\"130\" text-anchor=\"middle\">Earth</text></g> </svg>"
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine swinging a ball on a string around your head. The string constantly pulls the ball **inward**, but because the ball is moving sideways, it goes round in a circle instead of flying into your hand. In an orbit, gravity plays the role of the string. Cut the string (switch off gravity) and the ball would fly off in a straight line, exactly as Newton’s first law predicts."
+    },
+    {
+      "type": "text",
+      "heading": "Why astronauts float",
+      "md": "On Earth, you feel your weight because the floor pushes up on you, stopping you from falling. In the ISS, the astronauts, the station and everything inside it are all falling **together**, at the same rate. Nothing pushes against anything else, so they feel weightless.\n\nYou can experience a tiny taste of this in a lift that suddenly drops, or at the top of a rollercoaster hill, when your stomach seems to float. Astronauts experience that sensation continuously. Scientists prefer the term **microgravity** or **free fall** rather than “zero gravity”, because gravity is very much present."
+    },
+    {
+      "type": "steps",
+      "title": "Newton checks his idea with the Moon",
+      "items": [
+        "The Moon is about **60 times** further from Earth’s centre than you are (about 384,000 km versus about 6,400 km).",
+        "By the inverse square law, Earth’s gravity at the Moon should be 60 × 60 = **3,600 times weaker** than at the surface.",
+        "At the surface, a dropped object falls about **4.9 metres** in its first second.",
+        "So in one second, the Moon should fall towards Earth by 4.9 ÷ 3,600 metres, about **1.4 millimetres**, compared with the straight line it would otherwise follow.",
+        "Measuring the Moon’s actual curved path gives just about that figure. The same law explains the apple and the Moon. This was one of the great moments in science: the heavens and the Earth follow the same rules."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Choosing an orbit",
+      "md": "Different jobs need different orbits:\n\n- **Low Earth orbit** (a few hundred to about 2,000 km up): the ISS, Earth-imaging satellites and large internet satellite networks. Close and fast.\n- **Geostationary orbit**, about **35,786 km** above the equator: here an orbit takes exactly one day, matching Earth’s spin, so a satellite appears to hang still over one spot. Ideal for weather and TV satellites, including India’s INSAT and GSAT series. The idea was popularised in 1945 by science-fiction writer **Arthur C. Clarke**.\n- **Navigation orbits**, around 20,000 km up: GPS and similar systems (Europe’s Galileo, India’s NavIC, China’s BeiDou) use fleets of satellites whose timed signals let your phone work out where it is."
+    },
+    {
+      "type": "reveal",
+      "prompt": "To escape Earth completely, a rocket needs about 11.2 km/s. Why do rockets launch eastward and from near the equator when possible?",
+      "md": "Because **Earth is already spinning eastward**, carrying everything on it along. At the equator, the ground moves at about **465 metres per second**. Launching east adds that speed for free, saving fuel. That’s one reason ISRO launches from Sriharikota on India’s southeast coast, NASA from Florida and the European Space Agency from French Guiana, close to the equator. Launching over the sea to the east also means spent rocket stages fall into water rather than onto towns."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Gravity** attracts all masses; it follows an **inverse square law** with distance.",
+        "An **orbit** is a continuous fall combined with fast sideways motion: the ground curves away as fast as you fall.",
+        "Low orbit needs about **7.8 km/s**; the ISS circles Earth about every **90 minutes**.",
+        "Astronauts float because they are in **free fall** with their spacecraft, not because gravity is absent.",
+        "Newton showed the **same gravity** explains a falling apple and the Moon’s orbit.",
+        "**Geostationary** satellites orbit once a day, appearing fixed over one point."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Satellites quietly run modern life: weather forecasts, maps on your phone, banking timestamps, television and internet links. Every one of them relies on the idea of falling around the world. Understanding orbits also prepares you for the next lesson, where gravity’s story deepens, from Kepler’s planetary laws to Einstein’s idea that gravity is the curving of space and time itself."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is an orbit, and why do astronauts on the International Space Station float even though Earth’s gravity is still pulling on them strongly?"
+  }
+}

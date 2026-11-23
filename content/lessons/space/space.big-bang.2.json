@@ -1,0 +1,91 @@
+{
+  "id": "space.big-bang.2",
+  "region": "space",
+  "topic": "big-bang",
+  "level": 2,
+  "prerequisites": [
+    "space.big-bang.1"
+  ],
+  "title": "Inflation, Dark Energy and the Edge of What We Know",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1990s, two rival teams of astronomers set out to measure how much the expansion of the universe was **slowing down**. It seemed obvious that it must be: gravity pulls everything together, so it should act like a brake.\n\nIn 1998, both teams announced the same shocking result. The expansion isn’t slowing down. It’s **speeding up**. Something is pushing the universe apart faster and faster, and that something appears to make up about **two-thirds** of everything there is. We still don’t know what it is. The discovery won the 2011 Nobel Prize in Physics."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "By the late twentieth century, astronomers had an accounting problem. Add up everything in the universe and you get something like this:\n\n- **Ordinary matter** (atoms: stars, gas, planets, people): about **5%**.\n- **Dark matter** (invisible, detected only by its gravity): about **27%**.\n- **Dark energy** (whatever is accelerating the expansion): about **68%**.\n\nThese percentages describe the universe’s total **energy content**, counting mass as a form of energy (Einstein’s E = mc²). In other words, about **95%** of the universe is made of things we cannot see and do not understand. Cosmology, the science of the universe as a whole, is in the odd position of having an extremely successful model built mostly out of mysteries."
+    },
+    {
+      "type": "text",
+      "heading": "How the acceleration was found",
+      "md": "Both teams used a particular kind of exploding star, a **Type Ia supernova**. These occur when a white dwarf in a close pair of stars pulls material from its companion until it nears the Chandrasekhar limit and detonates. Because they blow up at roughly the same mass, they reach roughly the same peak brightness, making them **standard candles**: if you know how bright something truly is, how bright it *looks* tells you how far away it is.\n\nComparing each supernova’s distance with its redshift (how much space has stretched since its light set out) let the teams reconstruct the history of expansion. Distant supernovae were **fainter** than expected, meaning they were further away than a slowing universe would allow. The expansion had been decelerating early on, under gravity’s pull, but began **accelerating** roughly **5 billion years ago**."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine throwing a ball upward and timing how fast it slows down, expecting to learn how strong gravity is. Instead, after rising for a while, the ball starts speeding **up** and shooting away from you. You would conclude that something you hadn’t accounted for was pushing it. That’s what the supernova teams faced."
+    },
+    {
+      "type": "text",
+      "heading": "What could dark energy be?",
+      "md": "The simplest explanation is one Einstein himself introduced in 1917 and later abandoned: the **cosmological constant**, an energy that belongs to empty space itself. As space expands, there is more space, and so more of this energy, which keeps the push going.\n\nThe trouble is that when physicists try to calculate how much energy empty space should have using quantum theory, they get a number that is wildly too big, by a factor often quoted as around 10^120. This has been called the worst prediction in the history of physics. Other ideas suggest dark energy might change over time; some recent survey results hint at this, but the evidence is not yet conclusive. For now, “dark energy” is mostly a name for something we can measure but can’t explain."
+    },
+    {
+      "type": "text",
+      "heading": "Inflation: the first fraction of a second",
+      "md": "The Big Bang theory, as described in the previous lesson, had puzzles of its own:\n\n- **The horizon problem.** The cosmic microwave background is almost exactly the same temperature in every direction. But regions on opposite sides of the sky should never have been close enough to exchange heat and even out. How did they end up so uniform?\n- **The flatness problem.** The universe’s geometry is measured to be almost perfectly “flat”, which requires extraordinarily fine-tuned starting conditions.\n\nIn **1980**, the physicist **Alan Guth** proposed **cosmic inflation**: in a tiny fraction of the first second, the universe expanded at a tremendous rate, by a factor of at least 10^26, before settling into the gentler expansion we see today.\n\nInflation would have taken a tiny, evenly mixed region and blown it up to cosmic size, solving the horizon problem, and stretched any curvature flat, solving the flatness problem. It also predicts that microscopic quantum jitters were stretched into the slight ripples in the cosmic microwave background, and the pattern of those ripples matches inflation’s predictions well."
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Strong but not proven",
+      "md": "Inflation is widely accepted as the leading explanation for the very early universe, but it hasn’t been confirmed the way the Big Bang itself has. A key predicted signature, a particular twisting pattern in the cosmic microwave background caused by gravitational waves from inflation, has not yet been detected. In 2014, one team announced they’d found it, but the signal turned out to be caused by dust in our own galaxy. Some physicists favour alternative ideas."
+    },
+    {
+      "type": "text",
+      "heading": "A crack in the model? The Hubble tension",
+      "md": "The **Hubble constant** measures how fast the universe is expanding today. There are two main ways to measure it:\n\n1. From the **early universe**: use the cosmic microwave background and the standard model of cosmology to calculate today’s expansion rate. Result: about **67** kilometres per second per megaparsec.\n2. From the **nearby universe**: measure distances to galaxies with Cepheids and supernovae directly. Result: about **73**.\n\nThat might sound close, but both measurements are now precise enough that the gap is very unlikely to be chance. Either there is a subtle error in one method, or the standard model of the universe is missing something. This **Hubble tension** is one of the most actively researched questions in cosmology today."
+    },
+    {
+      "type": "steps",
+      "title": "How might the universe end?",
+      "items": [
+        "If dark energy stays constant, the expansion keeps accelerating forever. Galaxies beyond our local group will eventually recede out of sight.",
+        "Over trillions of years, stars use up their gas and stop forming. Existing stars burn out.",
+        "Over almost unimaginably long times, even black holes may evaporate.",
+        "The universe would approach a cold, dark, dilute state, often called **heat death**, with no usable energy left.",
+        "If dark energy grows stronger, it could eventually tear apart galaxies, stars and atoms, a scenario called the **Big Rip**. If it weakens or reverses, the expansion might stop or even reverse. Current evidence favours endless expansion, but since we don’t understand dark energy, the far future is genuinely uncertain."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What happened before the Big Bang?",
+      "md": "**Nobody knows**, and it’s possible the question doesn’t have an answer in the usual sense. In general relativity, time itself is part of the universe, so “before the beginning” might be like asking what is north of the North Pole. Some speculative theories propose that our universe emerged from an earlier phase, or is one bubble among many in a larger **multiverse** produced by eternal inflation. These ideas are mathematically interesting but currently have no direct evidence. This is the honest edge of human knowledge."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "In **1998**, Type Ia **supernovae** revealed the expansion of the universe is **accelerating**.",
+        "The cause is called **dark energy**: about **68%** of the universe; dark matter is about **27%**; ordinary matter about **5%**.",
+        "The simplest explanation is a **cosmological constant**, but its size can’t be explained by current theory.",
+        "**Inflation** (Guth, 1980) proposes extremely rapid expansion in the first fraction of a second, solving the **horizon** and **flatness** problems.",
+        "Inflation is the leading idea but **not confirmed**.",
+        "The **Hubble tension** (about 67 vs 73) may hint at missing physics.",
+        "The likely far future is endless expansion toward **heat death**, but this depends on dark energy."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "This lesson marks the boundary between what science knows and what it doesn’t. Learning to tell the difference, between well-tested theory, promising hypothesis and pure speculation, is one of the most valuable thinking skills there is, far beyond astronomy. It’s also exciting: some of the biggest questions about the universe remain open, and they could be answered within your lifetime."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is dark energy, how was it discovered, and what parts of the universe’s story are still genuinely unknown?"
+  }
+}

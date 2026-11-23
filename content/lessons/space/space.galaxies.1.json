@@ -1,0 +1,90 @@
+{
+  "id": "space.galaxies.1",
+  "region": "space",
+  "topic": "galaxies",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Islands of Stars",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On a clear, dark night away from city lights, you can see a faint band of glowing haze stretching across the sky. Many cultures named it after a river or a path: the Ganges of the sky (Akash Ganga) in India, the Silver River in China, the Milky Way in Europe.\n\nIn 1610, Galileo turned his telescope on it and discovered it was made of countless faint stars. What nobody realised until a century ago is that you’re looking at our home galaxy from the inside, edge-on, and that it is just one of perhaps **hundreds of billions** of galaxies in the observable universe."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **galaxy** is an enormous system of stars, gas, dust and dark matter, all held together by gravity. Galaxies range from dwarfs with a few hundred million stars to giants with more than a trillion.\n\nOur galaxy, the **Milky Way**, contains somewhere between about **100 and 400 billion stars** (it’s hard to count from the inside). It is a **barred spiral**: a central bulge crossed by a bar of stars, surrounded by a flat, rotating disc with spiral arms, all embedded in a much larger, roughly spherical halo.\n\nThe disc is about **100,000 light-years** across but only about a thousand light-years thick: proportionally thinner than a CD. The Sun sits about **26,000 light-years** from the centre, in a minor spiral arm, roughly halfway out. When you see the Milky Way’s band in the sky, you are looking along the plane of that disc, where most of its stars are."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "What is a light-year?",
+      "md": "A **light-year** is a distance, not a time: how far light travels in a year, about **9.5 trillion kilometres**. Light from the Moon takes about a second to reach us; from the Sun, eight minutes. Light from the other side of the Milky Way has been travelling for tens of thousands of years."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "If the solar system, out to Neptune, were shrunk to the size of a coin, the Milky Way on the same scale would be roughly the size of a large country. The nearest star would be a couple of hundred metres from the coin. The galaxy is mostly empty space between widely scattered stars."
+    },
+    {
+      "type": "text",
+      "heading": "Our galactic year",
+      "md": "The Milky Way rotates. The Sun travels around the galactic centre at about **230 kilometres per second**, but the galaxy is so vast that one lap takes roughly **230 million years**, sometimes called a **galactic year**. The last time the Sun was in its current position, the earliest dinosaurs were just appearing. Since the Sun formed, it has completed only about twenty laps."
+    },
+    {
+      "type": "text",
+      "heading": "The Great Debate",
+      "md": "By the early 1900s, astronomers had catalogued many faint, fuzzy patches in the sky called **nebulae**. Some were spiral-shaped. Were they clouds of gas inside our galaxy, or entire galaxies far beyond it, “island universes”, as the philosopher Kant had speculated?\n\nIn **1920**, two American astronomers, **Harlow Shapley** and **Heber Curtis**, publicly debated the question. Shapley argued the Milky Way was essentially the whole universe; Curtis argued the spirals were separate galaxies. The evidence of the time wasn’t enough to settle it."
+    },
+    {
+      "type": "steps",
+      "title": "How a measuring stick settled it",
+      "items": [
+        "In **1912**, **Henrietta Swan Leavitt**, working at Harvard studying photographic plates (one of a group of women hired to analyse astronomical data, often for low pay), discovered something crucial about stars called **Cepheid variables**.",
+        "Cepheids brighten and dim in a regular cycle. Leavitt found that the **longer the cycle, the brighter the star really is**.",
+        "That meant if you measure a Cepheid’s cycle, you know its true brightness. Compare that with how bright it **looks**, and you can work out its **distance**, the way you could judge how far away a lightbulb of known wattage is.",
+        "In **1923–24**, **Edwin Hubble** used the large telescope at Mount Wilson in California to find Cepheids in the Andromeda “nebula”.",
+        "Their cycles showed Andromeda was far too distant to be inside the Milky Way: modern measurements put it about **2.5 million light-years** away.",
+        "The debate was over. The spirals were galaxies, and the universe was suddenly vastly bigger than anyone had imagined."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Kinds of galaxies",
+      "md": "Hubble went on to classify galaxies by shape, a scheme still used in modified form:\n\n- **Spiral galaxies**, like the Milky Way and Andromeda: flat, rotating discs with arms where new stars are being born, so they glow with bright young blue stars.\n- **Elliptical galaxies**: smooth, rounded or egg-shaped collections of mostly old, reddish stars, with little gas left to form new ones. The largest galaxies known are giant ellipticals.\n- **Irregular galaxies**: no clear shape, often because of gravitational disturbance. The **Large and Small Magellanic Clouds**, visible from the Southern Hemisphere, are irregular dwarf galaxies orbiting the Milky Way."
+    },
+    {
+      "type": "reveal",
+      "prompt": "You can see the Andromeda Galaxy with the naked eye on a dark night. When did the light you’re seeing leave it?",
+      "md": "About **2.5 million years ago**. That light set out when our ancestors were early members of the human family, long before modern humans existed. Andromeda is one of the most distant objects you can see without a telescope. Looking into space is always looking back in time, and astronomers use this to their advantage: by observing galaxies billions of light-years away, they see what galaxies looked like billions of years ago, and can study how they changed."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "One tiny patch of sky",
+      "md": "In 1995, the Hubble Space Telescope stared at a tiny, seemingly empty patch of sky, about the size of a grain of sand held at arm’s length, for ten days. The resulting image, the **Hubble Deep Field**, showed around **3,000 galaxies**. Later images went deeper, and the James Webb Space Telescope now routinely reveals thousands of galaxies in similar patches, some seen as they were within a few hundred million years of the Big Bang."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **galaxy** is a gravitationally bound system of stars, gas, dust and dark matter.",
+        "The **Milky Way** is a **barred spiral** with **100–400 billion** stars, about **100,000 light-years** across.",
+        "The Sun is about **26,000 light-years** from the centre and orbits it every **~230 million years**.",
+        "**Henrietta Leavitt** found that Cepheid variables reveal distances; **Hubble** used them in **1923–24** to show **Andromeda** is a separate galaxy.",
+        "Main types: **spiral**, **elliptical** and **irregular**.",
+        "The observable universe holds **hundreds of billions** of galaxies, and looking far away means **looking back in time**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The discovery that the Milky Way is one galaxy among countless others is one of the biggest shifts in human self-understanding, comparable to realising Earth orbits the Sun. It also shows how science often depends on unglamorous, careful work, like Leavitt’s analysis of photographic plates, that makes later breakthroughs possible. Next, you’ll see that galaxies hide a mystery: most of their mass seems to be invisible."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a galaxy, how did astronomers discover that the Milky Way is just one of many, and roughly where is our Sun within it?"
+  }
+}

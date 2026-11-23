@@ -1,0 +1,282 @@
+##### LESSON
+id: space.stars.2
+title: How Stars Die, and Why You Exist Because of It
+minutes: 14
+prereq: space.stars.1
+check: In your own words: why does a massive star end in a supernova while a star like the Sun ends as a white dwarf, and what does this have to do with the atoms in your body?
+
+=== hook
+In the year **1054**, astronomers in Song dynasty China recorded a “guest star” in the constellation we call Taurus. It was bright enough to see in daylight for about three weeks, then faded over the following two years. Records from the Islamic world and possibly from Ancestral Puebloan rock art in North America may describe the same event.
+
+Point a telescope at that spot today and you find the **Crab Nebula**: a glowing, expanding cloud of debris about 11 light-years across. At its centre sits an object only about 20 kilometres wide that spins around **30 times every second**. Those astronomers witnessed a star’s death. What they could not know is that deaths like this one made the iron in your blood and the calcium in your bones.
+
+=== core
+In the previous lesson you saw that a star is a balance: **gravity squeezes inward, and pressure from fusion-heated gas pushes outward**. A star lives for as long as it can keep that balance going. It dies when its core runs out of fuel it can use.
+
+What happens next depends almost entirely on one number: the star’s **mass**.
+
+- **Low- and medium-mass stars** (up to roughly 8 times the Sun’s mass) end quietly, by astronomical standards. They swell into red giants, puff off their outer layers and leave behind a small, hot core called a **white dwarf**.
+- **Massive stars** (more than about 8 solar masses) end violently. Their cores collapse in under a second and the rest of the star explodes as a **supernova**, leaving behind a **neutron star** or, for the heaviest, a **black hole**.
+
+The dividing line isn’t perfectly sharp, and astronomers still debate the details, but the basic split is well established.
+
+=== text The Sun’s future: a slow, swollen ending
+The Sun is about **4.6 billion years old** and roughly halfway through its hydrogen-burning life. In about **5 billion years**, the hydrogen in its core will run low.
+
+With less fusion holding it up, the core contracts and heats. That heat ignites hydrogen burning in a shell around the core, which makes the outer layers swell enormously. The Sun becomes a **red giant**, perhaps a couple of hundred times its current width. Mercury and Venus will almost certainly be swallowed; whether Earth survives is still uncertain, and either way it will be scorched long before that.
+
+Eventually the core reaches about **100 million °C**, hot enough to fuse **helium into carbon and oxygen**. But a star of the Sun’s mass never gets hot enough to go further. Its outer layers drift away into space as a glowing shell called a **planetary nebula** (a misleading name from the days of blurry telescopes; it has nothing to do with planets).
+
+What remains is the exposed core: a **white dwarf**. It packs roughly half the Sun’s mass into a ball about the size of Earth. A teaspoon of white dwarf material would weigh **several tonnes**. It no longer produces energy by fusion; it simply glows from leftover heat and cools over billions of years.
+
+=== callout example | An Indian student’s calculation on a ship
+In 1930, a 19-year-old **Subrahmanyan Chandrasekhar** was sailing from India to study at Cambridge. On the voyage, he worked out that a white dwarf can only be held up against gravity up to a certain mass, about **1.4 times the Sun’s mass**. Beyond that, nothing in ordinary matter can resist collapse. Senior astronomers dismissed the idea for years. It is now called the **Chandrasekhar limit**, and in 1983 he shared the Nobel Prize in Physics for his work on how stars evolve.
+
+=== text Massive stars: building an onion, then collapsing
+A massive star has far more gravity, so its core gets far hotter. After helium, it can go on fusing heavier and heavier elements: **carbon, neon, oxygen, silicon**. Each new fuel lasts a shorter time than the one before. In a star of about 25 solar masses, hydrogen burning lasts millions of years, but silicon burning lasts roughly **a day**.
+
+By the end, the star’s interior is layered like an onion, with lighter elements burning in outer shells and heavier ones nearer the centre. At the very centre builds up **iron**.
+
+Iron is the dead end. Fusing lighter elements releases energy, which is what holds the star up. But fusing iron **consumes** energy instead of releasing it. Once the core is mostly iron, the star’s energy source shuts off.
+
+=== steps How a core collapse unfolds
+- The iron core grows until it passes the Chandrasekhar limit. Nothing can now hold it up.
+- The core collapses inward at up to about a quarter of the speed of light. An object roughly the size of Earth shrinks to a ball about **20 kilometres** across in **less than a second**.
+- Electrons are squeezed into protons, turning them into neutrons and releasing a flood of almost massless particles called **neutrinos**.
+- The core becomes so dense that it suddenly stiffens and stops collapsing. Infalling material slams into it and rebounds.
+- With help from the enormous blast of neutrinos, a shock wave tears outward through the star and blows it apart. For a few weeks, this single **supernova** can outshine an entire galaxy of billions of stars.
+- Left behind is a **neutron star**, an object so dense that a teaspoon of it would weigh around a **billion tonnes**. If the leftover core is heavy enough, even neutrons can’t resist, and it collapses into a **black hole**.
+
+=== callout analogy
+Think of a star’s life as a household burning through its savings. A modest household (the Sun) spends slowly and lasts a long time, ending up with a small nest egg: the white dwarf. A wealthy household (a massive star) spends lavishly, moving from savings to investments to selling the furniture, each source running out faster than the last. When it hits the one asset that costs more to sell than it’s worth (iron), the whole thing collapses at once.
+
+=== text The lighthouse in the Crab
+In 1967, a doctoral student in Cambridge named **Jocelyn Bell Burnell** noticed a strange signal in radio telescope data: pulses arriving every 1.33 seconds, as regular as a clock. Her team half-jokingly labelled it “LGM-1”, for *little green men*, before realising it was natural. It was the first known **pulsar**: a spinning neutron star sweeping beams of radio waves across space like a lighthouse.
+
+The object at the heart of the Crab Nebula is one of these pulsars, the remnant of the star that exploded in 1054. Its discovery confirmed that neutron stars, predicted on paper in the 1930s, were real.
+
+=== reveal If iron is where fusion stops, where did gold, silver and uranium come from?
+They need extra energy to build, and supernovae and related events supply it. Elements heavier than iron are made mainly when atomic nuclei rapidly absorb **neutrons** in extreme environments. Supernovae make some. But a big share of the heaviest elements, including much of the universe’s gold and platinum, appears to come from **collisions of two neutron stars**. In 2017, detectors recorded ripples in space from exactly such a collision, and telescopes then saw the glow of freshly made heavy elements, a material estimated at several times Earth’s mass in gold and platinum alone. Every gold ring on Earth contains atoms forged in an event like that, long before the Sun was born.
+
+=== keypoints
+- A star dies when its core runs out of usable fuel; its **mass** decides how.
+- Stars up to about **8 solar masses** become **red giants**, shed **planetary nebulae** and leave **white dwarfs** (Earth-sized, extremely dense).
+- The **Chandrasekhar limit** (about **1.4 solar masses**) is the most a white dwarf can weigh.
+- Massive stars fuse elements up to **iron**; iron fusion absorbs energy, so the core **collapses** in under a second.
+- The rebound drives a **supernova**, leaving a **neutron star** or a **black hole**.
+- **Pulsars** are spinning neutron stars, first found by **Jocelyn Bell Burnell** in **1967**.
+- Elements heavier than iron come from supernovae and **neutron star collisions**.
+
+=== why
+The phrase “we are made of star stuff”, popularised by Carl Sagan, isn’t poetry; it’s chemistry. Apart from hydrogen and some helium, nearly every atom in your body was forged inside a star and scattered by its death. Understanding how stars die also explains what astronomers find across the sky, from glowing nebulae to pulsars and black holes, and it links directly to the Chemistry region, where those elements take centre stage.
+
+##### LESSON
+id: space.solar-system.1
+title: A Tour of the Neighbourhood
+minutes: 13
+check: In your own words: why are the inner planets small and rocky while the outer planets are giant and made mostly of gas and ice? And roughly how empty is the solar system?
+
+=== hook
+Most pictures of the solar system lie to you. They show the planets lined up like beads on a string, a short hop from one to the next. They have to: drawn to scale, the planets would be invisible specks on a page several kilometres wide.
+
+Here is a scale model you could actually build. Shrink the Sun to the size of a football. Earth becomes a **peppercorn** about 25 metres away. Jupiter is a large marble about 130 metres away. Neptune, the farthest planet, is a small bead the best part of a kilometre away. And the nearest star beyond the Sun? On this scale, it would be another football **thousands of kilometres** away. Space is, above all, empty.
+
+=== core
+The **solar system** is the Sun and everything bound to it by gravity: eight planets, their more than 400 known moons (the count keeps rising), dwarf planets, asteroids, comets and countless smaller fragments.
+
+The Sun dominates completely. It holds about **99.8% of the solar system’s mass**. Everything else, including all the planets, is the leftover crumbs. Of those crumbs, **Jupiter** alone has about two and a half times the mass of all the other planets combined.
+
+The planets fall into three families:
+
+- **Rocky planets** (Mercury, Venus, Earth, Mars): small, dense worlds of rock and metal, close to the Sun.
+- **Gas giants** (Jupiter, Saturn): enormous planets made mostly of hydrogen and helium, with no solid surface to stand on.
+- **Ice giants** (Uranus, Neptune): smaller than the gas giants, made largely of water, ammonia and methane “ices” around a rocky core, beneath thick atmospheres.
+
+=== callout analogy
+Think of the young solar system as a kitchen with an oven in the middle. Near the oven, only things that can survive heat (rock and metal) stay solid; anything icy melts and evaporates. Further away, where it’s cold, ice survives as well, and there was far more ice than rock to build with. That’s the basic reason the inner planets are small and rocky while the outer ones grew huge.
+
+=== text The dividing line: the frost line
+Astronomers call the boundary the **frost line** (or snow line): the distance from the young Sun beyond which water could freeze into solid ice. It lay roughly between where Mars and Jupiter orbit today.
+
+Inside it, planets could only be built from rock and metal, which were relatively scarce, so they stayed small. Outside it, ice was abundant too, so growing planets could become much bigger, fast. Once a young planet reached about ten times Earth’s mass, its gravity was strong enough to grab hydrogen and helium gas directly from the surrounding disc, snowballing into a giant. Jupiter and Saturn managed this before the gas cleared; Uranus and Neptune, further out where material was sparser, grabbed less.
+
+=== text Quick portraits of the eight planets
+**Mercury:** smallest planet, closest to the Sun. Almost no atmosphere, so temperatures swing from about 430 °C in the day to −180 °C at night.
+
+**Venus:** nearly Earth’s size, but wrapped in a crushing carbon dioxide atmosphere about 90 times thicker than ours. A runaway greenhouse effect makes it the **hottest** planet, around **465 °C**, hotter than Mercury despite being further from the Sun.
+
+**Earth:** the only place known to have liquid water oceans on its surface and life.
+
+**Mars:** a cold desert world with a thin atmosphere, the largest volcano in the solar system (Olympus Mons) and strong evidence of ancient rivers and lakes. India’s Mangalyaan reached Mars orbit in 2014 on its first attempt, at a strikingly low cost.
+
+**Jupiter:** the giant. Its Great Red Spot is a storm wider than Earth that has raged for at least a couple of centuries.
+
+**Saturn:** famous for its rings, which are made of countless pieces of ice and rock, from dust grains to house-sized chunks, yet are mostly only tens of metres thick.
+
+**Uranus:** tipped over on its side, probably by an ancient collision, so it rolls around the Sun.
+
+**Neptune:** the windiest planet, with winds over 2,000 km/h. It was found in 1846 by mathematics: astronomers predicted its position from wobbles in Uranus’s orbit before anyone saw it.
+
+=== steps Beyond the planets
+- Between Mars and Jupiter lies the **asteroid belt**: millions of rocky bodies. Despite films, it’s mostly empty space; spacecraft fly through without dodging anything.
+- Beyond Neptune is the **Kuiper Belt**, a broad ring of icy bodies, including **Pluto**.
+- In **2006**, the International Astronomical Union reclassified Pluto as a **dwarf planet**: big enough to be round, but not dominant enough to clear its orbit of other objects. Many similar icy worlds had been found out there, and calling them all planets would have made the list very long.
+- Far beyond, perhaps extending a light-year or more, scientists think there is a vast sphere of icy bodies called the **Oort Cloud**, the source of long-period comets. It has never been directly observed; its existence is inferred from comet orbits.
+
+=== callout note | How long does light take?
+Sunlight takes about **8 minutes 20 seconds** to reach Earth, so you always see the Sun as it was slightly in the past. Light from Neptune takes about **4 hours**. NASA’s **Voyager 1**, launched in 1977 and now the most distant human-made object, is so far away that its radio signals take **nearly a day** to reach us.
+
+=== reveal If planets formed from a spinning disc, what clue would you expect to see today?
+That they all orbit in roughly the **same direction** and nearly the **same flat plane**, and that’s exactly what we see. All eight planets orbit the Sun in the same direction as the Sun spins, and their orbits are tilted only slightly from one another. That flatness is a fossil of the disc they were born from. Most of the planets also spin in that same direction; Venus and Uranus are the oddballs, probably knocked off course by giant collisions.
+
+=== keypoints
+- The solar system is the Sun plus everything held by its gravity; the Sun has **99.8%** of the mass.
+- Planets come in three families: **rocky** (inner four), **gas giants** (Jupiter, Saturn) and **ice giants** (Uranus, Neptune).
+- The **frost line** explains why: beyond it, ice was available to build bigger planets that could grab gas.
+- **Venus** is the hottest planet because of a runaway greenhouse effect.
+- Pluto has been a **dwarf planet** since **2006**; it sits in the **Kuiper Belt**.
+- The solar system is overwhelmingly **empty space**: on a football-sized-Sun scale, Earth is a peppercorn 25 metres away.
+
+=== why
+Knowing your cosmic neighbourhood puts everyday life in perspective: our entire planet is a peppercorn in a vast, mostly empty space. It also explains why Earth is unusual: at the right distance for liquid water, rocky, with a protective atmosphere. And it sets up the next lessons in this region: how this system formed, and how we are now discovering thousands of planets around other stars.
+
+##### LESSON
+id: space.solar-system.2
+title: Born from Dust, and Worlds Beyond
+minutes: 15
+prereq: space.solar-system.1
+check: In your own words: how did the planets form from a disc of gas and dust, and how do astronomers find planets around other stars that are far too faint to see directly?
+
+=== hook
+For most of history, nobody knew whether other stars had planets at all. Then, in 1995, two Swiss astronomers, **Michel Mayor** and **Didier Queloz**, announced a planet orbiting a Sun-like star called 51 Pegasi. It was bizarre: a gas giant about half Jupiter’s mass, so close to its star that its “year” lasts just over **four days**.
+
+Theories of planet formation said giant planets should form far out, like Jupiter. Here was one practically scorching its star. That single discovery forced astronomers to rethink how solar systems are built, and opened a field that has since found **thousands** of planets. Mayor and Queloz shared the 2019 Nobel Prize in Physics.
+
+=== core
+The leading explanation for how our solar system formed is the **nebular hypothesis**, first sketched in the 1700s by Immanuel Kant and Pierre-Simon Laplace and now backed by direct observations of young stars.
+
+About **4.6 billion years ago**, part of a giant cloud of gas and dust began to collapse, possibly nudged by a shock wave from a nearby supernova. As it collapsed, it spun faster (just as a spinning ice skater speeds up by pulling in their arms) and flattened into a rotating disc. Most material fell to the centre and became the **Sun**. The rest, a thin **protoplanetary disc**, became everything else.
+
+Telescopes such as the ALMA observatory in Chile have now photographed discs like this around young stars, complete with dark gaps where planets appear to be forming. We are, in effect, watching other solar systems being born.
+
+=== steps From dust to planets
+- **Dust sticks together.** Microscopic grains collide gently and cling, building fluffy clumps, then pebbles.
+- **Pebbles become planetesimals.** Somehow, pebbles assemble into bodies kilometres across. How exactly this step happens is still being researched; one popular idea is that turbulence in the disc concentrates pebbles until gravity pulls them together.
+- **Planetesimals grow into protoplanets.** Once bodies are big enough, their gravity pulls in more material. The biggest grow fastest, a runaway process.
+- **Giants grab gas.** Beyond the frost line, cores of about ten Earth masses pull in huge envelopes of hydrogen and helium: the gas giants.
+- **The disc clears.** Within a few million years, the young Sun’s radiation and wind blow away the remaining gas. Gas giants must have formed before this deadline.
+- **Giant impacts.** For tens of millions of years, protoplanets in the inner system crash into each other, merging into the four rocky planets.
+
+=== text The violent birth of the Moon
+One of those giant impacts likely made our Moon. The most widely accepted explanation is that, around **4.5 billion years ago**, a Mars-sized body (sometimes called **Theia**) struck the young Earth. Debris from both was flung into orbit and gathered to form the Moon.
+
+Evidence for this includes the Moon’s small iron core and the striking similarity between Moon rocks brought back by the Apollo missions and rocks from Earth’s mantle. The details are still debated, especially why Earth and Moon rocks are *so* similar, but the general picture of a giant collision is the leading theory.
+
+=== callout open-question | Did Jupiter wander?
+Computer models suggest the giant planets didn’t stay where they formed. One idea, called the **Grand Tack**, proposes that Jupiter drifted inward towards the Sun, then was pulled back out by Saturn, scattering material as it went. This might explain why Mars is so small and why the asteroid belt is a mix of rocky and icy bodies. It’s a hypothesis, not settled fact, but planetary migration in general is now widely accepted, partly because of what we see around other stars.
+
+=== text How to find a planet you can’t see
+Planets around other stars, called **exoplanets**, are tiny, dim and lost in the glare of their stars. Imagine trying to spot a firefly next to a stadium floodlight from thousands of kilometres away. So astronomers mostly detect them indirectly.
+
+**The wobble method (radial velocity).** A planet and its star both orbit their shared centre of mass, so the star wobbles slightly. As it moves towards us, its light is squeezed to slightly bluer wavelengths; as it moves away, slightly redder. Measuring these tiny shifts reveals the planet and gives its minimum mass. This is how 51 Pegasi b was found.
+
+**The transit method.** If a planet’s orbit is lined up just right, it passes in front of its star once per orbit, dimming the starlight by a tiny fraction. Jupiter crossing the Sun would dim it by about 1%; Earth by about **0.01%**. NASA’s Kepler space telescope (2009–2018) stared at about 150,000 stars, watching for these dips, and found thousands of planets. The amount of dimming reveals the planet’s size.
+
+Combine both methods and you get mass and size, and therefore **density**, which tells you whether a planet is rocky, watery or gassy.
+
+=== callout example | Seven Earth-sized worlds
+In 2017, astronomers announced that a small, cool star called **TRAPPIST-1**, about 40 light-years away, has **seven** roughly Earth-sized planets, several of them in the zone where liquid water could exist. The James Webb Space Telescope is now studying whether any of them have atmospheres. Early results suggest the innermost ones may not, which is a reminder that “Earth-sized” is not the same as “Earth-like”.
+
+=== reveal Astronomers have now confirmed more than 5,000 exoplanets. What is the most common type, and do we have one?
+The most common types found so far are planets **between Earth and Neptune in size**, often called **super-Earths** and **mini-Neptunes**. Our own solar system has **none** of them, which is one of the surprises of exoplanet science. Hot Jupiters, like 51 Pegasi b, turned out to be relatively rare, but they were found first because they are the easiest to detect: big planets close to their stars produce large wobbles and frequent transits. This is a classic example of **selection bias**: what you find depends partly on what your methods are good at finding.
+
+=== text Is anyone out there?
+Astronomers talk about a star’s **habitable zone**: the range of distances where a planet could have liquid water on its surface. Studies of Kepler data suggest that a meaningful fraction of Sun-like stars could have roughly Earth-sized planets in that zone, which in our galaxy could mean **billions** of candidates, although estimates vary widely.
+
+But being in the habitable zone doesn’t make a planet habitable. It also needs the right atmosphere, chemistry and stability. The next big goal is to analyse exoplanet atmospheres for gases that life might produce. No convincing evidence of life beyond Earth has been found so far. The question is open, and for the first time in history, we are building instruments that could genuinely help answer it.
+
+=== keypoints
+- The **nebular hypothesis**: the solar system formed **4.6 billion years ago** from a collapsing, spinning cloud that flattened into a disc.
+- Dust grew into pebbles, **planetesimals**, protoplanets and planets; gas giants formed before the gas cleared.
+- The **Moon** most likely formed from a giant impact on the young Earth.
+- Planets probably **migrated** after forming; the Grand Tack is one hypothesis.
+- **Exoplanets** are found mainly by the **wobble** (radial velocity) and **transit** methods.
+- The first planet around a Sun-like star was found in **1995**; there are now **more than 5,000**.
+- **Super-Earths** and **mini-Neptunes** are common elsewhere but absent from our solar system.
+
+=== why
+For thousands of years, people wondered whether other worlds exist. Your generation is the first to know that planets are common: there are probably more planets in our galaxy than stars. This changes how we think about our place in the universe, and turns the ancient question “Are we alone?” into a scientific project. It also shows how science advances: a single surprising discovery overturned confident theories and led to better ones.
+
+##### LESSON
+id: space.gravity-orbits.1
+title: Falling Around the World
+minutes: 13
+check: In your own words: what is an orbit, and why do astronauts on the International Space Station float even though Earth’s gravity is still pulling on them strongly?
+
+=== hook
+Astronauts on the International Space Station float around, so it’s natural to assume there’s no gravity up there. But the station orbits only about **400 kilometres** above the ground, roughly the distance from Delhi to Jaipur, or from London to Paris. At that height, Earth’s gravity is still about **90%** as strong as on the surface.
+
+So why do astronauts float? The answer is surprising: they aren’t escaping gravity at all. They are falling, constantly, and missing the ground. Understanding that idea unlocks how the Moon, satellites, planets and even galaxies move.
+
+=== core
+Isaac Newton realised that the force making an apple fall from a tree is the **same force** that keeps the Moon circling Earth: **gravity**. Every mass attracts every other mass. The pull is stronger for bigger masses and weaker for greater distances.
+
+Specifically, gravity follows an **inverse square law**: double the distance between two objects and the pull becomes four times weaker; triple it and it becomes nine times weaker.
+
+An **orbit** is what happens when something moves sideways fast enough that, as it falls, the ground curves away beneath it just as fast. It keeps falling **towards** Earth but never **reaches** it. An orbit is a never-ending fall.
+
+=== text Newton’s cannon
+Newton explained this with a thought experiment, published in his writings in the 1680s. Imagine a cannon on top of an impossibly tall mountain, above the air, firing horizontally:
+
+- Fire slowly and the ball curves down and hits the ground nearby.
+- Fire faster and it lands further away.
+- Fire fast enough and the ball falls just as quickly as Earth’s curved surface drops away beneath it. It never lands. It circles the planet and comes back to the mountain from behind. That’s an orbit.
+- Fire faster still and the orbit stretches into an oval (an ellipse). Fast enough, and the ball escapes Earth entirely.
+
+For a low orbit just above the atmosphere, that magic speed is about **7.8 kilometres per second**, around **28,000 km/h**. That’s how fast the ISS travels, circling the whole planet roughly every **90 minutes**, so astronauts see about sixteen sunrises a day.
+
+=== diagram A circle representing Earth with a mountain on top. Several curved paths start at the mountain: short ones hitting the ground nearby, a longer one landing far away, and one that circles all the way around the planet. | Newton’s cannon: fire fast enough and the ball falls all the way around the Earth.
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<circle cx="160" cy="125" r="70" style="fill:none;stroke:currentColor;stroke-width:2"/>
+<path d="M156 55 L160 42 L164 55" style="fill:none;stroke:currentColor;stroke-width:2"/>
+<path d="M162 42 C185 42 200 52 205 70" style="fill:none;stroke:var(--text-3);stroke-width:1.5;stroke-dasharray:4 3"/>
+<path d="M162 42 C210 40 236 75 228 110" style="fill:none;stroke:var(--text-3);stroke-width:1.5;stroke-dasharray:4 3"/>
+<circle cx="160" cy="125" r="83" style="fill:none;stroke:var(--accent);stroke-width:2"/>
+<g style="font:500 9px var(--font-ui);fill:var(--text-2)"><text x="210" y="62">too slow</text><text x="236" y="114">faster</text><text x="246" y="190" style="fill:var(--accent)">orbit</text><text x="160" y="130" text-anchor="middle">Earth</text></g>
+</svg>
+
+=== callout analogy
+Imagine swinging a ball on a string around your head. The string constantly pulls the ball **inward**, but because the ball is moving sideways, it goes round in a circle instead of flying into your hand. In an orbit, gravity plays the role of the string. Cut the string (switch off gravity) and the ball would fly off in a straight line, exactly as Newton’s first law predicts.
+
+=== text Why astronauts float
+On Earth, you feel your weight because the floor pushes up on you, stopping you from falling. In the ISS, the astronauts, the station and everything inside it are all falling **together**, at the same rate. Nothing pushes against anything else, so they feel weightless.
+
+You can experience a tiny taste of this in a lift that suddenly drops, or at the top of a rollercoaster hill, when your stomach seems to float. Astronauts experience that sensation continuously. Scientists prefer the term **microgravity** or **free fall** rather than “zero gravity”, because gravity is very much present.
+
+=== steps Newton checks his idea with the Moon
+- The Moon is about **60 times** further from Earth’s centre than you are (about 384,000 km versus about 6,400 km).
+- By the inverse square law, Earth’s gravity at the Moon should be 60 × 60 = **3,600 times weaker** than at the surface.
+- At the surface, a dropped object falls about **4.9 metres** in its first second.
+- So in one second, the Moon should fall towards Earth by 4.9 ÷ 3,600 metres, about **1.4 millimetres**, compared with the straight line it would otherwise follow.
+- Measuring the Moon’s actual curved path gives just about that figure. The same law explains the apple and the Moon. This was one of the great moments in science: the heavens and the Earth follow the same rules.
+
+=== text Choosing an orbit
+Different jobs need different orbits:
+
+- **Low Earth orbit** (a few hundred to about 2,000 km up): the ISS, Earth-imaging satellites and large internet satellite networks. Close and fast.
+- **Geostationary orbit**, about **35,786 km** above the equator: here an orbit takes exactly one day, matching Earth’s spin, so a satellite appears to hang still over one spot. Ideal for weather and TV satellites, including India’s INSAT and GSAT series. The idea was popularised in 1945 by science-fiction writer **Arthur C. Clarke**.
+- **Navigation orbits**, around 20,000 km up: GPS and similar systems (Europe’s Galileo, India’s NavIC, China’s BeiDou) use fleets of satellites whose timed signals let your phone work out where it is.
+
+=== reveal To escape Earth completely, a rocket needs about 11.2 km/s. Why do rockets launch eastward and from near the equator when possible?
+Because **Earth is already spinning eastward**, carrying everything on it along. At the equator, the ground moves at about **465 metres per second**. Launching east adds that speed for free, saving fuel. That’s one reason ISRO launches from Sriharikota on India’s southeast coast, NASA from Florida and the European Space Agency from French Guiana, close to the equator. Launching over the sea to the east also means spent rocket stages fall into water rather than onto towns.
+
+=== keypoints
+- **Gravity** attracts all masses; it follows an **inverse square law** with distance.
+- An **orbit** is a continuous fall combined with fast sideways motion: the ground curves away as fast as you fall.
+- Low orbit needs about **7.8 km/s**; the ISS circles Earth about every **90 minutes**.
+- Astronauts float because they are in **free fall** with their spacecraft, not because gravity is absent.
+- Newton showed the **same gravity** explains a falling apple and the Moon’s orbit.
+- **Geostationary** satellites orbit once a day, appearing fixed over one point.
+
+=== why
+Satellites quietly run modern life: weather forecasts, maps on your phone, banking timestamps, television and internet links. Every one of them relies on the idea of falling around the world. Understanding orbits also prepares you for the next lesson, where gravity’s story deepens, from Kepler’s planetary laws to Einstein’s idea that gravity is the curving of space and time itself.

@@ -1,0 +1,86 @@
+{
+  "id": "space.gravity-orbits.2",
+  "region": "space",
+  "topic": "gravity-orbits",
+  "level": 2,
+  "prerequisites": [
+    "space.gravity-orbits.1"
+  ],
+  "title": "From Kepler’s Ellipses to Einstein’s Curved Space",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Your phone’s map knows where you are to within a few metres. To do that, it compares timing signals from satellites about 20,000 kilometres overhead. But those satellite clocks tick slightly **faster** than clocks on the ground, by about **38 microseconds a day**.\n\nThat sounds trivial. Yet if engineers ignored it, GPS positions would drift by roughly **10 kilometres every day**. The reason the clocks disagree is that gravity doesn’t just pull on things; it actually changes the flow of time. That idea comes from Albert Einstein, and it rests on a story that begins with a stubborn German astronomer and a planet that wouldn’t behave."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the early 1600s, **Johannes Kepler** inherited the most precise naked-eye observations of the planets ever made, collected by the Danish astronomer **Tycho Brahe**. Kepler spent years trying to fit Mars’s motion to perfect circles, the shape everyone since ancient Greece had assumed. It never quite worked. The errors were small, but Kepler trusted Tycho’s data more than tradition.\n\nEventually he found three rules that fit perfectly, published in 1609 and 1619:\n\n1. **Planets move in ellipses** (stretched circles), with the Sun at one focus, not the centre.\n2. **A planet sweeps out equal areas in equal times.** It moves faster when close to the Sun and slower when far away.\n3. **The further out a planet orbits, the longer its year**, in a precise mathematical relationship: the square of the orbital period is proportional to the cube of the average distance.\n\nKepler described *how* planets move, but not *why*. About seventy years later, Newton showed that all three laws follow naturally from his law of gravity. Kepler’s rules became consequences of a deeper principle."
+    },
+    {
+      "type": "steps",
+      "title": "Kepler’s third law in action",
+      "items": [
+        "Earth orbits at **1 astronomical unit** (AU, the Earth–Sun distance) and takes **1 year**.",
+        "Jupiter orbits at about **5.2 AU**. Cube that: 5.2 × 5.2 × 5.2 ≈ **141**.",
+        "The third law says the period squared equals this number (in these units), so the period is the square root of 141, about **11.9 years**.",
+        "Jupiter’s actual year is **11.86 Earth years**. A rule found from Mars’s motion predicts Jupiter almost exactly.",
+        "The same law, generalised by Newton, lets astronomers weigh things they can never visit: measure how fast something orbits and how far out, and you can calculate the mass it’s orbiting, from planets to the black hole at the centre of our galaxy."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Newton’s triumph, and its tiny crack",
+      "md": "For two centuries, Newton’s gravity looked perfect. In 1846, astronomers even used it to predict where an unseen planet must be, based on small disturbances in Uranus’s orbit. They looked, and found **Neptune**.\n\nBut one planet refused to cooperate. **Mercury**’s elliptical orbit slowly rotates around the Sun, so its closest point shifts a little each orbit. Most of that shift is caused by the pull of other planets, which Newton’s laws explain. But a tiny leftover, about **43 arcseconds per century** (roughly the width of a coin seen from a hundred metres away), could not be explained. Astronomers even searched for a hidden planet, nicknamed **Vulcan**, inside Mercury’s orbit. It doesn’t exist."
+    },
+    {
+      "type": "text",
+      "heading": "Einstein’s new picture",
+      "md": "In **1915**, Albert Einstein published his **general theory of relativity**. In it, gravity is not a force pulling across empty space. Instead:\n\n- **Mass and energy curve space and time** (together called **spacetime**).\n- **Objects move along the straightest possible paths through that curved spacetime.** Those paths look to us like orbits and falls.\n\nIn the physicist John Wheeler’s famous summary: *spacetime tells matter how to move; matter tells spacetime how to curve.*\n\nEinstein calculated what his theory predicted for Mercury, and got exactly the missing **43 arcseconds per century**. He later wrote that he was beside himself with excitement for days."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Picture a stretched trampoline. Place a heavy bowling ball in the middle and the surface dips. Roll a marble across, and it curves around the dip, maybe circling it several times. The marble isn’t being pulled by a hidden string; it’s following the shape of the surface. That’s the core idea of general relativity, with one caution: the real thing involves curved **time** as well as space, which no trampoline can show."
+    },
+    {
+      "type": "text",
+      "heading": "Testing the theory",
+      "md": "**Starlight bends.** Relativity predicted that the Sun’s gravity should bend light from distant stars passing near it, by twice the amount a Newtonian calculation gives. In **1919**, during a total solar eclipse, expeditions led by **Arthur Eddington** photographed stars near the darkened Sun and found them shifted by roughly the predicted amount. Newspapers around the world announced that Newton had been overthrown, and Einstein became a global celebrity overnight.\n\n**Clocks run slower in stronger gravity.** This has been measured with atomic clocks on aircraft, on mountains, and even in labs, where a clock raised by about **30 centimetres** ticks measurably faster. GPS satellites must correct for both this effect and a smaller one from their speed, which is the 38 microseconds from the start of this lesson.\n\n**Gravitational waves.** Einstein predicted that accelerating masses send ripples through spacetime. In **2015**, the LIGO detectors in the United States caught one, from two black holes colliding about **1.3 billion light-years** away. The ripple stretched and squeezed the detectors’ four-kilometre arms by less than a thousandth of the width of a proton. The discovery won the 2017 Nobel Prize in Physics."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "So was Newton wrong?",
+      "md": "Not exactly. Newton’s gravity is an extremely accurate **approximation** of Einstein’s when gravity is weak and speeds are low, which covers nearly everything in daily life and most spaceflight. NASA still uses Newtonian calculations for most missions. Relativity matters near very massive objects, at very high speeds, or when extreme precision is needed. Good scientific theories are rarely thrown away; they’re shown to be special cases of something broader."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why are there two high tides a day, when the Moon is only overhead once?",
+      "md": "Because tides come from the **difference** in the Moon’s pull across Earth, not just the pull itself. The side of Earth facing the Moon is pulled slightly more strongly than Earth’s centre, so water bulges towards the Moon. The far side is pulled slightly **less** than the centre, so, relative to the centre, water there is “left behind”, forming a second bulge. Earth rotates through both bulges each day, giving two high tides. The Sun has a similar but smaller effect; when Sun and Moon line up, we get extra-large **spring tides**. Tidal friction is also very slowly pushing the Moon away from Earth, by about **3.8 centimetres a year**, measured by bouncing lasers off mirrors left by Apollo astronauts."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Kepler’s laws** (1609, 1619): orbits are **ellipses**, planets sweep **equal areas in equal times**, and period² ∝ distance³.",
+        "**Newton** explained Kepler’s laws with universal gravity, and used it to predict **Neptune**.",
+        "Mercury’s orbit shifted by an unexplained **43 arcseconds per century**.",
+        "**Einstein’s general relativity (1915)**: mass curves **spacetime**, and objects follow its curves.",
+        "Confirmed by Mercury’s orbit, **bending starlight (1919)**, **gravitational time dilation** and **gravitational waves (2015)**.",
+        "**GPS** must correct for relativity, or positions would drift by about **10 km a day**.",
+        "Newton’s gravity remains an excellent **approximation** in everyday conditions."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "This story shows science at its best: tiny anomalies taken seriously, bold new ideas, and precise tests that could have proven them wrong. It also shows that our most abstract theories have practical payoffs: without relativity, the navigation on your phone would fail within hours. And curved spacetime is the key to the strangest objects in this region: black holes and the expanding universe itself."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what did Einstein change about our understanding of gravity, and what is one piece of evidence that his picture is better than Newton’s?"
+  }
+}
