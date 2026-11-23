@@ -1,0 +1,74 @@
+{
+  "id": "math.numbers.1",
+  "region": "math",
+  "topic": "numbers",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Invention of Nothing",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Try multiplying **CCCXLVII** by **XXIX** in your head. Hard? Now try 347 × 29. Still effort, but at least you know how to begin.\n\nThose are the same numbers. The difference is not the quantities but the **system for writing them**. The system you use every day, with ten digits and a symbol for nothing, is one of humanity’s greatest inventions, and it took thousands of years and several civilisations to build."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The earliest way to record numbers was simple tallying: one mark per thing. Notched bones tens of thousands of years old may be early tally records, though what exactly they were used for is debated. Tallies work for small amounts but become hopeless for large ones. Writing a thousand marks is slow, and reading them is worse.\n\nLater systems grouped things. **Roman numerals** use letters for set values: I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1,000. They are fine for labels and dates, but awkward for calculation, because the symbols don’t line up in a way that makes arithmetic easy.\n\nThe breakthrough was **place value**: a digit’s value depends on **where** it sits. In 347, the 3 means three hundreds, the 4 means four tens and the 7 means seven ones. Just ten symbols can then write any number at all."
+    },
+    {
+      "type": "steps",
+      "title": "What 4,072 really says",
+      "items": [
+        "Read from the right. Each place is worth **ten times** the place to its right: ones, tens, hundreds, thousands…",
+        "The **2** is in the ones place: 2 × 1 = **2**.",
+        "The **7** is in the tens place: 7 × 10 = **70**.",
+        "The **0** is in the hundreds place: **no hundreds**. Without that 0, the number would read 472, a completely different number.",
+        "The **4** is in the thousands place: 4 × 1,000 = **4,000**.",
+        "Total: 4,000 + 0 + 70 + 2 = **4,072**. The zero is doing essential work: holding a place open so every other digit means the right thing."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Zero: from empty space to a real number",
+      "md": "Place value needs a way to mark an empty position. The ancient Babylonians, who counted in base 60, eventually used a placeholder symbol, but they didn’t treat it as a number in its own right.\n\nThe decisive step happened in **India**. Indian mathematicians developed a decimal place-value system with nine digits plus a symbol for zero. In **628 CE**, the mathematician **Brahmagupta** wrote down rules for calculating **with** zero as a number: for example, that a number plus zero stays the same, and a number minus itself equals zero. Zero went from an empty gap to a quantity you could add, subtract and multiply.\n\nThe system spread to the Islamic world, where scholars such as **al-Khwarizmi** wrote about it in the 800s. From there it reached Europe, helped by the Italian mathematician **Fibonacci**’s book of 1202. Europeans called the digits “Arabic numerals”, which is why we still use that name, though historians usually call the system **Hindu-Arabic numerals**."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of place value as a row of labelled boxes: thousands, hundreds, tens, ones. Each box holds a single digit. Zero is the sign that says “this box is empty”, and without it the boxes would collapse together and the meaning would be lost."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "Base 60 still lives on your wrist",
+      "md": "Babylonian counting in sixties survives today: **60 seconds** in a minute, **60 minutes** in an hour, and **360 degrees** in a circle. Sixty is convenient because it divides evenly by 2, 3, 4, 5, 6, 10, 12, 15, 20 and 30, so it splits neatly into many fractions."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why is dividing by zero not allowed?",
+      "md": "Division asks: “What number, multiplied by this, gives that?” So 12 ÷ 3 = 4 because 4 × 3 = 12. Now try 12 ÷ 0. You’d need a number that, multiplied by 0, gives 12. But **anything times 0 is 0**, so no such number exists. And 0 ÷ 0 has the opposite problem: **every** number works, so there’s no single answer. Rather than break the rules of arithmetic, mathematicians leave division by zero **undefined**. Even Brahmagupta struggled with this question."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Number systems are **inventions**; the way we write numbers affects how easily we can calculate.",
+        "**Roman numerals** lack place value, making arithmetic awkward.",
+        "**Place value** means a digit’s value depends on its position, so ten symbols can write any number.",
+        "**Zero** holds empty places and, from **Brahmagupta (628 CE)** in India, became a number with its own rules.",
+        "The system travelled from India through the Islamic world to Europe: **Hindu-Arabic numerals**.",
+        "**Base 60** from Babylon survives in minutes, seconds and degrees."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every calculation you’ve ever done, every price, phone number and computer program, rests on place value and zero. Without them, science, finance and engineering as we know them would have been painfully slow to develop. It’s also a reminder that mathematics is a human achievement, built by many cultures over many centuries. In the rest of this region, you’ll use these same tools to understand exponential growth, probability and proof."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is place value, and why was zero such an important invention?"
+  }
+}

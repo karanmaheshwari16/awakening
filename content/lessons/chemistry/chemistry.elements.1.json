@@ -1,0 +1,74 @@
+{
+  "id": "chemistry.elements.1",
+  "region": "chemistry",
+  "topic": "elements",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Universe’s Ingredient List",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Everything you have ever touched, eaten, breathed or seen (your phone, the ocean, your own body, distant stars) is made from a surprisingly short list of ingredients. Fewer than a hundred of them occur naturally on Earth in any real amount.\n\nIn 1869, a Russian chemist arranged the known ingredients into a table and noticed gaps. He predicted that missing ingredients would be found to fill them, and even described what they would be like. He was right. That table is the periodic table, and it is one of science’s great maps."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "An **element** is a substance made of only one kind of atom. Gold, oxygen, carbon and iron are elements. Water isn’t: it’s a **compound**, made of hydrogen and oxygen atoms bonded together.\n\nWhat makes one element different from another? Every atom has a tiny, dense centre called the **nucleus**, containing particles called **protons**. The number of protons decides which element an atom is. This is its **atomic number**:\n\n- 1 proton: **hydrogen**\n- 6 protons: **carbon**\n- 8 protons: **oxygen**\n- 79 protons: **gold**\n\nChange the number of protons and you change the element. Today scientists recognise **118 elements**. Around 90 are found in nature; the rest have been created in laboratories, often lasting only fractions of a second."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of elements as the letters of an alphabet, and compounds as words. With just 26 letters, English builds hundreds of thousands of words. With fewer than a hundred natural elements, nature builds millions of different substances, from salt and sugar to DNA and diamonds."
+    },
+    {
+      "type": "text",
+      "heading": "Mendeleev’s brilliant gaps",
+      "md": "By the 1860s, chemists knew about 60 elements but had no clear way to organise them. **Dmitri Mendeleev** listed them in order of atomic weight and noticed that their properties **repeated** in a regular pattern. He arranged them in rows so that elements with similar behaviour lined up in columns.\n\nWhat made his table remarkable was his boldness. Where the pattern didn’t fit, he left **gaps**, predicting that undiscovered elements belonged there. For one gap, he predicted an element with a particular weight, density and behaviour. In 1875, **gallium** was discovered, and it closely matched his description. **Germanium**, found in 1886, matched another prediction. A good scientific idea doesn’t just organise what we know; it predicts what we don’t yet know."
+    },
+    {
+      "type": "steps",
+      "title": "How to read the periodic table",
+      "items": [
+        "Elements are arranged in order of **atomic number**, left to right, row by row, from hydrogen (1) onwards.",
+        "Each **row** is called a **period**. Moving along a row, properties change gradually, from reactive metals on the left towards non-metals on the right.",
+        "Each **column** is called a **group**. Elements in the same group behave in similar ways, like members of a family.",
+        "Example: the far-left group, the **alkali metals** (lithium, sodium, potassium…), are soft metals that react strongly with water, and more violently further down the column.",
+        "The far-right group, the **noble gases** (helium, neon, argon…), barely react with anything. That’s why helium is safe in party balloons and neon glows steadily in signs.",
+        "Most elements are **metals**, found on the left and in the middle. Non-metals like carbon, nitrogen and oxygen cluster in the top right."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "What are you made of?",
+      "md": "By mass, a human body is roughly **65% oxygen**, **18% carbon**, **10% hydrogen** and **3% nitrogen**, with calcium, phosphorus and small amounts of many others making up the rest. Most of that oxygen and hydrogen is in the form of water."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Where did all these elements come from in the first place?",
+      "md": "The lightest elements, **hydrogen and helium** (and a little lithium), formed in the first few minutes after the Big Bang. Nearly all the heavier ones were made later, **inside stars**. Stars fuse light nuclei into heavier ones, building carbon, oxygen and on up to iron. Even heavier elements, like gold, were forged in the most violent events in the universe, such as colliding neutron stars and some exploding stars, then scattered across space. The calcium in your bones and the iron in your blood were made in stars that died before the Sun was born."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "An **element** contains only one kind of atom; a **compound** combines different elements.",
+        "The **number of protons** (atomic number) defines each element.",
+        "There are **118** known elements, about **90** occurring naturally.",
+        "**Mendeleev** (1869) organised elements by repeating properties and correctly predicted missing ones, like **gallium**.",
+        "**Rows** are periods; **columns** are groups of elements with similar behaviour.",
+        "Light elements formed in the **Big Bang**; heavier ones were made **in stars**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The periodic table is the foundation of chemistry, and chemistry is behind medicines, materials, batteries, food and the air you breathe. Knowing that everything is built from a limited set of elements makes the material world understandable rather than bewildering. It also links to the Space region: the elements in your body tell the story of the stars. Next in this region, you’ll see how elements join together through chemical bonds."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what makes one element different from another, and why was Mendeleev’s periodic table such a powerful idea?"
+  }
+}

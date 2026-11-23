@@ -1,0 +1,78 @@
+{
+  "id": "earth.plates.1",
+  "region": "earth",
+  "topic": "plates",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Ground Beneath You Is Moving",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Look at a world map and you may notice something odd: the east coast of South America and the west coast of Africa look as if they could fit together like jigsaw pieces. Many people noticed it over the centuries, but most assumed it was coincidence.\n\nIt wasn’t. Those continents really were joined, and they are still moving apart today, by a few centimetres every year. The ground you’re standing on is riding on a slowly drifting slab of rock."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Earth’s outer shell isn’t a single solid piece. It’s broken into about a dozen large **tectonic plates** and many smaller ones, fitting together like the cracked shell of a boiled egg. These plates, made of the crust and the rigid top of the mantle, float on hotter, softer rock beneath that flows extremely slowly.\n\nHeat from deep inside the Earth keeps this rock moving, and the plates move with it, typically **2 to 10 centimetres a year**, roughly the speed your fingernails grow. That sounds like nothing, but over millions of years it rearranges entire oceans and continents.\n\nThis idea is called **plate tectonics**, and it explains earthquakes, volcanoes, mountain ranges and the shapes of the continents."
+    },
+    {
+      "type": "text",
+      "heading": "From ridiculed idea to accepted science",
+      "md": "In 1912, the German scientist **Alfred Wegener** proposed that the continents had once formed a single supercontinent, later named **Pangaea**, which broke apart. His evidence was strong: matching coastlines, identical fossils on continents now separated by oceans, and matching rock layers in Africa and South America.\n\nBut most geologists rejected the idea, largely because Wegener couldn’t explain **what force** could move entire continents. He died in 1930, his theory still widely dismissed.\n\nThe answer came from the ocean floor. In the 1950s and 1960s, mapping revealed long underwater mountain ranges where new crust is constantly being formed, and stripes of magnetic patterns in the rock on either side, like a barcode recording the seafloor spreading apart. By the late 1960s, plate tectonics had become the foundation of modern geology."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the plates as rafts on a very slow-moving, very thick soup. Where rafts drift apart, the soup wells up between them. Where they collide, one may slide under the other or both may crumple. Where they scrape sideways past each other, they jerk and judder."
+    },
+    {
+      "type": "steps",
+      "title": "The three ways plates meet",
+      "items": [
+        "**Moving apart (divergent):** molten rock rises to fill the gap, creating new crust. The Mid-Atlantic Ridge runs through **Iceland**, where you can stand in a valley between two plates that are pulling away from each other.",
+        "**Colliding (convergent):** when an ocean plate meets a continental plate, the denser ocean plate sinks beneath it. This creates deep trenches, powerful earthquakes and volcanoes, as along the coasts of **Japan** and **Chile**.",
+        "When two continents collide, neither sinks easily, so the crust crumples upwards into mountains. The **Himalayas** formed this way when the Indian plate collided with Asia, beginning roughly **50 million years ago**. India is still pushing north, and the mountains are still rising, by a few millimetres a year.",
+        "**Sliding past (transform):** plates grind sideways against each other. They tend to lock, build up strain, then slip suddenly, causing earthquakes. California’s **San Andreas Fault** is the famous example."
+      ]
+    },
+    {
+      "type": "diagram",
+      "alt": "Three small diagrams side by side. The first shows two blocks moving apart with molten rock rising between them. The second shows two blocks colliding, with one sliding beneath the other. The third shows two blocks sliding past each other sideways.",
+      "caption": "Apart, together, and sideways: the three kinds of plate boundary.",
+      "svg": "<svg viewBox=\"0 0 330 140\" xmlns=\"http://www.w3.org/2000/svg\"><g style=\"fill:none;stroke:currentColor;stroke-width:1.6\"><rect x=\"10\" y=\"50\" width=\"40\" height=\"22\"/><rect x=\"62\" y=\"50\" width=\"40\" height=\"22\"/><path d=\"M120 50 h45 v22 h-45z\"/><path d=\"M170 56 h45 v22 h-45z\" transform=\"rotate(12 170 56)\"/><rect x=\"240\" y=\"38\" width=\"75\" height=\"20\"/><rect x=\"240\" y=\"62\" width=\"75\" height=\"20\"/></g><path d=\"M56 90 V64\" style=\"stroke:var(--accent);stroke-width:2.5\"/><g style=\"stroke:var(--accent);stroke-width:1.6;fill:none\"><path d=\"M22 40 h-12 m4 -4 l-4 4 4 4\"/><path d=\"M90 40 h12 m-4 -4 l4 4 -4 4\"/><path d=\"M130 40 h14 m-4 -4 l4 4 -4 4\"/><path d=\"M205 40 h-14 m4 -4 l-4 4 4 4\"/><path d=\"M262 30 h-16 m4 -4 l-4 4 4 4\"/><path d=\"M292 92 h16 m-4 -4 l4 4 -4 4\"/></g><g style=\"font:500 9px var(--font-ui);fill:var(--text-2)\" text-anchor=\"middle\"><text x=\"56\" y=\"118\">apart</text><text x=\"166\" y=\"118\">together</text><text x=\"277\" y=\"118\">sideways</text></g></svg>"
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "How do we know they move?",
+      "md": "Today we don’t have to infer it from fossils and rocks alone. Satellite positioning stations, using the same GPS technology as your phone but far more precise, are fixed to the ground around the world. They show the plates moving year after year. They confirm, for example, that the Atlantic Ocean is widening by a few centimetres a year, and that India continues to push northwards into Asia."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If continents keep moving, what did the map look like in the past, and what will it look like in the future?",
+      "md": "Around **300 million years ago**, nearly all the land formed the supercontinent **Pangaea**, which began breaking apart about **200 million years ago**, opening up the Atlantic Ocean. Before Pangaea, there were earlier supercontinents. Geologists can project current movements forward too: in perhaps 200–250 million years, the continents may gather into a new supercontinent. The exact shape is uncertain, but the map we know is just a single frame in a very long film."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Earth’s outer shell is broken into **tectonic plates** that move about **2–10 cm a year**.",
+        "**Alfred Wegener** proposed continental drift in **1912**; it was accepted only after seafloor evidence in the **1950s–60s**.",
+        "**Divergent** boundaries pull apart and make new crust (Iceland).",
+        "**Convergent** boundaries collide: ocean plates sink (Japan), continents crumple into mountains (the **Himalayas**).",
+        "**Transform** boundaries slide past each other, causing earthquakes (San Andreas).",
+        "The continents once formed **Pangaea** and will keep rearranging."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Plate tectonics explains why some places face earthquakes, tsunamis and volcanoes while others rarely do, knowledge that shapes building codes and disaster planning for hundreds of millions of people. It also connects to the rest of this region: moving plates shape mountains, ocean currents and long-term climate. And Wegener’s story is a reminder that a correct idea can be rejected for decades until the evidence catches up."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are tectonic plates, and how did the movement of plates create the Himalayas?"
+  }
+}

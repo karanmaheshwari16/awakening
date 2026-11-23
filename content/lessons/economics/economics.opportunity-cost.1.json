@@ -1,0 +1,73 @@
+{
+  "id": "economics.opportunity-cost.1",
+  "region": "economics",
+  "topic": "opportunity-cost",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Real Price of Everything",
+  "estimated_minutes": 10,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "A friend offers you a free ticket to a concert tonight. Free sounds like it costs nothing. But that same evening you could have worked a paid shift, finished an assignment or slept early before an important day.\n\nEconomists would say the ticket isn’t free at all. Its real price is whatever you give up to use it. That single idea is probably the most useful thing economics has to teach, and it applies far beyond money."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Economics begins with one stubborn fact: **scarcity**. We have unlimited wants but limited resources: limited money, limited time, limited land, limited attention. A country can’t build every road, school and hospital it would like. You can’t spend the same evening in two places.\n\nBecause resources are scarce, every choice involves a trade-off. Choosing one thing means not choosing something else. The **opportunity cost** of a choice is the value of the **best alternative you gave up**.\n\nNotice two details:\n\n- It’s the **best** alternative, not all of them. If you give up a shift, an assignment and an early night, the cost is whichever of those you would have valued most.\n- It includes things that aren’t money: time, energy, enjoyment, health."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your time and money as a single pizza. Every slice you give to one thing is a slice you can’t give to anything else. You can’t make the pizza bigger just by wanting more, so the question is never simply “Is this good?” but “Is this the best use of this slice?”"
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: is university “worth it”?",
+      "items": [
+        "Suppose a degree costs **tuition fees** plus books. That’s the obvious, visible cost.",
+        "But during those years you also give up the **wages** you could have earned working full time. For many students, these lost earnings are as large as the fees, or larger.",
+        "So the true cost is roughly fees **plus** lost earnings, which is far more than the price on the brochure.",
+        "Against that, weigh the benefits: on average, graduates in many countries (including India, the US and the UK) earn more over a lifetime, along with other benefits like knowledge and networks.",
+        "The answer differs for each person and each course. The point isn’t that university is good or bad; it’s that you can only judge it properly once you count the **hidden** cost, not just the visible one."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "It works for countries too",
+      "md": "Governments face the same logic on a vast scale. Money spent on defence can’t also be spent on healthcare; land used for a new airport can’t also be farmland or a nature reserve. Every national budget, whether in New Delhi, Washington or London, is a list of opportunity costs, whether or not anyone describes it that way.\n\nThis is why debates about public spending are rarely simply about whether something is good. Almost everything a government might fund is good in some way. The harder, more honest question is: **good compared to what?**"
+    },
+    {
+      "type": "reveal",
+      "prompt": "You paid for a film ticket, but twenty minutes in, you realise you hate the film. Should the money you spent make you stay?",
+      "md": "No. The money is gone whether you stay or leave; this is called a **sunk cost**. Since you can’t get it back, it shouldn’t affect your decision. The only question that matters now is: what is the best use of the **next** ninety minutes? Many people stay because leaving feels like “wasting” the ticket, but staying just adds a wasted evening to the wasted money. Businesses and governments fall into the same trap, continuing failing projects because so much has already been spent."
+    },
+    {
+      "type": "callout",
+      "tone": "definition",
+      "title": "Thinking at the margin",
+      "md": "Economists often ask about the **next unit** rather than the whole: not “Is studying good?” but “Is **one more hour** of studying tonight worth more than one more hour of sleep?” Each extra hour is usually worth a bit less than the last, so the best choice is often a balance rather than all-or-nothing."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Scarcity**: resources like money, time and land are limited, so every choice involves a trade-off.",
+        "**Opportunity cost** is the value of the **best alternative** you give up.",
+        "Opportunity cost includes **non-money** things like time, energy and enjoyment.",
+        "Hidden costs (like lost wages while studying) can be as large as visible ones.",
+        "A **sunk cost** is already spent and can’t be recovered, so it shouldn’t drive future decisions.",
+        "Good decisions often come from **thinking at the margin**: is the next unit worth it?"
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Once you start asking “What am I giving up?”, you make better decisions about money, careers, time and relationships, and you see through claims that something is “free”. It’s also the foundation of the rest of this region: supply and demand, trade and growth are all, at heart, about people and countries choosing between alternatives. Even the ten minutes you spend on this lesson have an opportunity cost, which is exactly why it’s worth choosing them well."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is opportunity cost, and can you give an example from your own week where the real cost of a choice wasn’t money?"
+  }
+}

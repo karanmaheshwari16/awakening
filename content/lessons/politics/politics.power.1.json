@@ -1,0 +1,78 @@
+{
+  "id": "politics.power.1",
+  "region": "politics",
+  "topic": "power",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Why Do People Obey?",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "A government is usually a small group of people giving instructions to millions. Most of those millions could, in principle, simply refuse. Police and armies are tiny compared with whole populations. So why do people pay taxes, stop at red lights and follow rules they don’t like?\n\nForce is only part of the answer, and usually the smaller part. The bigger answer is a quieter idea that sits at the heart of all politics: **legitimacy**."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Political scientists distinguish between two related ideas:\n\n- **Power** is the ability to make others do what you want, whether they agree or not. It can rest on force, money, threats or persuasion.\n- **Authority** is power that people **accept as rightful**. When people believe a ruler or institution has the right to give instructions, and that they ought to obey, that power has **legitimacy**.\n\nThe difference matters enormously. Power based only on force is expensive and fragile: it needs constant watching and punishing. Legitimate authority is cheap and stable: most people comply voluntarily, because they believe they should. That’s why almost every ruler in history, including the most brutal, has tried hard to appear legitimate."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a referee in a football match. The referee is usually outnumbered and can’t physically force 22 players to do anything. Players accept the decisions, even ones they hate, because they accept the referee’s **right** to make them. If players stop believing in that right, no whistle in the world can keep control of the match."
+    },
+    {
+      "type": "text",
+      "heading": "Three sources of legitimacy",
+      "md": "The German sociologist **Max Weber** (1864–1920) described three main reasons people accept authority. Real systems usually mix them.\n\n**1. Tradition.** “It has always been this way.” Authority comes from custom and long history, as with hereditary kings, queens and chiefs. The United Kingdom’s monarchy, for example, continues largely through tradition, though today the monarch’s political role is mostly ceremonial.\n\n**2. Charisma.** Authority comes from the extraordinary personal qualities of a leader that inspire devotion. Charismatic leaders can create huge movements, for good or ill. **Mahatma Gandhi** held no government office, yet millions followed his lead because of the moral authority people saw in him.\n\n**3. Legal-rational rules.** Authority comes from clear rules and procedures, such as a constitution and elections. People obey the office, not the person: when a prime minister or president leaves office, their authority passes to the next holder. This is the main basis of legitimacy in modern democracies, including India, the US and the UK."
+    },
+    {
+      "type": "callout",
+      "tone": "definition",
+      "title": "Hard power and soft power",
+      "md": "In international politics, the American scholar **Joseph Nye** distinguished **hard power** (getting results through military force or economic pressure) from **soft power** (getting results through attraction: culture, values and reputation). A country’s films, universities and ideals can shape the world as much as its armies."
+    },
+    {
+      "type": "text",
+      "heading": "Legitimacy can be earned and lost",
+      "md": "Legitimacy isn’t fixed. A government can gain it by winning a fair election, delivering security and prosperity, or treating people fairly. It can lose it through corruption, broken promises, rigged votes or violence against its own citizens. That’s why disputes over whether an election was fair can be so explosive: they aren’t only about who won, but about whether the winner has the **right** to rule at all. Courts, election commissions and a free press all help societies settle those disputes peacefully."
+    },
+    {
+      "type": "reveal",
+      "prompt": "A government has a large army and police force. Can it still collapse?",
+      "md": "Yes, and history shows it happening repeatedly. When enough people stop believing a regime is legitimate, even large security forces may not save it, because soldiers and police are also citizens, and they may refuse to act against huge crowds. In **1989**, East Germany’s communist government still had a large security apparatus, but as mass protests grew and people crossed to the West, its authority crumbled. The Berlin Wall opened that November with little bloodshed. Power that rests only on force can disappear surprisingly fast once belief is gone."
+    },
+    {
+      "type": "steps",
+      "title": "Questions to ask about any form of power",
+      "items": [
+        "**Who** holds it? A person, a party, an institution, a company?",
+        "**Where** does it come from? Force, money, tradition, charisma, rules, elections?",
+        "**Do the people affected accept it as rightful**, and why?",
+        "**What limits it?** Courts, elections, a free press, protests, other countries?",
+        "**How can it be peacefully removed** or changed? A system with no answer to this question tends to be less stable over time."
+      ]
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Power** is the ability to make others act; **authority** is power accepted as rightful.",
+        "**Legitimacy** makes authority stable and cheap; force alone is costly and fragile.",
+        "**Weber**’s three sources: **tradition**, **charisma**, and **legal-rational rules**.",
+        "Modern democracies rely mainly on **legal-rational** legitimacy: obeying the office, not the person.",
+        "**Hard power** compels; **soft power** attracts.",
+        "Regimes can collapse when **legitimacy** disappears, even with strong security forces."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Legitimacy explains why some governments are stable and others fragile, why leaders care so much about elections, ceremonies and image, and why peaceful protest can be so powerful. Whatever your political views, these questions help you analyse power clearly rather than just reacting to it. They’re also the foundation for the rest of this region and for the Democracy and Law regions, which explore how societies try to make power accountable."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between power and authority, and why does legitimacy make a government more stable?"
+  }
+}

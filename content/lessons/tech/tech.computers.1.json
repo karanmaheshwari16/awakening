@@ -1,0 +1,79 @@
+{
+  "id": "tech.computers.1",
+  "region": "tech",
+  "topic": "computers",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Billions of Tiny Switches",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Your phone can play a film, translate a language and show you a map of the entire planet. Yet underneath all of that, it can really only do one thing: flip switches between **on** and **off**, unbelievably fast.\n\nEvery photo, message and song you have ever seen on a screen was, at the bottom, a pattern of on and off. Once you see how that works, computers stop being magic boxes and become something you can actually picture."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A computer stores and processes information using **bits**. A bit is the smallest possible piece of information: it can be either **1** or **0**, on or off, yes or no.\n\nOne bit can’t say much. But bits combine quickly. Two bits can make four patterns (00, 01, 10, 11). Eight bits, called a **byte**, can make 256 different patterns. By agreeing what each pattern means, we can represent numbers, letters, colours and sounds.\n\nInside the chip, each bit is held and changed by a **transistor**: a microscopic electronic switch with no moving parts. A small voltage controls whether current flows through it. A modern phone or laptop processor contains **billions** of them, some laptop chips tens of billions, each far smaller than a bacterium."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine a long row of light switches on a wall. On their own, they just turn lights on and off. But if you and a friend agree on a code (for example, switches 1 and 3 on means “meet at noon”), the row becomes a way to send messages. A computer is that wall of switches, scaled up to billions and flipped billions of times per second."
+    },
+    {
+      "type": "steps",
+      "title": "Counting with only 0 and 1",
+      "items": [
+        "We usually count in **base 10**: each place is worth ten times the one to its right (ones, tens, hundreds…).",
+        "Computers count in **binary**, base 2: each place is worth **twice** the one to its right. From the right, the places are worth 1, 2, 4, 8, 16, 32, 64, 128.",
+        "So **101** in binary means one 4, no 2s and one 1: 4 + 0 + 1 = **5**.",
+        "**1101** means 8 + 4 + 0 + 1 = **13**.",
+        "Letters work the same way, using an agreed table. In the widely used ASCII code, capital **A** is number 65, which in binary is **01000001**. When you type A, your keyboard sends that pattern.",
+        "A colour on your screen is usually three numbers (how much red, green and blue), and a photo is millions of those. It’s numbers all the way down."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "From switches to thinking: logic gates",
+      "md": "Storing patterns is one thing, but a computer also has to **do** things with them, like add numbers or compare them. For that, transistors are wired together into **logic gates**, small circuits that follow simple rules:\n\n- **AND** gives 1 only if **both** inputs are 1.\n- **OR** gives 1 if **at least one** input is 1.\n- **NOT** flips its input: 1 becomes 0, and 0 becomes 1.\n\nThese rules sound almost too simple to matter. But combine a handful of gates and you can build a circuit that adds two bits. Combine those and you can add large numbers. Keep combining, layer upon layer, and you get a processor that can run a web browser. Complexity is built from simplicity, stacked very high."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If each step is so simple, how can a computer do something as complicated as play a video?",
+      "md": "**Speed and scale.** A processor running at 3 gigahertz performs about **3 billion** basic cycles every second, and modern chips have several cores working at once. Each step is trivial (add these, compare those, move that), but billions of trivial steps per second add up to things that look intelligent. Software is the long list of instructions telling the hardware which simple steps to take, in which order."
+    },
+    {
+      "type": "text",
+      "heading": "The four main parts",
+      "md": "Almost every computer, from a smartwatch to a supercomputer, has the same basic pieces:\n\n1. **Processor (CPU):** follows instructions and does the calculating.\n2. **Memory (RAM):** fast, temporary workspace for whatever is being used right now. It forgets everything when the power goes off.\n3. **Storage:** slower but permanent space for files and apps (an SSD in most modern devices).\n4. **Input and output:** the keyboard, touchscreen, microphone, screen and speakers that let the computer exchange information with you.\n\nWhen you open an app, it’s copied from storage into memory, and the processor starts working through its instructions."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "Why chips kept getting better",
+      "md": "For about fifty years, engineers roughly doubled the number of transistors that fit on a chip every two years, a trend known as **Moore’s Law**, named after Intel co-founder Gordon Moore. It isn’t a law of nature, just an observation, and the pace has slowed as transistors approach the size of a few dozen atoms. But it explains why a cheap phone today outperforms the room-sized computers of the 1960s by an enormous margin."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **bit** is a single 1 or 0; eight bits make a **byte**, which can hold 256 patterns.",
+        "**Transistors** are tiny electronic switches; modern chips contain **billions**.",
+        "Computers count in **binary** (base 2), and represent letters, colours and sound as agreed-upon numbers.",
+        "**Logic gates** (AND, OR, NOT) combine to perform arithmetic and decisions.",
+        "Complex behaviour comes from **billions of simple steps per second**.",
+        "Main parts: **processor, memory, storage, input and output**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Computers shape nearly every part of modern life, so understanding them, even at this basic level, makes you a more confident user and a sharper thinker about technology. It also unlocks the rest of this region: the internet, algorithms, cybersecurity and artificial intelligence all build on the same idea. Underneath even the most impressive AI system are switches flipping between 1 and 0."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how can a machine that only flips switches between on and off show you a photo or a message?"
+  }
+}

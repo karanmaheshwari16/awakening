@@ -1,0 +1,80 @@
+{
+  "id": "physics.forces.1",
+  "region": "physics",
+  "topic": "forces",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Why Things Move, and Why They Stop",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Kick a football across a field and it rolls, slows down and stops. It seems obvious that moving things naturally come to rest. For almost two thousand years, the greatest thinkers agreed: to keep something moving, you have to keep pushing it.\n\nThey were wrong. Getting it right, mainly through the work of Galileo and then Isaac Newton in the 1600s, changed science forever and eventually put spacecraft on other planets."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **force** is a push or a pull. Gravity pulling you down, your hand pushing a door, friction dragging on a sliding box: all forces. Forces have a size and a direction, and when several act on an object, what matters is the **net force**, the overall result once they are combined.\n\nThe ancient Greek philosopher Aristotle taught that objects move only while something pushes them. Galileo realised the football stops not because stopping is natural, but because **forces are acting on it**: friction with the grass and air resistance. Remove those, and it would keep rolling.\n\nIsaac Newton turned this insight into three laws of motion, published in 1687. They still describe the everyday world with remarkable accuracy."
+    },
+    {
+      "type": "text",
+      "heading": "Newton’s three laws",
+      "md": "**First law: things keep doing what they’re doing.** An object at rest stays at rest, and a moving object keeps moving in a straight line at the same speed, **unless a net force acts on it**. This tendency to resist changes in motion is called **inertia**.\n\n**Second law: force changes motion.** The bigger the net force, the faster an object speeds up, slows down or changes direction. The heavier the object, the harder it is to change its motion. In short: **force = mass × acceleration**, often written **F = ma**.\n\n**Third law: forces come in pairs.** When you push on something, it pushes back on you with an equal force in the opposite direction. You push the ground backwards with your feet; the ground pushes you forwards, and you walk."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Picture an ice rink. Give a puck a push and it glides a very long way, because the ice provides almost no friction. That’s the first law made visible. On a carpet, the same push would barely move it. The puck isn’t different; the forces acting on it are."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: pushing a car",
+      "items": [
+        "A small car has a mass of about **1,000 kg**. Its battery is flat, so friends push it.",
+        "Together they push with a force of **600 newtons** (a newton is the unit of force; about the weight of a small apple). Friction from the tyres and road pushes back with **400 newtons**.",
+        "The **net force** is 600 − 400 = **200 newtons** forwards.",
+        "Using F = ma: acceleration = force ÷ mass = 200 ÷ 1,000 = **0.2 metres per second, every second**.",
+        "After 10 seconds of steady pushing, the car is moving at about **2 metres per second**, a slow walk. That’s why pushing a car feels so hard to get going: lots of mass, modest net force.",
+        "If they push with exactly 400 newtons, the net force is zero and the car won’t speed up. If it’s already rolling, it will keep rolling at a steady speed. That’s the first law again."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "When a bus brakes suddenly, you lurch forwards. What pushed you?",
+      "md": "Nothing pushed you forwards. **You simply kept moving** at the bus’s old speed, because of inertia, while the bus slowed down beneath you. The bus’s brakes apply a force to the bus, not to your body. That’s exactly why seatbelts matter: in a crash, the seatbelt provides the force needed to slow **you** down along with the car, instead of the windscreen doing it."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "Rockets and the third law",
+      "md": "A rocket doesn’t need air to push against. It throws hot gas out of its engines at high speed; the gas pushes back on the rocket with an equal force in the opposite direction. That’s why rockets work in the vacuum of space, and why a garden hose kicks back in your hands when water rushes out."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "Not the final word, but still the right tool",
+      "md": "In the early 1900s, Einstein’s theories of relativity and the development of quantum mechanics showed that Newton’s laws break down at speeds close to the speed of light and at atomic scales. But for cars, bridges, sports and most spaceflight, Newton’s laws remain accurate enough that engineers use them every day."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **force** is a push or pull; what matters is the **net force** once all forces are combined.",
+        "Moving things stop because of forces like **friction** and **air resistance**, not because stopping is natural.",
+        "**First law:** without a net force, objects keep their motion (**inertia**).",
+        "**Second law:** **F = ma**; more force means more acceleration, and more mass means less.",
+        "**Third law:** every force has an **equal and opposite** partner force.",
+        "Newton’s laws work extremely well for everyday speeds and sizes."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Newton’s laws are the grammar of the physical world. They explain why seatbelts save lives, how athletes generate power, how bridges stay up and how spacecraft reach the Moon. They also show something deeper about how science works: careful observation can overturn ideas that “everyone knows” are true. This region builds from here into energy, atoms and light."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why does a rolling ball eventually stop, and what would happen if there were no friction or air at all?"
+  }
+}

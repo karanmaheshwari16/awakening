@@ -1,0 +1,73 @@
+{
+  "id": "biology.cells.1",
+  "region": "biology",
+  "topic": "cells",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Smallest Thing That Is Alive",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Your body is made of roughly **30 trillion** cells, about four thousand times the number of people on Earth. Every one of them began from a single cell: a fertilised egg smaller than the full stop at the end of this sentence.\n\nA blue whale, an oak tree, the yeast in bread and the bacteria in your gut all share the same basic secret. Life, as far as we know, is built from cells, and nothing smaller counts as alive on its own."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In 1665, the English scientist **Robert Hooke** looked at a thin slice of cork through an early microscope and saw tiny box-like compartments. He called them “cells”, after the small rooms monks lived in. What he saw were actually the empty walls of dead plant cells, but the name stuck.\n\nBy the mid-1800s, scientists had gathered enough evidence for what we now call **cell theory**:\n\n1. **All living things are made of one or more cells.**\n2. **The cell is the basic unit of life.**\n3. **All cells come from other cells.** Cells don’t appear from nothing; they form when an existing cell divides.\n\nSome living things, like bacteria, are just **one cell**. Others, like you, are made of trillions, specialised into hundreds of types: nerve cells, muscle cells, skin cells, blood cells, all working together."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a cell as a tiny walled city. It has a border with guarded gates (the membrane), a library of instructions (the nucleus with its DNA), power stations (mitochondria), factories (ribosomes) and roads for transport. Each part has its job, and the city survives only when they all work together."
+    },
+    {
+      "type": "text",
+      "heading": "The main parts",
+      "md": "- **Cell membrane:** a thin, flexible barrier around every cell. It controls what goes in and out, letting nutrients enter and waste leave.\n- **Cytoplasm:** the jelly-like interior where much of the cell’s activity happens.\n- **DNA:** the instructions for building and running the cell. In cells like ours, it’s kept inside a compartment called the **nucleus**.\n- **Ribosomes:** tiny machines that read those instructions and build **proteins**, the molecules that do most of the work in living things.\n- **Mitochondria:** the cell’s power stations. They turn the energy in food into a form the cell can use. Busy cells, like muscle cells, contain many of them.\n\nPlant cells also have a stiff **cell wall** for support, and **chloroplasts**, which capture energy from sunlight through photosynthesis."
+    },
+    {
+      "type": "diagram",
+      "alt": "A simple drawing of an animal cell: an outer membrane enclosing a large round nucleus, several bean-shaped mitochondria and small dots representing ribosomes.",
+      "caption": "A simplified animal cell. Real cells are crowded, constantly moving and far more complex.",
+      "svg": "<svg viewBox=\"0 0 320 200\" xmlns=\"http://www.w3.org/2000/svg\"><ellipse cx=\"135\" cy=\"105\" rx=\"110\" ry=\"75\" style=\"fill:none;stroke:currentColor;stroke-width:2\"/><circle cx=\"118\" cy=\"100\" r=\"30\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/><circle cx=\"126\" cy=\"95\" r=\"8\" style=\"fill:var(--accent);opacity:.4\"/><g style=\"fill:none;stroke:currentColor;stroke-width:1.5;opacity:.8\"><ellipse cx=\"195\" cy=\"75\" rx=\"18\" ry=\"8\" transform=\"rotate(-20 195 75)\"/><ellipse cx=\"190\" cy=\"140\" rx=\"18\" ry=\"8\" transform=\"rotate(25 190 140)\"/><ellipse cx=\"68\" cy=\"140\" rx=\"16\" ry=\"7\" transform=\"rotate(-10 68 140)\"/></g><g style=\"fill:currentColor;opacity:.6\"><circle cx=\"165\" cy=\"108\" r=\"2\"/><circle cx=\"175\" cy=\"100\" r=\"2\"/><circle cx=\"88\" cy=\"62\" r=\"2\"/><circle cx=\"215\" cy=\"108\" r=\"2\"/><circle cx=\"155\" cy=\"152\" r=\"2\"/><circle cx=\"100\" cy=\"155\" r=\"2\"/></g><g style=\"stroke:var(--text-3);stroke-width:1\"><path d=\"M211 70 L252 52\"/><path d=\"M217 108 L252 122\"/><path d=\"M60 40 L72 52\"/></g><g style=\"font:500 9px var(--font-ui);fill:var(--text-2)\"><text x=\"118\" y=\"145\" text-anchor=\"middle\">nucleus</text><text x=\"254\" y=\"55\">mitochondrion</text><text x=\"254\" y=\"125\">ribosomes</text><text x=\"30\" y=\"36\">membrane</text></g></svg>"
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "Just how small?",
+      "md": "Most human cells are around **10 to 30 micrometres** across (a micrometre is a thousandth of a millimetre). A red blood cell is about 7–8 micrometres wide, so roughly a hundred of them side by side would span a single millimetre. Bacteria are smaller still, often just one or two micrometres long. A few cells are giants: some nerve cells stretch from your spine to your toes, over a metre long, though they are still microscopically thin."
+    },
+    {
+      "type": "text",
+      "heading": "Two great kinds of cell",
+      "md": "Biologists divide all cells into two broad groups:\n\n- **Prokaryotic cells**, such as bacteria, are small and simple. Their DNA floats freely inside the cell, with no nucleus. They were the first life on Earth, appearing more than **3.5 billion years** ago, and they’re still the most numerous living things on the planet.\n- **Eukaryotic cells**, such as those of animals, plants and fungi, are usually much larger and contain internal compartments, including a nucleus.\n\nThere’s strong evidence that mitochondria were once free-living bacteria that were swallowed by a larger cell and, instead of being digested, became permanent partners. Mitochondria even still carry a small amount of their own DNA."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If you start as a single cell, how do you end up with brain cells, bone cells and skin cells?",
+      "md": "Every cell in your body carries essentially the same DNA, the same full instruction book. What differs is **which instructions each cell uses**. As an embryo develops, signals from neighbouring cells switch certain genes on and others off, so a cell gradually becomes specialised. A nerve cell and a skin cell have the same library; they just read different chapters. This process is called **differentiation**."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Cell theory:** all living things are made of cells, the cell is the basic unit of life, and all cells come from other cells.",
+        "Robert Hooke named cells in **1665**.",
+        "Key parts: **membrane**, **cytoplasm**, **DNA** (in the **nucleus** in our cells), **ribosomes** and **mitochondria**.",
+        "Plant cells add a **cell wall** and **chloroplasts**.",
+        "**Prokaryotes** (like bacteria) have no nucleus; **eukaryotes** (animals, plants, fungi) do.",
+        "Cells with the same DNA specialise by using **different genes**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Nearly everything in biology and medicine comes back to cells. Diseases often begin with cells behaving badly: cancer is cells dividing out of control, and infections are battles between our cells and microbes. Understanding cells is the foundation for the rest of this region, from DNA and evolution to the immune system. You are, quite literally, a cooperative of trillions of tiny living things."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a cell, and how can one fertilised egg become a body with many different kinds of cell?"
+  }
+}

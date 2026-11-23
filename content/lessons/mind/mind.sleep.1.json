@@ -1,0 +1,84 @@
+{
+  "id": "mind.sleep.1",
+  "region": "mind",
+  "topic": "sleep",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Night Shift Inside Your Head",
+  "estimated_minutes": 11,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "You spend roughly a third of your life unconscious, lying still, unable to defend yourself. From an evolutionary point of view that is a strange and risky habit. Yet every animal with a brain that scientists have studied closely shows some form of sleep.\n\nSomething that costly would not have survived millions of years unless it did something essential. It turns out your brain is anything but idle at night. It is working a different shift."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Sleep is not one single state. Through the night your brain moves through repeating **cycles**, each lasting roughly **90 minutes**. A cycle contains two main kinds of sleep:\n\n- **Non-REM sleep**, which gets progressively deeper. The deepest part, often called **deep sleep** or slow-wave sleep, is when brain waves become large and slow, your body is hardest to wake, and growth hormone is released.\n- **REM sleep** (rapid eye movement), when your brain becomes almost as active as when you are awake, your eyes dart around, and most vivid dreaming happens. Your muscles are temporarily paralysed, which stops you acting out your dreams.\n\nThe mix changes across the night. **Early cycles are rich in deep sleep; later cycles are rich in REM.** That’s why cutting your night short by waking early mostly costs you REM, and staying up very late can cost you deep sleep."
+    },
+    {
+      "type": "diagram",
+      "alt": "A chart of one night's sleep. A line drops from awake into deep sleep several times in the first half of the night, while later in the night the dips are shallower and the line rises into longer periods of REM sleep.",
+      "caption": "A typical night: deep sleep comes mostly early, REM grows longer towards morning.",
+      "svg": "<svg viewBox=\"0 0 320 170\" xmlns=\"http://www.w3.org/2000/svg\"><g style=\"font:500 9px var(--font-mono);fill:var(--text-2)\"><text x=\"46\" y=\"30\" text-anchor=\"end\">Awake</text><text x=\"46\" y=\"60\" text-anchor=\"end\">REM</text><text x=\"46\" y=\"90\" text-anchor=\"end\">Light</text><text x=\"46\" y=\"120\" text-anchor=\"end\">Deep</text><text x=\"56\" y=\"150\">11pm</text><text x=\"170\" y=\"150\" text-anchor=\"middle\">3am</text><text x=\"300\" y=\"150\" text-anchor=\"end\">7am</text></g><g style=\"stroke:var(--line-2);stroke-width:1\"><path d=\"M52 136 H304\"/></g><path d=\"M56 27 L66 87 L76 117 L96 117 L104 87 L112 57 L120 87 L130 117 L148 117 L156 87 L168 57 L182 57 L190 87 L200 102 L210 87 L222 57 L242 57 L250 87 L262 57 L290 57 L298 27\" style=\"fill:none;stroke:var(--accent);stroke-width:2;stroke-linejoin:round\"/></svg>"
+    },
+    {
+      "type": "text",
+      "heading": "What the night shift does",
+      "md": "**Filing memories.** During sleep, the brain replays and strengthens things you learned during the day, moving some of them from short-term storage into longer-term memory. In many experiments, people who sleep after learning remember more than people who stay awake for the same length of time.\n\n**Cleaning up.** Research, mostly in mice so far, suggests the brain clears out waste products more quickly during sleep. How strongly this applies to humans is still being studied.\n\n**Resetting emotions and attention.** After a bad night, people tend to react more strongly to negative events, and their concentration drops. Most of us have noticed this without needing a lab."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your brain as a busy shop. During the day, customers come in, shelves get messy and receipts pile up. Sleep is closing time: the staff restock the shelves, file the paperwork and take out the rubbish, so the shop can open properly the next morning. Skip closing time and the shop still opens, but it gets messier every day."
+    },
+    {
+      "type": "text",
+      "heading": "Two forces that decide when you feel sleepy",
+      "md": "**1. Sleep pressure.** The longer you are awake, the more a chemical called **adenosine** builds up in your brain, making you feel increasingly sleepy. Sleep clears it away.\n\n**2. Your body clock.** Your **circadian rhythm** is an internal cycle of about 24 hours that makes you more alert at some times of day and sleepier at others. It is set mainly by **light**, especially morning daylight. In the evening, darkness signals your brain to release **melatonin**, a hormone that tells your body night has arrived.\n\nYou sleep best when both forces line up: plenty of sleep pressure, and a body clock that says it’s night."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Coffee doesn’t give you energy. So how does it keep you awake?",
+      "md": "Caffeine has a shape similar to adenosine, so it sits in the brain’s adenosine receptors and **blocks** them. The adenosine is still there, but your brain can’t “hear” it, so you don’t feel sleepy. When the caffeine wears off, the built-up adenosine floods in, which is the familiar crash. Caffeine also lingers: for many adults, about half of it is still in the body **around five hours** later (it varies a lot between people), which is why an afternoon coffee can affect your sleep that night."
+    },
+    {
+      "type": "callout",
+      "tone": "note",
+      "title": "How much is enough?",
+      "md": "Major sleep organisations recommend that most adults get **at least seven hours** a night regularly, with seven to nine being a common range. Teenagers generally need more. Needs vary between people, but very few adults function at their best on under six hours, even if they feel used to it. Being used to tiredness is not the same as not being tired."
+    },
+    {
+      "type": "steps",
+      "title": "Simple habits with good evidence behind them",
+      "items": [
+        "**Keep a regular wake-up time**, even at weekends. It anchors your body clock more than anything else.",
+        "**Get daylight in the morning**, ideally outdoors for a few minutes. It helps set your clock for the day.",
+        "**Dim the lights in the evening** and keep the bedroom dark, cool and quiet.",
+        "**Watch the timing of caffeine and alcohol.** Alcohol may help you fall asleep but tends to break up sleep later in the night.",
+        "**If you can’t sleep, don’t lie there fighting it.** Get up, do something calm in dim light, and go back to bed when you feel sleepy."
+      ]
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Sleep runs in **cycles of about 90 minutes**, alternating between **non-REM** (including deep sleep) and **REM** sleep.",
+        "**Deep sleep** happens mostly early in the night; **REM** grows longer towards morning.",
+        "Sleep helps **store memories**, regulate **emotions** and attention, and may help the brain **clear waste**.",
+        "Sleepiness comes from **adenosine** building up while awake plus your **circadian rhythm**, which light sets.",
+        "**Caffeine** blocks adenosine’s signal rather than giving real energy.",
+        "Most adults need **at least seven hours**; a regular wake-up time is the strongest single habit."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Sleep is the foundation the rest of this map is built on. It affects how well you learn, how you handle stress, how you make decisions and even how you eat. For learning in particular, a good night after studying is part of the studying, not a break from it. It’s one of the few improvements that costs nothing and helps almost everything else."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what happens in your brain during a night’s sleep, and why might cutting sleep short hurt your memory?"
+  }
+}

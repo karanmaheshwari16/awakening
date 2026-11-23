@@ -1,0 +1,74 @@
+{
+  "id": "democracy.what-is-democracy.1",
+  "region": "democracy",
+  "topic": "what-is-democracy",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Rule by the People: What It Really Takes",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In India’s 2024 general election, around **970 million** people were eligible to vote, more than the entire population of Europe. Polling stations were set up so that no voter had to travel more than about two kilometres, even in remote forests and mountains. In at least one famous case, an entire polling station was set up for a single voter.\n\nWhy would a country go to such lengths? Because of an idea that sounds simple but turns out to be demanding: that ordinary people, not kings or generals, should decide who governs them."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The word **democracy** comes from ancient Greek: *demos* (the people) and *kratos* (rule or power). Rule by the people.\n\nThe best-known early example is **Athens**, around the 5th century BCE. Athenian citizens gathered in an assembly to debate and vote directly on laws and war. This is **direct democracy**. But “citizens” meant free adult men born to Athenian parents; women, enslaved people and foreigners were excluded, so only a minority of residents could take part.\n\nModern countries are far too large for everyone to vote on everything. Most use **representative democracy**: citizens elect representatives to make decisions on their behalf, and can replace them at the next election. Some places, like Switzerland, still add elements of direct democracy through frequent referendums."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a housing society or residents’ association. In a small building, every resident can attend meetings and vote on every decision: direct democracy. In a huge complex, residents instead elect a committee to manage things, and can vote them out if they do a poor job: representative democracy."
+    },
+    {
+      "type": "text",
+      "heading": "More than just voting",
+      "md": "Elections alone don’t make a democracy. Many governments hold elections that are neither free nor fair. Political scientists generally look for several features working together:\n\n- **Free and fair elections**, held regularly, with real choices and honest counting.\n- **Universal adult suffrage**: every adult citizen can vote, with equal weight.\n- **Freedom of speech, the press and assembly**, so people can criticise those in power, organise and get accurate information.\n- **The rule of law**: rules apply to everyone, including leaders, and are enforced by independent courts.\n- **Protection of minority rights**, so a majority can’t simply vote away the basic rights of others.\n- **Peaceful transfer of power**: those who lose elections hand over power.\n\nSome scholars distinguish **electoral democracies** (which hold real elections) from **liberal democracies** (which also strongly protect rights and limit government power)."
+    },
+    {
+      "type": "steps",
+      "title": "The long road to everyone voting",
+      "items": [
+        "For most of history, even systems with elections let only a small group vote, usually men who owned property.",
+        "In **1893**, **New Zealand** became the first self-governing country to give women the vote in national elections.",
+        "The **United States** gave women the vote nationally in **1920**. But many Black Americans were blocked from voting in practice until the **Voting Rights Act of 1965**.",
+        "The **United Kingdom** gave women the vote on equal terms with men in **1928**.",
+        "**India** chose **universal adult suffrage** from its very first general election in **1951–52**, when most citizens could not read. Parties used symbols on ballots so everyone could vote.",
+        "The direction over time has been towards including more people, though the details and dates differ greatly between countries."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If the majority rules, what stops the majority from treating a minority unfairly?",
+      "md": "This is one of democracy’s oldest problems, sometimes called the **tyranny of the majority**. Democracies try to guard against it with a **constitution** that protects certain basic rights, which ordinary laws can’t override; **independent courts** that can strike down laws violating those rights; and rules making constitutional changes deliberately difficult. So democracy isn’t simply “the majority gets whatever it wants”. It’s majority rule **within limits** that protect everyone."
+    },
+    {
+      "type": "callout",
+      "tone": "open-question",
+      "title": "Still debated",
+      "md": "People disagree about how much power should rest with elected majorities versus courts and constitutional limits, how often referendums should be used, and which electoral systems best represent voters. Thoughtful people across the political spectrum hold different views. Later lessons in this region explore these debates without picking sides."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Democracy** means rule by the people (Greek *demos* + *kratos*).",
+        "**Direct democracy** (as in ancient Athens) means citizens vote on laws themselves; **representative democracy** means they elect others to decide.",
+        "Athenian democracy **excluded** women, enslaved people and foreigners.",
+        "Real democracy needs **free and fair elections**, **universal suffrage**, **free speech**, **rule of law**, **minority rights** and **peaceful transfer of power**.",
+        "Voting rights expanded gradually: **New Zealand 1893**, **US 1920/1965**, **UK 1928**, **India 1951–52** (universal from the start).",
+        "Constitutions and courts guard against the **tyranny of the majority**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Billions of people live under governments that call themselves democracies, and the word is used constantly in news and debate. Knowing what democracy actually requires lets you judge claims about it clearly, whichever country you live in and whatever your politics. It also sets up the rest of this region: electoral systems, the separation of powers, political parties, federalism, and how democracies strengthen or weaken."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why are elections alone not enough to make a country a democracy? What else is needed?"
+  }
+}

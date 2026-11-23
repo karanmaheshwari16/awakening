@@ -1,0 +1,72 @@
+{
+  "id": "law.what-is-law.1",
+  "region": "law",
+  "topic": "what-is-law",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Rules That Everyone Must Follow",
+  "estimated_minutes": 11,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Nearly 3,800 years ago, a Babylonian king named **Hammurabi** had nearly 300 laws carved into a tall stone pillar and displayed in public. They covered theft, trade, wages, marriage, and even what should happen to a builder whose house collapsed.\n\nThe punishments were often harsh, but the idea behind the stone was revolutionary: the rules should be **written down, visible and the same for everyone**, rather than living only in a ruler’s head. Every modern legal system still wrestles with that same ambition."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Every society has rules, but not every rule is a law. It helps to separate three kinds:\n\n- **Customs and manners:** shared expectations, like queueing or greeting elders respectfully. Break them and people may disapprove, but no court will punish you.\n- **Morality:** beliefs about right and wrong. Lying to a friend may be morally wrong without being illegal.\n- **Law:** rules created by a recognised authority, such as a parliament, and **enforced by the state** through courts, fines or prison.\n\nThe three often overlap: murder is immoral, against custom and illegal. But they can diverge. Something can be legal yet widely seen as immoral, or illegal yet considered acceptable by many. Much of legal history is the story of laws being changed to catch up with, or sometimes lead, changing moral views."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a game of cricket or football. The official rulebook is like law: written, enforced by an umpire, with fixed penalties. Sportsmanship, such as shaking hands afterwards, is like custom and morality: expected and valued, but not enforced by the referee. A great match needs both."
+    },
+    {
+      "type": "text",
+      "heading": "The rule of law",
+      "md": "One of the most important ideas in legal thinking is the **rule of law**. It doesn’t just mean “having laws”. It means:\n\n- **Everyone is subject to the law**, including the most powerful: ministers, presidents and the wealthy.\n- Laws are **public, clear and stable**, so people can know them in advance and plan their lives.\n- Laws are applied **equally and fairly**, by **independent courts**.\n- People can’t be punished except for breaking a law that already existed.\n\nThe opposite is **rule by the powerful**: where decisions depend on who you are or whom you know, and leaders place themselves above the rules. Hammurabi’s stone was an early step towards the rule of law, though the king himself stood above it."
+    },
+    {
+      "type": "steps",
+      "title": "Where laws come from",
+      "items": [
+        "**Constitutions:** the highest law in many countries, setting out how government works and protecting basic rights. Other laws must respect it.",
+        "**Legislation (statutes):** laws passed by a parliament or legislature, like India’s Parliament, the US Congress or the UK Parliament.",
+        "**Case law:** decisions by judges in earlier cases, which guide later ones. In some systems these precedents are binding on lower courts.",
+        "**Regulations:** detailed rules made by government departments under powers given to them by legislation, such as safety standards.",
+        "**Custom and religion:** in some areas, long-standing practice or religious law is recognised by the legal system. In India, for example, certain matters like marriage and inheritance have been governed by different **personal laws** for different religious communities."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Two great legal families",
+      "md": "Most countries follow one of two broad traditions, or a mix:\n\n- **Common law** grew up in England, where judges’ decisions built up a body of law over centuries. Precedent is central. It spread with the British Empire and is used in the UK, the US, India, Australia and many others.\n- **Civil law** developed in continental Europe from Roman law, organised into comprehensive written **codes**. France’s Napoleonic Code of 1804 is a famous example. Civil law is used across much of Europe, Latin America and East Asia, including France, Germany, Brazil and Japan.\n\nIn practice the differences have narrowed: common-law countries now pass huge amounts of written legislation, and civil-law judges’ decisions carry real weight."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If a law is unjust, is it still a law?",
+      "md": "Philosophers have argued about this for centuries. One view, often called **natural law**, holds that truly unjust rules lack real legal authority; Martin Luther King Jr. quoted the idea that “an unjust law is no law at all” in his 1963 Letter from Birmingham Jail. Another view, **legal positivism**, says a law is valid if it was made through the proper process, whether or not it is just; its morality is a separate question. Both sides agree that unjust laws should be changed. They disagree about what makes something a law in the first place."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Law** is a set of rules made by a recognised authority and **enforced by the state**; it differs from **custom** and **morality**, though they often overlap.",
+        "**Hammurabi**’s code (about 1750s BCE) is one of the earliest written law codes.",
+        "The **rule of law**: everyone, including leaders, is bound by clear, public laws applied fairly by independent courts.",
+        "Sources of law include **constitutions**, **legislation**, **case law**, **regulations** and sometimes **custom or religion**.",
+        "**Common law** (UK, US, India) relies on precedent; **civil law** (France, Germany, Japan) relies on written codes.",
+        "Whether an unjust law is “really” law divides **natural law** thinkers and **legal positivists**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Law shapes almost every part of daily life, from the contract for your phone to your rights if you’re stopped by police. Understanding what law is and where it comes from makes you a more confident citizen and helps you follow debates about courts, rights and justice. The rest of this region builds on this foundation: constitutions, rights, courts, criminal justice and contracts."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between a law, a moral rule and a custom? And what does the “rule of law” require?"
+  }
+}

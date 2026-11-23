@@ -1,0 +1,78 @@
+{
+  "id": "philosophy.reasoning.1",
+  "region": "philosophy",
+  "topic": "reasoning",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How to Tell a Good Argument from a Bad One",
+  "estimated_minutes": 11,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Every day, people try to convince you of things: adverts, politicians, friends, headlines, social media posts. Some of their reasons are good. Many are not. Most of us judge them mainly by whether we already **like** the conclusion.\n\nPhilosophers have spent around 2,500 years developing a better way: looking at the **structure** of the reasoning itself. You don’t need a degree to use it. You just need a few sharp questions."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In philosophy, an **argument** isn’t a shouting match. It’s a set of reasons offered to support a claim. It has two parts:\n\n- **Premises:** the reasons or evidence.\n- **Conclusion:** the claim the premises are supposed to support.\n\nTo judge an argument, ask two separate questions:\n\n1. **Are the premises true?**\n2. **If they were true, would the conclusion actually follow?**\n\nAn argument can fail at either step. True premises can be joined to a conclusion that doesn’t follow from them, and a perfectly logical chain can start from a false premise. A good argument needs **both**."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an argument as a bridge. The premises are the pillars, and the logic is the structure connecting them to the far bank, the conclusion. A bridge can collapse because a pillar is rotten (a false premise) or because the structure is badly designed (bad logic). Inspect both before you walk across."
+    },
+    {
+      "type": "steps",
+      "title": "Valid, sound, and the difference",
+      "items": [
+        "Take this argument: *All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.*",
+        "The logic is **valid**: if the premises are true, the conclusion **must** be true. There’s no way around it.",
+        "The premises are also true, so the argument is **sound**: valid logic plus true premises.",
+        "Now try: *All birds can fly. Penguins are birds. Therefore, penguins can fly.* The logic has exactly the same shape, so it’s **valid**, but the first premise is false. The argument is valid but **unsound**.",
+        "Lesson: **valid** describes the structure; **sound** means the structure is valid **and** the premises are true. Only sound arguments guarantee a true conclusion."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Proof versus likelihood",
+      "md": "The Socrates example is **deductive**: the conclusion follows with certainty. Much everyday reasoning is **inductive** instead: it moves from evidence to a conclusion that is **probably** true.\n\n*Every morning in recorded history, the sun has risen, so it will rise tomorrow.* That’s a strong inductive argument, but it isn’t a proof. Science works largely this way: gathering evidence until a conclusion becomes very well supported, while staying open to new evidence. Asking “How strong is the evidence?” rather than “Is it proven?” is often the more useful question."
+    },
+    {
+      "type": "text",
+      "heading": "Three common traps",
+      "md": "Some bad arguments are so common they have names, called **fallacies**:\n\n- **Attacking the person** (*ad hominem*): “You can’t trust her view on taxes; she’s rich.” Her wealth might be worth knowing, but it doesn’t show her argument is wrong. Judge the reasons, not the person giving them.\n- **The straw man:** misrepresenting someone’s view as something weaker or more extreme, then knocking that down. “You want cleaner air? So you want to ban all cars?”\n- **The false choice:** presenting only two options when more exist. “Either we cut this programme or the economy collapses.” Real situations usually have a range of options."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why can a smart person still believe something based on bad reasoning?",
+      "md": "Because intelligence doesn’t switch off **confirmation bias**: our natural tendency to notice, remember and accept evidence that supports what we already believe, while scrutinising evidence against it far more harshly. Clever people are often simply better at inventing reasons for what they already wanted to believe. The fix isn’t more intelligence but a habit: applying the same tough questions to arguments you **agree** with as to ones you dislike."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "Try it on the next claim you see",
+      "md": "1. What exactly is the **conclusion**?\n2. What **reasons** are given?\n3. Are those reasons **true**, and how do we know?\n4. If they were true, would the conclusion really **follow**?\n5. Would I accept this reasoning if it led to a conclusion I **disliked**?"
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "An **argument** is a set of **premises** offered to support a **conclusion**.",
+        "Check two things separately: are the premises **true**, and does the conclusion **follow**?",
+        "**Valid** means the logic works; **sound** means valid **and** with true premises.",
+        "**Deductive** reasoning aims at certainty; **inductive** reasoning gives probability, as in science.",
+        "Common fallacies: **attacking the person**, the **straw man**, and the **false choice**.",
+        "**Confirmation bias** affects everyone; test arguments you like as hard as ones you don’t."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "In an age of endless information and persuasion, the ability to evaluate arguments is a kind of self-defence. It protects you from scams, manipulation and your own blind spots, and it makes you more persuasive, because you learn to build reasons that hold up. Every other region on this map involves claims and evidence; this lesson is the toolkit for weighing them."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between an argument being valid and being sound? Give an example of a valid argument with a false conclusion."
+  }
+}
