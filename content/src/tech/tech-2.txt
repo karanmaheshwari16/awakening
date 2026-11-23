@@ -1,0 +1,301 @@
+##### LESSON
+id: tech.algorithms.2
+title: Algorithms That Shape Society
+minutes: 15
+prereq: tech.algorithms.1
+check: In your own words: how do recommendation algorithms decide what to show you, why can algorithms be biased even when they don’t use race or gender directly, and what is the P versus NP problem?
+
+=== hook
+In 2014, Amazon began building an experimental AI tool to rate job applicants, trained on CVs the company had received over the previous ten years. By 2015, engineers noticed a problem: the system was penalising CVs that included the word “women’s”, as in “women’s chess club captain”, and downgrading graduates of two all-women’s colleges.
+
+Nobody had programmed it to discriminate. The algorithm had learned from historical data, in which most successful applicants in technical roles had been men, and absorbed that pattern. Amazon’s engineers tried to fix it, couldn’t be confident they had, and the project was eventually scrapped. Algorithms learn from the world as it is, including its unfairness.
+
+=== core
+In the previous lesson, algorithms were neutral recipes for tasks like searching and sorting. But many of today’s most influential algorithms make **decisions about people**: what you see in your news feed, which job ads appear to you, whether you get a loan, how long a delivery driver’s route should take, which videos go viral.
+
+These algorithms often don’t follow simple, hand-written rules. Instead, they’re built using **machine learning**: they find patterns in large amounts of data and use them to make predictions. You’ll explore how that works in the AI lessons. Here, the focus is on their **effects**.
+
+=== text Ranking the web: PageRank
+In the late 1990s, early search engines often ranked pages by how many times they contained the search words, which was easy to game by stuffing pages with keywords.
+
+In **1998**, two Stanford graduate students, **Larry Page** and **Sergey Brin**, published a different approach called **PageRank**, which became the basis of Google. The idea: treat a link from one page to another as a kind of **vote**. A page linked to by many pages is probably important, and a link from an important page counts for more than a link from an obscure one. Search results improved dramatically. Modern search engines use hundreds of signals, but the insight that the web’s link structure reveals importance was transformative.
+
+=== text Recommendation engines
+Streaming services, shops and social media use **recommendation algorithms** to predict what you’ll want next. A common technique, **collaborative filtering**, finds people whose past behaviour resembles yours and recommends what they liked: “people who watched this also watched…”.
+
+In **2006**, Netflix offered a **$1 million prize** to anyone who could improve its recommendation accuracy by 10%. Thousands of teams competed; a combined team won in **2009**. Interestingly, Netflix never fully used the winning solution, partly because it was too complex to run at scale, and partly because the business had shifted from DVDs by post to streaming.
+
+Many platforms optimise their recommendations for **engagement**: clicks, watch time, likes and shares. That’s good for keeping people on the platform, but critics argue it can favour content that’s sensational, outrageous or emotionally provocative, because such content tends to hold attention.
+
+=== callout open-question | Do algorithms trap us in filter bubbles?
+The activist **Eli Pariser** popularised the term **filter bubble** in 2011: the idea that personalised algorithms show us only what we already agree with, isolating us from other views. It’s an intuitive and widely repeated idea, but research has produced mixed results. Several studies suggest that many people’s online news diets are more varied than the theory predicts, and that people’s own choices, and offline factors, play a large role in polarisation. Large 2023 studies of Facebook and Instagram during the US election found that changing feed algorithms changed what people saw, but had little measurable effect on their political attitudes over a few months. The debate continues.
+
+=== text How algorithms become unfair
+Algorithms can produce unfair outcomes in several ways, even when no one intends it:
+
+- **Biased training data**: if historical data reflects discrimination, the algorithm learns it, as in the Amazon case.
+- **Proxy variables**: even if race or gender is removed from the data, other variables, like postcode, school or shopping habits, can be closely correlated with them and act as stand-ins.
+- **Unrepresentative data**: a 2018 study by researchers **Joy Buolamwini** and **Timnit Gebru** found that several commercial facial analysis systems were far less accurate for darker-skinned women than for lighter-skinned men, partly because the training images over-represented lighter-skinned faces. The companies involved later improved their systems.
+- **Feedback loops**: a predictive policing system sends more police to areas with more recorded crime, which leads to more crime being recorded there, which reinforces the prediction.
+
+=== callout analogy
+Think of a machine-learning algorithm as a very diligent apprentice who learns only by watching past decisions, with no understanding of why they were made. If the previous managers were biased, the apprentice faithfully copies the bias, and does it consistently, at enormous scale, with an air of objectivity that makes it harder to question.
+
+=== text Can fairness even be defined?
+In **2016**, the news organisation **ProPublica** analysed **COMPAS**, a tool used in some US courts to predict whether defendants would reoffend. It reported that Black defendants who did not reoffend were almost twice as likely as white defendants to be wrongly labelled high-risk. The company disputed the analysis, pointing out that the scores were equally accurate across groups by a different measure.
+
+Computer scientists then proved something striking: when two groups have different underlying rates of the outcome being predicted, it is **mathematically impossible** to satisfy several intuitive definitions of fairness at the same time. Choosing which definition matters most is not purely a technical question; it’s an **ethical and political** one, which connects to the Philosophy and Law regions.
+
+=== text Problems too hard to solve quickly
+Some problems seem to be fundamentally hard for algorithms. The classic example is the **travelling salesperson problem**: given a list of cities and distances between them, find the shortest route that visits each city exactly once and returns home.
+
+For a handful of cities, you can check every route. But the number of possible routes explodes: for just 20 cities, there are about **60 thousand million million** possible round trips. No known algorithm can solve every instance quickly as the number of cities grows, though clever methods find very good, near-optimal routes in practice.
+
+This connects to one of the biggest open questions in mathematics and computer science: **P versus NP**. Roughly: if a solution to a problem can be **checked** quickly, can it always be **found** quickly too? Most experts suspect the answer is no, but no one has proved it either way. The Clay Mathematics Institute offers **$1 million** for a solution. A proof that P equals NP would transform computing, and could break much of the cryptography that protects the internet.
+
+=== steps Questions to ask about an algorithm that affects people
+- **What is it optimising for?** Engagement, profit, accuracy, fairness, safety?
+- **What data was it trained on**, and whose experiences might be missing or distorted?
+- **Who checks it**, and can its decisions be explained?
+- **Can people appeal** a decision, and is there a human involved?
+- **Who benefits, and who bears the risk** if it’s wrong?
+- Increasingly, laws require answers. The EU’s **AI Act** sets stricter rules for “high-risk” uses such as hiring, credit and law enforcement.
+
+=== keypoints
+- Many influential algorithms now make **decisions about people**, often using **machine learning**.
+- **PageRank (1998)** ranked web pages by treating links as votes, the basis of Google search.
+- **Recommendation engines** use techniques like **collaborative filtering** and often optimise for **engagement**.
+- Algorithms can be unfair through **biased data**, **proxy variables**, **unrepresentative samples** and **feedback loops**.
+- Different definitions of fairness can be **mathematically incompatible**, as the **COMPAS** debate showed.
+- Some problems, like the **travelling salesperson problem**, have no known fast solution; **P vs NP** remains unsolved.
+
+=== why
+Algorithms increasingly influence what you see, what opportunities you’re offered and how you’re judged. Understanding how they can go wrong helps you use technology critically, question automated decisions and take part in public debates about how algorithms should be governed. The choices embedded in them are human choices, and they deserve scrutiny.
+
+##### LESSON
+id: tech.software.1
+title: Software: Turning Ideas into Instructions
+minutes: 14
+check: In your own words: what is a programming language and why do we need compilers or interpreters, what does an operating system do, and what is open-source software?
+
+=== hook
+In **1843**, decades before electronic computers existed, a British mathematician named **Ada Lovelace** published a set of notes on a mechanical calculating machine designed by her friend **Charles Babbage**, the Analytical Engine. It was never fully built.
+
+In her notes, Lovelace described, step by step, how the machine could calculate a sequence of numbers called Bernoulli numbers: often described as the first published algorithm intended for a machine. More remarkably, she saw that such a machine might manipulate not just numbers but symbols of any kind, perhaps even composing music. She had glimpsed the idea of **software**: that one machine, given different instructions, could do entirely different things.
+
+=== core
+**Hardware** is the physical machine: processors, memory, screens. **Software** is the set of instructions that tells the hardware what to do. The same phone hardware can be a camera, a calculator, a map or a game, depending on which software is running.
+
+A **program** is a set of instructions written to perform a task. Programs are written in **programming languages**: precise, formal languages that humans can read and write, which are then translated into the binary machine instructions processors understand.
+
+=== text From switches to languages
+The earliest electronic computers, in the 1940s, were programmed by setting switches and plugging cables, or by writing raw **machine code**: long sequences of binary numbers. It was slow, error-prone and specific to each machine.
+
+Over time, programmers built layers of abstraction:
+
+- **Assembly language** replaced binary numbers with short words, like ADD or MOV, but still matched the machine’s instructions one to one.
+- **High-level languages** let programmers write instructions closer to human thinking. **FORTRAN** (1957) was designed for scientific calculations. **COBOL** (1959), influenced by the work of US Navy computer scientist **Grace Hopper**, was designed for business and is still running in many banks and governments today.
+- Later languages include C (1972), Python (1991), Java (1995), JavaScript (1995) and many others, each suited to different tasks.
+
+Grace Hopper also built one of the first **compilers** in the early 1950s: a program that translates code written in a higher-level language into machine code. Many people at the time didn’t believe computers could write programs for themselves.
+
+=== text Compilers and interpreters
+There are two main ways to turn human-readable code into something a computer can run:
+
+- A **compiler** translates the whole program into machine code ahead of time, producing a file that runs directly. Compiled programs usually run fast.
+- An **interpreter** reads and executes the program line by line as it runs. This is more flexible and convenient for experimenting, but often slower.
+
+Many modern languages blend the two approaches.
+
+=== callout analogy
+Think of a compiler as a translator who translates an entire book from English into Hindi before publication; readers then read the translation directly. An interpreter is like a live interpreter at a conference, translating each sentence as the speaker says it. The book translation is faster to read; the live interpreter can handle surprises on the spot.
+
+=== text The building blocks of programs
+Almost every programming language, however different it looks, provides a few core building blocks:
+
+- **Variables**: named containers for values, like *score = 10*.
+- **Conditions**: making decisions. *If the password is correct, open the account; otherwise, show an error.*
+- **Loops**: repeating actions. *For each photo in the album, make a thumbnail.*
+- **Functions**: named, reusable blocks of instructions, like *calculate_tax(income)*, which can be used again and again.
+- **Data structures**: ways of organising data, like lists, tables and maps.
+
+With just these ideas, combined and layered, programmers build everything from calculators to social networks.
+
+=== steps A tiny program in plain language
+- **Goal:** a step counter app that congratulates you when you reach your daily goal.
+- **Variables:** *goal = 8000*; *steps = 0*.
+- **Loop:** every time the phone’s sensor detects a step, add 1 to *steps*.
+- **Condition:** if *steps* equals *goal*, show the message “Goal reached!”.
+- **Function:** *distance(steps)* multiplies steps by an average stride length to estimate how far you’ve walked.
+- Real apps contain thousands or millions of lines like these, organised into many parts, but the basic logic is the same.
+
+=== text Operating systems: the manager
+When you turn on a computer or phone, the first major software that runs is the **operating system (OS)**: Windows, macOS, Linux, Android or iOS. It acts as a manager between the hardware and all the other programs:
+
+- It shares the processor’s time between many programs, switching so fast they seem to run at once.
+- It manages memory, giving each program its own space and preventing them from interfering with each other.
+- It controls files and storage, the screen, the network and devices like cameras and microphones.
+- It enforces security and permissions, for example asking whether an app may access your location.
+
+Apps don’t talk to the hardware directly; they ask the operating system, which keeps everything orderly and secure.
+
+=== reveal Much of the world’s software is written by volunteers and given away for free. Why would anyone do that, and how can it be trusted?
+That’s **open-source software**: software whose code is publicly available for anyone to read, use, modify and share. In **1991**, a Finnish student named **Linus Torvalds** began writing an operating system kernel as a hobby and shared it online. Thousands of contributors joined. **Linux** now runs most of the world’s web servers and supercomputers, and Android is built on it. People contribute for many reasons: to fix problems they face themselves, to learn, to build a reputation, out of shared values, or because their employers pay them to, since companies benefit from shared tools. Openness can improve trust, because anyone can inspect the code for flaws, though in practice some widely used open-source projects are maintained by just a few overstretched volunteers, which has caused security problems.
+
+=== keypoints
+- **Hardware** is the physical machine; **software** is the instructions that run on it.
+- **Ada Lovelace** published what is often called the first algorithm for a machine in **1843**.
+- Programming moved from **machine code** to **assembly** to **high-level languages** like FORTRAN, COBOL and Python.
+- **Compilers** translate whole programs ahead of time; **interpreters** run them line by line. **Grace Hopper** built an early compiler.
+- Core building blocks: **variables, conditions, loops, functions** and **data structures**.
+- The **operating system** manages hardware, memory, files and security for all other programs.
+- **Open-source software**, like **Linux**, is freely shared and underpins much of the internet.
+
+=== why
+Software runs almost every system in modern life, from banking and hospitals to transport and entertainment. Understanding what it is and how it’s built demystifies technology, and is a first step if you ever want to write code yourself. Next, you’ll see what happens when software goes wrong, and how engineers try to prevent it.
+
+##### LESSON
+id: tech.software.2
+title: When Software Fails
+minutes: 15
+prereq: tech.software.1
+check: In your own words: why is software so prone to bugs, describe one famous software failure and its cause, and name two practices engineers use to reduce errors.
+
+=== hook
+On **4 June 1996**, the European Space Agency launched the first **Ariane 5** rocket from French Guiana. About **37 seconds** after lift-off, it veered off course and broke apart, destroying itself and the four scientific satellites it carried, a loss estimated at hundreds of millions of dollars.
+
+The cause was a few lines of software. Code reused from the older Ariane 4 tried to convert a large number, the rocket’s horizontal speed, into a format too small to hold it. On the slower Ariane 4, the number had never grown that large. On the faster Ariane 5, it overflowed, the guidance system shut down, and the backup system, running identical code, failed the same way a moment earlier. A tiny, invisible assumption destroyed one of the most expensive launches of its time.
+
+=== core
+A **bug** is an error in software that makes it behave in unintended ways. The term predates computers; engineers, including Thomas Edison, used it for technical faults in the 1800s. A famous story from **1947** describes Grace Hopper’s team finding an actual moth trapped in a relay of the Harvard Mark II computer, taping it into their logbook with the note “first actual case of bug being found”. The joke worked because “bug” was already in use.
+
+Software is unusually prone to errors because:
+
+- **It’s enormously complex.** Large systems contain millions of lines of code, with countless interactions between parts.
+- **It does exactly what it’s told**, not what its authors meant. A single wrong character can change behaviour.
+- **It runs in unpredictable environments**: different devices, networks, inputs and users who do things nobody anticipated.
+- **It changes constantly**, and each change can break something that previously worked.
+
+=== text Famous failures and what they taught
+**Therac-25 (1985–1987)**: a radiation therapy machine gave massive overdoses to at least six patients in the US and Canada, several of whom died. Investigations found software flaws, including a timing problem that only appeared when operators typed quickly, combined with the removal of hardware safety locks that earlier models had. It became a landmark case in software safety.
+
+**Mars Climate Orbiter (1999)**: NASA lost a spacecraft as it approached Mars because one engineering team’s software produced results in **imperial units** (pound-force seconds) while another team’s software expected **metric units** (newton-seconds). The spacecraft flew too close to the planet and was lost.
+
+**The Y2K problem**: many older programs stored years as two digits, “99” for 1999, to save memory. As 2000 approached, experts feared “00” would be read as 1900, causing errors in banking, power and transport systems. Governments and companies spent large sums fixing code worldwide. When 1 January 2000 arrived, problems were relatively minor, which some people took as proof the fears were exaggerated, while many engineers argued it was proof that the fixes worked.
+
+**The CrowdStrike outage (July 2024)**: a faulty update to widely used cybersecurity software caused around **8.5 million** Windows computers to crash, disrupting airlines, hospitals, banks and broadcasters worldwide, a striking example of how a single update can ripple through interconnected systems.
+
+=== callout analogy
+Think of a large software system as a vast city built from Lego, where every brick connects to many others and thousands of builders keep adding and replacing pieces every day. Most changes are harmless. But occasionally, removing or reshaping one small brick, deep inside, causes a section somewhere unexpected to collapse, and finding which brick caused it can be the hardest part.
+
+=== text How engineers fight bugs
+Software engineering has developed many practices to reduce errors:
+
+- **Testing**: writing automated tests that check whether code behaves correctly, run every time the code changes. Large projects can have more test code than product code.
+- **Code review**: other engineers read changes before they’re accepted, catching mistakes and sharing knowledge.
+- **Version control**: tools like **Git** (created by Linus Torvalds in 2005) record every change, who made it and why, so problems can be traced and changes undone.
+- **Gradual rollouts**: releasing updates to a small percentage of users first, watching for problems, then expanding, a lesson reinforced by outages like CrowdStrike’s.
+- **Defensive design and redundancy**: assuming things will go wrong and building safeguards, such as independent backup systems that don’t share the same code, the lesson from Ariane 5.
+- **Formal verification**: for the most safety-critical systems, like aircraft controls, mathematically proving that certain errors cannot occur.
+
+=== text Why software projects are hard to manage
+In **1975**, the computer scientist **Fred Brooks**, who had managed the development of IBM’s large OS/360 operating system, published *The Mythical Man-Month*. Its most famous insight, now called **Brooks’s law**: **adding more people to a late software project makes it later**. New team members need time to learn the system, and more people means more communication and coordination.
+
+Teams also accumulate **technical debt**: shortcuts taken to deliver quickly, which make future changes harder, like interest building up on a loan. Many modern teams use **agile** methods, building software in small increments, getting feedback frequently and adjusting, rather than planning everything up front.
+
+=== steps Debugging: how programmers find a bug
+- **Reproduce it.** Find a reliable way to make the problem happen. A bug you can’t reproduce is very hard to fix.
+- **Narrow it down.** Divide the system in half, check which half the problem is in, and repeat, the same binary search idea from the algorithms lessons.
+- **Form a hypothesis** about the cause, and test it.
+- **Fix the cause, not just the symptom.**
+- **Write a test** that would have caught the bug, so it can’t silently return.
+- **Ask why it happened**: was it a misunderstanding, missing test or unclear design? Many organisations run blameless reviews after major failures, focusing on improving systems rather than punishing individuals.
+
+=== reveal If software is so error-prone, how can we trust it with aircraft, medical devices and power grids?
+Safety-critical software is built very differently from typical apps. It follows strict standards, like those used in aviation, that require extensive documentation, rigorous testing of every possible path through the code, independent review and, increasingly, mathematical verification. Systems are designed with **redundancy**, so no single failure is catastrophic, and with humans able to intervene. This makes development much slower and more expensive. Even so, failures still happen, as investigations into the Boeing 737 MAX crashes in 2018 and 2019 showed, where a flight control system relying on a single sensor, combined with inadequate pilot information and oversight failures, contributed to two disasters. Trust has to be continually earned through design, regulation and transparency.
+
+=== keypoints
+- A **bug** is an error causing unintended behaviour; software is bug-prone because of **complexity**, **literalness**, **unpredictable environments** and **constant change**.
+- **Ariane 5 (1996)** exploded because of a number overflow in reused code; **Mars Climate Orbiter (1999)** was lost over a **units mismatch**.
+- **Therac-25** overdoses showed the danger of relying on software alone for safety.
+- Practices like **testing**, **code review**, **version control**, **gradual rollouts** and **redundancy** reduce errors.
+- **Brooks’s law**: adding people to a late project makes it later; **technical debt** builds up from shortcuts.
+- Safety-critical systems use strict standards, **redundancy** and **verification**, but failures still occur.
+
+=== why
+Software failures can cost money, disrupt daily life and occasionally cost lives. Understanding why they happen, and how good engineering reduces them, helps you appreciate both the fragility and the reliability of the digital systems you depend on. These ideas, about complexity, redundancy and learning from failure, apply far beyond software, to organisations, policy and engineering of all kinds.
+
+##### LESSON
+id: tech.cryptography.1
+title: Secret Codes: From Caesar to Your Phone
+minutes: 15
+check: In your own words: what is the key distribution problem, and how does public-key cryptography solve it?
+
+=== hook
+In the 1930s, Nazi Germany believed its military communications were unbreakable. Messages were scrambled by **Enigma**, a typewriter-like machine whose rotors and wiring could be set in about **159 million million million** different ways, changed every day.
+
+Yet Polish mathematicians, led by **Marian Rejewski**, first broke Enigma in **1932**, using mathematics and intelligence material. Just before the war, they shared their methods with British and French intelligence. At **Bletchley Park** in England, thousands of people, including **Alan Turing**, built on their work to read German messages on a vast scale. Some historians estimate this shortened the war by around two years. The battle between code makers and code breakers has shaped history, and today it protects every message and payment on your phone.
+
+=== core
+**Cryptography** is the science of protecting information by transforming it so that only the intended people can read it. The original message is called the **plaintext**; the scrambled version is the **ciphertext**. Turning plaintext into ciphertext is **encryption**; turning it back is **decryption**.
+
+Most encryption methods have two parts:
+
+- An **algorithm**: the general method of scrambling.
+- A **key**: a secret value that controls exactly how the scrambling is done.
+
+A key principle, stated by the Dutch cryptographer **Auguste Kerckhoffs** in **1883**, is that a system should remain secure even if everything about it except the key is public. Good cryptography doesn’t rely on keeping the method secret; it relies on keeping the key secret.
+
+=== steps The Caesar cipher
+- The Roman general **Julius Caesar** reportedly protected messages by shifting each letter a fixed number of places along the alphabet.
+- With a shift of **3**, A becomes D, B becomes E, C becomes F, and so on, wrapping around at the end: X becomes A, Y becomes B, Z becomes C.
+- The message **ATTACK** becomes **DWWDFN**.
+- To decrypt, shift each letter back by 3.
+- Here, the algorithm is “shift the letters”, and the key is the number **3**.
+- The weakness: there are only 25 possible shifts, so an attacker can simply try them all. This is called a **brute-force attack**. Modern encryption uses keys with so many possibilities that trying them all would take longer than the age of the universe.
+
+=== text Breaking codes with patterns
+More complex ciphers replace each letter with a different, random letter, giving vastly more possible keys. For centuries these seemed unbreakable. But in the 9th century, the Arab scholar **Al-Kindi**, working in Baghdad, described a powerful technique: **frequency analysis**.
+
+In any language, some letters appear more often than others. In English, E is the most common, followed by letters like T and A. If a ciphertext’s most common symbol is X, it probably stands for E. By matching frequencies and looking for common patterns, a code breaker can gradually unravel the message. The lesson: a cipher can have a huge number of possible keys and still be weak, if it leaves patterns behind.
+
+=== text The key distribution problem
+For most of history, encryption was **symmetric**: the same key was used to encrypt and decrypt. That creates a fundamental problem. Before two people can communicate secretly, they must somehow **share the key** secretly, by meeting in person, using a trusted courier or some other safe channel.
+
+That works for generals and spies, but not for the internet. You can’t meet every online shop, bank and messaging service in person to exchange secret keys before using them.
+
+=== callout analogy
+Here’s the brilliant solution, in everyday terms. Imagine you want people to send you secret letters. You manufacture thousands of open **padlocks** and hand them out freely to anyone. Only you keep the **key** that opens them. Anyone can put a message in a box, snap your padlock shut and send it to you. Once locked, not even the sender can open it. Only you can. You never had to share your key with anyone.
+
+=== text Public-key cryptography
+In **1976**, **Whitfield Diffie** and **Martin Hellman** published a method allowing two people to agree on a shared secret key over a public channel, even if eavesdroppers are listening. In **1977**, **Ron Rivest**, **Adi Shamir** and **Leonard Adleman** created **RSA**, a complete public-key system. (It later emerged that British intelligence mathematicians at GCHQ, including **Clifford Cocks**, had developed similar ideas secretly a few years earlier.)
+
+In **public-key cryptography**, each person has two mathematically linked keys:
+
+- A **public key**, which can be shared with anyone: the open padlock.
+- A **private key**, which is kept secret: the key to the padlock.
+
+Anything encrypted with someone’s public key can only be decrypted with their private key. The security relies on mathematical problems that are easy to do in one direction but extremely hard to reverse. RSA, for example, relies on the fact that multiplying two very large prime numbers is easy, but working out which two primes were multiplied, given only the result, is extraordinarily hard for numbers hundreds of digits long.
+
+=== text Cryptography in your pocket
+Every day, public-key and symmetric cryptography work together to protect you:
+
+- **HTTPS**: when you visit a secure website (the padlock in your browser), your device and the server use public-key cryptography to agree on a fresh symmetric key, then use fast symmetric encryption for the rest of the session.
+- **Digital signatures**: the same mathematics can prove that a message or software update genuinely came from a particular sender and hasn’t been altered.
+- **End-to-end encryption**: messaging apps like WhatsApp and Signal encrypt messages so that only the sender and recipient can read them, not even the company running the service. WhatsApp switched on end-to-end encryption for all users in **2016**, using the protocol developed by Signal.
+- **Payments**: card payments, UPI transactions and online banking rely on cryptography at every step.
+
+=== reveal If encryption is so strong, why do so many accounts still get hacked?
+Because attackers rarely break the encryption itself. It’s almost always easier to go around it: tricking people into revealing passwords or one-time codes (as in the scams lessons), exploiting bugs in software, stealing passwords from poorly protected databases, or installing malware on devices so messages can be read before they’re encrypted or after they’re decrypted. Cryptography is like a superb lock on a front door; it doesn’t help if someone is tricked into opening the door, or if a window is left open. The next lesson explores these weak points.
+
+=== keypoints
+- **Cryptography** turns **plaintext** into **ciphertext** using an **algorithm** and a secret **key**.
+- **Kerckhoffs’s principle (1883)**: security should depend on keeping the **key** secret, not the method.
+- The **Caesar cipher** is easily broken by **brute force**; **frequency analysis** (Al-Kindi, 9th century) breaks many substitution ciphers.
+- **Enigma** was first broken by Polish mathematicians (**1932**), then at **Bletchley Park** with Alan Turing.
+- **Symmetric** encryption faces the **key distribution problem**.
+- **Public-key cryptography** (Diffie–Hellman 1976, RSA 1977) uses a **public key** to lock and a **private key** to unlock.
+- It protects **HTTPS**, **digital signatures**, **end-to-end encrypted messaging** and **payments**.
+
+=== why
+Cryptography is the invisible foundation of trust online. Without it, online banking, shopping, private messaging and secure software updates would be impossible. Understanding the basic ideas helps you recognise what really protects you, and what doesn’t, and makes sense of public debates about privacy, surveillance and security.

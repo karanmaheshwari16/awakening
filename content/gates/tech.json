@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tech.gate.1",
+    "region": "tech",
+    "tier": 1,
+    "title": "Follow the Message",
+    "question": "You send a WhatsApp message to a friend in another country. Trace its journey from your thumb to their screen, explaining the role of the processor, software, the internet’s packets and routers, and encryption. Which step would an attacker most likely target, and why?",
+    "links": ["computers", "software", "internet", "cryptography", "algorithms"],
+    "model_answer": "When you tap send, the app (software running on your phone’s operating system) takes the text, which is stored as numbers in binary, and asks the processor to work through instructions in the fetch–decode–execute cycle. Before it leaves your phone, the app encrypts the message end to end using keys that only your phone and your friend’s phone hold; public-key cryptography lets the two phones agree on those keys without ever sending the secret openly.\n\nThe encrypted data is broken into packets, each labelled with addresses. Your Wi-Fi or mobile network passes them to your internet provider, and routers forward each packet step by step towards the messaging company’s servers, probably crossing an undersea fibre-optic cable. TCP makes sure lost packets are resent and everything is reassembled in order. The server cannot read the content because it is end-to-end encrypted; it simply passes it to your friend’s phone, which decrypts it with its private key and displays it.\n\nAn attacker would most likely not try to break the encryption itself, which is mathematically very strong. They would target the weakest points: the people and the devices. For example, phishing to steal account access or one-time codes, a SIM-swap to take over the phone number, malware installed on a phone that reads messages before encryption or after decryption, or unpatched software with known bugs.",
+    "key_points": [
+      "Software and the processor turn the text into binary data and run the app's instructions.",
+      "End-to-end encryption uses public-key methods so only the two phones can read the message.",
+      "Data travels as packets through routers and cables; TCP ensures complete, ordered delivery.",
+      "The server relays encrypted data it cannot read.",
+      "Attackers target people and devices (phishing, SIM swaps, malware, unpatched bugs), not the maths."
+    ]
+  },
+  {
+    "id": "tech.gate.2",
+    "region": "tech",
+    "tier": 2,
+    "title": "The Automated Judge",
+    "question": "A city plans to use an AI system, trained on past records, to decide which welfare applications to investigate for fraud. Using what you have learned about machine learning, algorithmic bias, software failures and security, explain the main risks and propose safeguards that would make such a system more trustworthy.",
+    "links": ["ai", "algorithms", "software", "cryptography"],
+    "model_answer": "A machine learning system learns patterns from examples rather than following explicit rules, so it will reproduce whatever patterns exist in the past records, including unfair ones. If certain neighbourhoods or groups were investigated more in the past, they will appear more often as fraud cases, the model will flag them more, more investigations will find more cases there, and the bias reinforces itself in a feedback loop. Even if protected characteristics like ethnicity or gender are removed, proxy variables such as postcode or language can stand in for them. Different definitions of fairness can also conflict mathematically, so choosing one is an ethical decision, not just a technical one.\n\nModels can also be opaque, so applicants may not understand why they were flagged. Like any software, the system can contain bugs, be updated badly or fail in unexpected situations, affecting thousands of people at once. It will hold sensitive personal data, making it a target for attackers.\n\nSafeguards: test the model for accuracy and error rates across different groups before and after deployment; use it to prioritise human review rather than to make final decisions; give people clear explanations and a meaningful right to appeal; publish how it works and allow independent audits; roll out gradually and monitor outcomes; protect data with strong security and minimise what is collected; and be ready to switch it off if harms appear. Laws such as the EU AI Act treat uses like this as high-risk, requiring many of these protections.",
+    "key_points": [
+      "Models trained on past records can learn and amplify historical bias, including through feedback loops.",
+      "Proxy variables can recreate discrimination even without protected attributes.",
+      "Fairness definitions can conflict; choosing between them is an ethical decision.",
+      "Opacity, bugs and security risks affect many people at once.",
+      "Safeguards: group-level testing, human review, explanations and appeals, audits, gradual rollout, strong data protection."
+    ]
+  }
+]

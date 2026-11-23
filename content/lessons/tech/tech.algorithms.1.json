@@ -1,0 +1,78 @@
+{
+  "id": "tech.algorithms.1",
+  "region": "tech",
+  "topic": "algorithms",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Recipes for Machines",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Think of a number between 1 and 1,000,000. I promise I can find it in **20 guesses or fewer**, as long as you tell me after each guess whether your number is higher or lower.\n\nIt sounds like a magic trick, but it’s just a clever method. Each guess cuts the remaining possibilities in half: a million, then half a million, then a quarter of a million, and so on. After 20 halvings, only one number is left. That method is an **algorithm**, and the difference between a clever algorithm and a naive one can be the difference between an answer in a millisecond and an answer in a lifetime."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "An **algorithm** is a precise, step-by-step set of instructions for solving a problem or completing a task. A recipe is an algorithm for cooking. Long division is an algorithm for dividing numbers. Directions to a friend’s house are an algorithm for getting there.\n\nThe word comes from the name of **Muhammad ibn Musa al-Khwarizmi**, the 9th-century Persian mathematician working in Baghdad whose writings on arithmetic and algebra (another word derived from his work) introduced Hindu-Arabic numerals to the wider world, as you saw in the Math region. When his works were translated into Latin, his name became “Algoritmi”.\n\nFor computers, algorithms must be completely **unambiguous**: every step must be exact, because computers do precisely what they’re told, no more and no less."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine giving instructions to someone who follows them perfectly literally and has no common sense. “Make a cup of tea” isn’t enough. You need: fill the kettle with water; switch it on; wait until it boils; put a tea bag in a cup; pour in the boiling water; wait three minutes; remove the tea bag. Writing algorithms for computers is like this, except the instructions often number in the millions."
+    },
+    {
+      "type": "text",
+      "heading": "Searching: two approaches",
+      "md": "Suppose you need to find a particular name in a list of a million names.\n\n**Linear search**: check each name in turn, from the start, until you find it. In the worst case, you check all **1,000,000**. Simple, and it works on any list.\n\n**Binary search**: if the list is **sorted** (like a dictionary), open it in the middle. Is your name before or after this point? Discard the half that can’t contain it, and repeat on the remaining half. Each step halves the possibilities, so a million names take at most about **20** steps. A billion names take only about **30**.\n\nThe catch: binary search only works if the data is sorted first. This trade-off, doing some work up front to make later tasks much faster, appears throughout computing."
+    },
+    {
+      "type": "steps",
+      "title": "Guessing a number from 1 to 100 with binary search",
+      "items": [
+        "Your secret number is **73**. I guess the middle: **50**. You say “higher”. Now it must be between 51 and 100.",
+        "I guess the middle of that range: **75**. “Lower.” Now it’s between 51 and 74.",
+        "I guess **62**. “Higher.” Now 63 to 74.",
+        "I guess **68**. “Higher.” Now 69 to 74.",
+        "I guess **71**. “Higher.” Now 72 to 74.",
+        "I guess **73**. Correct, in **6 guesses**. For any number from 1 to 100, binary search never needs more than **7**, because 2 to the power of 7 is 128, which is more than 100."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why efficiency matters: how algorithms scale",
+      "md": "Computer scientists care less about how fast an algorithm is on small inputs and more about how its running time **grows** as the input gets bigger. They describe this using **Big O notation**.\n\n- **Linear search** grows in proportion to the size of the list: double the list, double the work.\n- **Binary search** grows **logarithmically**: double the list, and you need just **one** extra step.\n- Some algorithms grow much faster. A simple way of sorting, called **bubble sort**, repeatedly compares neighbouring items and swaps them if they’re in the wrong order. For a list of n items, it can take around n² comparisons: sorting a million items could take around a trillion steps.\n- Cleverer sorting algorithms, like **merge sort** (invented by John von Neumann in 1945), split the list in halves, sort each half, then merge them, taking roughly n × log n steps: for a million items, around 20 million steps, about **50,000 times** fewer than bubble sort.\n\nOn today’s fast computers, that can be the difference between a fraction of a second and many hours."
+    },
+    {
+      "type": "text",
+      "heading": "An algorithm in your pocket",
+      "md": "When your maps app finds the fastest route, it’s using descendants of an algorithm invented by the Dutch computer scientist **Edsger Dijkstra** in **1956**. He later said he designed it in about twenty minutes, sitting at a café terrace in Amsterdam, without pencil and paper.\n\n**Dijkstra’s algorithm** finds the shortest path through a network, like roads between junctions. It starts from your location, repeatedly picks the nearest unvisited junction, and updates the shortest known distances to its neighbours, until it reaches the destination. Modern navigation systems add many refinements, such as live traffic data and techniques to avoid exploring irrelevant roads, but the core idea remains."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Are some problems impossible for any algorithm to solve?",
+      "md": "Yes. In **1936**, the British mathematician **Alan Turing** proved that some problems are **undecidable**: no algorithm can ever solve them in general. His famous example, the **halting problem**, asks: given any program and its input, can you determine whether the program will eventually stop or run forever? Turing proved that no algorithm can answer this correctly for every possible program. This was a profound discovery: before computers even existed, Turing showed that there are hard limits to what computation can do. Other problems are solvable in principle but would take impossibly long for large inputs, as you’ll see in the next lesson."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "An **algorithm** is a precise, step-by-step procedure for solving a problem; the word comes from **al-Khwarizmi**.",
+        "**Linear search** checks items one by one; **binary search** halves a **sorted** list each step, finding one item in a million in about **20 steps**.",
+        "**Big O notation** describes how an algorithm’s work **grows** with input size.",
+        "**Bubble sort** takes around **n²** steps; **merge sort** takes around **n log n**, hugely faster for big lists.",
+        "**Dijkstra’s algorithm (1956)** finds shortest paths and underlies navigation apps.",
+        "**Turing (1936)** proved some problems, like the **halting problem**, can’t be solved by any algorithm."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Algorithms are the hidden engines of modern life, ranking search results, routing deliveries, recommending videos, detecting fraud and much more. Understanding what they are, and why efficiency matters, helps you think more clearly about technology, and is the first step towards understanding how algorithms are shaping society, the subject of the next lesson."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is an algorithm, and why can binary search find something in a million items so much faster than checking them one by one?"
+  }
+}

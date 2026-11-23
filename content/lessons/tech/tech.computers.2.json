@@ -1,0 +1,80 @@
+{
+  "id": "tech.computers.2",
+  "region": "tech",
+  "topic": "computers",
+  "level": 2,
+  "prerequisites": [
+    "tech.computers.1"
+  ],
+  "title": "Inside the Chip: The Most Complex Thing Humans Make",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "The most advanced chips in the world are made using machines built by a single company, **ASML**, in the Netherlands. Each of its extreme ultraviolet (EUV) lithography machines is about the size of a bus, costs well over **100 million euros** and is shipped in dozens of crates.\n\nInside, droplets of molten tin are fired across a chamber about **50,000 times a second**, and each droplet is blasted by a powerful laser to create a flash of light at a wavelength of just **13.5 nanometres**. That light, bounced off some of the smoothest mirrors ever made, prints patterns on silicon with features only a few dozen atoms wide. The chip in your phone is, quite plausibly, the most complex object you own."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that computers are built from billions of transistor switches combined into logic gates. This lesson looks at how a processor actually uses them to run programs, and how such tiny structures are made.\n\nAlmost every modern computer follows a design described in **1945** by the mathematician **John von Neumann** and colleagues: the **stored-program computer**. Both the program’s instructions and the data it works on are stored in the same memory as numbers. The processor fetches instructions one after another and carries them out."
+    },
+    {
+      "type": "steps",
+      "title": "The fetch–decode–execute cycle",
+      "items": [
+        "**Fetch:** the processor reads the next instruction from memory. A special register (a tiny, ultra-fast storage slot inside the processor) called the **program counter** keeps track of where it is.",
+        "**Decode:** circuits work out what the instruction means: add two numbers, compare values, load data from memory, jump to a different instruction, and so on. Each processor family has its own **instruction set**, such as x86 in many laptops or ARM in most phones.",
+        "**Execute:** the processor carries out the instruction, often using its **arithmetic logic unit** (ALU), built from the logic gates you met before.",
+        "**Store:** the result is written to a register or to memory.",
+        "**Repeat**, billions of times per second. A processor’s **clock** sends regular electrical pulses that keep each step in sync. A 3 GHz clock ticks 3 billion times per second.",
+        "Modern processors cheat cleverly: they work on several instructions at once in a **pipeline**, guess which way decisions will go, and even execute instructions out of order, then tidy up the results."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The memory problem",
+      "md": "Processors became fast much more quickly than memory did. A processor can perform an operation in well under a nanosecond, but fetching data from main memory (RAM) can take around **100 nanoseconds**: hundreds of wasted cycles. Fetching from an SSD can take tens of thousands of times longer still.\n\nThe solution is a **memory hierarchy**:\n\n- **Registers**: a handful of storage slots inside the processor itself. Instant access.\n- **Caches** (levels L1, L2, L3): small amounts of very fast memory on the chip, holding recently and frequently used data.\n- **RAM**: larger, slower main memory.\n- **Storage** (SSD or hard drive): huge, permanent, and much slower.\n\nThe processor checks the fastest layer first. Because programs tend to reuse the same data and nearby data (a principle called **locality**), caches can satisfy most requests, hiding the slowness of memory most of the time."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a chef. The ingredients in their hand are the registers. The worktop beside them is the cache. The fridge across the kitchen is RAM. The supermarket down the road is storage. A good chef keeps what they need most within arm’s reach and fetches from further away as rarely as possible. Computer design is largely about keeping the chef busy instead of walking to the shops."
+    },
+    {
+      "type": "text",
+      "heading": "How chips are made",
+      "md": "Chips start as ordinary **sand**, which is mostly silicon dioxide. The silicon is purified to an extraordinary degree, so that only around one atom in a billion is an impurity, then grown into large cylindrical crystals and sliced into thin **wafers**.\n\nPatterns are built up layer by layer using **photolithography**: the wafer is coated with a light-sensitive chemical, exposed to light through a patterned mask, then etched, doped with other elements to change its electrical properties, and coated with new materials. A modern chip can need **dozens of layers** and hundreds of processing steps, taking months. All of this happens in **clean rooms** where the air contains far fewer dust particles than a hospital operating theatre, since a single speck can ruin a chip.\n\nBuilding a leading-edge chip factory (a **fab**) now costs **tens of billions of dollars**. Only a few companies can make the most advanced chips: Taiwan’s **TSMC** manufactures the large majority of them, with Samsung and Intel among the few others at or near the frontier. This concentration has made chips a major issue in geopolitics."
+    },
+    {
+      "type": "text",
+      "heading": "The end of easy speed-ups",
+      "md": "For decades, shrinking transistors made chips both faster and more power-efficient at the same time. Around **2005**, that free ride slowed: making transistors switch faster produced too much heat to remove. Clock speeds stopped rising much beyond a few gigahertz.\n\nInstead, chipmakers began putting multiple **cores** (complete processors) on one chip, so that work can be done in parallel. They also developed specialised chips: **GPUs** (graphics processing units), originally for video games, have thousands of simple cores that are excellent at doing many similar calculations at once, which turned out to be perfect for training artificial intelligence, as you’ll see later in this region.\n\nToday, transistor names like “3 nanometre” are largely marketing labels; the actual features aren’t that small in a simple sense, but the transistors are still astonishingly tiny and densely packed."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why are countries like the US, India and members of the EU spending billions to build their own chip factories?",
+      "md": "Because chips have become as strategically important as oil. Almost everything, from cars and phones to power grids, weapons and AI, depends on them, and production is concentrated in very few places, especially Taiwan. Disruptions during the COVID-19 pandemic caused chip shortages that halted car factories worldwide. Governments now see domestic chipmaking as a matter of economic security. The US passed the **CHIPS and Science Act** in 2022; the EU passed its own Chips Act; and **India** launched a semiconductor mission in 2021, with major fab and assembly projects announced since, such as a Tata Electronics fab in Gujarat. Building a competitive industry takes many years, enormous investment and deep expertise, so the outcomes are uncertain."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Most computers follow the **von Neumann** stored-program design (1945): instructions and data share memory.",
+        "Processors repeat the **fetch–decode–execute** cycle billions of times a second, synchronised by a **clock**.",
+        "A **memory hierarchy** (registers, caches, RAM, storage) hides the slowness of memory.",
+        "Chips are made from purified **silicon wafers** through **photolithography**, layer by layer, in clean rooms.",
+        "**ASML’s EUV** machines and fabs costing tens of billions make leading-edge chips; **TSMC** makes most of them.",
+        "Since about **2005**, gains come more from **multiple cores** and specialised chips like **GPUs** than from faster clocks."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Chips are the foundation of the digital world and increasingly of global politics and economics. Understanding how they work, and how hard they are to make, helps you make sense of news about technology, trade disputes and AI. It also builds on the switch-and-gate picture from the previous lesson, showing how simple ideas scale into the most complex machines humans have ever built."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does a processor do in each cycle, why do computers need several layers of memory, and why are advanced chips so difficult to manufacture?"
+  }
+}

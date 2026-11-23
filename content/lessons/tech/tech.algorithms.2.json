@@ -1,0 +1,91 @@
+{
+  "id": "tech.algorithms.2",
+  "region": "tech",
+  "topic": "algorithms",
+  "level": 2,
+  "prerequisites": [
+    "tech.algorithms.1"
+  ],
+  "title": "Algorithms That Shape Society",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 2014, Amazon began building an experimental AI tool to rate job applicants, trained on CVs the company had received over the previous ten years. By 2015, engineers noticed a problem: the system was penalising CVs that included the word “women’s”, as in “women’s chess club captain”, and downgrading graduates of two all-women’s colleges.\n\nNobody had programmed it to discriminate. The algorithm had learned from historical data, in which most successful applicants in technical roles had been men, and absorbed that pattern. Amazon’s engineers tried to fix it, couldn’t be confident they had, and the project was eventually scrapped. Algorithms learn from the world as it is, including its unfairness."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, algorithms were neutral recipes for tasks like searching and sorting. But many of today’s most influential algorithms make **decisions about people**: what you see in your news feed, which job ads appear to you, whether you get a loan, how long a delivery driver’s route should take, which videos go viral.\n\nThese algorithms often don’t follow simple, hand-written rules. Instead, they’re built using **machine learning**: they find patterns in large amounts of data and use them to make predictions. You’ll explore how that works in the AI lessons. Here, the focus is on their **effects**."
+    },
+    {
+      "type": "text",
+      "heading": "Ranking the web: PageRank",
+      "md": "In the late 1990s, early search engines often ranked pages by how many times they contained the search words, which was easy to game by stuffing pages with keywords.\n\nIn **1998**, two Stanford graduate students, **Larry Page** and **Sergey Brin**, published a different approach called **PageRank**, which became the basis of Google. The idea: treat a link from one page to another as a kind of **vote**. A page linked to by many pages is probably important, and a link from an important page counts for more than a link from an obscure one. Search results improved dramatically. Modern search engines use hundreds of signals, but the insight that the web’s link structure reveals importance was transformative."
+    },
+    {
+      "type": "text",
+      "heading": "Recommendation engines",
+      "md": "Streaming services, shops and social media use **recommendation algorithms** to predict what you’ll want next. A common technique, **collaborative filtering**, finds people whose past behaviour resembles yours and recommends what they liked: “people who watched this also watched…”.\n\nIn **2006**, Netflix offered a **$1 million prize** to anyone who could improve its recommendation accuracy by 10%. Thousands of teams competed; a combined team won in **2009**. Interestingly, Netflix never fully used the winning solution, partly because it was too complex to run at scale, and partly because the business had shifted from DVDs by post to streaming.\n\nMany platforms optimise their recommendations for **engagement**: clicks, watch time, likes and shares. That’s good for keeping people on the platform, but critics argue it can favour content that’s sensational, outrageous or emotionally provocative, because such content tends to hold attention."
+    },
+    {
+      "type": "callout",
+      "tone": "open-question",
+      "title": "Do algorithms trap us in filter bubbles?",
+      "md": "The activist **Eli Pariser** popularised the term **filter bubble** in 2011: the idea that personalised algorithms show us only what we already agree with, isolating us from other views. It’s an intuitive and widely repeated idea, but research has produced mixed results. Several studies suggest that many people’s online news diets are more varied than the theory predicts, and that people’s own choices, and offline factors, play a large role in polarisation. Large 2023 studies of Facebook and Instagram during the US election found that changing feed algorithms changed what people saw, but had little measurable effect on their political attitudes over a few months. The debate continues."
+    },
+    {
+      "type": "text",
+      "heading": "How algorithms become unfair",
+      "md": "Algorithms can produce unfair outcomes in several ways, even when no one intends it:\n\n- **Biased training data**: if historical data reflects discrimination, the algorithm learns it, as in the Amazon case.\n- **Proxy variables**: even if race or gender is removed from the data, other variables, like postcode, school or shopping habits, can be closely correlated with them and act as stand-ins.\n- **Unrepresentative data**: a 2018 study by researchers **Joy Buolamwini** and **Timnit Gebru** found that several commercial facial analysis systems were far less accurate for darker-skinned women than for lighter-skinned men, partly because the training images over-represented lighter-skinned faces. The companies involved later improved their systems.\n- **Feedback loops**: a predictive policing system sends more police to areas with more recorded crime, which leads to more crime being recorded there, which reinforces the prediction."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a machine-learning algorithm as a very diligent apprentice who learns only by watching past decisions, with no understanding of why they were made. If the previous managers were biased, the apprentice faithfully copies the bias, and does it consistently, at enormous scale, with an air of objectivity that makes it harder to question."
+    },
+    {
+      "type": "text",
+      "heading": "Can fairness even be defined?",
+      "md": "In **2016**, the news organisation **ProPublica** analysed **COMPAS**, a tool used in some US courts to predict whether defendants would reoffend. It reported that Black defendants who did not reoffend were almost twice as likely as white defendants to be wrongly labelled high-risk. The company disputed the analysis, pointing out that the scores were equally accurate across groups by a different measure.\n\nComputer scientists then proved something striking: when two groups have different underlying rates of the outcome being predicted, it is **mathematically impossible** to satisfy several intuitive definitions of fairness at the same time. Choosing which definition matters most is not purely a technical question; it’s an **ethical and political** one, which connects to the Philosophy and Law regions."
+    },
+    {
+      "type": "text",
+      "heading": "Problems too hard to solve quickly",
+      "md": "Some problems seem to be fundamentally hard for algorithms. The classic example is the **travelling salesperson problem**: given a list of cities and distances between them, find the shortest route that visits each city exactly once and returns home.\n\nFor a handful of cities, you can check every route. But the number of possible routes explodes: for just 20 cities, there are about **60 thousand million million** possible round trips. No known algorithm can solve every instance quickly as the number of cities grows, though clever methods find very good, near-optimal routes in practice.\n\nThis connects to one of the biggest open questions in mathematics and computer science: **P versus NP**. Roughly: if a solution to a problem can be **checked** quickly, can it always be **found** quickly too? Most experts suspect the answer is no, but no one has proved it either way. The Clay Mathematics Institute offers **$1 million** for a solution. A proof that P equals NP would transform computing, and could break much of the cryptography that protects the internet."
+    },
+    {
+      "type": "steps",
+      "title": "Questions to ask about an algorithm that affects people",
+      "items": [
+        "**What is it optimising for?** Engagement, profit, accuracy, fairness, safety?",
+        "**What data was it trained on**, and whose experiences might be missing or distorted?",
+        "**Who checks it**, and can its decisions be explained?",
+        "**Can people appeal** a decision, and is there a human involved?",
+        "**Who benefits, and who bears the risk** if it’s wrong?",
+        "Increasingly, laws require answers. The EU’s **AI Act** sets stricter rules for “high-risk” uses such as hiring, credit and law enforcement."
+      ]
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Many influential algorithms now make **decisions about people**, often using **machine learning**.",
+        "**PageRank (1998)** ranked web pages by treating links as votes, the basis of Google search.",
+        "**Recommendation engines** use techniques like **collaborative filtering** and often optimise for **engagement**.",
+        "Algorithms can be unfair through **biased data**, **proxy variables**, **unrepresentative samples** and **feedback loops**.",
+        "Different definitions of fairness can be **mathematically incompatible**, as the **COMPAS** debate showed.",
+        "Some problems, like the **travelling salesperson problem**, have no known fast solution; **P vs NP** remains unsolved."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Algorithms increasingly influence what you see, what opportunities you’re offered and how you’re judged. Understanding how they can go wrong helps you use technology critically, question automated decisions and take part in public debates about how algorithms should be governed. The choices embedded in them are human choices, and they deserve scrutiny."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do recommendation algorithms decide what to show you, why can algorithms be biased even when they don’t use race or gender directly, and what is the P versus NP problem?"
+  }
+}

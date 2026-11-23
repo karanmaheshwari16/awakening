@@ -1,0 +1,79 @@
+{
+  "id": "tech.internet.2",
+  "region": "tech",
+  "topic": "internet",
+  "level": 2,
+  "prerequisites": [
+    "tech.internet.1"
+  ],
+  "title": "Who Controls the Internet? Data, Platforms and Power",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "There’s a saying in technology circles: **if you’re not paying for the product, you are the product**. Search engines, social networks, email and video platforms are free to use, yet some of the companies behind them are among the most valuable in the world.\n\nTheir main product is your **attention**, and data about your behaviour, which they use to sell targeted advertising. That simple business model shapes what news you see, how apps are designed and debates about privacy and power across the world."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that no single organisation owns the internet; it runs on shared protocols. But that doesn’t mean power on the internet is evenly spread. A few kinds of organisations hold a lot of influence:\n\n- **Technical bodies** coordinate the internet’s shared foundations. **ICANN** manages the system of domain names and IP addresses; the **IETF** (Internet Engineering Task Force) develops protocols through open discussion.\n- **Internet service providers (ISPs)** and mobile operators control access to the network.\n- **Platforms**, such as search engines, social networks, app stores, e-commerce and cloud providers, control much of what people actually do online.\n- **Governments** regulate, tax, censor and sometimes shut down internet access."
+    },
+    {
+      "type": "text",
+      "heading": "Network effects and the giants",
+      "md": "Why do a few platforms dominate? A major reason is **network effects**: a service becomes more valuable as more people use it. A messaging app is useless if none of your friends use it, and essential if all of them do. A marketplace attracts more sellers because it has more buyers, and more buyers because it has more sellers.\n\nNetwork effects create a “winner takes most” dynamic. Once a platform is far ahead, it’s very hard for rivals to compete, even with a better product, because users won’t switch unless everyone else does. This is why competition authorities in the EU, US, UK and India have examined whether big technology companies abuse their dominant positions. The EU’s **Digital Markets Act** (2022), for instance, imposes special obligations on the largest “gatekeeper” platforms."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a platform like a popular town square. The more people gather there, the more shops want to open there, and the more shops there are, the more people come. Eventually, nearly everyone meets in the same square, and whoever owns it can set the rules: which shops are allowed, what they pay and what announcements everyone hears."
+    },
+    {
+      "type": "text",
+      "heading": "The data economy",
+      "md": "To target advertising, platforms collect enormous amounts of data: what you search, watch, like, buy and where you go. **Cookies** and tracking tools let companies follow your activity across many websites and apps. **Data brokers** buy and sell personal information collected from many sources.\n\nThis data enables useful services, like personalised recommendations, but raises serious concerns: privacy, manipulation, security breaches and the potential for discrimination. Major laws now regulate how data is collected and used:\n\n- The EU’s **General Data Protection Regulation (GDPR)**, in force since **2018**, gives people rights over their data and requires a lawful basis for processing it. It has influenced laws worldwide, and is why you see so many cookie consent pop-ups.\n- India passed the **Digital Personal Data Protection Act** in **2023**.\n- The US lacks one comprehensive national privacy law, relying on a patchwork of sector-specific and state laws, such as California’s."
+    },
+    {
+      "type": "text",
+      "heading": "Net neutrality",
+      "md": "**Net neutrality** is the principle that internet providers should treat all data equally, without blocking, slowing down or charging differently for particular websites or services.\n\n- **Supporters** argue that without it, providers could favour their own services or those that pay them, making it harder for new companies to compete and giving providers too much control over what people can access.\n- **Critics** argue that rules can discourage investment in networks, and that some flexibility in managing traffic or offering cheaper plans could benefit consumers.\n\nIn **2016**, India’s telecom regulator, **TRAI**, banned differential pricing for data, effectively blocking Facebook’s **Free Basics** programme, which offered free access to a limited set of websites. Supporters saw it as protecting an open internet; critics argued it denied free access to people who couldn’t afford data. In the US, net neutrality rules have been adopted and repealed several times, depending on which party controls the regulator, and have faced court challenges."
+    },
+    {
+      "type": "steps",
+      "title": "Digital public infrastructure: India’s experiment",
+      "items": [
+        "Most digital platforms are owned by private companies. India has pursued a different model in some areas, building **digital public infrastructure**: shared digital systems that anyone can build on.",
+        "**Aadhaar**, launched in 2009, gives residents a unique digital identity number linked to biometrics, now held by well over a billion people.",
+        "**UPI** (Unified Payments Interface), launched in **2016**, lets people send money instantly between bank accounts using phones and QR codes. By the mid-2020s, it handled **billions of transactions every month**, more than any other real-time payment system.",
+        "Because UPI is an open, shared system, many different apps, from banks and private companies, can use it.",
+        "Supporters see this approach as a way to expand access and competition at low cost. Critics have raised concerns about privacy, data security and exclusion, for example when biometric authentication fails. Other countries are studying and adapting the model."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Governments sometimes shut down the internet in a region. Why, and what are the costs?",
+      "md": "Governments cite reasons such as preventing violence, stopping the spread of rumours during unrest or preventing cheating in exams. Monitoring groups like **Access Now** record hundreds of shutdowns worldwide each year, in many countries; India has recorded among the highest numbers in several years, often regional and temporary. Critics argue shutdowns violate rights to information and expression, harm businesses, education and healthcare, and may not even achieve their goals. Courts have weighed in: in **2020**, India’s Supreme Court ruled that indefinite internet suspension is not permissible and that shutdowns must be necessary, proportionate and subject to review. The balance between security and access is an ongoing debate."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "No one owns the internet, but **technical bodies**, **ISPs**, **platforms** and **governments** all hold power.",
+        "Many services are free because they earn money from **advertising** based on users’ attention and data.",
+        "**Network effects** create winner-takes-most markets; regulators examine dominant platforms, as in the EU’s **Digital Markets Act**.",
+        "Data protection laws include the EU’s **GDPR (2018)** and India’s **DPDP Act (2023)**.",
+        "**Net neutrality** debates whether providers must treat all data equally; India’s **TRAI** banned differential pricing in **2016**.",
+        "India’s **Aadhaar** and **UPI** are examples of **digital public infrastructure**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The internet shapes what billions of people know, buy and believe. Understanding its business models and power structures helps you make informed choices about your data and attention, and engage with debates on privacy, competition and censorship that will shape the digital world for decades. These questions connect to the Politics, Law and Economics regions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why are so many online services free, what are network effects, and what is one argument on each side of the net neutrality debate?"
+  }
+}

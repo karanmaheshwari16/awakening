@@ -1,0 +1,271 @@
+##### LESSON
+id: tech.computers.2
+title: Inside the Chip: The Most Complex Thing Humans Make
+minutes: 15
+prereq: tech.computers.1
+check: In your own words: what does a processor do in each cycle, why do computers need several layers of memory, and why are advanced chips so difficult to manufacture?
+
+=== hook
+The most advanced chips in the world are made using machines built by a single company, **ASML**, in the Netherlands. Each of its extreme ultraviolet (EUV) lithography machines is about the size of a bus, costs well over **100 million euros** and is shipped in dozens of crates.
+
+Inside, droplets of molten tin are fired across a chamber about **50,000 times a second**, and each droplet is blasted by a powerful laser to create a flash of light at a wavelength of just **13.5 nanometres**. That light, bounced off some of the smoothest mirrors ever made, prints patterns on silicon with features only a few dozen atoms wide. The chip in your phone is, quite plausibly, the most complex object you own.
+
+=== core
+In the previous lesson, you saw that computers are built from billions of transistor switches combined into logic gates. This lesson looks at how a processor actually uses them to run programs, and how such tiny structures are made.
+
+Almost every modern computer follows a design described in **1945** by the mathematician **John von Neumann** and colleagues: the **stored-program computer**. Both the program’s instructions and the data it works on are stored in the same memory as numbers. The processor fetches instructions one after another and carries them out.
+
+=== steps The fetch–decode–execute cycle
+- **Fetch:** the processor reads the next instruction from memory. A special register (a tiny, ultra-fast storage slot inside the processor) called the **program counter** keeps track of where it is.
+- **Decode:** circuits work out what the instruction means: add two numbers, compare values, load data from memory, jump to a different instruction, and so on. Each processor family has its own **instruction set**, such as x86 in many laptops or ARM in most phones.
+- **Execute:** the processor carries out the instruction, often using its **arithmetic logic unit** (ALU), built from the logic gates you met before.
+- **Store:** the result is written to a register or to memory.
+- **Repeat**, billions of times per second. A processor’s **clock** sends regular electrical pulses that keep each step in sync. A 3 GHz clock ticks 3 billion times per second.
+- Modern processors cheat cleverly: they work on several instructions at once in a **pipeline**, guess which way decisions will go, and even execute instructions out of order, then tidy up the results.
+
+=== text The memory problem
+Processors became fast much more quickly than memory did. A processor can perform an operation in well under a nanosecond, but fetching data from main memory (RAM) can take around **100 nanoseconds**: hundreds of wasted cycles. Fetching from an SSD can take tens of thousands of times longer still.
+
+The solution is a **memory hierarchy**:
+
+- **Registers**: a handful of storage slots inside the processor itself. Instant access.
+- **Caches** (levels L1, L2, L3): small amounts of very fast memory on the chip, holding recently and frequently used data.
+- **RAM**: larger, slower main memory.
+- **Storage** (SSD or hard drive): huge, permanent, and much slower.
+
+The processor checks the fastest layer first. Because programs tend to reuse the same data and nearby data (a principle called **locality**), caches can satisfy most requests, hiding the slowness of memory most of the time.
+
+=== callout analogy
+Think of a chef. The ingredients in their hand are the registers. The worktop beside them is the cache. The fridge across the kitchen is RAM. The supermarket down the road is storage. A good chef keeps what they need most within arm’s reach and fetches from further away as rarely as possible. Computer design is largely about keeping the chef busy instead of walking to the shops.
+
+=== text How chips are made
+Chips start as ordinary **sand**, which is mostly silicon dioxide. The silicon is purified to an extraordinary degree, so that only around one atom in a billion is an impurity, then grown into large cylindrical crystals and sliced into thin **wafers**.
+
+Patterns are built up layer by layer using **photolithography**: the wafer is coated with a light-sensitive chemical, exposed to light through a patterned mask, then etched, doped with other elements to change its electrical properties, and coated with new materials. A modern chip can need **dozens of layers** and hundreds of processing steps, taking months. All of this happens in **clean rooms** where the air contains far fewer dust particles than a hospital operating theatre, since a single speck can ruin a chip.
+
+Building a leading-edge chip factory (a **fab**) now costs **tens of billions of dollars**. Only a few companies can make the most advanced chips: Taiwan’s **TSMC** manufactures the large majority of them, with Samsung and Intel among the few others at or near the frontier. This concentration has made chips a major issue in geopolitics.
+
+=== text The end of easy speed-ups
+For decades, shrinking transistors made chips both faster and more power-efficient at the same time. Around **2005**, that free ride slowed: making transistors switch faster produced too much heat to remove. Clock speeds stopped rising much beyond a few gigahertz.
+
+Instead, chipmakers began putting multiple **cores** (complete processors) on one chip, so that work can be done in parallel. They also developed specialised chips: **GPUs** (graphics processing units), originally for video games, have thousands of simple cores that are excellent at doing many similar calculations at once, which turned out to be perfect for training artificial intelligence, as you’ll see later in this region.
+
+Today, transistor names like “3 nanometre” are largely marketing labels; the actual features aren’t that small in a simple sense, but the transistors are still astonishingly tiny and densely packed.
+
+=== reveal Why are countries like the US, India and members of the EU spending billions to build their own chip factories?
+Because chips have become as strategically important as oil. Almost everything, from cars and phones to power grids, weapons and AI, depends on them, and production is concentrated in very few places, especially Taiwan. Disruptions during the COVID-19 pandemic caused chip shortages that halted car factories worldwide. Governments now see domestic chipmaking as a matter of economic security. The US passed the **CHIPS and Science Act** in 2022; the EU passed its own Chips Act; and **India** launched a semiconductor mission in 2021, with major fab and assembly projects announced since, such as a Tata Electronics fab in Gujarat. Building a competitive industry takes many years, enormous investment and deep expertise, so the outcomes are uncertain.
+
+=== keypoints
+- Most computers follow the **von Neumann** stored-program design (1945): instructions and data share memory.
+- Processors repeat the **fetch–decode–execute** cycle billions of times a second, synchronised by a **clock**.
+- A **memory hierarchy** (registers, caches, RAM, storage) hides the slowness of memory.
+- Chips are made from purified **silicon wafers** through **photolithography**, layer by layer, in clean rooms.
+- **ASML’s EUV** machines and fabs costing tens of billions make leading-edge chips; **TSMC** makes most of them.
+- Since about **2005**, gains come more from **multiple cores** and specialised chips like **GPUs** than from faster clocks.
+
+=== why
+Chips are the foundation of the digital world and increasingly of global politics and economics. Understanding how they work, and how hard they are to make, helps you make sense of news about technology, trade disputes and AI. It also builds on the switch-and-gate picture from the previous lesson, showing how simple ideas scale into the most complex machines humans have ever built.
+
+##### LESSON
+id: tech.internet.1
+title: How the Internet Actually Works
+minutes: 14
+check: In your own words: what is packet switching, what happens when you type a web address into a browser, and what is the difference between the internet and the World Wide Web?
+
+=== hook
+At about 10:30 p.m. on **29 October 1969**, a student programmer named **Charley Kline** at the University of California, Los Angeles, tried to log in to a computer at Stanford Research Institute, around 500 kilometres away. He typed “L”, and the other end confirmed it arrived. He typed “O”, and it arrived. He typed “G”, and the system crashed.
+
+So the first message ever sent over the network that would become the internet was “**LO**”, as in “lo and behold”. About an hour later, they got the full login working. From that stumbling start grew a network now connecting more than **five billion** people.
+
+=== core
+The **internet** is a global network of networks: millions of separate networks belonging to universities, companies, governments and internet service providers, all agreeing to pass data to each other using common rules called **protocols**.
+
+Nobody owns the internet as a whole. It works because everyone follows the same protocols, the most important being **TCP/IP**, designed by **Vint Cerf** and **Bob Kahn** in the **1970s**. On **1 January 1983**, the ARPANET, the US research network where Kline’s message was sent, switched over to TCP/IP. Many people consider that the internet’s true birthday.
+
+=== text Breaking data into packets
+Old telephone networks used **circuit switching**: a call reserved a dedicated line between two phones for its entire duration, even during silences.
+
+The internet uses **packet switching**, an idea developed independently in the 1960s by **Paul Baran** in the US (who was thinking about networks that could survive a nuclear attack) and **Donald Davies** in the UK. Data is chopped into small chunks called **packets**, each labelled with where it’s from, where it’s going and its position in the sequence. Packets travel independently through the network, possibly by different routes, and are reassembled at the destination.
+
+This is efficient, because many conversations share the same cables, and resilient, because if one route fails, packets can be sent another way.
+
+=== callout analogy
+Imagine sending a long book to a friend by post, but instead of one heavy parcel, you tear out each page, number it, put it in its own envelope with your friend’s address, and post them all. The envelopes might travel through different sorting offices and arrive out of order. Your friend uses the page numbers to put the book back together, and asks you to resend any that went missing. That’s packet switching.
+
+=== text Addresses and names
+Every device connected to the internet has an **IP address**, a number that identifies where packets should be delivered, like a postal address. Older IPv4 addresses look like 142.250.183.14; there are only about 4.3 billion of them, which isn’t enough, so the world is gradually moving to **IPv6**, which has vastly more.
+
+People don’t want to remember numbers, so the **Domain Name System (DNS)**, introduced in 1983, acts like the internet’s phone book, translating names like *wikipedia.org* into IP addresses.
+
+**Routers** are the post offices of the internet. Each router looks at a packet’s destination and passes it on to the next router that’s closer to its destination. A packet may pass through a dozen or more routers on its journey.
+
+=== text The physical internet
+The internet can feel weightless, but it’s very physical. Data travels as electrical signals in copper, radio waves through the air (Wi-Fi and mobile networks) and pulses of light in **fibre-optic cables**.
+
+Over **95%** of intercontinental data travels through **undersea cables** lying on the ocean floor, some stretching more than 10,000 kilometres. India connects to the world through cables landing at cities like Mumbai and Chennai. These cables are occasionally cut by ship anchors, earthquakes or deliberate damage, which can disrupt internet access across whole regions.
+
+=== steps What happens when you type a web address
+- You type *example.com* and press Enter.
+- Your device asks a **DNS server** for the IP address of *example.com*. (The answer may already be stored nearby from a previous visit.)
+- Your browser opens a connection to that IP address. With **HTTPS**, it first sets up an encrypted, secure connection, as you’ll explore in the cryptography lessons.
+- Your browser sends an **HTTP request**: “Please send me the home page.”
+- The request, split into packets, travels through your Wi-Fi or mobile network, your internet provider and many routers, possibly across undersea cables, to the website’s server.
+- The server sends back the page, also split into packets: the text and layout (**HTML**), styling and images.
+- Your browser reassembles the packets and displays the page, often within a fraction of a second.
+
+=== text The internet versus the web
+People often use “the internet” and “the web” interchangeably, but they’re different:
+
+- **The internet** is the underlying network: the cables, routers and protocols that move data.
+- **The World Wide Web** is one service that runs on top of it: a system of linked pages viewed in browsers.
+
+The web was invented in **1989** by **Tim Berners-Lee**, a British scientist working at **CERN**, the physics laboratory near Geneva, to help researchers share documents. He created **HTML** (the language of web pages), **HTTP** (the protocol for requesting them) and **URLs** (web addresses). The first website went online in 1991. In 1993, CERN made the web’s technology freely available to everyone, without patents or fees, a decision that helped it spread explosively.
+
+Email, video calls, online gaming and app data all use the internet but aren’t necessarily part of the web.
+
+=== reveal If packets can take different routes and get lost, how do web pages arrive complete and in the right order?
+That’s the job of **TCP** (Transmission Control Protocol), the “TCP” in TCP/IP. The **IP** part handles addressing and routing each packet, with no guarantees: packets can be lost, duplicated or arrive out of order. TCP adds reliability on top: it numbers the packets, the receiver confirms what it has received, and anything missing is resent. It also slows down when the network is congested, to avoid overwhelming it. For things like live video calls, where a late packet is useless, a simpler protocol called **UDP** is often used instead, which accepts occasional glitches in exchange for speed.
+
+=== keypoints
+- The **internet** is a network of networks agreeing on common **protocols**, especially **TCP/IP** (Cerf and Kahn, 1970s).
+- The first ARPANET message, in **1969**, was “**LO**”; the switch to TCP/IP on **1 January 1983** is often seen as the internet’s birth.
+- **Packet switching** breaks data into labelled packets that travel independently and are reassembled.
+- **IP addresses** identify devices; **DNS** translates names into addresses; **routers** forward packets.
+- Over **95%** of intercontinental data travels through **undersea fibre-optic cables**.
+- The **World Wide Web** (Tim Berners-Lee, 1989) is a service on top of the internet, using **HTML, HTTP and URLs**.
+
+=== why
+The internet underpins work, education, banking, government and friendship for billions of people. Knowing how it works demystifies everyday technology, helps you troubleshoot problems and makes news about cables, outages or internet governance meaningful. Next, you’ll look at who controls the internet, and how its business models shape what you see.
+
+##### LESSON
+id: tech.internet.2
+title: Who Controls the Internet? Data, Platforms and Power
+minutes: 15
+prereq: tech.internet.1
+check: In your own words: why are so many online services free, what are network effects, and what is one argument on each side of the net neutrality debate?
+
+=== hook
+There’s a saying in technology circles: **if you’re not paying for the product, you are the product**. Search engines, social networks, email and video platforms are free to use, yet some of the companies behind them are among the most valuable in the world.
+
+Their main product is your **attention**, and data about your behaviour, which they use to sell targeted advertising. That simple business model shapes what news you see, how apps are designed and debates about privacy and power across the world.
+
+=== core
+In the previous lesson, you saw that no single organisation owns the internet; it runs on shared protocols. But that doesn’t mean power on the internet is evenly spread. A few kinds of organisations hold a lot of influence:
+
+- **Technical bodies** coordinate the internet’s shared foundations. **ICANN** manages the system of domain names and IP addresses; the **IETF** (Internet Engineering Task Force) develops protocols through open discussion.
+- **Internet service providers (ISPs)** and mobile operators control access to the network.
+- **Platforms**, such as search engines, social networks, app stores, e-commerce and cloud providers, control much of what people actually do online.
+- **Governments** regulate, tax, censor and sometimes shut down internet access.
+
+=== text Network effects and the giants
+Why do a few platforms dominate? A major reason is **network effects**: a service becomes more valuable as more people use it. A messaging app is useless if none of your friends use it, and essential if all of them do. A marketplace attracts more sellers because it has more buyers, and more buyers because it has more sellers.
+
+Network effects create a “winner takes most” dynamic. Once a platform is far ahead, it’s very hard for rivals to compete, even with a better product, because users won’t switch unless everyone else does. This is why competition authorities in the EU, US, UK and India have examined whether big technology companies abuse their dominant positions. The EU’s **Digital Markets Act** (2022), for instance, imposes special obligations on the largest “gatekeeper” platforms.
+
+=== callout analogy
+Think of a platform like a popular town square. The more people gather there, the more shops want to open there, and the more shops there are, the more people come. Eventually, nearly everyone meets in the same square, and whoever owns it can set the rules: which shops are allowed, what they pay and what announcements everyone hears.
+
+=== text The data economy
+To target advertising, platforms collect enormous amounts of data: what you search, watch, like, buy and where you go. **Cookies** and tracking tools let companies follow your activity across many websites and apps. **Data brokers** buy and sell personal information collected from many sources.
+
+This data enables useful services, like personalised recommendations, but raises serious concerns: privacy, manipulation, security breaches and the potential for discrimination. Major laws now regulate how data is collected and used:
+
+- The EU’s **General Data Protection Regulation (GDPR)**, in force since **2018**, gives people rights over their data and requires a lawful basis for processing it. It has influenced laws worldwide, and is why you see so many cookie consent pop-ups.
+- India passed the **Digital Personal Data Protection Act** in **2023**.
+- The US lacks one comprehensive national privacy law, relying on a patchwork of sector-specific and state laws, such as California’s.
+
+=== text Net neutrality
+**Net neutrality** is the principle that internet providers should treat all data equally, without blocking, slowing down or charging differently for particular websites or services.
+
+- **Supporters** argue that without it, providers could favour their own services or those that pay them, making it harder for new companies to compete and giving providers too much control over what people can access.
+- **Critics** argue that rules can discourage investment in networks, and that some flexibility in managing traffic or offering cheaper plans could benefit consumers.
+
+In **2016**, India’s telecom regulator, **TRAI**, banned differential pricing for data, effectively blocking Facebook’s **Free Basics** programme, which offered free access to a limited set of websites. Supporters saw it as protecting an open internet; critics argued it denied free access to people who couldn’t afford data. In the US, net neutrality rules have been adopted and repealed several times, depending on which party controls the regulator, and have faced court challenges.
+
+=== steps Digital public infrastructure: India’s experiment
+- Most digital platforms are owned by private companies. India has pursued a different model in some areas, building **digital public infrastructure**: shared digital systems that anyone can build on.
+- **Aadhaar**, launched in 2009, gives residents a unique digital identity number linked to biometrics, now held by well over a billion people.
+- **UPI** (Unified Payments Interface), launched in **2016**, lets people send money instantly between bank accounts using phones and QR codes. By the mid-2020s, it handled **billions of transactions every month**, more than any other real-time payment system.
+- Because UPI is an open, shared system, many different apps, from banks and private companies, can use it.
+- Supporters see this approach as a way to expand access and competition at low cost. Critics have raised concerns about privacy, data security and exclusion, for example when biometric authentication fails. Other countries are studying and adapting the model.
+
+=== reveal Governments sometimes shut down the internet in a region. Why, and what are the costs?
+Governments cite reasons such as preventing violence, stopping the spread of rumours during unrest or preventing cheating in exams. Monitoring groups like **Access Now** record hundreds of shutdowns worldwide each year, in many countries; India has recorded among the highest numbers in several years, often regional and temporary. Critics argue shutdowns violate rights to information and expression, harm businesses, education and healthcare, and may not even achieve their goals. Courts have weighed in: in **2020**, India’s Supreme Court ruled that indefinite internet suspension is not permissible and that shutdowns must be necessary, proportionate and subject to review. The balance between security and access is an ongoing debate.
+
+=== keypoints
+- No one owns the internet, but **technical bodies**, **ISPs**, **platforms** and **governments** all hold power.
+- Many services are free because they earn money from **advertising** based on users’ attention and data.
+- **Network effects** create winner-takes-most markets; regulators examine dominant platforms, as in the EU’s **Digital Markets Act**.
+- Data protection laws include the EU’s **GDPR (2018)** and India’s **DPDP Act (2023)**.
+- **Net neutrality** debates whether providers must treat all data equally; India’s **TRAI** banned differential pricing in **2016**.
+- India’s **Aadhaar** and **UPI** are examples of **digital public infrastructure**.
+
+=== why
+The internet shapes what billions of people know, buy and believe. Understanding its business models and power structures helps you make informed choices about your data and attention, and engage with debates on privacy, competition and censorship that will shape the digital world for decades. These questions connect to the Politics, Law and Economics regions.
+
+##### LESSON
+id: tech.algorithms.1
+title: Recipes for Machines
+minutes: 14
+check: In your own words: what is an algorithm, and why can binary search find something in a million items so much faster than checking them one by one?
+
+=== hook
+Think of a number between 1 and 1,000,000. I promise I can find it in **20 guesses or fewer**, as long as you tell me after each guess whether your number is higher or lower.
+
+It sounds like a magic trick, but it’s just a clever method. Each guess cuts the remaining possibilities in half: a million, then half a million, then a quarter of a million, and so on. After 20 halvings, only one number is left. That method is an **algorithm**, and the difference between a clever algorithm and a naive one can be the difference between an answer in a millisecond and an answer in a lifetime.
+
+=== core
+An **algorithm** is a precise, step-by-step set of instructions for solving a problem or completing a task. A recipe is an algorithm for cooking. Long division is an algorithm for dividing numbers. Directions to a friend’s house are an algorithm for getting there.
+
+The word comes from the name of **Muhammad ibn Musa al-Khwarizmi**, the 9th-century Persian mathematician working in Baghdad whose writings on arithmetic and algebra (another word derived from his work) introduced Hindu-Arabic numerals to the wider world, as you saw in the Math region. When his works were translated into Latin, his name became “Algoritmi”.
+
+For computers, algorithms must be completely **unambiguous**: every step must be exact, because computers do precisely what they’re told, no more and no less.
+
+=== callout analogy
+Imagine giving instructions to someone who follows them perfectly literally and has no common sense. “Make a cup of tea” isn’t enough. You need: fill the kettle with water; switch it on; wait until it boils; put a tea bag in a cup; pour in the boiling water; wait three minutes; remove the tea bag. Writing algorithms for computers is like this, except the instructions often number in the millions.
+
+=== text Searching: two approaches
+Suppose you need to find a particular name in a list of a million names.
+
+**Linear search**: check each name in turn, from the start, until you find it. In the worst case, you check all **1,000,000**. Simple, and it works on any list.
+
+**Binary search**: if the list is **sorted** (like a dictionary), open it in the middle. Is your name before or after this point? Discard the half that can’t contain it, and repeat on the remaining half. Each step halves the possibilities, so a million names take at most about **20** steps. A billion names take only about **30**.
+
+The catch: binary search only works if the data is sorted first. This trade-off, doing some work up front to make later tasks much faster, appears throughout computing.
+
+=== steps Guessing a number from 1 to 100 with binary search
+- Your secret number is **73**. I guess the middle: **50**. You say “higher”. Now it must be between 51 and 100.
+- I guess the middle of that range: **75**. “Lower.” Now it’s between 51 and 74.
+- I guess **62**. “Higher.” Now 63 to 74.
+- I guess **68**. “Higher.” Now 69 to 74.
+- I guess **71**. “Higher.” Now 72 to 74.
+- I guess **73**. Correct, in **6 guesses**. For any number from 1 to 100, binary search never needs more than **7**, because 2 to the power of 7 is 128, which is more than 100.
+
+=== text Why efficiency matters: how algorithms scale
+Computer scientists care less about how fast an algorithm is on small inputs and more about how its running time **grows** as the input gets bigger. They describe this using **Big O notation**.
+
+- **Linear search** grows in proportion to the size of the list: double the list, double the work.
+- **Binary search** grows **logarithmically**: double the list, and you need just **one** extra step.
+- Some algorithms grow much faster. A simple way of sorting, called **bubble sort**, repeatedly compares neighbouring items and swaps them if they’re in the wrong order. For a list of n items, it can take around n² comparisons: sorting a million items could take around a trillion steps.
+- Cleverer sorting algorithms, like **merge sort** (invented by John von Neumann in 1945), split the list in halves, sort each half, then merge them, taking roughly n × log n steps: for a million items, around 20 million steps, about **50,000 times** fewer than bubble sort.
+
+On today’s fast computers, that can be the difference between a fraction of a second and many hours.
+
+=== text An algorithm in your pocket
+When your maps app finds the fastest route, it’s using descendants of an algorithm invented by the Dutch computer scientist **Edsger Dijkstra** in **1956**. He later said he designed it in about twenty minutes, sitting at a café terrace in Amsterdam, without pencil and paper.
+
+**Dijkstra’s algorithm** finds the shortest path through a network, like roads between junctions. It starts from your location, repeatedly picks the nearest unvisited junction, and updates the shortest known distances to its neighbours, until it reaches the destination. Modern navigation systems add many refinements, such as live traffic data and techniques to avoid exploring irrelevant roads, but the core idea remains.
+
+=== reveal Are some problems impossible for any algorithm to solve?
+Yes. In **1936**, the British mathematician **Alan Turing** proved that some problems are **undecidable**: no algorithm can ever solve them in general. His famous example, the **halting problem**, asks: given any program and its input, can you determine whether the program will eventually stop or run forever? Turing proved that no algorithm can answer this correctly for every possible program. This was a profound discovery: before computers even existed, Turing showed that there are hard limits to what computation can do. Other problems are solvable in principle but would take impossibly long for large inputs, as you’ll see in the next lesson.
+
+=== keypoints
+- An **algorithm** is a precise, step-by-step procedure for solving a problem; the word comes from **al-Khwarizmi**.
+- **Linear search** checks items one by one; **binary search** halves a **sorted** list each step, finding one item in a million in about **20 steps**.
+- **Big O notation** describes how an algorithm’s work **grows** with input size.
+- **Bubble sort** takes around **n²** steps; **merge sort** takes around **n log n**, hugely faster for big lists.
+- **Dijkstra’s algorithm (1956)** finds shortest paths and underlies navigation apps.
+- **Turing (1936)** proved some problems, like the **halting problem**, can’t be solved by any algorithm.
+
+=== why
+Algorithms are the hidden engines of modern life, ranking search results, routing deliveries, recommending videos, detecting fraud and much more. Understanding what they are, and why efficiency matters, helps you think more clearly about technology, and is the first step towards understanding how algorithms are shaping society, the subject of the next lesson.

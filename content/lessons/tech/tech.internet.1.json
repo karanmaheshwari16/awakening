@@ -1,0 +1,84 @@
+{
+  "id": "tech.internet.1",
+  "region": "tech",
+  "topic": "internet",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How the Internet Actually Works",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "At about 10:30 p.m. on **29 October 1969**, a student programmer named **Charley Kline** at the University of California, Los Angeles, tried to log in to a computer at Stanford Research Institute, around 500 kilometres away. He typed “L”, and the other end confirmed it arrived. He typed “O”, and it arrived. He typed “G”, and the system crashed.\n\nSo the first message ever sent over the network that would become the internet was “**LO**”, as in “lo and behold”. About an hour later, they got the full login working. From that stumbling start grew a network now connecting more than **five billion** people."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The **internet** is a global network of networks: millions of separate networks belonging to universities, companies, governments and internet service providers, all agreeing to pass data to each other using common rules called **protocols**.\n\nNobody owns the internet as a whole. It works because everyone follows the same protocols, the most important being **TCP/IP**, designed by **Vint Cerf** and **Bob Kahn** in the **1970s**. On **1 January 1983**, the ARPANET, the US research network where Kline’s message was sent, switched over to TCP/IP. Many people consider that the internet’s true birthday."
+    },
+    {
+      "type": "text",
+      "heading": "Breaking data into packets",
+      "md": "Old telephone networks used **circuit switching**: a call reserved a dedicated line between two phones for its entire duration, even during silences.\n\nThe internet uses **packet switching**, an idea developed independently in the 1960s by **Paul Baran** in the US (who was thinking about networks that could survive a nuclear attack) and **Donald Davies** in the UK. Data is chopped into small chunks called **packets**, each labelled with where it’s from, where it’s going and its position in the sequence. Packets travel independently through the network, possibly by different routes, and are reassembled at the destination.\n\nThis is efficient, because many conversations share the same cables, and resilient, because if one route fails, packets can be sent another way."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine sending a long book to a friend by post, but instead of one heavy parcel, you tear out each page, number it, put it in its own envelope with your friend’s address, and post them all. The envelopes might travel through different sorting offices and arrive out of order. Your friend uses the page numbers to put the book back together, and asks you to resend any that went missing. That’s packet switching."
+    },
+    {
+      "type": "text",
+      "heading": "Addresses and names",
+      "md": "Every device connected to the internet has an **IP address**, a number that identifies where packets should be delivered, like a postal address. Older IPv4 addresses look like 142.250.183.14; there are only about 4.3 billion of them, which isn’t enough, so the world is gradually moving to **IPv6**, which has vastly more.\n\nPeople don’t want to remember numbers, so the **Domain Name System (DNS)**, introduced in 1983, acts like the internet’s phone book, translating names like *wikipedia.org* into IP addresses.\n\n**Routers** are the post offices of the internet. Each router looks at a packet’s destination and passes it on to the next router that’s closer to its destination. A packet may pass through a dozen or more routers on its journey."
+    },
+    {
+      "type": "text",
+      "heading": "The physical internet",
+      "md": "The internet can feel weightless, but it’s very physical. Data travels as electrical signals in copper, radio waves through the air (Wi-Fi and mobile networks) and pulses of light in **fibre-optic cables**.\n\nOver **95%** of intercontinental data travels through **undersea cables** lying on the ocean floor, some stretching more than 10,000 kilometres. India connects to the world through cables landing at cities like Mumbai and Chennai. These cables are occasionally cut by ship anchors, earthquakes or deliberate damage, which can disrupt internet access across whole regions."
+    },
+    {
+      "type": "steps",
+      "title": "What happens when you type a web address",
+      "items": [
+        "You type *example.com* and press Enter.",
+        "Your device asks a **DNS server** for the IP address of *example.com*. (The answer may already be stored nearby from a previous visit.)",
+        "Your browser opens a connection to that IP address. With **HTTPS**, it first sets up an encrypted, secure connection, as you’ll explore in the cryptography lessons.",
+        "Your browser sends an **HTTP request**: “Please send me the home page.”",
+        "The request, split into packets, travels through your Wi-Fi or mobile network, your internet provider and many routers, possibly across undersea cables, to the website’s server.",
+        "The server sends back the page, also split into packets: the text and layout (**HTML**), styling and images.",
+        "Your browser reassembles the packets and displays the page, often within a fraction of a second."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The internet versus the web",
+      "md": "People often use “the internet” and “the web” interchangeably, but they’re different:\n\n- **The internet** is the underlying network: the cables, routers and protocols that move data.\n- **The World Wide Web** is one service that runs on top of it: a system of linked pages viewed in browsers.\n\nThe web was invented in **1989** by **Tim Berners-Lee**, a British scientist working at **CERN**, the physics laboratory near Geneva, to help researchers share documents. He created **HTML** (the language of web pages), **HTTP** (the protocol for requesting them) and **URLs** (web addresses). The first website went online in 1991. In 1993, CERN made the web’s technology freely available to everyone, without patents or fees, a decision that helped it spread explosively.\n\nEmail, video calls, online gaming and app data all use the internet but aren’t necessarily part of the web."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If packets can take different routes and get lost, how do web pages arrive complete and in the right order?",
+      "md": "That’s the job of **TCP** (Transmission Control Protocol), the “TCP” in TCP/IP. The **IP** part handles addressing and routing each packet, with no guarantees: packets can be lost, duplicated or arrive out of order. TCP adds reliability on top: it numbers the packets, the receiver confirms what it has received, and anything missing is resent. It also slows down when the network is congested, to avoid overwhelming it. For things like live video calls, where a late packet is useless, a simpler protocol called **UDP** is often used instead, which accepts occasional glitches in exchange for speed."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **internet** is a network of networks agreeing on common **protocols**, especially **TCP/IP** (Cerf and Kahn, 1970s).",
+        "The first ARPANET message, in **1969**, was “**LO**”; the switch to TCP/IP on **1 January 1983** is often seen as the internet’s birth.",
+        "**Packet switching** breaks data into labelled packets that travel independently and are reassembled.",
+        "**IP addresses** identify devices; **DNS** translates names into addresses; **routers** forward packets.",
+        "Over **95%** of intercontinental data travels through **undersea fibre-optic cables**.",
+        "The **World Wide Web** (Tim Berners-Lee, 1989) is a service on top of the internet, using **HTML, HTTP and URLs**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The internet underpins work, education, banking, government and friendship for billions of people. Knowing how it works demystifies everyday technology, helps you troubleshoot problems and makes news about cables, outages or internet governance meaningful. Next, you’ll look at who controls the internet, and how its business models shape what you see."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is packet switching, what happens when you type a web address into a browser, and what is the difference between the internet and the World Wide Web?"
+  }
+}

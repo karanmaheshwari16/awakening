@@ -1,0 +1,80 @@
+{
+  "id": "tech.software.2",
+  "region": "tech",
+  "topic": "software",
+  "level": 2,
+  "prerequisites": [
+    "tech.software.1"
+  ],
+  "title": "When Software Fails",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **4 June 1996**, the European Space Agency launched the first **Ariane 5** rocket from French Guiana. About **37 seconds** after lift-off, it veered off course and broke apart, destroying itself and the four scientific satellites it carried, a loss estimated at hundreds of millions of dollars.\n\nThe cause was a few lines of software. Code reused from the older Ariane 4 tried to convert a large number, the rocket’s horizontal speed, into a format too small to hold it. On the slower Ariane 4, the number had never grown that large. On the faster Ariane 5, it overflowed, the guidance system shut down, and the backup system, running identical code, failed the same way a moment earlier. A tiny, invisible assumption destroyed one of the most expensive launches of its time."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **bug** is an error in software that makes it behave in unintended ways. The term predates computers; engineers, including Thomas Edison, used it for technical faults in the 1800s. A famous story from **1947** describes Grace Hopper’s team finding an actual moth trapped in a relay of the Harvard Mark II computer, taping it into their logbook with the note “first actual case of bug being found”. The joke worked because “bug” was already in use.\n\nSoftware is unusually prone to errors because:\n\n- **It’s enormously complex.** Large systems contain millions of lines of code, with countless interactions between parts.\n- **It does exactly what it’s told**, not what its authors meant. A single wrong character can change behaviour.\n- **It runs in unpredictable environments**: different devices, networks, inputs and users who do things nobody anticipated.\n- **It changes constantly**, and each change can break something that previously worked."
+    },
+    {
+      "type": "text",
+      "heading": "Famous failures and what they taught",
+      "md": "**Therac-25 (1985–1987)**: a radiation therapy machine gave massive overdoses to at least six patients in the US and Canada, several of whom died. Investigations found software flaws, including a timing problem that only appeared when operators typed quickly, combined with the removal of hardware safety locks that earlier models had. It became a landmark case in software safety.\n\n**Mars Climate Orbiter (1999)**: NASA lost a spacecraft as it approached Mars because one engineering team’s software produced results in **imperial units** (pound-force seconds) while another team’s software expected **metric units** (newton-seconds). The spacecraft flew too close to the planet and was lost.\n\n**The Y2K problem**: many older programs stored years as two digits, “99” for 1999, to save memory. As 2000 approached, experts feared “00” would be read as 1900, causing errors in banking, power and transport systems. Governments and companies spent large sums fixing code worldwide. When 1 January 2000 arrived, problems were relatively minor, which some people took as proof the fears were exaggerated, while many engineers argued it was proof that the fixes worked.\n\n**The CrowdStrike outage (July 2024)**: a faulty update to widely used cybersecurity software caused around **8.5 million** Windows computers to crash, disrupting airlines, hospitals, banks and broadcasters worldwide, a striking example of how a single update can ripple through interconnected systems."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a large software system as a vast city built from Lego, where every brick connects to many others and thousands of builders keep adding and replacing pieces every day. Most changes are harmless. But occasionally, removing or reshaping one small brick, deep inside, causes a section somewhere unexpected to collapse, and finding which brick caused it can be the hardest part."
+    },
+    {
+      "type": "text",
+      "heading": "How engineers fight bugs",
+      "md": "Software engineering has developed many practices to reduce errors:\n\n- **Testing**: writing automated tests that check whether code behaves correctly, run every time the code changes. Large projects can have more test code than product code.\n- **Code review**: other engineers read changes before they’re accepted, catching mistakes and sharing knowledge.\n- **Version control**: tools like **Git** (created by Linus Torvalds in 2005) record every change, who made it and why, so problems can be traced and changes undone.\n- **Gradual rollouts**: releasing updates to a small percentage of users first, watching for problems, then expanding, a lesson reinforced by outages like CrowdStrike’s.\n- **Defensive design and redundancy**: assuming things will go wrong and building safeguards, such as independent backup systems that don’t share the same code, the lesson from Ariane 5.\n- **Formal verification**: for the most safety-critical systems, like aircraft controls, mathematically proving that certain errors cannot occur."
+    },
+    {
+      "type": "text",
+      "heading": "Why software projects are hard to manage",
+      "md": "In **1975**, the computer scientist **Fred Brooks**, who had managed the development of IBM’s large OS/360 operating system, published *The Mythical Man-Month*. Its most famous insight, now called **Brooks’s law**: **adding more people to a late software project makes it later**. New team members need time to learn the system, and more people means more communication and coordination.\n\nTeams also accumulate **technical debt**: shortcuts taken to deliver quickly, which make future changes harder, like interest building up on a loan. Many modern teams use **agile** methods, building software in small increments, getting feedback frequently and adjusting, rather than planning everything up front."
+    },
+    {
+      "type": "steps",
+      "title": "Debugging: how programmers find a bug",
+      "items": [
+        "**Reproduce it.** Find a reliable way to make the problem happen. A bug you can’t reproduce is very hard to fix.",
+        "**Narrow it down.** Divide the system in half, check which half the problem is in, and repeat, the same binary search idea from the algorithms lessons.",
+        "**Form a hypothesis** about the cause, and test it.",
+        "**Fix the cause, not just the symptom.**",
+        "**Write a test** that would have caught the bug, so it can’t silently return.",
+        "**Ask why it happened**: was it a misunderstanding, missing test or unclear design? Many organisations run blameless reviews after major failures, focusing on improving systems rather than punishing individuals."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If software is so error-prone, how can we trust it with aircraft, medical devices and power grids?",
+      "md": "Safety-critical software is built very differently from typical apps. It follows strict standards, like those used in aviation, that require extensive documentation, rigorous testing of every possible path through the code, independent review and, increasingly, mathematical verification. Systems are designed with **redundancy**, so no single failure is catastrophic, and with humans able to intervene. This makes development much slower and more expensive. Even so, failures still happen, as investigations into the Boeing 737 MAX crashes in 2018 and 2019 showed, where a flight control system relying on a single sensor, combined with inadequate pilot information and oversight failures, contributed to two disasters. Trust has to be continually earned through design, regulation and transparency."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **bug** is an error causing unintended behaviour; software is bug-prone because of **complexity**, **literalness**, **unpredictable environments** and **constant change**.",
+        "**Ariane 5 (1996)** exploded because of a number overflow in reused code; **Mars Climate Orbiter (1999)** was lost over a **units mismatch**.",
+        "**Therac-25** overdoses showed the danger of relying on software alone for safety.",
+        "Practices like **testing**, **code review**, **version control**, **gradual rollouts** and **redundancy** reduce errors.",
+        "**Brooks’s law**: adding people to a late project makes it later; **technical debt** builds up from shortcuts.",
+        "Safety-critical systems use strict standards, **redundancy** and **verification**, but failures still occur."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Software failures can cost money, disrupt daily life and occasionally cost lives. Understanding why they happen, and how good engineering reduces them, helps you appreciate both the fragility and the reliability of the digital systems you depend on. These ideas, about complexity, redundancy and learning from failure, apply far beyond software, to organisations, policy and engineering of all kinds."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why is software so prone to bugs, describe one famous software failure and its cause, and name two practices engineers use to reduce errors."
+  }
+}

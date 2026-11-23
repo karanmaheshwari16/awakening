@@ -1,0 +1,84 @@
+{
+  "id": "tech.software.1",
+  "region": "tech",
+  "topic": "software",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Software: Turning Ideas into Instructions",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1843**, decades before electronic computers existed, a British mathematician named **Ada Lovelace** published a set of notes on a mechanical calculating machine designed by her friend **Charles Babbage**, the Analytical Engine. It was never fully built.\n\nIn her notes, Lovelace described, step by step, how the machine could calculate a sequence of numbers called Bernoulli numbers: often described as the first published algorithm intended for a machine. More remarkably, she saw that such a machine might manipulate not just numbers but symbols of any kind, perhaps even composing music. She had glimpsed the idea of **software**: that one machine, given different instructions, could do entirely different things."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Hardware** is the physical machine: processors, memory, screens. **Software** is the set of instructions that tells the hardware what to do. The same phone hardware can be a camera, a calculator, a map or a game, depending on which software is running.\n\nA **program** is a set of instructions written to perform a task. Programs are written in **programming languages**: precise, formal languages that humans can read and write, which are then translated into the binary machine instructions processors understand."
+    },
+    {
+      "type": "text",
+      "heading": "From switches to languages",
+      "md": "The earliest electronic computers, in the 1940s, were programmed by setting switches and plugging cables, or by writing raw **machine code**: long sequences of binary numbers. It was slow, error-prone and specific to each machine.\n\nOver time, programmers built layers of abstraction:\n\n- **Assembly language** replaced binary numbers with short words, like ADD or MOV, but still matched the machine’s instructions one to one.\n- **High-level languages** let programmers write instructions closer to human thinking. **FORTRAN** (1957) was designed for scientific calculations. **COBOL** (1959), influenced by the work of US Navy computer scientist **Grace Hopper**, was designed for business and is still running in many banks and governments today.\n- Later languages include C (1972), Python (1991), Java (1995), JavaScript (1995) and many others, each suited to different tasks.\n\nGrace Hopper also built one of the first **compilers** in the early 1950s: a program that translates code written in a higher-level language into machine code. Many people at the time didn’t believe computers could write programs for themselves."
+    },
+    {
+      "type": "text",
+      "heading": "Compilers and interpreters",
+      "md": "There are two main ways to turn human-readable code into something a computer can run:\n\n- A **compiler** translates the whole program into machine code ahead of time, producing a file that runs directly. Compiled programs usually run fast.\n- An **interpreter** reads and executes the program line by line as it runs. This is more flexible and convenient for experimenting, but often slower.\n\nMany modern languages blend the two approaches."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a compiler as a translator who translates an entire book from English into Hindi before publication; readers then read the translation directly. An interpreter is like a live interpreter at a conference, translating each sentence as the speaker says it. The book translation is faster to read; the live interpreter can handle surprises on the spot."
+    },
+    {
+      "type": "text",
+      "heading": "The building blocks of programs",
+      "md": "Almost every programming language, however different it looks, provides a few core building blocks:\n\n- **Variables**: named containers for values, like *score = 10*.\n- **Conditions**: making decisions. *If the password is correct, open the account; otherwise, show an error.*\n- **Loops**: repeating actions. *For each photo in the album, make a thumbnail.*\n- **Functions**: named, reusable blocks of instructions, like *calculate_tax(income)*, which can be used again and again.\n- **Data structures**: ways of organising data, like lists, tables and maps.\n\nWith just these ideas, combined and layered, programmers build everything from calculators to social networks."
+    },
+    {
+      "type": "steps",
+      "title": "A tiny program in plain language",
+      "items": [
+        "**Goal:** a step counter app that congratulates you when you reach your daily goal.",
+        "**Variables:** *goal = 8000*; *steps = 0*.",
+        "**Loop:** every time the phone’s sensor detects a step, add 1 to *steps*.",
+        "**Condition:** if *steps* equals *goal*, show the message “Goal reached!”.",
+        "**Function:** *distance(steps)* multiplies steps by an average stride length to estimate how far you’ve walked.",
+        "Real apps contain thousands or millions of lines like these, organised into many parts, but the basic logic is the same."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Operating systems: the manager",
+      "md": "When you turn on a computer or phone, the first major software that runs is the **operating system (OS)**: Windows, macOS, Linux, Android or iOS. It acts as a manager between the hardware and all the other programs:\n\n- It shares the processor’s time between many programs, switching so fast they seem to run at once.\n- It manages memory, giving each program its own space and preventing them from interfering with each other.\n- It controls files and storage, the screen, the network and devices like cameras and microphones.\n- It enforces security and permissions, for example asking whether an app may access your location.\n\nApps don’t talk to the hardware directly; they ask the operating system, which keeps everything orderly and secure."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Much of the world’s software is written by volunteers and given away for free. Why would anyone do that, and how can it be trusted?",
+      "md": "That’s **open-source software**: software whose code is publicly available for anyone to read, use, modify and share. In **1991**, a Finnish student named **Linus Torvalds** began writing an operating system kernel as a hobby and shared it online. Thousands of contributors joined. **Linux** now runs most of the world’s web servers and supercomputers, and Android is built on it. People contribute for many reasons: to fix problems they face themselves, to learn, to build a reputation, out of shared values, or because their employers pay them to, since companies benefit from shared tools. Openness can improve trust, because anyone can inspect the code for flaws, though in practice some widely used open-source projects are maintained by just a few overstretched volunteers, which has caused security problems."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Hardware** is the physical machine; **software** is the instructions that run on it.",
+        "**Ada Lovelace** published what is often called the first algorithm for a machine in **1843**.",
+        "Programming moved from **machine code** to **assembly** to **high-level languages** like FORTRAN, COBOL and Python.",
+        "**Compilers** translate whole programs ahead of time; **interpreters** run them line by line. **Grace Hopper** built an early compiler.",
+        "Core building blocks: **variables, conditions, loops, functions** and **data structures**.",
+        "The **operating system** manages hardware, memory, files and security for all other programs.",
+        "**Open-source software**, like **Linux**, is freely shared and underpins much of the internet."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Software runs almost every system in modern life, from banking and hospitals to transport and entertainment. Understanding what it is and how it’s built demystifies technology, and is a first step if you ever want to write code yourself. Next, you’ll see what happens when software goes wrong, and how engineers try to prevent it."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a programming language and why do we need compilers or interpreters, what does an operating system do, and what is open-source software?"
+  }
+}

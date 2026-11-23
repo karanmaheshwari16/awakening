@@ -1,0 +1,84 @@
+{
+  "id": "tech.cryptography.1",
+  "region": "tech",
+  "topic": "cryptography",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Secret Codes: From Caesar to Your Phone",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1930s, Nazi Germany believed its military communications were unbreakable. Messages were scrambled by **Enigma**, a typewriter-like machine whose rotors and wiring could be set in about **159 million million million** different ways, changed every day.\n\nYet Polish mathematicians, led by **Marian Rejewski**, first broke Enigma in **1932**, using mathematics and intelligence material. Just before the war, they shared their methods with British and French intelligence. At **Bletchley Park** in England, thousands of people, including **Alan Turing**, built on their work to read German messages on a vast scale. Some historians estimate this shortened the war by around two years. The battle between code makers and code breakers has shaped history, and today it protects every message and payment on your phone."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Cryptography** is the science of protecting information by transforming it so that only the intended people can read it. The original message is called the **plaintext**; the scrambled version is the **ciphertext**. Turning plaintext into ciphertext is **encryption**; turning it back is **decryption**.\n\nMost encryption methods have two parts:\n\n- An **algorithm**: the general method of scrambling.\n- A **key**: a secret value that controls exactly how the scrambling is done.\n\nA key principle, stated by the Dutch cryptographer **Auguste Kerckhoffs** in **1883**, is that a system should remain secure even if everything about it except the key is public. Good cryptography doesn’t rely on keeping the method secret; it relies on keeping the key secret."
+    },
+    {
+      "type": "steps",
+      "title": "The Caesar cipher",
+      "items": [
+        "The Roman general **Julius Caesar** reportedly protected messages by shifting each letter a fixed number of places along the alphabet.",
+        "With a shift of **3**, A becomes D, B becomes E, C becomes F, and so on, wrapping around at the end: X becomes A, Y becomes B, Z becomes C.",
+        "The message **ATTACK** becomes **DWWDFN**.",
+        "To decrypt, shift each letter back by 3.",
+        "Here, the algorithm is “shift the letters”, and the key is the number **3**.",
+        "The weakness: there are only 25 possible shifts, so an attacker can simply try them all. This is called a **brute-force attack**. Modern encryption uses keys with so many possibilities that trying them all would take longer than the age of the universe."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Breaking codes with patterns",
+      "md": "More complex ciphers replace each letter with a different, random letter, giving vastly more possible keys. For centuries these seemed unbreakable. But in the 9th century, the Arab scholar **Al-Kindi**, working in Baghdad, described a powerful technique: **frequency analysis**.\n\nIn any language, some letters appear more often than others. In English, E is the most common, followed by letters like T and A. If a ciphertext’s most common symbol is X, it probably stands for E. By matching frequencies and looking for common patterns, a code breaker can gradually unravel the message. The lesson: a cipher can have a huge number of possible keys and still be weak, if it leaves patterns behind."
+    },
+    {
+      "type": "text",
+      "heading": "The key distribution problem",
+      "md": "For most of history, encryption was **symmetric**: the same key was used to encrypt and decrypt. That creates a fundamental problem. Before two people can communicate secretly, they must somehow **share the key** secretly, by meeting in person, using a trusted courier or some other safe channel.\n\nThat works for generals and spies, but not for the internet. You can’t meet every online shop, bank and messaging service in person to exchange secret keys before using them."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Here’s the brilliant solution, in everyday terms. Imagine you want people to send you secret letters. You manufacture thousands of open **padlocks** and hand them out freely to anyone. Only you keep the **key** that opens them. Anyone can put a message in a box, snap your padlock shut and send it to you. Once locked, not even the sender can open it. Only you can. You never had to share your key with anyone."
+    },
+    {
+      "type": "text",
+      "heading": "Public-key cryptography",
+      "md": "In **1976**, **Whitfield Diffie** and **Martin Hellman** published a method allowing two people to agree on a shared secret key over a public channel, even if eavesdroppers are listening. In **1977**, **Ron Rivest**, **Adi Shamir** and **Leonard Adleman** created **RSA**, a complete public-key system. (It later emerged that British intelligence mathematicians at GCHQ, including **Clifford Cocks**, had developed similar ideas secretly a few years earlier.)\n\nIn **public-key cryptography**, each person has two mathematically linked keys:\n\n- A **public key**, which can be shared with anyone: the open padlock.\n- A **private key**, which is kept secret: the key to the padlock.\n\nAnything encrypted with someone’s public key can only be decrypted with their private key. The security relies on mathematical problems that are easy to do in one direction but extremely hard to reverse. RSA, for example, relies on the fact that multiplying two very large prime numbers is easy, but working out which two primes were multiplied, given only the result, is extraordinarily hard for numbers hundreds of digits long."
+    },
+    {
+      "type": "text",
+      "heading": "Cryptography in your pocket",
+      "md": "Every day, public-key and symmetric cryptography work together to protect you:\n\n- **HTTPS**: when you visit a secure website (the padlock in your browser), your device and the server use public-key cryptography to agree on a fresh symmetric key, then use fast symmetric encryption for the rest of the session.\n- **Digital signatures**: the same mathematics can prove that a message or software update genuinely came from a particular sender and hasn’t been altered.\n- **End-to-end encryption**: messaging apps like WhatsApp and Signal encrypt messages so that only the sender and recipient can read them, not even the company running the service. WhatsApp switched on end-to-end encryption for all users in **2016**, using the protocol developed by Signal.\n- **Payments**: card payments, UPI transactions and online banking rely on cryptography at every step."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If encryption is so strong, why do so many accounts still get hacked?",
+      "md": "Because attackers rarely break the encryption itself. It’s almost always easier to go around it: tricking people into revealing passwords or one-time codes (as in the scams lessons), exploiting bugs in software, stealing passwords from poorly protected databases, or installing malware on devices so messages can be read before they’re encrypted or after they’re decrypted. Cryptography is like a superb lock on a front door; it doesn’t help if someone is tricked into opening the door, or if a window is left open. The next lesson explores these weak points."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Cryptography** turns **plaintext** into **ciphertext** using an **algorithm** and a secret **key**.",
+        "**Kerckhoffs’s principle (1883)**: security should depend on keeping the **key** secret, not the method.",
+        "The **Caesar cipher** is easily broken by **brute force**; **frequency analysis** (Al-Kindi, 9th century) breaks many substitution ciphers.",
+        "**Enigma** was first broken by Polish mathematicians (**1932**), then at **Bletchley Park** with Alan Turing.",
+        "**Symmetric** encryption faces the **key distribution problem**.",
+        "**Public-key cryptography** (Diffie–Hellman 1976, RSA 1977) uses a **public key** to lock and a **private key** to unlock.",
+        "It protects **HTTPS**, **digital signatures**, **end-to-end encrypted messaging** and **payments**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Cryptography is the invisible foundation of trust online. Without it, online banking, shopping, private messaging and secure software updates would be impossible. Understanding the basic ideas helps you recognise what really protects you, and what doesn’t, and makes sense of public debates about privacy, surveillance and security."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the key distribution problem, and how does public-key cryptography solve it?"
+  }
+}

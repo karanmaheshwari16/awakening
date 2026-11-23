@@ -1,0 +1,90 @@
+{
+  "id": "tech.cryptography.2",
+  "region": "tech",
+  "topic": "cryptography",
+  "level": 2,
+  "prerequisites": [
+    "tech.cryptography.1"
+  ],
+  "title": "Staying Secure in a Hostile Network",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **12 May 2017**, a piece of malicious software called **WannaCry** spread across the world in a matter of hours. It encrypted the files on infected computers and demanded payment in Bitcoin to unlock them. Around **200,000** computers in about **150 countries** were hit.\n\nIn the UK, the National Health Service was badly affected: thousands of appointments and operations were cancelled, and some ambulances were diverted. WannaCry spread using a weakness in older Windows systems. Microsoft had released a fix two months earlier. Many organisations simply hadn’t installed it. Most security disasters, it turns out, exploit ordinary gaps rather than genius hacking."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that modern encryption is extremely strong. Attackers usually don’t try to break it. Instead, they target the weakest links: people, passwords, unpatched software and poorly protected data.\n\n**Cybersecurity** is the practice of protecting systems, networks and data from attack. It’s often described in terms of three goals, sometimes called the **CIA triad**:\n\n- **Confidentiality**: only authorised people can access information.\n- **Integrity**: information isn’t altered without permission.\n- **Availability**: systems and data are accessible when needed.\n\nAttacks target one or more of these. WannaCry attacked availability by locking files; a data breach attacks confidentiality."
+    },
+    {
+      "type": "text",
+      "heading": "How passwords should be stored",
+      "md": "A well-run website never stores your actual password. Instead, it stores a **hash**: the output of a one-way mathematical function that turns any input into a fixed-length string of characters.\n\n- The same password always produces the same hash, so when you log in, the site hashes what you typed and compares.\n- But you can’t easily reverse a hash to get the password back.\n- Good systems also add a random value called a **salt** to each password before hashing, so two people with the same password get different hashes, and use deliberately slow hash functions to make guessing expensive.\n\nWhen a company is breached and its password database is stolen, attackers try to crack the hashes by guessing likely passwords at high speed. Weak, common passwords fall almost instantly. Lists of leaked passwords consistently show that millions of people use passwords like **123456**, **password** or **qwerty**."
+    },
+    {
+      "type": "text",
+      "heading": "Credential stuffing: why reusing passwords is dangerous",
+      "md": "Because people often reuse the same password across many sites, attackers take usernames and passwords leaked from one breach and automatically try them on other services, such as email, banking and shopping. This is called **credential stuffing**, and it’s one of the most common ways accounts are taken over.\n\nThe fix is to use a **different, strong password for every important account**. Since nobody can remember dozens of random passwords, security experts recommend a **password manager**: an app that generates and stores strong passwords, protected by one strong master password."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Reusing one password everywhere is like using the same key for your house, car, office and safe deposit box. If you lose it once, or a burglar copies it from one door, everything is open. A password manager is like a secure key cabinet holding a different key for each lock, which you open with one key you guard very carefully."
+    },
+    {
+      "type": "text",
+      "heading": "Two-factor authentication",
+      "md": "**Two-factor authentication (2FA)** requires two different kinds of proof to log in, usually from different categories:\n\n- Something you **know**: a password or PIN.\n- Something you **have**: your phone, a security key, a bank card.\n- Something you **are**: a fingerprint or face.\n\nEven if an attacker steals your password, they also need your phone or security key. Studies by Google and others have found that adding a second factor blocks the large majority of automated account takeover attempts. Codes from an authenticator app or a physical security key are generally more secure than codes sent by SMS, which can be intercepted through **SIM-swap** fraud, where criminals trick a mobile operator into transferring your number to their SIM card."
+    },
+    {
+      "type": "text",
+      "heading": "The human element",
+      "md": "Many attacks begin with **social engineering**: manipulating people rather than machines. **Phishing** emails and messages, covered in the scams lessons, trick people into entering passwords on fake sites or opening malicious attachments. Industry reports, such as Verizon’s annual data breach investigations, consistently find that a large share of breaches involve a human element: stolen credentials, phishing or simple mistakes.\n\n**Ransomware**, like WannaCry, often gets in through a phishing email or an unpatched system, encrypts an organisation’s files and demands payment. Hospitals, schools, councils and businesses around the world have been targeted. Good **backups**, kept separately from the main systems, are one of the best defences."
+    },
+    {
+      "type": "steps",
+      "title": "Your personal security checklist",
+      "items": [
+        "**Use a unique, strong password** for every important account, ideally with a password manager.",
+        "**Turn on two-factor authentication**, especially for email (which can reset all your other passwords), banking and social media.",
+        "**Install updates promptly** on your phone, computer and apps. Many updates fix security weaknesses that attackers already know about.",
+        "**Be suspicious of unexpected messages**, links and attachments, even from people you know, since their accounts may be compromised.",
+        "**Back up important files** regularly to a separate location.",
+        "**Lock your devices** with a PIN, password or biometrics, and enable remote wipe in case they’re lost."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The quantum threat",
+      "md": "Much of today’s public-key cryptography, including RSA, relies on mathematical problems that are extremely hard for ordinary computers, like factoring huge numbers. In **1994**, the mathematician **Peter Shor** showed that a sufficiently powerful **quantum computer**, which uses the strange rules of quantum physics that you’ll meet in the Physics region, could solve these problems efficiently.\n\nNo quantum computer today is anywhere near powerful enough. But because encrypted data stolen now could be decrypted later (“harvest now, decrypt later”), governments and companies are already preparing. In **August 2024**, the US National Institute of Standards and Technology (NIST) published its first standards for **post-quantum cryptography**: new methods designed to resist quantum attacks. Migrating the world’s systems will take many years."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Should governments be able to read encrypted messages to catch criminals and terrorists?",
+      "md": "This is one of the most contested debates in technology policy. Law enforcement agencies argue that end-to-end encryption lets criminals hide evidence, and some governments have proposed requiring a way for authorities to access messages with legal authorisation, sometimes called a “**backdoor**”. Many security experts respond that there’s no way to build a backdoor that only the “good guys” can use: any deliberate weakness could be found and exploited by criminals or hostile states, weakening security for everyone. Privacy advocates also warn about surveillance and misuse. Different countries have taken different positions, and the debate continues."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Cybersecurity** protects **confidentiality**, **integrity** and **availability**.",
+        "Websites should store **salted hashes**, not passwords; weak, common passwords are cracked quickly after breaches.",
+        "**Credential stuffing** exploits reused passwords; use **unique passwords** and a **password manager**.",
+        "**Two-factor authentication** blocks most automated takeovers; app codes and security keys beat SMS.",
+        "Many breaches involve **people**: phishing, social engineering and mistakes; **ransomware** like **WannaCry (2017)** exploits unpatched systems.",
+        "**Quantum computers** could break RSA (**Shor, 1994**); **post-quantum** standards were published in **2024**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Your digital accounts hold your money, communications, photos and identity. A few simple habits, like unique passwords, two-factor authentication and prompt updates, protect you against most common attacks. Understanding security also helps you follow debates about privacy, surveillance and the future of encryption, which affect everyone online."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do websites store passwords safely, why is two-factor authentication so effective, and why might quantum computers threaten today’s encryption?"
+  }
+}

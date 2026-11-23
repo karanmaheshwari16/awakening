@@ -1,0 +1,78 @@
+{
+  "id": "tech.ai.1",
+  "region": "tech",
+  "topic": "ai",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Machines Learn",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **March 2016**, in Seoul, the AI program **AlphaGo**, built by Google DeepMind, played five games of the ancient board game Go against **Lee Sedol**, one of the world’s strongest players. Go has more possible board positions than there are atoms in the observable universe, and experts had expected computers to need at least another decade to master it.\n\nAlphaGo won **4–1**. In the second game, it played a move, **move 37**, so unusual that commentators thought it was a mistake. It turned out to be brilliant. AlphaGo hadn’t been programmed with rules for good Go strategy. It had **learned**, first from human games and then by playing millions of games against itself, and discovered ideas no human had taught it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Artificial intelligence (AI)** is a broad term for computer systems that perform tasks we normally associate with human intelligence: recognising images, understanding language, making decisions, playing games, translating and more.\n\nThe term was coined in **1956** at a summer workshop at **Dartmouth College** in the US, organised by **John McCarthy** and others, who optimistically suggested that significant progress could be made in a single summer. Six years earlier, in **1950**, Alan Turing had asked “Can machines think?” and proposed a test, now called the **Turing test**: could a machine hold a conversation indistinguishable from a human’s?\n\nAI’s history has seen cycles of excitement and disappointment. Periods when funding and interest collapsed after progress stalled became known as **AI winters**, notably in the 1970s and late 1980s."
+    },
+    {
+      "type": "text",
+      "heading": "Two ways to make a machine smart",
+      "md": "**Traditional programming (rule-based AI)**: humans write explicit rules. For example, to detect spam: “if the email contains ‘free money’ and comes from an unknown sender, mark it as spam.” Early AI, called **symbolic AI** or **expert systems**, worked this way. It’s transparent, but brittle: the world is too messy for humans to write rules for everything. How would you write rules to recognise a cat in any photo?\n\n**Machine learning**: instead of writing the rules, humans provide **examples**, and the computer finds the patterns itself. Show a system millions of emails labelled “spam” or “not spam”, and it learns which features predict spam, including patterns no human would have thought to write down.\n\nMost of today’s AI successes come from machine learning."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Traditional programming is like teaching someone to cook by giving them a precise recipe. Machine learning is like letting someone taste thousands of dishes, telling them each time whether it’s good or bad, until they develop their own sense of what works, without ever being told the rules explicitly. They may end up a better cook than the recipe writer, but they may struggle to explain exactly why."
+    },
+    {
+      "type": "text",
+      "heading": "Neural networks",
+      "md": "The most powerful machine learning approach today uses **artificial neural networks**, loosely inspired by the brain.\n\nA neural network is made of layers of simple units, often called neurons, connected to each other. Each connection has a **weight**: a number determining how strongly one neuron influences the next.\n\n- The **input layer** receives data, such as the pixel values of an image.\n- **Hidden layers** in the middle transform the data step by step. Each neuron combines its inputs, weighted by the connection strengths, and passes on a signal.\n- The **output layer** produces the answer, such as “cat: 92% likely”.\n\nNetworks with many hidden layers are called **deep** neural networks, which is where the term **deep learning** comes from. Early layers in an image network might detect simple edges; later layers combine them into shapes, then into features like ears and whiskers, then into whole objects."
+    },
+    {
+      "type": "steps",
+      "title": "How a neural network learns",
+      "items": [
+        "Start with a network whose weights are set **randomly**. Its answers are essentially guesses.",
+        "Show it a training example, such as a photo labelled “cat”.",
+        "The network makes a prediction, say “dog: 60%”. Measure how **wrong** it was, using a mathematical measure called the **loss**.",
+        "Work out how each weight contributed to the error, using a technique called **backpropagation**, and nudge every weight slightly in the direction that would have reduced the error. This process is called **gradient descent**.",
+        "Repeat with millions of examples, many times over. Gradually, the weights settle into values that produce good predictions.",
+        "Finally, test the network on examples it has **never seen**, to check it has learned general patterns rather than just memorising the training data."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The deep learning revolution",
+      "md": "Neural networks have existed since the 1950s and 1960s, and the key learning method, backpropagation, was popularised in **1986** by researchers including **Geoffrey Hinton**. But for decades, they were too slow and data-hungry to beat other methods.\n\nThree things changed around 2010: huge **datasets** became available from the internet; **GPUs**, the graphics chips you met earlier, turned out to be ideal for neural network calculations; and researchers refined their techniques. In **2012**, a deep neural network called **AlexNet**, built by Hinton’s team at the University of Toronto, won the **ImageNet** image recognition competition by a large margin. That result triggered the explosion of deep learning that powers face recognition, voice assistants, translation, medical image analysis and much more today.\n\nHinton later shared the **2024 Nobel Prize in Physics** with John Hopfield for foundational work on neural networks."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can AI help with science, not just apps and games?",
+      "md": "Yes, and one of the most striking examples is **protein folding**. Proteins are long chains of amino acids that fold into complex 3D shapes, and their shape determines what they do in the body. Working out a protein’s structure experimentally could take years. In **2020**, DeepMind’s **AlphaFold** predicted protein structures with accuracy comparable to experimental methods in many cases. Its predictions for hundreds of millions of proteins were made freely available to scientists worldwide, accelerating research in medicine and biology. **Demis Hassabis** and **John Jumper** of DeepMind shared the **2024 Nobel Prize in Chemistry** for this work, along with **David Baker**, who designed new proteins computationally."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**AI** covers systems performing tasks associated with human intelligence; the term was coined at **Dartmouth in 1956**; **Turing** proposed his test in **1950**.",
+        "**Rule-based** AI follows human-written rules; **machine learning** finds patterns from **examples**.",
+        "**Neural networks** have layers of connected units with adjustable **weights**; **deep learning** uses many layers.",
+        "Networks learn by measuring error (**loss**) and adjusting weights via **backpropagation** and **gradient descent**.",
+        "**Big data**, **GPUs** and better techniques sparked the deep learning boom, marked by **AlexNet (2012)**.",
+        "**AlphaGo** beat Lee Sedol in **2016**; **AlphaFold** transformed protein structure prediction (Nobel Prize, **2024**)."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "AI is already embedded in daily life, from your phone’s camera and keyboard to spam filters, maps and recommendations. Understanding how machines actually learn, from examples and adjustable weights rather than magic or consciousness, helps you judge both the hype and the fear. The next lesson looks at the most talked-about form of AI today: large language models, and their power and limits."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between traditional programming and machine learning, and how does a neural network learn from examples?"
+  }
+}
