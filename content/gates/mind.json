@@ -1,0 +1,34 @@
+[
+  {
+    "id": "mind.gate.1",
+    "region": "mind",
+    "tier": 1,
+    "title": "The Daily Machine",
+    "question": "A student says: \"I study late every night, sleep five hours, skip exercise to save time, and reread my notes before exams, but I keep forgetting things.\" Using what you have learned about sleep, habits, memory, stress and exercise, explain why their approach backfires and design a better weekly routine for them.",
+    "links": ["sleep", "habits", "memory", "stress", "exercise"],
+    "model_answer": "Their plan works against how the brain stores information.\n\nSleep is when the brain consolidates the day’s learning, moving memories into longer-term storage. Five hours, especially if they wake early, cuts into REM sleep in the second half of the night and leaves adenosine and sleep debt building up. Chronic short sleepers also underestimate how impaired they are.\n\nRereading feels productive because the material becomes familiar, but familiarity is not recall. Memory is strengthened by retrieval, not re-exposure, and cramming before exams fades quickly because of the forgetting curve.\n\nSkipping exercise removes one of the best supports for attention, mood and the hippocampus, and the combination of short sleep and constant pressure keeps the stress response switched on, which further harms memory and focus.\n\nA better routine: a fixed wake-up time and around seven to nine hours of sleep; study in shorter sessions spread across the week; close the book and write or say what they remember, then check; revisit topics after a few days and a week; mix different types of problems. Add a brisk 20–30 minute walk on most days, ideally before studying. Build it as habits tied to cues, for example \"after dinner I do 25 minutes of self-testing\", starting small and keeping the context stable.",
+    "key_points": [
+      "Sleep consolidates memory; short sleep cuts REM and creates hidden impairment.",
+      "Retrieval practice and spacing beat rereading and cramming.",
+      "Exercise improves attention, mood and brain health, and buffers stress.",
+      "Chronic stress and sleep loss impair memory and focus.",
+      "Build the new routine as specific habits linked to cues, starting small."
+    ]
+  },
+  {
+    "id": "mind.gate.2",
+    "region": "mind",
+    "tier": 2,
+    "title": "Judging the Evidence",
+    "question": "A wellness influencer claims: \"Studies prove that my supplement boosts memory by 40% and eliminates stress. Willpower is a muscle, so take it in the morning before it runs out.\" Using what you have learned, evaluate each part of this claim. What questions would you ask, and what does the evidence actually suggest works for memory and stress?",
+    "links": ["nutrition", "memory", "stress", "habits"],
+    "model_answer": "Each part of the claim has warning signs.\n\n\"Studies prove\" and \"40%\": I would ask what kind of study it was (a small trial, an observational study, or a test on animals or cells), how many people took part, what was measured, and who funded it. A 40% change may be a relative figure with a small absolute effect, or a measure of something narrow. Most supplements show no benefit for well-nourished people in large independent trials; exceptions involve correcting a real deficiency, like B12 or vitamin D.\n\n\"Eliminates stress\": stress is a normal response with useful short-term functions. Nothing eliminates it, and chronic stress usually depends on factors like control, predictability and social support, which no pill changes.\n\n\"Willpower is a muscle\": this is the ego depletion idea, which failed a large multi-lab replication. People with good self-control mostly rely on habits and environments that reduce temptation.\n\nWhat the evidence supports for memory: retrieval practice, spaced review, interleaving, explaining ideas in your own words, enough sleep and regular aerobic exercise. For stress: sleep, movement, slow breathing, problem-focused coping where possible, emotion-focused coping where not, and strong social connections.",
+    "key_points": [
+      "Ask about study type, size, outcomes measured, absolute vs relative effects and funding.",
+      "Most supplements don't help well-nourished people; deficiencies are the exception.",
+      "Stress can't be eliminated and depends on control, predictability and support.",
+      "Ego depletion failed large replications; habits and environment matter more.",
+      "Proven tools: retrieval, spacing, sleep, exercise, coping strategies and connection."
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "id": "mind.habits.2",
+  "region": "mind",
+  "topic": "habits",
+  "level": 2,
+  "prerequisites": [
+    "mind.habits.1"
+  ],
+  "title": "Breaking Bad Habits and the Myth of Willpower",
+  "estimated_minutes": 14,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1960s, the psychologist **Walter Mischel** offered young children a choice: one marshmallow now, or two if they could wait alone for about fifteen minutes. Years later, the children who had waited longer tended to do better in school. The “marshmallow test” became one of the most famous experiments in psychology, often summed up as: **willpower predicts success**.\n\nBut in 2018, a larger study revisited the idea with a much more diverse group of children. The link was much smaller, and largely disappeared once family background and early abilities were taken into account. Children from more stable, better-off homes found it easier to wait, partly because, in their experience, promised rewards actually arrived. The story of willpower, it turns out, is more complicated than it first seemed."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Breaking a habit is usually harder than building one, because an old habit doesn’t get deleted. The link between cue and routine stays stored in the brain. When you “break” a habit, you mostly **override** it or **avoid its cues**, and the old pattern can return under stress, which is why people often relapse after a hard day.\n\nSo the most effective strategies don’t rely on fighting the urge every time. They work on three levers:\n\n1. **Remove or avoid the cue.**\n2. **Add friction** to the unwanted behaviour, and remove friction from the wanted one.\n3. **Replace** the routine with a different one that delivers a similar reward."
+    },
+    {
+      "type": "text",
+      "heading": "Friction: the underrated superpower",
+      "md": "Small barriers have surprisingly big effects. In one study, simply moving a bowl of sweets a short distance away from people’s desks noticeably reduced how many they ate. When a school cafeteria put fruit at eye level and made desserts a little harder to reach, choices shifted, without banning anything.\n\nApply it in your life:\n\n- Want to scroll less? Log out of apps, move them off your home screen, or charge your phone outside the bedroom. Each extra step gives your conscious mind a moment to catch up with the autopilot.\n- Want to read more? Leave a book on your pillow.\n- Want to exercise in the morning? Sleep near your laid-out workout clothes.\n\nYou are designing an environment where the **easy** choice is the **good** choice."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your habits as water flowing downhill. Willpower is like trying to hold back the water with your hands: possible for a while, but exhausting. Environment design is like digging channels: you reshape the landscape so the water naturally flows where you want it."
+    },
+    {
+      "type": "text",
+      "heading": "The willpower story, revised",
+      "md": "In the late 1990s, psychologists proposed that self-control is like a muscle that gets **tired** with use, an idea called **ego depletion**. Hundreds of studies seemed to support it. But in 2016, a large coordinated replication effort across more than 20 laboratories found an effect close to **zero**. Later replication attempts produced mixed results. Today, many researchers doubt that willpower runs out in the simple way originally claimed.\n\nThis is part of a wider **replication crisis** in psychology and other sciences: some famous findings didn’t hold up when tested again more rigorously. It’s a reminder to treat single, surprising studies with caution, a theme you’ll meet again in the Philosophy and Math regions.\n\nWhat does seem robust: people who appear to have great self-control often aren’t constantly resisting temptation. They **arrange their lives to face fewer temptations** in the first place."
+    },
+    {
+      "type": "text",
+      "heading": "Why some habits grip so hard",
+      "md": "Your brain’s reward system relies heavily on a chemical messenger called **dopamine**. Contrary to popular belief, dopamine isn’t simply the “pleasure chemical”. Research by **Wolfram Schultz** and others showed that dopamine neurons respond strongly to **unexpected** rewards and, after learning, to the **cues that predict** them. Dopamine is more about **wanting** and learning what to pursue than about enjoying.\n\nThis explains why **unpredictable** rewards are so compelling. In the mid-twentieth century, the psychologist **B. F. Skinner** found that animals pressed a lever most persistently when rewards came on an unpredictable schedule. Slot machines work this way. So do social media feeds, notifications and many games: you never know whether the next refresh will bring something interesting, so you keep checking."
+    },
+    {
+      "type": "steps",
+      "title": "Replacing a habit: a worked example",
+      "items": [
+        "**Notice the loop.** Someone reaches for their phone every time they sit down at their desk to study.",
+        "**Identify the cue:** sitting down and facing a difficult task.",
+        "**Identify the real reward:** not information, but **relief** from the discomfort of starting something hard.",
+        "**Add friction:** the phone goes in a bag across the room during study blocks.",
+        "**Replace the routine:** when the urge comes, take three slow breaths and write down the very first tiny step of the task. That also delivers relief, by making the task feel manageable.",
+        "**Expect urges and relapses.** Urges rise and fall like waves; noticing one without acting on it (sometimes called **urge surfing**) weakens the link over time. One slip isn’t failure; getting back on track quickly matters more than a perfect record."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "Temptation bundling",
+      "md": "Economist **Katy Milkman** tested an idea called **temptation bundling**: pairing something you want to do with something you should do. Participants could only listen to gripping audiobooks they loved while at the gym. Gym visits rose significantly compared to a control group, though the effect faded over time. You might allow yourself a favourite podcast only while walking, or a special tea only while doing paperwork."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If habits are so automatic, are we responsible for them?",
+      "md": "Philosophers and psychologists would say: partly. You often can’t control the **urge** in the moment, since the cue fires the response before you think. But you can control a great deal **upstream**: which environments you put yourself in, which cues surround you and which routines you practise. In that sense, responsibility shifts from the moment of temptation to the design of your days. That is also why public policy debates about things like gambling advertising or app design matter: companies can design environments to exploit habit loops, which raises questions about whose responsibility it is."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Old habits aren’t deleted; they’re **overridden** or **avoided**, which is why stress can trigger relapse.",
+        "The most effective levers: **remove cues**, **add friction**, **replace the routine**.",
+        "Small changes in **environment** can shift behaviour more reliably than willpower.",
+        "The **ego depletion** idea failed large replications; famous findings like the **marshmallow test** turned out more complicated.",
+        "**Dopamine** drives wanting and learning, especially for **unpredictable rewards**, which is why feeds and slot machines grip us.",
+        "**Urge surfing**, **temptation bundling** and quick recovery after slips help change stick."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Most of us have at least one habit we’d like to drop. Understanding why they’re sticky replaces guilt with strategy: the problem usually isn’t weak character but a well-trained loop in a supportive environment. These ideas also explain the modern attention economy, helping you notice when an app is designed to keep you hooked, and decide for yourself how you want to spend your attention."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do strategies that change your environment usually work better than relying on willpower, and why are things like social media feeds so habit-forming?"
+  }
+}

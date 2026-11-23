@@ -1,0 +1,71 @@
+{
+  "id": "mind.memory.1",
+  "region": "mind",
+  "topic": "memory",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Memories Are Made, and Remade",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 1953, a 27-year-old American man named **Henry Molaison** had brain surgery to stop severe epileptic seizures. Surgeons removed parts of both sides of his brain, including most of a seahorse-shaped structure called the **hippocampus**. His seizures improved dramatically. But something else had gone: from that day until his death in 2008, he could not form new lasting memories of facts or events.\n\nHe could hold a conversation, but if you left the room for a few minutes and returned, he would greet you as a stranger. Yet he could still **learn new skills**: over several days he got better at a tricky drawing task, while having no memory of ever having practised it. Known for decades only as “H.M.”, he taught science more about memory than perhaps anyone in history."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Memory isn’t a single thing stored in a single place. It’s a set of processes and systems. Psychologists usually describe three stages:\n\n1. **Encoding:** taking information in and turning it into a form the brain can store. Attention matters enormously here: what you don’t notice, you can’t remember.\n2. **Storage:** keeping the information over time.\n3. **Retrieval:** getting it back out when needed.\n\nFailures can happen at any stage. Often what feels like “forgetting” is actually a failure to encode properly in the first place, like not remembering where you put your keys because you were thinking about something else at the time."
+    },
+    {
+      "type": "text",
+      "heading": "Short-term and long-term",
+      "md": "**Working memory** is the mental workspace that holds what you’re thinking about right now, like a phone number you’re about to dial. It’s small and fragile. A famous 1956 paper by George Miller suggested we can hold about **seven** items; later research suggests it’s closer to **four** meaningful chunks for most people. Information fades within seconds unless rehearsed.\n\n**Long-term memory** is effectively unlimited and can last a lifetime. It comes in different types, which H.M.’s case helped reveal:\n\n- **Explicit (declarative) memory**: things you can consciously recall and describe. It includes **episodic memory** (personal events: your last birthday) and **semantic memory** (facts: Paris is the capital of France). The hippocampus is essential for forming new explicit memories.\n- **Implicit memory**: things you know without consciously recalling, such as how to ride a bicycle or type (**procedural memory**). H.M.’s improving drawing skill was implicit memory, which relies on different brain systems."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of working memory as a small desk and long-term memory as a vast library. You can only spread a few papers on the desk at once. To keep something, you need to file it in the library, and to use it later, you need to find it again. A good filing system (organising and connecting information) makes finding it far easier."
+    },
+    {
+      "type": "text",
+      "heading": "What a memory physically is",
+      "md": "A memory isn’t stored in a single cell. It’s a pattern of connections across many neurons. When you learn something, connections between the neurons involved strengthen, making it easier for that pattern to be activated again. The Canadian psychologist **Donald Hebb** summarised the idea in 1949; it’s often paraphrased as **“neurons that fire together, wire together.”**\n\nNew memories start out fragile. Over hours to years, they’re stabilised in a process called **consolidation**, in which the hippocampus seems to help “replay” and gradually integrate them into the wider brain. That’s one reason sleep after learning helps, as you saw in the sleep lessons."
+    },
+    {
+      "type": "text",
+      "heading": "The forgetting curve",
+      "md": "In the 1880s, the German psychologist **Hermann Ebbinghaus** became his own experimental subject. He memorised long lists of nonsense syllables (like “DAX” or “BOK”) and tested himself at different intervals. He found that forgetting is fastest right after learning, then slows down. Without review, a large share of new material is lost within a day or two.\n\nHe also found that each time you review, forgetting slows further. This **forgetting curve** has been confirmed many times, and it underpins the spaced-review approach you’ll meet in the next lesson."
+    },
+    {
+      "type": "text",
+      "heading": "Memory is reconstruction, not playback",
+      "md": "It feels as if memories are recordings we replay. They aren’t. Each time you remember something, your brain **reconstructs** it from fragments, filling gaps with expectations, later information and general knowledge. And the act of recalling can subtly change the memory itself.\n\nIn a classic 1974 study, **Elizabeth Loftus** and **John Palmer** showed people a film of a car crash, then asked how fast the cars were going when they “**hit**” each other, or when they “**smashed**” into each other. People asked with “smashed” gave higher speed estimates. A week later, they were also more likely to falsely remember seeing **broken glass**, which wasn’t in the film. One word changed the memory."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why does this matter so much in courtrooms?",
+      "md": "Because juries tend to trust **confident eyewitnesses**, but confidence and accuracy can come apart, especially when memories have been shaped by leading questions, line-up procedures, stress or later conversations. In the United States, the Innocence Project, which works to overturn wrongful convictions using DNA evidence, has found that **mistaken eyewitness identification** played a role in roughly **seven in ten** of those convictions. Research like Loftus’s has led many police forces and courts to change how they conduct line-ups and question witnesses, for example by having officers who don’t know the suspect run the line-up."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Memory has three stages: **encoding**, **storage** and **retrieval**; poor attention often causes poor encoding.",
+        "**Working memory** holds only about **four chunks** briefly; **long-term memory** is vast.",
+        "Long-term memory includes **explicit** (episodic, semantic) and **implicit** (procedural) types, revealed partly by the case of **Henry Molaison (H.M.)**.",
+        "Memories are patterns of **strengthened connections** between neurons, stabilised by **consolidation**.",
+        "**Ebbinghaus’s forgetting curve**: forgetting is fast at first, then slows; review slows it further.",
+        "Memory is **reconstructive**: it can be altered by later information, as **Loftus and Palmer** showed."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding memory changes how you study, how you judge your own recollections and how much weight you give to other people’s. It also explains why this app is designed the way it is: explaining ideas in your own words and revisiting them after days and weeks are built around how memory actually works. The next lesson turns this science into practical techniques."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the main stages and types of memory, and why might a confident eyewitness still be wrong?"
+  }
+}

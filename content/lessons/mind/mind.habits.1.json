@@ -1,0 +1,78 @@
+{
+  "id": "mind.habits.1",
+  "region": "mind",
+  "topic": "habits",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Autopilot in Your Brain",
+  "estimated_minutes": 13,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Think about this morning. You probably got out of bed, used the bathroom, brushed your teeth and checked your phone in much the same order as yesterday, and the day before, without deciding to do any of it.\n\nResearchers led by the psychologist **Wendy Wood** asked people to record what they were doing and thinking at random moments throughout the day. Around **40%** of their actions were performed almost every day in the same context, usually while they were thinking about something else entirely. A large share of your life runs on autopilot. The good news: you can reprogram it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **habit** is a behaviour that has become automatic, triggered by a **cue** in your environment rather than by a conscious decision. Once a habit is established, the cue alone is enough to start it, with little thought or effort.\n\nHabits form through repetition in a **stable context**. When you repeat an action in the same situation and it leads to a satisfying result, your brain gradually links the situation to the action. Over time, control shifts from brain areas involved in deliberate, goal-directed decisions towards a set of deep brain structures called the **basal ganglia**, which handle automatic routines.\n\nThis is efficient. Deciding everything consciously would be exhausting. Habits free your attention for other things. But it also means habits are **indifferent** to whether they’re good for you; the brain automates whatever you repeat."
+    },
+    {
+      "type": "text",
+      "heading": "The habit loop",
+      "md": "A popular way to describe habits, drawing on research and popularised in books by Charles Duhigg and James Clear, is a loop with three parts:\n\n1. **Cue:** something that triggers the behaviour. A time of day, a place, an emotion, other people, or the previous action in a sequence.\n2. **Routine:** the behaviour itself.\n3. **Reward:** the result that makes the brain want to repeat it. Relief, pleasure, a sense of completion.\n\nRepeat the loop often enough and the cue starts to trigger an **urge** for the routine before you’ve thought about it. Walking into the kitchen triggers opening the fridge; feeling bored triggers reaching for your phone."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a new habit like a path across a grassy field. The first time you walk it, it’s hard to see and easy to lose. Walk the same route every day and the grass flattens until a clear path appears, and soon your feet follow it without thinking. Old habits are well-worn paths too; they don’t disappear quickly, but they can grow over if you stop using them."
+    },
+    {
+      "type": "text",
+      "heading": "How long does it really take?",
+      "md": "You may have heard that habits take **21 days** to form. That number has no solid scientific basis; it seems to trace back to a 1960s self-help book.\n\nIn a well-known 2009 study at University College London, **Phillippa Lally** and colleagues asked volunteers to adopt a new daily behaviour, like drinking water with lunch or doing sit-ups before dinner, and to report how automatic it felt. The average time to reach peak automaticity was about **66 days**, but it ranged widely, from **18 to 254 days**, depending on the person and the behaviour. Simple behaviours became automatic faster than complex ones.\n\nEncouragingly, **missing a single day** didn’t seriously harm progress. What mattered was overall consistency, not perfection."
+    },
+    {
+      "type": "steps",
+      "title": "Building a habit, step by step",
+      "items": [
+        "**Make it specific.** “Exercise more” is a wish. “Walk for ten minutes after lunch” is a plan.",
+        "**Attach it to a cue.** Use an **implementation intention**: “When [situation], I will [behaviour].” For example: “When I pour my morning tea, I’ll read one page.” Studies by psychologist Peter Gollwitzer and others show this simple wording reliably improves follow-through.",
+        "**Stack it onto an existing habit.** Your existing routines are reliable cues. “After I brush my teeth at night, I’ll set out my clothes for tomorrow.”",
+        "**Start tiny.** Make the first version so easy it feels almost silly: one push-up, one sentence, one minute. The goal at first is repetition, not results.",
+        "**Make it satisfying.** Track it, tick it off, or pair it with something you enjoy, so the brain gets a reward right away.",
+        "**Keep the context stable.** Same time, same place, same trigger, as often as possible."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why motivation isn’t enough",
+      "md": "Most people try to change behaviour through **willpower** and **motivation**: resolving to try harder. Motivation is real, but it fluctuates, and it tends to be lowest exactly when you’re tired, stressed or busy.\n\nHabits work differently. Once established, they run even when motivation is low, because they’re triggered by the situation, not by how you feel. This is why people who seem very self-disciplined often turn out, in studies, to rely less on willpower in the moment and more on **good routines** that make the right action the default."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why is moving house, starting university or a new job a good time to change habits?",
+      "md": "Because old habits are tied to **old cues**. When your environment changes, many of those cues disappear, and the autopilot loses its triggers. Researchers call this the **habit discontinuity** effect: for a while, you have to make conscious decisions again, which is a window to build new routines. A study of people who had recently moved found that those who cared about the environment were more likely to switch to greener commuting after the move than people who stayed put. The flip side: a disruption can also break good habits, so it’s worth deliberately rebuilding them."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **habit** is an automatic behaviour triggered by a **cue**, not a conscious choice.",
+        "Habits form through **repetition in a stable context**, shifting control to the **basal ganglia**.",
+        "The **habit loop**: **cue → routine → reward**.",
+        "Forming a habit took about **66 days** on average in one major study, with a huge range; missing a day didn’t matter much.",
+        "**Implementation intentions** (“When X, I will Y”) and **habit stacking** make new habits stick.",
+        "Habits beat motivation because they run on **situations**, not feelings."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Your habits, more than your occasional big decisions, shape your health, learning and relationships over the long run. Understanding how they work lets you design your life on purpose instead of by accident. You’re already doing it here: a daily quest at a regular time is a habit in the making. Next, you’ll look at the harder side: breaking habits you don’t want."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a habit, how does one form in the brain, and why is linking a new behaviour to a specific cue more effective than relying on motivation?"
+  }
+}

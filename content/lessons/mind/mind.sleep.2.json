@@ -1,0 +1,85 @@
+{
+  "id": "mind.sleep.2",
+  "region": "mind",
+  "topic": "sleep",
+  "level": 2,
+  "prerequisites": [
+    "mind.sleep.1"
+  ],
+  "title": "Body Clocks, Sleep Debt and the Owls Among Us",
+  "estimated_minutes": 14,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In a famous experiment published in 2003, researchers at the University of Pennsylvania limited healthy volunteers to **six hours** of sleep a night for two weeks. By the end, their attention and reaction times had declined to roughly the level of people who had stayed awake for **one or two entire nights** without sleep.\n\nThe most striking finding wasn’t the decline. It was that the volunteers didn’t notice it. When asked, they reported feeling only slightly sleepy. Their performance kept falling, but their sense of how tired they were levelled off. Chronic short sleep, it seems, hides its own damage."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson you met the two forces that govern sleep: **sleep pressure** (adenosine building up the longer you’re awake) and your **circadian rhythm**. This lesson goes deeper into the second, and into what happens when the two are pushed out of line.\n\nYour body runs on a roughly 24-hour internal clock. Almost every cell has its own molecular clock, but they are coordinated by a **master clock** in the brain: a cluster of about 20,000 nerve cells in the hypothalamus called the **suprachiasmatic nucleus (SCN)**, sitting just above where the optic nerves cross.\n\nThe SCN times far more than sleep. It schedules body temperature (lowest in the early morning), hormone release (cortisol rises before you wake), digestion, blood pressure and alertness. In 2017, **Jeffrey Hall, Michael Rosbash** and **Michael Young** won the Nobel Prize for discovering the genes that drive this clock, first found in fruit flies: proteins build up through the day, switch off their own production, then break down, in a cycle lasting about 24 hours."
+    },
+    {
+      "type": "text",
+      "heading": "What sets the clock",
+      "md": "Left completely alone, in a cave or windowless lab, most people’s clocks run slightly longer than 24 hours, so they drift later each day. Something has to reset them daily. That something is mainly **light**.\n\nThe retina contains special light-sensitive cells, discovered only around 2002, that don’t help you see images at all. Their job is to measure brightness, especially blue-rich light like daylight, and report it to the SCN.\n\n- **Light in the morning** shifts the clock **earlier**, making you sleepy earlier that evening.\n- **Light late in the evening** shifts it **later** and suppresses **melatonin**, the hormone that signals night.\n\nOutdoor daylight, even on a cloudy day, is usually many times brighter than indoor lighting. That’s why morning time outdoors is one of the most effective ways to stabilise sleep, and why bright screens late at night may push some people later, although the size of the screen effect is debated and is often smaller than people assume."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your circadian clock as a slightly slow wall clock that needs to be reset every day. Daylight is the person who walks past each morning and nudges the hands back to the right time. Skip the nudge (dark mornings, bright late nights), and the clock gradually drifts, so your body thinks it’s a different time from the one on your phone."
+    },
+    {
+      "type": "text",
+      "heading": "Larks, owls and everyone in between",
+      "md": "People naturally differ in their timing, called their **chronotype**. **Larks** wake early and fade early; **owls** come alive late and struggle in the morning. Most people fall in between. Chronotype is partly **genetic**, and researchers have identified clock-gene variants linked to extreme early or late timing.\n\nIt also changes with **age**. Around puberty, the clock shifts substantially **later**, peaking in the late teens and early twenties, before gradually drifting earlier again across adulthood. A teenager struggling to sleep before midnight isn’t necessarily lazy; their biology has moved. This is why several medical organisations, including the American Academy of Pediatrics, have recommended later school start times for teenagers.\n\nWhen your body clock and your social schedule disagree, for example sleeping at 1 a.m. and waking at 6 a.m. on workdays, then sleeping until 10 a.m. at weekends, you get what researchers call **social jet lag**: the equivalent of flying across time zones every weekend."
+    },
+    {
+      "type": "steps",
+      "title": "Sleep debt: why the maths doesn’t work",
+      "items": [
+        "Suppose you need about 8 hours but get 6 hours on five workdays. That’s **10 hours** of lost sleep.",
+        "At the weekend, you sleep 10 hours each night: 4 hours of “repayment”. On paper, you’re still 6 hours short.",
+        "Worse, studies suggest weekend recovery sleep restores some functions, like how sleepy you feel, faster than others, like sustained attention and metabolism.",
+        "And sleeping late on weekends shifts your body clock later, making Sunday night harder and Monday morning worse.",
+        "The lesson: occasional catch-up helps, but **consistency** beats compensation. A regular schedule, close to your real need, is far better than a cycle of debt and repayment."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "When sleep goes wrong",
+      "md": "**Insomnia** (persistent difficulty falling or staying asleep, with daytime effects) affects roughly one in ten adults chronically. The recommended first treatment in many guidelines is not sleeping pills but **CBT-I**, cognitive behavioural therapy for insomnia: a structured programme that resets habits and thoughts around sleep, including, counter-intuitively, temporarily **limiting** time in bed to rebuild sleep pressure.\n\n**Obstructive sleep apnoea** happens when the airway repeatedly collapses during sleep, causing pauses in breathing and brief awakenings, often without the person knowing. Loud snoring, gasping and severe daytime sleepiness are warning signs. It is common, under-diagnosed and linked to high blood pressure and heart problems, and it is treatable.\n\n**Shift work** pits the body clock against the schedule every day. Long-term night shift work is associated with higher risks of several health problems, and the World Health Organization’s cancer agency classifies it as **probably carcinogenic**, based on limited evidence in humans and stronger evidence in animals."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is a nap a good idea?",
+      "md": "It can be. A short nap of about **10 to 20 minutes** in the early afternoon can boost alertness without leaving you groggy, because you wake before entering deep sleep. Longer naps can cause **sleep inertia**, that heavy, disoriented feeling, and naps late in the day can reduce sleep pressure enough to make falling asleep at night harder. For people with insomnia, avoiding naps is often recommended. The early-afternoon dip in alertness many people feel after lunch is partly circadian, not just the food."
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Drowsy driving",
+      "md": "Being awake for around **17 to 19 hours** can impair performance about as much as a blood alcohol level of 0.05%, the legal driving limit in many countries. Micro-sleeps, brief lapses of a few seconds, can happen without warning. If you’re fighting to keep your eyes open while driving, the only reliable fix is to stop and sleep."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **suprachiasmatic nucleus** is the brain’s master clock, coordinating a roughly 24-hour rhythm in most body systems.",
+        "**Light**, especially morning daylight, resets the clock; late light pushes it later and suppresses **melatonin**.",
+        "**Chronotype** (lark or owl) is partly genetic and shifts **later in adolescence**.",
+        "**Social jet lag** comes from mismatched weekday and weekend schedules.",
+        "**Sleep debt** can’t be fully repaid at weekends; chronic short sleepers often **underestimate** their impairment.",
+        "**CBT-I** is the first-line treatment for chronic insomnia; **sleep apnoea** is common and treatable."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding your body clock turns sleep from something that just happens to you into something you can work with. It explains jet lag, Monday-morning misery and why teenagers struggle with early starts. And the hidden nature of sleep debt is a lesson in itself: feeling fine is not the same as performing well, especially when it comes to driving, studying or making important decisions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the circadian clock and what sets it, and why can’t you fully “catch up” on a week of short sleep at the weekend?"
+  }
+}

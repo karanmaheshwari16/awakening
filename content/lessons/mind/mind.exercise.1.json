@@ -1,0 +1,78 @@
+{
+  "id": "mind.exercise.1",
+  "region": "mind",
+  "topic": "exercise",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Movement Is Medicine for the Brain",
+  "estimated_minutes": 13,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In a 2011 study, researchers recruited about 120 older adults who didn’t exercise. Half began walking briskly for 40 minutes, three times a week. The other half did gentle stretching instead.\n\nAfter a year, brain scans showed that in the walking group, the **hippocampus**, the brain region central to memory, had grown by about **2%**. In the stretching group, it had shrunk slightly, as normally happens with age. The researchers estimated that the walkers had effectively reversed one to two years of age-related shrinkage. Walking, something most of us can do, had physically changed their brains."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Most people think of exercise as something for the body: muscles, heart, weight. But some of its most important effects are on the **brain**.\n\nWhen you move, especially in aerobic activity that raises your heart rate:\n\n- **Blood flow to the brain increases**, delivering more oxygen and fuel.\n- The brain releases a protein called **BDNF** (brain-derived neurotrophic factor), which supports the survival of neurons, the growth of new connections and, in the hippocampus, possibly the growth of new neurons. Some researchers have nicknamed it “fertiliser for the brain”.\n- Levels of chemical messengers involved in mood and attention, including **dopamine**, **serotonin** and **noradrenaline**, shift.\n- Over time, exercise reduces **inflammation** and improves blood vessel health, which protects the brain as you age."
+    },
+    {
+      "type": "text",
+      "heading": "Immediate effects: a sharper mind today",
+      "md": "You don’t need to wait months. A single session of moderate exercise, even a brisk 10–20 minute walk, tends to improve **attention**, **mood** and some aspects of **thinking** for a period afterwards. Many studies in children and adults find small but real improvements in focus after short bouts of physical activity.\n\nThis is why a walk before studying or a difficult meeting can be more useful than another coffee. It also suggests that long periods of sitting still, at a desk or on a sofa, may leave your brain less alert than it could be."
+    },
+    {
+      "type": "text",
+      "heading": "Long-term effects: protecting the ageing brain",
+      "md": "Large observational studies consistently find that physically active people have a **lower risk of dementia** and slower cognitive decline. These studies can’t fully prove cause and effect, since healthier people may simply exercise more. But trials like the walking study above, plus animal research showing exercise increases brain cell growth, support a real protective effect.\n\nPhysical inactivity is listed among the most significant **modifiable** risk factors for dementia in major reviews, such as the influential Lancet Commission on dementia. It’s one of the few things you can actually change."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your brain as a garden. Exercise does three jobs at once: it waters the garden (better blood flow), adds fertiliser (BDNF helping connections grow) and clears weeds (reducing inflammation). You can’t control everything that happens to a garden, but regular care makes it far more likely to thrive."
+    },
+    {
+      "type": "text",
+      "heading": "Exercise and mood",
+      "md": "Exercise has a strong, well-studied effect on **depression** and **anxiety**. A large 2024 analysis in the BMJ, combining over 200 trials, found that activities including **walking or jogging**, **yoga** and **strength training** reduced depression symptoms meaningfully, with effects comparable to psychotherapy in some comparisons. More intense exercise tended to give larger benefits.\n\nThis doesn’t mean exercise replaces professional treatment, especially for severe depression. But many guidelines now recommend it as part of treatment, and for mild to moderate symptoms, it can be an effective tool."
+    },
+    {
+      "type": "steps",
+      "title": "How much is recommended?",
+      "items": [
+        "The World Health Organization recommends adults do **150–300 minutes** a week of **moderate** aerobic activity, or **75–150 minutes** of **vigorous** activity, or a mix.",
+        "**Moderate** means you can talk but not sing: brisk walking, cycling at an easy pace, dancing.",
+        "**Vigorous** means you can only say a few words without pausing for breath: running, fast cycling, competitive sports.",
+        "Add **muscle-strengthening** activity on **two or more days** a week: weights, resistance bands, bodyweight exercises like squats and push-ups, or heavy gardening.",
+        "**Any amount is better than none.** Even modest activity well below these targets is associated with substantial health benefits compared with being completely inactive. The biggest gains come from moving from nothing to something.",
+        "Try to **break up long periods of sitting** with a few minutes of movement."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why might human brains respond so strongly to movement?",
+      "md": "One idea is evolutionary. For most of human history, our ancestors lived as hunter-gatherers who walked many kilometres a day searching for food. Some researchers, like the anthropologist **David Raichlen**, argue that because foraging required navigation, memory and planning while moving, our brains evolved to work best when we’re active, and treat inactivity as a signal to conserve resources. It’s a hypothesis that’s hard to test directly, but it fits the evidence that the brain thrives on regular physical activity."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Exercise increases **blood flow** to the brain and releases **BDNF**, which supports neurons and their connections.",
+        "A single session can improve **attention** and **mood** for a while afterwards.",
+        "In a 2011 trial, a year of walking increased **hippocampus** size by about **2%** in older adults.",
+        "Physical activity is linked to lower **dementia** risk; inactivity is a key **modifiable** risk factor.",
+        "Exercise meaningfully reduces **depression** symptoms in many trials.",
+        "The **WHO** recommends **150–300 minutes** of moderate activity weekly plus **strength training** twice a week; any amount helps."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "If a pill improved memory, mood, focus and long-term brain health with few side effects, it would be the best-selling drug in the world. Exercise comes close, and it’s free. Understanding how it affects the brain gives you a stronger reason to move than appearance alone. Next, you’ll look at how the body adapts to training, and what really matters for fitness."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does exercise affect the brain, both immediately and over the long term, and roughly how much is recommended for adults?"
+  }
+}

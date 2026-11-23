@@ -1,0 +1,86 @@
+{
+  "id": "mind.nutrition.2",
+  "region": "mind",
+  "topic": "nutrition",
+  "level": 2,
+  "prerequisites": [
+    "mind.nutrition.1"
+  ],
+  "title": "Reading Nutrition Science Without Getting Fooled",
+  "estimated_minutes": 15,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 2015, the World Health Organization’s cancer agency classified **processed meat** (bacon, ham, sausages) as **carcinogenic to humans**, the same category as tobacco smoking. Headlines around the world announced that bacon was as dangerous as cigarettes.\n\nIt wasn’t. The category describes how **certain** scientists are that something can cause cancer, not **how much** risk it carries. Smoking multiplies lung cancer risk many times over. Eating 50 grams of processed meat daily raises bowel cancer risk by about 18% in **relative** terms, which, for an average person, means a lifetime risk rising from roughly **5 to 6 in 100**. Both are worth knowing. They are not remotely the same. Nutrition science is full of real findings that get garbled on the way to you."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Nutrition research is genuinely difficult. You can’t easily lock thousands of people in a lab for twenty years and control everything they eat. So researchers rely on a mix of methods, each with strengths and weaknesses:\n\n- **Observational studies** follow large groups of people, record what they eat and see who develops which diseases. They can study huge numbers over decades, but they can show **associations**, not proof of **cause**.\n- **Randomised controlled trials (RCTs)** randomly assign people to different diets and compare outcomes. They’re much better at showing cause and effect, but they’re usually shorter, smaller and harder to stick to, and they often measure **markers** like cholesterol rather than actual heart attacks.\n- **Mechanistic studies** in cells or animals reveal how something might work, but what happens in a test tube or a mouse often doesn’t translate to humans.\n\nGood conclusions come from evidence across all three pointing the same way."
+    },
+    {
+      "type": "text",
+      "heading": "Why observational studies can mislead",
+      "md": "Suppose a study finds that people who take vitamin supplements live longer. Does that mean supplements extend life? Not necessarily. People who take supplements also tend to exercise more, smoke less, earn more and see doctors more often. This is called **confounding**, and in nutrition it’s often described as the **healthy user effect**.\n\nResearchers try to adjust for these factors statistically, but they can never measure everything. A famous example: observational studies suggested hormone replacement therapy protected women against heart disease. When large randomised trials were done in the 1990s and early 2000s, the protection didn’t appear, and some risks increased.\n\nA second problem: most large studies rely on people **reporting** what they eat, often through questionnaires about the past months or year. Few people remember accurately how many portions of spinach they ate last month."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine noticing that cities with more ice cream sales have more drownings. Ice cream doesn’t cause drowning; hot weather increases both. In nutrition, “hot weather” might be wealth, education or overall health consciousness, quietly linked to both the food and the outcome. Spotting the hidden third factor is the key skill."
+    },
+    {
+      "type": "text",
+      "heading": "Relative risk versus absolute risk",
+      "md": "This is the single most useful idea for reading health news.\n\n- **Relative risk** compares two groups: “an 18% increase in risk”.\n- **Absolute risk** tells you the actual chance: “from 5 in 100 to 6 in 100”.\n\nHeadlines prefer relative risk because it sounds dramatic. But a 50% increase in a very rare condition might mean going from 2 in 10,000 to 3 in 10,000. A 10% increase in something common might matter far more. Whenever you see a percentage change in risk, ask: **from what, to what?**"
+    },
+    {
+      "type": "text",
+      "heading": "Follow the money, carefully",
+      "md": "Funding doesn’t automatically make research wrong, but it’s worth knowing. In 2016, researchers uncovered historical documents showing that in the 1960s, a sugar industry group paid Harvard scientists to write an influential review that downplayed sugar’s role in heart disease and emphasised fat instead. Analyses have also found that industry-funded nutrition studies are more likely to report conclusions favourable to the sponsor.\n\nThe healthy response isn’t to dismiss all research, but to give more weight to findings that are **replicated** by independent groups and supported by **systematic reviews**, which combine many studies using transparent methods."
+    },
+    {
+      "type": "text",
+      "heading": "Supplements: who actually needs them?",
+      "md": "For most well-nourished people, large trials have generally found that multivitamins and many popular supplements **don’t prevent** heart disease, cancer or death. But some groups do benefit from specific supplements, and needs vary by country and diet:\n\n- **Vitamin B12**: found almost only in animal foods, so strict vegetarians and vegans often need a supplement or fortified foods. Deficiency is common in parts of India.\n- **Vitamin D**: deficiency is widespread in many countries, surprisingly including sunny ones like India, linked to indoor lifestyles, skin pigmentation, clothing and pollution.\n- **Folic acid**: recommended before and in early pregnancy to reduce the risk of certain birth defects.\n- **Iron**: iron-deficiency anaemia is very common, especially among women. India’s national family health survey (2019–21) found that over half of women aged 15–49 were anaemic.\n\nTesting and medical advice are better than guessing, since some supplements can be harmful in excess."
+    },
+    {
+      "type": "steps",
+      "title": "Questions to ask about any nutrition claim",
+      "items": [
+        "**What kind of study was it?** Observational, trial, animal, or test tube?",
+        "**Who was studied, and how many?** Twenty students for two weeks, or 100,000 adults for twenty years?",
+        "**What was actually measured?** Real health outcomes, or markers like blood levels?",
+        "**Relative or absolute risk?** From what, to what?",
+        "**Does it fit the wider evidence?** One surprising study rarely overturns decades of research.",
+        "**Who funded it, and who benefits** from the headline?",
+        "**Is someone selling something?** Especially be wary of miracle foods, detox claims and anything promising rapid results."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Which diet is best for losing weight: low-carb or low-fat?",
+      "md": "In a well-designed 2018 trial at Stanford called **DIETFITS**, over 600 adults were randomly assigned to a healthy low-fat or healthy low-carbohydrate diet for a year. On average, both groups lost similar amounts of weight, about 5–6 kilograms, with huge individual variation in both. Researchers had also tested whether certain genes or insulin levels predicted which diet would suit whom; they didn’t. Many other trials agree: for weight loss, the **specific ratio** of carbs to fat matters less than **total calories**, **food quality** and, above all, whether you can **stick to it**."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Nutrition evidence comes from **observational studies**, **randomised trials** and **mechanistic studies**; strong conclusions need agreement across them.",
+        "**Confounding** (like the **healthy user effect**) can make associations misleading.",
+        "Always ask about **absolute** risk, not just **relative** risk.",
+        "**Industry funding** can bias research; prefer **replicated** findings and **systematic reviews**.",
+        "Most supplements don’t help well-nourished people, but **B12**, **vitamin D**, **folic acid** and **iron** matter for specific groups.",
+        "For weight loss, **adherence** and **food quality** matter more than the exact diet type."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "You will see a confident nutrition headline almost every week of your life, often contradicting last week’s. The skills in this lesson, spotting confounding, asking about absolute risk and checking the type of evidence, let you stay calm and make sensible choices. And they apply far beyond food: the same reasoning works for medicine, economics and any claim built on data."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do nutrition studies so often seem to contradict each other, and what is the difference between relative risk and absolute risk?"
+  }
+}

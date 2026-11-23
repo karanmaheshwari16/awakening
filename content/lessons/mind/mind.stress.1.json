@@ -1,0 +1,77 @@
+{
+  "id": "mind.stress.1",
+  "region": "mind",
+  "topic": "stress",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Stress Response: An Ancient Alarm in a Modern World",
+  "estimated_minutes": 13,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Imagine you’re walking home at night and hear footsteps behind you, getting faster. Before you’ve consciously decided anything, your heart is pounding, your breathing has quickened, your muscles are tense, and your senses feel sharp.\n\nThat reaction evolved to save your ancestors from predators. The trouble is that your body produces much the same response to an overflowing inbox, a difficult exam, an argument or money worries, none of which can be solved by running or fighting. Understanding this ancient alarm system is the first step to working with it rather than against it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Stress**, in the scientific sense, is your body’s response to any demand or threat, real or imagined. The thing causing it is called a **stressor**.\n\nIn the early 1900s, the American physiologist **Walter Cannon** described the **fight-or-flight response**: a rapid, automatic set of changes that prepare the body for action. Later, the Hungarian-Canadian scientist **Hans Selye** showed that the body responds to many different kinds of stressors in a similar general way, and popularised the word “stress” itself.\n\nThe stress response runs on two main systems working together:\n\n1. **The fast system (seconds):** the **sympathetic nervous system** triggers the release of **adrenaline** (also called epinephrine) from the adrenal glands, which sit on top of the kidneys.\n2. **The slower system (minutes to hours):** the **HPA axis** (hypothalamus, pituitary gland, adrenal glands), a chain of hormonal signals ending in the release of **cortisol**."
+    },
+    {
+      "type": "steps",
+      "title": "What happens in your body, in order",
+      "items": [
+        "**Detection.** The brain’s threat detector, the **amygdala**, flags danger, often before you’re consciously aware of it.",
+        "**Alarm.** The hypothalamus activates the sympathetic nervous system. Within seconds, adrenaline floods the bloodstream.",
+        "**Mobilisation.** Heart rate and blood pressure rise, breathing speeds up, and blood is redirected to the muscles. Stored sugar and fat are released for fuel. Pupils widen. Digestion slows; it can wait.",
+        "**Sustaining.** Over the next minutes, the HPA axis releases **cortisol**, which keeps energy available and helps manage the body’s response over a longer period.",
+        "**Recovery.** When the threat passes, the **parasympathetic nervous system**, sometimes called “rest and digest”, calms things down, and cortisol helps switch the stress response off through a feedback loop."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the stress response as a smoke alarm. When there’s a real fire, a loud, fast alarm is exactly what you want. But a smoke alarm that goes off every time you make toast, and keeps ringing for hours, becomes a problem in itself. Healthy stress is the alarm going off when needed and then switching off."
+    },
+    {
+      "type": "text",
+      "heading": "Good stress, bad stress",
+      "md": "Short-term stress is often useful. It can sharpen focus, speed reactions and give you energy for a performance, a deadline or an emergency. Some researchers call positive, manageable stress **eustress**.\n\nThe relationship between arousal and performance is often drawn as an **inverted U**: too little and you’re flat and unmotivated; a moderate amount and you perform best; too much and performance collapses into panic. This idea is linked to work by psychologists Robert Yerkes and John Dodson in 1908, although the original experiments were about mice learning tasks, and the neat curve is a simplification.\n\nProblems arise when stress becomes **chronic**: when the alarm rings continuously, for weeks or months, without recovery. You’ll explore what that does to the body in the next lesson."
+    },
+    {
+      "type": "text",
+      "heading": "How you think about stress matters, somewhat",
+      "md": "In several studies, people told that their racing heart and fast breathing were the body **preparing to perform**, rather than signs of failing, performed better on stressful tasks and showed healthier physical responses. This is called **stress reappraisal**. A related line of research, led by Alia Crum and colleagues, suggests that believing stress can be enhancing may change how people respond to it.\n\nThese effects are real but generally **modest**, and they don’t mean stress is “all in your head”. Some situations are genuinely harmful, and no mindset can fix poverty, discrimination or an unsafe home. But for everyday challenges like exams and presentations, reinterpreting the signals can help."
+    },
+    {
+      "type": "text",
+      "heading": "Fast ways to calm the alarm",
+      "md": "Because the stress response runs partly through your breathing, breathing is one of the few levers you can pull directly. Slow breathing, especially with a long out-breath, activates the calming parasympathetic system.\n\nOne technique studied recently is the **physiological sigh**: two inhales through the nose (a full breath, then a short top-up), followed by a long, slow exhale through the mouth. In a small 2023 study at Stanford University, five minutes of this “cyclic sighing” daily improved mood and reduced breathing rate more than a comparable mindfulness exercise. It’s a small study, so treat it as promising rather than proven, but slow breathing in general has good support for short-term calming.\n\nOther quick resets: physical movement (it uses up the energy the stress response mobilised), stepping outside, or naming the emotion in words, which some studies suggest reduces amygdala activity."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is the stress response only “fight or flight”?",
+      "md": "No. Researchers have described other patterns too. **Freezing**, going still, is a common response to danger in many animals, including humans. The psychologist **Shelley Taylor** and colleagues proposed **“tend and befriend”**: under stress, people, perhaps women especially, often seek out and protect others, supported partly by the hormone **oxytocin**. The evidence for sex differences is debated, but it’s clear that turning towards others is a common and often healthy response to stress."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Stress** is the body’s response to demands or threats; **Cannon** described fight-or-flight, **Selye** popularised “stress”.",
+        "The fast system releases **adrenaline** via the **sympathetic nervous system**; the slower **HPA axis** releases **cortisol**.",
+        "The response mobilises energy, raises heart rate and pauses digestion; the **parasympathetic** system restores calm.",
+        "**Short-term** stress can improve performance; **chronic** stress is harmful.",
+        "**Reappraising** stress as preparation can help modestly.",
+        "**Slow breathing** with long exhales is a direct, evidence-supported way to calm the response."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Stress is one of the most common experiences in modern life, yet most people have no idea what’s happening inside them when it hits. Understanding the stress response makes it less frightening: a pounding heart before a presentation is your body helping, not betraying you. And knowing the levers you can actually pull, like breathing and movement, gives you practical control."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what happens in your body during the stress response, and why is short-term stress often helpful while long-term stress is harmful?"
+  }
+}

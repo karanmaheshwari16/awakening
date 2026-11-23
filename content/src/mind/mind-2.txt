@@ -1,0 +1,224 @@
+##### LESSON
+id: mind.memory.2
+title: Learning How to Learn
+minutes: 15
+prereq: mind.memory.1
+check: In your own words: why does testing yourself work better than rereading, and how would you use spacing and retrieval to learn something you care about?
+
+=== hook
+Ask students how they study and the most common answers are **rereading** notes and **highlighting** textbooks. Both feel productive. The pages become familiar, and familiarity feels like learning.
+
+In 2013, a team of psychologists led by **John Dunlosky** reviewed hundreds of studies on ten popular study techniques. Rereading and highlighting were rated **low utility**: they help a little, or not at all, compared with the alternatives. The two techniques rated highest were ones most students rarely use on purpose: **testing yourself** and **spacing your study out over time**. The way most people learn is close to backwards.
+
+=== core
+The key insight from decades of learning research is this: **memories are strengthened by being retrieved, not by being reviewed.**
+
+Every time you pull information out of memory, by answering a question, explaining an idea or solving a problem, you make it easier to retrieve next time. Simply looking at information again, as in rereading, does far less, because your brain doesn’t have to do any work. The effort of recalling is not a sign that learning is going badly; it’s often the very thing that makes learning work.
+
+Researchers call this kind of productive struggle a **desirable difficulty**, a term coined by the psychologist **Robert Bjork**. Methods that feel harder in the moment often produce stronger, longer-lasting learning.
+
+=== text Technique 1: retrieval practice
+In a well-known 2006 experiment, **Henry Roediger** and **Jeffrey Karpicke** had students read a short passage. Some then reread it several times. Others read it once and then practised **recalling** it from memory.
+
+Tested five minutes later, the rereaders did slightly better. But tested a **week** later, the retrieval group remembered far more, roughly 60% of the material compared with about 40% for the rereaders. Interestingly, the rereaders had predicted they would do better.
+
+Ways to practise retrieval:
+
+- Close the book and write down everything you remember, then check.
+- Use flashcards, with the question on one side, and try to answer before flipping.
+- Explain the idea out loud, or to a friend, without notes.
+- Do practice questions before you feel ready.
+
+=== text Technique 2: spacing
+Cramming, studying something intensively all at once, can get you through tomorrow’s test, but much of it fades quickly. Spreading the same amount of study over several sessions produces far better long-term memory. This **spacing effect** is one of the most reliable findings in psychology, documented since Ebbinghaus in the 1880s.
+
+The ideal gap depends on how long you want to remember something. A useful rule of thumb: review shortly after learning, then after a few days, then after a week or two, then after a month or more, with each review coming as the memory starts to fade.
+
+=== callout example | You’re already doing this
+The **Shadow Army** in this app is built on spacing and retrieval. Each topic you complete returns for a short recall at around **3, 10 and 30 days**, just as it starts to fade. The **Understanding Check** after each lesson, explaining the idea in your own words, is retrieval practice. The app isn’t just tracking your progress; it’s designed around how memory works.
+
+=== callout analogy
+Think of a memory as a path through a forest. Rereading is like looking at a map of the path: helpful, but your feet haven’t learned the way. Retrieval is walking the path yourself. Spacing is walking it again just as the undergrowth starts to grow back, so each walk clears it more permanently.
+
+=== text Technique 3: interleaving
+When practising problems, most people do them in **blocks**: ten of type A, then ten of type B. **Interleaving** mixes them up: A, C, B, A, B, C.
+
+It feels harder and slower, and people tend to think they’re learning less. But studies, for example with maths problems and even with learning to recognise different painters’ styles, show interleaving often leads to better results on later tests. The reason: mixing forces you to work out **which** approach fits each problem, which is exactly what you’ll need to do in real life.
+
+=== text Technique 4: elaboration and explanation
+Information sticks better when you connect it to what you already know. Ask yourself **why** and **how** questions: Why is this true? How does it relate to that other thing I learned? Can I think of an example from my own life?
+
+A popular version is often called the **Feynman technique**, after the physicist Richard Feynman, who was famous for explaining complex ideas simply:
+
+1. Pick a concept.
+2. Explain it in plain language, as if to a curious twelve-year-old.
+3. Notice where you get stuck or reach for jargon: those are the gaps in your understanding.
+4. Go back to the source, fill the gaps, and try again.
+
+=== steps A study plan using the science
+- **Day 1:** Learn the material, then immediately close it and write a summary from memory. Check and correct.
+- **Day 2 or 3:** Without looking, answer a few questions or explain the key ideas aloud. Review only what you missed.
+- **About a week later:** Mixed practice questions on this topic and earlier ones (interleaving).
+- **A few weeks later:** A quick self-test. If it’s easy, wait longer next time; if not, review and test again sooner.
+- **Throughout:** Ask why and how, connect ideas, and sleep well, especially after study sessions.
+
+=== callout caution | The learning styles myth
+Many people believe they are “visual”, “auditory” or “kinaesthetic” learners and learn best when teaching matches their style. Surveys find most teachers in many countries believe this. But careful reviews, including a well-known 2008 analysis by Harold Pashler and colleagues, found **no good evidence** that matching teaching to a supposed learning style improves learning. People have preferences, but what works best usually depends on the **material**: maps are best shown visually, music heard, and skills practised physically, for everyone.
+
+=== reveal If these techniques work so well, why don’t more people use them?
+Because they **feel worse** in the moment. Rereading creates a smooth sense of familiarity, an **illusion of fluency**, that we mistake for mastery. Retrieval practice makes you confront what you don’t know, which feels uncomfortable. Spacing means you’ve partly forgotten things when you return, which feels like failure. Interleaving feels slow and confusing. Our in-the-moment feelings are poor judges of long-term learning. Knowing that is half the battle: when studying feels effortful in the right way, that’s usually a good sign.
+
+=== keypoints
+- Memories strengthen through **retrieval**, not re-exposure; rereading and highlighting are **low utility**.
+- **Desirable difficulties**: methods that feel harder often produce more durable learning.
+- **Retrieval practice** (self-testing) beat rereading in long-term tests in studies like **Roediger and Karpicke (2006)**.
+- **Spacing** reviews over time beats cramming.
+- **Interleaving** mixed problems helps you learn when to use which approach.
+- **Elaboration** and the **Feynman technique** reveal gaps by explaining simply.
+- **Learning styles** matching has no good evidence behind it.
+
+=== why
+This may be the single most useful lesson in the app, because it improves how you learn everything else. Whether you’re studying for exams, learning a language, picking up a work skill or simply wanting to remember what you read, these techniques make the same effort go much further. And they’re free.
+
+##### LESSON
+id: mind.stress.1
+title: The Stress Response: An Ancient Alarm in a Modern World
+minutes: 13
+disclaimer: health
+check: In your own words: what happens in your body during the stress response, and why is short-term stress often helpful while long-term stress is harmful?
+
+=== hook
+Imagine you’re walking home at night and hear footsteps behind you, getting faster. Before you’ve consciously decided anything, your heart is pounding, your breathing has quickened, your muscles are tense, and your senses feel sharp.
+
+That reaction evolved to save your ancestors from predators. The trouble is that your body produces much the same response to an overflowing inbox, a difficult exam, an argument or money worries, none of which can be solved by running or fighting. Understanding this ancient alarm system is the first step to working with it rather than against it.
+
+=== core
+**Stress**, in the scientific sense, is your body’s response to any demand or threat, real or imagined. The thing causing it is called a **stressor**.
+
+In the early 1900s, the American physiologist **Walter Cannon** described the **fight-or-flight response**: a rapid, automatic set of changes that prepare the body for action. Later, the Hungarian-Canadian scientist **Hans Selye** showed that the body responds to many different kinds of stressors in a similar general way, and popularised the word “stress” itself.
+
+The stress response runs on two main systems working together:
+
+1. **The fast system (seconds):** the **sympathetic nervous system** triggers the release of **adrenaline** (also called epinephrine) from the adrenal glands, which sit on top of the kidneys.
+2. **The slower system (minutes to hours):** the **HPA axis** (hypothalamus, pituitary gland, adrenal glands), a chain of hormonal signals ending in the release of **cortisol**.
+
+=== steps What happens in your body, in order
+- **Detection.** The brain’s threat detector, the **amygdala**, flags danger, often before you’re consciously aware of it.
+- **Alarm.** The hypothalamus activates the sympathetic nervous system. Within seconds, adrenaline floods the bloodstream.
+- **Mobilisation.** Heart rate and blood pressure rise, breathing speeds up, and blood is redirected to the muscles. Stored sugar and fat are released for fuel. Pupils widen. Digestion slows; it can wait.
+- **Sustaining.** Over the next minutes, the HPA axis releases **cortisol**, which keeps energy available and helps manage the body’s response over a longer period.
+- **Recovery.** When the threat passes, the **parasympathetic nervous system**, sometimes called “rest and digest”, calms things down, and cortisol helps switch the stress response off through a feedback loop.
+
+=== callout analogy
+Think of the stress response as a smoke alarm. When there’s a real fire, a loud, fast alarm is exactly what you want. But a smoke alarm that goes off every time you make toast, and keeps ringing for hours, becomes a problem in itself. Healthy stress is the alarm going off when needed and then switching off.
+
+=== text Good stress, bad stress
+Short-term stress is often useful. It can sharpen focus, speed reactions and give you energy for a performance, a deadline or an emergency. Some researchers call positive, manageable stress **eustress**.
+
+The relationship between arousal and performance is often drawn as an **inverted U**: too little and you’re flat and unmotivated; a moderate amount and you perform best; too much and performance collapses into panic. This idea is linked to work by psychologists Robert Yerkes and John Dodson in 1908, although the original experiments were about mice learning tasks, and the neat curve is a simplification.
+
+Problems arise when stress becomes **chronic**: when the alarm rings continuously, for weeks or months, without recovery. You’ll explore what that does to the body in the next lesson.
+
+=== text How you think about stress matters, somewhat
+In several studies, people told that their racing heart and fast breathing were the body **preparing to perform**, rather than signs of failing, performed better on stressful tasks and showed healthier physical responses. This is called **stress reappraisal**. A related line of research, led by Alia Crum and colleagues, suggests that believing stress can be enhancing may change how people respond to it.
+
+These effects are real but generally **modest**, and they don’t mean stress is “all in your head”. Some situations are genuinely harmful, and no mindset can fix poverty, discrimination or an unsafe home. But for everyday challenges like exams and presentations, reinterpreting the signals can help.
+
+=== text Fast ways to calm the alarm
+Because the stress response runs partly through your breathing, breathing is one of the few levers you can pull directly. Slow breathing, especially with a long out-breath, activates the calming parasympathetic system.
+
+One technique studied recently is the **physiological sigh**: two inhales through the nose (a full breath, then a short top-up), followed by a long, slow exhale through the mouth. In a small 2023 study at Stanford University, five minutes of this “cyclic sighing” daily improved mood and reduced breathing rate more than a comparable mindfulness exercise. It’s a small study, so treat it as promising rather than proven, but slow breathing in general has good support for short-term calming.
+
+Other quick resets: physical movement (it uses up the energy the stress response mobilised), stepping outside, or naming the emotion in words, which some studies suggest reduces amygdala activity.
+
+=== reveal Is the stress response only “fight or flight”?
+No. Researchers have described other patterns too. **Freezing**, going still, is a common response to danger in many animals, including humans. The psychologist **Shelley Taylor** and colleagues proposed **“tend and befriend”**: under stress, people, perhaps women especially, often seek out and protect others, supported partly by the hormone **oxytocin**. The evidence for sex differences is debated, but it’s clear that turning towards others is a common and often healthy response to stress.
+
+=== keypoints
+- **Stress** is the body’s response to demands or threats; **Cannon** described fight-or-flight, **Selye** popularised “stress”.
+- The fast system releases **adrenaline** via the **sympathetic nervous system**; the slower **HPA axis** releases **cortisol**.
+- The response mobilises energy, raises heart rate and pauses digestion; the **parasympathetic** system restores calm.
+- **Short-term** stress can improve performance; **chronic** stress is harmful.
+- **Reappraising** stress as preparation can help modestly.
+- **Slow breathing** with long exhales is a direct, evidence-supported way to calm the response.
+
+=== why
+Stress is one of the most common experiences in modern life, yet most people have no idea what’s happening inside them when it hits. Understanding the stress response makes it less frightening: a pounding heart before a presentation is your body helping, not betraying you. And knowing the levers you can actually pull, like breathing and movement, gives you practical control.
+
+##### LESSON
+id: mind.stress.2
+title: When Stress Won’t Switch Off
+minutes: 15
+disclaimer: health
+prereq: mind.stress.1
+check: In your own words: how does long-term stress affect health, why does a sense of control matter so much, and what kinds of coping actually help?
+
+=== hook
+In 1967, researchers began following around 18,000 men working in the British Civil Service, from senior administrators to messengers and clerks. All worked in offices in London, and none were poor by national standards. Yet over the following years, men in the **lowest** grades died at around **three times** the rate of those in the highest grades, from heart disease and many other causes.
+
+Smoking, diet and other risk factors explained only part of the gap. A major factor, the researchers concluded, was something less obvious: how much **control** people had over their work and lives. The **Whitehall studies**, led for decades by **Michael Marmot**, changed how scientists think about stress, status and health.
+
+=== core
+The stress response evolved for short emergencies. When it stays switched on for weeks, months or years, the same changes that help in a crisis start causing damage. Scientists call the cumulative wear and tear **allostatic load**, a term developed by the neuroscientist **Bruce McEwen**.
+
+Chronic stress is linked to:
+
+- **Heart and blood vessels:** persistently raised blood pressure and inflammation, contributing to heart disease.
+- **Immune system:** cortisol suppresses some immune functions. Studies have found that stressed people are more likely to catch colds when exposed to viruses and that wounds can heal more slowly.
+- **Brain:** chronic stress can affect the hippocampus (memory) and prefrontal cortex (planning and self-control), while making the amygdala more reactive, a pattern that can make stress self-perpetuating.
+- **Mental health:** it is a major risk factor for depression and anxiety disorders.
+- **Sleep, digestion and habits:** sleep problems, digestive issues and a tendency to rely on comfort eating, alcohol or other quick relief.
+
+=== text Control and predictability
+Why did lower-grade civil servants fare worse? The second Whitehall study, which began in 1985 and included women, found that people with **low control** over their work, combined with high demands, had higher rates of heart disease.
+
+Animal research tells a similar story. The neuroscientist **Robert Sapolsky** spent decades studying wild baboons in Kenya. Low-ranking baboons, harassed by higher-ranking ones and with little control over their lives, tended to have higher stress hormones and worse health markers, though this depended on the troop’s social culture: in more relaxed troops, the pattern weakened.
+
+The lesson from both: stress isn’t just about how much you have to do. **Unpredictability**, **lack of control** and **lack of social support** make the same demands far more damaging.
+
+=== callout analogy
+Think of two passengers in a car on a winding mountain road. The driver and the passenger experience exactly the same bends and drops. Yet the passenger is much more likely to feel sick and anxious. The difference isn’t the road; it’s control and predictability. The driver knows what’s coming and can act.
+
+=== text Two ways of coping
+In the 1980s, psychologists **Richard Lazarus** and **Susan Folkman** argued that stress depends on how we **appraise** a situation (Is this a threat? Can I handle it?) and described two broad ways of coping:
+
+- **Problem-focused coping:** tackling the source. Making a plan, breaking a task into steps, asking for help, setting boundaries, changing the situation.
+- **Emotion-focused coping:** managing your reaction when the situation can’t easily change. Talking it through, reframing, exercise, relaxation, acceptance.
+
+Neither is always better. Problem-focused coping tends to work best when the situation is controllable; emotion-focused coping helps with things you can’t change, like waiting for medical results or grieving. Some strategies, like avoidance, denial or heavy drinking, may give short-term relief but tend to make things worse over time.
+
+=== text The protective power of other people
+One of the strongest findings in health research is the importance of **social connection**. A 2010 analysis led by **Julianne Holt-Lunstad**, combining data from 148 studies and over 300,000 people, found that people with stronger social relationships had about a **50% greater likelihood of survival** over the study periods than those with weaker ties. The effect was comparable to well-known risk factors like smoking.
+
+Supportive relationships seem to buffer stress directly: having someone to talk to, practical help and simply feeling that you belong all dampen the body’s stress response.
+
+=== text Resilience is common
+After hardship, many people assume trauma is inevitable. But research by the psychologist **George Bonanno** and others found that, after events like bereavement or disasters, the most common pattern is actually **resilience**: a period of distress followed by a return to fairly stable functioning. Resilience isn’t rare or heroic; it’s ordinary.
+
+That doesn’t mean everyone recovers easily, and some people need significant support. Resilience also isn’t purely individual: it depends heavily on resources like relationships, financial security and access to care.
+
+=== callout definition | Burnout
+In 2019, the World Health Organization included **burnout** in its International Classification of Diseases as an **occupational phenomenon** (not a medical condition), resulting from chronic workplace stress that hasn’t been successfully managed. It has three features: **exhaustion**, increasing **distance or cynicism** about one’s job, and reduced **effectiveness**. Its inclusion reflects a shift towards seeing burnout as partly a problem of work conditions, not just individual weakness.
+
+=== steps A practical stress audit
+- **List your stressors.** Separate those you can influence from those you can’t.
+- **For the controllable ones,** pick one small problem-focused step this week: a conversation, a plan, a boundary, asking for help.
+- **For the uncontrollable ones,** choose emotion-focused tools: exercise, time outdoors, talking to someone, writing about feelings, or practising acceptance.
+- **Protect the basics:** sleep, movement and regular meals make the stress system more resilient.
+- **Invest in connection:** regular contact with people you trust is one of the best-evidenced protections there is.
+- **Know when to get help:** if stress is affecting your sleep, work or relationships for weeks, or you feel hopeless, talk to a doctor or mental health professional. In a crisis, contact local emergency services or a helpline.
+
+=== reveal Does mindfulness meditation actually reduce stress, or is it just a trend?
+The evidence suggests it helps, but less dramatically than enthusiasts sometimes claim. A large 2014 review published in JAMA Internal Medicine, led by Madhav Goyal, analysed 47 trials and found **moderate evidence** that mindfulness programmes improve anxiety, depression and pain, with effects roughly similar to those seen with antidepressants in comparable populations, though not better than other active treatments such as exercise or therapy. It’s a useful tool, especially structured programmes like Mindfulness-Based Stress Reduction, but not a cure-all.
+
+=== keypoints
+- Chronic stress causes cumulative wear called **allostatic load**, affecting the heart, immune system, brain and mental health.
+- The **Whitehall studies** showed lower-status workers had worse health, partly due to **low control**.
+- **Unpredictability**, **lack of control** and **isolation** make stress more harmful.
+- **Problem-focused** coping suits controllable situations; **emotion-focused** coping suits uncontrollable ones.
+- **Social connection** is strongly linked to better health and survival.
+- **Resilience** after adversity is common, and depends on resources as well as individuals.
+- **Burnout** is recognised by the WHO as an occupational phenomenon.
+
+=== why
+Understanding chronic stress helps you protect your health and recognise when a situation, not you, is the problem. It also explains why health inequalities exist even in wealthy societies, connecting to the Economics and Politics regions. Most practically: a few concrete habits, especially sleep, movement and staying connected to others, can make the stress system far more resilient.

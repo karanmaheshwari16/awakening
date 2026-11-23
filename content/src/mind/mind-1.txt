@@ -1,0 +1,268 @@
+##### LESSON
+id: mind.sleep.2
+title: Body Clocks, Sleep Debt and the Owls Among Us
+minutes: 14
+disclaimer: health
+prereq: mind.sleep.1
+check: In your own words: what is the circadian clock and what sets it, and why can’t you fully “catch up” on a week of short sleep at the weekend?
+
+=== hook
+In a famous experiment published in 2003, researchers at the University of Pennsylvania limited healthy volunteers to **six hours** of sleep a night for two weeks. By the end, their attention and reaction times had declined to roughly the level of people who had stayed awake for **one or two entire nights** without sleep.
+
+The most striking finding wasn’t the decline. It was that the volunteers didn’t notice it. When asked, they reported feeling only slightly sleepy. Their performance kept falling, but their sense of how tired they were levelled off. Chronic short sleep, it seems, hides its own damage.
+
+=== core
+In the previous lesson you met the two forces that govern sleep: **sleep pressure** (adenosine building up the longer you’re awake) and your **circadian rhythm**. This lesson goes deeper into the second, and into what happens when the two are pushed out of line.
+
+Your body runs on a roughly 24-hour internal clock. Almost every cell has its own molecular clock, but they are coordinated by a **master clock** in the brain: a cluster of about 20,000 nerve cells in the hypothalamus called the **suprachiasmatic nucleus (SCN)**, sitting just above where the optic nerves cross.
+
+The SCN times far more than sleep. It schedules body temperature (lowest in the early morning), hormone release (cortisol rises before you wake), digestion, blood pressure and alertness. In 2017, **Jeffrey Hall, Michael Rosbash** and **Michael Young** won the Nobel Prize for discovering the genes that drive this clock, first found in fruit flies: proteins build up through the day, switch off their own production, then break down, in a cycle lasting about 24 hours.
+
+=== text What sets the clock
+Left completely alone, in a cave or windowless lab, most people’s clocks run slightly longer than 24 hours, so they drift later each day. Something has to reset them daily. That something is mainly **light**.
+
+The retina contains special light-sensitive cells, discovered only around 2002, that don’t help you see images at all. Their job is to measure brightness, especially blue-rich light like daylight, and report it to the SCN.
+
+- **Light in the morning** shifts the clock **earlier**, making you sleepy earlier that evening.
+- **Light late in the evening** shifts it **later** and suppresses **melatonin**, the hormone that signals night.
+
+Outdoor daylight, even on a cloudy day, is usually many times brighter than indoor lighting. That’s why morning time outdoors is one of the most effective ways to stabilise sleep, and why bright screens late at night may push some people later, although the size of the screen effect is debated and is often smaller than people assume.
+
+=== callout analogy
+Think of your circadian clock as a slightly slow wall clock that needs to be reset every day. Daylight is the person who walks past each morning and nudges the hands back to the right time. Skip the nudge (dark mornings, bright late nights), and the clock gradually drifts, so your body thinks it’s a different time from the one on your phone.
+
+=== text Larks, owls and everyone in between
+People naturally differ in their timing, called their **chronotype**. **Larks** wake early and fade early; **owls** come alive late and struggle in the morning. Most people fall in between. Chronotype is partly **genetic**, and researchers have identified clock-gene variants linked to extreme early or late timing.
+
+It also changes with **age**. Around puberty, the clock shifts substantially **later**, peaking in the late teens and early twenties, before gradually drifting earlier again across adulthood. A teenager struggling to sleep before midnight isn’t necessarily lazy; their biology has moved. This is why several medical organisations, including the American Academy of Pediatrics, have recommended later school start times for teenagers.
+
+When your body clock and your social schedule disagree, for example sleeping at 1 a.m. and waking at 6 a.m. on workdays, then sleeping until 10 a.m. at weekends, you get what researchers call **social jet lag**: the equivalent of flying across time zones every weekend.
+
+=== steps Sleep debt: why the maths doesn’t work
+- Suppose you need about 8 hours but get 6 hours on five workdays. That’s **10 hours** of lost sleep.
+- At the weekend, you sleep 10 hours each night: 4 hours of “repayment”. On paper, you’re still 6 hours short.
+- Worse, studies suggest weekend recovery sleep restores some functions, like how sleepy you feel, faster than others, like sustained attention and metabolism.
+- And sleeping late on weekends shifts your body clock later, making Sunday night harder and Monday morning worse.
+- The lesson: occasional catch-up helps, but **consistency** beats compensation. A regular schedule, close to your real need, is far better than a cycle of debt and repayment.
+
+=== text When sleep goes wrong
+**Insomnia** (persistent difficulty falling or staying asleep, with daytime effects) affects roughly one in ten adults chronically. The recommended first treatment in many guidelines is not sleeping pills but **CBT-I**, cognitive behavioural therapy for insomnia: a structured programme that resets habits and thoughts around sleep, including, counter-intuitively, temporarily **limiting** time in bed to rebuild sleep pressure.
+
+**Obstructive sleep apnoea** happens when the airway repeatedly collapses during sleep, causing pauses in breathing and brief awakenings, often without the person knowing. Loud snoring, gasping and severe daytime sleepiness are warning signs. It is common, under-diagnosed and linked to high blood pressure and heart problems, and it is treatable.
+
+**Shift work** pits the body clock against the schedule every day. Long-term night shift work is associated with higher risks of several health problems, and the World Health Organization’s cancer agency classifies it as **probably carcinogenic**, based on limited evidence in humans and stronger evidence in animals.
+
+=== reveal Is a nap a good idea?
+It can be. A short nap of about **10 to 20 minutes** in the early afternoon can boost alertness without leaving you groggy, because you wake before entering deep sleep. Longer naps can cause **sleep inertia**, that heavy, disoriented feeling, and naps late in the day can reduce sleep pressure enough to make falling asleep at night harder. For people with insomnia, avoiding naps is often recommended. The early-afternoon dip in alertness many people feel after lunch is partly circadian, not just the food.
+
+=== callout caution | Drowsy driving
+Being awake for around **17 to 19 hours** can impair performance about as much as a blood alcohol level of 0.05%, the legal driving limit in many countries. Micro-sleeps, brief lapses of a few seconds, can happen without warning. If you’re fighting to keep your eyes open while driving, the only reliable fix is to stop and sleep.
+
+=== keypoints
+- The **suprachiasmatic nucleus** is the brain’s master clock, coordinating a roughly 24-hour rhythm in most body systems.
+- **Light**, especially morning daylight, resets the clock; late light pushes it later and suppresses **melatonin**.
+- **Chronotype** (lark or owl) is partly genetic and shifts **later in adolescence**.
+- **Social jet lag** comes from mismatched weekday and weekend schedules.
+- **Sleep debt** can’t be fully repaid at weekends; chronic short sleepers often **underestimate** their impairment.
+- **CBT-I** is the first-line treatment for chronic insomnia; **sleep apnoea** is common and treatable.
+
+=== why
+Understanding your body clock turns sleep from something that just happens to you into something you can work with. It explains jet lag, Monday-morning misery and why teenagers struggle with early starts. And the hidden nature of sleep debt is a lesson in itself: feeling fine is not the same as performing well, especially when it comes to driving, studying or making important decisions.
+
+##### LESSON
+id: mind.habits.1
+title: The Autopilot in Your Brain
+minutes: 13
+disclaimer: health
+check: In your own words: what is a habit, how does one form in the brain, and why is linking a new behaviour to a specific cue more effective than relying on motivation?
+
+=== hook
+Think about this morning. You probably got out of bed, used the bathroom, brushed your teeth and checked your phone in much the same order as yesterday, and the day before, without deciding to do any of it.
+
+Researchers led by the psychologist **Wendy Wood** asked people to record what they were doing and thinking at random moments throughout the day. Around **40%** of their actions were performed almost every day in the same context, usually while they were thinking about something else entirely. A large share of your life runs on autopilot. The good news: you can reprogram it.
+
+=== core
+A **habit** is a behaviour that has become automatic, triggered by a **cue** in your environment rather than by a conscious decision. Once a habit is established, the cue alone is enough to start it, with little thought or effort.
+
+Habits form through repetition in a **stable context**. When you repeat an action in the same situation and it leads to a satisfying result, your brain gradually links the situation to the action. Over time, control shifts from brain areas involved in deliberate, goal-directed decisions towards a set of deep brain structures called the **basal ganglia**, which handle automatic routines.
+
+This is efficient. Deciding everything consciously would be exhausting. Habits free your attention for other things. But it also means habits are **indifferent** to whether they’re good for you; the brain automates whatever you repeat.
+
+=== text The habit loop
+A popular way to describe habits, drawing on research and popularised in books by Charles Duhigg and James Clear, is a loop with three parts:
+
+1. **Cue:** something that triggers the behaviour. A time of day, a place, an emotion, other people, or the previous action in a sequence.
+2. **Routine:** the behaviour itself.
+3. **Reward:** the result that makes the brain want to repeat it. Relief, pleasure, a sense of completion.
+
+Repeat the loop often enough and the cue starts to trigger an **urge** for the routine before you’ve thought about it. Walking into the kitchen triggers opening the fridge; feeling bored triggers reaching for your phone.
+
+=== callout analogy
+Think of a new habit like a path across a grassy field. The first time you walk it, it’s hard to see and easy to lose. Walk the same route every day and the grass flattens until a clear path appears, and soon your feet follow it without thinking. Old habits are well-worn paths too; they don’t disappear quickly, but they can grow over if you stop using them.
+
+=== text How long does it really take?
+You may have heard that habits take **21 days** to form. That number has no solid scientific basis; it seems to trace back to a 1960s self-help book.
+
+In a well-known 2009 study at University College London, **Phillippa Lally** and colleagues asked volunteers to adopt a new daily behaviour, like drinking water with lunch or doing sit-ups before dinner, and to report how automatic it felt. The average time to reach peak automaticity was about **66 days**, but it ranged widely, from **18 to 254 days**, depending on the person and the behaviour. Simple behaviours became automatic faster than complex ones.
+
+Encouragingly, **missing a single day** didn’t seriously harm progress. What mattered was overall consistency, not perfection.
+
+=== steps Building a habit, step by step
+- **Make it specific.** “Exercise more” is a wish. “Walk for ten minutes after lunch” is a plan.
+- **Attach it to a cue.** Use an **implementation intention**: “When [situation], I will [behaviour].” For example: “When I pour my morning tea, I’ll read one page.” Studies by psychologist Peter Gollwitzer and others show this simple wording reliably improves follow-through.
+- **Stack it onto an existing habit.** Your existing routines are reliable cues. “After I brush my teeth at night, I’ll set out my clothes for tomorrow.”
+- **Start tiny.** Make the first version so easy it feels almost silly: one push-up, one sentence, one minute. The goal at first is repetition, not results.
+- **Make it satisfying.** Track it, tick it off, or pair it with something you enjoy, so the brain gets a reward right away.
+- **Keep the context stable.** Same time, same place, same trigger, as often as possible.
+
+=== text Why motivation isn’t enough
+Most people try to change behaviour through **willpower** and **motivation**: resolving to try harder. Motivation is real, but it fluctuates, and it tends to be lowest exactly when you’re tired, stressed or busy.
+
+Habits work differently. Once established, they run even when motivation is low, because they’re triggered by the situation, not by how you feel. This is why people who seem very self-disciplined often turn out, in studies, to rely less on willpower in the moment and more on **good routines** that make the right action the default.
+
+=== reveal Why is moving house, starting university or a new job a good time to change habits?
+Because old habits are tied to **old cues**. When your environment changes, many of those cues disappear, and the autopilot loses its triggers. Researchers call this the **habit discontinuity** effect: for a while, you have to make conscious decisions again, which is a window to build new routines. A study of people who had recently moved found that those who cared about the environment were more likely to switch to greener commuting after the move than people who stayed put. The flip side: a disruption can also break good habits, so it’s worth deliberately rebuilding them.
+
+=== keypoints
+- A **habit** is an automatic behaviour triggered by a **cue**, not a conscious choice.
+- Habits form through **repetition in a stable context**, shifting control to the **basal ganglia**.
+- The **habit loop**: **cue → routine → reward**.
+- Forming a habit took about **66 days** on average in one major study, with a huge range; missing a day didn’t matter much.
+- **Implementation intentions** (“When X, I will Y”) and **habit stacking** make new habits stick.
+- Habits beat motivation because they run on **situations**, not feelings.
+
+=== why
+Your habits, more than your occasional big decisions, shape your health, learning and relationships over the long run. Understanding how they work lets you design your life on purpose instead of by accident. You’re already doing it here: a daily quest at a regular time is a habit in the making. Next, you’ll look at the harder side: breaking habits you don’t want.
+
+##### LESSON
+id: mind.habits.2
+title: Breaking Bad Habits and the Myth of Willpower
+minutes: 14
+disclaimer: health
+prereq: mind.habits.1
+check: In your own words: why do strategies that change your environment usually work better than relying on willpower, and why are things like social media feeds so habit-forming?
+
+=== hook
+In the 1960s, the psychologist **Walter Mischel** offered young children a choice: one marshmallow now, or two if they could wait alone for about fifteen minutes. Years later, the children who had waited longer tended to do better in school. The “marshmallow test” became one of the most famous experiments in psychology, often summed up as: **willpower predicts success**.
+
+But in 2018, a larger study revisited the idea with a much more diverse group of children. The link was much smaller, and largely disappeared once family background and early abilities were taken into account. Children from more stable, better-off homes found it easier to wait, partly because, in their experience, promised rewards actually arrived. The story of willpower, it turns out, is more complicated than it first seemed.
+
+=== core
+Breaking a habit is usually harder than building one, because an old habit doesn’t get deleted. The link between cue and routine stays stored in the brain. When you “break” a habit, you mostly **override** it or **avoid its cues**, and the old pattern can return under stress, which is why people often relapse after a hard day.
+
+So the most effective strategies don’t rely on fighting the urge every time. They work on three levers:
+
+1. **Remove or avoid the cue.**
+2. **Add friction** to the unwanted behaviour, and remove friction from the wanted one.
+3. **Replace** the routine with a different one that delivers a similar reward.
+
+=== text Friction: the underrated superpower
+Small barriers have surprisingly big effects. In one study, simply moving a bowl of sweets a short distance away from people’s desks noticeably reduced how many they ate. When a school cafeteria put fruit at eye level and made desserts a little harder to reach, choices shifted, without banning anything.
+
+Apply it in your life:
+
+- Want to scroll less? Log out of apps, move them off your home screen, or charge your phone outside the bedroom. Each extra step gives your conscious mind a moment to catch up with the autopilot.
+- Want to read more? Leave a book on your pillow.
+- Want to exercise in the morning? Sleep near your laid-out workout clothes.
+
+You are designing an environment where the **easy** choice is the **good** choice.
+
+=== callout analogy
+Think of your habits as water flowing downhill. Willpower is like trying to hold back the water with your hands: possible for a while, but exhausting. Environment design is like digging channels: you reshape the landscape so the water naturally flows where you want it.
+
+=== text The willpower story, revised
+In the late 1990s, psychologists proposed that self-control is like a muscle that gets **tired** with use, an idea called **ego depletion**. Hundreds of studies seemed to support it. But in 2016, a large coordinated replication effort across more than 20 laboratories found an effect close to **zero**. Later replication attempts produced mixed results. Today, many researchers doubt that willpower runs out in the simple way originally claimed.
+
+This is part of a wider **replication crisis** in psychology and other sciences: some famous findings didn’t hold up when tested again more rigorously. It’s a reminder to treat single, surprising studies with caution, a theme you’ll meet again in the Philosophy and Math regions.
+
+What does seem robust: people who appear to have great self-control often aren’t constantly resisting temptation. They **arrange their lives to face fewer temptations** in the first place.
+
+=== text Why some habits grip so hard
+Your brain’s reward system relies heavily on a chemical messenger called **dopamine**. Contrary to popular belief, dopamine isn’t simply the “pleasure chemical”. Research by **Wolfram Schultz** and others showed that dopamine neurons respond strongly to **unexpected** rewards and, after learning, to the **cues that predict** them. Dopamine is more about **wanting** and learning what to pursue than about enjoying.
+
+This explains why **unpredictable** rewards are so compelling. In the mid-twentieth century, the psychologist **B. F. Skinner** found that animals pressed a lever most persistently when rewards came on an unpredictable schedule. Slot machines work this way. So do social media feeds, notifications and many games: you never know whether the next refresh will bring something interesting, so you keep checking.
+
+=== steps Replacing a habit: a worked example
+- **Notice the loop.** Someone reaches for their phone every time they sit down at their desk to study.
+- **Identify the cue:** sitting down and facing a difficult task.
+- **Identify the real reward:** not information, but **relief** from the discomfort of starting something hard.
+- **Add friction:** the phone goes in a bag across the room during study blocks.
+- **Replace the routine:** when the urge comes, take three slow breaths and write down the very first tiny step of the task. That also delivers relief, by making the task feel manageable.
+- **Expect urges and relapses.** Urges rise and fall like waves; noticing one without acting on it (sometimes called **urge surfing**) weakens the link over time. One slip isn’t failure; getting back on track quickly matters more than a perfect record.
+
+=== callout example | Temptation bundling
+Economist **Katy Milkman** tested an idea called **temptation bundling**: pairing something you want to do with something you should do. Participants could only listen to gripping audiobooks they loved while at the gym. Gym visits rose significantly compared to a control group, though the effect faded over time. You might allow yourself a favourite podcast only while walking, or a special tea only while doing paperwork.
+
+=== reveal If habits are so automatic, are we responsible for them?
+Philosophers and psychologists would say: partly. You often can’t control the **urge** in the moment, since the cue fires the response before you think. But you can control a great deal **upstream**: which environments you put yourself in, which cues surround you and which routines you practise. In that sense, responsibility shifts from the moment of temptation to the design of your days. That is also why public policy debates about things like gambling advertising or app design matter: companies can design environments to exploit habit loops, which raises questions about whose responsibility it is.
+
+=== keypoints
+- Old habits aren’t deleted; they’re **overridden** or **avoided**, which is why stress can trigger relapse.
+- The most effective levers: **remove cues**, **add friction**, **replace the routine**.
+- Small changes in **environment** can shift behaviour more reliably than willpower.
+- The **ego depletion** idea failed large replications; famous findings like the **marshmallow test** turned out more complicated.
+- **Dopamine** drives wanting and learning, especially for **unpredictable rewards**, which is why feeds and slot machines grip us.
+- **Urge surfing**, **temptation bundling** and quick recovery after slips help change stick.
+
+=== why
+Most of us have at least one habit we’d like to drop. Understanding why they’re sticky replaces guilt with strategy: the problem usually isn’t weak character but a well-trained loop in a supportive environment. These ideas also explain the modern attention economy, helping you notice when an app is designed to keep you hooked, and decide for yourself how you want to spend your attention.
+
+##### LESSON
+id: mind.memory.1
+title: How Memories Are Made, and Remade
+minutes: 14
+check: In your own words: what are the main stages and types of memory, and why might a confident eyewitness still be wrong?
+
+=== hook
+In 1953, a 27-year-old American man named **Henry Molaison** had brain surgery to stop severe epileptic seizures. Surgeons removed parts of both sides of his brain, including most of a seahorse-shaped structure called the **hippocampus**. His seizures improved dramatically. But something else had gone: from that day until his death in 2008, he could not form new lasting memories of facts or events.
+
+He could hold a conversation, but if you left the room for a few minutes and returned, he would greet you as a stranger. Yet he could still **learn new skills**: over several days he got better at a tricky drawing task, while having no memory of ever having practised it. Known for decades only as “H.M.”, he taught science more about memory than perhaps anyone in history.
+
+=== core
+Memory isn’t a single thing stored in a single place. It’s a set of processes and systems. Psychologists usually describe three stages:
+
+1. **Encoding:** taking information in and turning it into a form the brain can store. Attention matters enormously here: what you don’t notice, you can’t remember.
+2. **Storage:** keeping the information over time.
+3. **Retrieval:** getting it back out when needed.
+
+Failures can happen at any stage. Often what feels like “forgetting” is actually a failure to encode properly in the first place, like not remembering where you put your keys because you were thinking about something else at the time.
+
+=== text Short-term and long-term
+**Working memory** is the mental workspace that holds what you’re thinking about right now, like a phone number you’re about to dial. It’s small and fragile. A famous 1956 paper by George Miller suggested we can hold about **seven** items; later research suggests it’s closer to **four** meaningful chunks for most people. Information fades within seconds unless rehearsed.
+
+**Long-term memory** is effectively unlimited and can last a lifetime. It comes in different types, which H.M.’s case helped reveal:
+
+- **Explicit (declarative) memory**: things you can consciously recall and describe. It includes **episodic memory** (personal events: your last birthday) and **semantic memory** (facts: Paris is the capital of France). The hippocampus is essential for forming new explicit memories.
+- **Implicit memory**: things you know without consciously recalling, such as how to ride a bicycle or type (**procedural memory**). H.M.’s improving drawing skill was implicit memory, which relies on different brain systems.
+
+=== callout analogy
+Think of working memory as a small desk and long-term memory as a vast library. You can only spread a few papers on the desk at once. To keep something, you need to file it in the library, and to use it later, you need to find it again. A good filing system (organising and connecting information) makes finding it far easier.
+
+=== text What a memory physically is
+A memory isn’t stored in a single cell. It’s a pattern of connections across many neurons. When you learn something, connections between the neurons involved strengthen, making it easier for that pattern to be activated again. The Canadian psychologist **Donald Hebb** summarised the idea in 1949; it’s often paraphrased as **“neurons that fire together, wire together.”**
+
+New memories start out fragile. Over hours to years, they’re stabilised in a process called **consolidation**, in which the hippocampus seems to help “replay” and gradually integrate them into the wider brain. That’s one reason sleep after learning helps, as you saw in the sleep lessons.
+
+=== text The forgetting curve
+In the 1880s, the German psychologist **Hermann Ebbinghaus** became his own experimental subject. He memorised long lists of nonsense syllables (like “DAX” or “BOK”) and tested himself at different intervals. He found that forgetting is fastest right after learning, then slows down. Without review, a large share of new material is lost within a day or two.
+
+He also found that each time you review, forgetting slows further. This **forgetting curve** has been confirmed many times, and it underpins the spaced-review approach you’ll meet in the next lesson.
+
+=== text Memory is reconstruction, not playback
+It feels as if memories are recordings we replay. They aren’t. Each time you remember something, your brain **reconstructs** it from fragments, filling gaps with expectations, later information and general knowledge. And the act of recalling can subtly change the memory itself.
+
+In a classic 1974 study, **Elizabeth Loftus** and **John Palmer** showed people a film of a car crash, then asked how fast the cars were going when they “**hit**” each other, or when they “**smashed**” into each other. People asked with “smashed” gave higher speed estimates. A week later, they were also more likely to falsely remember seeing **broken glass**, which wasn’t in the film. One word changed the memory.
+
+=== reveal Why does this matter so much in courtrooms?
+Because juries tend to trust **confident eyewitnesses**, but confidence and accuracy can come apart, especially when memories have been shaped by leading questions, line-up procedures, stress or later conversations. In the United States, the Innocence Project, which works to overturn wrongful convictions using DNA evidence, has found that **mistaken eyewitness identification** played a role in roughly **seven in ten** of those convictions. Research like Loftus’s has led many police forces and courts to change how they conduct line-ups and question witnesses, for example by having officers who don’t know the suspect run the line-up.
+
+=== keypoints
+- Memory has three stages: **encoding**, **storage** and **retrieval**; poor attention often causes poor encoding.
+- **Working memory** holds only about **four chunks** briefly; **long-term memory** is vast.
+- Long-term memory includes **explicit** (episodic, semantic) and **implicit** (procedural) types, revealed partly by the case of **Henry Molaison (H.M.)**.
+- Memories are patterns of **strengthened connections** between neurons, stabilised by **consolidation**.
+- **Ebbinghaus’s forgetting curve**: forgetting is fast at first, then slows; review slows it further.
+- Memory is **reconstructive**: it can be altered by later information, as **Loftus and Palmer** showed.
+
+=== why
+Understanding memory changes how you study, how you judge your own recollections and how much weight you give to other people’s. It also explains why this app is designed the way it is: explaining ideas in your own words and revisiting them after days and weeks are built around how memory actually works. The next lesson turns this science into practical techniques.

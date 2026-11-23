@@ -1,0 +1,92 @@
+{
+  "id": "mind.stress.2",
+  "region": "mind",
+  "topic": "stress",
+  "level": 2,
+  "prerequisites": [
+    "mind.stress.1"
+  ],
+  "title": "When Stress Won’t Switch Off",
+  "estimated_minutes": 15,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 1967, researchers began following around 18,000 men working in the British Civil Service, from senior administrators to messengers and clerks. All worked in offices in London, and none were poor by national standards. Yet over the following years, men in the **lowest** grades died at around **three times** the rate of those in the highest grades, from heart disease and many other causes.\n\nSmoking, diet and other risk factors explained only part of the gap. A major factor, the researchers concluded, was something less obvious: how much **control** people had over their work and lives. The **Whitehall studies**, led for decades by **Michael Marmot**, changed how scientists think about stress, status and health."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The stress response evolved for short emergencies. When it stays switched on for weeks, months or years, the same changes that help in a crisis start causing damage. Scientists call the cumulative wear and tear **allostatic load**, a term developed by the neuroscientist **Bruce McEwen**.\n\nChronic stress is linked to:\n\n- **Heart and blood vessels:** persistently raised blood pressure and inflammation, contributing to heart disease.\n- **Immune system:** cortisol suppresses some immune functions. Studies have found that stressed people are more likely to catch colds when exposed to viruses and that wounds can heal more slowly.\n- **Brain:** chronic stress can affect the hippocampus (memory) and prefrontal cortex (planning and self-control), while making the amygdala more reactive, a pattern that can make stress self-perpetuating.\n- **Mental health:** it is a major risk factor for depression and anxiety disorders.\n- **Sleep, digestion and habits:** sleep problems, digestive issues and a tendency to rely on comfort eating, alcohol or other quick relief."
+    },
+    {
+      "type": "text",
+      "heading": "Control and predictability",
+      "md": "Why did lower-grade civil servants fare worse? The second Whitehall study, which began in 1985 and included women, found that people with **low control** over their work, combined with high demands, had higher rates of heart disease.\n\nAnimal research tells a similar story. The neuroscientist **Robert Sapolsky** spent decades studying wild baboons in Kenya. Low-ranking baboons, harassed by higher-ranking ones and with little control over their lives, tended to have higher stress hormones and worse health markers, though this depended on the troop’s social culture: in more relaxed troops, the pattern weakened.\n\nThe lesson from both: stress isn’t just about how much you have to do. **Unpredictability**, **lack of control** and **lack of social support** make the same demands far more damaging."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of two passengers in a car on a winding mountain road. The driver and the passenger experience exactly the same bends and drops. Yet the passenger is much more likely to feel sick and anxious. The difference isn’t the road; it’s control and predictability. The driver knows what’s coming and can act."
+    },
+    {
+      "type": "text",
+      "heading": "Two ways of coping",
+      "md": "In the 1980s, psychologists **Richard Lazarus** and **Susan Folkman** argued that stress depends on how we **appraise** a situation (Is this a threat? Can I handle it?) and described two broad ways of coping:\n\n- **Problem-focused coping:** tackling the source. Making a plan, breaking a task into steps, asking for help, setting boundaries, changing the situation.\n- **Emotion-focused coping:** managing your reaction when the situation can’t easily change. Talking it through, reframing, exercise, relaxation, acceptance.\n\nNeither is always better. Problem-focused coping tends to work best when the situation is controllable; emotion-focused coping helps with things you can’t change, like waiting for medical results or grieving. Some strategies, like avoidance, denial or heavy drinking, may give short-term relief but tend to make things worse over time."
+    },
+    {
+      "type": "text",
+      "heading": "The protective power of other people",
+      "md": "One of the strongest findings in health research is the importance of **social connection**. A 2010 analysis led by **Julianne Holt-Lunstad**, combining data from 148 studies and over 300,000 people, found that people with stronger social relationships had about a **50% greater likelihood of survival** over the study periods than those with weaker ties. The effect was comparable to well-known risk factors like smoking.\n\nSupportive relationships seem to buffer stress directly: having someone to talk to, practical help and simply feeling that you belong all dampen the body’s stress response."
+    },
+    {
+      "type": "text",
+      "heading": "Resilience is common",
+      "md": "After hardship, many people assume trauma is inevitable. But research by the psychologist **George Bonanno** and others found that, after events like bereavement or disasters, the most common pattern is actually **resilience**: a period of distress followed by a return to fairly stable functioning. Resilience isn’t rare or heroic; it’s ordinary.\n\nThat doesn’t mean everyone recovers easily, and some people need significant support. Resilience also isn’t purely individual: it depends heavily on resources like relationships, financial security and access to care."
+    },
+    {
+      "type": "callout",
+      "tone": "definition",
+      "title": "Burnout",
+      "md": "In 2019, the World Health Organization included **burnout** in its International Classification of Diseases as an **occupational phenomenon** (not a medical condition), resulting from chronic workplace stress that hasn’t been successfully managed. It has three features: **exhaustion**, increasing **distance or cynicism** about one’s job, and reduced **effectiveness**. Its inclusion reflects a shift towards seeing burnout as partly a problem of work conditions, not just individual weakness."
+    },
+    {
+      "type": "steps",
+      "title": "A practical stress audit",
+      "items": [
+        "**List your stressors.** Separate those you can influence from those you can’t.",
+        "**For the controllable ones,** pick one small problem-focused step this week: a conversation, a plan, a boundary, asking for help.",
+        "**For the uncontrollable ones,** choose emotion-focused tools: exercise, time outdoors, talking to someone, writing about feelings, or practising acceptance.",
+        "**Protect the basics:** sleep, movement and regular meals make the stress system more resilient.",
+        "**Invest in connection:** regular contact with people you trust is one of the best-evidenced protections there is.",
+        "**Know when to get help:** if stress is affecting your sleep, work or relationships for weeks, or you feel hopeless, talk to a doctor or mental health professional. In a crisis, contact local emergency services or a helpline."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Does mindfulness meditation actually reduce stress, or is it just a trend?",
+      "md": "The evidence suggests it helps, but less dramatically than enthusiasts sometimes claim. A large 2014 review published in JAMA Internal Medicine, led by Madhav Goyal, analysed 47 trials and found **moderate evidence** that mindfulness programmes improve anxiety, depression and pain, with effects roughly similar to those seen with antidepressants in comparable populations, though not better than other active treatments such as exercise or therapy. It’s a useful tool, especially structured programmes like Mindfulness-Based Stress Reduction, but not a cure-all."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Chronic stress causes cumulative wear called **allostatic load**, affecting the heart, immune system, brain and mental health.",
+        "The **Whitehall studies** showed lower-status workers had worse health, partly due to **low control**.",
+        "**Unpredictability**, **lack of control** and **isolation** make stress more harmful.",
+        "**Problem-focused** coping suits controllable situations; **emotion-focused** coping suits uncontrollable ones.",
+        "**Social connection** is strongly linked to better health and survival.",
+        "**Resilience** after adversity is common, and depends on resources as well as individuals.",
+        "**Burnout** is recognised by the WHO as an occupational phenomenon."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding chronic stress helps you protect your health and recognise when a situation, not you, is the problem. It also explains why health inequalities exist even in wealthy societies, connecting to the Economics and Politics regions. Most practically: a few concrete habits, especially sleep, movement and staying connected to others, can make the stress system far more resilient."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does long-term stress affect health, why does a sense of control matter so much, and what kinds of coping actually help?"
+  }
+}

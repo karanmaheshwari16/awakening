@@ -1,0 +1,89 @@
+{
+  "id": "mind.nutrition.1",
+  "region": "mind",
+  "topic": "nutrition",
+  "level": 1,
+  "prerequisites": [],
+  "title": "What Food Is Made Of",
+  "estimated_minutes": 14,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 2019, scientists at the US National Institutes of Health ran an unusually strict experiment. Twenty adults lived in a research centre for four weeks. For two weeks they ate mainly **ultra-processed** foods; for the other two, mainly **unprocessed** foods. Both diets were matched for calories, sugar, fat, fibre and salt offered, and people could eat as much as they wanted.\n\nOn the ultra-processed diet, people ate about **500 more calories a day**, ate faster and gained weight. On the unprocessed diet, they lost weight. Same nutrients on offer, very different results. Food is more than a list of nutrients, and understanding what it’s made of is the first step to seeing why."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Everything you eat is built from a few kinds of nutrients. The ones you need in large amounts are the **macronutrients**:\n\n- **Carbohydrates:** the body’s main fuel source, especially for the brain and for intense exercise. They range from simple **sugars** to **starches** (in rice, wheat, potatoes) to **fibre**, which we can’t fully digest but which feeds gut bacteria and supports digestion. They provide about **4 kilocalories per gram**.\n- **Proteins:** the building blocks of muscles, enzymes, hormones and immune cells, made of smaller units called **amino acids**. About **4 kilocalories per gram**.\n- **Fats:** a dense energy store, essential for cell membranes, hormones and absorbing certain vitamins. About **9 kilocalories per gram**, more than double the others.\n\nYou also need **micronutrients** (vitamins and minerals) in small amounts, plus **water**. Alcohol provides energy too, about 7 kilocalories per gram, but no nutrients your body needs."
+    },
+    {
+      "type": "callout",
+      "tone": "definition",
+      "title": "What is a calorie?",
+      "md": "A **calorie** is a unit of energy. The “calories” on food labels are actually **kilocalories** (kcal), each the energy needed to heat one kilogram of water by one degree Celsius. An average adult uses roughly **2,000–2,500 kcal** a day, depending on body size, age, sex and activity level."
+    },
+    {
+      "type": "text",
+      "heading": "Not all carbohydrates are equal",
+      "md": "**Refined** carbohydrates, like white bread, white rice, sugary drinks and many snacks, have had most of their fibre removed. They’re digested quickly, causing faster rises in blood sugar, and are often less filling.\n\n**Whole** carbohydrates, like whole grains, legumes (lentils, beans, chickpeas), vegetables and fruit, keep their fibre. They’re digested more slowly, keep you fuller and come with more vitamins and minerals.\n\nMost people in many countries eat far less fibre than recommended (often around 25–30 grams a day for adults). Diets rich in fibre are consistently linked to lower risks of heart disease, type 2 diabetes and bowel cancer. Traditional dishes like dal with whole-grain roti, or beans with vegetables, are excellent sources."
+    },
+    {
+      "type": "text",
+      "heading": "Fats: the good, the less good and the harmful",
+      "md": "- **Unsaturated fats**, found in nuts, seeds, fish and oils like olive, mustard and groundnut oil, are linked to better heart health when they replace saturated fats.\n- **Saturated fats**, found in fatty meat, butter, ghee, cheese, coconut and palm oil, raise LDL (“bad”) cholesterol. Most guidelines recommend limiting them, though scientists still debate how much depends on the specific food.\n- **Industrial trans fats**, created when vegetable oils are partially hydrogenated (as in some vanaspati and fried or packaged foods), are clearly harmful to the heart. The WHO has called for their elimination, and many countries, including India, have set strict limits on them."
+    },
+    {
+      "type": "text",
+      "heading": "Protein: how much do you need?",
+      "md": "Many national guidelines recommend about **0.8 grams of protein per kilogram of body weight** per day for adults, so roughly 50–60 grams for a 70-kilogram person. Needs are higher for growing children, pregnant women, older adults and people doing heavy strength training.\n\nGood sources include legumes, dairy, eggs, fish, meat, soy (like tofu), nuts and seeds. Vegetarian diets can easily meet protein needs, especially when combining different plant sources, such as grains with lentils, which together supply all the essential amino acids."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your body as a house that’s constantly being renovated. **Carbohydrates** are the electricity that keeps the lights on and the tools running. **Protein** is the bricks and timber for repairs and new rooms. **Fats** are a stored fuel supply in the basement, plus essential materials like insulation. **Micronutrients** are the nails, screws and wiring: tiny, but nothing works without them."
+    },
+    {
+      "type": "text",
+      "heading": "The processing question",
+      "md": "Scientists in Brazil, led by **Carlos Monteiro**, developed a widely used system called **NOVA** that classifies food by how much it’s processed:\n\n1. **Unprocessed or minimally processed:** fruit, vegetables, grains, legumes, milk, eggs, fresh meat.\n2. **Processed culinary ingredients:** oils, butter, sugar, salt.\n3. **Processed foods:** simple combinations like cheese, canned vegetables, fresh bread.\n4. **Ultra-processed foods:** industrial products made largely from extracted substances and additives, like many soft drinks, packaged snacks, instant noodles, sweetened cereals and reconstituted meat products.\n\nLarge studies link high ultra-processed food intake to higher risks of obesity, type 2 diabetes, heart disease and early death. Why isn’t fully understood. Suspects include being **energy-dense**, **quick to eat**, **low in fibre**, and engineered to be highly appealing in ways that may override fullness signals. The category is also broad and debated: not every ultra-processed food is equally unhealthy."
+    },
+    {
+      "type": "steps",
+      "title": "A simple plate guide",
+      "items": [
+        "Fill about **half** your plate with **vegetables and fruit**, in a variety of colours.",
+        "Fill about a **quarter** with **whole grains** or other quality carbohydrates.",
+        "Fill about a **quarter** with **protein**: legumes, fish, eggs, dairy, poultry, tofu or nuts.",
+        "Use **healthy oils** in moderation.",
+        "Drink mostly **water**.",
+        "This is similar to guidance from many bodies, including the Harvard Healthy Eating Plate and India’s ICMR “My Plate for the Day”. It adapts to almost any cuisine."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If total calories are what determine weight, why does food quality matter?",
+      "md": "Because food quality affects **how much you eat**, as the NIH experiment showed, and it affects your **health** beyond weight. Two diets with the same calories can have very different effects on fullness, blood sugar, cholesterol, gut bacteria and long-term disease risk. Energy balance is real (consistently eating more than you use leads to weight gain), but the type of food strongly influences how easy that balance is to maintain, and what happens inside your body along the way."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Macronutrients**: **carbohydrates** (4 kcal/g, main fuel), **protein** (4 kcal/g, building material) and **fat** (9 kcal/g, energy store and essential functions).",
+        "**Whole** carbohydrates with **fibre** beat **refined** ones; most people eat too little fibre.",
+        "**Unsaturated** fats are healthier than **saturated**; **industrial trans fats** are clearly harmful.",
+        "Adults need roughly **0.8 g of protein per kg** of body weight daily; plant sources can meet this.",
+        "The **NOVA** system classifies foods by processing; **ultra-processed** foods are linked to overeating and worse health.",
+        "A practical plate: **half vegetables and fruit**, a quarter **whole grains**, a quarter **protein**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "You make food decisions several times a day, every day, for your whole life. Understanding what food is made of helps you see past marketing claims and food fads, and make choices that suit your culture, budget and tastes. Next, you’ll learn why nutrition news seems to contradict itself so often, and how to judge it for yourself."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the three macronutrients and what does each do, and why might ultra-processed food make it easier to overeat?"
+  }
+}

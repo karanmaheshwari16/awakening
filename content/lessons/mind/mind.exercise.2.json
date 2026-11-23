@@ -1,0 +1,86 @@
+{
+  "id": "mind.exercise.2",
+  "region": "mind",
+  "topic": "exercise",
+  "level": 2,
+  "prerequisites": [
+    "mind.exercise.1"
+  ],
+  "title": "How Bodies Adapt: Strength, Stamina and Recovery",
+  "estimated_minutes": 14,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "The famous target of **10,000 steps a day** didn’t come from a scientific study. It comes from a pedometer launched in Japan in the mid-1960s, around the time of the 1964 Tokyo Olympics, called the **manpo-kei**, which literally means “10,000-step meter”. The round number was catchy, and it spread around the world.\n\nDecades later, scientists finally tested it properly. A 2022 analysis of data from about 47,000 people found that the risk of death fell steadily as daily steps increased, then levelled off: at around **6,000 to 8,000 steps** for adults over 60 and **8,000 to 10,000** for younger adults. The marketing number wasn’t far off, but the real lesson was different: every extra bit of movement counts, especially for the least active."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Your body is an adaptation machine. When you challenge it beyond what it’s used to, it responds by becoming better able to handle that challenge. This principle has a name in exercise science: **progressive overload**.\n\nHere’s the basic cycle:\n\n1. **Stress:** a workout pushes your muscles, heart and other systems beyond their comfortable level, causing microscopic damage and depleting energy stores.\n2. **Recovery:** during rest, especially sleep, the body repairs the damage and replenishes fuel.\n3. **Adaptation:** the body rebuilds slightly stronger than before, preparing for the next challenge.\n\nTo keep improving, the challenge has to keep increasing gradually: more weight, more repetitions, longer distances, faster pace. Without new challenge, the body stops adapting. Too much challenge without enough recovery, and it breaks down instead."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of your body as a cautious builder who reinforces a bridge every time a heavier truck crosses it. If trucks of the same weight keep coming, the builder sees no need to add more. If a slightly heavier truck comes, the builder adds reinforcement overnight. But send a truck that’s far too heavy, or send trucks continuously without a break, and the bridge cracks before the builder can work."
+    },
+    {
+      "type": "text",
+      "heading": "Two kinds of fitness that predict a long life",
+      "md": "**Cardiorespiratory fitness** is how well your heart, lungs and blood vessels deliver oxygen to working muscles. Scientists measure it as **VO₂ max**, the maximum amount of oxygen your body can use during intense exercise. In a large 2018 study of over 120,000 patients who did treadmill tests at the Cleveland Clinic, low cardiorespiratory fitness was associated with a higher risk of death than many well-known risk factors, including smoking and diabetes. And the fittest group lived longest, with no upper limit found.\n\n**Muscular strength** matters too. A large international study called **PURE**, involving nearly 140,000 people in 17 countries including India, found that weaker **grip strength**, a simple measure of overall strength, was associated with higher risk of death and heart disease. These are associations, not proof of cause, but trials show training improves both measures."
+    },
+    {
+      "type": "text",
+      "heading": "What happens inside when you train",
+      "md": "**Endurance training** (running, cycling, swimming) makes your heart pump more blood with each beat, so your resting heart rate often falls. Muscles grow more **capillaries** (tiny blood vessels) and more **mitochondria**, the cell’s power stations, so they can produce energy aerobically for longer.\n\n**Strength training** (lifting weights, resistance exercise) first improves how well your **nervous system** recruits muscle fibres. That’s why beginners get stronger quickly in the first weeks, before muscles visibly grow. Over time, muscle fibres themselves get bigger as the body builds more protein inside them.\n\nBoth kinds of training improve blood sugar control, bone density, and mental health. Ideally, include both."
+    },
+    {
+      "type": "text",
+      "heading": "Muscle and ageing",
+      "md": "From around middle age, people tend to lose muscle mass and strength gradually if they don’t train, with losses often accelerating after about 60 or 70. Severe loss, called **sarcopenia**, increases the risk of falls, fractures and losing independence.\n\nThe good news is that muscles respond to training at **any age**. Studies have shown significant strength gains even in people in their **nineties** who began resistance training. Building and maintaining strength is one of the best investments for a healthy old age."
+    },
+    {
+      "type": "steps",
+      "title": "Building a sensible routine",
+      "items": [
+        "**Start where you are.** If you’re inactive, begin with walking and a few simple bodyweight exercises, and build up over weeks.",
+        "**Increase gradually.** A common rule of thumb is to increase total training load by modest amounts from week to week rather than making big jumps.",
+        "**Mix intensities.** Most endurance training can be at an easy, conversational pace, with some harder sessions. Many elite endurance athletes train this way, spending most of their time at low intensity.",
+        "**Train strength at least twice a week,** working the major muscle groups.",
+        "**Prioritise recovery:** sleep, rest days, and enough food, especially protein, to rebuild.",
+        "**Choose what you enjoy.** The best exercise programme is the one you’ll actually keep doing."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why are your muscles sore a day or two after a new workout, rather than right away?",
+      "md": "That’s **delayed onset muscle soreness (DOMS)**. It usually peaks 24 to 72 hours after unfamiliar exercise, especially movements where muscles lengthen under load, like walking downhill or lowering a weight slowly. It’s linked to microscopic damage and the inflammation and repair that follow, not to “lactic acid” building up, which is a common myth: lactate clears from muscles within an hour or so of exercise. DOMS fades as your body adapts, which is why the same workout hurts less the second time."
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "Listen to warning signs",
+      "md": "Normal training discomfort is different from pain that is sharp, localised, or gets worse as you continue. Chest pain, severe breathlessness, dizziness or palpitations during exercise need prompt medical attention. People with heart conditions or other health concerns should check with a doctor before starting vigorous exercise."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Progressive overload**: gradually increasing challenge drives the cycle of **stress, recovery and adaptation**.",
+        "**Recovery**, especially sleep, is when the body actually rebuilds stronger.",
+        "**Cardiorespiratory fitness** (VO₂ max) and **strength** (e.g. grip strength) strongly predict long-term health.",
+        "Endurance training adds **capillaries** and **mitochondria**; strength training first improves **nervous system** recruitment, then builds muscle.",
+        "Muscle declines with age without training, but responds to exercise at **any age**.",
+        "Step-count benefits level off around **6,000–10,000** steps depending on age; the **10,000** target came from marketing."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Knowing how your body adapts takes the mystery and guesswork out of fitness. You don’t need extreme workouts; you need consistent, gradually increasing challenge and real recovery. These principles apply whether you’re 18 or 80, and they protect your independence and quality of life for decades to come."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is progressive overload, why does recovery matter as much as training, and why are cardiorespiratory fitness and strength such strong predictors of long-term health?"
+  }
+}

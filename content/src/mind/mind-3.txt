@@ -1,0 +1,284 @@
+##### LESSON
+id: mind.exercise.1
+title: Movement Is Medicine for the Brain
+minutes: 13
+disclaimer: health
+check: In your own words: how does exercise affect the brain, both immediately and over the long term, and roughly how much is recommended for adults?
+
+=== hook
+In a 2011 study, researchers recruited about 120 older adults who didn’t exercise. Half began walking briskly for 40 minutes, three times a week. The other half did gentle stretching instead.
+
+After a year, brain scans showed that in the walking group, the **hippocampus**, the brain region central to memory, had grown by about **2%**. In the stretching group, it had shrunk slightly, as normally happens with age. The researchers estimated that the walkers had effectively reversed one to two years of age-related shrinkage. Walking, something most of us can do, had physically changed their brains.
+
+=== core
+Most people think of exercise as something for the body: muscles, heart, weight. But some of its most important effects are on the **brain**.
+
+When you move, especially in aerobic activity that raises your heart rate:
+
+- **Blood flow to the brain increases**, delivering more oxygen and fuel.
+- The brain releases a protein called **BDNF** (brain-derived neurotrophic factor), which supports the survival of neurons, the growth of new connections and, in the hippocampus, possibly the growth of new neurons. Some researchers have nicknamed it “fertiliser for the brain”.
+- Levels of chemical messengers involved in mood and attention, including **dopamine**, **serotonin** and **noradrenaline**, shift.
+- Over time, exercise reduces **inflammation** and improves blood vessel health, which protects the brain as you age.
+
+=== text Immediate effects: a sharper mind today
+You don’t need to wait months. A single session of moderate exercise, even a brisk 10–20 minute walk, tends to improve **attention**, **mood** and some aspects of **thinking** for a period afterwards. Many studies in children and adults find small but real improvements in focus after short bouts of physical activity.
+
+This is why a walk before studying or a difficult meeting can be more useful than another coffee. It also suggests that long periods of sitting still, at a desk or on a sofa, may leave your brain less alert than it could be.
+
+=== text Long-term effects: protecting the ageing brain
+Large observational studies consistently find that physically active people have a **lower risk of dementia** and slower cognitive decline. These studies can’t fully prove cause and effect, since healthier people may simply exercise more. But trials like the walking study above, plus animal research showing exercise increases brain cell growth, support a real protective effect.
+
+Physical inactivity is listed among the most significant **modifiable** risk factors for dementia in major reviews, such as the influential Lancet Commission on dementia. It’s one of the few things you can actually change.
+
+=== callout analogy
+Think of your brain as a garden. Exercise does three jobs at once: it waters the garden (better blood flow), adds fertiliser (BDNF helping connections grow) and clears weeds (reducing inflammation). You can’t control everything that happens to a garden, but regular care makes it far more likely to thrive.
+
+=== text Exercise and mood
+Exercise has a strong, well-studied effect on **depression** and **anxiety**. A large 2024 analysis in the BMJ, combining over 200 trials, found that activities including **walking or jogging**, **yoga** and **strength training** reduced depression symptoms meaningfully, with effects comparable to psychotherapy in some comparisons. More intense exercise tended to give larger benefits.
+
+This doesn’t mean exercise replaces professional treatment, especially for severe depression. But many guidelines now recommend it as part of treatment, and for mild to moderate symptoms, it can be an effective tool.
+
+=== steps How much is recommended?
+- The World Health Organization recommends adults do **150–300 minutes** a week of **moderate** aerobic activity, or **75–150 minutes** of **vigorous** activity, or a mix.
+- **Moderate** means you can talk but not sing: brisk walking, cycling at an easy pace, dancing.
+- **Vigorous** means you can only say a few words without pausing for breath: running, fast cycling, competitive sports.
+- Add **muscle-strengthening** activity on **two or more days** a week: weights, resistance bands, bodyweight exercises like squats and push-ups, or heavy gardening.
+- **Any amount is better than none.** Even modest activity well below these targets is associated with substantial health benefits compared with being completely inactive. The biggest gains come from moving from nothing to something.
+- Try to **break up long periods of sitting** with a few minutes of movement.
+
+=== reveal Why might human brains respond so strongly to movement?
+One idea is evolutionary. For most of human history, our ancestors lived as hunter-gatherers who walked many kilometres a day searching for food. Some researchers, like the anthropologist **David Raichlen**, argue that because foraging required navigation, memory and planning while moving, our brains evolved to work best when we’re active, and treat inactivity as a signal to conserve resources. It’s a hypothesis that’s hard to test directly, but it fits the evidence that the brain thrives on regular physical activity.
+
+=== keypoints
+- Exercise increases **blood flow** to the brain and releases **BDNF**, which supports neurons and their connections.
+- A single session can improve **attention** and **mood** for a while afterwards.
+- In a 2011 trial, a year of walking increased **hippocampus** size by about **2%** in older adults.
+- Physical activity is linked to lower **dementia** risk; inactivity is a key **modifiable** risk factor.
+- Exercise meaningfully reduces **depression** symptoms in many trials.
+- The **WHO** recommends **150–300 minutes** of moderate activity weekly plus **strength training** twice a week; any amount helps.
+
+=== why
+If a pill improved memory, mood, focus and long-term brain health with few side effects, it would be the best-selling drug in the world. Exercise comes close, and it’s free. Understanding how it affects the brain gives you a stronger reason to move than appearance alone. Next, you’ll look at how the body adapts to training, and what really matters for fitness.
+
+##### LESSON
+id: mind.exercise.2
+title: How Bodies Adapt: Strength, Stamina and Recovery
+minutes: 14
+disclaimer: health
+prereq: mind.exercise.1
+check: In your own words: what is progressive overload, why does recovery matter as much as training, and why are cardiorespiratory fitness and strength such strong predictors of long-term health?
+
+=== hook
+The famous target of **10,000 steps a day** didn’t come from a scientific study. It comes from a pedometer launched in Japan in the mid-1960s, around the time of the 1964 Tokyo Olympics, called the **manpo-kei**, which literally means “10,000-step meter”. The round number was catchy, and it spread around the world.
+
+Decades later, scientists finally tested it properly. A 2022 analysis of data from about 47,000 people found that the risk of death fell steadily as daily steps increased, then levelled off: at around **6,000 to 8,000 steps** for adults over 60 and **8,000 to 10,000** for younger adults. The marketing number wasn’t far off, but the real lesson was different: every extra bit of movement counts, especially for the least active.
+
+=== core
+Your body is an adaptation machine. When you challenge it beyond what it’s used to, it responds by becoming better able to handle that challenge. This principle has a name in exercise science: **progressive overload**.
+
+Here’s the basic cycle:
+
+1. **Stress:** a workout pushes your muscles, heart and other systems beyond their comfortable level, causing microscopic damage and depleting energy stores.
+2. **Recovery:** during rest, especially sleep, the body repairs the damage and replenishes fuel.
+3. **Adaptation:** the body rebuilds slightly stronger than before, preparing for the next challenge.
+
+To keep improving, the challenge has to keep increasing gradually: more weight, more repetitions, longer distances, faster pace. Without new challenge, the body stops adapting. Too much challenge without enough recovery, and it breaks down instead.
+
+=== callout analogy
+Think of your body as a cautious builder who reinforces a bridge every time a heavier truck crosses it. If trucks of the same weight keep coming, the builder sees no need to add more. If a slightly heavier truck comes, the builder adds reinforcement overnight. But send a truck that’s far too heavy, or send trucks continuously without a break, and the bridge cracks before the builder can work.
+
+=== text Two kinds of fitness that predict a long life
+**Cardiorespiratory fitness** is how well your heart, lungs and blood vessels deliver oxygen to working muscles. Scientists measure it as **VO₂ max**, the maximum amount of oxygen your body can use during intense exercise. In a large 2018 study of over 120,000 patients who did treadmill tests at the Cleveland Clinic, low cardiorespiratory fitness was associated with a higher risk of death than many well-known risk factors, including smoking and diabetes. And the fittest group lived longest, with no upper limit found.
+
+**Muscular strength** matters too. A large international study called **PURE**, involving nearly 140,000 people in 17 countries including India, found that weaker **grip strength**, a simple measure of overall strength, was associated with higher risk of death and heart disease. These are associations, not proof of cause, but trials show training improves both measures.
+
+=== text What happens inside when you train
+**Endurance training** (running, cycling, swimming) makes your heart pump more blood with each beat, so your resting heart rate often falls. Muscles grow more **capillaries** (tiny blood vessels) and more **mitochondria**, the cell’s power stations, so they can produce energy aerobically for longer.
+
+**Strength training** (lifting weights, resistance exercise) first improves how well your **nervous system** recruits muscle fibres. That’s why beginners get stronger quickly in the first weeks, before muscles visibly grow. Over time, muscle fibres themselves get bigger as the body builds more protein inside them.
+
+Both kinds of training improve blood sugar control, bone density, and mental health. Ideally, include both.
+
+=== text Muscle and ageing
+From around middle age, people tend to lose muscle mass and strength gradually if they don’t train, with losses often accelerating after about 60 or 70. Severe loss, called **sarcopenia**, increases the risk of falls, fractures and losing independence.
+
+The good news is that muscles respond to training at **any age**. Studies have shown significant strength gains even in people in their **nineties** who began resistance training. Building and maintaining strength is one of the best investments for a healthy old age.
+
+=== steps Building a sensible routine
+- **Start where you are.** If you’re inactive, begin with walking and a few simple bodyweight exercises, and build up over weeks.
+- **Increase gradually.** A common rule of thumb is to increase total training load by modest amounts from week to week rather than making big jumps.
+- **Mix intensities.** Most endurance training can be at an easy, conversational pace, with some harder sessions. Many elite endurance athletes train this way, spending most of their time at low intensity.
+- **Train strength at least twice a week,** working the major muscle groups.
+- **Prioritise recovery:** sleep, rest days, and enough food, especially protein, to rebuild.
+- **Choose what you enjoy.** The best exercise programme is the one you’ll actually keep doing.
+
+=== reveal Why are your muscles sore a day or two after a new workout, rather than right away?
+That’s **delayed onset muscle soreness (DOMS)**. It usually peaks 24 to 72 hours after unfamiliar exercise, especially movements where muscles lengthen under load, like walking downhill or lowering a weight slowly. It’s linked to microscopic damage and the inflammation and repair that follow, not to “lactic acid” building up, which is a common myth: lactate clears from muscles within an hour or so of exercise. DOMS fades as your body adapts, which is why the same workout hurts less the second time.
+
+=== callout caution | Listen to warning signs
+Normal training discomfort is different from pain that is sharp, localised, or gets worse as you continue. Chest pain, severe breathlessness, dizziness or palpitations during exercise need prompt medical attention. People with heart conditions or other health concerns should check with a doctor before starting vigorous exercise.
+
+=== keypoints
+- **Progressive overload**: gradually increasing challenge drives the cycle of **stress, recovery and adaptation**.
+- **Recovery**, especially sleep, is when the body actually rebuilds stronger.
+- **Cardiorespiratory fitness** (VO₂ max) and **strength** (e.g. grip strength) strongly predict long-term health.
+- Endurance training adds **capillaries** and **mitochondria**; strength training first improves **nervous system** recruitment, then builds muscle.
+- Muscle declines with age without training, but responds to exercise at **any age**.
+- Step-count benefits level off around **6,000–10,000** steps depending on age; the **10,000** target came from marketing.
+
+=== why
+Knowing how your body adapts takes the mystery and guesswork out of fitness. You don’t need extreme workouts; you need consistent, gradually increasing challenge and real recovery. These principles apply whether you’re 18 or 80, and they protect your independence and quality of life for decades to come.
+
+##### LESSON
+id: mind.nutrition.1
+title: What Food Is Made Of
+minutes: 14
+disclaimer: health
+check: In your own words: what are the three macronutrients and what does each do, and why might ultra-processed food make it easier to overeat?
+
+=== hook
+In 2019, scientists at the US National Institutes of Health ran an unusually strict experiment. Twenty adults lived in a research centre for four weeks. For two weeks they ate mainly **ultra-processed** foods; for the other two, mainly **unprocessed** foods. Both diets were matched for calories, sugar, fat, fibre and salt offered, and people could eat as much as they wanted.
+
+On the ultra-processed diet, people ate about **500 more calories a day**, ate faster and gained weight. On the unprocessed diet, they lost weight. Same nutrients on offer, very different results. Food is more than a list of nutrients, and understanding what it’s made of is the first step to seeing why.
+
+=== core
+Everything you eat is built from a few kinds of nutrients. The ones you need in large amounts are the **macronutrients**:
+
+- **Carbohydrates:** the body’s main fuel source, especially for the brain and for intense exercise. They range from simple **sugars** to **starches** (in rice, wheat, potatoes) to **fibre**, which we can’t fully digest but which feeds gut bacteria and supports digestion. They provide about **4 kilocalories per gram**.
+- **Proteins:** the building blocks of muscles, enzymes, hormones and immune cells, made of smaller units called **amino acids**. About **4 kilocalories per gram**.
+- **Fats:** a dense energy store, essential for cell membranes, hormones and absorbing certain vitamins. About **9 kilocalories per gram**, more than double the others.
+
+You also need **micronutrients** (vitamins and minerals) in small amounts, plus **water**. Alcohol provides energy too, about 7 kilocalories per gram, but no nutrients your body needs.
+
+=== callout definition | What is a calorie?
+A **calorie** is a unit of energy. The “calories” on food labels are actually **kilocalories** (kcal), each the energy needed to heat one kilogram of water by one degree Celsius. An average adult uses roughly **2,000–2,500 kcal** a day, depending on body size, age, sex and activity level.
+
+=== text Not all carbohydrates are equal
+**Refined** carbohydrates, like white bread, white rice, sugary drinks and many snacks, have had most of their fibre removed. They’re digested quickly, causing faster rises in blood sugar, and are often less filling.
+
+**Whole** carbohydrates, like whole grains, legumes (lentils, beans, chickpeas), vegetables and fruit, keep their fibre. They’re digested more slowly, keep you fuller and come with more vitamins and minerals.
+
+Most people in many countries eat far less fibre than recommended (often around 25–30 grams a day for adults). Diets rich in fibre are consistently linked to lower risks of heart disease, type 2 diabetes and bowel cancer. Traditional dishes like dal with whole-grain roti, or beans with vegetables, are excellent sources.
+
+=== text Fats: the good, the less good and the harmful
+- **Unsaturated fats**, found in nuts, seeds, fish and oils like olive, mustard and groundnut oil, are linked to better heart health when they replace saturated fats.
+- **Saturated fats**, found in fatty meat, butter, ghee, cheese, coconut and palm oil, raise LDL (“bad”) cholesterol. Most guidelines recommend limiting them, though scientists still debate how much depends on the specific food.
+- **Industrial trans fats**, created when vegetable oils are partially hydrogenated (as in some vanaspati and fried or packaged foods), are clearly harmful to the heart. The WHO has called for their elimination, and many countries, including India, have set strict limits on them.
+
+=== text Protein: how much do you need?
+Many national guidelines recommend about **0.8 grams of protein per kilogram of body weight** per day for adults, so roughly 50–60 grams for a 70-kilogram person. Needs are higher for growing children, pregnant women, older adults and people doing heavy strength training.
+
+Good sources include legumes, dairy, eggs, fish, meat, soy (like tofu), nuts and seeds. Vegetarian diets can easily meet protein needs, especially when combining different plant sources, such as grains with lentils, which together supply all the essential amino acids.
+
+=== callout analogy
+Think of your body as a house that’s constantly being renovated. **Carbohydrates** are the electricity that keeps the lights on and the tools running. **Protein** is the bricks and timber for repairs and new rooms. **Fats** are a stored fuel supply in the basement, plus essential materials like insulation. **Micronutrients** are the nails, screws and wiring: tiny, but nothing works without them.
+
+=== text The processing question
+Scientists in Brazil, led by **Carlos Monteiro**, developed a widely used system called **NOVA** that classifies food by how much it’s processed:
+
+1. **Unprocessed or minimally processed:** fruit, vegetables, grains, legumes, milk, eggs, fresh meat.
+2. **Processed culinary ingredients:** oils, butter, sugar, salt.
+3. **Processed foods:** simple combinations like cheese, canned vegetables, fresh bread.
+4. **Ultra-processed foods:** industrial products made largely from extracted substances and additives, like many soft drinks, packaged snacks, instant noodles, sweetened cereals and reconstituted meat products.
+
+Large studies link high ultra-processed food intake to higher risks of obesity, type 2 diabetes, heart disease and early death. Why isn’t fully understood. Suspects include being **energy-dense**, **quick to eat**, **low in fibre**, and engineered to be highly appealing in ways that may override fullness signals. The category is also broad and debated: not every ultra-processed food is equally unhealthy.
+
+=== steps A simple plate guide
+- Fill about **half** your plate with **vegetables and fruit**, in a variety of colours.
+- Fill about a **quarter** with **whole grains** or other quality carbohydrates.
+- Fill about a **quarter** with **protein**: legumes, fish, eggs, dairy, poultry, tofu or nuts.
+- Use **healthy oils** in moderation.
+- Drink mostly **water**.
+- This is similar to guidance from many bodies, including the Harvard Healthy Eating Plate and India’s ICMR “My Plate for the Day”. It adapts to almost any cuisine.
+
+=== reveal If total calories are what determine weight, why does food quality matter?
+Because food quality affects **how much you eat**, as the NIH experiment showed, and it affects your **health** beyond weight. Two diets with the same calories can have very different effects on fullness, blood sugar, cholesterol, gut bacteria and long-term disease risk. Energy balance is real (consistently eating more than you use leads to weight gain), but the type of food strongly influences how easy that balance is to maintain, and what happens inside your body along the way.
+
+=== keypoints
+- **Macronutrients**: **carbohydrates** (4 kcal/g, main fuel), **protein** (4 kcal/g, building material) and **fat** (9 kcal/g, energy store and essential functions).
+- **Whole** carbohydrates with **fibre** beat **refined** ones; most people eat too little fibre.
+- **Unsaturated** fats are healthier than **saturated**; **industrial trans fats** are clearly harmful.
+- Adults need roughly **0.8 g of protein per kg** of body weight daily; plant sources can meet this.
+- The **NOVA** system classifies foods by processing; **ultra-processed** foods are linked to overeating and worse health.
+- A practical plate: **half vegetables and fruit**, a quarter **whole grains**, a quarter **protein**.
+
+=== why
+You make food decisions several times a day, every day, for your whole life. Understanding what food is made of helps you see past marketing claims and food fads, and make choices that suit your culture, budget and tastes. Next, you’ll learn why nutrition news seems to contradict itself so often, and how to judge it for yourself.
+
+##### LESSON
+id: mind.nutrition.2
+title: Reading Nutrition Science Without Getting Fooled
+minutes: 15
+disclaimer: health
+prereq: mind.nutrition.1
+check: In your own words: why do nutrition studies so often seem to contradict each other, and what is the difference between relative risk and absolute risk?
+
+=== hook
+In 2015, the World Health Organization’s cancer agency classified **processed meat** (bacon, ham, sausages) as **carcinogenic to humans**, the same category as tobacco smoking. Headlines around the world announced that bacon was as dangerous as cigarettes.
+
+It wasn’t. The category describes how **certain** scientists are that something can cause cancer, not **how much** risk it carries. Smoking multiplies lung cancer risk many times over. Eating 50 grams of processed meat daily raises bowel cancer risk by about 18% in **relative** terms, which, for an average person, means a lifetime risk rising from roughly **5 to 6 in 100**. Both are worth knowing. They are not remotely the same. Nutrition science is full of real findings that get garbled on the way to you.
+
+=== core
+Nutrition research is genuinely difficult. You can’t easily lock thousands of people in a lab for twenty years and control everything they eat. So researchers rely on a mix of methods, each with strengths and weaknesses:
+
+- **Observational studies** follow large groups of people, record what they eat and see who develops which diseases. They can study huge numbers over decades, but they can show **associations**, not proof of **cause**.
+- **Randomised controlled trials (RCTs)** randomly assign people to different diets and compare outcomes. They’re much better at showing cause and effect, but they’re usually shorter, smaller and harder to stick to, and they often measure **markers** like cholesterol rather than actual heart attacks.
+- **Mechanistic studies** in cells or animals reveal how something might work, but what happens in a test tube or a mouse often doesn’t translate to humans.
+
+Good conclusions come from evidence across all three pointing the same way.
+
+=== text Why observational studies can mislead
+Suppose a study finds that people who take vitamin supplements live longer. Does that mean supplements extend life? Not necessarily. People who take supplements also tend to exercise more, smoke less, earn more and see doctors more often. This is called **confounding**, and in nutrition it’s often described as the **healthy user effect**.
+
+Researchers try to adjust for these factors statistically, but they can never measure everything. A famous example: observational studies suggested hormone replacement therapy protected women against heart disease. When large randomised trials were done in the 1990s and early 2000s, the protection didn’t appear, and some risks increased.
+
+A second problem: most large studies rely on people **reporting** what they eat, often through questionnaires about the past months or year. Few people remember accurately how many portions of spinach they ate last month.
+
+=== callout analogy
+Imagine noticing that cities with more ice cream sales have more drownings. Ice cream doesn’t cause drowning; hot weather increases both. In nutrition, “hot weather” might be wealth, education or overall health consciousness, quietly linked to both the food and the outcome. Spotting the hidden third factor is the key skill.
+
+=== text Relative risk versus absolute risk
+This is the single most useful idea for reading health news.
+
+- **Relative risk** compares two groups: “an 18% increase in risk”.
+- **Absolute risk** tells you the actual chance: “from 5 in 100 to 6 in 100”.
+
+Headlines prefer relative risk because it sounds dramatic. But a 50% increase in a very rare condition might mean going from 2 in 10,000 to 3 in 10,000. A 10% increase in something common might matter far more. Whenever you see a percentage change in risk, ask: **from what, to what?**
+
+=== text Follow the money, carefully
+Funding doesn’t automatically make research wrong, but it’s worth knowing. In 2016, researchers uncovered historical documents showing that in the 1960s, a sugar industry group paid Harvard scientists to write an influential review that downplayed sugar’s role in heart disease and emphasised fat instead. Analyses have also found that industry-funded nutrition studies are more likely to report conclusions favourable to the sponsor.
+
+The healthy response isn’t to dismiss all research, but to give more weight to findings that are **replicated** by independent groups and supported by **systematic reviews**, which combine many studies using transparent methods.
+
+=== text Supplements: who actually needs them?
+For most well-nourished people, large trials have generally found that multivitamins and many popular supplements **don’t prevent** heart disease, cancer or death. But some groups do benefit from specific supplements, and needs vary by country and diet:
+
+- **Vitamin B12**: found almost only in animal foods, so strict vegetarians and vegans often need a supplement or fortified foods. Deficiency is common in parts of India.
+- **Vitamin D**: deficiency is widespread in many countries, surprisingly including sunny ones like India, linked to indoor lifestyles, skin pigmentation, clothing and pollution.
+- **Folic acid**: recommended before and in early pregnancy to reduce the risk of certain birth defects.
+- **Iron**: iron-deficiency anaemia is very common, especially among women. India’s national family health survey (2019–21) found that over half of women aged 15–49 were anaemic.
+
+Testing and medical advice are better than guessing, since some supplements can be harmful in excess.
+
+=== steps Questions to ask about any nutrition claim
+- **What kind of study was it?** Observational, trial, animal, or test tube?
+- **Who was studied, and how many?** Twenty students for two weeks, or 100,000 adults for twenty years?
+- **What was actually measured?** Real health outcomes, or markers like blood levels?
+- **Relative or absolute risk?** From what, to what?
+- **Does it fit the wider evidence?** One surprising study rarely overturns decades of research.
+- **Who funded it, and who benefits** from the headline?
+- **Is someone selling something?** Especially be wary of miracle foods, detox claims and anything promising rapid results.
+
+=== reveal Which diet is best for losing weight: low-carb or low-fat?
+In a well-designed 2018 trial at Stanford called **DIETFITS**, over 600 adults were randomly assigned to a healthy low-fat or healthy low-carbohydrate diet for a year. On average, both groups lost similar amounts of weight, about 5–6 kilograms, with huge individual variation in both. Researchers had also tested whether certain genes or insulin levels predicted which diet would suit whom; they didn’t. Many other trials agree: for weight loss, the **specific ratio** of carbs to fat matters less than **total calories**, **food quality** and, above all, whether you can **stick to it**.
+
+=== keypoints
+- Nutrition evidence comes from **observational studies**, **randomised trials** and **mechanistic studies**; strong conclusions need agreement across them.
+- **Confounding** (like the **healthy user effect**) can make associations misleading.
+- Always ask about **absolute** risk, not just **relative** risk.
+- **Industry funding** can bias research; prefer **replicated** findings and **systematic reviews**.
+- Most supplements don’t help well-nourished people, but **B12**, **vitamin D**, **folic acid** and **iron** matter for specific groups.
+- For weight loss, **adherence** and **food quality** matter more than the exact diet type.
+
+=== why
+You will see a confident nutrition headline almost every week of your life, often contradicting last week’s. The skills in this lesson, spotting confounding, asking about absolute risk and checking the type of evidence, let you stay calm and make sensible choices. And they apply far beyond food: the same reasoning works for medicine, economics and any claim built on data.

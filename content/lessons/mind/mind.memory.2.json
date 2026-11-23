@@ -1,0 +1,97 @@
+{
+  "id": "mind.memory.2",
+  "region": "mind",
+  "topic": "memory",
+  "level": 2,
+  "prerequisites": [
+    "mind.memory.1"
+  ],
+  "title": "Learning How to Learn",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Ask students how they study and the most common answers are **rereading** notes and **highlighting** textbooks. Both feel productive. The pages become familiar, and familiarity feels like learning.\n\nIn 2013, a team of psychologists led by **John Dunlosky** reviewed hundreds of studies on ten popular study techniques. Rereading and highlighting were rated **low utility**: they help a little, or not at all, compared with the alternatives. The two techniques rated highest were ones most students rarely use on purpose: **testing yourself** and **spacing your study out over time**. The way most people learn is close to backwards."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The key insight from decades of learning research is this: **memories are strengthened by being retrieved, not by being reviewed.**\n\nEvery time you pull information out of memory, by answering a question, explaining an idea or solving a problem, you make it easier to retrieve next time. Simply looking at information again, as in rereading, does far less, because your brain doesn’t have to do any work. The effort of recalling is not a sign that learning is going badly; it’s often the very thing that makes learning work.\n\nResearchers call this kind of productive struggle a **desirable difficulty**, a term coined by the psychologist **Robert Bjork**. Methods that feel harder in the moment often produce stronger, longer-lasting learning."
+    },
+    {
+      "type": "text",
+      "heading": "Technique 1: retrieval practice",
+      "md": "In a well-known 2006 experiment, **Henry Roediger** and **Jeffrey Karpicke** had students read a short passage. Some then reread it several times. Others read it once and then practised **recalling** it from memory.\n\nTested five minutes later, the rereaders did slightly better. But tested a **week** later, the retrieval group remembered far more, roughly 60% of the material compared with about 40% for the rereaders. Interestingly, the rereaders had predicted they would do better.\n\nWays to practise retrieval:\n\n- Close the book and write down everything you remember, then check.\n- Use flashcards, with the question on one side, and try to answer before flipping.\n- Explain the idea out loud, or to a friend, without notes.\n- Do practice questions before you feel ready."
+    },
+    {
+      "type": "text",
+      "heading": "Technique 2: spacing",
+      "md": "Cramming, studying something intensively all at once, can get you through tomorrow’s test, but much of it fades quickly. Spreading the same amount of study over several sessions produces far better long-term memory. This **spacing effect** is one of the most reliable findings in psychology, documented since Ebbinghaus in the 1880s.\n\nThe ideal gap depends on how long you want to remember something. A useful rule of thumb: review shortly after learning, then after a few days, then after a week or two, then after a month or more, with each review coming as the memory starts to fade."
+    },
+    {
+      "type": "callout",
+      "tone": "example",
+      "title": "You’re already doing this",
+      "md": "The **Shadow Army** in this app is built on spacing and retrieval. Each topic you complete returns for a short recall at around **3, 10 and 30 days**, just as it starts to fade. The **Understanding Check** after each lesson, explaining the idea in your own words, is retrieval practice. The app isn’t just tracking your progress; it’s designed around how memory works."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a memory as a path through a forest. Rereading is like looking at a map of the path: helpful, but your feet haven’t learned the way. Retrieval is walking the path yourself. Spacing is walking it again just as the undergrowth starts to grow back, so each walk clears it more permanently."
+    },
+    {
+      "type": "text",
+      "heading": "Technique 3: interleaving",
+      "md": "When practising problems, most people do them in **blocks**: ten of type A, then ten of type B. **Interleaving** mixes them up: A, C, B, A, B, C.\n\nIt feels harder and slower, and people tend to think they’re learning less. But studies, for example with maths problems and even with learning to recognise different painters’ styles, show interleaving often leads to better results on later tests. The reason: mixing forces you to work out **which** approach fits each problem, which is exactly what you’ll need to do in real life."
+    },
+    {
+      "type": "text",
+      "heading": "Technique 4: elaboration and explanation",
+      "md": "Information sticks better when you connect it to what you already know. Ask yourself **why** and **how** questions: Why is this true? How does it relate to that other thing I learned? Can I think of an example from my own life?\n\nA popular version is often called the **Feynman technique**, after the physicist Richard Feynman, who was famous for explaining complex ideas simply:\n\n1. Pick a concept.\n2. Explain it in plain language, as if to a curious twelve-year-old.\n3. Notice where you get stuck or reach for jargon: those are the gaps in your understanding.\n4. Go back to the source, fill the gaps, and try again."
+    },
+    {
+      "type": "steps",
+      "title": "A study plan using the science",
+      "items": [
+        "**Day 1:** Learn the material, then immediately close it and write a summary from memory. Check and correct.",
+        "**Day 2 or 3:** Without looking, answer a few questions or explain the key ideas aloud. Review only what you missed.",
+        "**About a week later:** Mixed practice questions on this topic and earlier ones (interleaving).",
+        "**A few weeks later:** A quick self-test. If it’s easy, wait longer next time; if not, review and test again sooner.",
+        "**Throughout:** Ask why and how, connect ideas, and sleep well, especially after study sessions."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "caution",
+      "title": "The learning styles myth",
+      "md": "Many people believe they are “visual”, “auditory” or “kinaesthetic” learners and learn best when teaching matches their style. Surveys find most teachers in many countries believe this. But careful reviews, including a well-known 2008 analysis by Harold Pashler and colleagues, found **no good evidence** that matching teaching to a supposed learning style improves learning. People have preferences, but what works best usually depends on the **material**: maps are best shown visually, music heard, and skills practised physically, for everyone."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If these techniques work so well, why don’t more people use them?",
+      "md": "Because they **feel worse** in the moment. Rereading creates a smooth sense of familiarity, an **illusion of fluency**, that we mistake for mastery. Retrieval practice makes you confront what you don’t know, which feels uncomfortable. Spacing means you’ve partly forgotten things when you return, which feels like failure. Interleaving feels slow and confusing. Our in-the-moment feelings are poor judges of long-term learning. Knowing that is half the battle: when studying feels effortful in the right way, that’s usually a good sign."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Memories strengthen through **retrieval**, not re-exposure; rereading and highlighting are **low utility**.",
+        "**Desirable difficulties**: methods that feel harder often produce more durable learning.",
+        "**Retrieval practice** (self-testing) beat rereading in long-term tests in studies like **Roediger and Karpicke (2006)**.",
+        "**Spacing** reviews over time beats cramming.",
+        "**Interleaving** mixed problems helps you learn when to use which approach.",
+        "**Elaboration** and the **Feynman technique** reveal gaps by explaining simply.",
+        "**Learning styles** matching has no good evidence behind it."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "This may be the single most useful lesson in the app, because it improves how you learn everything else. Whether you’re studying for exams, learning a language, picking up a work skill or simply wanting to remember what you read, these techniques make the same effort go much further. And they’re free."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why does testing yourself work better than rereading, and how would you use spacing and retrieval to learn something you care about?"
+  }
+}
