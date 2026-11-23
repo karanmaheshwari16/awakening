@@ -1,0 +1,34 @@
+[
+  {
+    "id": "philosophy.gate.1",
+    "region": "philosophy",
+    "tier": 1,
+    "title": "The Viral Claim",
+    "question": "A viral post claims: \"A new study proves this supplement cures anxiety. Everyone I know who tried it feels better, and only people paid by drug companies disagree. Anyone who cares about their family will buy it.\" Using what you have learned about arguments, fallacies, cognitive biases, ethics and knowledge, take this claim apart. What would you need to know before believing it?",
+    "links": ["reasoning", "ethics", "knowledge", "free-will"],
+    "model_answer": "The post mixes weak evidence with several fallacies and emotional pressure.\n\nThe conclusion is that the supplement cures anxiety and that you should buy it. The premises are a single study, personal anecdotes and an attack on critics.\n\nOne study is a clue, not proof. I would want to know its design (was it a randomised controlled trial with a placebo group?), its size, whether it has been replicated, whether it was pre-registered and who funded it. \"Proves\" and \"cures\" overstate what any single study can show.\n\n\"Everyone I know feels better\" is anecdotal and vulnerable to selection effects, placebo effects, regression to the mean (people often seek help when symptoms peak, then naturally improve) and confirmation bias. Base rates matter too: anxiety often fluctuates on its own.\n\n\"Only people paid by drug companies disagree\" is an ad hominem: it attacks critics rather than their reasons, and it makes the claim unfalsifiable, since any disagreement can be dismissed.\n\n\"Anyone who cares about their family will buy it\" is an emotional appeal and a false choice: you can care deeply about your family and still be unconvinced. Ethically, selling health products using pressure and overstated claims risks real harm if people abandon treatments that work.\n\nBefore believing it I would look for systematic reviews, independent replications, absolute effect sizes compared with placebo, and the view of reputable health bodies.",
+    "key_points": [
+      "Identify conclusion and premises; a single study cannot \"prove\" a cure.",
+      "Ask about study design, size, replication, pre-registration and funding.",
+      "Anecdotes suffer from placebo, regression to the mean and confirmation bias.",
+      "\"Only paid shills disagree\" is ad hominem and makes the claim unfalsifiable.",
+      "Emotional pressure and false choice are manipulative; overclaiming health benefits can cause harm."
+    ]
+  },
+  {
+    "id": "philosophy.gate.2",
+    "region": "philosophy",
+    "tier": 2,
+    "title": "The Uploaded Mind",
+    "question": "Imagine a company offers to scan your brain and run a perfect digital copy of you that will live forever in a simulated paradise after you die. Drawing on what you have learned about consciousness, free will and the meaning of life, discuss whether this copy would be you, whether it would be conscious, and whether such a life would be meaningful.",
+    "links": ["consciousness", "free-will", "meaning", "knowledge"],
+    "model_answer": "Each part of this question touches a deep open problem.\n\nWould it be conscious? It depends on which theory of consciousness is right. Functionalist views like global workspace theory suggest a system that processes and broadcasts information in the right way could be conscious, so a perfect simulation might be. Integrated information theory suggests physical structure matters, and conventional computers might have very little integrated information, however human the copy behaves. The hard problem means we lack a test: the copy saying \"I feel alive\" would not prove it, just as a philosophical zombie would say the same. The problem of other minds becomes acute.\n\nWould it be you? A perfect copy would share your memories and personality, but if the scan does not destroy you, there would be two of you, which suggests the copy is a new person who resembles you rather than you continuing. Buddhist ideas of anatta might say there was never a fixed self to preserve in the first place.\n\nWould its choices be free? If the simulation is deterministic, compatibilists would say the copy could still act freely, on its own reasons and without coercion. Hard determinists would say it was no less free than you already are.\n\nWould the life be meaningful? Nozick's experience machine suggests many people value contact with reality, real relationships and real achievement, not just pleasant experiences, so a simulated paradise might lack something important. Existentialists might argue meaning depends on what the copy chooses and commits to, and Frankl might ask what it creates, whom it loves and how it faces difficulty. A paradise without challenge might struggle to offer meaning, even if it offered happiness.",
+    "key_points": [
+      "Whether the copy is conscious depends on contested theories (functionalism, global workspace, IIT); the hard problem leaves no test.",
+      "Behaviour and self-reports cannot prove consciousness (zombies, other minds).",
+      "A copy that coexists with you suggests a new person, not continuation; anatta questions a fixed self.",
+      "Compatibilism allows free choice even in a deterministic simulation.",
+      "The experience machine, existentialism and Frankl suggest meaning needs reality, commitment and challenge, not just pleasure."
+    ]
+  }
+]

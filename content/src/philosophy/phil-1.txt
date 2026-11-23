@@ -1,0 +1,319 @@
+##### LESSON
+id: philosophy.reasoning.2
+title: The Bugs in Our Thinking, and How to Patch Them
+minutes: 15
+prereq: philosophy.reasoning.1
+check: In your own words: what is base rate neglect, using the medical test example, and name two habits that can help you think more accurately?
+
+=== hook
+In a famous 1974 experiment, the psychologists **Amos Tversky** and **Daniel Kahneman** spun a rigged wheel of fortune in front of participants. It stopped on either **10** or **65**. They then asked: what percentage of African countries are members of the United Nations?
+
+The wheel was obviously random and had nothing to do with the question. Yet people who saw 10 gave a median estimate of **25%**; people who saw 65 gave **45%**. A meaningless number had dragged their judgement. This effect, called **anchoring**, is one of many systematic “bugs” researchers have found in human thinking. The good news: knowing about them gives you a chance to patch them.
+
+=== core
+In the previous lesson, you learned to evaluate arguments: checking premises, logic and common fallacies. But much of our thinking doesn’t happen through explicit arguments at all. It happens through fast, automatic intuitions.
+
+Kahneman, who won the Nobel Prize in Economics in 2002, popularised a useful way to describe this in his 2011 book *Thinking, Fast and Slow*:
+
+- **System 1** is fast, automatic, intuitive and effortless. It recognises faces, completes phrases and makes snap judgements.
+- **System 2** is slow, deliberate, effortful and logical. It does long division, weighs evidence and checks System 1’s work.
+
+System 1 is usually excellent, and we couldn’t function without it. But it relies on mental shortcuts, called **heuristics**, that sometimes produce predictable errors, called **cognitive biases**. And System 2 is lazy: it often accepts System 1’s answers without checking.
+
+=== callout analogy
+Think of System 1 as an autopilot and System 2 as the human pilot. The autopilot handles most of the flight smoothly and tirelessly. But in unusual conditions, it can make confident mistakes, and the pilot, half-asleep, may not notice. Good thinking means knowing when to take the controls.
+
+=== text A field guide to common biases
+**Anchoring**: initial numbers, even irrelevant ones, pull our estimates towards them. Salary negotiations, prices and estimates are all vulnerable.
+
+**Confirmation bias**: we seek and favour evidence that supports what we already believe, as you saw in the previous lesson.
+
+**Availability**: we judge likelihood by how easily examples come to mind, as you met in the Money region with risk.
+
+**Hindsight bias**: after something happens, we feel we “knew it all along”, which makes us overconfident in our ability to predict.
+
+**Overconfidence**: people tend to be more confident in their judgements than their accuracy justifies. When people say they’re “99% sure” of trivia answers, they’re often wrong far more than 1% of the time.
+
+**The Dunning–Kruger effect**: a 1999 study by David Dunning and Justin Kruger suggested that people with the least skill in an area tend to overestimate their ability the most. It’s widely cited, though some researchers argue part of the pattern is a statistical artefact; the general lesson, that it’s hard to judge your own competence in areas where you lack knowledge, remains useful.
+
+=== text The bug that fools even doctors: base rates
+One of the most consequential biases is **base rate neglect**: ignoring how common something is in the first place when interpreting new evidence.
+
+=== steps A medical test puzzle
+- A disease affects **1 in 1,000** people.
+- A test for it correctly detects the disease **99%** of the time when someone has it.
+- But it also gives a **false positive** for **5%** of healthy people.
+- You test positive. What’s the chance you actually have the disease? Many people, including many doctors in studies, guess around 95%.
+- Imagine testing **100,000** people. About **100** have the disease, and the test catches about **99** of them.
+- Of the **99,900** healthy people, 5% test positive anyway: about **4,995** false positives.
+- So of roughly **5,094** positive results, only **99** are real. The chance you have the disease is about **2%**, not 95%.
+- Because the disease is rare, false positives vastly outnumber true positives. This is why doctors often confirm a positive screening result with a second, different test.
+
+=== text Thinking like a Bayesian
+The medical test puzzle illustrates **Bayesian reasoning**, named after the 18th-century English minister and mathematician **Thomas Bayes**. The core idea:
+
+1. Start with a **prior**: how likely something was before the new evidence, such as the base rate.
+2. Consider how strongly the **new evidence** points one way or the other.
+3. **Update** your belief in proportion to the strength of the evidence.
+
+Strong evidence should move you a lot; weak evidence a little. And extraordinary claims, which have low priors, need extraordinary evidence. You don’t need to do the maths every time; the habit of asking “how likely was this before I saw the evidence, and how strong is this evidence really?” is powerful on its own.
+
+=== text Can people learn to think better? Superforecasters
+In **2011**, a US intelligence research agency launched a forecasting tournament, asking thousands of volunteers to predict world events, such as elections, conflicts and economic indicators. A team led by the psychologist **Philip Tetlock**, called the **Good Judgment Project**, won convincingly.
+
+Tetlock found that a small group of ordinary people, whom he called **superforecasters**, made strikingly accurate predictions, reportedly outperforming some professional analysts with access to classified information. They weren’t geniuses, but they shared habits: breaking problems into parts, starting from base rates, updating frequently in small steps, seeking out opposing views, and keeping score of their accuracy. Importantly, forecasting skill **improved with training and practice**.
+
+=== steps Practical habits for clearer thinking
+- **Consider the opposite.** Before deciding, ask: what would make me wrong? What would someone who disagrees say?
+- **Steelman, don’t straw-man.** Restate opposing views in their strongest form before responding.
+- **Start with base rates.** Before judging a specific case, ask how often this kind of thing usually happens.
+- **Think in probabilities**, not certainties. “About 70% likely” is more honest, and more useful, than “definitely”.
+- **Slow down for important decisions**, especially when emotions run high or numbers are involved.
+- **Keep score.** Write down predictions and check them later. Nothing reveals overconfidence like a track record.
+
+=== reveal If we know about these biases, doesn’t that make us immune?
+Unfortunately, no. Research suggests that simply knowing about biases provides limited protection, and people readily spot biases in others while missing them in themselves, a pattern the psychologist **Emily Pronin** called the **bias blind spot**. Even Kahneman said that decades of studying biases hadn’t made his own intuitions much better. What helps more are **systems and habits**: checklists, seeking outside views, deliberately considering alternatives, structured decision processes and environments where people can challenge each other. Thinking well is less about individual brilliance and more about good procedures.
+
+=== keypoints
+- **System 1** is fast and intuitive; **System 2** is slow and deliberate; heuristics can cause **cognitive biases**.
+- **Anchoring** pulls estimates towards initial numbers, even irrelevant ones (Tversky and Kahneman, 1974).
+- Other biases include **confirmation bias**, **availability**, **hindsight bias** and **overconfidence**.
+- **Base rate neglect**: with a rare disease, most positive test results can be **false positives**.
+- **Bayesian reasoning**: start with a prior, then update in proportion to the strength of evidence.
+- **Superforecasters** (Tetlock) improved accuracy through habits like using base rates and updating often.
+- Knowing about biases isn’t enough; **systems and habits** help more.
+
+=== why
+Every important decision you make, about health, money, relationships or politics, passes through these mental shortcuts. You’ll never eliminate biases, but understanding them and building better habits can make your judgements noticeably more accurate. These tools also connect to the Math region’s lessons on probability and statistics, and to the next lessons on ethics and knowledge.
+
+##### LESSON
+id: philosophy.ethics.1
+title: What Makes an Action Right?
+minutes: 15
+check: In your own words: how would a consequentialist, a Kantian and a virtue ethicist each approach a moral decision, and what does the trolley problem reveal about our intuitions?
+
+=== hook
+A runaway tram is speeding towards **five** people tied to the track. You’re standing next to a lever. If you pull it, the tram will switch to a side track, where it will kill **one** person instead. Do you pull the lever?
+
+Most people say yes: one death is better than five. Now imagine a different version. You’re on a footbridge above the track, next to a large stranger. The only way to stop the tram is to push him onto the track; his body would stop it, saving the five. Most people say **no**, even though the numbers are identical. Why? This puzzle, the **trolley problem**, introduced by the philosopher **Philippa Foot** in **1967** and developed by **Judith Jarvis Thomson**, opens a window into the deepest question in ethics: what makes an action right or wrong?
+
+=== core
+**Ethics**, or moral philosophy, is the study of how we ought to live and act: what’s right and wrong, good and bad, and why. Philosophers across many cultures have developed theories to answer these questions systematically. Three major families of Western ethical theory dominate discussion today, alongside rich traditions from other cultures:
+
+1. **Consequentialism**: judge actions by their **outcomes**.
+2. **Deontology**: judge actions by whether they follow moral **duties or rules**.
+3. **Virtue ethics**: focus on **character**: what kind of person you should be.
+
+Each captures something important about morality, and each faces serious objections.
+
+=== text Consequentialism: the best outcome
+**Consequentialism** holds that the right action is the one that produces the best consequences. Its most famous form is **utilitarianism**, developed by the English philosophers **Jeremy Bentham** (writing in 1789) and **John Stuart Mill** (in 1863). Bentham argued that we should aim for the greatest happiness of the greatest number, counting everyone’s happiness and suffering equally.
+
+Utilitarianism is appealing because it’s impartial and practical: it asks us to make the world better. It explains pulling the lever in the trolley problem: five lives saved outweigh one lost.
+
+But it faces hard objections. It seems to permit terrible acts if they produce better overall outcomes, like pushing the man off the bridge, or framing an innocent person to calm a violent mob. Critics say it ignores **rights**, **justice** and the **separateness of persons**.
+
+=== text Deontology: duties and rights
+**Deontology** (from the Greek for “duty”) holds that some actions are right or wrong in themselves, regardless of consequences. Its most influential thinker is the German philosopher **Immanuel Kant**, writing in **1785**.
+
+Kant proposed the **categorical imperative**, a supreme moral principle that he formulated in different ways, including:
+
+- **Universalise it**: act only on principles you could will to become universal laws for everyone. Could everyone lie whenever convenient? Then trust, and lying itself, would collapse. So lying is wrong.
+- **Respect persons**: treat humanity, whether in yourself or others, always as an end in itself, never **merely** as a means to an end.
+
+This explains the footbridge intuition: pushing the man uses him merely as a tool to save others, violating his dignity. Deontology underpins the modern idea of **human rights**.
+
+Critics point to rigid conclusions: Kant argued you shouldn’t lie even to a murderer asking where your friend is hiding, which most people find absurd. And when duties conflict, deontology struggles to say which wins.
+
+=== text Virtue ethics: being a good person
+**Virtue ethics**, developed by the ancient Greek philosopher **Aristotle** in the 4th century BCE, asks a different question: not “what should I do?” but “**what kind of person should I be?**”
+
+Virtues are good character traits, like courage, honesty, generosity, justice and practical wisdom, developed through practice until they become habits. Aristotle argued that many virtues lie at a **mean** between extremes: courage between cowardice and recklessness, generosity between stinginess and extravagance. The goal is **eudaimonia**, often translated as flourishing: living well as a human being.
+
+Similar ideas appear in **Confucian ethics**, developed in China from the 5th century BCE, which emphasises cultivating virtues like **ren** (humaneness or benevolence) and **li** (proper conduct and ritual), and the importance of relationships and roles in families and society.
+
+Critics argue virtue ethics gives little concrete guidance in hard cases: “do what a virtuous person would do” doesn’t settle the trolley problem.
+
+=== callout analogy
+Imagine three advisers helping you decide whether to tell a hard truth. The **consequentialist** asks: which choice leads to the best results for everyone affected? The **deontologist** asks: what is my duty here, and am I respecting this person’s dignity and right to know? The **virtue ethicist** asks: what would an honest, kind and wise person do? Often all three agree. The hardest moral dilemmas are where they don’t.
+
+=== text Ethics in Indian traditions
+Indian philosophical traditions offer their own rich ethical frameworks:
+
+- **Dharma**: a central concept in Hinduism, Buddhism and Jainism, with meanings including duty, righteousness and the moral order. In the **Bhagavad Gita**, Krishna counsels Arjuna to fulfil his duty as a warrior while acting without attachment to the fruits of action, a teaching later interpreted in many ways, from duty-based ethics to non-violent action.
+- **Ahimsa**: non-violence or non-harm towards all living beings, central to **Jainism** and important in Buddhism and Hinduism. **Mahatma Gandhi** made it the foundation of his political struggle, influencing civil rights movements worldwide.
+- **Karma**: the idea that actions have moral consequences that shape one’s future, in this life or beyond.
+- **Buddhist ethics** emphasises reducing suffering, compassion (**karuna**) and the **Noble Eightfold Path**, including right speech, right action and right livelihood.
+
+=== reveal Do people in different cultures solve the trolley problem differently?
+In **2018**, researchers at MIT published results from the **Moral Machine** experiment, an online game asking people how self-driving cars should act in unavoidable accidents. They gathered around **40 million** decisions from people in **233** countries and territories. Some preferences were broadly shared everywhere, like sparing more lives and sparing humans over animals. But there were notable cultural differences: for example, participants from some Eastern cultures showed a weaker preference for sparing the young over the old than participants from many Western countries. The findings raise a hard question for technology: whose moral intuitions should be programmed into machines?
+
+=== keypoints
+- **Ethics** asks how we ought to live and act.
+- **Consequentialism** (utilitarianism: **Bentham**, **Mill**) judges actions by outcomes: the greatest good for the greatest number.
+- **Deontology** (**Kant**) judges actions by duties: universalise your principles and treat people never merely as means.
+- **Virtue ethics** (**Aristotle**, and similarly **Confucius**) focuses on character and flourishing (**eudaimonia**).
+- The **trolley problem** shows our intuitions don’t follow one theory consistently.
+- Indian traditions contribute concepts like **dharma**, **ahimsa** and **karma**.
+- The **Moral Machine** study found both shared and culturally varied moral preferences.
+
+=== why
+You make moral choices every day, about honesty, fairness, loyalty and how to treat others. Ethical theories don’t give automatic answers, but they give you tools to reason more clearly, understand people who disagree with you and notice when your intuitions conflict. The next lesson applies these ideas to some of the hardest real-world moral questions.
+
+##### LESSON
+id: philosophy.ethics.2
+title: Hard Moral Questions in the Real World
+minutes: 15
+prereq: philosophy.ethics.1
+check: In your own words: what is Peter Singer’s drowning child argument, what is Rawls’s veil of ignorance, and why might people with different moral foundations disagree about politics?
+
+=== hook
+Imagine you’re walking past a shallow pond and see a small child drowning. You could easily wade in and save them, but you’d ruin your expensive new shoes. Should you save the child? Of course, almost everyone says. The shoes don’t matter.
+
+In **1972**, the Australian philosopher **Peter Singer** used this scenario to make an unsettling argument. If you would sacrifice your shoes to save a child in front of you, why not give a similar amount of money to save a child dying of preventable causes far away? Distance, he argued, doesn’t change the moral situation. He wrote the essay, *Famine, Affluence, and Morality*, in response to the humanitarian crisis in East Bengal (now Bangladesh) in 1971, when millions of refugees faced starvation and disease.
+
+=== core
+In the previous lesson, you met the major ethical theories. **Applied ethics** uses them to tackle concrete moral questions: about poverty, animals, medicine, technology, the environment and justice. These questions rarely have easy answers, and thoughtful people disagree. But careful reasoning can clarify what’s at stake and expose inconsistencies in our views.
+
+This lesson explores a few of the most influential arguments.
+
+=== text Singer’s argument and its critics
+Singer’s argument runs roughly like this:
+
+1. Suffering and death from lack of food, shelter and medical care are bad.
+2. If we can prevent something bad without sacrificing anything of comparable moral importance, we ought to do it.
+3. Many people in wealthy situations can prevent such suffering by donating money, without sacrificing anything comparably important.
+4. Therefore, they ought to donate, and failing to do so is morally wrong, not merely less generous.
+
+The argument helped inspire the **effective altruism** movement, which encourages people to use evidence to find the ways of helping others that do the most good, such as charities that distribute anti-malaria bed nets or deworming treatments.
+
+Critics respond in several ways. Some argue morality allows us to give special priority to our families, communities and our own life projects. Others argue that charity can’t substitute for political and structural change, or that outsiders may misjudge what communities actually need. The effective altruism movement itself has faced criticism, including after financial scandals involving prominent supporters. But Singer’s challenge remains hard to dismiss: if you agree with saving the drowning child, what explains the difference?
+
+=== text Who counts? The expanding moral circle
+**Jeremy Bentham** wrote in 1789 that the question about animals is not “Can they reason?” nor “Can they talk?” but “**Can they suffer?**” If suffering matters morally, he argued, then animal suffering matters too.
+
+Peter Singer developed this idea in *Animal Liberation* (1975), arguing that giving less weight to animals’ suffering simply because they belong to another species, which he called **speciesism**, is a prejudice similar in structure to racism or sexism. Similar concern for animals has ancient roots in Indian traditions, especially **Jainism**, whose commitment to **ahimsa** extends to the smallest living beings.
+
+Philosophers describe moral history partly as an **expanding moral circle**: the range of beings whose interests are taken seriously has widened over time, from one’s own tribe to other nations, races and, for many, to animals. The abolition of slavery is often cited as a clear case of moral progress, although it came only after centuries of resistance, and its legacy persists.
+
+=== callout analogy
+Think of the moral circle as a ring of light around a campfire. Long ago, the light reached only family and close allies; everyone beyond was in darkness, their suffering barely seen. Moral arguments, experiences and movements have repeatedly pushed the light further out. Debates about animals, future generations and possibly artificial minds are arguments about how far the light should reach.
+
+=== text Justice: the veil of ignorance
+How should a fair society distribute wealth, opportunities and rights? In **1971**, the American philosopher **John Rawls** proposed a famous thought experiment in *A Theory of Justice*.
+
+Imagine designing the rules of society from behind a **veil of ignorance**: you don’t know who you’ll be in that society. You might be rich or poor, talented or not, from any background, healthy or disabled. What rules would you choose?
+
+Rawls argued that rational people behind the veil would choose:
+
+1. **Equal basic liberties** for everyone, such as freedom of speech, conscience and political participation.
+2. Social and economic inequalities only if they benefit the **least advantaged** members of society (the **difference principle**), and if positions are open to all under fair equality of opportunity.
+
+Rawls’s work became one of the most influential in modern political philosophy. Critics like **Robert Nozick** argued in 1974 that justice is about how wealth was acquired and exchanged, through fair processes, not about matching a pattern of distribution, and that redistribution can violate people’s rights to what they’ve earned.
+
+=== steps Try the veil of ignorance yourself
+- Pick a policy question, such as how healthcare should be funded.
+- Imagine you don’t know whether you’ll be born rich or poor, healthy or with a chronic illness, in a city or a village.
+- Ask: which system would I want, knowing I could end up in **any** position?
+- Notice how your answer may differ from what you’d choose if you knew your actual situation.
+- The exercise doesn’t settle every question, since people disagree about how much risk they’d accept, but it helps separate fairness from self-interest.
+
+=== text Why we disagree: moral foundations
+The social psychologist **Jonathan Haidt** and colleagues developed **moral foundations theory** to explain why people disagree so deeply about morality and politics. They propose that human moral intuitions rest on several foundations, including:
+
+- **Care**: concern about harm and suffering.
+- **Fairness**: concern about justice, cheating and proportionality.
+- **Loyalty**: commitment to one’s group.
+- **Authority**: respect for tradition and legitimate hierarchy.
+- **Sanctity**: concern with purity and the sacred.
+- **Liberty**: resistance to domination and oppression.
+
+Haidt’s research suggests that people across the political spectrum weigh these foundations differently, which helps explain why opponents often talk past each other. The theory is debated, but it offers a useful insight: people who disagree with you about morality are usually not simply immoral; they may be weighting genuine moral concerns differently.
+
+=== reveal Is morality just relative to culture, so that no one can say any practice is wrong?
+This view, called **moral relativism**, contains an important insight: moral practices differ across cultures, and we should be humble about judging unfamiliar customs. But most philosophers reject strong relativism. If morality were purely relative, then no culture could ever be criticised, including for slavery or genocide, and reformers within a culture, like those who campaigned against untouchability or for women’s rights, would by definition be wrong simply for disagreeing with their society. Many philosophers instead hold that while some moral questions allow reasonable variation, others, such as prohibitions on gratuitous cruelty, have strong claims to universal validity.
+
+=== keypoints
+- **Applied ethics** uses moral theories to address real-world questions.
+- **Singer’s drowning child** argument (1972) claims distance doesn’t reduce our duty to prevent suffering; it inspired **effective altruism**.
+- **Bentham** and **Singer** argued animal suffering matters; **Jainism** extends **ahimsa** to all living beings.
+- The **moral circle** has expanded over history; abolition of slavery is a key example of moral progress.
+- **Rawls’s veil of ignorance** (1971) asks what rules we’d choose not knowing our place in society; **Nozick** offered a rights-based alternative.
+- **Moral foundations theory** (Haidt) suggests people weigh care, fairness, loyalty, authority, sanctity and liberty differently.
+- Most philosophers reject strong **moral relativism**.
+
+=== why
+Some of the most important choices you’ll make, about giving, consumption, voting and how you treat others, involve exactly these questions. Applied ethics doesn’t hand you answers, but it helps you reason clearly, notice inconsistencies and understand people who reach different conclusions. That’s essential for living well in a diverse society.
+
+##### LESSON
+id: philosophy.knowledge.1
+title: What Can We Really Know?
+minutes: 15
+check: In your own words: what is the classic definition of knowledge as justified true belief, and how do Gettier cases challenge it? What did Descartes think he could know for certain?
+
+=== hook
+In **1963**, an American philosopher named **Edmund Gettier** published a paper only about **three pages** long. It became one of the most famous papers in modern philosophy.
+
+For more than two thousand years, many philosophers had accepted a simple definition of knowledge, traced back to Plato: to know something is to have a **justified true belief**. Gettier offered a few short examples showing that someone can have a justified true belief and **still** not know. Philosophers have argued about how to fix the definition ever since, and still haven’t agreed. Something as basic as “what does it mean to know?” turns out to be remarkably hard to pin down.
+
+=== core
+**Epistemology** (from the Greek *episteme*, knowledge) is the branch of philosophy that studies knowledge: what it is, how we get it, how far it extends and how we can tell knowledge from mere opinion.
+
+It matters because we constantly rely on claims about the world: from news reports and doctors to textbooks and our own senses. Epistemology asks what justifies trusting any of them.
+
+=== text Knowledge as justified true belief
+In Plato’s dialogue *Theaetetus*, Socrates explores the idea that knowledge is true belief with an account, or justification. This gives three conditions for knowing something:
+
+1. **Belief**: you must believe it. You can’t know something you don’t believe.
+2. **Truth**: it must actually be true. You can believe the Earth is flat, but you can’t **know** it, because it isn’t.
+3. **Justification**: you must have good reasons for believing it. A lucky guess that happens to be right isn’t knowledge.
+
+This definition seems sensible. Gettier showed it’s incomplete.
+
+=== steps A Gettier case
+- You look at the clock in the hall. It says **3:00**, so you believe it’s 3 o’clock.
+- Your belief is **justified**: the clock has always been reliable, and you have no reason to doubt it.
+- Your belief is **true**: it really is exactly 3 o’clock.
+- But, unknown to you, the clock **stopped** exactly twelve hours ago. You just happened to look at it at the one moment it was right.
+- You have a justified, true belief. But do you **know** it’s 3 o’clock? Most people feel you don’t: you were lucky.
+- (This stopped-clock example was described by Bertrand Russell even before Gettier. Similar puzzles appear much earlier too: the 8th-century Indian philosopher Dharmottara described a traveller who sees what looks like water on the horizon, which is really a mirage, yet when he reaches the spot, there happens to be water under a rock.)
+
+=== text Can we doubt everything?
+In **1641**, the French philosopher **René Descartes** set out to find a foundation for knowledge that couldn’t be doubted. He decided to doubt everything he possibly could.
+
+- His **senses** sometimes deceive him, so he can’t fully trust them.
+- He could be **dreaming**: dreams can feel completely real.
+- Perhaps an all-powerful **evil demon** is deceiving him about everything, even mathematics.
+
+But one thing survived: even if he is being deceived, there must be someone doing the doubting. “**I think, therefore I am**” (in Latin, *cogito, ergo sum*). His own existence as a thinking thing was certain. From this foundation, Descartes tried to rebuild knowledge, though many later philosophers found his rebuilding less convincing than his doubt.
+
+=== callout analogy
+Descartes’ approach is like having a basket of apples, some of which might be rotten, but you can’t tell which. The safest strategy is to tip them all out, examine each one carefully, and only put back the ones you’re certain are sound. Descartes tipped out all his beliefs and found that only one, his own thinking existence, passed the test with absolute certainty.
+
+=== text A modern version: the brain in a vat
+Philosophers have updated Descartes’ evil demon. Suppose a scientist removed your brain, kept it alive in a vat of nutrients and connected it to a supercomputer feeding it perfectly realistic signals. You would experience an ordinary life, with no way of telling the difference. How could you prove you’re **not** a brain in a vat?
+
+This **sceptical** challenge, made famous by the film *The Matrix*, suggests that certain knowledge of the external world may be impossible. Philosophers respond in various ways: some argue we don’t need certainty for knowledge, only good reasons; others argue the sceptical scenario is incoherent or that ordinary knowledge is more secure than abstract philosophical doubts.
+
+=== text Where does knowledge come from?
+Two great traditions debated the sources of knowledge in early modern Europe:
+
+- **Rationalists**, like Descartes, argued that some knowledge comes from **reason** alone, independent of experience, such as mathematics and logic.
+- **Empiricists**, like **John Locke** and **David Hume**, argued that all knowledge ultimately comes from **experience** through the senses. Locke described the mind at birth as a blank slate.
+
+Indian philosophy developed its own detailed theories of knowledge. The **Nyaya** school recognised four **pramanas**, or valid sources of knowledge: **perception** (pratyaksha), **inference** (anumana), **comparison** or analogy (upamana) and reliable **testimony** (shabda). Different schools accepted different pramanas; the materialist **Charvaka** school famously accepted only perception, rejecting inference about anything beyond experience.
+
+=== reveal Most of what you know, you never checked yourself. Is that really knowledge?
+You know the Earth orbits the Sun, that Australia exists and that your blood contains cells, yet you’ve probably never verified any of these yourself. You rely on **testimony**: teachers, books, experts and other people. Philosophers increasingly recognise that **trust** in reliable testimony is an essential and legitimate source of knowledge, as the Nyaya philosophers argued long ago. Without it, each of us would know very little. The challenge is learning **whom** to trust: judging expertise, track records, independence and whether sources have reasons to mislead. That’s a skill explored in the next lesson on scientific knowledge.
+
+=== keypoints
+- **Epistemology** studies what knowledge is, how we get it and how far it extends.
+- The classic definition, from **Plato**, treats knowledge as **justified true belief**.
+- **Gettier (1963)** showed you can have a justified true belief by luck without knowing; similar puzzles appear earlier, including from **Dharmottara**.
+- **Descartes (1641)** doubted everything and found certainty only in “**I think, therefore I am**”.
+- **Sceptical** scenarios, like the **brain in a vat**, challenge certainty about the external world.
+- **Rationalists** emphasise reason; **empiricists** emphasise experience; **Nyaya** recognises four **pramanas**.
+- Much of our knowledge rests on **testimony**, making the question of **whom to trust** central.
+
+=== why
+In an age of information overload, misinformation and conflicting experts, questions about what we can know and whom we can trust are deeply practical. Epistemology gives you tools to think carefully about your own beliefs: how strong your reasons are, where certainty is possible and where humility is wiser. Next, you’ll see how science tackles these questions in practice.

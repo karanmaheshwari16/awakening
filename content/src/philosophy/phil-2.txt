@@ -1,0 +1,286 @@
+##### LESSON
+id: philosophy.knowledge.2
+title: How Science Knows
+minutes: 15
+check: In your own words: what is the problem of induction, what did Karl Popper mean by falsifiability, and what was the replication crisis?
+
+=== hook
+In **2015**, a team of 270 researchers called the **Open Science Collaboration** published the results of an ambitious project. They had tried to repeat **100** studies published in leading psychology journals, following the original methods as closely as possible.
+
+Only around **36 to 39%** of the replications produced clearly significant results like the originals, depending on the measure used, and the effects found were, on average, about half as strong. It was a shock to the field. If science is our most reliable way of knowing, how could so many published findings fail to hold up? The answer reveals both the weaknesses of science and, crucially, its greatest strength: it can find and correct its own mistakes.
+
+=== core
+Science is a set of methods for learning about the natural world by testing ideas against **evidence**. But philosophers have long asked how science actually justifies its conclusions, and what makes something science rather than pseudoscience.
+
+This branch of philosophy is called the **philosophy of science**. Its questions sound abstract but matter enormously: they shape how we judge medical treatments, climate projections, nutrition advice and claims made by experts and non-experts alike.
+
+=== text The problem of induction
+Much of science relies on **induction**: drawing general conclusions from specific observations. Every swan Europeans had seen was white, so they concluded all swans are white, until they reached Australia and found black swans.
+
+In **1748**, the Scottish philosopher **David Hume** pointed out a deep problem. No number of observations can **logically prove** a general rule. Why do we expect the future to resemble the past? Because, in the past, the future has resembled the past. But that reasoning is circular: it assumes what it tries to prove.
+
+Hume concluded that our reliance on induction is a matter of habit and custom, not strict logic. Philosophers still debate how to respond. Most accept that induction can’t give certainty, but argue it can give strong, ever-improving **probability**, which is all science claims.
+
+=== text Popper: science as bold guesses and tests
+The Austrian-British philosopher **Karl Popper**, writing in the 1930s, proposed a famous answer. Science, he argued, doesn’t prove theories true. Instead, it proposes bold **conjectures** and tries hard to **refute** them.
+
+The key test of whether a theory is scientific is **falsifiability**: does it make predictions that could, in principle, turn out to be **wrong**? A theory that rules nothing out, that can explain any possible observation, isn’t scientific.
+
+Popper was struck by the contrast between **Einstein’s** theory of relativity, which made a risky prediction about starlight bending in the 1919 eclipse that could have failed, and theories like **astrology**, or some forms of psychoanalysis and Marxist history, which he felt could be stretched to fit any outcome after the fact. A theory that survives many serious attempts to refute it earns our confidence, but always provisionally.
+
+=== callout analogy
+Think of a scientific theory as a bridge that engineers keep trying to break. They drive heavier and heavier trucks across it, test it in storms and look for cracks. Each test it survives makes us more confident it’s sound, but never certain. A “theory” that can’t be tested at all is like a bridge no one is allowed to drive on: it might be fine, but we’ll never know.
+
+=== text Kuhn: paradigms and revolutions
+In **1962**, the American historian and philosopher **Thomas Kuhn** published *The Structure of Scientific Revolutions*, offering a different picture based on how science has actually worked historically.
+
+Kuhn argued that most science is **normal science**: researchers work within a shared framework, or **paradigm**, of accepted theories, methods and questions, solving puzzles rather than questioning the foundations. Anomalies, results that don’t fit, are often set aside at first. But when anomalies pile up, a **crisis** develops, and eventually a new paradigm may replace the old one in a **scientific revolution**, like the shift from an Earth-centred to a Sun-centred universe, or from Newton’s physics to Einstein’s.
+
+You’ve seen examples in this app: plate tectonics, rejected for decades after Wegener proposed continental drift, then rapidly accepted once seafloor evidence accumulated. Kuhn’s ideas showed that science is a human, social activity, though critics worried he made it sound less rational than it is.
+
+=== text Why studies fail to replicate
+The replication crisis affected psychology, medicine, economics and other fields. Researchers identified several causes:
+
+- **Publication bias**: journals have historically preferred exciting, positive results. Studies finding “no effect” often went unpublished, so the published record overstated real effects.
+- **Small samples**: small studies are more likely to produce flukes, both false positives and exaggerated effects.
+- **P-hacking**: trying many different analyses, or stopping data collection at convenient moments, until a statistically significant result appears, often without realising it distorts the findings.
+- **Incentives**: careers depend on publishing novel, positive results, not on careful replications.
+
+Science has responded with reforms: **pre-registration** (publicly recording the plan for a study before collecting data), larger samples, sharing data openly, publishing replications and null results, and collaborative multi-lab studies.
+
+=== steps How to weigh a scientific claim
+- **One study is a clue, not a conclusion.** Look for replication and for **systematic reviews** combining many studies.
+- **Check the design.** Randomised experiments are stronger than observational studies for showing cause and effect.
+- **Check the size.** Larger, well-designed studies are more reliable than small ones.
+- **Look for scientific consensus**, built from many lines of evidence and independent groups, such as on human-caused climate change or vaccine safety.
+- **Beware cherry-picking**: selecting the few studies that support a view while ignoring the many that don’t.
+- **Distinguish uncertainty from ignorance.** Scientists acknowledging uncertainty is a sign of honesty, not a sign that “nobody knows anything”.
+
+=== reveal If science sometimes gets things wrong, why should we trust it more than other sources?
+Because science’s distinctive strength isn’t that individual scientists are always right, but that the **system** is designed to catch and correct errors over time: through testing, peer scrutiny, replication, competition between researchers and openness to new evidence. The replication crisis itself was uncovered by scientists applying scientific methods to their own field. Few other ways of knowing have such built-in mechanisms for self-correction. This doesn’t mean every scientific claim is equally reliable; a long-established consensus supported by many independent lines of evidence deserves far more confidence than a single new study reported in a headline.
+
+=== keypoints
+- **Hume (1748)**: no number of observations can logically prove a general rule: the **problem of induction**.
+- **Popper**: scientific theories must be **falsifiable**; science advances by bold conjectures and attempted refutations.
+- **Kuhn (1962)**: science works within **paradigms**, punctuated by **scientific revolutions**.
+- The **replication crisis**: many published findings, notably in psychology, failed to replicate (around **36–39%** replicated in a 2015 project).
+- Causes include **publication bias**, **small samples**, **p-hacking** and career **incentives**; reforms include **pre-registration** and open data.
+- Weigh claims by **replication**, **study design**, **size** and **consensus**.
+
+=== why
+You’ll constantly encounter claims backed by “studies” and “science”, some solid, some shaky, some misleading. Understanding how science really works, including its flaws and its self-correcting strength, lets you trust it appropriately: neither blindly nor cynically. That’s one of the most important skills for navigating a world full of competing claims.
+
+##### LESSON
+id: philosophy.free-will.1
+title: Do We Have Free Will?
+minutes: 15
+check: In your own words: what is determinism, and how do libertarians, hard determinists and compatibilists each respond to it?
+
+=== hook
+In **1814**, the French mathematician **Pierre-Simon Laplace** imagined an intellect so vast that it knew the exact position and motion of every particle in the universe, along with all the laws of nature. For such a being, he wrote, nothing would be uncertain: the future, just like the past, would be present before its eyes.
+
+Laplace’s imaginary intellect, later nicknamed **Laplace’s demon**, raises an unsettling question. If everything that happens, including every thought in your brain, follows from prior causes according to the laws of physics, then was your decision to read this lesson already fixed before you were born? And if so, in what sense did you choose it?
+
+=== core
+The **problem of free will** is one of philosophy’s oldest puzzles. It arises from a clash between two things many people believe:
+
+1. **We make free choices**, and are responsible for them. We praise, blame, reward and punish people on that basis.
+2. **Everything has a cause.** The universe, including our brains, seems to follow natural laws.
+
+**Determinism** is the view that every event, including every human decision, is fully determined by prior events and the laws of nature. If determinism is true, then given the exact state of the universe a million years ago, everything you do today was inevitable.
+
+The central question: **is free will compatible with determinism?**
+
+=== text Three main positions
+**Libertarianism** (in this philosophical sense, unrelated to the political ideology) holds that we do have free will, and that it’s **incompatible** with determinism, so determinism must be false, at least for human choices. On this view, when you choose, you could genuinely have done otherwise, given exactly the same past. Some libertarians believe the mind or self can cause actions in a way that isn’t fully determined by physical causes.
+
+**Hard determinism** agrees that free will is incompatible with determinism, but concludes that since determinism (or something close to it) is true, **free will is an illusion**. Our sense of choosing is real as an experience, but our choices are products of causes we didn’t choose: genes, upbringing, circumstances and brain chemistry.
+
+**Compatibilism** argues that free will and determinism **can coexist**. The key is to define free will properly. Being free doesn’t mean being uncaused; it means acting according to your own desires, reasons and character, without being coerced or manipulated. If you choose tea because you prefer it, and nobody forces you, you chose freely, even if your preference had causes. Philosophers like **David Hume** defended versions of this view.
+
+=== callout analogy
+Imagine water flowing down a hillside. A hard determinist says the water had no choice: gravity and the shape of the land dictated its path. A compatibilist replies: yes, but a person is not like water. A person can reflect, weigh reasons, and change course in response to arguments. That capacity, even if it has causes, is exactly what we mean by free will. A libertarian adds: and at the moment of decision, the path is genuinely open.
+
+=== text What do philosophers actually believe?
+In a large **2020** survey of professional philosophers, the **PhilPapers survey**, the most common view was **compatibilism**, accepted or leaning towards by around **59%** of respondents. Smaller groups favoured libertarianism and the view that there is no free will. The question remains open, but most professional philosophers think some meaningful kind of free will survives even if determinism is true.
+
+=== text Does quantum physics rescue free will?
+Some people hope that **quantum physics** solves the problem. At the scale of atoms and particles, physics appears to involve genuine randomness: some events seem not to be fully determined by prior causes.
+
+But most philosophers argue that randomness doesn’t help. If your decisions were the result of random quantum events in your brain, they wouldn’t be **yours** in any meaningful sense; they’d be like the roll of a dice. Free will seems to require that your choices flow from **you**, your reasons and character, not from either rigid determination or pure chance. That’s part of why the problem is so hard.
+
+=== steps Frankfurt’s clever thought experiment
+- Many people think free will requires being able to **do otherwise**. In **1969**, the American philosopher **Harry Frankfurt** challenged this with a thought experiment.
+- Imagine a neuroscientist, Black, has secretly implanted a device in Jones’s brain. Black wants Jones to vote for a particular candidate.
+- If Jones starts to decide to vote for someone else, the device will activate and force him to vote for Black’s candidate.
+- But Jones decides, entirely on his own reasoning, to vote for that candidate anyway. The device never activates.
+- Jones couldn’t have done otherwise, since the device would have stopped him. Yet he seems fully responsible for his choice, because he made it for his own reasons.
+- Frankfurt concluded that moral responsibility may not require the ability to do otherwise, which supports compatibilism. Philosophers have debated these **Frankfurt cases** ever since.
+
+=== text Free will in Indian thought
+Indian traditions have long wrestled with related questions. The doctrine of **karma** holds that actions have consequences that shape one’s future, which seems to presuppose meaningful choice, while also suggesting that present circumstances are shaped by past actions. Different schools balanced fate and effort differently. The **Bhagavad Gita** emphasises that a person has a right to their actions, but not to their fruits, encouraging people to act rightly while letting go of attachment to outcomes, an approach that sidesteps some of the anxiety of control.
+
+=== reveal If free will doesn’t exist, does that mean nobody is responsible for anything?
+Not necessarily, and this is where the debate becomes practical. Compatibilists argue that responsibility is perfectly sensible: we hold people responsible because they act on their own reasons and can respond to praise, blame and incentives. Even some hard determinists argue that while people may not deserve punishment in a deep sense, society can still justify measures that **protect** others, **deter** harm and **rehabilitate** offenders. What might change is the spirit of punishment: less focus on retribution and more on prevention and repair. You’ll explore this further in the next lesson.
+
+=== keypoints
+- The **free will problem** arises from a clash between our sense of choice and the idea that everything has a cause.
+- **Determinism**: every event is fully determined by prior events and natural laws (**Laplace’s demon**, 1814).
+- **Libertarianism**: free will exists and is incompatible with determinism. **Hard determinism**: determinism is true, so free will is an illusion.
+- **Compatibilism**: free will means acting on your own reasons without coercion, which is compatible with determinism; the most popular view among philosophers (about **59%** in **2020**).
+- **Quantum randomness** doesn’t obviously help: random choices aren’t clearly “yours”.
+- **Frankfurt cases (1969)** suggest responsibility may not require being able to do otherwise.
+
+=== why
+Your view of free will affects how you think about blame, punishment, praise, success and even yourself. Do people deserve their achievements? Should criminals be punished or treated? Can you change your character? These aren’t just abstract puzzles; they shape law, morality and personal life. The next lesson brings in what neuroscience has discovered about how decisions happen in the brain.
+
+##### LESSON
+id: philosophy.free-will.2
+title: Brains, Decisions and Responsibility
+minutes: 15
+prereq: philosophy.free-will.1
+check: In your own words: what did Libet’s experiment seem to show, why is its interpretation disputed, and how might views about free will affect how society treats wrongdoing?
+
+=== hook
+In the early **1980s**, the American neuroscientist **Benjamin Libet** asked volunteers to flex their wrist whenever they felt like it, while watching a fast-moving clock and noting the moment they first felt the urge to move. Electrodes on their scalps measured brain activity.
+
+He found that a build-up of electrical activity in the brain, called the **readiness potential**, began roughly **half a second** before people moved, but people reported becoming aware of their intention only about **200 milliseconds** before moving. The brain seemed to start preparing the action **before** the person consciously decided. Headlines declared that neuroscience had disproved free will. Did it?
+
+=== core
+In the previous lesson, you met the philosophical debate about free will. Over the past few decades, neuroscientists have joined in, studying how decisions arise in the brain. Their findings are fascinating, and often over-interpreted.
+
+The key question is whether conscious intentions actually **cause** our actions, or whether they’re after-the-fact reports of decisions the brain has already made unconsciously.
+
+=== text Libet and what came after
+Libet’s results seemed to suggest that unconscious brain processes initiate actions, with conscious awareness arriving later. Interestingly, Libet himself didn’t conclude that free will is an illusion. He suggested that conscious will might still be able to **veto** an action in the brief window before it happens, a kind of “free won’t”.
+
+In **2008**, a team led by **Chun Siong Soon** and **John-Dylan Haynes** used brain scanning (fMRI) while people freely chose to press a button with their left or right hand. Patterns of brain activity could predict which hand they’d choose up to around **7 to 10 seconds** before they reported deciding, though only with modest accuracy, around **60%**, compared with 50% for guessing.
+
+=== text Why the interpretation is disputed
+Many neuroscientists and philosophers argue these experiments don’t show what headlines claimed:
+
+- **The readiness potential may not be a decision at all.** In **2012**, **Aaron Schurger** and colleagues proposed that it may reflect random background fluctuations in brain activity that build up until they cross a threshold. On this view, the “decision” happens near the threshold, close to when people report it, not half a second earlier.
+- **The tasks are artificial.** Choosing when to flex a wrist, for no reason, is very different from meaningful decisions involving reasons, values and deliberation, like choosing a career or keeping a promise.
+- **Timing reports are unreliable.** Asking people to note exactly when they felt an urge, while watching a clock, is difficult and imprecise.
+- **Predicting isn’t controlling.** Predicting a choice with 60% accuracy leaves plenty of room for other influences.
+
+Most researchers now think these experiments tell us something interesting about the timing of simple movements, but little about free will in the sense that matters for morality.
+
+=== callout analogy
+Think of deciding when to jump into a cold swimming pool. You stand at the edge, and your nerve slowly builds up, wavering, until at some point you go. Brain scans might detect the build-up before you feel “I’m going now”. But that doesn’t mean someone else decided for you. The build-up **is** part of you deciding. Whether we call that free depends on what we think freedom requires.
+
+=== text The storytelling brain
+Other research shows that we sometimes **explain** our actions in ways that don’t match their real causes. The neuroscientist **Michael Gazzaniga** studied **split-brain** patients, whose connection between the brain’s two hemispheres had been surgically cut to treat severe epilepsy.
+
+In some experiments, an instruction was shown only to the right hemisphere, which in most people has limited language ability. The patient would act on it, for example by standing up and walking. When asked why, the verbal left hemisphere, unaware of the instruction, would immediately invent a plausible reason, like “I wanted to get a drink”, with no sign of doubt. Gazzaniga called this part of the brain the **interpreter**: it constantly constructs stories to explain our behaviour.
+
+This suggests our sense of why we act isn’t always accurate. But it doesn’t show that reasons never guide action, only that our access to our own motives is imperfect.
+
+=== text When the brain is damaged
+Some cases show how brain changes can alter behaviour dramatically. In **1966**, **Charles Whitman** killed many people in Austin, Texas. He had earlier written that he’d been experiencing unusual violent thoughts, and asked for an autopsy after his death. A brain tumour was found pressing near the amygdala, a region involved in emotion. Experts still debate how much it contributed.
+
+In another reported case, a man developed sudden, uncharacteristic criminal urges; doctors found a large brain tumour, and the urges disappeared after it was removed, then returned when the tumour regrew.
+
+Cases like these raise uncomfortable questions. If a tumour can change behaviour, how different is that from other causes, like genes, upbringing or trauma, that shape all of us?
+
+=== steps How law handles responsibility
+- Legal systems generally assume people are responsible for their actions, but recognise exceptions.
+- The **M’Naghten rule**, established in England in **1843** after a man named Daniel M’Naghten killed a civil servant while suffering delusions, became the basis of the **insanity defence** in many common-law countries, including the UK, India and parts of the US.
+- Under it, a person isn’t criminally responsible if, because of a disease of the mind, they didn’t know the nature of their act or didn’t know it was wrong.
+- Courts also consider factors like age, coercion and diminished capacity.
+- Increasingly, defence lawyers present **brain scans** as evidence. Courts and scientists are cautious: brain differences are common, and showing a brain abnormality doesn’t prove it caused a specific act.
+
+=== text Why punish? Two views
+Philosophers distinguish two broad justifications for punishment:
+
+- **Retributive**: wrongdoers **deserve** to suffer in proportion to their wrongdoing. This view depends heavily on a strong notion of free will and moral desert.
+- **Consequentialist**: punishment is justified by its **effects**, such as deterring crime, protecting the public by incapacitating dangerous people, and rehabilitating offenders.
+
+Some philosophers argue that if neuroscience undermines the strong kind of free will that desert requires, we should shift towards a more consequentialist and rehabilitative approach, treating crime somewhat like public health. Others, following the philosopher **P. F. Strawson**, argue that our practices of blame, gratitude and resentment are so deeply rooted in human relationships that no scientific finding could make us abandon them.
+
+=== reveal Does believing in free will change how people behave?
+A widely publicised **2008** study by **Kathleen Vohs** and **Jonathan Schooler** found that people who read a passage arguing that free will is an illusion were more likely to **cheat** on a later task. It suggested that disbelief in free will might weaken moral behaviour. But later, larger attempts to replicate the finding, as part of the wider replication effort you met in the previous lessons, generally failed to reproduce it. It’s a good example of an intriguing result that may not be robust, and a reminder to treat single studies cautiously, especially when they fit a satisfying story.
+
+=== keypoints
+- **Libet** found brain activity (the **readiness potential**) began about half a second before people reported deciding to move.
+- **Soon and Haynes (2008)** predicted simple choices from brain activity seconds in advance, with modest (~60%) accuracy.
+- Critics argue the readiness potential may reflect **background noise** (Schurger, 2012), and simple lab tasks say little about meaningful decisions.
+- **Split-brain** studies (Gazzaniga) show the brain can **invent explanations** for actions.
+- Brain damage cases raise questions about responsibility; law recognises exceptions like the **M’Naghten rule (1843)**.
+- **Retributive** punishment relies on desert; **consequentialist** punishment focuses on deterrence, protection and rehabilitation.
+- A famous study linking disbelief in free will to cheating **failed to replicate**.
+
+=== why
+Neuroscience is increasingly entering courtrooms, policy debates and popular culture, often with exaggerated claims. Understanding what experiments actually show, and what they don’t, helps you think clearly about responsibility, punishment and your own decisions. These questions connect to the Law region’s lessons on criminal justice and to the next lessons on consciousness.
+
+##### LESSON
+id: philosophy.consciousness.1
+title: The Hardest Problem: Consciousness
+minutes: 15
+check: In your own words: what is the “hard problem” of consciousness, and what does the Mary’s room thought experiment try to show?
+
+=== hook
+In **1974**, the American philosopher **Thomas Nagel** published an essay with a simple, haunting title: *What Is It Like to Be a Bat?*
+
+Bats navigate by **echolocation**: emitting high-pitched sounds and sensing the echoes to build a picture of the world. We can study the physics of echolocation and the bat’s brain in exquisite detail. But, Nagel argued, we still couldn’t know **what it is like** for the bat to experience the world that way. There is something it is like to be a bat, a subjective inner experience, and it seems to escape any purely objective, scientific description. That “something it is like” is consciousness, and explaining it may be the hardest problem in all of science and philosophy.
+
+=== core
+**Consciousness**, in the sense philosophers find most puzzling, refers to **subjective experience**: the redness of red, the taste of coffee, the sting of pain, the feeling of joy. Philosophers call these qualities of experience **qualia** (singular: quale).
+
+You know with complete certainty that you are conscious; it’s the one thing Descartes couldn’t doubt. But explaining how and why physical processes in the brain give rise to subjective experience has proved extraordinarily difficult.
+
+=== text Easy problems and the hard problem
+In **1995**, the Australian philosopher **David Chalmers** drew an influential distinction:
+
+- The **easy problems** of consciousness are about explaining **functions**: how the brain processes sensory information, focuses attention, integrates information, controls behaviour and reports on its own states. These are hard in practice, but we know what kind of answer we’re looking for: neuroscience can, in principle, explain the mechanisms.
+- The **hard problem** is explaining **why** any of this processing is accompanied by subjective experience at all. Why doesn’t all that information processing happen “in the dark”, without anything being felt?
+
+Even if neuroscience mapped every neuron involved in seeing red, Chalmers argued, it seems we could still ask: but why does it feel like **this**?
+
+=== callout analogy
+Imagine a perfectly detailed blueprint of a cinema: every wire, projector, seat and speaker, and exactly how they work together. The blueprint explains how the film gets projected onto the screen. But it doesn’t seem to explain the experience of **watching** the film, the thrill or the sadness felt by the audience. The hard problem is the gap between the blueprint of the brain and the experience of being you.
+
+=== text Thought experiment 1: Mary’s room
+In **1982**, the Australian philosopher **Frank Jackson** proposed a famous thought experiment.
+
+Mary is a brilliant scientist who has lived her whole life in a black-and-white room, learning about the world through black-and-white screens. She becomes the world’s greatest expert on colour vision: she knows **every physical fact** about light wavelengths, how the eye responds and how the brain processes colour.
+
+One day, she steps outside and sees a red tomato for the first time. Does she learn something new?
+
+Many people feel she does: she learns **what it’s like** to see red. If so, Jackson argued, there are facts about experience that aren’t captured by physical facts, which would mean physicalism, the view that everything is physical, is incomplete. Interestingly, Jackson himself later changed his mind and came to defend physicalism. Philosophers have proposed many responses: perhaps Mary gains a new **ability** or a new way of knowing the same facts, rather than new facts.
+
+=== text Thought experiment 2: philosophical zombies
+Chalmers proposed imagining a **philosophical zombie**: a being physically identical to you, atom for atom, behaving exactly as you do, saying “I’m conscious!”, but with **no inner experience** at all. It’s dark inside.
+
+The question isn’t whether zombies exist, but whether they’re even **conceivable**. Chalmers argued that if we can coherently imagine such a being, then consciousness isn’t logically guaranteed by physical facts alone, so it may be something extra. Critics argue that zombies only seem conceivable because we don’t yet understand consciousness well enough, just as people once found it conceivable that water might not be H₂O.
+
+=== text The main positions
+**Dualism**: mind and body are fundamentally different kinds of thing. **Descartes** held that the mind is a non-physical substance that interacts with the physical body. The big problem: how could something non-physical push physical neurons around? This is called the **interaction problem**.
+
+**Physicalism** (or materialism): everything, including consciousness, is ultimately physical. Consciousness is what certain brain processes are, or what they do. This is the most widely held view among philosophers and scientists, but it must still explain the hard problem, or explain it away.
+
+**Panpsychism**: consciousness, in some very simple form, is a fundamental feature of all matter, and complex consciousness emerges from combining simple forms. Once considered fringe, it has attracted renewed interest from some philosophers, though it faces its own puzzles, such as how tiny bits of experience could combine into a unified mind.
+
+=== text Consciousness in Indian philosophy
+Indian traditions placed consciousness at the centre of philosophy for thousands of years:
+
+- **Advaita Vedanta**, systematised by **Adi Shankara** around the 8th century CE, holds that pure consciousness (**Brahman**) is the fundamental reality, and that the individual self (**atman**) is ultimately identical to it.
+- **Samkhya**, one of the oldest Indian philosophical schools, is a form of dualism: it distinguishes pure consciousness (**purusha**) from matter (**prakriti**), which includes the mind and senses.
+- **Buddhist philosophy** teaches **anatta** (no-self): there is no permanent, unchanging self behind experience, only a stream of changing mental and physical processes. Buddhist meditative traditions developed detailed analyses of experience from the inside.
+
+Some modern philosophers and scientists find these traditions valuable sources of ideas, especially about the nature of the self.
+
+=== reveal How do you know anyone other than yourself is conscious?
+Strictly, you can’t prove it. This is the **problem of other minds**. You directly experience only your own consciousness; for others, you infer it from their behaviour, their similarity to you and what they tell you. For other humans, the inference is strong. But the question becomes harder for animals with very different brains, for newborn babies, for patients in a vegetative state, and, increasingly, for artificial intelligence systems that can talk fluently about their “feelings”. How we answer has major ethical consequences, as you’ll explore in the next lesson.
+
+=== keypoints
+- **Consciousness** here means **subjective experience**: there is “**something it is like**” (Nagel, 1974) to be conscious; its qualities are **qualia**.
+- **Chalmers (1995)**: the **easy problems** concern functions; the **hard problem** asks why processing is accompanied by experience at all.
+- **Mary’s room** (Jackson, 1982) suggests physical facts may not capture what experience is like.
+- **Philosophical zombies** test whether consciousness is logically guaranteed by physical facts.
+- Main positions: **dualism** (with the **interaction problem**), **physicalism** and **panpsychism**.
+- Indian traditions offer **Advaita Vedanta**, **Samkhya** dualism and the Buddhist idea of **anatta**.
+- The **problem of other minds**: we infer, rather than prove, that others are conscious.
+
+=== why
+Consciousness is the most intimate thing you have: it’s the very medium of your life. Yet it remains one of the deepest unsolved mysteries. How we think about it affects questions about animal welfare, end-of-life care, the moral status of AI and what it means to be a person. The next lesson explores what science has discovered so far.

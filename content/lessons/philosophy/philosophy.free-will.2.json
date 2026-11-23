@@ -1,0 +1,90 @@
+{
+  "id": "philosophy.free-will.2",
+  "region": "philosophy",
+  "topic": "free-will",
+  "level": 2,
+  "prerequisites": [
+    "philosophy.free-will.1"
+  ],
+  "title": "Brains, Decisions and Responsibility",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the early **1980s**, the American neuroscientist **Benjamin Libet** asked volunteers to flex their wrist whenever they felt like it, while watching a fast-moving clock and noting the moment they first felt the urge to move. Electrodes on their scalps measured brain activity.\n\nHe found that a build-up of electrical activity in the brain, called the **readiness potential**, began roughly **half a second** before people moved, but people reported becoming aware of their intention only about **200 milliseconds** before moving. The brain seemed to start preparing the action **before** the person consciously decided. Headlines declared that neuroscience had disproved free will. Did it?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met the philosophical debate about free will. Over the past few decades, neuroscientists have joined in, studying how decisions arise in the brain. Their findings are fascinating, and often over-interpreted.\n\nThe key question is whether conscious intentions actually **cause** our actions, or whether they’re after-the-fact reports of decisions the brain has already made unconsciously."
+    },
+    {
+      "type": "text",
+      "heading": "Libet and what came after",
+      "md": "Libet’s results seemed to suggest that unconscious brain processes initiate actions, with conscious awareness arriving later. Interestingly, Libet himself didn’t conclude that free will is an illusion. He suggested that conscious will might still be able to **veto** an action in the brief window before it happens, a kind of “free won’t”.\n\nIn **2008**, a team led by **Chun Siong Soon** and **John-Dylan Haynes** used brain scanning (fMRI) while people freely chose to press a button with their left or right hand. Patterns of brain activity could predict which hand they’d choose up to around **7 to 10 seconds** before they reported deciding, though only with modest accuracy, around **60%**, compared with 50% for guessing."
+    },
+    {
+      "type": "text",
+      "heading": "Why the interpretation is disputed",
+      "md": "Many neuroscientists and philosophers argue these experiments don’t show what headlines claimed:\n\n- **The readiness potential may not be a decision at all.** In **2012**, **Aaron Schurger** and colleagues proposed that it may reflect random background fluctuations in brain activity that build up until they cross a threshold. On this view, the “decision” happens near the threshold, close to when people report it, not half a second earlier.\n- **The tasks are artificial.** Choosing when to flex a wrist, for no reason, is very different from meaningful decisions involving reasons, values and deliberation, like choosing a career or keeping a promise.\n- **Timing reports are unreliable.** Asking people to note exactly when they felt an urge, while watching a clock, is difficult and imprecise.\n- **Predicting isn’t controlling.** Predicting a choice with 60% accuracy leaves plenty of room for other influences.\n\nMost researchers now think these experiments tell us something interesting about the timing of simple movements, but little about free will in the sense that matters for morality."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of deciding when to jump into a cold swimming pool. You stand at the edge, and your nerve slowly builds up, wavering, until at some point you go. Brain scans might detect the build-up before you feel “I’m going now”. But that doesn’t mean someone else decided for you. The build-up **is** part of you deciding. Whether we call that free depends on what we think freedom requires."
+    },
+    {
+      "type": "text",
+      "heading": "The storytelling brain",
+      "md": "Other research shows that we sometimes **explain** our actions in ways that don’t match their real causes. The neuroscientist **Michael Gazzaniga** studied **split-brain** patients, whose connection between the brain’s two hemispheres had been surgically cut to treat severe epilepsy.\n\nIn some experiments, an instruction was shown only to the right hemisphere, which in most people has limited language ability. The patient would act on it, for example by standing up and walking. When asked why, the verbal left hemisphere, unaware of the instruction, would immediately invent a plausible reason, like “I wanted to get a drink”, with no sign of doubt. Gazzaniga called this part of the brain the **interpreter**: it constantly constructs stories to explain our behaviour.\n\nThis suggests our sense of why we act isn’t always accurate. But it doesn’t show that reasons never guide action, only that our access to our own motives is imperfect."
+    },
+    {
+      "type": "text",
+      "heading": "When the brain is damaged",
+      "md": "Some cases show how brain changes can alter behaviour dramatically. In **1966**, **Charles Whitman** killed many people in Austin, Texas. He had earlier written that he’d been experiencing unusual violent thoughts, and asked for an autopsy after his death. A brain tumour was found pressing near the amygdala, a region involved in emotion. Experts still debate how much it contributed.\n\nIn another reported case, a man developed sudden, uncharacteristic criminal urges; doctors found a large brain tumour, and the urges disappeared after it was removed, then returned when the tumour regrew.\n\nCases like these raise uncomfortable questions. If a tumour can change behaviour, how different is that from other causes, like genes, upbringing or trauma, that shape all of us?"
+    },
+    {
+      "type": "steps",
+      "title": "How law handles responsibility",
+      "items": [
+        "Legal systems generally assume people are responsible for their actions, but recognise exceptions.",
+        "The **M’Naghten rule**, established in England in **1843** after a man named Daniel M’Naghten killed a civil servant while suffering delusions, became the basis of the **insanity defence** in many common-law countries, including the UK, India and parts of the US.",
+        "Under it, a person isn’t criminally responsible if, because of a disease of the mind, they didn’t know the nature of their act or didn’t know it was wrong.",
+        "Courts also consider factors like age, coercion and diminished capacity.",
+        "Increasingly, defence lawyers present **brain scans** as evidence. Courts and scientists are cautious: brain differences are common, and showing a brain abnormality doesn’t prove it caused a specific act."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why punish? Two views",
+      "md": "Philosophers distinguish two broad justifications for punishment:\n\n- **Retributive**: wrongdoers **deserve** to suffer in proportion to their wrongdoing. This view depends heavily on a strong notion of free will and moral desert.\n- **Consequentialist**: punishment is justified by its **effects**, such as deterring crime, protecting the public by incapacitating dangerous people, and rehabilitating offenders.\n\nSome philosophers argue that if neuroscience undermines the strong kind of free will that desert requires, we should shift towards a more consequentialist and rehabilitative approach, treating crime somewhat like public health. Others, following the philosopher **P. F. Strawson**, argue that our practices of blame, gratitude and resentment are so deeply rooted in human relationships that no scientific finding could make us abandon them."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Does believing in free will change how people behave?",
+      "md": "A widely publicised **2008** study by **Kathleen Vohs** and **Jonathan Schooler** found that people who read a passage arguing that free will is an illusion were more likely to **cheat** on a later task. It suggested that disbelief in free will might weaken moral behaviour. But later, larger attempts to replicate the finding, as part of the wider replication effort you met in the previous lessons, generally failed to reproduce it. It’s a good example of an intriguing result that may not be robust, and a reminder to treat single studies cautiously, especially when they fit a satisfying story."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Libet** found brain activity (the **readiness potential**) began about half a second before people reported deciding to move.",
+        "**Soon and Haynes (2008)** predicted simple choices from brain activity seconds in advance, with modest (~60%) accuracy.",
+        "Critics argue the readiness potential may reflect **background noise** (Schurger, 2012), and simple lab tasks say little about meaningful decisions.",
+        "**Split-brain** studies (Gazzaniga) show the brain can **invent explanations** for actions.",
+        "Brain damage cases raise questions about responsibility; law recognises exceptions like the **M’Naghten rule (1843)**.",
+        "**Retributive** punishment relies on desert; **consequentialist** punishment focuses on deterrence, protection and rehabilitation.",
+        "A famous study linking disbelief in free will to cheating **failed to replicate**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Neuroscience is increasingly entering courtrooms, policy debates and popular culture, often with exaggerated claims. Understanding what experiments actually show, and what they don’t, helps you think clearly about responsibility, punishment and your own decisions. These questions connect to the Law region’s lessons on criminal justice and to the next lessons on consciousness."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what did Libet’s experiment seem to show, why is its interpretation disputed, and how might views about free will affect how society treats wrongdoing?"
+  }
+}

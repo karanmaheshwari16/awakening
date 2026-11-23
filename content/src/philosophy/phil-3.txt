@@ -1,0 +1,218 @@
+##### LESSON
+id: philosophy.consciousness.2
+title: The Science of Consciousness
+minutes: 15
+prereq: philosophy.consciousness.1
+check: In your own words: what is blindsight and what does it suggest about consciousness, and how do global workspace theory and integrated information theory differ?
+
+=== hook
+In **2006**, a team led by the British neuroscientist **Adrian Owen** studied a young woman who had been in a car accident and was diagnosed as being in a **vegetative state**: awake, with eyes open, but showing no signs of awareness.
+
+While she lay in a brain scanner, researchers asked her to imagine playing tennis, then to imagine walking through the rooms of her house. Astonishingly, her brain activity matched that of healthy volunteers doing the same tasks: motor areas lit up for tennis, navigation areas for walking through her home. She was, it seemed, aware, and following instructions, despite showing no outward sign. Later studies used the technique to let some such patients answer yes-or-no questions. The science of consciousness had found a way to detect a mind locked inside an unresponsive body.
+
+=== core
+In the previous lesson, you met the philosophical puzzles of consciousness. In recent decades, neuroscientists have increasingly studied consciousness scientifically, aiming at least to solve the “easy problems” and to find the brain processes most closely tied to experience.
+
+A key research strategy, championed by **Francis Crick** (co-discoverer of DNA’s structure) and **Christof Koch** from the 1990s, is to search for the **neural correlates of consciousness**: the minimal brain activity that reliably accompanies a particular conscious experience. Researchers compare situations where the input to the senses stays the same but conscious experience changes, to see what changes in the brain.
+
+=== text Clues from experiments
+**Blindsight**: some people with damage to the primary visual area of the brain report being completely blind in part of their visual field. Yet when asked to guess where an object is, or which way a line is tilted, in their “blind” area, they perform far better than chance. The psychologist **Lawrence Weiskrantz** studied a famous patient, known as **D.B.**, in the 1970s. Visual information was still being processed and guiding behaviour, but without conscious experience. Blindsight shows that a lot of processing can happen without awareness.
+
+**Masking and ambiguous images**: if an image is flashed very briefly and followed by another image, people often don’t consciously see the first one, yet it can still influence their responses. In **binocular rivalry**, each eye is shown a different image, and conscious perception flips back and forth between them even though the input stays constant, letting researchers track what changes in the brain when experience changes.
+
+**Anaesthesia and sleep**: general anaesthesia reliably switches consciousness off, and back on again. Studying what changes in the brain during anaesthesia and dreamless sleep, compared with dreaming and waking, reveals that consciousness seems linked to complex, integrated communication between brain regions rather than to activity in any single spot.
+
+=== callout analogy
+Think of the brain as a vast company with thousands of departments working at once, most of them quietly handling routine tasks without the CEO ever hearing about them. Consciousness might be like the company-wide broadcast: the few pieces of information that get announced to everyone, so all departments can use them. Blindsight is like a department doing its job perfectly, but never getting airtime on the broadcast.
+
+=== text Two leading theories
+Many theories of consciousness compete. Two of the most prominent:
+
+**Global workspace theory**, developed by the psychologist **Bernard Baars** in the 1980s and extended by the neuroscientist **Stanislas Dehaene** and others, proposes that consciousness arises when information is **broadcast** widely across the brain, especially involving networks in the front and sides of the brain, making it available to many systems at once: memory, language, planning and decision-making. Unconscious processing stays local; conscious information is globally shared. Dehaene’s experiments found a sudden, widespread “ignition” of brain activity when a stimulus becomes conscious.
+
+**Integrated information theory (IIT)**, developed by the neuroscientist **Giulio Tononi**, starts from the features of experience itself and proposes that consciousness corresponds to how much a system **integrates** information: how much the whole is more than the sum of its parts. IIT gives a mathematical measure of this, called **phi**. It implies that consciousness could exist, in varying degrees, in many systems, not just brains, and that some computers, however intelligent, might have very little.
+
+=== text Putting theories to the test
+In an unusual move, supporters of rival theories agreed to an **adversarial collaboration**: designing experiments together in advance, with each side predicting different outcomes. The first major results, published in **2023**, comparing global workspace theory and IIT, challenged key predictions of **both** theories; neither emerged as a clear winner.
+
+The results sparked controversy. Over a hundred researchers signed a public letter calling IIT pseudoscience, prompting a heated debate, with many others defending IIT as a legitimate, if speculative, scientific theory. The episode showed that consciousness science is still young, and deeply contested.
+
+=== steps Who else is conscious?
+- **Animals**: in **2012**, a group of prominent neuroscientists signed the **Cambridge Declaration on Consciousness**, stating that many animals, including all mammals and birds, and some others like octopuses, possess the neurological substrates for conscious experience.
+- In **2024**, a larger group of scientists and philosophers signed the **New York Declaration on Animal Consciousness**, stating that there is strong scientific support for consciousness in mammals and birds, and at least a realistic possibility of it in all vertebrates and many invertebrates, such as insects and crustaceans.
+- These views have practical effects. The UK’s **Animal Welfare (Sentience) Act 2022** recognised octopuses, crabs and lobsters as sentient beings, after a government-commissioned review of the evidence.
+- **Unresponsive patients**: techniques like Owen’s help doctors detect awareness in some patients who seem unconscious, with profound implications for care and end-of-life decisions.
+- **Artificial intelligence**: as AI systems become more sophisticated in conversation, researchers debate whether, and how, we could ever tell if an AI were conscious. Most experts believe current systems are not, but there’s no agreed test, and different theories give different answers.
+
+=== reveal Could an AI system ever be conscious?
+It depends heavily on which theory of consciousness is correct, which is exactly what’s unresolved. **Functionalist** views, which link consciousness to what a system does, like global broadcasting of information, suggest that a suitably designed computer could, in principle, be conscious. **IIT** suggests that the physical structure matters, and that conventional computer hardware may have very low integrated information however intelligent its behaviour. Others argue consciousness may depend on being a living, biological organism. A system **talking** about feelings is not evidence that it has them, since it may simply have learned to produce such language from human text, as you saw in the Technology region. The question matters ethically: if we created conscious machines, we might have moral obligations to them.
+
+=== keypoints
+- Researchers search for **neural correlates of consciousness** (Crick and Koch), comparing conscious and unconscious processing.
+- **Blindsight** shows visual information can guide behaviour **without awareness**.
+- **Owen’s 2006 study** detected awareness in a patient diagnosed as vegetative.
+- **Global workspace theory** (Baars, Dehaene) links consciousness to **broadcasting** information across the brain.
+- **Integrated information theory** (Tononi) links consciousness to **integrated information (phi)**.
+- A **2023 adversarial collaboration** challenged both theories; the field remains contested.
+- Declarations in **2012** and **2024** support consciousness in many **animals**; AI consciousness remains unresolved.
+
+=== why
+The science of consciousness is changing how doctors treat unresponsive patients, how societies treat animals and how we think about artificial intelligence. Understanding where the evidence is strong, and where it’s uncertain, helps you engage with some of the most important ethical questions of the coming decades.
+
+##### LESSON
+id: philosophy.meaning.1
+title: What Makes a Life Go Well?
+minutes: 15
+check: In your own words: what does Nozick’s experience machine suggest about whether pleasure is all that matters, and what does the evidence say about money, relationships and happiness?
+
+=== hook
+In **1974**, the American philosopher **Robert Nozick** asked readers to imagine an **experience machine**. Neuroscientists could plug you into it, and it would give you any experiences you wanted, perfectly realistic: writing a great novel, falling in love, winning a championship. While inside, you wouldn’t know it wasn’t real. You could stay plugged in for life, experiencing nothing but happiness.
+
+Would you plug in? Most people say **no**. Nozick argued that this reveals something important: we want more than pleasant experiences. We want to actually **do** things, to **be** certain kinds of people and to be connected with **reality**. But if not just pleasure, then what makes a life genuinely good?
+
+=== core
+Philosophers call the question of what makes a life go well for the person living it the question of **wellbeing**. There are three classic families of answers:
+
+1. **Hedonism**: wellbeing consists of **pleasure** and the absence of pain. The more pleasure, the better your life.
+2. **Desire satisfaction**: wellbeing consists of getting what you **want**, whatever that is.
+3. **Objective list theories**: some things are good for people whether or not they enjoy or want them, such as friendship, knowledge, achievement, health and autonomy.
+
+The experience machine is a challenge to hedonism, since the machine would give maximum pleasure. Desire theories face their own problem: people sometimes want things that are bad for them, or desires based on false information.
+
+=== text Ancient answers
+**Epicurus** (341–270 BCE), the Greek philosopher often associated with pleasure-seeking, actually recommended a modest life. He argued that the greatest pleasure is **tranquillity**: freedom from pain in the body and trouble in the mind. Simple food, friendship and philosophical conversation were enough; chasing luxury and fame created more anxiety than joy.
+
+**Aristotle** argued that the highest human good is **eudaimonia**, often translated as flourishing or living well. It isn’t a feeling but an activity: living according to virtue and reason over a whole lifetime, exercising our distinctively human capacities well, in a community with others.
+
+The **Stoics**, including the former slave **Epictetus** and the Roman emperor **Marcus Aurelius**, taught that some things are within our control, such as our judgements, intentions and actions, and most things aren’t, such as wealth, reputation, health and others’ behaviour. Peace of mind comes from focusing on what we control and accepting the rest. Modern cognitive behavioural therapy drew partly on Stoic ideas.
+
+=== text Answers from India and beyond
+**Buddhism** teaches that life involves **dukkha**, often translated as suffering or unsatisfactoriness, and that its root is **craving**: clinging to pleasure, possessions and even our sense of self. Freedom from suffering comes through the Noble Eightfold Path, cultivating wisdom, ethical conduct and meditation.
+
+The **Bhagavad Gita** teaches **nishkama karma**: acting rightly and wholeheartedly while letting go of attachment to the results. It suggests that much of our suffering comes not from action itself but from anxious attachment to outcomes we can’t fully control, a theme that echoes the Stoics.
+
+**Confucianism** locates the good life in relationships, virtue, learning and fulfilling one’s roles in family and society with sincerity.
+
+=== callout analogy
+Think of different theories of the good life as different ways of judging a journey. Hedonism asks: how pleasant was the ride? Desire theory asks: did you get where you wanted to go? Objective list theories ask: did you see things worth seeing, travel with good companions and grow along the way? Most people, on reflection, care about all three.
+
+=== text What the evidence says
+Psychologists and economists now study **subjective wellbeing**: how satisfied people are with their lives and how they feel day to day. Some notable findings:
+
+**Money matters, with limits.** Within countries, richer people report higher life satisfaction on average, and the relationship continues even at higher incomes, though each extra rupee or dollar matters less as income rises. In a famous **2010** study, **Daniel Kahneman** and **Angus Deaton** found that day-to-day emotional wellbeing seemed to level off above an income of around **$75,000** a year in the US. A **2021** study by **Matthew Killingsworth** found no such plateau. In **2023**, the researchers collaborated and concluded that emotional wellbeing keeps rising with income for most people, but plateaus for the least happy group, for whom more money doesn’t fix the sources of unhappiness.
+
+**Relationships matter enormously.** The **Harvard Study of Adult Development**, which has followed hundreds of men since **1938**, and later their families, found that the quality of close relationships was among the strongest predictors of both happiness and health in later life, more than wealth, fame or social class.
+
+**Adaptation**: people adapt to many changes, good and bad, more than they expect, a process called **hedonic adaptation**. Lottery winners’ happiness tends to drift back towards previous levels over time, and people often adjust to serious setbacks better than predicted, though not to everything; long-term unemployment and chronic pain, for example, tend to have lasting effects.
+
+=== steps Evidence-based ingredients of wellbeing
+- **Close relationships**: invest time in family, friends and community.
+- **Meaningful activity**: work, study, caregiving or projects that feel worthwhile.
+- **Health**: sleep, movement and nutrition, as the Mind region showed, strongly affect mood.
+- **Autonomy**: a sense of control over your own life.
+- **Gratitude and attention**: noticing what’s good, rather than constantly comparing yourself with others.
+- **Generosity**: research suggests spending time or money on others tends to boost happiness.
+- These are averages and tendencies, not guarantees; what matters most varies between people and cultures.
+
+=== reveal Should we aim directly at happiness?
+Several thinkers have suggested that happiness is best approached **indirectly**. The philosopher **John Stuart Mill** wrote that those are happy who have their minds fixed on some object other than their own happiness, such as the happiness of others, improvement of humanity, or some art or pursuit. Some psychological research supports this: people who place extreme value on being happy can paradoxically feel worse, perhaps because they monitor their mood constantly and feel disappointed when it falls short. Engaging deeply with people and activities you care about may bring happiness more reliably than chasing it.
+
+=== keypoints
+- **Wellbeing** theories include **hedonism** (pleasure), **desire satisfaction** and **objective lists** (friendship, knowledge, achievement and more).
+- **Nozick’s experience machine (1974)** suggests we value reality and real achievement, not just pleasure.
+- **Epicurus** prized tranquillity; **Aristotle** prized **eudaimonia**; the **Stoics** focused on what we can control.
+- **Buddhism** links suffering to **craving**; the **Bhagavad Gita** teaches action without attachment to results.
+- Evidence: **income** helps, with diminishing returns; **relationships** are among the strongest predictors of a good life (**Harvard Study**, since 1938).
+- People **adapt** to many changes, but not to everything.
+
+=== why
+How you understand a good life shapes your choices about career, money, relationships and how you spend your days. Philosophy and research together suggest that pleasure, achievement, connection, virtue and meaning all matter, and that many of the most valuable things in life aren’t things at all. The final lesson in this region tackles the deepest question: what gives life meaning?
+
+##### LESSON
+id: philosophy.meaning.2
+title: Meaning in an Indifferent Universe
+minutes: 15
+prereq: philosophy.meaning.1
+check: In your own words: what did Camus mean by “the absurd”, how did Viktor Frankl think people find meaning, and how is meaning different from happiness?
+
+=== hook
+In ancient Greek myth, the gods punished **Sisyphus** by forcing him to roll an enormous boulder up a hill. Every time he neared the top, it rolled back down, and he had to start again, for all eternity. It seems the perfect image of a meaningless existence.
+
+In **1942**, in the middle of World War II, the French-Algerian writer **Albert Camus** published an essay about Sisyphus, and ended it with a startling line: “**One must imagine Sisyphus happy.**” How could anyone be happy pushing a boulder forever? Camus’s answer, and the answers of other thinkers who faced the question of meaning head-on, may be some of the most useful ideas in this entire app.
+
+=== core
+In the previous lesson, you explored what makes a life go **well** for the person living it. This lesson asks a related but different question: what makes a life **meaningful**? Is there a purpose to life, and if so, where does it come from?
+
+Broadly, answers fall into a few groups:
+
+- **Supernatural or religious answers**: meaning comes from God, the divine or a cosmic order, which gives life purpose and significance.
+- **Objective naturalist answers**: meaning comes from engaging with things of real value, such as love, knowledge, creativity, helping others, even without a cosmic purpose.
+- **Subjective answers**: meaning comes from what each person cares about and commits to; we create it rather than discover it.
+- **Nihilism**: life has no meaning at all.
+
+Many people combine elements of these. This lesson focuses mainly on thinkers who wrestled with meaning in a world they saw as lacking any built-in purpose, while recognising that religious traditions offer their own profound answers to billions of people.
+
+=== text Nihilism and Nietzsche
+In **1882**, the German philosopher **Friedrich Nietzsche** wrote the famous words “**God is dead**”. He wasn’t celebrating. He meant that in modern Europe, belief in God no longer held the central place it once had, and he worried that the values built on that belief would collapse with it, leaving people facing **nihilism**: the sense that nothing has value or meaning.
+
+Nietzsche’s response was not to accept nihilism, but to overcome it. He urged people to **create** their own values, to affirm life fully, with all its suffering, and to become who they are. He imagined a test: if you had to live your exact life again, every joy and every pain, endlessly, would you welcome it or despair? To welcome it is to truly affirm your life.
+
+=== text Existentialism: existence precedes essence
+In the mid-20th century, **existentialist** philosophers like **Jean-Paul Sartre** and **Simone de Beauvoir** developed these themes. In a famous **1946** lecture, Sartre declared that for human beings, “**existence precedes essence**”.
+
+A paper knife is designed for a purpose before it’s made: its essence comes first. But humans, Sartre argued, have no pre-set purpose. We first exist, and then define ourselves through our choices and actions. We are “condemned to be free”: responsible for creating meaning, with no excuses. This freedom can feel dizzying, producing what existentialists called **anguish**, but it also means we are never simply victims of our nature or circumstances.
+
+=== text Camus and the absurd
+Camus described the **absurd** as the clash between our deep longing for meaning and clarity, and a universe that offers no answer: it’s silent and indifferent. He considered three responses:
+
+1. **Escape through suicide**, which he rejected as giving in.
+2. **Escape through a leap of faith**, believing in a meaning beyond reason, which he saw as philosophical evasion (though he respected religious people).
+3. **Revolt**: fully acknowledging the absurd, yet living passionately and defiantly anyway, embracing life, freedom and solidarity with others.
+
+Sisyphus becomes Camus’s hero because he knows his fate is absurd, yet he keeps pushing, fully aware, and finds his own meaning in the struggle itself. “The struggle itself towards the heights is enough to fill a man’s heart.”
+
+=== callout analogy
+Think of life as a game whose rulebook never arrived. Some people despair: without rules, why play? Some insist a hidden rulebook must exist somewhere. Camus and the existentialists say: play anyway. Make it a good game. Choose your own goals, play with others fairly and enjoy the playing itself. The meaning isn’t written in advance; it’s in how you play.
+
+=== text Frankl: meaning in suffering
+**Viktor Frankl** was an Austrian psychiatrist who survived several Nazi concentration camps, including Auschwitz, where his parents, brother and wife were among those who died. In **1946**, he published the book known in English as *Man’s Search for Meaning*.
+
+Frankl observed that prisoners who held on to a sense of purpose, such as a loved one to return to, a task to complete or a way to help others, seemed better able to endure. He quoted Nietzsche: “He who has a **why** to live can bear almost any **how**.” He argued that even in the worst circumstances, people retain one freedom: to choose their attitude.
+
+Frankl proposed three main sources of meaning:
+
+1. **Creating** a work or doing a deed.
+2. **Experiencing** something or **loving** someone.
+3. The **attitude** we take towards unavoidable suffering.
+
+He developed a form of therapy called **logotherapy**, centred on helping people find meaning.
+
+=== steps Meaning versus happiness
+- Researchers led by the psychologist **Roy Baumeister**, in a **2013** study, examined how meaning and happiness relate in people’s lives.
+- The two overlapped a lot, but differed in revealing ways.
+- **Happiness** was linked more to getting what you want and need, feeling good and focusing on the present.
+- **Meaning** was linked more to connecting past, present and future, giving to others, expressing yourself and facing challenges, sometimes involving more stress and worry.
+- Raising children, for example, was associated with more meaning but not necessarily more day-to-day happiness.
+- A life can be deeply meaningful without being constantly happy, which echoes Frankl and Camus.
+
+=== text Mortality
+Death has long been central to questions of meaning. **Epicurus** argued that death is nothing to fear: “Where death is, I am not; where I am, death is not.” Since we won’t experience being dead, it can’t harm us. Not everyone finds this comforting.
+
+The anthropologist **Ernest Becker**, in *The Denial of Death* (1973), argued that much human culture and striving is driven by an effort to avoid confronting mortality. Psychologists building on his ideas, in **terror management theory**, found that reminding people of death tends to make them cling more strongly to their cultural worldviews and values, though some of these findings have faced replication challenges.
+
+Many traditions suggest that awareness of mortality can **deepen** meaning, by making time precious and clarifying priorities. Stoics practised reflecting on death; Buddhist meditation includes contemplating impermanence.
+
+=== reveal What about ikigai, the Japanese concept often described as a Venn diagram of passion, mission, vocation and profession?
+**Ikigai** is a real Japanese word, roughly meaning “a reason for being” or “what makes life worth living”. In Japan, it often refers to everyday sources of joy and purpose, such as family, hobbies, small daily rituals or community roles, not necessarily anything grand. The popular Western diagram, with four overlapping circles of what you love, what you’re good at, what the world needs and what you can be paid for, is a modern adaptation. It combined the word ikigai with an earlier, unrelated purpose diagram, and doesn’t reflect how most Japanese people use the term. It’s a useful reminder that meaning can be found in ordinary life, not only in a perfect career.
+
+=== keypoints
+- Answers to life’s meaning include **religious**, **objective naturalist**, **subjective** and **nihilist** views.
+- **Nietzsche** (“God is dead”, 1882) warned of **nihilism** and urged creating values and affirming life.
+- **Sartre**: “**existence precedes essence**”; we define ourselves through free choices.
+- **Camus**: the **absurd** is the clash between our search for meaning and a silent universe; we should live in **revolt**, imagining **Sisyphus happy**.
+- **Frankl**: meaning comes from **creating**, **loving** and our **attitude** to suffering.
+- **Meaning** and **happiness** overlap but differ (Baumeister, 2013).
+- Awareness of **mortality** can deepen meaning; popular **ikigai** diagrams differ from the Japanese concept.
+
+=== why
+At some point, almost everyone asks whether their life matters and what it’s for, often during difficult times. Philosophy can’t hand you a single answer, but it offers centuries of hard-won wisdom from people who faced these questions honestly. Whatever you conclude, thinking it through can help you live more deliberately, and find meaning in the life you’re actually living.

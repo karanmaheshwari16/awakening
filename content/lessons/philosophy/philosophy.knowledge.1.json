@@ -1,0 +1,84 @@
+{
+  "id": "philosophy.knowledge.1",
+  "region": "philosophy",
+  "topic": "knowledge",
+  "level": 1,
+  "prerequisites": [],
+  "title": "What Can We Really Know?",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1963**, an American philosopher named **Edmund Gettier** published a paper only about **three pages** long. It became one of the most famous papers in modern philosophy.\n\nFor more than two thousand years, many philosophers had accepted a simple definition of knowledge, traced back to Plato: to know something is to have a **justified true belief**. Gettier offered a few short examples showing that someone can have a justified true belief and **still** not know. Philosophers have argued about how to fix the definition ever since, and still haven’t agreed. Something as basic as “what does it mean to know?” turns out to be remarkably hard to pin down."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Epistemology** (from the Greek *episteme*, knowledge) is the branch of philosophy that studies knowledge: what it is, how we get it, how far it extends and how we can tell knowledge from mere opinion.\n\nIt matters because we constantly rely on claims about the world: from news reports and doctors to textbooks and our own senses. Epistemology asks what justifies trusting any of them."
+    },
+    {
+      "type": "text",
+      "heading": "Knowledge as justified true belief",
+      "md": "In Plato’s dialogue *Theaetetus*, Socrates explores the idea that knowledge is true belief with an account, or justification. This gives three conditions for knowing something:\n\n1. **Belief**: you must believe it. You can’t know something you don’t believe.\n2. **Truth**: it must actually be true. You can believe the Earth is flat, but you can’t **know** it, because it isn’t.\n3. **Justification**: you must have good reasons for believing it. A lucky guess that happens to be right isn’t knowledge.\n\nThis definition seems sensible. Gettier showed it’s incomplete."
+    },
+    {
+      "type": "steps",
+      "title": "A Gettier case",
+      "items": [
+        "You look at the clock in the hall. It says **3:00**, so you believe it’s 3 o’clock.",
+        "Your belief is **justified**: the clock has always been reliable, and you have no reason to doubt it.",
+        "Your belief is **true**: it really is exactly 3 o’clock.",
+        "But, unknown to you, the clock **stopped** exactly twelve hours ago. You just happened to look at it at the one moment it was right.",
+        "You have a justified, true belief. But do you **know** it’s 3 o’clock? Most people feel you don’t: you were lucky.",
+        "(This stopped-clock example was described by Bertrand Russell even before Gettier. Similar puzzles appear much earlier too: the 8th-century Indian philosopher Dharmottara described a traveller who sees what looks like water on the horizon, which is really a mirage, yet when he reaches the spot, there happens to be water under a rock.)"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Can we doubt everything?",
+      "md": "In **1641**, the French philosopher **René Descartes** set out to find a foundation for knowledge that couldn’t be doubted. He decided to doubt everything he possibly could.\n\n- His **senses** sometimes deceive him, so he can’t fully trust them.\n- He could be **dreaming**: dreams can feel completely real.\n- Perhaps an all-powerful **evil demon** is deceiving him about everything, even mathematics.\n\nBut one thing survived: even if he is being deceived, there must be someone doing the doubting. “**I think, therefore I am**” (in Latin, *cogito, ergo sum*). His own existence as a thinking thing was certain. From this foundation, Descartes tried to rebuild knowledge, though many later philosophers found his rebuilding less convincing than his doubt."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Descartes’ approach is like having a basket of apples, some of which might be rotten, but you can’t tell which. The safest strategy is to tip them all out, examine each one carefully, and only put back the ones you’re certain are sound. Descartes tipped out all his beliefs and found that only one, his own thinking existence, passed the test with absolute certainty."
+    },
+    {
+      "type": "text",
+      "heading": "A modern version: the brain in a vat",
+      "md": "Philosophers have updated Descartes’ evil demon. Suppose a scientist removed your brain, kept it alive in a vat of nutrients and connected it to a supercomputer feeding it perfectly realistic signals. You would experience an ordinary life, with no way of telling the difference. How could you prove you’re **not** a brain in a vat?\n\nThis **sceptical** challenge, made famous by the film *The Matrix*, suggests that certain knowledge of the external world may be impossible. Philosophers respond in various ways: some argue we don’t need certainty for knowledge, only good reasons; others argue the sceptical scenario is incoherent or that ordinary knowledge is more secure than abstract philosophical doubts."
+    },
+    {
+      "type": "text",
+      "heading": "Where does knowledge come from?",
+      "md": "Two great traditions debated the sources of knowledge in early modern Europe:\n\n- **Rationalists**, like Descartes, argued that some knowledge comes from **reason** alone, independent of experience, such as mathematics and logic.\n- **Empiricists**, like **John Locke** and **David Hume**, argued that all knowledge ultimately comes from **experience** through the senses. Locke described the mind at birth as a blank slate.\n\nIndian philosophy developed its own detailed theories of knowledge. The **Nyaya** school recognised four **pramanas**, or valid sources of knowledge: **perception** (pratyaksha), **inference** (anumana), **comparison** or analogy (upamana) and reliable **testimony** (shabda). Different schools accepted different pramanas; the materialist **Charvaka** school famously accepted only perception, rejecting inference about anything beyond experience."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Most of what you know, you never checked yourself. Is that really knowledge?",
+      "md": "You know the Earth orbits the Sun, that Australia exists and that your blood contains cells, yet you’ve probably never verified any of these yourself. You rely on **testimony**: teachers, books, experts and other people. Philosophers increasingly recognise that **trust** in reliable testimony is an essential and legitimate source of knowledge, as the Nyaya philosophers argued long ago. Without it, each of us would know very little. The challenge is learning **whom** to trust: judging expertise, track records, independence and whether sources have reasons to mislead. That’s a skill explored in the next lesson on scientific knowledge."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Epistemology** studies what knowledge is, how we get it and how far it extends.",
+        "The classic definition, from **Plato**, treats knowledge as **justified true belief**.",
+        "**Gettier (1963)** showed you can have a justified true belief by luck without knowing; similar puzzles appear earlier, including from **Dharmottara**.",
+        "**Descartes (1641)** doubted everything and found certainty only in “**I think, therefore I am**”.",
+        "**Sceptical** scenarios, like the **brain in a vat**, challenge certainty about the external world.",
+        "**Rationalists** emphasise reason; **empiricists** emphasise experience; **Nyaya** recognises four **pramanas**.",
+        "Much of our knowledge rests on **testimony**, making the question of **whom to trust** central."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "In an age of information overload, misinformation and conflicting experts, questions about what we can know and whom we can trust are deeply practical. Epistemology gives you tools to think carefully about your own beliefs: how strong your reasons are, where certainty is possible and where humility is wiser. Next, you’ll see how science tackles these questions in practice."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the classic definition of knowledge as justified true belief, and how do Gettier cases challenge it? What did Descartes think he could know for certain?"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "philosophy.reasoning.2",
+  "region": "philosophy",
+  "topic": "reasoning",
+  "level": 2,
+  "prerequisites": [
+    "philosophy.reasoning.1"
+  ],
+  "title": "The Bugs in Our Thinking, and How to Patch Them",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In a famous 1974 experiment, the psychologists **Amos Tversky** and **Daniel Kahneman** spun a rigged wheel of fortune in front of participants. It stopped on either **10** or **65**. They then asked: what percentage of African countries are members of the United Nations?\n\nThe wheel was obviously random and had nothing to do with the question. Yet people who saw 10 gave a median estimate of **25%**; people who saw 65 gave **45%**. A meaningless number had dragged their judgement. This effect, called **anchoring**, is one of many systematic “bugs” researchers have found in human thinking. The good news: knowing about them gives you a chance to patch them."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you learned to evaluate arguments: checking premises, logic and common fallacies. But much of our thinking doesn’t happen through explicit arguments at all. It happens through fast, automatic intuitions.\n\nKahneman, who won the Nobel Prize in Economics in 2002, popularised a useful way to describe this in his 2011 book *Thinking, Fast and Slow*:\n\n- **System 1** is fast, automatic, intuitive and effortless. It recognises faces, completes phrases and makes snap judgements.\n- **System 2** is slow, deliberate, effortful and logical. It does long division, weighs evidence and checks System 1’s work.\n\nSystem 1 is usually excellent, and we couldn’t function without it. But it relies on mental shortcuts, called **heuristics**, that sometimes produce predictable errors, called **cognitive biases**. And System 2 is lazy: it often accepts System 1’s answers without checking."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of System 1 as an autopilot and System 2 as the human pilot. The autopilot handles most of the flight smoothly and tirelessly. But in unusual conditions, it can make confident mistakes, and the pilot, half-asleep, may not notice. Good thinking means knowing when to take the controls."
+    },
+    {
+      "type": "text",
+      "heading": "A field guide to common biases",
+      "md": "**Anchoring**: initial numbers, even irrelevant ones, pull our estimates towards them. Salary negotiations, prices and estimates are all vulnerable.\n\n**Confirmation bias**: we seek and favour evidence that supports what we already believe, as you saw in the previous lesson.\n\n**Availability**: we judge likelihood by how easily examples come to mind, as you met in the Money region with risk.\n\n**Hindsight bias**: after something happens, we feel we “knew it all along”, which makes us overconfident in our ability to predict.\n\n**Overconfidence**: people tend to be more confident in their judgements than their accuracy justifies. When people say they’re “99% sure” of trivia answers, they’re often wrong far more than 1% of the time.\n\n**The Dunning–Kruger effect**: a 1999 study by David Dunning and Justin Kruger suggested that people with the least skill in an area tend to overestimate their ability the most. It’s widely cited, though some researchers argue part of the pattern is a statistical artefact; the general lesson, that it’s hard to judge your own competence in areas where you lack knowledge, remains useful."
+    },
+    {
+      "type": "text",
+      "heading": "The bug that fools even doctors: base rates",
+      "md": "One of the most consequential biases is **base rate neglect**: ignoring how common something is in the first place when interpreting new evidence."
+    },
+    {
+      "type": "steps",
+      "title": "A medical test puzzle",
+      "items": [
+        "A disease affects **1 in 1,000** people.",
+        "A test for it correctly detects the disease **99%** of the time when someone has it.",
+        "But it also gives a **false positive** for **5%** of healthy people.",
+        "You test positive. What’s the chance you actually have the disease? Many people, including many doctors in studies, guess around 95%.",
+        "Imagine testing **100,000** people. About **100** have the disease, and the test catches about **99** of them.",
+        "Of the **99,900** healthy people, 5% test positive anyway: about **4,995** false positives.",
+        "So of roughly **5,094** positive results, only **99** are real. The chance you have the disease is about **2%**, not 95%.",
+        "Because the disease is rare, false positives vastly outnumber true positives. This is why doctors often confirm a positive screening result with a second, different test."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Thinking like a Bayesian",
+      "md": "The medical test puzzle illustrates **Bayesian reasoning**, named after the 18th-century English minister and mathematician **Thomas Bayes**. The core idea:\n\n1. Start with a **prior**: how likely something was before the new evidence, such as the base rate.\n2. Consider how strongly the **new evidence** points one way or the other.\n3. **Update** your belief in proportion to the strength of the evidence.\n\nStrong evidence should move you a lot; weak evidence a little. And extraordinary claims, which have low priors, need extraordinary evidence. You don’t need to do the maths every time; the habit of asking “how likely was this before I saw the evidence, and how strong is this evidence really?” is powerful on its own."
+    },
+    {
+      "type": "text",
+      "heading": "Can people learn to think better? Superforecasters",
+      "md": "In **2011**, a US intelligence research agency launched a forecasting tournament, asking thousands of volunteers to predict world events, such as elections, conflicts and economic indicators. A team led by the psychologist **Philip Tetlock**, called the **Good Judgment Project**, won convincingly.\n\nTetlock found that a small group of ordinary people, whom he called **superforecasters**, made strikingly accurate predictions, reportedly outperforming some professional analysts with access to classified information. They weren’t geniuses, but they shared habits: breaking problems into parts, starting from base rates, updating frequently in small steps, seeking out opposing views, and keeping score of their accuracy. Importantly, forecasting skill **improved with training and practice**."
+    },
+    {
+      "type": "steps",
+      "title": "Practical habits for clearer thinking",
+      "items": [
+        "**Consider the opposite.** Before deciding, ask: what would make me wrong? What would someone who disagrees say?",
+        "**Steelman, don’t straw-man.** Restate opposing views in their strongest form before responding.",
+        "**Start with base rates.** Before judging a specific case, ask how often this kind of thing usually happens.",
+        "**Think in probabilities**, not certainties. “About 70% likely” is more honest, and more useful, than “definitely”.",
+        "**Slow down for important decisions**, especially when emotions run high or numbers are involved.",
+        "**Keep score.** Write down predictions and check them later. Nothing reveals overconfidence like a track record."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If we know about these biases, doesn’t that make us immune?",
+      "md": "Unfortunately, no. Research suggests that simply knowing about biases provides limited protection, and people readily spot biases in others while missing them in themselves, a pattern the psychologist **Emily Pronin** called the **bias blind spot**. Even Kahneman said that decades of studying biases hadn’t made his own intuitions much better. What helps more are **systems and habits**: checklists, seeking outside views, deliberately considering alternatives, structured decision processes and environments where people can challenge each other. Thinking well is less about individual brilliance and more about good procedures."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**System 1** is fast and intuitive; **System 2** is slow and deliberate; heuristics can cause **cognitive biases**.",
+        "**Anchoring** pulls estimates towards initial numbers, even irrelevant ones (Tversky and Kahneman, 1974).",
+        "Other biases include **confirmation bias**, **availability**, **hindsight bias** and **overconfidence**.",
+        "**Base rate neglect**: with a rare disease, most positive test results can be **false positives**.",
+        "**Bayesian reasoning**: start with a prior, then update in proportion to the strength of evidence.",
+        "**Superforecasters** (Tetlock) improved accuracy through habits like using base rates and updating often.",
+        "Knowing about biases isn’t enough; **systems and habits** help more."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every important decision you make, about health, money, relationships or politics, passes through these mental shortcuts. You’ll never eliminate biases, but understanding them and building better habits can make your judgements noticeably more accurate. These tools also connect to the Math region’s lessons on probability and statistics, and to the next lessons on ethics and knowledge."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is base rate neglect, using the medical test example, and name two habits that can help you think more accurately?"
+  }
+}

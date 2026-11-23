@@ -1,0 +1,85 @@
+{
+  "id": "philosophy.ethics.2",
+  "region": "philosophy",
+  "topic": "ethics",
+  "level": 2,
+  "prerequisites": [
+    "philosophy.ethics.1"
+  ],
+  "title": "Hard Moral Questions in the Real World",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Imagine you’re walking past a shallow pond and see a small child drowning. You could easily wade in and save them, but you’d ruin your expensive new shoes. Should you save the child? Of course, almost everyone says. The shoes don’t matter.\n\nIn **1972**, the Australian philosopher **Peter Singer** used this scenario to make an unsettling argument. If you would sacrifice your shoes to save a child in front of you, why not give a similar amount of money to save a child dying of preventable causes far away? Distance, he argued, doesn’t change the moral situation. He wrote the essay, *Famine, Affluence, and Morality*, in response to the humanitarian crisis in East Bengal (now Bangladesh) in 1971, when millions of refugees faced starvation and disease."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met the major ethical theories. **Applied ethics** uses them to tackle concrete moral questions: about poverty, animals, medicine, technology, the environment and justice. These questions rarely have easy answers, and thoughtful people disagree. But careful reasoning can clarify what’s at stake and expose inconsistencies in our views.\n\nThis lesson explores a few of the most influential arguments."
+    },
+    {
+      "type": "text",
+      "heading": "Singer’s argument and its critics",
+      "md": "Singer’s argument runs roughly like this:\n\n1. Suffering and death from lack of food, shelter and medical care are bad.\n2. If we can prevent something bad without sacrificing anything of comparable moral importance, we ought to do it.\n3. Many people in wealthy situations can prevent such suffering by donating money, without sacrificing anything comparably important.\n4. Therefore, they ought to donate, and failing to do so is morally wrong, not merely less generous.\n\nThe argument helped inspire the **effective altruism** movement, which encourages people to use evidence to find the ways of helping others that do the most good, such as charities that distribute anti-malaria bed nets or deworming treatments.\n\nCritics respond in several ways. Some argue morality allows us to give special priority to our families, communities and our own life projects. Others argue that charity can’t substitute for political and structural change, or that outsiders may misjudge what communities actually need. The effective altruism movement itself has faced criticism, including after financial scandals involving prominent supporters. But Singer’s challenge remains hard to dismiss: if you agree with saving the drowning child, what explains the difference?"
+    },
+    {
+      "type": "text",
+      "heading": "Who counts? The expanding moral circle",
+      "md": "**Jeremy Bentham** wrote in 1789 that the question about animals is not “Can they reason?” nor “Can they talk?” but “**Can they suffer?**” If suffering matters morally, he argued, then animal suffering matters too.\n\nPeter Singer developed this idea in *Animal Liberation* (1975), arguing that giving less weight to animals’ suffering simply because they belong to another species, which he called **speciesism**, is a prejudice similar in structure to racism or sexism. Similar concern for animals has ancient roots in Indian traditions, especially **Jainism**, whose commitment to **ahimsa** extends to the smallest living beings.\n\nPhilosophers describe moral history partly as an **expanding moral circle**: the range of beings whose interests are taken seriously has widened over time, from one’s own tribe to other nations, races and, for many, to animals. The abolition of slavery is often cited as a clear case of moral progress, although it came only after centuries of resistance, and its legacy persists."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the moral circle as a ring of light around a campfire. Long ago, the light reached only family and close allies; everyone beyond was in darkness, their suffering barely seen. Moral arguments, experiences and movements have repeatedly pushed the light further out. Debates about animals, future generations and possibly artificial minds are arguments about how far the light should reach."
+    },
+    {
+      "type": "text",
+      "heading": "Justice: the veil of ignorance",
+      "md": "How should a fair society distribute wealth, opportunities and rights? In **1971**, the American philosopher **John Rawls** proposed a famous thought experiment in *A Theory of Justice*.\n\nImagine designing the rules of society from behind a **veil of ignorance**: you don’t know who you’ll be in that society. You might be rich or poor, talented or not, from any background, healthy or disabled. What rules would you choose?\n\nRawls argued that rational people behind the veil would choose:\n\n1. **Equal basic liberties** for everyone, such as freedom of speech, conscience and political participation.\n2. Social and economic inequalities only if they benefit the **least advantaged** members of society (the **difference principle**), and if positions are open to all under fair equality of opportunity.\n\nRawls’s work became one of the most influential in modern political philosophy. Critics like **Robert Nozick** argued in 1974 that justice is about how wealth was acquired and exchanged, through fair processes, not about matching a pattern of distribution, and that redistribution can violate people’s rights to what they’ve earned."
+    },
+    {
+      "type": "steps",
+      "title": "Try the veil of ignorance yourself",
+      "items": [
+        "Pick a policy question, such as how healthcare should be funded.",
+        "Imagine you don’t know whether you’ll be born rich or poor, healthy or with a chronic illness, in a city or a village.",
+        "Ask: which system would I want, knowing I could end up in **any** position?",
+        "Notice how your answer may differ from what you’d choose if you knew your actual situation.",
+        "The exercise doesn’t settle every question, since people disagree about how much risk they’d accept, but it helps separate fairness from self-interest."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why we disagree: moral foundations",
+      "md": "The social psychologist **Jonathan Haidt** and colleagues developed **moral foundations theory** to explain why people disagree so deeply about morality and politics. They propose that human moral intuitions rest on several foundations, including:\n\n- **Care**: concern about harm and suffering.\n- **Fairness**: concern about justice, cheating and proportionality.\n- **Loyalty**: commitment to one’s group.\n- **Authority**: respect for tradition and legitimate hierarchy.\n- **Sanctity**: concern with purity and the sacred.\n- **Liberty**: resistance to domination and oppression.\n\nHaidt’s research suggests that people across the political spectrum weigh these foundations differently, which helps explain why opponents often talk past each other. The theory is debated, but it offers a useful insight: people who disagree with you about morality are usually not simply immoral; they may be weighting genuine moral concerns differently."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is morality just relative to culture, so that no one can say any practice is wrong?",
+      "md": "This view, called **moral relativism**, contains an important insight: moral practices differ across cultures, and we should be humble about judging unfamiliar customs. But most philosophers reject strong relativism. If morality were purely relative, then no culture could ever be criticised, including for slavery or genocide, and reformers within a culture, like those who campaigned against untouchability or for women’s rights, would by definition be wrong simply for disagreeing with their society. Many philosophers instead hold that while some moral questions allow reasonable variation, others, such as prohibitions on gratuitous cruelty, have strong claims to universal validity."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Applied ethics** uses moral theories to address real-world questions.",
+        "**Singer’s drowning child** argument (1972) claims distance doesn’t reduce our duty to prevent suffering; it inspired **effective altruism**.",
+        "**Bentham** and **Singer** argued animal suffering matters; **Jainism** extends **ahimsa** to all living beings.",
+        "The **moral circle** has expanded over history; abolition of slavery is a key example of moral progress.",
+        "**Rawls’s veil of ignorance** (1971) asks what rules we’d choose not knowing our place in society; **Nozick** offered a rights-based alternative.",
+        "**Moral foundations theory** (Haidt) suggests people weigh care, fairness, loyalty, authority, sanctity and liberty differently.",
+        "Most philosophers reject strong **moral relativism**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Some of the most important choices you’ll make, about giving, consumption, voting and how you treat others, involve exactly these questions. Applied ethics doesn’t hand you answers, but it helps you reason clearly, notice inconsistencies and understand people who reach different conclusions. That’s essential for living well in a diverse society."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is Peter Singer’s drowning child argument, what is Rawls’s veil of ignorance, and why might people with different moral foundations disagree about politics?"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "philosophy.knowledge.2",
+  "region": "philosophy",
+  "topic": "knowledge",
+  "level": 2,
+  "prerequisites": [],
+  "title": "How Science Knows",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2015**, a team of 270 researchers called the **Open Science Collaboration** published the results of an ambitious project. They had tried to repeat **100** studies published in leading psychology journals, following the original methods as closely as possible.\n\nOnly around **36 to 39%** of the replications produced clearly significant results like the originals, depending on the measure used, and the effects found were, on average, about half as strong. It was a shock to the field. If science is our most reliable way of knowing, how could so many published findings fail to hold up? The answer reveals both the weaknesses of science and, crucially, its greatest strength: it can find and correct its own mistakes."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Science is a set of methods for learning about the natural world by testing ideas against **evidence**. But philosophers have long asked how science actually justifies its conclusions, and what makes something science rather than pseudoscience.\n\nThis branch of philosophy is called the **philosophy of science**. Its questions sound abstract but matter enormously: they shape how we judge medical treatments, climate projections, nutrition advice and claims made by experts and non-experts alike."
+    },
+    {
+      "type": "text",
+      "heading": "The problem of induction",
+      "md": "Much of science relies on **induction**: drawing general conclusions from specific observations. Every swan Europeans had seen was white, so they concluded all swans are white, until they reached Australia and found black swans.\n\nIn **1748**, the Scottish philosopher **David Hume** pointed out a deep problem. No number of observations can **logically prove** a general rule. Why do we expect the future to resemble the past? Because, in the past, the future has resembled the past. But that reasoning is circular: it assumes what it tries to prove.\n\nHume concluded that our reliance on induction is a matter of habit and custom, not strict logic. Philosophers still debate how to respond. Most accept that induction can’t give certainty, but argue it can give strong, ever-improving **probability**, which is all science claims."
+    },
+    {
+      "type": "text",
+      "heading": "Popper: science as bold guesses and tests",
+      "md": "The Austrian-British philosopher **Karl Popper**, writing in the 1930s, proposed a famous answer. Science, he argued, doesn’t prove theories true. Instead, it proposes bold **conjectures** and tries hard to **refute** them.\n\nThe key test of whether a theory is scientific is **falsifiability**: does it make predictions that could, in principle, turn out to be **wrong**? A theory that rules nothing out, that can explain any possible observation, isn’t scientific.\n\nPopper was struck by the contrast between **Einstein’s** theory of relativity, which made a risky prediction about starlight bending in the 1919 eclipse that could have failed, and theories like **astrology**, or some forms of psychoanalysis and Marxist history, which he felt could be stretched to fit any outcome after the fact. A theory that survives many serious attempts to refute it earns our confidence, but always provisionally."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a scientific theory as a bridge that engineers keep trying to break. They drive heavier and heavier trucks across it, test it in storms and look for cracks. Each test it survives makes us more confident it’s sound, but never certain. A “theory” that can’t be tested at all is like a bridge no one is allowed to drive on: it might be fine, but we’ll never know."
+    },
+    {
+      "type": "text",
+      "heading": "Kuhn: paradigms and revolutions",
+      "md": "In **1962**, the American historian and philosopher **Thomas Kuhn** published *The Structure of Scientific Revolutions*, offering a different picture based on how science has actually worked historically.\n\nKuhn argued that most science is **normal science**: researchers work within a shared framework, or **paradigm**, of accepted theories, methods and questions, solving puzzles rather than questioning the foundations. Anomalies, results that don’t fit, are often set aside at first. But when anomalies pile up, a **crisis** develops, and eventually a new paradigm may replace the old one in a **scientific revolution**, like the shift from an Earth-centred to a Sun-centred universe, or from Newton’s physics to Einstein’s.\n\nYou’ve seen examples in this app: plate tectonics, rejected for decades after Wegener proposed continental drift, then rapidly accepted once seafloor evidence accumulated. Kuhn’s ideas showed that science is a human, social activity, though critics worried he made it sound less rational than it is."
+    },
+    {
+      "type": "text",
+      "heading": "Why studies fail to replicate",
+      "md": "The replication crisis affected psychology, medicine, economics and other fields. Researchers identified several causes:\n\n- **Publication bias**: journals have historically preferred exciting, positive results. Studies finding “no effect” often went unpublished, so the published record overstated real effects.\n- **Small samples**: small studies are more likely to produce flukes, both false positives and exaggerated effects.\n- **P-hacking**: trying many different analyses, or stopping data collection at convenient moments, until a statistically significant result appears, often without realising it distorts the findings.\n- **Incentives**: careers depend on publishing novel, positive results, not on careful replications.\n\nScience has responded with reforms: **pre-registration** (publicly recording the plan for a study before collecting data), larger samples, sharing data openly, publishing replications and null results, and collaborative multi-lab studies."
+    },
+    {
+      "type": "steps",
+      "title": "How to weigh a scientific claim",
+      "items": [
+        "**One study is a clue, not a conclusion.** Look for replication and for **systematic reviews** combining many studies.",
+        "**Check the design.** Randomised experiments are stronger than observational studies for showing cause and effect.",
+        "**Check the size.** Larger, well-designed studies are more reliable than small ones.",
+        "**Look for scientific consensus**, built from many lines of evidence and independent groups, such as on human-caused climate change or vaccine safety.",
+        "**Beware cherry-picking**: selecting the few studies that support a view while ignoring the many that don’t.",
+        "**Distinguish uncertainty from ignorance.** Scientists acknowledging uncertainty is a sign of honesty, not a sign that “nobody knows anything”."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If science sometimes gets things wrong, why should we trust it more than other sources?",
+      "md": "Because science’s distinctive strength isn’t that individual scientists are always right, but that the **system** is designed to catch and correct errors over time: through testing, peer scrutiny, replication, competition between researchers and openness to new evidence. The replication crisis itself was uncovered by scientists applying scientific methods to their own field. Few other ways of knowing have such built-in mechanisms for self-correction. This doesn’t mean every scientific claim is equally reliable; a long-established consensus supported by many independent lines of evidence deserves far more confidence than a single new study reported in a headline."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Hume (1748)**: no number of observations can logically prove a general rule: the **problem of induction**.",
+        "**Popper**: scientific theories must be **falsifiable**; science advances by bold conjectures and attempted refutations.",
+        "**Kuhn (1962)**: science works within **paradigms**, punctuated by **scientific revolutions**.",
+        "The **replication crisis**: many published findings, notably in psychology, failed to replicate (around **36–39%** replicated in a 2015 project).",
+        "Causes include **publication bias**, **small samples**, **p-hacking** and career **incentives**; reforms include **pre-registration** and open data.",
+        "Weigh claims by **replication**, **study design**, **size** and **consensus**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "You’ll constantly encounter claims backed by “studies” and “science”, some solid, some shaky, some misleading. Understanding how science really works, including its flaws and its self-correcting strength, lets you trust it appropriately: neither blindly nor cynically. That’s one of the most important skills for navigating a world full of competing claims."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the problem of induction, what did Karl Popper mean by falsifiability, and what was the replication crisis?"
+  }
+}

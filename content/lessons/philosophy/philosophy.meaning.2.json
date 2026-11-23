@@ -1,0 +1,91 @@
+{
+  "id": "philosophy.meaning.2",
+  "region": "philosophy",
+  "topic": "meaning",
+  "level": 2,
+  "prerequisites": [
+    "philosophy.meaning.1"
+  ],
+  "title": "Meaning in an Indifferent Universe",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In ancient Greek myth, the gods punished **Sisyphus** by forcing him to roll an enormous boulder up a hill. Every time he neared the top, it rolled back down, and he had to start again, for all eternity. It seems the perfect image of a meaningless existence.\n\nIn **1942**, in the middle of World War II, the French-Algerian writer **Albert Camus** published an essay about Sisyphus, and ended it with a startling line: “**One must imagine Sisyphus happy.**” How could anyone be happy pushing a boulder forever? Camus’s answer, and the answers of other thinkers who faced the question of meaning head-on, may be some of the most useful ideas in this entire app."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you explored what makes a life go **well** for the person living it. This lesson asks a related but different question: what makes a life **meaningful**? Is there a purpose to life, and if so, where does it come from?\n\nBroadly, answers fall into a few groups:\n\n- **Supernatural or religious answers**: meaning comes from God, the divine or a cosmic order, which gives life purpose and significance.\n- **Objective naturalist answers**: meaning comes from engaging with things of real value, such as love, knowledge, creativity, helping others, even without a cosmic purpose.\n- **Subjective answers**: meaning comes from what each person cares about and commits to; we create it rather than discover it.\n- **Nihilism**: life has no meaning at all.\n\nMany people combine elements of these. This lesson focuses mainly on thinkers who wrestled with meaning in a world they saw as lacking any built-in purpose, while recognising that religious traditions offer their own profound answers to billions of people."
+    },
+    {
+      "type": "text",
+      "heading": "Nihilism and Nietzsche",
+      "md": "In **1882**, the German philosopher **Friedrich Nietzsche** wrote the famous words “**God is dead**”. He wasn’t celebrating. He meant that in modern Europe, belief in God no longer held the central place it once had, and he worried that the values built on that belief would collapse with it, leaving people facing **nihilism**: the sense that nothing has value or meaning.\n\nNietzsche’s response was not to accept nihilism, but to overcome it. He urged people to **create** their own values, to affirm life fully, with all its suffering, and to become who they are. He imagined a test: if you had to live your exact life again, every joy and every pain, endlessly, would you welcome it or despair? To welcome it is to truly affirm your life."
+    },
+    {
+      "type": "text",
+      "heading": "Existentialism: existence precedes essence",
+      "md": "In the mid-20th century, **existentialist** philosophers like **Jean-Paul Sartre** and **Simone de Beauvoir** developed these themes. In a famous **1946** lecture, Sartre declared that for human beings, “**existence precedes essence**”.\n\nA paper knife is designed for a purpose before it’s made: its essence comes first. But humans, Sartre argued, have no pre-set purpose. We first exist, and then define ourselves through our choices and actions. We are “condemned to be free”: responsible for creating meaning, with no excuses. This freedom can feel dizzying, producing what existentialists called **anguish**, but it also means we are never simply victims of our nature or circumstances."
+    },
+    {
+      "type": "text",
+      "heading": "Camus and the absurd",
+      "md": "Camus described the **absurd** as the clash between our deep longing for meaning and clarity, and a universe that offers no answer: it’s silent and indifferent. He considered three responses:\n\n1. **Escape through suicide**, which he rejected as giving in.\n2. **Escape through a leap of faith**, believing in a meaning beyond reason, which he saw as philosophical evasion (though he respected religious people).\n3. **Revolt**: fully acknowledging the absurd, yet living passionately and defiantly anyway, embracing life, freedom and solidarity with others.\n\nSisyphus becomes Camus’s hero because he knows his fate is absurd, yet he keeps pushing, fully aware, and finds his own meaning in the struggle itself. “The struggle itself towards the heights is enough to fill a man’s heart.”"
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of life as a game whose rulebook never arrived. Some people despair: without rules, why play? Some insist a hidden rulebook must exist somewhere. Camus and the existentialists say: play anyway. Make it a good game. Choose your own goals, play with others fairly and enjoy the playing itself. The meaning isn’t written in advance; it’s in how you play."
+    },
+    {
+      "type": "text",
+      "heading": "Frankl: meaning in suffering",
+      "md": "**Viktor Frankl** was an Austrian psychiatrist who survived several Nazi concentration camps, including Auschwitz, where his parents, brother and wife were among those who died. In **1946**, he published the book known in English as *Man’s Search for Meaning*.\n\nFrankl observed that prisoners who held on to a sense of purpose, such as a loved one to return to, a task to complete or a way to help others, seemed better able to endure. He quoted Nietzsche: “He who has a **why** to live can bear almost any **how**.” He argued that even in the worst circumstances, people retain one freedom: to choose their attitude.\n\nFrankl proposed three main sources of meaning:\n\n1. **Creating** a work or doing a deed.\n2. **Experiencing** something or **loving** someone.\n3. The **attitude** we take towards unavoidable suffering.\n\nHe developed a form of therapy called **logotherapy**, centred on helping people find meaning."
+    },
+    {
+      "type": "steps",
+      "title": "Meaning versus happiness",
+      "items": [
+        "Researchers led by the psychologist **Roy Baumeister**, in a **2013** study, examined how meaning and happiness relate in people’s lives.",
+        "The two overlapped a lot, but differed in revealing ways.",
+        "**Happiness** was linked more to getting what you want and need, feeling good and focusing on the present.",
+        "**Meaning** was linked more to connecting past, present and future, giving to others, expressing yourself and facing challenges, sometimes involving more stress and worry.",
+        "Raising children, for example, was associated with more meaning but not necessarily more day-to-day happiness.",
+        "A life can be deeply meaningful without being constantly happy, which echoes Frankl and Camus."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Mortality",
+      "md": "Death has long been central to questions of meaning. **Epicurus** argued that death is nothing to fear: “Where death is, I am not; where I am, death is not.” Since we won’t experience being dead, it can’t harm us. Not everyone finds this comforting.\n\nThe anthropologist **Ernest Becker**, in *The Denial of Death* (1973), argued that much human culture and striving is driven by an effort to avoid confronting mortality. Psychologists building on his ideas, in **terror management theory**, found that reminding people of death tends to make them cling more strongly to their cultural worldviews and values, though some of these findings have faced replication challenges.\n\nMany traditions suggest that awareness of mortality can **deepen** meaning, by making time precious and clarifying priorities. Stoics practised reflecting on death; Buddhist meditation includes contemplating impermanence."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What about ikigai, the Japanese concept often described as a Venn diagram of passion, mission, vocation and profession?",
+      "md": "**Ikigai** is a real Japanese word, roughly meaning “a reason for being” or “what makes life worth living”. In Japan, it often refers to everyday sources of joy and purpose, such as family, hobbies, small daily rituals or community roles, not necessarily anything grand. The popular Western diagram, with four overlapping circles of what you love, what you’re good at, what the world needs and what you can be paid for, is a modern adaptation. It combined the word ikigai with an earlier, unrelated purpose diagram, and doesn’t reflect how most Japanese people use the term. It’s a useful reminder that meaning can be found in ordinary life, not only in a perfect career."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Answers to life’s meaning include **religious**, **objective naturalist**, **subjective** and **nihilist** views.",
+        "**Nietzsche** (“God is dead”, 1882) warned of **nihilism** and urged creating values and affirming life.",
+        "**Sartre**: “**existence precedes essence**”; we define ourselves through free choices.",
+        "**Camus**: the **absurd** is the clash between our search for meaning and a silent universe; we should live in **revolt**, imagining **Sisyphus happy**.",
+        "**Frankl**: meaning comes from **creating**, **loving** and our **attitude** to suffering.",
+        "**Meaning** and **happiness** overlap but differ (Baumeister, 2013).",
+        "Awareness of **mortality** can deepen meaning; popular **ikigai** diagrams differ from the Japanese concept."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "At some point, almost everyone asks whether their life matters and what it’s for, often during difficult times. Philosophy can’t hand you a single answer, but it offers centuries of hard-won wisdom from people who faced these questions honestly. Whatever you conclude, thinking it through can help you live more deliberately, and find meaning in the life you’re actually living."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what did Camus mean by “the absurd”, how did Viktor Frankl think people find meaning, and how is meaning different from happiness?"
+  }
+}

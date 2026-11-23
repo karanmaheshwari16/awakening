@@ -1,0 +1,79 @@
+{
+  "id": "philosophy.meaning.1",
+  "region": "philosophy",
+  "topic": "meaning",
+  "level": 1,
+  "prerequisites": [],
+  "title": "What Makes a Life Go Well?",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1974**, the American philosopher **Robert Nozick** asked readers to imagine an **experience machine**. Neuroscientists could plug you into it, and it would give you any experiences you wanted, perfectly realistic: writing a great novel, falling in love, winning a championship. While inside, you wouldn’t know it wasn’t real. You could stay plugged in for life, experiencing nothing but happiness.\n\nWould you plug in? Most people say **no**. Nozick argued that this reveals something important: we want more than pleasant experiences. We want to actually **do** things, to **be** certain kinds of people and to be connected with **reality**. But if not just pleasure, then what makes a life genuinely good?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Philosophers call the question of what makes a life go well for the person living it the question of **wellbeing**. There are three classic families of answers:\n\n1. **Hedonism**: wellbeing consists of **pleasure** and the absence of pain. The more pleasure, the better your life.\n2. **Desire satisfaction**: wellbeing consists of getting what you **want**, whatever that is.\n3. **Objective list theories**: some things are good for people whether or not they enjoy or want them, such as friendship, knowledge, achievement, health and autonomy.\n\nThe experience machine is a challenge to hedonism, since the machine would give maximum pleasure. Desire theories face their own problem: people sometimes want things that are bad for them, or desires based on false information."
+    },
+    {
+      "type": "text",
+      "heading": "Ancient answers",
+      "md": "**Epicurus** (341–270 BCE), the Greek philosopher often associated with pleasure-seeking, actually recommended a modest life. He argued that the greatest pleasure is **tranquillity**: freedom from pain in the body and trouble in the mind. Simple food, friendship and philosophical conversation were enough; chasing luxury and fame created more anxiety than joy.\n\n**Aristotle** argued that the highest human good is **eudaimonia**, often translated as flourishing or living well. It isn’t a feeling but an activity: living according to virtue and reason over a whole lifetime, exercising our distinctively human capacities well, in a community with others.\n\nThe **Stoics**, including the former slave **Epictetus** and the Roman emperor **Marcus Aurelius**, taught that some things are within our control, such as our judgements, intentions and actions, and most things aren’t, such as wealth, reputation, health and others’ behaviour. Peace of mind comes from focusing on what we control and accepting the rest. Modern cognitive behavioural therapy drew partly on Stoic ideas."
+    },
+    {
+      "type": "text",
+      "heading": "Answers from India and beyond",
+      "md": "**Buddhism** teaches that life involves **dukkha**, often translated as suffering or unsatisfactoriness, and that its root is **craving**: clinging to pleasure, possessions and even our sense of self. Freedom from suffering comes through the Noble Eightfold Path, cultivating wisdom, ethical conduct and meditation.\n\nThe **Bhagavad Gita** teaches **nishkama karma**: acting rightly and wholeheartedly while letting go of attachment to the results. It suggests that much of our suffering comes not from action itself but from anxious attachment to outcomes we can’t fully control, a theme that echoes the Stoics.\n\n**Confucianism** locates the good life in relationships, virtue, learning and fulfilling one’s roles in family and society with sincerity."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of different theories of the good life as different ways of judging a journey. Hedonism asks: how pleasant was the ride? Desire theory asks: did you get where you wanted to go? Objective list theories ask: did you see things worth seeing, travel with good companions and grow along the way? Most people, on reflection, care about all three."
+    },
+    {
+      "type": "text",
+      "heading": "What the evidence says",
+      "md": "Psychologists and economists now study **subjective wellbeing**: how satisfied people are with their lives and how they feel day to day. Some notable findings:\n\n**Money matters, with limits.** Within countries, richer people report higher life satisfaction on average, and the relationship continues even at higher incomes, though each extra rupee or dollar matters less as income rises. In a famous **2010** study, **Daniel Kahneman** and **Angus Deaton** found that day-to-day emotional wellbeing seemed to level off above an income of around **$75,000** a year in the US. A **2021** study by **Matthew Killingsworth** found no such plateau. In **2023**, the researchers collaborated and concluded that emotional wellbeing keeps rising with income for most people, but plateaus for the least happy group, for whom more money doesn’t fix the sources of unhappiness.\n\n**Relationships matter enormously.** The **Harvard Study of Adult Development**, which has followed hundreds of men since **1938**, and later their families, found that the quality of close relationships was among the strongest predictors of both happiness and health in later life, more than wealth, fame or social class.\n\n**Adaptation**: people adapt to many changes, good and bad, more than they expect, a process called **hedonic adaptation**. Lottery winners’ happiness tends to drift back towards previous levels over time, and people often adjust to serious setbacks better than predicted, though not to everything; long-term unemployment and chronic pain, for example, tend to have lasting effects."
+    },
+    {
+      "type": "steps",
+      "title": "Evidence-based ingredients of wellbeing",
+      "items": [
+        "**Close relationships**: invest time in family, friends and community.",
+        "**Meaningful activity**: work, study, caregiving or projects that feel worthwhile.",
+        "**Health**: sleep, movement and nutrition, as the Mind region showed, strongly affect mood.",
+        "**Autonomy**: a sense of control over your own life.",
+        "**Gratitude and attention**: noticing what’s good, rather than constantly comparing yourself with others.",
+        "**Generosity**: research suggests spending time or money on others tends to boost happiness.",
+        "These are averages and tendencies, not guarantees; what matters most varies between people and cultures."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Should we aim directly at happiness?",
+      "md": "Several thinkers have suggested that happiness is best approached **indirectly**. The philosopher **John Stuart Mill** wrote that those are happy who have their minds fixed on some object other than their own happiness, such as the happiness of others, improvement of humanity, or some art or pursuit. Some psychological research supports this: people who place extreme value on being happy can paradoxically feel worse, perhaps because they monitor their mood constantly and feel disappointed when it falls short. Engaging deeply with people and activities you care about may bring happiness more reliably than chasing it."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Wellbeing** theories include **hedonism** (pleasure), **desire satisfaction** and **objective lists** (friendship, knowledge, achievement and more).",
+        "**Nozick’s experience machine (1974)** suggests we value reality and real achievement, not just pleasure.",
+        "**Epicurus** prized tranquillity; **Aristotle** prized **eudaimonia**; the **Stoics** focused on what we can control.",
+        "**Buddhism** links suffering to **craving**; the **Bhagavad Gita** teaches action without attachment to results.",
+        "Evidence: **income** helps, with diminishing returns; **relationships** are among the strongest predictors of a good life (**Harvard Study**, since 1938).",
+        "People **adapt** to many changes, but not to everything."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "How you understand a good life shapes your choices about career, money, relationships and how you spend your days. Philosophy and research together suggest that pleasure, achievement, connection, virtue and meaning all matter, and that many of the most valuable things in life aren’t things at all. The final lesson in this region tackles the deepest question: what gives life meaning?"
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does Nozick’s experience machine suggest about whether pleasure is all that matters, and what does the evidence say about money, relationships and happiness?"
+  }
+}

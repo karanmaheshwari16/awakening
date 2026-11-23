@@ -1,0 +1,72 @@
+{
+  "id": "philosophy.ethics.1",
+  "region": "philosophy",
+  "topic": "ethics",
+  "level": 1,
+  "prerequisites": [],
+  "title": "What Makes an Action Right?",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "A runaway tram is speeding towards **five** people tied to the track. You’re standing next to a lever. If you pull it, the tram will switch to a side track, where it will kill **one** person instead. Do you pull the lever?\n\nMost people say yes: one death is better than five. Now imagine a different version. You’re on a footbridge above the track, next to a large stranger. The only way to stop the tram is to push him onto the track; his body would stop it, saving the five. Most people say **no**, even though the numbers are identical. Why? This puzzle, the **trolley problem**, introduced by the philosopher **Philippa Foot** in **1967** and developed by **Judith Jarvis Thomson**, opens a window into the deepest question in ethics: what makes an action right or wrong?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Ethics**, or moral philosophy, is the study of how we ought to live and act: what’s right and wrong, good and bad, and why. Philosophers across many cultures have developed theories to answer these questions systematically. Three major families of Western ethical theory dominate discussion today, alongside rich traditions from other cultures:\n\n1. **Consequentialism**: judge actions by their **outcomes**.\n2. **Deontology**: judge actions by whether they follow moral **duties or rules**.\n3. **Virtue ethics**: focus on **character**: what kind of person you should be.\n\nEach captures something important about morality, and each faces serious objections."
+    },
+    {
+      "type": "text",
+      "heading": "Consequentialism: the best outcome",
+      "md": "**Consequentialism** holds that the right action is the one that produces the best consequences. Its most famous form is **utilitarianism**, developed by the English philosophers **Jeremy Bentham** (writing in 1789) and **John Stuart Mill** (in 1863). Bentham argued that we should aim for the greatest happiness of the greatest number, counting everyone’s happiness and suffering equally.\n\nUtilitarianism is appealing because it’s impartial and practical: it asks us to make the world better. It explains pulling the lever in the trolley problem: five lives saved outweigh one lost.\n\nBut it faces hard objections. It seems to permit terrible acts if they produce better overall outcomes, like pushing the man off the bridge, or framing an innocent person to calm a violent mob. Critics say it ignores **rights**, **justice** and the **separateness of persons**."
+    },
+    {
+      "type": "text",
+      "heading": "Deontology: duties and rights",
+      "md": "**Deontology** (from the Greek for “duty”) holds that some actions are right or wrong in themselves, regardless of consequences. Its most influential thinker is the German philosopher **Immanuel Kant**, writing in **1785**.\n\nKant proposed the **categorical imperative**, a supreme moral principle that he formulated in different ways, including:\n\n- **Universalise it**: act only on principles you could will to become universal laws for everyone. Could everyone lie whenever convenient? Then trust, and lying itself, would collapse. So lying is wrong.\n- **Respect persons**: treat humanity, whether in yourself or others, always as an end in itself, never **merely** as a means to an end.\n\nThis explains the footbridge intuition: pushing the man uses him merely as a tool to save others, violating his dignity. Deontology underpins the modern idea of **human rights**.\n\nCritics point to rigid conclusions: Kant argued you shouldn’t lie even to a murderer asking where your friend is hiding, which most people find absurd. And when duties conflict, deontology struggles to say which wins."
+    },
+    {
+      "type": "text",
+      "heading": "Virtue ethics: being a good person",
+      "md": "**Virtue ethics**, developed by the ancient Greek philosopher **Aristotle** in the 4th century BCE, asks a different question: not “what should I do?” but “**what kind of person should I be?**”\n\nVirtues are good character traits, like courage, honesty, generosity, justice and practical wisdom, developed through practice until they become habits. Aristotle argued that many virtues lie at a **mean** between extremes: courage between cowardice and recklessness, generosity between stinginess and extravagance. The goal is **eudaimonia**, often translated as flourishing: living well as a human being.\n\nSimilar ideas appear in **Confucian ethics**, developed in China from the 5th century BCE, which emphasises cultivating virtues like **ren** (humaneness or benevolence) and **li** (proper conduct and ritual), and the importance of relationships and roles in families and society.\n\nCritics argue virtue ethics gives little concrete guidance in hard cases: “do what a virtuous person would do” doesn’t settle the trolley problem."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine three advisers helping you decide whether to tell a hard truth. The **consequentialist** asks: which choice leads to the best results for everyone affected? The **deontologist** asks: what is my duty here, and am I respecting this person’s dignity and right to know? The **virtue ethicist** asks: what would an honest, kind and wise person do? Often all three agree. The hardest moral dilemmas are where they don’t."
+    },
+    {
+      "type": "text",
+      "heading": "Ethics in Indian traditions",
+      "md": "Indian philosophical traditions offer their own rich ethical frameworks:\n\n- **Dharma**: a central concept in Hinduism, Buddhism and Jainism, with meanings including duty, righteousness and the moral order. In the **Bhagavad Gita**, Krishna counsels Arjuna to fulfil his duty as a warrior while acting without attachment to the fruits of action, a teaching later interpreted in many ways, from duty-based ethics to non-violent action.\n- **Ahimsa**: non-violence or non-harm towards all living beings, central to **Jainism** and important in Buddhism and Hinduism. **Mahatma Gandhi** made it the foundation of his political struggle, influencing civil rights movements worldwide.\n- **Karma**: the idea that actions have moral consequences that shape one’s future, in this life or beyond.\n- **Buddhist ethics** emphasises reducing suffering, compassion (**karuna**) and the **Noble Eightfold Path**, including right speech, right action and right livelihood."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Do people in different cultures solve the trolley problem differently?",
+      "md": "In **2018**, researchers at MIT published results from the **Moral Machine** experiment, an online game asking people how self-driving cars should act in unavoidable accidents. They gathered around **40 million** decisions from people in **233** countries and territories. Some preferences were broadly shared everywhere, like sparing more lives and sparing humans over animals. But there were notable cultural differences: for example, participants from some Eastern cultures showed a weaker preference for sparing the young over the old than participants from many Western countries. The findings raise a hard question for technology: whose moral intuitions should be programmed into machines?"
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Ethics** asks how we ought to live and act.",
+        "**Consequentialism** (utilitarianism: **Bentham**, **Mill**) judges actions by outcomes: the greatest good for the greatest number.",
+        "**Deontology** (**Kant**) judges actions by duties: universalise your principles and treat people never merely as means.",
+        "**Virtue ethics** (**Aristotle**, and similarly **Confucius**) focuses on character and flourishing (**eudaimonia**).",
+        "The **trolley problem** shows our intuitions don’t follow one theory consistently.",
+        "Indian traditions contribute concepts like **dharma**, **ahimsa** and **karma**.",
+        "The **Moral Machine** study found both shared and culturally varied moral preferences."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "You make moral choices every day, about honesty, fairness, loyalty and how to treat others. Ethical theories don’t give automatic answers, but they give you tools to reason more clearly, understand people who disagree with you and notice when your intuitions conflict. The next lesson applies these ideas to some of the hardest real-world moral questions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how would a consequentialist, a Kantian and a virtue ethicist each approach a moral decision, and what does the trolley problem reveal about our intuitions?"
+  }
+}

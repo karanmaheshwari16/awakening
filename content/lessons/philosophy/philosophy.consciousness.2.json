@@ -1,0 +1,80 @@
+{
+  "id": "philosophy.consciousness.2",
+  "region": "philosophy",
+  "topic": "consciousness",
+  "level": 2,
+  "prerequisites": [
+    "philosophy.consciousness.1"
+  ],
+  "title": "The Science of Consciousness",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2006**, a team led by the British neuroscientist **Adrian Owen** studied a young woman who had been in a car accident and was diagnosed as being in a **vegetative state**: awake, with eyes open, but showing no signs of awareness.\n\nWhile she lay in a brain scanner, researchers asked her to imagine playing tennis, then to imagine walking through the rooms of her house. Astonishingly, her brain activity matched that of healthy volunteers doing the same tasks: motor areas lit up for tennis, navigation areas for walking through her home. She was, it seemed, aware, and following instructions, despite showing no outward sign. Later studies used the technique to let some such patients answer yes-or-no questions. The science of consciousness had found a way to detect a mind locked inside an unresponsive body."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met the philosophical puzzles of consciousness. In recent decades, neuroscientists have increasingly studied consciousness scientifically, aiming at least to solve the “easy problems” and to find the brain processes most closely tied to experience.\n\nA key research strategy, championed by **Francis Crick** (co-discoverer of DNA’s structure) and **Christof Koch** from the 1990s, is to search for the **neural correlates of consciousness**: the minimal brain activity that reliably accompanies a particular conscious experience. Researchers compare situations where the input to the senses stays the same but conscious experience changes, to see what changes in the brain."
+    },
+    {
+      "type": "text",
+      "heading": "Clues from experiments",
+      "md": "**Blindsight**: some people with damage to the primary visual area of the brain report being completely blind in part of their visual field. Yet when asked to guess where an object is, or which way a line is tilted, in their “blind” area, they perform far better than chance. The psychologist **Lawrence Weiskrantz** studied a famous patient, known as **D.B.**, in the 1970s. Visual information was still being processed and guiding behaviour, but without conscious experience. Blindsight shows that a lot of processing can happen without awareness.\n\n**Masking and ambiguous images**: if an image is flashed very briefly and followed by another image, people often don’t consciously see the first one, yet it can still influence their responses. In **binocular rivalry**, each eye is shown a different image, and conscious perception flips back and forth between them even though the input stays constant, letting researchers track what changes in the brain when experience changes.\n\n**Anaesthesia and sleep**: general anaesthesia reliably switches consciousness off, and back on again. Studying what changes in the brain during anaesthesia and dreamless sleep, compared with dreaming and waking, reveals that consciousness seems linked to complex, integrated communication between brain regions rather than to activity in any single spot."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the brain as a vast company with thousands of departments working at once, most of them quietly handling routine tasks without the CEO ever hearing about them. Consciousness might be like the company-wide broadcast: the few pieces of information that get announced to everyone, so all departments can use them. Blindsight is like a department doing its job perfectly, but never getting airtime on the broadcast."
+    },
+    {
+      "type": "text",
+      "heading": "Two leading theories",
+      "md": "Many theories of consciousness compete. Two of the most prominent:\n\n**Global workspace theory**, developed by the psychologist **Bernard Baars** in the 1980s and extended by the neuroscientist **Stanislas Dehaene** and others, proposes that consciousness arises when information is **broadcast** widely across the brain, especially involving networks in the front and sides of the brain, making it available to many systems at once: memory, language, planning and decision-making. Unconscious processing stays local; conscious information is globally shared. Dehaene’s experiments found a sudden, widespread “ignition” of brain activity when a stimulus becomes conscious.\n\n**Integrated information theory (IIT)**, developed by the neuroscientist **Giulio Tononi**, starts from the features of experience itself and proposes that consciousness corresponds to how much a system **integrates** information: how much the whole is more than the sum of its parts. IIT gives a mathematical measure of this, called **phi**. It implies that consciousness could exist, in varying degrees, in many systems, not just brains, and that some computers, however intelligent, might have very little."
+    },
+    {
+      "type": "text",
+      "heading": "Putting theories to the test",
+      "md": "In an unusual move, supporters of rival theories agreed to an **adversarial collaboration**: designing experiments together in advance, with each side predicting different outcomes. The first major results, published in **2023**, comparing global workspace theory and IIT, challenged key predictions of **both** theories; neither emerged as a clear winner.\n\nThe results sparked controversy. Over a hundred researchers signed a public letter calling IIT pseudoscience, prompting a heated debate, with many others defending IIT as a legitimate, if speculative, scientific theory. The episode showed that consciousness science is still young, and deeply contested."
+    },
+    {
+      "type": "steps",
+      "title": "Who else is conscious?",
+      "items": [
+        "**Animals**: in **2012**, a group of prominent neuroscientists signed the **Cambridge Declaration on Consciousness**, stating that many animals, including all mammals and birds, and some others like octopuses, possess the neurological substrates for conscious experience.",
+        "In **2024**, a larger group of scientists and philosophers signed the **New York Declaration on Animal Consciousness**, stating that there is strong scientific support for consciousness in mammals and birds, and at least a realistic possibility of it in all vertebrates and many invertebrates, such as insects and crustaceans.",
+        "These views have practical effects. The UK’s **Animal Welfare (Sentience) Act 2022** recognised octopuses, crabs and lobsters as sentient beings, after a government-commissioned review of the evidence.",
+        "**Unresponsive patients**: techniques like Owen’s help doctors detect awareness in some patients who seem unconscious, with profound implications for care and end-of-life decisions.",
+        "**Artificial intelligence**: as AI systems become more sophisticated in conversation, researchers debate whether, and how, we could ever tell if an AI were conscious. Most experts believe current systems are not, but there’s no agreed test, and different theories give different answers."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Could an AI system ever be conscious?",
+      "md": "It depends heavily on which theory of consciousness is correct, which is exactly what’s unresolved. **Functionalist** views, which link consciousness to what a system does, like global broadcasting of information, suggest that a suitably designed computer could, in principle, be conscious. **IIT** suggests that the physical structure matters, and that conventional computer hardware may have very low integrated information however intelligent its behaviour. Others argue consciousness may depend on being a living, biological organism. A system **talking** about feelings is not evidence that it has them, since it may simply have learned to produce such language from human text, as you saw in the Technology region. The question matters ethically: if we created conscious machines, we might have moral obligations to them."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Researchers search for **neural correlates of consciousness** (Crick and Koch), comparing conscious and unconscious processing.",
+        "**Blindsight** shows visual information can guide behaviour **without awareness**.",
+        "**Owen’s 2006 study** detected awareness in a patient diagnosed as vegetative.",
+        "**Global workspace theory** (Baars, Dehaene) links consciousness to **broadcasting** information across the brain.",
+        "**Integrated information theory** (Tononi) links consciousness to **integrated information (phi)**.",
+        "A **2023 adversarial collaboration** challenged both theories; the field remains contested.",
+        "Declarations in **2012** and **2024** support consciousness in many **animals**; AI consciousness remains unresolved."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The science of consciousness is changing how doctors treat unresponsive patients, how societies treat animals and how we think about artificial intelligence. Understanding where the evidence is strong, and where it’s uncertain, helps you engage with some of the most important ethical questions of the coming decades."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is blindsight and what does it suggest about consciousness, and how do global workspace theory and integrated information theory differ?"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "philosophy.free-will.1",
+  "region": "philosophy",
+  "topic": "free-will",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Do We Have Free Will?",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1814**, the French mathematician **Pierre-Simon Laplace** imagined an intellect so vast that it knew the exact position and motion of every particle in the universe, along with all the laws of nature. For such a being, he wrote, nothing would be uncertain: the future, just like the past, would be present before its eyes.\n\nLaplace’s imaginary intellect, later nicknamed **Laplace’s demon**, raises an unsettling question. If everything that happens, including every thought in your brain, follows from prior causes according to the laws of physics, then was your decision to read this lesson already fixed before you were born? And if so, in what sense did you choose it?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The **problem of free will** is one of philosophy’s oldest puzzles. It arises from a clash between two things many people believe:\n\n1. **We make free choices**, and are responsible for them. We praise, blame, reward and punish people on that basis.\n2. **Everything has a cause.** The universe, including our brains, seems to follow natural laws.\n\n**Determinism** is the view that every event, including every human decision, is fully determined by prior events and the laws of nature. If determinism is true, then given the exact state of the universe a million years ago, everything you do today was inevitable.\n\nThe central question: **is free will compatible with determinism?**"
+    },
+    {
+      "type": "text",
+      "heading": "Three main positions",
+      "md": "**Libertarianism** (in this philosophical sense, unrelated to the political ideology) holds that we do have free will, and that it’s **incompatible** with determinism, so determinism must be false, at least for human choices. On this view, when you choose, you could genuinely have done otherwise, given exactly the same past. Some libertarians believe the mind or self can cause actions in a way that isn’t fully determined by physical causes.\n\n**Hard determinism** agrees that free will is incompatible with determinism, but concludes that since determinism (or something close to it) is true, **free will is an illusion**. Our sense of choosing is real as an experience, but our choices are products of causes we didn’t choose: genes, upbringing, circumstances and brain chemistry.\n\n**Compatibilism** argues that free will and determinism **can coexist**. The key is to define free will properly. Being free doesn’t mean being uncaused; it means acting according to your own desires, reasons and character, without being coerced or manipulated. If you choose tea because you prefer it, and nobody forces you, you chose freely, even if your preference had causes. Philosophers like **David Hume** defended versions of this view."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine water flowing down a hillside. A hard determinist says the water had no choice: gravity and the shape of the land dictated its path. A compatibilist replies: yes, but a person is not like water. A person can reflect, weigh reasons, and change course in response to arguments. That capacity, even if it has causes, is exactly what we mean by free will. A libertarian adds: and at the moment of decision, the path is genuinely open."
+    },
+    {
+      "type": "text",
+      "heading": "What do philosophers actually believe?",
+      "md": "In a large **2020** survey of professional philosophers, the **PhilPapers survey**, the most common view was **compatibilism**, accepted or leaning towards by around **59%** of respondents. Smaller groups favoured libertarianism and the view that there is no free will. The question remains open, but most professional philosophers think some meaningful kind of free will survives even if determinism is true."
+    },
+    {
+      "type": "text",
+      "heading": "Does quantum physics rescue free will?",
+      "md": "Some people hope that **quantum physics** solves the problem. At the scale of atoms and particles, physics appears to involve genuine randomness: some events seem not to be fully determined by prior causes.\n\nBut most philosophers argue that randomness doesn’t help. If your decisions were the result of random quantum events in your brain, they wouldn’t be **yours** in any meaningful sense; they’d be like the roll of a dice. Free will seems to require that your choices flow from **you**, your reasons and character, not from either rigid determination or pure chance. That’s part of why the problem is so hard."
+    },
+    {
+      "type": "steps",
+      "title": "Frankfurt’s clever thought experiment",
+      "items": [
+        "Many people think free will requires being able to **do otherwise**. In **1969**, the American philosopher **Harry Frankfurt** challenged this with a thought experiment.",
+        "Imagine a neuroscientist, Black, has secretly implanted a device in Jones’s brain. Black wants Jones to vote for a particular candidate.",
+        "If Jones starts to decide to vote for someone else, the device will activate and force him to vote for Black’s candidate.",
+        "But Jones decides, entirely on his own reasoning, to vote for that candidate anyway. The device never activates.",
+        "Jones couldn’t have done otherwise, since the device would have stopped him. Yet he seems fully responsible for his choice, because he made it for his own reasons.",
+        "Frankfurt concluded that moral responsibility may not require the ability to do otherwise, which supports compatibilism. Philosophers have debated these **Frankfurt cases** ever since."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Free will in Indian thought",
+      "md": "Indian traditions have long wrestled with related questions. The doctrine of **karma** holds that actions have consequences that shape one’s future, which seems to presuppose meaningful choice, while also suggesting that present circumstances are shaped by past actions. Different schools balanced fate and effort differently. The **Bhagavad Gita** emphasises that a person has a right to their actions, but not to their fruits, encouraging people to act rightly while letting go of attachment to outcomes, an approach that sidesteps some of the anxiety of control."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If free will doesn’t exist, does that mean nobody is responsible for anything?",
+      "md": "Not necessarily, and this is where the debate becomes practical. Compatibilists argue that responsibility is perfectly sensible: we hold people responsible because they act on their own reasons and can respond to praise, blame and incentives. Even some hard determinists argue that while people may not deserve punishment in a deep sense, society can still justify measures that **protect** others, **deter** harm and **rehabilitate** offenders. What might change is the spirit of punishment: less focus on retribution and more on prevention and repair. You’ll explore this further in the next lesson."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The **free will problem** arises from a clash between our sense of choice and the idea that everything has a cause.",
+        "**Determinism**: every event is fully determined by prior events and natural laws (**Laplace’s demon**, 1814).",
+        "**Libertarianism**: free will exists and is incompatible with determinism. **Hard determinism**: determinism is true, so free will is an illusion.",
+        "**Compatibilism**: free will means acting on your own reasons without coercion, which is compatible with determinism; the most popular view among philosophers (about **59%** in **2020**).",
+        "**Quantum randomness** doesn’t obviously help: random choices aren’t clearly “yours”.",
+        "**Frankfurt cases (1969)** suggest responsibility may not require being able to do otherwise."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Your view of free will affects how you think about blame, punishment, praise, success and even yourself. Do people deserve their achievements? Should criminals be punished or treated? Can you change your character? These aren’t just abstract puzzles; they shape law, morality and personal life. The next lesson brings in what neuroscience has discovered about how decisions happen in the brain."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is determinism, and how do libertarians, hard determinists and compatibilists each respond to it?"
+  }
+}

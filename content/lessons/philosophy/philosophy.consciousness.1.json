@@ -1,0 +1,77 @@
+{
+  "id": "philosophy.consciousness.1",
+  "region": "philosophy",
+  "topic": "consciousness",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Hardest Problem: Consciousness",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1974**, the American philosopher **Thomas Nagel** published an essay with a simple, haunting title: *What Is It Like to Be a Bat?*\n\nBats navigate by **echolocation**: emitting high-pitched sounds and sensing the echoes to build a picture of the world. We can study the physics of echolocation and the bat’s brain in exquisite detail. But, Nagel argued, we still couldn’t know **what it is like** for the bat to experience the world that way. There is something it is like to be a bat, a subjective inner experience, and it seems to escape any purely objective, scientific description. That “something it is like” is consciousness, and explaining it may be the hardest problem in all of science and philosophy."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Consciousness**, in the sense philosophers find most puzzling, refers to **subjective experience**: the redness of red, the taste of coffee, the sting of pain, the feeling of joy. Philosophers call these qualities of experience **qualia** (singular: quale).\n\nYou know with complete certainty that you are conscious; it’s the one thing Descartes couldn’t doubt. But explaining how and why physical processes in the brain give rise to subjective experience has proved extraordinarily difficult."
+    },
+    {
+      "type": "text",
+      "heading": "Easy problems and the hard problem",
+      "md": "In **1995**, the Australian philosopher **David Chalmers** drew an influential distinction:\n\n- The **easy problems** of consciousness are about explaining **functions**: how the brain processes sensory information, focuses attention, integrates information, controls behaviour and reports on its own states. These are hard in practice, but we know what kind of answer we’re looking for: neuroscience can, in principle, explain the mechanisms.\n- The **hard problem** is explaining **why** any of this processing is accompanied by subjective experience at all. Why doesn’t all that information processing happen “in the dark”, without anything being felt?\n\nEven if neuroscience mapped every neuron involved in seeing red, Chalmers argued, it seems we could still ask: but why does it feel like **this**?"
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine a perfectly detailed blueprint of a cinema: every wire, projector, seat and speaker, and exactly how they work together. The blueprint explains how the film gets projected onto the screen. But it doesn’t seem to explain the experience of **watching** the film, the thrill or the sadness felt by the audience. The hard problem is the gap between the blueprint of the brain and the experience of being you."
+    },
+    {
+      "type": "text",
+      "heading": "Thought experiment 1: Mary’s room",
+      "md": "In **1982**, the Australian philosopher **Frank Jackson** proposed a famous thought experiment.\n\nMary is a brilliant scientist who has lived her whole life in a black-and-white room, learning about the world through black-and-white screens. She becomes the world’s greatest expert on colour vision: she knows **every physical fact** about light wavelengths, how the eye responds and how the brain processes colour.\n\nOne day, she steps outside and sees a red tomato for the first time. Does she learn something new?\n\nMany people feel she does: she learns **what it’s like** to see red. If so, Jackson argued, there are facts about experience that aren’t captured by physical facts, which would mean physicalism, the view that everything is physical, is incomplete. Interestingly, Jackson himself later changed his mind and came to defend physicalism. Philosophers have proposed many responses: perhaps Mary gains a new **ability** or a new way of knowing the same facts, rather than new facts."
+    },
+    {
+      "type": "text",
+      "heading": "Thought experiment 2: philosophical zombies",
+      "md": "Chalmers proposed imagining a **philosophical zombie**: a being physically identical to you, atom for atom, behaving exactly as you do, saying “I’m conscious!”, but with **no inner experience** at all. It’s dark inside.\n\nThe question isn’t whether zombies exist, but whether they’re even **conceivable**. Chalmers argued that if we can coherently imagine such a being, then consciousness isn’t logically guaranteed by physical facts alone, so it may be something extra. Critics argue that zombies only seem conceivable because we don’t yet understand consciousness well enough, just as people once found it conceivable that water might not be H₂O."
+    },
+    {
+      "type": "text",
+      "heading": "The main positions",
+      "md": "**Dualism**: mind and body are fundamentally different kinds of thing. **Descartes** held that the mind is a non-physical substance that interacts with the physical body. The big problem: how could something non-physical push physical neurons around? This is called the **interaction problem**.\n\n**Physicalism** (or materialism): everything, including consciousness, is ultimately physical. Consciousness is what certain brain processes are, or what they do. This is the most widely held view among philosophers and scientists, but it must still explain the hard problem, or explain it away.\n\n**Panpsychism**: consciousness, in some very simple form, is a fundamental feature of all matter, and complex consciousness emerges from combining simple forms. Once considered fringe, it has attracted renewed interest from some philosophers, though it faces its own puzzles, such as how tiny bits of experience could combine into a unified mind."
+    },
+    {
+      "type": "text",
+      "heading": "Consciousness in Indian philosophy",
+      "md": "Indian traditions placed consciousness at the centre of philosophy for thousands of years:\n\n- **Advaita Vedanta**, systematised by **Adi Shankara** around the 8th century CE, holds that pure consciousness (**Brahman**) is the fundamental reality, and that the individual self (**atman**) is ultimately identical to it.\n- **Samkhya**, one of the oldest Indian philosophical schools, is a form of dualism: it distinguishes pure consciousness (**purusha**) from matter (**prakriti**), which includes the mind and senses.\n- **Buddhist philosophy** teaches **anatta** (no-self): there is no permanent, unchanging self behind experience, only a stream of changing mental and physical processes. Buddhist meditative traditions developed detailed analyses of experience from the inside.\n\nSome modern philosophers and scientists find these traditions valuable sources of ideas, especially about the nature of the self."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How do you know anyone other than yourself is conscious?",
+      "md": "Strictly, you can’t prove it. This is the **problem of other minds**. You directly experience only your own consciousness; for others, you infer it from their behaviour, their similarity to you and what they tell you. For other humans, the inference is strong. But the question becomes harder for animals with very different brains, for newborn babies, for patients in a vegetative state, and, increasingly, for artificial intelligence systems that can talk fluently about their “feelings”. How we answer has major ethical consequences, as you’ll explore in the next lesson."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Consciousness** here means **subjective experience**: there is “**something it is like**” (Nagel, 1974) to be conscious; its qualities are **qualia**.",
+        "**Chalmers (1995)**: the **easy problems** concern functions; the **hard problem** asks why processing is accompanied by experience at all.",
+        "**Mary’s room** (Jackson, 1982) suggests physical facts may not capture what experience is like.",
+        "**Philosophical zombies** test whether consciousness is logically guaranteed by physical facts.",
+        "Main positions: **dualism** (with the **interaction problem**), **physicalism** and **panpsychism**.",
+        "Indian traditions offer **Advaita Vedanta**, **Samkhya** dualism and the Buddhist idea of **anatta**.",
+        "The **problem of other minds**: we infer, rather than prove, that others are conscious."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Consciousness is the most intimate thing you have: it’s the very medium of your life. Yet it remains one of the deepest unsolved mysteries. How we think about it affects questions about animal welfare, end-of-life care, the moral status of AI and what it means to be a person. The next lesson explores what science has discovered so far."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the “hard problem” of consciousness, and what does the Mary’s room thought experiment try to show?"
+  }
+}
