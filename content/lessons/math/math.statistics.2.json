@@ -1,0 +1,86 @@
+{
+  "id": "math.statistics.2",
+  "region": "math",
+  "topic": "statistics",
+  "level": 2,
+  "prerequisites": [
+    "math.statistics.1"
+  ],
+  "title": "Correlation, Causation and Statistical Traps",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "For several years, the number of films starring the actor **Nicolas Cage** released each year in the United States rose and fell remarkably closely with the number of people who drowned by falling into swimming pools. When one went up, so did the other.\n\nObviously, Nicolas Cage films don’t cause drownings, and drownings don’t inspire film studios. The writer **Tyler Vigen** collected dozens of such **spurious correlations**, like the link between margarine consumption and divorce rates in one US state, to make a serious point with a joke: if you compare enough data sets, some will match by pure coincidence. Correlation, on its own, proves very little."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Two things are **correlated** when they tend to change together. A **positive correlation** means that when one increases, the other tends to increase too, like height and weight. A **negative correlation** means that when one increases, the other tends to decrease, like the price of something and how much people buy.\n\n**Causation** means that one thing actually **causes** the other. Correlation can be a clue to causation, but it’s never proof on its own. When two things are correlated, there are several possible explanations:\n\n1. **A causes B**.\n2. **B causes A** (reverse causation).\n3. **A third factor causes both** (confounding).\n4. **Coincidence**."
+    },
+    {
+      "type": "text",
+      "heading": "Confounding and reverse causation",
+      "md": "**Confounding**: you met this in the Mind region’s nutrition lessons. Ice cream sales and drownings are correlated, not because ice cream causes drowning, but because **hot weather** increases both. The hidden third factor is called a **confounder**.\n\n**Reverse causation**: sometimes the causal arrow runs the opposite way from what we assume. Studies once found that people who drank little alcohol seemed less healthy than moderate drinkers. Part of the explanation was that some non-drinkers had **stopped** drinking **because** they were already ill, so illness was causing low drinking, rather than low drinking causing illness. Later, more careful studies have cast doubt on the claimed health benefits of moderate drinking."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine noticing that people who carry umbrellas are more likely to get wet. Does carrying an umbrella make you wet? No: rain causes both carrying umbrellas and getting wet. Or noticing that cities with more fire engines have more fires. Do fire engines cause fires? No: bigger cities have both more fires and more fire engines. Always ask what else might be going on."
+    },
+    {
+      "type": "text",
+      "heading": "Establishing causation",
+      "md": "How can scientists establish causation? The gold standard is the **randomised controlled trial (RCT)**, which you met in the nutrition lessons. Randomly assigning people to groups ensures that, on average, confounders are spread evenly, so differences in outcomes can be attributed to the treatment.\n\nWhen experiments aren’t possible, such as studying whether smoking causes cancer (you can’t ethically force people to smoke), scientists combine many kinds of evidence. In **1965**, the British epidemiologist **Austin Bradford Hill** proposed considerations for judging causation from observational data, including: the **strength** of the association, **consistency** across different studies, **timing** (the cause must come before the effect), a **dose-response** relationship (more exposure, more effect) and a plausible **mechanism**. The case that smoking causes lung cancer satisfied all of these overwhelmingly."
+    },
+    {
+      "type": "steps",
+      "title": "Simpson’s paradox",
+      "items": [
+        "In **1973**, the University of California, Berkeley, was concerned about possible gender bias in graduate admissions. Overall, men applying had a noticeably higher admission rate than women.",
+        "But when researchers looked at individual departments, they found that in most departments, women were admitted at **equal or higher** rates than men.",
+        "How can both be true? Women had disproportionately applied to more **competitive** departments, which rejected most applicants of either sex. Men had applied more to departments with high admission rates.",
+        "Combining all departments together created a misleading overall picture.",
+        "This is **Simpson’s paradox**: a trend that appears in several groups of data can disappear or **reverse** when the groups are combined.",
+        "The lesson: aggregated data can hide important structure. Always consider whether a lurking variable, like department choice, is distorting the overall pattern."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Regression to the mean",
+      "md": "When something is measured and an extreme result occurs, the next measurement tends to be closer to the average, simply by chance. This is **regression to the mean**.\n\nDaniel Kahneman described a revealing example. Flight instructors in the Israeli Air Force believed that praising cadets after an excellent landing made them do worse next time, while criticising them after a poor landing made them improve. Kahneman pointed out that an excellent landing is partly luck, so the next one is likely to be closer to average, whatever the instructor says. Likewise, a terrible landing is likely to be followed by a better one. The instructors were seeing regression to the mean and mistaking it for the effect of their feedback.\n\nRegression to the mean explains many apparent mysteries: the so-called “cover jinx” when athletes appearing on magazine covers after exceptional seasons then perform worse, and why people often seem to improve after trying a new remedy when they felt at their worst."
+    },
+    {
+      "type": "text",
+      "heading": "Statistical significance and its misuse",
+      "md": "Scientists often report whether a result is **statistically significant**, usually based on a **p-value**. Roughly, a p-value tells you how surprising the data would be **if** there were really no effect. A common threshold is p < 0.05.\n\nBut p-values are widely misunderstood:\n\n- A p-value of 0.05 does **not** mean there’s a 95% chance the result is true.\n- **Statistical significance** is not the same as **practical significance**. With a huge sample, a tiny, unimportant effect can be statistically significant.\n- If researchers test many things and report only the significant ones, false positives are almost guaranteed, the problem of **p-hacking** you met in the Philosophy region.\n\nMany statisticians now encourage focusing on the **size** of effects and the **uncertainty** around them, rather than a simple significant-or-not verdict."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What happens when a number becomes a target?",
+      "md": "It often stops being a good measure. This is **Goodhart’s law**, named after the British economist **Charles Goodhart**, often summarised as: “When a measure becomes a target, it ceases to be a good measure.” If hospitals are judged on waiting times, some may find ways to game the figures rather than truly speed up care. If schools are judged only on exam results, teaching may narrow to the test. If police are judged on reported crime numbers, crimes may go unrecorded. The colonial rat bounty you met in the Economics region is an extreme example. Numbers are valuable tools, but when people are rewarded for hitting them, they often find ways to hit the number rather than achieve the goal behind it."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Correlation** means two things change together; it doesn’t prove **causation**.",
+        "Correlations can arise from **causation**, **reverse causation**, **confounding** or **coincidence** (spurious correlations).",
+        "**Randomised controlled trials** best establish causation; **Bradford Hill’s considerations** help judge observational evidence.",
+        "**Simpson’s paradox**: a trend in subgroups can reverse when data are combined, as in **Berkeley admissions (1973)**.",
+        "**Regression to the mean**: extreme results tend to be followed by more average ones.",
+        "A **p-value** below 0.05 doesn’t mean a 95% chance of truth; **statistical** isn’t the same as **practical** significance.",
+        "**Goodhart’s law**: when a measure becomes a target, it ceases to be a good measure."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every day, you encounter claims that one thing causes another: diets and health, policies and outcomes, products and success. Understanding correlation, confounding, Simpson’s paradox and regression to the mean protects you from some of the most common and persuasive errors in reasoning, and helps you judge evidence the way good scientists and decision-makers do."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why doesn’t correlation prove causation, what is Simpson’s paradox, and what does regression to the mean explain?"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "math.logic-proof.1",
+  "region": "math",
+  "topic": "logic-proof",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Logic: The Rules of Valid Reasoning",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1966**, the British psychologist **Peter Wason** devised a simple puzzle. Four cards lie on a table. Each has a letter on one side and a number on the other. You can see: **E**, **K**, **4** and **7**. The rule is: “If a card has a vowel on one side, then it has an even number on the other.” Which cards must you turn over to check whether the rule is true?\n\nMost people choose E and 4, or just E. The correct answer is **E and 7**. In many studies, only around **10%** of people solved it correctly. Yet when the same logic is framed as a familiar social rule, like checking whether people drinking alcohol are old enough, most people get it right. Our everyday reasoning, it seems, doesn’t always follow the rules of logic."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Logic** is the study of valid reasoning: the rules that determine when a conclusion genuinely follows from premises. You met the basic ideas of arguments, validity and soundness in the Philosophy region. Mathematics relies on logic completely: every mathematical result must follow logically from earlier ones.\n\nLogic works with **propositions**: statements that are either **true** or **false**, like “7 is a prime number” (true) or “all birds can fly” (false).\n\nPropositions can be combined using logical connectives:\n\n- **AND**: “A and B” is true only if both are true.\n- **OR**: “A or B” is true if at least one is true. (In logic, “or” usually includes the possibility of both.)\n- **NOT**: “not A” is true when A is false.\n\nThese are exactly the logic gates you met in the Technology region, where they’re built into computer circuits. The connection isn’t a coincidence: in **1854**, the English mathematician **George Boole** published *The Laws of Thought*, turning logic into a kind of algebra using true and false. A century later, his **Boolean algebra** became the foundation of digital computing."
+    },
+    {
+      "type": "text",
+      "heading": "If-then statements",
+      "md": "One of the most important logical forms is the **conditional** statement: “**If** P, **then** Q.” For example: “If it’s raining, then the ground is wet.”\n\nA conditional statement makes a specific claim: whenever P is true, Q must be true. It doesn’t say anything about what happens when P is false.\n\nFrom this one statement, we can form three related statements:\n\n- **Converse**: “If Q, then P.” (“If the ground is wet, then it’s raining.”) This does **not** follow. The ground might be wet because someone watered the garden.\n- **Inverse**: “If not P, then not Q.” (“If it’s not raining, the ground isn’t wet.”) This also does **not** follow, for the same reason.\n- **Contrapositive**: “If not Q, then not P.” (“If the ground isn’t wet, then it isn’t raining.”) This **does** follow, and is logically equivalent to the original statement."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the rule “If you’re in Mumbai, then you’re in India.” Being in India doesn’t mean you’re in Mumbai (the converse fails: you might be in Chennai). But if you’re **not** in India, you definitely aren’t in Mumbai (the contrapositive works). Picture a small circle (Mumbai) inside a big circle (India): being inside the small circle guarantees being inside the big one, but not the other way round."
+    },
+    {
+      "type": "text",
+      "heading": "Two common logical errors",
+      "md": "**Affirming the consequent**: “If P then Q. Q is true. Therefore P.” “If someone has the flu, they have a fever. She has a fever. So she has the flu.” Invalid: many things cause fever.\n\n**Denying the antecedent**: “If P then Q. P is false. Therefore Q is false.” “If you study hard, you’ll pass. You didn’t study hard. So you won’t pass.” Invalid: you might still pass.\n\nThe two valid forms are:\n\n- **Modus ponens**: “If P then Q. P is true. Therefore Q.”\n- **Modus tollens**: “If P then Q. Q is false. Therefore P is false.”"
+    },
+    {
+      "type": "steps",
+      "title": "Solving the Wason selection task",
+      "items": [
+        "The rule: “If a card has a **vowel** on one side, then it has an **even number** on the other.”",
+        "**E** (a vowel): must be turned. If there’s an odd number on the back, the rule is broken.",
+        "**K** (a consonant): doesn’t matter. The rule says nothing about consonants.",
+        "**4** (even): doesn’t need turning. Even if there’s a consonant on the back, the rule isn’t broken; the rule doesn’t say only vowels have even numbers. Choosing 4 is affirming the consequent.",
+        "**7** (odd): must be turned. If there’s a vowel on the back, the rule is broken. This uses the contrapositive: if not even, then not a vowel.",
+        "Answer: **E and 7**. Now try a version people find easy: “If someone is drinking alcohol, they must be over 18.” Cards show: beer, cola, age 25, age 16. Most people instantly check the beer drinker and the 16-year-old, which is exactly the same logic."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Logic across cultures",
+      "md": "**Aristotle**, in the 4th century BCE, developed the first systematic study of logic in the West, focusing on **syllogisms**: arguments with two premises and a conclusion, like the Socrates example you met in the Philosophy region. His logic dominated Western thought for over two thousand years.\n\nIn India, the **Nyaya** school developed a sophisticated logic of its own. Its classic form of inference has **five steps**, illustrated by a famous example:\n\n1. **Proposition**: there is fire on the hill.\n2. **Reason**: because there is smoke on the hill.\n3. **Example**: wherever there is smoke, there is fire, as in a kitchen.\n4. **Application**: this hill has smoke, which is always accompanied by fire.\n5. **Conclusion**: therefore, there is fire on the hill.\n\nIncluding a concrete example made the reasoning persuasive in debate as well as valid. Buddhist logicians like **Dignaga** and **Dharmakirti** further developed theories of inference, and Chinese thinkers of the **Mohist** school also studied logic and argument."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If logic is so important, why do people find the abstract card puzzle so hard but the drinking version easy?",
+      "md": "Psychologists have debated this for decades. One influential explanation, from evolutionary psychologists **Leda Cosmides** and **John Tooby**, is that humans evolved specialised reasoning for **detecting cheaters** in social exchanges, since spotting people who take benefits without paying costs was crucial for survival in cooperative groups. So we reason well about rules involving permissions and obligations, but struggle with the same logic in abstract form. Others argue that familiarity and context matter more generally. Either way, the lesson is that our reasoning is shaped by context, and abstract logical thinking is a skill that improves with practice, which is exactly why mathematics and logic are worth studying."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Logic** studies valid reasoning; it uses **propositions** that are true or false and connectives like **AND**, **OR** and **NOT**.",
+        "**George Boole (1854)** turned logic into algebra, the foundation of **digital computing**.",
+        "A **conditional** “if P then Q” is equivalent to its **contrapositive** (“if not Q then not P”), but not to its **converse** or **inverse**.",
+        "**Affirming the consequent** and **denying the antecedent** are common invalid forms; **modus ponens** and **modus tollens** are valid.",
+        "In the **Wason selection task**, only about **10%** solve the abstract version, but most solve social versions.",
+        "**Aristotle’s syllogisms**, the **Nyaya five-step inference** and Buddhist and Mohist logic show logic developed in many cultures."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Logic underpins mathematics, computer science, law and clear thinking in everyday life. Recognising valid and invalid forms of reasoning helps you evaluate arguments, avoid being misled and express your own ideas more convincingly. The next lesson shows how mathematicians use logic to build proofs: arguments that establish truths with complete certainty."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between a conditional statement, its converse and its contrapositive, and why do so many people get the Wason selection task wrong?"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "math.geometry.2",
+  "region": "math",
+  "topic": "geometry",
+  "level": 2,
+  "prerequisites": [
+    "math.geometry.1"
+  ],
+  "title": "Curved Space, Fractals and Hidden Dimensions",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Look at a typical world map on a classroom wall, and **Greenland** appears roughly the same size as **Africa**. In reality, Africa is about **fourteen times** larger. India, which looks modest on many maps, is larger than it appears compared with countries far from the equator, like Russia and Canada.\n\nThe distortion comes from the **Mercator projection**, designed by the Flemish mapmaker **Gerardus Mercator** in **1569** for sailors. It has a valuable property: a straight line on the map corresponds to a constant compass direction, which made navigation easier. But it achieves this by stretching areas more and more towards the poles. The problem it was solving goes to the heart of geometry: you can’t flatten a curved surface without distorting it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met Euclid’s geometry, built on five postulates. The **fifth postulate**, about parallel lines, bothered mathematicians for two thousand years. It seemed less self-evident than the others, and many tried to prove it from the first four. All failed.\n\nIn the early **19th century**, several mathematicians, including **Carl Friedrich Gauss** in Germany, **János Bolyai** in Hungary and **Nikolai Lobachevsky** in Russia, independently tried a daring idea: what if the fifth postulate were **false**? Instead of finding a contradiction, they discovered entirely consistent new geometries. This was **non-Euclidean geometry**."
+    },
+    {
+      "type": "text",
+      "heading": "Geometry on curved surfaces",
+      "md": "There are two main kinds of non-Euclidean geometry:\n\n**Spherical geometry** (positive curvature), like the surface of a globe:\n\n- The “straightest” paths are **great circles**, like the equator or lines of longitude.\n- There are **no parallel lines**: any two great circles meet, as all lines of longitude meet at the poles.\n- The angles of a triangle add up to **more than 180 degrees**. Imagine a triangle with one corner at the North Pole and two on the equator, a quarter of the way around the Earth from each other: each corner has a right angle, so the angles total **270 degrees**.\n\n**Hyperbolic geometry** (negative curvature), like a saddle or a crinkly lettuce leaf:\n\n- Through a point, there are **infinitely many** lines that never meet a given line.\n- The angles of a triangle add up to **less than 180 degrees**.\n\nIn **1854**, the German mathematician **Bernhard Riemann** developed a general framework for geometry on curved spaces of any number of dimensions. It seemed purely abstract at the time."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an ant walking on a ball. To the ant, its path feels perfectly straight; it never turns left or right. Yet if it keeps walking, it eventually returns to its starting point, and if it walks a triangle, the angles add up to more than 180 degrees. The ant’s world obeys a different geometry from a flat sheet of paper. We, living on a curved Earth in curved spacetime, are in a similar position."
+    },
+    {
+      "type": "text",
+      "heading": "Non-Euclidean geometry in the real world",
+      "md": "**Flight routes**: the shortest path between two points on a sphere is along a great circle, which often looks curved on a flat map. Flights between Delhi and San Francisco, or London and Los Angeles, often pass far to the north, over or near the Arctic, because that’s the shortest route on a globe, even though it looks like a detour on a Mercator map.\n\n**Navigation and GPS**: calculating positions and distances on Earth’s curved surface requires spherical geometry.\n\n**The universe**: when **Albert Einstein** developed general relativity in 1915, as you saw in the Space region, he needed exactly the kind of curved geometry Riemann had developed. In his theory, mass and energy curve spacetime, and objects follow the straightest possible paths through it. Riemann’s abstract mathematics turned out to describe gravity itself."
+    },
+    {
+      "type": "text",
+      "heading": "Maps and projections",
+      "md": "Because a sphere can’t be flattened without stretching or tearing, **every flat map distorts** something: area, shape, distance or direction. Different **projections** make different trade-offs:\n\n- **Mercator** preserves directions and local shapes, useful for navigation, but greatly exaggerates areas near the poles.\n- **Equal-area projections**, like the Gall–Peters projection, show countries’ true relative sizes, but distort their shapes.\n- **Compromise projections**, like the Robinson or Winkel tripel, balance different distortions, and are widely used in atlases.\n\nMap choices can influence how people perceive the world: Mercator maps make Europe and North America look larger relative to Africa, South America and South Asia. Online map services often use a version of Mercator for practical reasons, as it preserves shapes when you zoom in on local areas."
+    },
+    {
+      "type": "text",
+      "heading": "Fractals: the geometry of roughness",
+      "md": "Euclidean geometry describes smooth shapes: lines, circles, spheres. But nature is full of rough, irregular forms: coastlines, mountains, clouds, trees, ferns, rivers, lungs and lightning.\n\nIn **1967**, the Polish-born French-American mathematician **Benoît Mandelbrot** published a paper asking: “**How long is the coast of Britain?**” Building on earlier work by Lewis Fry Richardson, the weather-forecasting pioneer you met in the Earth region, he pointed out that the answer depends on the length of your ruler. Measure with a 100-kilometre ruler and you skip over bays and headlands. Use a 1-kilometre ruler and you capture more detail, so the length increases. Use a 1-metre ruler, and it increases further. In principle, the measured length keeps growing as the ruler shrinks. This is the **coastline paradox**.\n\nIn **1975**, Mandelbrot coined the word **fractal** for shapes that show **similar patterns at every scale**: zoom in, and you see smaller copies of the whole, a property called **self-similarity**."
+    },
+    {
+      "type": "steps",
+      "title": "Building the Koch snowflake",
+      "items": [
+        "Start with an **equilateral triangle**.",
+        "On the middle third of each side, add a smaller equilateral triangle pointing outward. You now have a six-pointed star.",
+        "Repeat on every straight edge of the new shape: replace its middle third with a smaller triangle.",
+        "Keep repeating forever.",
+        "With each step, the perimeter grows by a factor of 4/3. After infinitely many steps, the perimeter becomes **infinitely long**.",
+        "Yet the snowflake always fits inside a circle around the original triangle, so its **area stays finite**. It’s a shape with an infinite boundary enclosing a finite area, described by the Swedish mathematician **Helge von Koch** in **1904**."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Fractals in nature and technology",
+      "md": "Fractal-like patterns appear throughout nature: the branching of trees, rivers, blood vessels and the airways in your lungs, which pack an enormous surface area for absorbing oxygen into your chest; the florets of **romanesco** broccoli; ferns; snowflakes; and mountain ranges.\n\nFractal mathematics has practical uses: generating realistic landscapes in films and video games, designing compact antennas for mobile phones, analysing financial markets and studying patterns in medicine."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What is topology, and why do mathematicians joke that a coffee mug is the same as a doughnut?",
+      "md": "**Topology** is a branch of geometry that studies properties of shapes that don’t change when they are stretched, squashed or bent, as long as they aren’t torn or glued. To a topologist, a coffee mug and a doughnut are the same shape: each has exactly **one hole** (the mug’s handle), and you could, in principle, smoothly reshape one into the other if it were made of clay. A sphere and a doughnut are different, because you can’t create a hole without tearing. Topology began in **1736**, when **Leonhard Euler** solved the **Seven Bridges of Königsberg** problem, proving that it was impossible to walk through the city crossing each of its seven bridges exactly once, by realising that only the connections mattered, not the exact distances or shapes. Topology now has applications in physics, biology (such as how DNA knots and tangles), data analysis and network design."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Questioning Euclid’s **fifth postulate** led **Gauss**, **Bolyai** and **Lobachevsky** to **non-Euclidean geometry**.",
+        "On a **sphere**, there are no parallel lines and triangle angles exceed **180°**; in **hyperbolic** geometry, they’re less than 180°.",
+        "**Riemann (1854)** generalised curved geometry, later used by **Einstein** for general relativity.",
+        "Shortest flight routes follow **great circles**; every flat **map projection** distorts something; **Mercator (1569)** exaggerates polar areas (Africa is about **14 times** Greenland).",
+        "**Fractals** (coined by **Mandelbrot**, 1975) show self-similarity; the **coastline paradox** and **Koch snowflake** show infinite length in finite space.",
+        "**Topology** studies properties unchanged by stretching; it began with **Euler’s Königsberg bridges (1736)**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Non-Euclidean geometry, maps, fractals and topology show that “shape” is far richer than school geometry suggests, and that abstract mathematical ideas can turn out to describe the real world, from flight paths to the curvature of spacetime. They also teach a valuable habit: questioning assumptions that seem obvious can open up entirely new ways of seeing."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is non-Euclidean geometry and where does it apply in the real world, why do common world maps distort country sizes, and what is a fractal?"
+  }
+}

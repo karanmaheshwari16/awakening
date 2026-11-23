@@ -1,0 +1,87 @@
+{
+  "id": "math.logic-proof.2",
+  "region": "math",
+  "topic": "logic-proof",
+  "level": 2,
+  "prerequisites": [
+    "math.logic-proof.1"
+  ],
+  "title": "What Makes a Proof?",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1637**, the French lawyer and amateur mathematician **Pierre de Fermat** scribbled a note in the margin of an ancient Greek maths book. He claimed that the equation **aⁿ + bⁿ = cⁿ** has no solutions in positive whole numbers for any power n greater than 2. Then he added: “I have discovered a truly marvellous proof of this, which this margin is too narrow to contain.”\n\nNo proof was ever found among his papers. For over **350 years**, the greatest mathematicians in the world tried and failed to prove **Fermat’s Last Theorem**. Finally, in **1994**, the British mathematician **Andrew Wiles**, who had been fascinated by the problem since he was ten years old, completed a proof after seven years of largely secret work. It ran to well over a hundred pages and used mathematics Fermat couldn’t possibly have known. Mathematicians generally believe Fermat was mistaken about having a proof. But why did it matter so much? Because in mathematics, a claim isn’t accepted as true until it’s **proved**."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In science, ideas are supported by **evidence**, and always remain open to revision, as you saw in the Philosophy region. Mathematics is different. A mathematical **proof** is a logical argument that shows a statement **must** be true, with complete certainty, starting from agreed basic assumptions (called **axioms**) and using only valid logical steps.\n\nNo amount of examples can prove a general mathematical claim. Consider the statement “**n² + n + 41** is always a prime number.” Try n = 0, 1, 2, 3… and you get primes: 41, 43, 47, 53… It works for every value of n from 0 all the way to 39. But at n = 40, you get 1,681, which is 41 × 41. A pattern that held for forty cases was false. Only proof gives certainty.\n\nOnce something is proved, it stays proved forever. Euclid’s proofs from over 2,000 years ago are just as valid today."
+    },
+    {
+      "type": "steps",
+      "title": "Euclid’s proof that there are infinitely many primes",
+      "items": [
+        "A **prime number** is a whole number greater than 1 whose only factors are 1 and itself: 2, 3, 5, 7, 11, 13, …",
+        "Around **300 BCE**, the Greek mathematician **Euclid** proved that the primes never run out. Here’s a version of his argument.",
+        "Suppose, for the sake of argument, that there were only a finite number of primes. Call them p₁, p₂, … up to the largest one, pₙ.",
+        "Multiply all of them together and **add 1**. Call the result N.",
+        "N leaves a remainder of 1 when divided by any prime on the list, so none of them divides it exactly.",
+        "So either N is itself prime, or it has a prime factor that isn’t on the list. Either way, there’s a prime missing from our supposedly complete list.",
+        "That’s a contradiction. So the assumption was wrong: there must be **infinitely many** primes."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Proof by contradiction",
+      "md": "Euclid’s argument uses **proof by contradiction** (also called *reductio ad absurdum*): assume the opposite of what you want to prove, and show that this leads to something impossible. You met the same technique in the proof that √2 is irrational. It’s one of the most powerful tools in mathematics."
+    },
+    {
+      "type": "text",
+      "heading": "Proof by induction",
+      "md": "Another powerful technique is **mathematical induction**, used to prove that something is true for **all** whole numbers. It has two steps:\n\n1. **Base case**: show the statement is true for the first number, usually 1.\n2. **Inductive step**: show that **if** it’s true for any number k, **then** it must also be true for k + 1.\n\nIf both steps hold, the statement is true for every whole number: it’s true for 1; so it’s true for 2; so it’s true for 3; and so on, forever.\n\nFor example, you can use induction to prove that the sum of the first n odd numbers always equals n²: 1 = 1, 1 + 3 = 4, 1 + 3 + 5 = 9, 1 + 3 + 5 + 7 = 16, and so on, for every n."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of induction like an infinite row of dominoes. If you can prove that the first domino falls (the base case), and that any falling domino always knocks over the next one (the inductive step), then you know every domino in the row will fall, even though you could never watch them all."
+    },
+    {
+      "type": "text",
+      "heading": "Proofs across the world",
+      "md": "Proofs have a long, international history:\n\n- The relationship now called **Pythagoras’s theorem**, that in a right-angled triangle the square on the longest side equals the sum of the squares on the other two, was known in **Babylon** over a thousand years before Pythagoras. In India, the **Baudhayana Sulba Sutra**, an ancient text on constructing fire altars, stated the relationship, likely several centuries before Pythagoras. Greek mathematicians, especially Euclid, emphasised rigorous step-by-step proof. Today there are hundreds of different proofs of the theorem.\n- Chinese mathematicians developed their own demonstrations, such as visual proofs in the ancient text known as the *Zhoubi Suanjing*.\n- The Kerala school, as you saw earlier, provided justifications for its infinite series, in a text called the *Yuktibhasa*."
+    },
+    {
+      "type": "text",
+      "heading": "Ramanujan: intuition and proof",
+      "md": "In **1913**, a self-taught Indian clerk from Madras named **Srinivasa Ramanujan** wrote to the Cambridge mathematician **G. H. Hardy**, enclosing pages of extraordinary formulas, many stated without proof. Hardy later said some of them “defeated me completely” and that they must be true, because no one would have the imagination to invent them.\n\nHardy brought Ramanujan to Cambridge, where they collaborated brilliantly. Ramanujan’s intuition produced thousands of results, many of which later mathematicians spent decades proving, and some of which have found applications in physics and computer science. Hardy’s role was partly to help turn Ramanujan’s insights into rigorous proofs. Ramanujan died in **1920**, aged just 32. His birthday, 22 December, is celebrated as **National Mathematics Day** in India."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can every true mathematical statement be proved?",
+      "md": "Surprisingly, no. In **1931**, the Austrian logician **Kurt Gödel**, aged just 25, published his **incompleteness theorems**. He proved that in any consistent system of axioms powerful enough to describe ordinary arithmetic, there will always be **true statements that can’t be proved within that system**. And such a system can’t prove its own consistency. This shattered the hope, championed by David Hilbert, of finding a complete set of axioms from which all mathematical truths could be derived. Gödel’s work, along with Turing’s on uncomputable problems that you met in the Technology region, revealed fundamental limits to what formal reasoning can achieve. Mathematics remains open-ended: some famous problems, like the **Goldbach conjecture** (every even number greater than 2 is the sum of two primes), have been checked for vast numbers of cases but remain unproved."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **proof** shows a statement **must** be true, using valid logic from **axioms**; examples alone can’t prove general claims (n² + n + 41 fails at n = 40).",
+        "**Euclid** (~300 BCE) proved there are **infinitely many primes** using **proof by contradiction**.",
+        "**Mathematical induction** proves statements for all whole numbers via a **base case** and an **inductive step**.",
+        "**Pythagoras’s theorem** was known in Babylon and India (**Baudhayana Sulba Sutra**) before Pythagoras.",
+        "**Fermat’s Last Theorem** (1637) was proved by **Andrew Wiles** in **1994**.",
+        "**Ramanujan** (1887–1920) produced extraordinary results through intuition, many later proved.",
+        "**Gödel (1931)** proved some true statements can’t be proved within a given system."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Proof is what makes mathematics uniquely certain, and the habit of demanding justification, rather than accepting a pattern or an authority, is valuable everywhere. The history of proof also shows mathematics as a global, creative human adventure, still full of unsolved mysteries. Next, you’ll explore geometry: the mathematics of shape and space."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does Euclid’s proof show there are infinitely many primes, how does proof by induction work, and what did Gödel prove about the limits of mathematics?"
+  }
+}

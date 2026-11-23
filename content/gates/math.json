@@ -1,0 +1,34 @@
+[
+  {
+    "id": "math.gate.1",
+    "region": "math",
+    "tier": 1,
+    "title": "The Outbreak Report",
+    "question": "A news report says: \"Cases of a new illness doubled this week. A test for it is 95% accurate. Towns with more hospitals report more cases, so hospitals may be spreading it.\" Using what you have learned about exponential growth, probability, statistics and logic, explain what each part of the report could mean, what is misleading, and what questions you would ask.",
+    "links": ["exponentials", "probability", "statistics", "logic-proof", "numbers"],
+    "model_answer": "Doubling: if cases are doubling every week, that is exponential growth. Early on the numbers may look small, but by the Rule of 70 logic, repeated doublings grow fast: ten doublings multiply cases by about a thousand. So the doubling time matters more than the current count, and acting early matters. I would ask how long cases have been doubling, whether testing has also increased (more tests find more cases), and whether growth is slowing towards an S-curve as immunity or behaviour changes.\n\n\"95% accurate\": this is ambiguous. A test can have high sensitivity and specificity yet still produce mostly false positives when the illness is rare, because of base rates. For example, if 1 in 1,000 people have it and 5% of healthy people test positive, most positive results will be false. I would ask for the sensitivity, the false positive rate and how common the illness is, and convert to natural frequencies.\n\nHospitals and cases: this is correlation, not causation. Larger towns have both more hospitals and more people, so more cases, a confounder. Hospitals also test and diagnose more, so more cases are recorded where hospitals are. There may be reverse causation if hospitals were built where illness was already common. Logically, \"places with hospitals have more cases\" does not imply \"hospitals cause cases\"; that is like affirming the consequent. I would ask for cases per person, adjusted for testing, and ideally comparisons that control for population size.",
+    "key_points": [
+      "Weekly doubling is exponential; doubling time and testing changes matter more than the raw count.",
+      "Test \"accuracy\" is ambiguous; with a rare illness, base rates can make most positives false.",
+      "Use natural frequencies and ask for sensitivity, false positive rate and prevalence.",
+      "Hospitals and cases are correlated through confounders (population, testing) and possible reverse causation.",
+      "Ask for per-person rates, adjusted comparisons and evidence of causation."
+    ]
+  },
+  {
+    "id": "math.gate.2",
+    "region": "math",
+    "tier": 2,
+    "title": "Certainty and Its Limits",
+    "question": "Compare how mathematicians, scientists and statisticians each decide that something is true. Use examples from proof, probability and Bayes, statistics and geometry to explain where certainty is possible, where it is not, and why assumptions matter in every case.",
+    "links": ["logic-proof", "probability", "statistics", "geometry"],
+    "model_answer": "Mathematicians establish truth by proof: a chain of valid logical steps from axioms. Once proved, a result such as Euclid’s infinitude of primes is certain forever. Examples alone are never enough: n² + n + 41 gives primes for forty values and then fails. But mathematical certainty is certainty relative to the axioms. Changing Euclid’s parallel postulate produces consistent non-Euclidean geometries in which triangle angles do not sum to 180 degrees, and Gödel showed that any rich enough system contains true statements it cannot prove. So even mathematics rests on chosen assumptions and has limits.\n\nScientists and statisticians deal with the real world, where certainty is not available. They use evidence and probability. Bayes’ theorem describes how confidence should be updated: start from a prior based on base rates, weigh how likely the evidence is under each explanation, and revise as new data arrive. Statistics adds tools for drawing conclusions from samples, but only if the sample is representative; the Literary Digest poll was huge yet wrong because of sampling bias, and survivorship bias misled the analysis of bombers until Wald questioned which data were missing. Correlation alone does not establish causation; randomised trials and careful reasoning are needed. Results come with margins of error and remain open to revision.\n\nIn every case, assumptions matter: axioms in mathematics, priors and independence assumptions in probability (wrongly assuming independence helped convict Sally Clark), and representativeness in statistics. Good reasoning means stating assumptions clearly and checking them.",
+    "key_points": [
+      "Proof gives certainty relative to axioms; examples cannot prove general claims.",
+      "Changing axioms (the parallel postulate) yields different consistent geometries; Gödel showed limits to proof.",
+      "Real-world knowledge is probabilistic; Bayes updates beliefs from priors and evidence.",
+      "Statistics depends on representative samples and avoiding biases like sampling and survivorship bias.",
+      "Assumptions matter everywhere: axioms, priors, independence and representativeness."
+    ]
+  }
+]

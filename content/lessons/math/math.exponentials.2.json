@@ -1,0 +1,86 @@
+{
+  "id": "math.exponentials.2",
+  "region": "math",
+  "topic": "exponentials",
+  "level": 2,
+  "prerequisites": [
+    "math.exponentials.1"
+  ],
+  "title": "Logarithms, Scales and the Limits to Growth",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1614**, a Scottish landowner and mathematician named **John Napier** published a book introducing a new mathematical tool he had spent around twenty years developing. He called them **logarithms**.\n\nAt the time, astronomers, navigators and engineers spent enormous amounts of time on tedious multiplication and division of large numbers, where errors could wreck a ship’s course or an astronomer’s predictions. Logarithms turned multiplication into addition, which is far quicker. The French mathematician Pierre-Simon Laplace later said logarithms, by shortening calculations, had doubled the life of astronomers. For over 300 years, until electronic calculators arrived in the 1970s, scientists and engineers relied on **slide rules** based on logarithms."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **logarithm** answers the question: **what power do I need to raise a number to, to get another number?**\n\nFor example, 10 raised to the power of 3 is 1,000. So the logarithm of 1,000, using **base 10**, is **3**. We write this as log₁₀(1,000) = 3.\n\n- log₁₀(10) = 1\n- log₁₀(100) = 2\n- log₁₀(1,000,000) = 6\n\nLogarithms are the **inverse** of exponential growth, just as subtraction undoes addition. If exponential growth asks “what do I get if I keep multiplying?”, logarithms ask “how many times did I multiply?”.\n\nThe key property that made them so useful: the logarithm of a product equals the **sum** of the logarithms. So to multiply two large numbers, you could look up their logarithms in a table, add them, and look up the result. Multiplication became addition."
+    },
+    {
+      "type": "text",
+      "heading": "Logarithmic scales",
+      "md": "When quantities vary over a huge range, from tiny to enormous, it’s often useful to measure them on a **logarithmic scale**, where each step represents **multiplying** by a fixed amount rather than adding one.\n\n- **Earthquake magnitude**: as you saw in the Earth region, each whole number step represents about 32 times more energy, and 10 times larger ground motion on a seismometer.\n- **pH**: measures acidity. Each step down the scale means **10 times** more acidic. Lemon juice (pH around 2) is about 100,000 times more acidic than pure water (pH 7). That’s why the ocean’s pH falling by just 0.1 means a roughly 30% increase in acidity.\n- **Decibels**: measure sound intensity. Every increase of 10 decibels means 10 times more intense sound. A rock concert at around 110 decibels is about **10 billion times** more intense than a whisper at 10 decibels.\n- **Star brightness**: astronomers’ magnitude scale is logarithmic, a tradition dating back to the ancient Greek astronomer Hipparchus.\n\nInterestingly, human senses partly work logarithmically. We perceive the difference between 1 and 2 lamps as similar to the difference between 10 and 20 lamps, an idea known as the **Weber–Fechner law**. Logarithmic scales often match how we experience the world."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a logarithm as a way of counting zeros. A thousand has three zeros, a million has six, a billion has nine. On a log scale, going from a thousand to a million is the same size step as going from a million to a billion. It squashes enormous ranges into a manageable size, the way a map squashes a whole country onto a single page."
+    },
+    {
+      "type": "text",
+      "heading": "Why log graphs show straight lines",
+      "md": "If you plot exponential growth on an ordinary graph, it curves steeply upward and quickly shoots off the top of the page. But plot it on a graph with a **logarithmic vertical axis**, and it becomes a **straight line**.\n\nThis makes log graphs extremely useful for spotting exponential growth and measuring its rate. During the COVID-19 pandemic, many charts of case numbers used log scales: a straight upward line meant steady exponential growth, and a line that bent and flattened meant growth was slowing. Moore’s law looks like a straight line on a log scale over decades. When reading graphs, always check whether the axis is linear or logarithmic, since they tell very different stories at a glance."
+    },
+    {
+      "type": "text",
+      "heading": "Exponential decay",
+      "md": "Exponential processes can also shrink. In **exponential decay**, a quantity decreases by the same **fraction** in each period. You met this in the Physics region with **radioactive half-life**: after each half-life, half of the remaining radioactive atoms have decayed. Other examples include the cooling of a hot cup of tea (the temperature difference with the room shrinks exponentially), the way medicines are cleared from the body, and the decline in value of some assets over time."
+    },
+    {
+      "type": "text",
+      "heading": "The limits to growth: S-curves",
+      "md": "In the real world, exponential growth can’t continue forever. Eventually, it runs into limits: food, space, resources or, for diseases, people who are no longer susceptible.\n\nIn **1838**, the Belgian mathematician **Pierre-François Verhulst** described a pattern called **logistic growth**. Growth starts out nearly exponential, then slows as it approaches a maximum, called the **carrying capacity**, and finally levels off. Plotted on a graph, it forms an **S-shaped curve**.\n\nS-curves describe many real processes: populations of animals in new habitats, the spread of epidemics, the adoption of new technologies like mobile phones, and the growth of companies."
+    },
+    {
+      "type": "steps",
+      "title": "Human population: an S-curve in progress?",
+      "items": [
+        "In **1798**, the English economist **Thomas Malthus** warned that population would grow exponentially while food supply grew only linearly, leading inevitably to famine and misery.",
+        "In fact, food production grew far faster than he expected, thanks to new farming technologies, and living standards rose.",
+        "World population reached **1 billion** around **1800**, **2 billion** around 1927, and grew fastest in the 1960s, at over **2%** a year.",
+        "It reached **8 billion** in **November 2022**. In **2023**, **India** overtook **China** as the world’s most populous country.",
+        "Global population growth has slowed to below **1%** a year, mainly because **fertility rates** have fallen as countries have become richer, child mortality has dropped, and education, especially for women, has expanded. India’s fertility rate has fallen to around the **replacement level** of about 2.1 children per woman.",
+        "UN projections suggest world population may peak during the second half of this century, at around **10 billion**, and then slowly decline: an S-curve, though future trends are uncertain."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What is the special number e, and why does it appear everywhere?",
+      "md": "The number **e**, approximately **2.71828**, is the base of the **natural logarithm**. It was discovered by the Swiss mathematician **Jacob Bernoulli** in **1683** while studying compound interest. He asked: if you invest 1 unit at 100% interest per year, how much would you have if interest were compounded more and more often, every month, every day, every second? The answer approaches a limit: about **2.718**. That’s e. It arises naturally whenever something grows or decays continuously at a rate proportional to its size, so it appears in population growth, radioactive decay, cooling, probability and physics. The mathematician **Leonhard Euler** later studied it deeply, and it’s now named after him."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **logarithm** tells you what power to raise a base to: log₁₀(1,000) = 3. **Napier** introduced logarithms in **1614**.",
+        "Logarithms turn **multiplication into addition**, which made calculation far easier before electronic calculators.",
+        "**Logarithmic scales**, like **earthquake magnitude**, **pH** and **decibels**, handle huge ranges; each step multiplies.",
+        "On a **log graph**, exponential growth appears as a **straight line**.",
+        "**Exponential decay** shrinks by the same fraction each period, as in **half-life**.",
+        "Real growth usually follows an **S-curve** (logistic growth, **Verhulst, 1838**), levelling off at a **carrying capacity**.",
+        "World population reached **8 billion** in **2022**; growth is slowing as fertility falls. **e** (≈ 2.718) underlies continuous growth."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Logarithms and S-curves help you understand news about earthquakes, acidity, sound, pandemics, technology and population, and to read graphs correctly. They also offer a crucial insight: exponential growth is powerful but never permanent in the real world. Knowing when growth will slow, and why, is as important as knowing how fast it’s growing."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a logarithm, why are scales like earthquake magnitude and pH logarithmic, and why does real-world growth usually follow an S-shaped curve rather than continuing exponentially?"
+  }
+}

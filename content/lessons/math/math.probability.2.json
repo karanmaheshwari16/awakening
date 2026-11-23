@@ -1,0 +1,81 @@
+{
+  "id": "math.probability.2",
+  "region": "math",
+  "topic": "probability",
+  "level": 2,
+  "prerequisites": [
+    "math.probability.1"
+  ],
+  "title": "Conditional Probability and Bayes’ Theorem",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1999**, an English solicitor named **Sally Clark** was convicted of murdering her two baby sons, who had died suddenly, weeks after birth, in 1996 and 1998. A key part of the case was testimony from a prominent paediatrician, who told the court that the chance of two babies in a family like hers both dying of sudden infant death syndrome (SIDS) was about **1 in 73 million**.\n\nThe figure was badly flawed. It wrongly assumed the two deaths were independent, ignoring genetic and environmental factors that could make a second SIDS death more likely in the same family. Worse, it confused the probability of the evidence with the probability of guilt. The Royal Statistical Society publicly criticised the statistics. Clark’s conviction was overturned in **2003**, after other evidence emerged, but she never recovered from the ordeal and died in 2007. Misunderstood probability can destroy lives."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you calculated probabilities of simple events. But in real life, probabilities often depend on **what you already know**. The probability that it will rain is different from the probability that it will rain **given that** the sky is full of dark clouds.\n\n**Conditional probability** is the probability of an event **given** that another event has happened. It’s written P(A | B), read as “the probability of A given B”.\n\nA crucial point: **P(A | B) is usually not the same as P(B | A)**.\n\n- The probability that a person is **a cricketer, given that they’re Indian**, is small: most Indians aren’t professional cricketers.\n- The probability that a person is **Indian, given that they’re a professional cricketer** on the Indian team, is essentially 100%.\n\nConfusing these two directions is one of the most common and dangerous errors in reasoning."
+    },
+    {
+      "type": "text",
+      "heading": "The prosecutor’s fallacy",
+      "md": "The **prosecutor’s fallacy** is exactly this confusion, in a legal setting. It mixes up:\n\n- The probability of the **evidence, if the defendant is innocent**: “If she were innocent, the chance of two such deaths would be tiny.”\n- The probability that the defendant is **innocent, given the evidence**: “So the chance she’s innocent is tiny.”\n\nThese are not the same. Even if the evidence is very unlikely under innocence, it might also be very unlikely under guilt. In the Sally Clark case, double murder of infants by a mother is itself extremely rare. To judge guilt properly, the two unlikely explanations must be **compared** with each other, not judged in isolation.\n\nA similar error happens with DNA evidence. If a DNA profile matches only 1 in a million people, that doesn’t mean there’s a 1 in a million chance the suspect is innocent. In a country of over a billion people, over a thousand people might match. The match is strong evidence, but its meaning depends on everything else known about the case."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine you hear hoofbeats outside your window in Delhi. The probability of hearing hoofbeats, **if** there’s a zebra outside, is high. But the probability that there’s a zebra outside, **given** that you hear hoofbeats, is very low, because horses (and other hoofed animals) are far more common than zebras in Delhi. Doctors have a saying for this: when you hear hoofbeats, think horses, not zebras."
+    },
+    {
+      "type": "text",
+      "heading": "Bayes’ theorem",
+      "md": "The mathematical tool for correctly reversing conditional probabilities is **Bayes’ theorem**, named after the English minister **Thomas Bayes**, whose work on it was published after his death in 1763. You met the core idea in the Philosophy region. In words, it says:\n\n**Updated belief = prior belief × how much more likely the evidence is if the belief is true, compared with if it’s false.**\n\nMore formally, it combines three ingredients:\n\n1. The **prior probability**: how likely the hypothesis was before seeing the evidence (the **base rate**).\n2. The **likelihood**: how probable the evidence is if the hypothesis is true.\n3. How probable the evidence is overall, including if the hypothesis is false."
+    },
+    {
+      "type": "steps",
+      "title": "Bayes in action with natural frequencies",
+      "items": [
+        "Psychologist **Gerd Gigerenzer** found that people reason much better with **natural frequencies**, counts of people, than with percentages. Here’s an example.",
+        "A disease affects **1 in 100** people in a population. A screening test detects **90%** of people who have the disease. It also gives a false positive for **9%** of healthy people.",
+        "Imagine **1,000** people. About **10** have the disease; the test correctly flags **9** of them.",
+        "Of the **990** healthy people, 9% test positive anyway: about **89** false positives.",
+        "So about **98** people test positive, but only **9** of them actually have the disease.",
+        "The chance that a person who tests positive has the disease is 9 ÷ 98, about **9%**, not 90%.",
+        "In one study, Gigerenzer found many doctors badly overestimated this probability when given percentages, but far more reasoned correctly when the same information was presented as natural frequencies."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Updating beliefs step by step",
+      "md": "One powerful feature of Bayesian reasoning is that it can be **repeated**. Each time new evidence arrives, yesterday’s updated belief becomes today’s prior.\n\nSuppose the person in the example above tests positive (now about 9% likely to have the disease). If they take a **second**, independent test and it’s also positive, the probability rises much higher, because the false positives from the first test are now filtered again. This is why doctors often confirm screening results with further tests rather than acting on a single positive result.\n\nThis step-by-step updating describes how good scientists, detectives and forecasters ideally think: never fully certain, always adjusting confidence in proportion to the strength of new evidence."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How do spam filters use Bayes’ theorem?",
+      "md": "In **2002**, the programmer **Paul Graham** popularised a simple but effective approach to filtering spam email using Bayes’ theorem. The filter learns from emails you’ve marked as spam or not spam, recording how often each word appears in each. When a new email arrives, it combines the evidence from many words. Words like “lottery”, “winner” or “guaranteed” raise the probability that the email is spam; your friends’ names or work terms lower it. Each word updates the probability, just like adding new evidence. Such **naive Bayes** filters, so called because they simplify by treating each word as independent, worked remarkably well and influenced many email systems, though modern filters use more sophisticated machine learning, as you saw in the Technology region."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Conditional probability** P(A | B) is the probability of A given that B is true; it’s usually **not equal** to P(B | A).",
+        "The **prosecutor’s fallacy** confuses the probability of the evidence given innocence with the probability of innocence given the evidence, as in the **Sally Clark** case.",
+        "**Bayes’ theorem** combines the **prior** (base rate), the **likelihood** of evidence and overall probability to update beliefs.",
+        "With a rare disease, even an accurate test can produce mostly **false positives**; **natural frequencies** make this clearer (Gigerenzer).",
+        "Beliefs can be **updated repeatedly** as new evidence arrives.",
+        "**Spam filters** have used Bayesian reasoning to weigh evidence from many words."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Conditional probability and Bayes’ theorem help you interpret medical test results, legal evidence, news about risks and data of all kinds. They protect against some of the most consequential errors in reasoning, errors that have led to wrongful convictions and unnecessary medical treatments. They also offer a model for thinking well in general: start with what’s already likely, and update in proportion to the evidence."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is conditional probability, what is the prosecutor’s fallacy, and how does Bayes’ theorem help you update beliefs when new evidence arrives?"
+  }
+}

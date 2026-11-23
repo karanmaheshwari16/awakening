@@ -1,0 +1,80 @@
+{
+  "id": "math.probability.1",
+  "region": "math",
+  "topic": "probability",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Probability: The Mathematics of Uncertainty",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1654**, a French gambler known as the **Chevalier de Méré** asked the brilliant mathematician **Blaise Pascal** a question that had puzzled gamblers for centuries: if a game of chance is interrupted before it ends, how should the stakes be fairly divided between the players, based on their chances of winning?\n\nPascal began exchanging letters with another great mathematician, **Pierre de Fermat**. Over a few months, they worked out how to calculate the chances systematically. Their correspondence is often seen as the birth of **probability theory**: a branch of mathematics that now underpins insurance, medicine, weather forecasting, finance, artificial intelligence and much of modern science."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Probability** is a measure of how likely something is to happen, expressed as a number between **0** and **1** (or 0% and 100%):\n\n- **0** means impossible.\n- **1** means certain.\n- **0.5** means equally likely to happen or not.\n\nWhen all outcomes are equally likely, the probability of an event is:\n\n**Probability = number of favourable outcomes ÷ total number of possible outcomes**\n\nFor a fair six-sided die, the probability of rolling a 4 is 1 ÷ 6, about 0.17. The probability of rolling an even number (2, 4 or 6) is 3 ÷ 6 = 0.5."
+    },
+    {
+      "type": "text",
+      "heading": "Some basic rules",
+      "md": "**The complement rule**: the probability that something **doesn’t** happen is 1 minus the probability that it does. If there’s a 30% chance of rain, there’s a 70% chance of no rain.\n\n**Independent events**: two events are independent if one doesn’t affect the other, like two separate coin tosses. The probability that **both** happen is found by **multiplying** their probabilities. The chance of rolling a six on one die and a six on another is 1/6 × 1/6 = **1/36**, under 3%.\n\n**Either one or the other**: if two events can’t both happen at once, the probability that **one or the other** happens is found by **adding** their probabilities. The chance of rolling a 1 or a 2 on one die is 1/6 + 1/6 = 1/3."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of probability as slicing a pie. The whole pie represents every possible outcome, which together add up to 1. Each outcome gets a slice proportional to how likely it is. Asking “what’s the chance of A?” means asking “how big is A’s slice?”. Asking “what’s the chance of A and then B?” means taking a slice of a slice, which is why probabilities multiply and shrink."
+    },
+    {
+      "type": "steps",
+      "title": "The birthday problem",
+      "items": [
+        "How many people need to be in a room for there to be a better than 50% chance that at least two share a birthday? (Ignore leap years and assume birthdays are evenly spread.)",
+        "Most people guess around 183, half of 365. The real answer is just **23**.",
+        "It’s easier to calculate the chance that **no one** shares a birthday, then subtract from 1.",
+        "The second person has a 364/365 chance of not matching the first. The third has 363/365 of not matching either of the first two. And so on.",
+        "Multiply all these together for 23 people, and the chance of no shared birthday falls to about **49%**, so the chance of at least one shared birthday is about **51%**.",
+        "With **50** people, it’s about **97%**; with **70**, over **99.9%**.",
+        "The surprise comes because people think about the chance of someone matching **their own** birthday. But with 23 people, there are **253** different pairs that could match, which adds up quickly."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The law of large numbers",
+      "md": "Probability doesn’t tell you what will happen in a single event, but it becomes very reliable over **many** events. The **law of large numbers** says that as you repeat an experiment more and more times, the proportion of outcomes gets closer and closer to the true probability.\n\nToss a fair coin 10 times, and you might easily get 7 heads. Toss it 10,000 times, and you’ll almost certainly get very close to 50% heads. This is why casinos always win over time: each individual bet is uncertain, but across millions of bets, the small edge built into the games guarantees profit. It’s also why insurance companies can predict their costs, as you saw in the Money region.\n\nBut the law of large numbers doesn’t mean outcomes “balance out” in the short term. As you saw with the **gambler’s fallacy** in the Money region, a coin that has landed heads five times in a row still has exactly a 50% chance of heads next time."
+    },
+    {
+      "type": "text",
+      "heading": "The Monty Hall problem",
+      "md": "In **1990**, the American columnist **Marilyn vos Savant** answered a puzzle in her magazine column, based on a TV game show hosted by Monty Hall:\n\nYou’re on a game show facing three closed doors. Behind one is a car; behind the other two are goats. You pick a door, say door 1. The host, who **knows** where the car is, opens another door, say door 3, revealing a goat. He then asks: do you want to stick with door 1, or switch to door 2?\n\nVos Savant said you should **switch**: switching wins the car **two-thirds** of the time. She received thousands of letters, including many from people with mathematics PhDs, insisting she was wrong and that the odds were 50–50. Even the great mathematician **Paul Erdős** was reportedly unconvinced until he saw a computer simulation. She was right."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why does switching doors win two-thirds of the time?",
+      "md": "When you first pick, you have a **1 in 3** chance of choosing the car, and a **2 in 3** chance of choosing a goat. If you picked a goat (which happens 2/3 of the time), the host must open the **other** goat door, so the remaining door **must** have the car, and switching wins. If you picked the car (1/3 of the time), switching loses. So switching wins 2/3 of the time. The key is that the host’s choice isn’t random: he knows where the car is and always reveals a goat, which gives you information. If it still feels wrong, imagine **100 doors**: you pick one, and the host opens 98 others, all goats. Would you stick with your original 1-in-100 guess, or switch to the one door he carefully avoided?"
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Probability** ranges from **0** (impossible) to **1** (certain); **Pascal and Fermat (1654)** founded probability theory.",
+        "With equally likely outcomes: probability = favourable outcomes ÷ total outcomes.",
+        "The **complement** of an event has probability 1 minus the event’s probability.",
+        "For **independent** events, multiply probabilities; for **mutually exclusive** events, add them.",
+        "**Birthday problem**: just **23** people give a better than 50% chance of a shared birthday.",
+        "The **law of large numbers** makes probabilities reliable over many trials, but doesn’t make short-term results balance out.",
+        "In the **Monty Hall problem**, switching doors wins **two-thirds** of the time."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Probability is the language of uncertainty, and life is full of uncertainty: weather forecasts, medical tests, insurance, investments, games and risks of all kinds. Our intuitions about chance are often wrong, as the birthday and Monty Hall problems show. Learning to calculate probabilities, even roughly, helps you make better decisions and resist misleading arguments. Next, you’ll explore how probabilities change when you learn new information."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do you calculate the probability of two independent events both happening, why does the birthday problem surprise people, and why should you switch doors in the Monty Hall problem?"
+  }
+}

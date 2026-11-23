@@ -1,0 +1,84 @@
+{
+  "id": "math.geometry.1",
+  "region": "math",
+  "topic": "geometry",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Shape and Space",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Around **240 BCE**, **Eratosthenes**, the chief librarian of the great Library of Alexandria in Egypt, heard that at noon on the summer solstice, in the town of **Syene** (modern Aswan) to the south, the Sun shone straight down to the bottom of a deep well, casting no shadow. On the same day in Alexandria, he measured that a vertical stick **did** cast a short shadow, showing the Sun was about **7.2 degrees** away from directly overhead.\n\nAssuming the Earth was a sphere and the Sun’s rays arrived parallel, he realised that 7.2 degrees, one-fiftieth of a full circle, must be the angle between the two cities measured from Earth’s centre. Knowing the distance between them, he multiplied by 50 and estimated the Earth’s circumference. Depending on which length of the ancient unit he used, his answer was remarkably close to the true value of about **40,000 km**. With a stick, a shadow and geometry, he had measured the world."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Geometry** (from the Greek for “earth measurement”) is the branch of mathematics that studies **shapes**, **sizes**, **angles**, **positions** and **space**. It began with practical needs: measuring land, building structures, navigating and tracking the stars.\n\nAncient Egyptians used geometry to re-mark field boundaries after the Nile’s annual floods. In India, the **Sulba Sutras**, dating back to roughly the first millennium BCE, gave precise geometric rules for constructing fire altars of particular shapes and areas, including methods for turning a square into a circle of nearly equal area.\n\nAround **300 BCE**, the Greek mathematician **Euclid** gathered and organised geometric knowledge in his book, the ***Elements***. Starting from a small number of basic assumptions, called **axioms** or postulates, he proved hundreds of results step by step. The *Elements* became one of the most influential and widely studied books in history, used as a textbook for over two thousand years."
+    },
+    {
+      "type": "text",
+      "heading": "Euclid’s foundations",
+      "md": "Euclid began with five postulates, including:\n\n- A straight line can be drawn between any two points.\n- A circle can be drawn with any centre and radius.\n- All right angles are equal.\n- The famous **fifth postulate**, about parallel lines: roughly, through a point not on a given line, there is exactly **one** line parallel to it.\n\nFrom these, he proved results like:\n\n- The angles in any **triangle** add up to **180 degrees**.\n- The angles in any four-sided shape (a quadrilateral) add up to **360 degrees**.\n- **Pythagoras’s theorem**.\n\nThe fifth postulate seemed less obvious than the others, and mathematicians tried for centuries to prove it from the first four. Their failure eventually led to a revolution, which you’ll explore in the next lesson."
+    },
+    {
+      "type": "steps",
+      "title": "Pythagoras’s theorem in action",
+      "items": [
+        "In a **right-angled triangle**, the longest side, opposite the right angle, is called the **hypotenuse**.",
+        "Pythagoras’s theorem says: the square of the hypotenuse equals the sum of the squares of the other two sides, often written **a² + b² = c²**.",
+        "Example: a triangle with sides of **3** and **4** has a hypotenuse of length **5**, because 3² + 4² = 9 + 16 = 25 = 5².",
+        "Builders have long used this to make perfect right angles: mark a rope with 12 equal sections, form a triangle with sides of 3, 4 and 5 sections, and the angle between the 3 and 4 sides is exactly 90 degrees.",
+        "Practical use: a ladder 5 metres long, with its foot 3 metres from a wall, reaches 4 metres up the wall.",
+        "The theorem underlies distance calculations in maps, navigation, computer graphics and GPS."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Similar shapes: measuring the unreachable",
+      "md": "Two shapes are **similar** if one is a scaled-up or scaled-down version of the other: same angles, proportional sides. This simple idea lets you measure things you can’t reach.\n\nAccording to ancient stories, the Greek thinker **Thales of Miletus**, around the 6th century BCE, measured the height of an Egyptian pyramid using shadows. He waited until his own shadow was exactly as long as he was tall. At that moment, the pyramid’s shadow, measured from its centre, must also equal its height, because the Sun’s rays form similar triangles. The same principle is used by surveyors, astronomers and anyone using a map scale."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of similar triangles like a photograph and its enlargement. Every proportion is preserved: if a person’s arm is half their height in the small photo, it’s half their height in the big poster too. If you know the scale and one measurement, you can work out all the others, which is how a shadow, a stick and some geometry can reveal the height of a pyramid or the size of the Earth."
+    },
+    {
+      "type": "text",
+      "heading": "Circles and π",
+      "md": "Every circle, whatever its size, has the same ratio of circumference to diameter: **π**, about 3.14159, which you met in the numbers lessons. So:\n\n- **Circumference** = π × diameter.\n- **Area** = π × radius².\n\nThis means doubling a circle’s radius doubles its circumference but **quadruples** its area. That’s why a pizza 30 cm across contains more than twice as much as one 20 cm across: its area is (30/20)² = 2.25 times larger."
+    },
+    {
+      "type": "text",
+      "heading": "The square–cube law",
+      "md": "When you scale up any shape, its **area** grows with the **square** of the scale factor, but its **volume** grows with the **cube**.\n\nDouble the size of a cube: each face has **4 times** the area, but the cube has **8 times** the volume (and weight). In **1638**, **Galileo** realised this has dramatic consequences for living things. An animal’s strength depends on the **cross-sectional area** of its bones and muscles, but its weight depends on its **volume**. Scale a human up to ten times their height, and their weight would increase about 1,000 times, while their bones’ strength would increase only about 100 times. The giant’s legs would snap.\n\nThat’s why elephants have proportionally much thicker legs than gazelles, why insects can survive falls that would kill larger animals, and why giant creatures in films couldn’t exist as simply enlarged versions of normal animals. The square–cube law also affects engineering, heat loss and even why small animals have to eat so much relative to their size."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why are honeycomb cells hexagons?",
+      "md": "Bees build honeycomb from wax, which takes energy to produce, so it pays to store the most honey using the least wax. Of the shapes that can tile a flat surface without gaps, squares, equilateral triangles and regular hexagons, the hexagon encloses the most area for a given perimeter. The ancient Greek mathematician **Pappus of Alexandria** noted the bees’ geometric efficiency around the 4th century CE. The idea that hexagons are the most efficient way to divide a surface into equal areas, called the **honeycomb conjecture**, was only formally proved in **1999** by the American mathematician **Thomas Hales**. Hexagonal patterns appear widely in nature, from basalt columns to the arrangement of carbon atoms in graphene."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Geometry** studies shape, size, angles and space; it began with practical needs, like the **Sulba Sutras’** altar rules.",
+        "**Euclid’s Elements** (~300 BCE) built geometry from **axioms**; triangle angles add to **180°**.",
+        "**Pythagoras’s theorem**: **a² + b² = c²** in right-angled triangles, as in the **3-4-5** triangle.",
+        "**Similar shapes** let us measure the unreachable, as **Thales** reportedly did with a pyramid’s shadow.",
+        "**Eratosthenes** (~240 BCE) estimated Earth’s circumference using shadows and angles.",
+        "Circle area grows with the **square** of the radius; the **square–cube law** (Galileo, 1638) limits how large animals and structures can be.",
+        "Bees’ **hexagons** use the least wax for the most storage, proved by Hales in **1999**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Geometry is everywhere: in buildings, maps, art, sport, engineering, computer graphics and nature itself. It lets us measure the Earth, navigate the oceans and understand why living things are shaped as they are. Next, you’ll discover what happened when mathematicians questioned Euclid’s fifth postulate, and how strange new geometries turned out to describe the real universe."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did Eratosthenes measure the Earth, what does Pythagoras’s theorem say, and why can’t a giant simply be a scaled-up human?"
+  }
+}

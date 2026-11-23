@@ -1,0 +1,84 @@
+{
+  "id": "math.statistics.1",
+  "region": "math",
+  "topic": "statistics",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Reading Statistics Without Being Fooled",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1936**, an American magazine called *The Literary Digest* conducted one of the largest opinion polls ever attempted, mailing questionnaires to around **10 million** people and receiving about **2.4 million** replies. Based on this huge sample, it confidently predicted that the Republican candidate, **Alf Landon**, would defeat President **Franklin D. Roosevelt** in a landslide.\n\nRoosevelt won one of the biggest landslides in American history, carrying 46 of 48 states. Meanwhile, a young pollster named **George Gallup**, using a much smaller but more carefully chosen sample, predicted the result correctly. The Digest’s mistake: its mailing lists came largely from telephone directories and car registration records, which, during the Great Depression, skewed towards wealthier people, who were more likely to vote Republican. A huge but biased sample gave a confidently wrong answer. The magazine soon went out of business."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Statistics** is the science of collecting, summarising and interpreting data. It helps us make sense of large amounts of information and draw conclusions about the world from samples. It’s also easily misused, accidentally or deliberately.\n\nTwo of the most basic questions to ask about any set of data are:\n\n1. **What’s typical?** (A measure of the centre, or average.)\n2. **How spread out is it?** (A measure of variability.)"
+    },
+    {
+      "type": "text",
+      "heading": "Three kinds of average",
+      "md": "- **Mean**: add up all the values and divide by how many there are. This is what most people call the average.\n- **Median**: the middle value when the data are arranged in order. Half the values are above it, half below.\n- **Mode**: the most common value.\n\nThese can give very different answers. Imagine ten people in a room, each earning **50,000** rupees a month. The mean and median are both 50,000. Now a billionaire walks in, earning **100 crore** rupees a month. The **mean** income jumps to over **9 crore** rupees, suggesting everyone in the room is extremely rich. The **median** stays at about **50,000**, a much better description of a typical person.\n\nThat’s why data on **incomes**, **house prices** and **wealth**, which are skewed by a few very large values, are usually better summarised by the **median**. When someone quotes an average, it’s worth asking: which average?"
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the mean as a balancing point: if each value were a weight placed along a ruler, the mean is where the ruler balances. A single very heavy weight far out at one end shifts the balance point a long way. The median is simply the middle person in a queue sorted by height: it doesn’t care how tall the tallest person is, only who’s in the middle."
+    },
+    {
+      "type": "text",
+      "heading": "Spread matters too",
+      "md": "Two groups can have the same average but be very different. Two cities might both have an average annual temperature of 25 °C, but one might be pleasantly mild all year, while the other swings between freezing winters and scorching summers.\n\nThe **range** (highest minus lowest value) gives a rough idea of spread. A more useful measure, the **standard deviation**, describes how far values typically are from the mean. A small standard deviation means values cluster tightly around the average; a large one means they’re widely scattered.\n\nMany natural measurements, like human height, roughly follow a **normal distribution**: a symmetrical, bell-shaped curve, with most values near the mean and fewer and fewer further away. In a normal distribution, about **68%** of values fall within one standard deviation of the mean, and about **95%** within two."
+    },
+    {
+      "type": "text",
+      "heading": "Samples and populations",
+      "md": "We usually can’t measure everyone. So statisticians study a **sample** to learn about a whole **population**. The key to a good sample is that it’s **representative**: it reflects the population fairly.\n\nThe best way to achieve this is **random sampling**, where every member of the population has an equal chance of being chosen. Surprisingly, a well-chosen random sample of around **1,000 to 2,000** people can estimate opinions in a country of hundreds of millions reasonably accurately, as long as it’s truly representative.\n\n**Sampling bias** happens when some groups are more likely to be included than others, as with the Literary Digest poll. Online polls, phone-in surveys and social media polls are especially prone to bias, because the people who choose to respond are often different from those who don’t."
+    },
+    {
+      "type": "steps",
+      "title": "Survivorship bias: the missing planes",
+      "items": [
+        "During **World War II**, the US military studied bombers returning from missions over Europe, noting where they had been hit by enemy fire. The bullet holes clustered on the wings, the tail and the body.",
+        "The obvious idea was to add armour where the holes were.",
+        "The statistician **Abraham Wald**, working with the Statistical Research Group at Columbia University, pointed out a crucial flaw: the military was only looking at planes that had **survived** and returned.",
+        "Planes hit in other places, such as the **engines**, didn’t make it back to be counted.",
+        "Wald’s insight: the areas with **no** bullet holes on returning planes were where hits were most deadly. That’s where armour was most needed.",
+        "**Survivorship bias** is everywhere: studying only successful companies, famous university dropouts who became billionaires, or old buildings that are still standing (because badly built ones collapsed long ago) can lead to badly misleading conclusions."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Margins of error",
+      "md": "Because a sample isn’t the whole population, estimates from samples come with uncertainty. Polls often report a **margin of error**, for example ±3 percentage points. This means that if the poll found 45% support for something, the true figure is likely, though not certain, to be between about 42% and 48%.\n\nMargins of error only cover random sampling error. They don’t account for biases, like people refusing to answer, misunderstanding questions or not telling the truth, which can be larger."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How can a graph be technically accurate but still misleading?",
+      "md": "In several common ways. **Truncated axes**: starting the vertical axis at a value other than zero can make small differences look huge; a bar chart showing values of 50 and 52, with the axis starting at 49, makes one bar look three times taller. **Cherry-picked time periods**: choosing a starting point that makes a trend look better or worse. **Inconsistent scales**: uneven spacing of dates or values. **Missing context**: showing raw totals instead of per-person figures, so larger countries or cities look worse. **Dual axes**: plotting two different quantities on separate scales to suggest a link that isn’t there. When reading a graph, check the axes, the time period, the units and the source before drawing conclusions."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Statistics** helps summarise data and draw conclusions from samples, but is easily misused.",
+        "The **mean**, **median** and **mode** can differ; the **median** better describes skewed data like **incomes**.",
+        "**Spread** matters: the **range** and **standard deviation** describe variability; many measurements follow a **normal distribution**.",
+        "A **random, representative sample** of 1,000–2,000 people can estimate a large population’s views.",
+        "The **Literary Digest poll (1936)** shows a huge but biased sample can be badly wrong.",
+        "**Survivorship bias** (Wald’s bombers) comes from studying only the survivors.",
+        "**Margins of error** cover only random error; **misleading graphs** often use truncated axes or cherry-picked periods."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Statistics shape news headlines, government policies, health advice, business decisions and political debates. Being able to ask “which average?”, “who was sampled?” and “what’s missing?” helps you see through misleading claims and make better decisions. The next lesson tackles the most important statistical trap of all: confusing correlation with causation."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: when is the median a better summary than the mean, what is sampling bias, and what does survivorship bias mean?"
+  }
+}

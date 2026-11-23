@@ -1,0 +1,288 @@
+##### LESSON
+id: math.numbers.2
+title: Negatives, Irrationals and the Many Sizes of Infinity
+minutes: 15
+prereq: math.numbers.1
+check: In your own words: why were negative and irrational numbers once controversial, what did the Kerala school discover about π, and what did Cantor show about infinity?
+
+=== hook
+According to a story told by later Greek writers, around the 5th century BCE, a follower of **Pythagoras** named **Hippasus** made a disturbing discovery. The Pythagoreans believed that everything in the universe could be described by whole numbers and their ratios. But Hippasus found that the diagonal of a simple square couldn’t be expressed as a ratio of whole numbers at all.
+
+Legend has it that he revealed this secret and was drowned at sea as punishment. The story is probably exaggerated, but the discovery was real, and it shook Greek mathematics. Numbers, it turned out, were far stranger than anyone imagined. Over the following centuries, mathematicians would discover negative numbers, irrational numbers, imaginary numbers, and eventually, different sizes of infinity.
+
+=== core
+In the previous lesson, you saw how place value and zero transformed the way we write numbers. But the story of numbers is also a story of expanding what counts as a number at all. Each new kind of number was resisted at first, then accepted because it solved real problems.
+
+Mathematicians organise numbers into families, each containing the one before:
+
+- **Natural numbers**: 1, 2, 3, … the counting numbers (sometimes including 0).
+- **Integers**: whole numbers, including **negatives**: …, −2, −1, 0, 1, 2, …
+- **Rational numbers**: any number that can be written as a **fraction** of two integers, like ½, −3/4 or 0.75.
+- **Real numbers**: all points on the number line, including **irrational** numbers like √2 and π, which can’t be written as fractions.
+- **Complex numbers**: real numbers plus **imaginary** numbers, built on the square root of −1.
+
+=== text Negative numbers: from debts to temperatures
+Negative numbers seem obvious today: temperatures below zero, bank overdrafts, floors below ground. But for centuries, many mathematicians considered them absurd. How could you have less than nothing?
+
+Chinese mathematicians used negative numbers in calculations, with red and black counting rods, by around the 1st century CE or earlier. In **India**, **Brahmagupta**, whom you met in the previous lesson, gave clear rules for negative numbers in **628 CE**, describing positive numbers as “fortunes” and negative numbers as “debts”. He explained, for example, that a debt minus zero is a debt, and that the product of two debts is a fortune.
+
+In Europe, negative numbers remained controversial well into the 1600s and beyond; some mathematicians called them “false” or “absurd” numbers. They were eventually accepted because they made algebra work consistently.
+
+=== text Irrational numbers
+A number is **irrational** if it can’t be written as a fraction of two whole numbers. Its decimal expansion goes on forever without repeating.
+
+The diagonal of a square with sides of length 1 has length **√2** (about 1.41421356…), by Pythagoras’s theorem, which you’ll meet in the geometry lessons. The proof that √2 is irrational is one of the most famous in mathematics. It assumes the opposite, that √2 can be written as a fraction in its simplest form, and shows that this leads to a contradiction: both the top and bottom of the fraction would have to be even, so it wasn’t in simplest form after all. This technique, called **proof by contradiction**, appears again in the logic lessons.
+
+Most real numbers are actually irrational. In a precise sense, as you’ll see below, there are “more” irrational numbers than rational ones.
+
+=== callout analogy
+Think of the number line as a ruler. The whole numbers are the main markings; the fractions fill in finer and finer markings between them. You might think that with enough fractions, every point on the ruler would be covered. But irrational numbers are points that fall between every fraction, no matter how fine the markings get. The ruler is full of points no fraction can ever reach.
+
+=== text The pursuit of π
+**π** (pi) is the ratio of a circle’s circumference to its diameter, about **3.14159…** It’s irrational, a fact finally proved by Johann Lambert in 1761.
+
+People have estimated π for thousands of years. Ancient Babylonians and Egyptians used approximations around 3.1. Around **250 BCE**, the Greek mathematician **Archimedes** trapped π between two values by drawing polygons inside and outside a circle. In **499 CE**, the Indian mathematician-astronomer **Aryabhata** gave a value equivalent to **3.1416**, and described it as “approximate”, possibly suggesting he knew π couldn’t be expressed exactly.
+
+The most remarkable early breakthrough came from **Madhava of Sangamagrama**, who founded the **Kerala school** of astronomy and mathematics in the 14th century. Madhava discovered that π could be calculated exactly using an **infinite series**: adding and subtracting an endless sequence of fractions (π/4 = 1 − 1/3 + 1/5 − 1/7 + …). European mathematicians, including Leibniz, rediscovered this series around **250 years later**. The Kerala school also developed other infinite series that anticipated parts of calculus.
+
+=== text Imaginary numbers
+What number, multiplied by itself, gives **−1**? No real number works, since both a positive and a negative number squared give a positive result. In the 16th century, Italian mathematicians, notably **Gerolamo Cardano**, encountered square roots of negative numbers while solving equations, and used them reluctantly as tools. **René Descartes** called them “imaginary”, intending it as an insult.
+
+Mathematicians eventually defined **i** as the square root of −1. Combining real and imaginary numbers produces **complex numbers**, like 3 + 2i. Far from being imaginary in usefulness, complex numbers are essential in electrical engineering, signal processing, control systems and quantum physics, where the wave function you met in the Physics region is written using them.
+
+=== steps Hilbert’s hotel: thinking about infinity
+- The German mathematician **David Hilbert** imagined a hotel with **infinitely many rooms**, numbered 1, 2, 3, and so on forever, and every room is occupied.
+- A new guest arrives. Can the hotel fit them in? Yes. The manager asks every guest to move from room n to room n + 1. Room 1 is now free.
+- Now an infinitely long bus arrives, with infinitely many new guests. Still no problem: every current guest moves from room n to room 2n, freeing all the odd-numbered rooms, infinitely many of them, for the new guests.
+- The hotel never runs out of space, even though it was full. Infinity doesn’t behave like ordinary numbers: infinity plus one, or even infinity plus infinity, is still the same infinity.
+- This kind of infinity, the size of the natural numbers, is called **countable**: you can list the items one by one, even if the list never ends.
+
+=== reveal Are all infinities the same size?
+No, and this was one of the most shocking discoveries in mathematics. In the 1870s to 1890s, the German mathematician **Georg Cantor** proved that some infinities are **larger** than others. The rational numbers, surprisingly, are countable: they can be arranged in an infinite list, like the guests in Hilbert’s hotel. But the **real numbers** are not. Using a brilliant argument called the **diagonal argument**, Cantor showed that any attempt to list all real numbers must miss some: you can always construct a new number that differs from the first number in its first decimal place, from the second in its second place, and so on. So the real numbers form a larger, **uncountable** infinity. Cantor’s ideas were fiercely attacked by some contemporaries, but they became a foundation of modern mathematics. Hilbert later declared that no one would expel mathematicians from the paradise Cantor had created.
+
+=== keypoints
+- Number families expand: **natural numbers**, **integers**, **rational**, **real** and **complex** numbers.
+- **Negative numbers** were used in China and given clear rules by **Brahmagupta (628 CE)**, but long resisted in Europe.
+- **Irrational numbers**, like **√2** and **π**, can’t be written as fractions; √2’s irrationality is proved by **contradiction**.
+- **Aryabhata** gave π ≈ **3.1416**; **Madhava** and the **Kerala school** found an infinite series for π about 250 years before Europe.
+- **Imaginary numbers** (based on **i = √−1**) are essential in engineering and quantum physics.
+- **Hilbert’s hotel** shows countable infinity’s strange behaviour; **Cantor** proved the real numbers form a **larger infinity**.
+
+=== why
+Each expansion of the number system began as something strange or even forbidden and became essential for science, engineering and everyday life. The history shows that mathematics isn’t a fixed set of rules handed down, but a creative human enterprise, built across many cultures, that keeps discovering surprises, including the mind-bending idea that some infinities are bigger than others.
+
+##### LESSON
+id: math.exponentials.1
+title: The Power of Doubling
+minutes: 14
+check: In your own words: what is the difference between linear and exponential growth, and why do people tend to underestimate exponential growth?
+
+=== hook
+An old legend, told in many versions, says that the game of chess was invented in India and presented to a king, who was so delighted that he offered the inventor any reward he wished. The inventor asked for something that seemed modest: one grain of rice on the first square of the chessboard, two on the second, four on the third, doubling on each square until all 64 were filled.
+
+The king laughed at such a small request and agreed. But by the 64th square alone, the amount would be over **9 quintillion** grains, and the total for the whole board over **18 quintillion**: more rice than the entire world has produced over many centuries. The king had badly underestimated the power of doubling. Most people still do.
+
+=== core
+There are two very different ways something can grow:
+
+- **Linear growth** adds the **same amount** in each period: 2, 4, 6, 8, 10, … Like saving 100 rupees every month.
+- **Exponential growth** multiplies by the **same factor** in each period: 2, 4, 8, 16, 32, … Each step’s growth depends on how big the thing already is.
+
+At first, the two can look similar, and exponential growth can even look slower. But exponential growth accelerates relentlessly, eventually dwarfing any linear growth. Mathematically, exponential growth is written using **powers**: 2¹ = 2, 2² = 4, 2³ = 8, 2¹⁰ = 1,024, 2²⁰ is over a million, and 2³⁰ is over a billion.
+
+=== diagram A graph comparing two lines over time. A straight line labelled linear rises steadily. A curved line labelled exponential starts below it, crosses it, then rises steeply upward. | Exponential growth starts slow, then overtakes linear growth dramatically.
+<svg viewBox="0 0 320 200" xmlns="http://www.w3.org/2000/svg">
+<g style="stroke:var(--line-2);stroke-width:1"><path d="M40 170 H300"/><path d="M40 20 V170"/></g>
+<path d="M40 165 L300 95" style="fill:none;stroke:currentColor;stroke-width:1.8;opacity:.75"/>
+<path d="M40 168 C120 167 180 160 220 135 C250 115 275 75 295 25" style="fill:none;stroke:var(--accent);stroke-width:2"/>
+<g style="font:500 9px var(--font-ui);fill:var(--text-2)"><text x="170" y="188" text-anchor="middle">time</text><text x="252" y="110">linear</text><text x="235" y="40" style="fill:var(--accent)">exponential</text></g>
+</svg>
+
+=== steps Folding paper to the Moon
+- Take a sheet of paper about **0.1 millimetres** thick. Fold it in half: it’s now 0.2 mm thick.
+- Fold again: 0.4 mm. Again: 0.8 mm. Each fold doubles the thickness.
+- After **10 folds** (if it were physically possible), it would be about **10 centimetres** thick.
+- After **20 folds**, about **100 metres**: taller than a 25-storey building.
+- After **30 folds**, about **100 kilometres**: beyond the height where space begins.
+- After about **42 folds**, around **440,000 kilometres**: farther than the distance to the Moon.
+- In practice, you can only fold paper about seven or eight times, but the maths shows how doubling quickly reaches staggering numbers.
+
+=== text Doubling time and the Rule of 70
+Exponential growth is often described by its **doubling time**: how long it takes for the quantity to double. You met a handy shortcut in the Money and Economics regions: the **Rule of 70**. Divide 70 by the percentage growth rate to estimate the doubling time.
+
+- At **1%** growth per year: doubles in about **70 years**.
+- At **5%**: about **14 years**.
+- At **10%**: about **7 years**.
+
+Small differences in growth rates produce enormous differences over time, because each doubling builds on the last. This is why compound interest, population growth, economic growth and the spread of diseases all behave the way they do.
+
+=== callout analogy
+Imagine a pond with a water lily that doubles in size every day. If the lily will cover the whole pond on day 30, on which day does it cover half the pond? The answer isn’t day 15, it’s **day 29**. On day 25, it covers only about 3% of the pond; most people looking at it would see a small plant and feel no urgency. Exponential growth hides its danger until almost the very end.
+
+=== text Exponential growth in the real world
+- **Bacteria**: under ideal conditions, some bacteria can divide every 20 minutes. One bacterium could, in theory, become billions within half a day, though real growth is limited by food and space.
+- **Epidemics**: in the early stages of an outbreak, when few people are immune, each infected person infects several others, and cases can grow exponentially. In early 2020, COVID-19 cases in many countries doubled every few days, which is why delays of even a week in responding made such a large difference.
+- **Technology**: as you saw in the Technology region, the number of transistors on chips roughly doubled every two years for decades (**Moore’s law**), driving exponential improvements in computing power.
+- **Money**: compound interest, as you saw in the Money region, is exponential growth, which is why starting to save early makes such a difference, and why high-interest debt can spiral.
+
+=== reveal Why are humans so bad at intuitively understanding exponential growth?
+Researchers call this **exponential growth bias**: people tend to think in straight lines, predicting the future by extending recent changes at a steady rate. That works for many everyday situations, but exponential processes defy it. Early on, exponential growth looks tiny and unthreatening; later, it becomes overwhelming faster than intuition expects. Studies show people consistently underestimate how quickly debts, savings, populations and infections grow. The physicist **Albert Bartlett**, who gave a famous lecture on the topic over a thousand times, argued that the greatest shortcoming of the human race is our inability to understand the exponential function. The practical lesson: when something is doubling, act early, because by the time the problem looks big, it may be nearly too late.
+
+=== keypoints
+- **Linear growth** adds a constant amount; **exponential growth** multiplies by a constant factor.
+- Exponential growth starts slowly, then accelerates dramatically, as in the **chessboard rice** legend.
+- Folding paper about **42 times** would, in theory, reach beyond the Moon.
+- **Doubling time** can be estimated with the **Rule of 70**: 70 ÷ growth rate.
+- Real examples include **bacteria**, **epidemics**, **Moore’s law** and **compound interest**.
+- People suffer from **exponential growth bias**, underestimating how fast things grow; acting early matters.
+
+=== why
+Exponential growth explains some of the most important forces in the modern world: savings and debt, populations, pandemics, technology and economic growth. Understanding it helps you make better financial decisions, interpret news about outbreaks and technology, and recognise when a small problem might soon become a large one. Next, you’ll meet logarithms, the tool that tames exponential numbers, and learn why growth can’t continue forever.
+
+##### LESSON
+id: math.exponentials.2
+title: Logarithms, Scales and the Limits to Growth
+minutes: 15
+prereq: math.exponentials.1
+check: In your own words: what is a logarithm, why are scales like earthquake magnitude and pH logarithmic, and why does real-world growth usually follow an S-shaped curve rather than continuing exponentially?
+
+=== hook
+In **1614**, a Scottish landowner and mathematician named **John Napier** published a book introducing a new mathematical tool he had spent around twenty years developing. He called them **logarithms**.
+
+At the time, astronomers, navigators and engineers spent enormous amounts of time on tedious multiplication and division of large numbers, where errors could wreck a ship’s course or an astronomer’s predictions. Logarithms turned multiplication into addition, which is far quicker. The French mathematician Pierre-Simon Laplace later said logarithms, by shortening calculations, had doubled the life of astronomers. For over 300 years, until electronic calculators arrived in the 1970s, scientists and engineers relied on **slide rules** based on logarithms.
+
+=== core
+A **logarithm** answers the question: **what power do I need to raise a number to, to get another number?**
+
+For example, 10 raised to the power of 3 is 1,000. So the logarithm of 1,000, using **base 10**, is **3**. We write this as log₁₀(1,000) = 3.
+
+- log₁₀(10) = 1
+- log₁₀(100) = 2
+- log₁₀(1,000,000) = 6
+
+Logarithms are the **inverse** of exponential growth, just as subtraction undoes addition. If exponential growth asks “what do I get if I keep multiplying?”, logarithms ask “how many times did I multiply?”.
+
+The key property that made them so useful: the logarithm of a product equals the **sum** of the logarithms. So to multiply two large numbers, you could look up their logarithms in a table, add them, and look up the result. Multiplication became addition.
+
+=== text Logarithmic scales
+When quantities vary over a huge range, from tiny to enormous, it’s often useful to measure them on a **logarithmic scale**, where each step represents **multiplying** by a fixed amount rather than adding one.
+
+- **Earthquake magnitude**: as you saw in the Earth region, each whole number step represents about 32 times more energy, and 10 times larger ground motion on a seismometer.
+- **pH**: measures acidity. Each step down the scale means **10 times** more acidic. Lemon juice (pH around 2) is about 100,000 times more acidic than pure water (pH 7). That’s why the ocean’s pH falling by just 0.1 means a roughly 30% increase in acidity.
+- **Decibels**: measure sound intensity. Every increase of 10 decibels means 10 times more intense sound. A rock concert at around 110 decibels is about **10 billion times** more intense than a whisper at 10 decibels.
+- **Star brightness**: astronomers’ magnitude scale is logarithmic, a tradition dating back to the ancient Greek astronomer Hipparchus.
+
+Interestingly, human senses partly work logarithmically. We perceive the difference between 1 and 2 lamps as similar to the difference between 10 and 20 lamps, an idea known as the **Weber–Fechner law**. Logarithmic scales often match how we experience the world.
+
+=== callout analogy
+Think of a logarithm as a way of counting zeros. A thousand has three zeros, a million has six, a billion has nine. On a log scale, going from a thousand to a million is the same size step as going from a million to a billion. It squashes enormous ranges into a manageable size, the way a map squashes a whole country onto a single page.
+
+=== text Why log graphs show straight lines
+If you plot exponential growth on an ordinary graph, it curves steeply upward and quickly shoots off the top of the page. But plot it on a graph with a **logarithmic vertical axis**, and it becomes a **straight line**.
+
+This makes log graphs extremely useful for spotting exponential growth and measuring its rate. During the COVID-19 pandemic, many charts of case numbers used log scales: a straight upward line meant steady exponential growth, and a line that bent and flattened meant growth was slowing. Moore’s law looks like a straight line on a log scale over decades. When reading graphs, always check whether the axis is linear or logarithmic, since they tell very different stories at a glance.
+
+=== text Exponential decay
+Exponential processes can also shrink. In **exponential decay**, a quantity decreases by the same **fraction** in each period. You met this in the Physics region with **radioactive half-life**: after each half-life, half of the remaining radioactive atoms have decayed. Other examples include the cooling of a hot cup of tea (the temperature difference with the room shrinks exponentially), the way medicines are cleared from the body, and the decline in value of some assets over time.
+
+=== text The limits to growth: S-curves
+In the real world, exponential growth can’t continue forever. Eventually, it runs into limits: food, space, resources or, for diseases, people who are no longer susceptible.
+
+In **1838**, the Belgian mathematician **Pierre-François Verhulst** described a pattern called **logistic growth**. Growth starts out nearly exponential, then slows as it approaches a maximum, called the **carrying capacity**, and finally levels off. Plotted on a graph, it forms an **S-shaped curve**.
+
+S-curves describe many real processes: populations of animals in new habitats, the spread of epidemics, the adoption of new technologies like mobile phones, and the growth of companies.
+
+=== steps Human population: an S-curve in progress?
+- In **1798**, the English economist **Thomas Malthus** warned that population would grow exponentially while food supply grew only linearly, leading inevitably to famine and misery.
+- In fact, food production grew far faster than he expected, thanks to new farming technologies, and living standards rose.
+- World population reached **1 billion** around **1800**, **2 billion** around 1927, and grew fastest in the 1960s, at over **2%** a year.
+- It reached **8 billion** in **November 2022**. In **2023**, **India** overtook **China** as the world’s most populous country.
+- Global population growth has slowed to below **1%** a year, mainly because **fertility rates** have fallen as countries have become richer, child mortality has dropped, and education, especially for women, has expanded. India’s fertility rate has fallen to around the **replacement level** of about 2.1 children per woman.
+- UN projections suggest world population may peak during the second half of this century, at around **10 billion**, and then slowly decline: an S-curve, though future trends are uncertain.
+
+=== reveal What is the special number e, and why does it appear everywhere?
+The number **e**, approximately **2.71828**, is the base of the **natural logarithm**. It was discovered by the Swiss mathematician **Jacob Bernoulli** in **1683** while studying compound interest. He asked: if you invest 1 unit at 100% interest per year, how much would you have if interest were compounded more and more often, every month, every day, every second? The answer approaches a limit: about **2.718**. That’s e. It arises naturally whenever something grows or decays continuously at a rate proportional to its size, so it appears in population growth, radioactive decay, cooling, probability and physics. The mathematician **Leonhard Euler** later studied it deeply, and it’s now named after him.
+
+=== keypoints
+- A **logarithm** tells you what power to raise a base to: log₁₀(1,000) = 3. **Napier** introduced logarithms in **1614**.
+- Logarithms turn **multiplication into addition**, which made calculation far easier before electronic calculators.
+- **Logarithmic scales**, like **earthquake magnitude**, **pH** and **decibels**, handle huge ranges; each step multiplies.
+- On a **log graph**, exponential growth appears as a **straight line**.
+- **Exponential decay** shrinks by the same fraction each period, as in **half-life**.
+- Real growth usually follows an **S-curve** (logistic growth, **Verhulst, 1838**), levelling off at a **carrying capacity**.
+- World population reached **8 billion** in **2022**; growth is slowing as fertility falls. **e** (≈ 2.718) underlies continuous growth.
+
+=== why
+Logarithms and S-curves help you understand news about earthquakes, acidity, sound, pandemics, technology and population, and to read graphs correctly. They also offer a crucial insight: exponential growth is powerful but never permanent in the real world. Knowing when growth will slow, and why, is as important as knowing how fast it’s growing.
+
+##### LESSON
+id: math.probability.1
+title: Probability: The Mathematics of Uncertainty
+minutes: 15
+check: In your own words: how do you calculate the probability of two independent events both happening, why does the birthday problem surprise people, and why should you switch doors in the Monty Hall problem?
+
+=== hook
+In **1654**, a French gambler known as the **Chevalier de Méré** asked the brilliant mathematician **Blaise Pascal** a question that had puzzled gamblers for centuries: if a game of chance is interrupted before it ends, how should the stakes be fairly divided between the players, based on their chances of winning?
+
+Pascal began exchanging letters with another great mathematician, **Pierre de Fermat**. Over a few months, they worked out how to calculate the chances systematically. Their correspondence is often seen as the birth of **probability theory**: a branch of mathematics that now underpins insurance, medicine, weather forecasting, finance, artificial intelligence and much of modern science.
+
+=== core
+**Probability** is a measure of how likely something is to happen, expressed as a number between **0** and **1** (or 0% and 100%):
+
+- **0** means impossible.
+- **1** means certain.
+- **0.5** means equally likely to happen or not.
+
+When all outcomes are equally likely, the probability of an event is:
+
+**Probability = number of favourable outcomes ÷ total number of possible outcomes**
+
+For a fair six-sided die, the probability of rolling a 4 is 1 ÷ 6, about 0.17. The probability of rolling an even number (2, 4 or 6) is 3 ÷ 6 = 0.5.
+
+=== text Some basic rules
+**The complement rule**: the probability that something **doesn’t** happen is 1 minus the probability that it does. If there’s a 30% chance of rain, there’s a 70% chance of no rain.
+
+**Independent events**: two events are independent if one doesn’t affect the other, like two separate coin tosses. The probability that **both** happen is found by **multiplying** their probabilities. The chance of rolling a six on one die and a six on another is 1/6 × 1/6 = **1/36**, under 3%.
+
+**Either one or the other**: if two events can’t both happen at once, the probability that **one or the other** happens is found by **adding** their probabilities. The chance of rolling a 1 or a 2 on one die is 1/6 + 1/6 = 1/3.
+
+=== callout analogy
+Think of probability as slicing a pie. The whole pie represents every possible outcome, which together add up to 1. Each outcome gets a slice proportional to how likely it is. Asking “what’s the chance of A?” means asking “how big is A’s slice?”. Asking “what’s the chance of A and then B?” means taking a slice of a slice, which is why probabilities multiply and shrink.
+
+=== steps The birthday problem
+- How many people need to be in a room for there to be a better than 50% chance that at least two share a birthday? (Ignore leap years and assume birthdays are evenly spread.)
+- Most people guess around 183, half of 365. The real answer is just **23**.
+- It’s easier to calculate the chance that **no one** shares a birthday, then subtract from 1.
+- The second person has a 364/365 chance of not matching the first. The third has 363/365 of not matching either of the first two. And so on.
+- Multiply all these together for 23 people, and the chance of no shared birthday falls to about **49%**, so the chance of at least one shared birthday is about **51%**.
+- With **50** people, it’s about **97%**; with **70**, over **99.9%**.
+- The surprise comes because people think about the chance of someone matching **their own** birthday. But with 23 people, there are **253** different pairs that could match, which adds up quickly.
+
+=== text The law of large numbers
+Probability doesn’t tell you what will happen in a single event, but it becomes very reliable over **many** events. The **law of large numbers** says that as you repeat an experiment more and more times, the proportion of outcomes gets closer and closer to the true probability.
+
+Toss a fair coin 10 times, and you might easily get 7 heads. Toss it 10,000 times, and you’ll almost certainly get very close to 50% heads. This is why casinos always win over time: each individual bet is uncertain, but across millions of bets, the small edge built into the games guarantees profit. It’s also why insurance companies can predict their costs, as you saw in the Money region.
+
+But the law of large numbers doesn’t mean outcomes “balance out” in the short term. As you saw with the **gambler’s fallacy** in the Money region, a coin that has landed heads five times in a row still has exactly a 50% chance of heads next time.
+
+=== text The Monty Hall problem
+In **1990**, the American columnist **Marilyn vos Savant** answered a puzzle in her magazine column, based on a TV game show hosted by Monty Hall:
+
+You’re on a game show facing three closed doors. Behind one is a car; behind the other two are goats. You pick a door, say door 1. The host, who **knows** where the car is, opens another door, say door 3, revealing a goat. He then asks: do you want to stick with door 1, or switch to door 2?
+
+Vos Savant said you should **switch**: switching wins the car **two-thirds** of the time. She received thousands of letters, including many from people with mathematics PhDs, insisting she was wrong and that the odds were 50–50. Even the great mathematician **Paul Erdős** was reportedly unconvinced until he saw a computer simulation. She was right.
+
+=== reveal Why does switching doors win two-thirds of the time?
+When you first pick, you have a **1 in 3** chance of choosing the car, and a **2 in 3** chance of choosing a goat. If you picked a goat (which happens 2/3 of the time), the host must open the **other** goat door, so the remaining door **must** have the car, and switching wins. If you picked the car (1/3 of the time), switching loses. So switching wins 2/3 of the time. The key is that the host’s choice isn’t random: he knows where the car is and always reveals a goat, which gives you information. If it still feels wrong, imagine **100 doors**: you pick one, and the host opens 98 others, all goats. Would you stick with your original 1-in-100 guess, or switch to the one door he carefully avoided?
+
+=== keypoints
+- **Probability** ranges from **0** (impossible) to **1** (certain); **Pascal and Fermat (1654)** founded probability theory.
+- With equally likely outcomes: probability = favourable outcomes ÷ total outcomes.
+- The **complement** of an event has probability 1 minus the event’s probability.
+- For **independent** events, multiply probabilities; for **mutually exclusive** events, add them.
+- **Birthday problem**: just **23** people give a better than 50% chance of a shared birthday.
+- The **law of large numbers** makes probabilities reliable over many trials, but doesn’t make short-term results balance out.
+- In the **Monty Hall problem**, switching doors wins **two-thirds** of the time.
+
+=== why
+Probability is the language of uncertainty, and life is full of uncertainty: weather forecasts, medical tests, insurance, investments, games and risks of all kinds. Our intuitions about chance are often wrong, as the birthday and Monty Hall problems show. Learning to calculate probabilities, even roughly, helps you make better decisions and resist misleading arguments. Next, you’ll explore how probabilities change when you learn new information.

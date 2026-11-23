@@ -1,0 +1,84 @@
+{
+  "id": "math.numbers.2",
+  "region": "math",
+  "topic": "numbers",
+  "level": 2,
+  "prerequisites": [
+    "math.numbers.1"
+  ],
+  "title": "Negatives, Irrationals and the Many Sizes of Infinity",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "According to a story told by later Greek writers, around the 5th century BCE, a follower of **Pythagoras** named **Hippasus** made a disturbing discovery. The Pythagoreans believed that everything in the universe could be described by whole numbers and their ratios. But Hippasus found that the diagonal of a simple square couldn’t be expressed as a ratio of whole numbers at all.\n\nLegend has it that he revealed this secret and was drowned at sea as punishment. The story is probably exaggerated, but the discovery was real, and it shook Greek mathematics. Numbers, it turned out, were far stranger than anyone imagined. Over the following centuries, mathematicians would discover negative numbers, irrational numbers, imaginary numbers, and eventually, different sizes of infinity."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how place value and zero transformed the way we write numbers. But the story of numbers is also a story of expanding what counts as a number at all. Each new kind of number was resisted at first, then accepted because it solved real problems.\n\nMathematicians organise numbers into families, each containing the one before:\n\n- **Natural numbers**: 1, 2, 3, … the counting numbers (sometimes including 0).\n- **Integers**: whole numbers, including **negatives**: …, −2, −1, 0, 1, 2, …\n- **Rational numbers**: any number that can be written as a **fraction** of two integers, like ½, −3/4 or 0.75.\n- **Real numbers**: all points on the number line, including **irrational** numbers like √2 and π, which can’t be written as fractions.\n- **Complex numbers**: real numbers plus **imaginary** numbers, built on the square root of −1."
+    },
+    {
+      "type": "text",
+      "heading": "Negative numbers: from debts to temperatures",
+      "md": "Negative numbers seem obvious today: temperatures below zero, bank overdrafts, floors below ground. But for centuries, many mathematicians considered them absurd. How could you have less than nothing?\n\nChinese mathematicians used negative numbers in calculations, with red and black counting rods, by around the 1st century CE or earlier. In **India**, **Brahmagupta**, whom you met in the previous lesson, gave clear rules for negative numbers in **628 CE**, describing positive numbers as “fortunes” and negative numbers as “debts”. He explained, for example, that a debt minus zero is a debt, and that the product of two debts is a fortune.\n\nIn Europe, negative numbers remained controversial well into the 1600s and beyond; some mathematicians called them “false” or “absurd” numbers. They were eventually accepted because they made algebra work consistently."
+    },
+    {
+      "type": "text",
+      "heading": "Irrational numbers",
+      "md": "A number is **irrational** if it can’t be written as a fraction of two whole numbers. Its decimal expansion goes on forever without repeating.\n\nThe diagonal of a square with sides of length 1 has length **√2** (about 1.41421356…), by Pythagoras’s theorem, which you’ll meet in the geometry lessons. The proof that √2 is irrational is one of the most famous in mathematics. It assumes the opposite, that √2 can be written as a fraction in its simplest form, and shows that this leads to a contradiction: both the top and bottom of the fraction would have to be even, so it wasn’t in simplest form after all. This technique, called **proof by contradiction**, appears again in the logic lessons.\n\nMost real numbers are actually irrational. In a precise sense, as you’ll see below, there are “more” irrational numbers than rational ones."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the number line as a ruler. The whole numbers are the main markings; the fractions fill in finer and finer markings between them. You might think that with enough fractions, every point on the ruler would be covered. But irrational numbers are points that fall between every fraction, no matter how fine the markings get. The ruler is full of points no fraction can ever reach."
+    },
+    {
+      "type": "text",
+      "heading": "The pursuit of π",
+      "md": "**π** (pi) is the ratio of a circle’s circumference to its diameter, about **3.14159…** It’s irrational, a fact finally proved by Johann Lambert in 1761.\n\nPeople have estimated π for thousands of years. Ancient Babylonians and Egyptians used approximations around 3.1. Around **250 BCE**, the Greek mathematician **Archimedes** trapped π between two values by drawing polygons inside and outside a circle. In **499 CE**, the Indian mathematician-astronomer **Aryabhata** gave a value equivalent to **3.1416**, and described it as “approximate”, possibly suggesting he knew π couldn’t be expressed exactly.\n\nThe most remarkable early breakthrough came from **Madhava of Sangamagrama**, who founded the **Kerala school** of astronomy and mathematics in the 14th century. Madhava discovered that π could be calculated exactly using an **infinite series**: adding and subtracting an endless sequence of fractions (π/4 = 1 − 1/3 + 1/5 − 1/7 + …). European mathematicians, including Leibniz, rediscovered this series around **250 years later**. The Kerala school also developed other infinite series that anticipated parts of calculus."
+    },
+    {
+      "type": "text",
+      "heading": "Imaginary numbers",
+      "md": "What number, multiplied by itself, gives **−1**? No real number works, since both a positive and a negative number squared give a positive result. In the 16th century, Italian mathematicians, notably **Gerolamo Cardano**, encountered square roots of negative numbers while solving equations, and used them reluctantly as tools. **René Descartes** called them “imaginary”, intending it as an insult.\n\nMathematicians eventually defined **i** as the square root of −1. Combining real and imaginary numbers produces **complex numbers**, like 3 + 2i. Far from being imaginary in usefulness, complex numbers are essential in electrical engineering, signal processing, control systems and quantum physics, where the wave function you met in the Physics region is written using them."
+    },
+    {
+      "type": "steps",
+      "title": "Hilbert’s hotel: thinking about infinity",
+      "items": [
+        "The German mathematician **David Hilbert** imagined a hotel with **infinitely many rooms**, numbered 1, 2, 3, and so on forever, and every room is occupied.",
+        "A new guest arrives. Can the hotel fit them in? Yes. The manager asks every guest to move from room n to room n + 1. Room 1 is now free.",
+        "Now an infinitely long bus arrives, with infinitely many new guests. Still no problem: every current guest moves from room n to room 2n, freeing all the odd-numbered rooms, infinitely many of them, for the new guests.",
+        "The hotel never runs out of space, even though it was full. Infinity doesn’t behave like ordinary numbers: infinity plus one, or even infinity plus infinity, is still the same infinity.",
+        "This kind of infinity, the size of the natural numbers, is called **countable**: you can list the items one by one, even if the list never ends."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Are all infinities the same size?",
+      "md": "No, and this was one of the most shocking discoveries in mathematics. In the 1870s to 1890s, the German mathematician **Georg Cantor** proved that some infinities are **larger** than others. The rational numbers, surprisingly, are countable: they can be arranged in an infinite list, like the guests in Hilbert’s hotel. But the **real numbers** are not. Using a brilliant argument called the **diagonal argument**, Cantor showed that any attempt to list all real numbers must miss some: you can always construct a new number that differs from the first number in its first decimal place, from the second in its second place, and so on. So the real numbers form a larger, **uncountable** infinity. Cantor’s ideas were fiercely attacked by some contemporaries, but they became a foundation of modern mathematics. Hilbert later declared that no one would expel mathematicians from the paradise Cantor had created."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Number families expand: **natural numbers**, **integers**, **rational**, **real** and **complex** numbers.",
+        "**Negative numbers** were used in China and given clear rules by **Brahmagupta (628 CE)**, but long resisted in Europe.",
+        "**Irrational numbers**, like **√2** and **π**, can’t be written as fractions; √2’s irrationality is proved by **contradiction**.",
+        "**Aryabhata** gave π ≈ **3.1416**; **Madhava** and the **Kerala school** found an infinite series for π about 250 years before Europe.",
+        "**Imaginary numbers** (based on **i = √−1**) are essential in engineering and quantum physics.",
+        "**Hilbert’s hotel** shows countable infinity’s strange behaviour; **Cantor** proved the real numbers form a **larger infinity**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Each expansion of the number system began as something strange or even forbidden and became essential for science, engineering and everyday life. The history shows that mathematics isn’t a fixed set of rules handed down, but a creative human enterprise, built across many cultures, that keeps discovering surprises, including the mind-bending idea that some infinities are bigger than others."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why were negative and irrational numbers once controversial, what did the Kerala school discover about π, and what did Cantor show about infinity?"
+  }
+}

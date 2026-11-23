@@ -1,0 +1,236 @@
+##### LESSON
+id: math.logic-proof.2
+title: What Makes a Proof?
+minutes: 15
+prereq: math.logic-proof.1
+check: In your own words: how does Euclid’s proof show there are infinitely many primes, how does proof by induction work, and what did Gödel prove about the limits of mathematics?
+
+=== hook
+In **1637**, the French lawyer and amateur mathematician **Pierre de Fermat** scribbled a note in the margin of an ancient Greek maths book. He claimed that the equation **aⁿ + bⁿ = cⁿ** has no solutions in positive whole numbers for any power n greater than 2. Then he added: “I have discovered a truly marvellous proof of this, which this margin is too narrow to contain.”
+
+No proof was ever found among his papers. For over **350 years**, the greatest mathematicians in the world tried and failed to prove **Fermat’s Last Theorem**. Finally, in **1994**, the British mathematician **Andrew Wiles**, who had been fascinated by the problem since he was ten years old, completed a proof after seven years of largely secret work. It ran to well over a hundred pages and used mathematics Fermat couldn’t possibly have known. Mathematicians generally believe Fermat was mistaken about having a proof. But why did it matter so much? Because in mathematics, a claim isn’t accepted as true until it’s **proved**.
+
+=== core
+In science, ideas are supported by **evidence**, and always remain open to revision, as you saw in the Philosophy region. Mathematics is different. A mathematical **proof** is a logical argument that shows a statement **must** be true, with complete certainty, starting from agreed basic assumptions (called **axioms**) and using only valid logical steps.
+
+No amount of examples can prove a general mathematical claim. Consider the statement “**n² + n + 41** is always a prime number.” Try n = 0, 1, 2, 3… and you get primes: 41, 43, 47, 53… It works for every value of n from 0 all the way to 39. But at n = 40, you get 1,681, which is 41 × 41. A pattern that held for forty cases was false. Only proof gives certainty.
+
+Once something is proved, it stays proved forever. Euclid’s proofs from over 2,000 years ago are just as valid today.
+
+=== steps Euclid’s proof that there are infinitely many primes
+- A **prime number** is a whole number greater than 1 whose only factors are 1 and itself: 2, 3, 5, 7, 11, 13, …
+- Around **300 BCE**, the Greek mathematician **Euclid** proved that the primes never run out. Here’s a version of his argument.
+- Suppose, for the sake of argument, that there were only a finite number of primes. Call them p₁, p₂, … up to the largest one, pₙ.
+- Multiply all of them together and **add 1**. Call the result N.
+- N leaves a remainder of 1 when divided by any prime on the list, so none of them divides it exactly.
+- So either N is itself prime, or it has a prime factor that isn’t on the list. Either way, there’s a prime missing from our supposedly complete list.
+- That’s a contradiction. So the assumption was wrong: there must be **infinitely many** primes.
+
+=== text Proof by contradiction
+Euclid’s argument uses **proof by contradiction** (also called *reductio ad absurdum*): assume the opposite of what you want to prove, and show that this leads to something impossible. You met the same technique in the proof that √2 is irrational. It’s one of the most powerful tools in mathematics.
+
+=== text Proof by induction
+Another powerful technique is **mathematical induction**, used to prove that something is true for **all** whole numbers. It has two steps:
+
+1. **Base case**: show the statement is true for the first number, usually 1.
+2. **Inductive step**: show that **if** it’s true for any number k, **then** it must also be true for k + 1.
+
+If both steps hold, the statement is true for every whole number: it’s true for 1; so it’s true for 2; so it’s true for 3; and so on, forever.
+
+For example, you can use induction to prove that the sum of the first n odd numbers always equals n²: 1 = 1, 1 + 3 = 4, 1 + 3 + 5 = 9, 1 + 3 + 5 + 7 = 16, and so on, for every n.
+
+=== callout analogy
+Think of induction like an infinite row of dominoes. If you can prove that the first domino falls (the base case), and that any falling domino always knocks over the next one (the inductive step), then you know every domino in the row will fall, even though you could never watch them all.
+
+=== text Proofs across the world
+Proofs have a long, international history:
+
+- The relationship now called **Pythagoras’s theorem**, that in a right-angled triangle the square on the longest side equals the sum of the squares on the other two, was known in **Babylon** over a thousand years before Pythagoras. In India, the **Baudhayana Sulba Sutra**, an ancient text on constructing fire altars, stated the relationship, likely several centuries before Pythagoras. Greek mathematicians, especially Euclid, emphasised rigorous step-by-step proof. Today there are hundreds of different proofs of the theorem.
+- Chinese mathematicians developed their own demonstrations, such as visual proofs in the ancient text known as the *Zhoubi Suanjing*.
+- The Kerala school, as you saw earlier, provided justifications for its infinite series, in a text called the *Yuktibhasa*.
+
+=== text Ramanujan: intuition and proof
+In **1913**, a self-taught Indian clerk from Madras named **Srinivasa Ramanujan** wrote to the Cambridge mathematician **G. H. Hardy**, enclosing pages of extraordinary formulas, many stated without proof. Hardy later said some of them “defeated me completely” and that they must be true, because no one would have the imagination to invent them.
+
+Hardy brought Ramanujan to Cambridge, where they collaborated brilliantly. Ramanujan’s intuition produced thousands of results, many of which later mathematicians spent decades proving, and some of which have found applications in physics and computer science. Hardy’s role was partly to help turn Ramanujan’s insights into rigorous proofs. Ramanujan died in **1920**, aged just 32. His birthday, 22 December, is celebrated as **National Mathematics Day** in India.
+
+=== reveal Can every true mathematical statement be proved?
+Surprisingly, no. In **1931**, the Austrian logician **Kurt Gödel**, aged just 25, published his **incompleteness theorems**. He proved that in any consistent system of axioms powerful enough to describe ordinary arithmetic, there will always be **true statements that can’t be proved within that system**. And such a system can’t prove its own consistency. This shattered the hope, championed by David Hilbert, of finding a complete set of axioms from which all mathematical truths could be derived. Gödel’s work, along with Turing’s on uncomputable problems that you met in the Technology region, revealed fundamental limits to what formal reasoning can achieve. Mathematics remains open-ended: some famous problems, like the **Goldbach conjecture** (every even number greater than 2 is the sum of two primes), have been checked for vast numbers of cases but remain unproved.
+
+=== keypoints
+- A **proof** shows a statement **must** be true, using valid logic from **axioms**; examples alone can’t prove general claims (n² + n + 41 fails at n = 40).
+- **Euclid** (~300 BCE) proved there are **infinitely many primes** using **proof by contradiction**.
+- **Mathematical induction** proves statements for all whole numbers via a **base case** and an **inductive step**.
+- **Pythagoras’s theorem** was known in Babylon and India (**Baudhayana Sulba Sutra**) before Pythagoras.
+- **Fermat’s Last Theorem** (1637) was proved by **Andrew Wiles** in **1994**.
+- **Ramanujan** (1887–1920) produced extraordinary results through intuition, many later proved.
+- **Gödel (1931)** proved some true statements can’t be proved within a given system.
+
+=== why
+Proof is what makes mathematics uniquely certain, and the habit of demanding justification, rather than accepting a pattern or an authority, is valuable everywhere. The history of proof also shows mathematics as a global, creative human adventure, still full of unsolved mysteries. Next, you’ll explore geometry: the mathematics of shape and space.
+
+##### LESSON
+id: math.geometry.1
+title: Shape and Space
+minutes: 15
+check: In your own words: how did Eratosthenes measure the Earth, what does Pythagoras’s theorem say, and why can’t a giant simply be a scaled-up human?
+
+=== hook
+Around **240 BCE**, **Eratosthenes**, the chief librarian of the great Library of Alexandria in Egypt, heard that at noon on the summer solstice, in the town of **Syene** (modern Aswan) to the south, the Sun shone straight down to the bottom of a deep well, casting no shadow. On the same day in Alexandria, he measured that a vertical stick **did** cast a short shadow, showing the Sun was about **7.2 degrees** away from directly overhead.
+
+Assuming the Earth was a sphere and the Sun’s rays arrived parallel, he realised that 7.2 degrees, one-fiftieth of a full circle, must be the angle between the two cities measured from Earth’s centre. Knowing the distance between them, he multiplied by 50 and estimated the Earth’s circumference. Depending on which length of the ancient unit he used, his answer was remarkably close to the true value of about **40,000 km**. With a stick, a shadow and geometry, he had measured the world.
+
+=== core
+**Geometry** (from the Greek for “earth measurement”) is the branch of mathematics that studies **shapes**, **sizes**, **angles**, **positions** and **space**. It began with practical needs: measuring land, building structures, navigating and tracking the stars.
+
+Ancient Egyptians used geometry to re-mark field boundaries after the Nile’s annual floods. In India, the **Sulba Sutras**, dating back to roughly the first millennium BCE, gave precise geometric rules for constructing fire altars of particular shapes and areas, including methods for turning a square into a circle of nearly equal area.
+
+Around **300 BCE**, the Greek mathematician **Euclid** gathered and organised geometric knowledge in his book, the ***Elements***. Starting from a small number of basic assumptions, called **axioms** or postulates, he proved hundreds of results step by step. The *Elements* became one of the most influential and widely studied books in history, used as a textbook for over two thousand years.
+
+=== text Euclid’s foundations
+Euclid began with five postulates, including:
+
+- A straight line can be drawn between any two points.
+- A circle can be drawn with any centre and radius.
+- All right angles are equal.
+- The famous **fifth postulate**, about parallel lines: roughly, through a point not on a given line, there is exactly **one** line parallel to it.
+
+From these, he proved results like:
+
+- The angles in any **triangle** add up to **180 degrees**.
+- The angles in any four-sided shape (a quadrilateral) add up to **360 degrees**.
+- **Pythagoras’s theorem**.
+
+The fifth postulate seemed less obvious than the others, and mathematicians tried for centuries to prove it from the first four. Their failure eventually led to a revolution, which you’ll explore in the next lesson.
+
+=== steps Pythagoras’s theorem in action
+- In a **right-angled triangle**, the longest side, opposite the right angle, is called the **hypotenuse**.
+- Pythagoras’s theorem says: the square of the hypotenuse equals the sum of the squares of the other two sides, often written **a² + b² = c²**.
+- Example: a triangle with sides of **3** and **4** has a hypotenuse of length **5**, because 3² + 4² = 9 + 16 = 25 = 5².
+- Builders have long used this to make perfect right angles: mark a rope with 12 equal sections, form a triangle with sides of 3, 4 and 5 sections, and the angle between the 3 and 4 sides is exactly 90 degrees.
+- Practical use: a ladder 5 metres long, with its foot 3 metres from a wall, reaches 4 metres up the wall.
+- The theorem underlies distance calculations in maps, navigation, computer graphics and GPS.
+
+=== text Similar shapes: measuring the unreachable
+Two shapes are **similar** if one is a scaled-up or scaled-down version of the other: same angles, proportional sides. This simple idea lets you measure things you can’t reach.
+
+According to ancient stories, the Greek thinker **Thales of Miletus**, around the 6th century BCE, measured the height of an Egyptian pyramid using shadows. He waited until his own shadow was exactly as long as he was tall. At that moment, the pyramid’s shadow, measured from its centre, must also equal its height, because the Sun’s rays form similar triangles. The same principle is used by surveyors, astronomers and anyone using a map scale.
+
+=== callout analogy
+Think of similar triangles like a photograph and its enlargement. Every proportion is preserved: if a person’s arm is half their height in the small photo, it’s half their height in the big poster too. If you know the scale and one measurement, you can work out all the others, which is how a shadow, a stick and some geometry can reveal the height of a pyramid or the size of the Earth.
+
+=== text Circles and π
+Every circle, whatever its size, has the same ratio of circumference to diameter: **π**, about 3.14159, which you met in the numbers lessons. So:
+
+- **Circumference** = π × diameter.
+- **Area** = π × radius².
+
+This means doubling a circle’s radius doubles its circumference but **quadruples** its area. That’s why a pizza 30 cm across contains more than twice as much as one 20 cm across: its area is (30/20)² = 2.25 times larger.
+
+=== text The square–cube law
+When you scale up any shape, its **area** grows with the **square** of the scale factor, but its **volume** grows with the **cube**.
+
+Double the size of a cube: each face has **4 times** the area, but the cube has **8 times** the volume (and weight). In **1638**, **Galileo** realised this has dramatic consequences for living things. An animal’s strength depends on the **cross-sectional area** of its bones and muscles, but its weight depends on its **volume**. Scale a human up to ten times their height, and their weight would increase about 1,000 times, while their bones’ strength would increase only about 100 times. The giant’s legs would snap.
+
+That’s why elephants have proportionally much thicker legs than gazelles, why insects can survive falls that would kill larger animals, and why giant creatures in films couldn’t exist as simply enlarged versions of normal animals. The square–cube law also affects engineering, heat loss and even why small animals have to eat so much relative to their size.
+
+=== reveal Why are honeycomb cells hexagons?
+Bees build honeycomb from wax, which takes energy to produce, so it pays to store the most honey using the least wax. Of the shapes that can tile a flat surface without gaps, squares, equilateral triangles and regular hexagons, the hexagon encloses the most area for a given perimeter. The ancient Greek mathematician **Pappus of Alexandria** noted the bees’ geometric efficiency around the 4th century CE. The idea that hexagons are the most efficient way to divide a surface into equal areas, called the **honeycomb conjecture**, was only formally proved in **1999** by the American mathematician **Thomas Hales**. Hexagonal patterns appear widely in nature, from basalt columns to the arrangement of carbon atoms in graphene.
+
+=== keypoints
+- **Geometry** studies shape, size, angles and space; it began with practical needs, like the **Sulba Sutras’** altar rules.
+- **Euclid’s Elements** (~300 BCE) built geometry from **axioms**; triangle angles add to **180°**.
+- **Pythagoras’s theorem**: **a² + b² = c²** in right-angled triangles, as in the **3-4-5** triangle.
+- **Similar shapes** let us measure the unreachable, as **Thales** reportedly did with a pyramid’s shadow.
+- **Eratosthenes** (~240 BCE) estimated Earth’s circumference using shadows and angles.
+- Circle area grows with the **square** of the radius; the **square–cube law** (Galileo, 1638) limits how large animals and structures can be.
+- Bees’ **hexagons** use the least wax for the most storage, proved by Hales in **1999**.
+
+=== why
+Geometry is everywhere: in buildings, maps, art, sport, engineering, computer graphics and nature itself. It lets us measure the Earth, navigate the oceans and understand why living things are shaped as they are. Next, you’ll discover what happened when mathematicians questioned Euclid’s fifth postulate, and how strange new geometries turned out to describe the real universe.
+
+##### LESSON
+id: math.geometry.2
+title: Curved Space, Fractals and Hidden Dimensions
+minutes: 15
+prereq: math.geometry.1
+check: In your own words: what is non-Euclidean geometry and where does it apply in the real world, why do common world maps distort country sizes, and what is a fractal?
+
+=== hook
+Look at a typical world map on a classroom wall, and **Greenland** appears roughly the same size as **Africa**. In reality, Africa is about **fourteen times** larger. India, which looks modest on many maps, is larger than it appears compared with countries far from the equator, like Russia and Canada.
+
+The distortion comes from the **Mercator projection**, designed by the Flemish mapmaker **Gerardus Mercator** in **1569** for sailors. It has a valuable property: a straight line on the map corresponds to a constant compass direction, which made navigation easier. But it achieves this by stretching areas more and more towards the poles. The problem it was solving goes to the heart of geometry: you can’t flatten a curved surface without distorting it.
+
+=== core
+In the previous lesson, you met Euclid’s geometry, built on five postulates. The **fifth postulate**, about parallel lines, bothered mathematicians for two thousand years. It seemed less self-evident than the others, and many tried to prove it from the first four. All failed.
+
+In the early **19th century**, several mathematicians, including **Carl Friedrich Gauss** in Germany, **János Bolyai** in Hungary and **Nikolai Lobachevsky** in Russia, independently tried a daring idea: what if the fifth postulate were **false**? Instead of finding a contradiction, they discovered entirely consistent new geometries. This was **non-Euclidean geometry**.
+
+=== text Geometry on curved surfaces
+There are two main kinds of non-Euclidean geometry:
+
+**Spherical geometry** (positive curvature), like the surface of a globe:
+
+- The “straightest” paths are **great circles**, like the equator or lines of longitude.
+- There are **no parallel lines**: any two great circles meet, as all lines of longitude meet at the poles.
+- The angles of a triangle add up to **more than 180 degrees**. Imagine a triangle with one corner at the North Pole and two on the equator, a quarter of the way around the Earth from each other: each corner has a right angle, so the angles total **270 degrees**.
+
+**Hyperbolic geometry** (negative curvature), like a saddle or a crinkly lettuce leaf:
+
+- Through a point, there are **infinitely many** lines that never meet a given line.
+- The angles of a triangle add up to **less than 180 degrees**.
+
+In **1854**, the German mathematician **Bernhard Riemann** developed a general framework for geometry on curved spaces of any number of dimensions. It seemed purely abstract at the time.
+
+=== callout analogy
+Think of an ant walking on a ball. To the ant, its path feels perfectly straight; it never turns left or right. Yet if it keeps walking, it eventually returns to its starting point, and if it walks a triangle, the angles add up to more than 180 degrees. The ant’s world obeys a different geometry from a flat sheet of paper. We, living on a curved Earth in curved spacetime, are in a similar position.
+
+=== text Non-Euclidean geometry in the real world
+**Flight routes**: the shortest path between two points on a sphere is along a great circle, which often looks curved on a flat map. Flights between Delhi and San Francisco, or London and Los Angeles, often pass far to the north, over or near the Arctic, because that’s the shortest route on a globe, even though it looks like a detour on a Mercator map.
+
+**Navigation and GPS**: calculating positions and distances on Earth’s curved surface requires spherical geometry.
+
+**The universe**: when **Albert Einstein** developed general relativity in 1915, as you saw in the Space region, he needed exactly the kind of curved geometry Riemann had developed. In his theory, mass and energy curve spacetime, and objects follow the straightest possible paths through it. Riemann’s abstract mathematics turned out to describe gravity itself.
+
+=== text Maps and projections
+Because a sphere can’t be flattened without stretching or tearing, **every flat map distorts** something: area, shape, distance or direction. Different **projections** make different trade-offs:
+
+- **Mercator** preserves directions and local shapes, useful for navigation, but greatly exaggerates areas near the poles.
+- **Equal-area projections**, like the Gall–Peters projection, show countries’ true relative sizes, but distort their shapes.
+- **Compromise projections**, like the Robinson or Winkel tripel, balance different distortions, and are widely used in atlases.
+
+Map choices can influence how people perceive the world: Mercator maps make Europe and North America look larger relative to Africa, South America and South Asia. Online map services often use a version of Mercator for practical reasons, as it preserves shapes when you zoom in on local areas.
+
+=== text Fractals: the geometry of roughness
+Euclidean geometry describes smooth shapes: lines, circles, spheres. But nature is full of rough, irregular forms: coastlines, mountains, clouds, trees, ferns, rivers, lungs and lightning.
+
+In **1967**, the Polish-born French-American mathematician **Benoît Mandelbrot** published a paper asking: “**How long is the coast of Britain?**” Building on earlier work by Lewis Fry Richardson, the weather-forecasting pioneer you met in the Earth region, he pointed out that the answer depends on the length of your ruler. Measure with a 100-kilometre ruler and you skip over bays and headlands. Use a 1-kilometre ruler and you capture more detail, so the length increases. Use a 1-metre ruler, and it increases further. In principle, the measured length keeps growing as the ruler shrinks. This is the **coastline paradox**.
+
+In **1975**, Mandelbrot coined the word **fractal** for shapes that show **similar patterns at every scale**: zoom in, and you see smaller copies of the whole, a property called **self-similarity**.
+
+=== steps Building the Koch snowflake
+- Start with an **equilateral triangle**.
+- On the middle third of each side, add a smaller equilateral triangle pointing outward. You now have a six-pointed star.
+- Repeat on every straight edge of the new shape: replace its middle third with a smaller triangle.
+- Keep repeating forever.
+- With each step, the perimeter grows by a factor of 4/3. After infinitely many steps, the perimeter becomes **infinitely long**.
+- Yet the snowflake always fits inside a circle around the original triangle, so its **area stays finite**. It’s a shape with an infinite boundary enclosing a finite area, described by the Swedish mathematician **Helge von Koch** in **1904**.
+
+=== text Fractals in nature and technology
+Fractal-like patterns appear throughout nature: the branching of trees, rivers, blood vessels and the airways in your lungs, which pack an enormous surface area for absorbing oxygen into your chest; the florets of **romanesco** broccoli; ferns; snowflakes; and mountain ranges.
+
+Fractal mathematics has practical uses: generating realistic landscapes in films and video games, designing compact antennas for mobile phones, analysing financial markets and studying patterns in medicine.
+
+=== reveal What is topology, and why do mathematicians joke that a coffee mug is the same as a doughnut?
+**Topology** is a branch of geometry that studies properties of shapes that don’t change when they are stretched, squashed or bent, as long as they aren’t torn or glued. To a topologist, a coffee mug and a doughnut are the same shape: each has exactly **one hole** (the mug’s handle), and you could, in principle, smoothly reshape one into the other if it were made of clay. A sphere and a doughnut are different, because you can’t create a hole without tearing. Topology began in **1736**, when **Leonhard Euler** solved the **Seven Bridges of Königsberg** problem, proving that it was impossible to walk through the city crossing each of its seven bridges exactly once, by realising that only the connections mattered, not the exact distances or shapes. Topology now has applications in physics, biology (such as how DNA knots and tangles), data analysis and network design.
+
+=== keypoints
+- Questioning Euclid’s **fifth postulate** led **Gauss**, **Bolyai** and **Lobachevsky** to **non-Euclidean geometry**.
+- On a **sphere**, there are no parallel lines and triangle angles exceed **180°**; in **hyperbolic** geometry, they’re less than 180°.
+- **Riemann (1854)** generalised curved geometry, later used by **Einstein** for general relativity.
+- Shortest flight routes follow **great circles**; every flat **map projection** distorts something; **Mercator (1569)** exaggerates polar areas (Africa is about **14 times** Greenland).
+- **Fractals** (coined by **Mandelbrot**, 1975) show self-similarity; the **coastline paradox** and **Koch snowflake** show infinite length in finite space.
+- **Topology** studies properties unchanged by stretching; it began with **Euler’s Königsberg bridges (1736)**.
+
+=== why
+Non-Euclidean geometry, maps, fractals and topology show that “shape” is far richer than school geometry suggests, and that abstract mathematical ideas can turn out to describe the real world, from flight paths to the curvature of spacetime. They also teach a valuable habit: questioning assumptions that seem obvious can open up entirely new ways of seeing.
