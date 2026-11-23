@@ -1,0 +1,82 @@
+{
+  "id": "chemistry.reactions.2",
+  "region": "chemistry",
+  "topic": "reactions",
+  "level": 2,
+  "prerequisites": [
+    "chemistry.reactions.1"
+  ],
+  "title": "Catalysts, Equilibrium and the Reaction That Feeds the World",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "By around **1900**, scientists were warning of a coming crisis. Crops need **nitrogen** to grow, and farmers were running out of natural sources of nitrogen fertiliser, like manure and guano (bird droppings) mined from islands off South America. Without a new source, the British scientist **William Crookes** warned in 1898, the world faced mass starvation.\n\nThe air is about 78% nitrogen, but, as you saw in the bonds lessons, nitrogen gas is held together by a very strong triple bond that plants can’t break. In **1909**, the German chemist **Fritz Haber** found a way to combine nitrogen from the air with hydrogen to make **ammonia**, and **Carl Bosch** scaled it up into an industrial process by **1913**. Today, scientists estimate that fertilisers made through the **Haber–Bosch process** help feed roughly **half** of the world’s population. It may be the most important chemical reaction ever industrialised."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw reactions as going one way, from reactants to products. But many reactions are **reversible**: the products can react to form the reactants again. This is shown with a double arrow (⇌).\n\nIn a closed system, a reversible reaction eventually reaches **chemical equilibrium**: a state where the forward and reverse reactions happen at the **same rate**, so the amounts of reactants and products stop changing overall, even though molecules are still constantly reacting in both directions.\n\nEquilibrium doesn’t mean equal amounts of reactants and products. Some reactions settle with mostly products; others with mostly reactants. Chemists want to push reactions towards the products they need."
+    },
+    {
+      "type": "text",
+      "heading": "Le Chatelier’s principle",
+      "md": "In **1884**, the French chemist **Henri Le Chatelier** described a powerful rule: when a system at equilibrium is disturbed, it **shifts to counteract the disturbance**.\n\n- **Add more reactant**: the equilibrium shifts to use it up, making more product.\n- **Remove product** as it forms: the equilibrium shifts to replace it, making more.\n- **Increase pressure** (for reactions involving gases): the equilibrium shifts towards the side with **fewer gas molecules**, reducing pressure.\n- **Change temperature**: raising temperature favours the direction that **absorbs** heat; lowering it favours the direction that **releases** heat."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of equilibrium like a busy railway platform with trains arriving and leaving at the same rate, so the number of people on the platform stays steady. If suddenly more people arrive at the entrance (adding reactant), more of them will board trains (forming products) until the platform settles at a new steady level. The system adjusts to absorb the change, which is Le Chatelier’s principle."
+    },
+    {
+      "type": "steps",
+      "title": "How the Haber–Bosch process works",
+      "items": [
+        "The reaction: **N₂ + 3H₂ ⇌ 2NH₃** (nitrogen plus hydrogen form ammonia). It’s reversible and releases heat.",
+        "**Pressure**: four gas molecules on the left become two on the right. By Le Chatelier’s principle, **high pressure** pushes the equilibrium towards ammonia. The process uses pressures of around **150 to 300 times** normal atmospheric pressure.",
+        "**Temperature**: because the forward reaction releases heat, lower temperatures would favour more ammonia. But at low temperatures, the reaction is far too slow.",
+        "So engineers choose a **compromise temperature**, around **400 to 500 °C**: hot enough for a reasonable rate, while still producing a decent amount of ammonia.",
+        "An **iron-based catalyst** speeds the reaction up enormously, without being used up.",
+        "Ammonia is continuously **removed** by cooling it into a liquid, shifting the equilibrium to make more, and unreacted gases are recycled.",
+        "The ammonia is turned into fertilisers like urea, as well as being used for many other products."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The impact, and the dark side",
+      "md": "The Haber–Bosch process transformed agriculture. Synthetic fertilisers helped make possible the **Green Revolution**, which, from the 1960s, dramatically increased crop yields in countries including India, where high-yielding wheat and rice varieties combined with fertilisers and irrigation helped the country move from food shortages towards self-sufficiency in grains.\n\nBut it has costs:\n\n- The process uses roughly **1–2%** of the world’s total energy supply, mostly from natural gas, which is also the usual source of the hydrogen, so it’s a significant source of carbon dioxide emissions.\n- Excess fertiliser washes into rivers and seas, causing the **dead zones** you met in the Earth region, and releases **nitrous oxide**, a powerful greenhouse gas.\n- Overuse can degrade soil health. In India, heavily subsidised urea has encouraged its overuse relative to other nutrients in some regions.\n\nFritz Haber’s legacy is especially complicated. He won the **1918 Nobel Prize in Chemistry** for ammonia synthesis. But during World War I, he also led Germany’s development of **chemical weapons**, personally overseeing the first large-scale use of chlorine gas in **1915**. The same chemistry that could feed the world could also be used for killing: ammonia is a key ingredient in explosives."
+    },
+    {
+      "type": "text",
+      "heading": "Catalysts: chemistry’s accelerators",
+      "md": "A **catalyst** speeds up a reaction by providing an alternative pathway with a lower activation energy, as you saw in the previous lesson. It’s not consumed, so a small amount can be used over and over.\n\n- **Industry**: the majority of industrial chemical processes rely on catalysts, from making fertilisers and plastics to refining fuel.\n- **Catalytic converters** in car exhausts use metals like **platinum**, **palladium** and **rhodium** to convert toxic carbon monoxide, unburned fuel and nitrogen oxides into less harmful carbon dioxide, water and nitrogen.\n- **Enzymes** are biological catalysts, mostly proteins. They speed up reactions in living cells, often by millions of times. Each enzyme has an **active site** shaped to fit specific molecules, like a key fitting a lock (though the enzyme often adjusts its shape slightly as the molecule binds). Digestive enzymes break down food; others copy DNA, as you saw in the Biology region. Enzymes are also used in washing powders to break down stains and in making cheese and bread."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What happened at Bhopal, and what did it teach the world about chemical safety?",
+      "md": "On the night of **2–3 December 1984**, a gas called **methyl isocyanate**, used to make pesticides, leaked from a Union Carbide pesticide plant in **Bhopal**, India. Water had entered a storage tank, triggering a runaway reaction that built up heat and pressure, and around 40 tonnes of toxic gas escaped over the sleeping city. Official estimates put the immediate death toll at several thousand, with estimates of total deaths over time ranging much higher, and hundreds of thousands of people suffered lasting health effects. Investigations found that multiple safety systems were not working or were inadequate. Bhopal is often described as the world’s worst industrial disaster. It led to stronger chemical safety and environmental laws in India and worldwide, and to the principle that companies handling hazardous chemicals must plan for emergencies and inform communities around them. Legal battles over compensation and site clean-up continued for decades."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Many reactions are **reversible** (⇌) and reach **chemical equilibrium**, where forward and reverse rates are equal.",
+        "**Le Chatelier’s principle (1884)**: a system at equilibrium shifts to counteract disturbances in concentration, pressure or temperature.",
+        "The **Haber–Bosch process** (N₂ + 3H₂ ⇌ 2NH₃) uses **high pressure**, a **compromise temperature** and an **iron catalyst** to make ammonia.",
+        "Its fertilisers help feed roughly **half** the world and enabled the **Green Revolution**, but it uses 1–2% of global energy and contributes to pollution.",
+        "**Fritz Haber** won a Nobel Prize for ammonia and also led Germany’s **chemical weapons** programme.",
+        "**Catalysts**, from **catalytic converters** to **enzymes**, speed reactions without being used up.",
+        "**Bhopal (1984)** showed the devastating consequences of failed chemical safety."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Chemistry has given humanity enormous power: to feed billions, cure diseases and build the modern world, and also to cause terrible harm. Understanding equilibrium and catalysts explains how industrial chemistry works, while the stories of Haber and Bhopal show why safety, ethics and responsibility must go hand in hand with scientific progress."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is chemical equilibrium and how does Le Chatelier’s principle help control it, why is the Haber–Bosch process so important, and how do catalysts work?"
+  }
+}

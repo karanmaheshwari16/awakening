@@ -1,0 +1,240 @@
+##### LESSON
+id: chemistry.carbon.2
+title: Fuels, Plastics and Medicines
+minutes: 15
+prereq: chemistry.carbon.1
+check: In your own words: how is crude oil separated into useful products, what are polymers and why is plastic pollution such a problem, and how was aspirin developed from a natural remedy?
+
+=== hook
+For thousands of years, healers in many cultures, from ancient Egypt and Greece to China and among Indigenous peoples of the Americas, used preparations of **willow bark** to relieve pain and fever. In the 19th century, chemists identified the active ingredient, a compound called **salicin**, and converted it into **salicylic acid**. It worked, but it was harsh on the stomach.
+
+In **1897**, at the German company **Bayer**, a chemist named **Felix Hoffmann** made a modified version, **acetylsalicylic acid**, that was gentler. Bayer sold it as **Aspirin** from 1899. More than a century later, it remains one of the most widely used medicines in the world, taken for pain, fever and, in low doses, to help prevent heart attacks and strokes in some people. Its story captures how organic chemistry transforms natural substances into the products that shape modern life.
+
+=== core
+In the previous lesson, you saw that carbon can form an almost limitless variety of compounds. Humans have learned to exploit this, especially using **crude oil**, **natural gas** and **coal**: the fossilised remains of ancient organisms, rich in carbon compounds formed over millions of years.
+
+These fossil resources are used in two main ways:
+
+1. As **fuels**, burned for energy.
+2. As **raw materials** (feedstocks) for making plastics, fertilisers, medicines, dyes, solvents and thousands of other products, in an industry known as **petrochemicals**.
+
+=== text Refining crude oil
+**Crude oil**, pumped from underground, is a thick mixture of many different hydrocarbons, from small molecules with a few carbon atoms to very long chains. To be useful, it must be separated, using **fractional distillation**:
+
+- Crude oil is heated until most of it becomes vapour, and fed into a tall **fractionating column**, hot at the bottom and cooler at the top.
+- As the vapours rise, they cool. Different hydrocarbons condense back into liquids at different heights, depending on their boiling points.
+- **Small molecules** with low boiling points, like the gases used in LPG, rise to the top.
+- Higher up, still fairly light liquids condense: **petrol** (gasoline) and **naphtha**, a raw material for chemicals.
+- Further down: **kerosene** (used for jet fuel and, in some homes, for lamps and stoves), then **diesel**.
+- At the bottom: heavy **fuel oils**, **lubricating oils**, waxes and **bitumen**, used for road surfaces.
+
+Refineries also use processes like **cracking**, which breaks large, less useful molecules into smaller, more valuable ones such as petrol and the building blocks of plastics.
+
+=== callout analogy
+Think of fractional distillation like a crowd of people of different heights climbing a tall staircase, where each floor has a doorway at a different height. The smallest, lightest people (small molecules) can keep climbing to the top floors; heavier ones get off at lower floors. By the end, each floor has collected people of similar size. A fractionating column sorts hydrocarbons by how easily they boil.
+
+=== text Polymers and plastics
+**Polymers** are giant molecules made by linking together many small repeating units, called **monomers**, like beads on a necklace. Many natural materials are polymers: proteins, DNA, cellulose, starch, silk, wool and natural rubber.
+
+**Plastics** are synthetic polymers, mostly made from petrochemicals:
+
+- **Bakelite**, invented by **Leo Baekeland** in **1907**, was the first fully synthetic plastic, used in early telephones, radios and electrical fittings.
+- **Polyethylene** (polythene), the most common plastic, was discovered by accident at the British company ICI in **1933**. It’s used in plastic bags, bottles and packaging.
+- Others include **PVC** (pipes, window frames), **polystyrene** (packaging, disposable cups), **nylon** (clothing, ropes), **PET** (drink bottles, polyester fabrics) and many more.
+
+Plastics are lightweight, cheap, durable, waterproof and easily shaped, which made them enormously useful in packaging, medicine, construction, transport and electronics.
+
+=== text The plastic problem
+Their durability is also their biggest problem. Most plastics don’t biodegrade: they can persist in the environment for decades to centuries, breaking into ever-smaller fragments, called **microplastics**, as you saw in the Earth region.
+
+- Global plastic production has grown to over **400 million tonnes** a year.
+- A widely cited 2017 study estimated that only about **9%** of all plastic ever made had been recycled; much of the rest ended up in landfills, was burned or leaked into the environment.
+- Recycling is difficult because there are many types of plastic, often mixed together or contaminated with food, and recycled plastic is often lower in quality.
+
+Responses include reducing single-use plastics: **India banned many single-use plastic items** from **2022**, and many other countries have restricted plastic bags, straws and packaging. Other approaches include designing products for reuse and recycling, making producers responsible for their plastic waste, and developing **biodegradable** or **bio-based** plastics, though some “biodegradable” plastics only break down under specific industrial conditions. Negotiations on a global plastics treaty have been under way, but countries have disagreed over whether to limit plastic production.
+
+=== steps From natural remedy to modern medicine
+- **Observation**: traditional healers notice that a plant, like willow bark, relieves symptoms.
+- **Isolation**: chemists extract and identify the active compound, such as salicin.
+- **Modification**: they alter the molecule to improve its effectiveness or reduce side effects, creating aspirin.
+- **Testing**: modern medicines go through laboratory studies and the clinical trial phases you met in the Biology region, to establish safety and effectiveness.
+- **Manufacturing**: chemists develop efficient ways to make the medicine reliably and cheaply at scale.
+- Many important medicines came from nature this way: **morphine** from opium poppies, **quinine** from cinchona bark (for malaria), **penicillin** from mould, and the cancer drug **paclitaxel** from the Pacific yew tree. Artemisinin, a key malaria drug, was developed by the Chinese scientist **Tu Youyou** from a herb used in traditional Chinese medicine, earning her the **2015 Nobel Prize**.
+
+=== text Generic medicines and India
+When a company invents a new drug, it typically receives a **patent**, giving it exclusive rights to sell the drug for a period, often 20 years from filing, to reward the high cost of research and development. After the patent expires, other manufacturers can make **generic** versions: chemically identical copies, sold much more cheaply.
+
+**India** became one of the world’s largest producers of generic medicines, partly because its patent laws, until 2005, protected manufacturing processes rather than the drugs themselves, allowing Indian companies to develop alternative ways of making them. Indian generic manufacturers dramatically cut the cost of HIV medicines in developing countries in the 2000s, as you saw in the Biology region. India supplies a large share of the generic medicines used in the US and many lower-income countries, which is why it’s often called “the pharmacy of the world”. Balancing incentives for innovation with affordable access to medicines remains a major global debate.
+
+=== reveal Natural products are often marketed as safer than chemicals. Is that true?
+Not necessarily. Everything is made of chemicals: water, vitamins and the compounds in fruits are chemicals, just as medicines are. Whether something is natural or synthetic tells you little about its safety. Many natural substances are highly toxic: **ricin** from castor beans, **aconite** from monkshood, **arsenic** and the toxins in poisonous mushrooms. Meanwhile, many synthetic substances are safe at normal doses. What matters is the specific substance and the **dose**: as the 16th-century physician **Paracelsus** observed, the dose makes the poison. Even water can be dangerous in extreme amounts. Herbal remedies can also interact with prescription medicines and may vary in strength and purity. The right question isn’t “natural or chemical?” but “what is it, how much, and what does the evidence say?”
+
+=== keypoints
+- Fossil fuels are used as **fuels** and as raw materials for **petrochemicals**.
+- **Fractional distillation** separates crude oil by boiling point into products like **LPG**, **petrol**, **kerosene**, **diesel** and **bitumen**; **cracking** breaks large molecules into smaller ones.
+- **Polymers** are long chains of repeating **monomers**; plastics like **Bakelite (1907)** and **polyethylene (1933)** transformed modern life.
+- Over **400 million tonnes** of plastic are produced a year; only about **9%** of all plastic ever made has been recycled.
+- India banned many **single-use plastics** in **2022**.
+- **Aspirin** (Hoffmann, 1897) came from willow bark; many medicines originate in nature, like **artemisinin** (Tu Youyou, Nobel 2015).
+- India is a major producer of **generic medicines**; “natural” isn’t automatically safer: **the dose makes the poison**.
+
+=== why
+Carbon chemistry gives us the fuels that power transport, the plastics that fill our homes and the medicines that save lives, along with pollution, climate change and plastic waste. Understanding how these products are made helps you make sense of debates about energy, plastics and healthcare, and see past simplistic claims that natural is always good or chemicals are always bad.
+
+##### LESSON
+id: chemistry.materials.1
+title: Materials: From Stone to Steel to Concrete
+minutes: 15
+check: In your own words: what makes an alloy different from a pure metal, why is the Iron Pillar of Delhi so remarkable, and why is cement a major source of carbon emissions?
+
+=== hook
+In the courtyard of the Qutub Minar complex in **Delhi** stands an **iron pillar** over **7 metres** tall and weighing more than six tonnes. An inscription suggests it was made around the **4th or 5th century CE**, during the Gupta period, and it was probably moved to its current location centuries later.
+
+For over **1,600 years**, it has stood outdoors, exposed to Delhi’s monsoons and humidity. Yet it has barely rusted. Scientists, including researchers at IIT Kanpur, have found that the iron’s unusual composition, particularly its relatively high phosphorus content and the absence of certain other elements, helped form a thin, protective layer on its surface that slows corrosion. Ancient metalworkers had created a material whose durability still impresses modern scientists.
+
+=== core
+**Materials science** is the study of the substances we use to make things, how their internal structure determines their properties, and how to design new materials with properties we need.
+
+Materials have been so central to human history that archaeologists name early periods after them: the **Stone Age**, the **Bronze Age** and the **Iron Age**. Today, we might say we live in the age of steel, concrete, plastic and silicon.
+
+Engineers choose materials based on properties such as:
+
+- **Strength**: how much force a material can withstand before breaking.
+- **Hardness**: resistance to scratching and denting.
+- **Toughness**: ability to absorb energy without shattering. Glass is hard but not tough; rubber is tough but not hard.
+- **Density**: mass per volume, crucial for aircraft and vehicles.
+- **Conductivity**: how well it conducts heat and electricity.
+- **Corrosion resistance**, **flexibility**, **cost** and **ease of manufacturing**.
+
+=== text Metals and alloys
+Pure metals are often too soft or weak for practical use. Mixing a metal with small amounts of other elements creates an **alloy**, which often has very different and better properties.
+
+In a pure metal, atoms are arranged in neat, regular layers that can slide over each other fairly easily, as you saw in the bonds lessons, making it soft. Adding atoms of a different size disrupts these layers, making it harder for them to slide, so the alloy becomes harder and stronger.
+
+- **Bronze**: copper mixed with tin. Harder than copper, it gave its name to the Bronze Age, beginning around 3300 BCE in parts of the Middle East and South Asia, including the Indus Valley Civilisation, which produced remarkable bronze figures like the **Dancing Girl** of Mohenjo-daro.
+- **Brass**: copper and zinc, used in musical instruments, fittings and traditional Indian utensils.
+- **Steel**: iron with a small amount of **carbon** (usually less than 2%), much stronger and tougher than pure iron. It is the most widely used metal in the world, essential for buildings, bridges, vehicles, ships and machines.
+- **Stainless steel**: steel with **chromium** added, which forms a thin, invisible oxide layer protecting it from rust, used for cutlery, kitchen equipment and medical instruments.
+
+=== text Wootz steel: India’s legendary metal
+From perhaps as early as the last centuries BCE, metalworkers in southern India and Sri Lanka produced a high-quality steel known as **wootz** (from a word for steel in a South Indian language). Made in sealed clay crucibles, it had a high carbon content and a distinctive internal structure.
+
+Wootz steel was traded widely across the Middle East and was used to make the famous **Damascus blades**, renowned for their strength, sharpness and beautiful wavy patterns. The original techniques were largely lost by the 18th and 19th centuries. Modern scientists studying surviving blades have found microscopic structures, including features that some researchers have compared to carbon nanotubes, though interpretations vary.
+
+=== callout analogy
+Think of a pure metal like a neat stack of identical oranges in a shop display. Push the top layer, and it slides easily over the layer below. Now mix in some smaller lemons and a few large grapefruits. The layers become bumpy and irregular, and they no longer slide easily. That’s why alloys are usually harder and stronger than pure metals: the mixed atoms jam the layers in place.
+
+=== text Ceramics and glass
+**Ceramics** are hard, heat-resistant materials made by heating clay and other minerals to high temperatures: pottery, bricks, tiles and porcelain. Modern “advanced ceramics” are used in engine parts, artificial joints and the heat-resistant tiles on spacecraft. Ceramics are hard and resist heat and corrosion, but they tend to be brittle.
+
+**Glass** is made by melting sand (silicon dioxide) with other ingredients, like soda ash and limestone, and cooling it quickly so the atoms don’t have time to arrange into a regular crystal. It’s an **amorphous** solid: hard and transparent, but with a disordered internal structure.
+
+=== text Concrete: the world’s most used material
+After water, **concrete** is the most widely used substance on Earth. It’s made by mixing **cement**, water, sand and gravel. The cement reacts with water in a chemical process called **hydration**, forming crystals that bind everything together into an artificial rock.
+
+The Romans built remarkably durable concrete structures, like the **Pantheon** in Rome, whose unreinforced concrete dome, completed around 125 CE, is still standing. Modern **reinforced concrete**, with steel bars embedded inside, combines concrete’s strength under compression with steel’s strength under tension, allowing skyscrapers, bridges and dams.
+
+But concrete has a major environmental cost. Making cement involves heating limestone (calcium carbonate) to very high temperatures, which both burns fuel and chemically releases carbon dioxide from the limestone itself. **Cement production** accounts for roughly **8%** of global carbon dioxide emissions. India is the world’s second-largest cement producer, after China. Researchers are developing lower-carbon alternatives, such as cements using industrial by-products like fly ash, new chemistries and ways to capture the carbon dioxide released.
+
+=== steps Composite materials
+- A **composite** combines two or more different materials to get the best properties of each.
+- **Reinforced concrete** pairs concrete, strong when squeezed, with steel, strong when stretched.
+- **Fibreglass** embeds thin glass fibres in plastic resin, creating a light, strong material used in boats and water tanks.
+- **Carbon fibre** composites embed carbon fibres in resin, producing materials that are extremely strong and light, used in aircraft, racing cars, bicycles and sports equipment. Modern airliners like the Boeing 787 are built largely from carbon fibre composites, saving weight and fuel.
+- **Natural composites** include **wood** (cellulose fibres in a lignin matrix) and **bone** (flexible collagen fibres combined with hard mineral crystals).
+- Ancient builders used composites too: mud bricks reinforced with straw have been used for thousands of years.
+
+=== reveal Why does iron rust, and how can rusting be prevented?
+**Rusting** is an oxidation reaction, which you met in the reactions lessons: iron reacts with **oxygen** and **water** to form iron oxides, the flaky, reddish-brown substance we call rust. Salt speeds it up, which is why cars and structures near the sea, or on roads treated with salt, rust faster. Unlike the protective oxide layers on aluminium or stainless steel, rust is porous and flakes off, exposing fresh iron underneath to further attack. Ways to prevent rust include **painting** or **oiling** the surface to keep out air and water; **galvanising**, coating iron with **zinc**, which corrodes first and protects the iron even if scratched; **alloying**, as in stainless steel; and attaching blocks of more reactive metals, a technique called **sacrificial protection**, used on ships and pipelines. Corrosion costs countries enormous sums every year, so preventing it is a major engineering concern.
+
+=== keypoints
+- **Materials science** links a material’s internal structure to its properties, like **strength**, **hardness**, **toughness** and **conductivity**.
+- **Alloys**, like **bronze**, **brass**, **steel** and **stainless steel**, are usually harder and stronger than pure metals because mixed atoms stop layers sliding.
+- The **Iron Pillar of Delhi** has resisted rust for about **1,600 years**, thanks partly to a protective surface layer.
+- **Wootz steel** from South India was famed worldwide and used in **Damascus blades**.
+- **Ceramics** and **glass** are hard but brittle; **concrete** is the most used material after water.
+- **Cement** production causes about **8%** of global CO₂ emissions.
+- **Composites**, like **reinforced concrete** and **carbon fibre**, combine materials’ strengths; rust is prevented by **painting**, **galvanising** and **alloying**.
+
+=== why
+Every object around you, from your phone to the building you’re in, depends on choosing the right materials. Understanding materials explains why bridges stand, why ships rust, why aircraft are made of composites and why cement matters for climate change. It also reveals the remarkable skill of ancient metalworkers, whose achievements still impress scientists today. Next, you’ll explore the materials that power modern technology: semiconductors, batteries and beyond.
+
+##### LESSON
+id: chemistry.materials.2
+title: Semiconductors, Batteries and Materials of the Future
+minutes: 15
+prereq: chemistry.materials.1
+check: In your own words: what is a semiconductor and how does doping change it, how does a lithium-ion battery store energy, and why are critical minerals a growing concern?
+
+=== hook
+In the early **1990s**, almost every major electronics company had tried and failed to make a bright, efficient **blue light-emitting diode (LED)**. Red and green LEDs existed, but without blue, you couldn’t combine colours to make white light. Many researchers had given up.
+
+Working with limited resources, **Shuji Nakamura**, an engineer at a small Japanese chemical company, along with the scientists **Isamu Akasaki** and **Hiroshi Amano**, who had been working on the problem for years, finally succeeded, using a difficult material called gallium nitride. Their breakthrough made possible the white **LED lights** now found in homes, phones, televisions and streetlights worldwide, using a fraction of the energy of old bulbs. They shared the **2014 Nobel Prize in Physics**. The right material, it turns out, can change the world.
+
+=== core
+In the previous lesson, you met materials like metals, ceramics and composites. This lesson explores materials that control **electricity** and **energy**, the foundations of modern electronics, renewable energy and electric vehicles.
+
+Materials can be grouped by how well they conduct electricity:
+
+- **Conductors**, like copper and silver, let electrons flow easily, as you saw in the bonds lessons.
+- **Insulators**, like rubber, glass and most plastics, barely conduct at all.
+- **Semiconductors**, like **silicon** and **germanium**, are in between, and their conductivity can be precisely controlled.
+
+That controllability is what makes semiconductors so valuable: they can act like switches, turning current on and off, which, as you saw in the Technology region, is the basis of all digital electronics.
+
+=== text Doping: controlling semiconductors
+Pure silicon conducts electricity only weakly. Its conductivity can be dramatically increased by adding tiny, carefully controlled amounts of other elements, a process called **doping**.
+
+- Adding an element with **one more** valence electron than silicon, like **phosphorus**, provides extra free electrons that can carry current. This creates **n-type** silicon (n for negative).
+- Adding an element with **one fewer** valence electron, like **boron**, creates gaps where electrons are missing, called **holes**, which behave like positive charges moving through the material. This creates **p-type** silicon (p for positive).
+
+When n-type and p-type silicon are placed together, they form a **p–n junction**, where current flows easily in one direction but not the other. This is the basis of the **diode**, and combinations of junctions form the **transistor**, which was invented at Bell Labs in **1947** by **John Bardeen**, **Walter Brattain** and **William Shockley**, who shared the 1956 Nobel Prize. The transistor made computers, mobile phones and nearly all modern electronics possible.
+
+=== callout analogy
+Think of pure silicon as a busy car park where almost every space is filled and cars can barely move. Doping with phosphorus is like adding extra cars that have to drive around looking for spaces: there’s suddenly lots of movement. Doping with boron is like removing some cars, creating empty spaces that neighbouring cars can move into, so the empty spaces themselves seem to move through the car park. Either way, traffic, electric current, can now flow.
+
+=== text Semiconductors that make light and capture it
+The same p–n junction idea powers two crucial technologies:
+
+**LEDs**: when electrons cross a p–n junction and fill holes, they release energy as **light**. The colour depends on the semiconductor material and the size of the energy gap involved, the quantum energy levels you met in the Physics region. LEDs are far more efficient and longer-lasting than old incandescent bulbs. India’s **UJALA** programme, launched in **2015**, distributed hundreds of millions of LED bulbs, significantly cutting electricity use.
+
+**Solar cells**: work in reverse. When light hits a p–n junction, its energy frees electrons, creating an electric current, the photovoltaic effect you met in the Physics region. Most solar panels use silicon. Researchers are developing new materials, like **perovskites**, which could make solar cells cheaper and more efficient, though durability remains a challenge.
+
+=== text Lithium-ion batteries
+A **battery** stores energy in chemical form and releases it as electricity. It has two electrodes, a positive **cathode** and a negative **anode**, separated by an **electrolyte** that allows ions, but not electrons, to move between them.
+
+In a **lithium-ion battery**:
+
+- When the battery is **charging**, lithium ions move from the cathode, through the electrolyte, and are stored in the anode, usually made of graphite.
+- When the battery is **in use**, the lithium ions move back to the cathode, while electrons flow through the external circuit, powering your device.
+
+Lithium is the lightest metal and gives up electrons easily, so lithium-ion batteries can store a lot of energy for their weight. Developed through work by **John Goodenough**, **M. Stanley Whittingham** and **Akira Yoshino**, who shared the **2019 Nobel Prize in Chemistry**, they were first sold commercially by Sony in **1991**. They now power phones, laptops and electric vehicles, and are increasingly used to store solar and wind energy for power grids. Their costs have fallen dramatically, by around **90%** over the 2010s, helping make electric vehicles affordable.
+
+=== steps Critical minerals: the new resource race
+- Modern technologies depend on a set of **critical minerals**: lithium, cobalt, nickel and graphite for batteries; rare earth elements for powerful magnets in electric motors and wind turbines; copper for wiring; and silicon and gallium for electronics and solar panels.
+- Demand for these minerals is rising rapidly with the growth of electric vehicles and renewable energy.
+- Supply is highly concentrated. The **Democratic Republic of Congo** produces around **70%** of the world’s cobalt, where mining has been linked to dangerous conditions and child labour in some small-scale mines. **China** dominates the **processing** of many critical minerals, including most rare earths, lithium and graphite.
+- This concentration creates economic and geopolitical risks, and many countries, including India, the US and EU members, have launched strategies to secure supplies, diversify sources and develop domestic processing. India has discovered lithium deposits, including in Jammu and Kashmir, though turning discoveries into production takes many years.
+- **Recycling** batteries and electronics, and developing batteries that use more abundant materials, like **sodium-ion** batteries, can reduce dependence on scarce minerals.
+
+=== text Superconductors and new frontiers
+In **1911**, the Dutch physicist **Heike Kamerlingh Onnes** discovered that mercury, cooled to about **−269 °C**, close to absolute zero, conducted electricity with **zero resistance**. This is **superconductivity**. Superconducting magnets are used in **MRI** scanners, particle accelerators and some experimental trains that levitate above their tracks.
+
+The catch is that known superconductors need extreme cold, expensive to maintain. A superconductor that worked at room temperature and normal pressure would transform power grids, electronics and transport. In **2023**, a team of researchers claimed to have found one, a material called **LK-99**. The claim went viral, but laboratories around the world quickly tested it and found it was not a superconductor. It was a fast, public example of science’s self-correction in action.
+
+Other frontiers include **nanomaterials**, engineered at the scale of billionths of a metre, with unusual properties; **self-healing materials** that repair cracks; and materials designed with the help of AI, which can predict new compounds’ properties before they’re made.
+
+=== reveal Why do lithium-ion batteries sometimes catch fire, and how is this being addressed?
+If a lithium-ion battery is damaged, overcharged, poorly made or overheated, a short circuit inside can start generating heat. The heat can trigger chemical reactions that release more heat, a dangerous chain reaction called **thermal runaway**, which can lead to fire or explosion. The flammable liquid electrolyte makes this worse. Safety measures include battery management systems that monitor temperature and charging, protective casings and separators, and strict manufacturing standards. Researchers are developing **solid-state batteries**, which replace the flammable liquid electrolyte with a solid one, potentially making batteries safer and able to store more energy. For users, the practical advice is to use reliable chargers, avoid damaged batteries and avoid exposing devices to extreme heat.
+
+=== keypoints
+- **Semiconductors** like **silicon** have controllable conductivity, between conductors and insulators.
+- **Doping** creates **n-type** (extra electrons) and **p-type** (holes) silicon; a **p–n junction** forms diodes and **transistors** (invented **1947**).
+- **LEDs** turn electricity into light (blue LED: Nobel **2014**); **solar cells** turn light into electricity.
+- **Lithium-ion batteries** store energy by moving lithium ions between electrodes (Nobel **2019**); their costs fell about **90%** in the 2010s.
+- **Critical minerals** like lithium, cobalt and rare earths are concentrated in a few countries, raising supply and ethical concerns.
+- **Superconductors** conduct with zero resistance but need extreme cold; the **LK-99** claim (2023) was quickly disproved.
+- Battery fires come from **thermal runaway**; **solid-state batteries** may be safer.
+
+=== why
+The materials in this lesson power your phone, light your home and will shape the transition to clean energy. Understanding them explains how electronics work, why electric vehicles have become practical and why minerals have become a matter of global politics. Materials science is where chemistry, physics and engineering meet to build the future.

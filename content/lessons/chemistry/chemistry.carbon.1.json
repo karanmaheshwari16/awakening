@@ -1,0 +1,78 @@
+{
+  "id": "chemistry.carbon.1",
+  "region": "chemistry",
+  "topic": "carbon",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Carbon: The Backbone of Life",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2004**, two physicists at the University of Manchester, **Andre Geim** and **Konstantin Novoselov**, held regular Friday evening sessions where they tried unusual experiments. One involved taking a lump of graphite, the material in pencils, and repeatedly peeling off thin layers with ordinary **sticky tape**.\n\nBy folding and peeling the tape again and again, they eventually isolated a sheet of carbon just **one atom thick**: **graphene**. Many scientists had thought such a thin sheet couldn’t exist on its own. It turned out to be remarkably strong, flexible, transparent and an excellent conductor of electricity. Geim and Novoselov won the **2010 Nobel Prize in Physics**. Carbon, it seems, never stops surprising us."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Carbon is the sixth element in the periodic table, with **4 valence electrons**. That simple fact makes it extraordinary.\n\nWith four valence electrons, a carbon atom can form **four** strong covalent bonds, more than most other common elements. It can bond with other carbon atoms to form **long chains**, **branched chains** and **rings**, as well as bonding with hydrogen, oxygen, nitrogen, sulphur, phosphorus and other elements. It can form single, double and triple bonds.\n\nAs a result, carbon can form an almost limitless variety of compounds, far more than all other elements combined: chemists have described many millions of carbon compounds. The study of carbon compounds is called **organic chemistry**, and it’s the chemistry of all known life."
+    },
+    {
+      "type": "text",
+      "heading": "The end of “vital force”",
+      "md": "For centuries, many scientists believed that the substances found in living things, like sugars, proteins and urea, were fundamentally different from those in non-living things, and could only be made by living organisms, through a mysterious “**vital force**”. This idea was called **vitalism**.\n\nIn **1828**, the German chemist **Friedrich Wöhler** heated a non-living chemical, ammonium cyanate, and produced **urea**, a compound found in urine, previously thought to come only from living bodies. He wrote excitedly to a colleague that he could make urea without needing kidneys.\n\nVitalism didn’t collapse overnight, but Wöhler’s work, and later syntheses, showed that the chemistry of life follows the same rules as all other chemistry. Living things are made of extraordinary, complex arrangements of ordinary atoms."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of carbon atoms as the ultimate building blocks, like a construction toy piece with four connectors. With just one type of piece that connects in four directions, you could build straight lines, branching trees, rings, cages and endless combinations. Add a few other types of pieces, like hydrogen, oxygen and nitrogen, and the possibilities become practically infinite. That’s why carbon can build everything from petrol to DNA."
+    },
+    {
+      "type": "text",
+      "heading": "Hydrocarbons and functional groups",
+      "md": "The simplest organic compounds are **hydrocarbons**, made only of carbon and hydrogen:\n\n- **Methane** (CH₄): one carbon atom, the main component of natural gas.\n- **Propane** and **butane**: three and four carbons, the main components of LPG cooking gas.\n- **Octane**: eight carbons, a component of petrol.\n- Longer chains form waxes and, eventually, the polymers in plastics.\n\nAdding other atoms creates **functional groups**, clusters of atoms that give molecules particular properties:\n\n- **Alcohols** contain an oxygen-hydrogen group: **ethanol** is the alcohol in alcoholic drinks and is also used as a fuel; India blends it into petrol.\n- **Carboxylic acids** contain a carbon-oxygen group that makes them acidic: **acetic acid** in vinegar, **citric acid** in citrus fruits.\n- Other groups create the smells and flavours of fruits, the active ingredients of medicines and the colours of dyes."
+    },
+    {
+      "type": "text",
+      "heading": "Carbon’s many forms",
+      "md": "As you saw in the bonds lessons, pure carbon comes in several forms, called **allotropes**:\n\n- **Diamond**: a rigid 3D network, extremely hard.\n- **Graphite**: stacked flat sheets, soft and conductive.\n- **Graphene**: a single layer of graphite, one atom thick, about 200 times stronger than steel by weight, and an excellent conductor. Researchers are exploring uses in electronics, batteries, sensors and composite materials, though large-scale applications have developed more slowly than early hype suggested.\n- **Fullerenes**: hollow cage-like molecules, the most famous being **buckminsterfullerene** (C₆₀), shaped like a football, discovered in **1985** and named after the architect Buckminster Fuller, who designed geodesic domes.\n- **Carbon nanotubes**: graphene rolled into tiny cylinders, extremely strong and conductive."
+    },
+    {
+      "type": "steps",
+      "title": "The four great families of biological molecules",
+      "items": [
+        "**Carbohydrates**: sugars and starches, made of carbon, hydrogen and oxygen. Glucose provides energy, as you saw in the Biology region; starch stores energy in plants; **cellulose** forms plant cell walls and is the most abundant organic compound on Earth.",
+        "**Lipids**: fats, oils and related molecules. They store energy densely, form the membranes surrounding every cell and make up some hormones.",
+        "**Proteins**: long chains of **amino acids**, folded into complex shapes, doing most of the work in cells: enzymes, structural materials, transport molecules and antibodies.",
+        "**Nucleic acids**: **DNA** and **RNA**, carrying genetic information in sequences of bases, as you saw in the Biology region.",
+        "All four are built mainly from carbon frameworks, using a small number of other elements. Together, they make up most of the dry mass of living things."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If carbon is so good at forming life’s molecules, could life elsewhere be based on silicon instead?",
+      "md": "**Silicon** sits directly below carbon in the periodic table, with the same four valence electrons, so science fiction writers have long imagined silicon-based life. But silicon has major disadvantages. Silicon atoms are larger, so silicon–silicon bonds are weaker than carbon–carbon bonds, making long, stable silicon chains difficult. Silicon reacts readily with oxygen, forming solid silicon dioxide, essentially sand and quartz, while carbon forms carbon dioxide, a gas that living things can easily release and absorb. Silicon also forms far fewer stable double bonds. Most scientists think carbon is much better suited to building the complex, flexible molecules life needs, although no one can rule out exotic chemistries in conditions very different from Earth’s."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Carbon’s **four valence electrons** let it form four bonds, building **chains**, **branches** and **rings**: millions of compounds.",
+        "**Organic chemistry** studies carbon compounds, the chemistry of life.",
+        "**Wöhler (1828)** made urea from non-living chemicals, undermining **vitalism**.",
+        "**Hydrocarbons** (methane, propane, octane) contain only carbon and hydrogen; **functional groups** like alcohols and acids add properties.",
+        "Carbon **allotropes** include **diamond**, **graphite**, **graphene** (isolated in **2004** with sticky tape; Nobel **2010**), **fullerenes** and **nanotubes**.",
+        "Life’s four molecule families: **carbohydrates**, **lipids**, **proteins** and **nucleic acids**.",
+        "Silicon is a poor substitute for carbon in building life’s complex molecules."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Carbon chemistry is the chemistry of life, food, fuels, plastics and medicines. Understanding why carbon is so versatile connects chemistry to biology, energy and materials, and explains why carbon dioxide, a simple carbon compound, matters so much for the climate. Next, you’ll explore how humans use carbon chemistry to make fuels, plastics and medicines, and the problems that come with them."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why can carbon form such an enormous variety of compounds, what did Wöhler’s experiment show, and what are the four main types of biological molecules?"
+  }
+}

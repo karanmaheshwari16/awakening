@@ -1,0 +1,89 @@
+{
+  "id": "chemistry.acids-bases.1",
+  "region": "chemistry",
+  "topic": "acids-bases",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Acids and Bases in Everyday Life",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Here’s an experiment you can do in your kitchen. Make a paste of **turmeric** powder with a little water and spread it on paper. It’s bright yellow. Now dab on a solution of **baking soda** or soap. Where it touches, the yellow turns a striking **reddish-brown**. Add a little **lemon juice**, and the yellow returns.\n\nTurmeric is acting as a natural **indicator**: a substance that changes colour depending on whether it meets an acid or a base. People have noticed colour changes like this for centuries; the colour of stains from turmeric-based curries on clothing can turn red when washed with alkaline soap. It’s a vivid glimpse into one of the most important ideas in chemistry."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Acids** and **bases** are two families of chemicals with opposite properties. They’re everywhere: in food, cleaning products, your stomach, your blood, soil, batteries and the ocean.\n\n**Acids** typically:\n\n- Taste **sour**, like lemons, vinegar and tamarind (though you should never taste unknown chemicals).\n- Turn blue litmus paper **red**.\n- React with many metals, releasing hydrogen gas.\n- Can be corrosive when strong.\n\n**Bases** typically:\n\n- Taste **bitter** and feel **slippery** or soapy.\n- Turn red litmus paper **blue**.\n- Can be corrosive when strong, like drain cleaners.\n\nBases that dissolve in water are called **alkalis**."
+    },
+    {
+      "type": "text",
+      "heading": "What makes something an acid or a base?",
+      "md": "In **1884**, the Swedish chemist **Svante Arrhenius** (whom you also met in the climate lessons) proposed a simple definition:\n\n- An **acid** produces **hydrogen ions** (H⁺) when dissolved in water.\n- A **base** produces **hydroxide ions** (OH⁻) when dissolved in water.\n\nIn **1923**, the chemists **Johannes Brønsted** and **Thomas Lowry** independently proposed a broader definition, now widely used:\n\n- An **acid** is a substance that **donates** a hydrogen ion (a proton) to another substance.\n- A **base** is a substance that **accepts** a hydrogen ion.\n\nSo acid–base chemistry is fundamentally about the transfer of tiny hydrogen ions between molecules."
+    },
+    {
+      "type": "text",
+      "heading": "The pH scale",
+      "md": "The **pH scale** measures how acidic or basic a solution is, based on the concentration of hydrogen ions. It was introduced in **1909** by the Danish chemist **Søren Sørensen**, who was working on quality control at the Carlsberg brewery.\n\nThe scale usually runs from **0 to 14**:\n\n- **pH 7** is **neutral**: pure water at room temperature.\n- **Below 7** is **acidic**: the lower the number, the stronger the acidity.\n- **Above 7** is **basic** (alkaline): the higher the number, the stronger the base.\n\nAs you saw in the Math region, pH is **logarithmic**: each step represents a **tenfold** change in hydrogen ion concentration. A solution at pH 3 is **10 times** more acidic than one at pH 4, and **100 times** more acidic than one at pH 5."
+    },
+    {
+      "type": "steps",
+      "title": "Everyday substances on the pH scale",
+      "items": [
+        "**Battery acid**: around pH **0 to 1**. Highly corrosive.",
+        "**Stomach acid**: around pH **1.5 to 3.5**. Strong enough to help digest food and kill many microbes.",
+        "**Lemon juice**: around pH **2**.",
+        "**Vinegar**: around pH **2.5 to 3**.",
+        "**Black coffee**: around pH **5**.",
+        "**Pure water**: pH **7**.",
+        "**Human blood**: around pH **7.4**, slightly basic and very tightly controlled.",
+        "**Seawater**: around pH **8.1**, slightly basic.",
+        "**Baking soda solution**: around pH **8 to 9**.",
+        "**Soap**: often around pH **9 to 10**.",
+        "**Household bleach**: around pH **12 to 13**.",
+        "**Drain cleaner**: around pH **13 to 14**. Highly corrosive."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the pH scale like a seesaw balanced in the middle at 7. Acids push one end down with extra hydrogen ions; bases push the other end down by mopping up hydrogen ions. Pure water sits perfectly level. Because the scale is logarithmic, each step further from the middle is like adding ten times more weight."
+    },
+    {
+      "type": "text",
+      "heading": "Strong and weak acids",
+      "md": "**Strength** isn’t the same as **concentration**:\n\n- A **strong acid**, like **hydrochloric acid** (the acid in your stomach) or **sulphuric acid**, almost completely splits apart in water, releasing nearly all its hydrogen ions.\n- A **weak acid**, like **acetic acid** in vinegar or **citric acid** in citrus fruits, only partly splits apart, releasing a fraction of its hydrogen ions.\n\n**Concentration**, by contrast, describes how much acid is dissolved in a given amount of water. A dilute strong acid can be less harmful than a concentrated weak acid."
+    },
+    {
+      "type": "text",
+      "heading": "Neutralisation",
+      "md": "When an acid and a base react, they **neutralise** each other, producing **water** and a **salt**:\n\n**acid + base → salt + water**\n\nFor example, hydrochloric acid and sodium hydroxide react to form sodium chloride (table salt) and water. In chemistry, “salt” means any compound formed this way, not just table salt.\n\nNeutralisation is used every day:\n\n- **Antacids**, containing bases like magnesium hydroxide or calcium carbonate, neutralise excess stomach acid to relieve heartburn and indigestion.\n- **Baking**: baking powder contains a base (baking soda) and a dry acid. When mixed with water and heated, they react, releasing carbon dioxide bubbles that make cakes and breads rise.\n- **Toothpaste** is usually slightly basic, helping neutralise acids produced by bacteria in your mouth.\n- **Farmers** add lime (a base) to acidic soils to make them more suitable for crops."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How does red cabbage make a rainbow of colours?",
+      "md": "Red cabbage contains natural pigments called **anthocyanins** (also found in blueberries and red onions) that change colour across a wide range of pH values. If you chop red cabbage, boil it in water and strain the purple liquid, you get a homemade indicator. Add lemon juice or vinegar, and it turns **pink or red**. Leave it neutral, and it stays **purple**. Add baking soda, and it turns **blue or green**. Add a strong base, like washing soda, and it turns **yellow**. Each colour corresponds to a different pH, because the pigment molecules change shape as they gain or lose hydrogen ions, which changes the wavelengths of light they absorb. It’s a safe, colourful way to see acid–base chemistry at home."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Acids** taste sour and turn litmus red; **bases** taste bitter, feel slippery and turn litmus blue; soluble bases are **alkalis**.",
+        "**Arrhenius (1884)**: acids produce **H⁺**, bases produce **OH⁻**; **Brønsted–Lowry (1923)**: acids **donate** protons, bases **accept** them.",
+        "The **pH scale** (Sørensen, 1909) runs 0–14: **7 is neutral**, lower is acidic, higher is basic; each step is a **tenfold** change.",
+        "**Strong** acids fully release hydrogen ions; **weak** acids only partly; strength differs from concentration.",
+        "**Neutralisation**: acid + base → salt + water, used in **antacids**, **baking**, **toothpaste** and **farming**.",
+        "Natural **indicators** like **turmeric** and **red cabbage** change colour with pH."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Acids and bases are part of cooking, cleaning, digestion, medicine, farming and industry. Understanding them helps you use household chemicals safely (never mix bleach with acidic cleaners, which can release toxic chlorine gas), understand food chemistry and appreciate the chemistry happening inside your own body. Next, you’ll see how acid–base balance matters for your blood, your teeth, soils and the ocean."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what makes a substance an acid or a base, what does the pH scale measure, and what happens in a neutralisation reaction?"
+  }
+}

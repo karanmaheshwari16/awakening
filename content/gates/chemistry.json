@@ -1,0 +1,34 @@
+[
+  {
+    "id": "chemistry.gate.1",
+    "region": "chemistry",
+    "tier": 1,
+    "title": "A Cup of Chai",
+    "question": "Making a cup of masala chai involves a surprising amount of chemistry. Explain the chemistry in it, connecting at least four things you have learned: elements and electrons, bonds and molecular shape (especially water), reactions and energy, and acids and bases. For example, why does sugar dissolve, what happens when the gas burns, and why might the tea change colour with lemon or milk?",
+    "links": ["elements", "bonds", "reactions", "acids-bases"],
+    "model_answer": "The stove burns LPG, mostly propane and butane, hydrocarbons built on carbon’s ability to form four bonds. Combustion is an exothermic reaction: the hydrocarbons react with oxygen to form carbon dioxide and water. A spark or flame provides the activation energy, then the energy released keeps it going. The equation must balance, because atoms are rearranged, not created or destroyed.\n\nThe heat passes into water. Water is a bent, polar molecule because oxygen is more electronegative than hydrogen and its lone pairs push the hydrogens together. Hydrogen bonds between water molecules give it a high heat capacity and a high boiling point, which is why it takes a while to boil.\n\nSugar dissolves because it is a polar molecule with many groups that can form hydrogen bonds with water: like dissolves like. Hot water dissolves it faster because particles move faster and collide more often. Hot water also extracts flavour and colour compounds from tea leaves and spices faster, another effect of temperature on rates.\n\nMilk contains fats, which are non-polar; proteins in milk help keep fat droplets dispersed, much as soap bridges oil and water.\n\nTea contains natural pigments that change with pH, similar to anthocyanins in red cabbage. Lemon juice contains citric acid, a weak acid, which lowers the pH and lightens the tea’s colour; basic substances would shift the colour the other way. All of this ultimately comes from electrons: elements bond according to their valence electrons, which determine polarity, solubility and reactivity.",
+    "key_points": [
+      "Burning LPG is exothermic combustion of hydrocarbons, needing activation energy; equations balance.",
+      "Water is bent and polar; hydrogen bonds give it a high heat capacity and boiling point.",
+      "Polar sugar dissolves in polar water; heat speeds dissolving and extraction.",
+      "Milk fats are non-polar; proteins help disperse them.",
+      "Tea pigments change colour with pH; citric acid in lemon lowers pH."
+    ]
+  },
+  {
+    "id": "chemistry.gate.2",
+    "region": "chemistry",
+    "tier": 2,
+    "title": "Building a Greener City",
+    "question": "A city wants to cut its carbon emissions using new materials and chemistry: low-carbon cement, electric buses with lithium-ion batteries, solar panels and less plastic waste. Using what you have learned about carbon chemistry, materials, semiconductors, batteries and reactions, explain how each idea works chemically, and identify at least two trade-offs or risks the city should consider.",
+    "links": ["materials", "carbon", "reactions", "acids-bases"],
+    "model_answer": "Cement: making cement heats limestone, calcium carbonate, which decomposes and releases carbon dioxide chemically, on top of the fuel burned for heat. That is why cement causes about 8 percent of global emissions. Low-carbon approaches replace part of the clinker with materials like fly ash, use new chemistries or capture the carbon dioxide released.\n\nElectric buses: lithium-ion batteries store energy by moving lithium ions from the cathode to a graphite anode during charging, and back during use, while electrons flow through the external circuit to power the motor. Charged from low-carbon electricity, they cut emissions and local air pollution.\n\nSolar panels: doped silicon forms a p–n junction; light frees electrons, creating current through the photovoltaic effect.\n\nPlastics: most plastics are polymers made from petrochemicals that persist for centuries and break into microplastics; only around 9 percent of plastic ever made has been recycled. Reducing single-use plastics and designing for reuse cuts both waste and the fossil carbon in production.\n\nTrade-offs and risks: batteries depend on critical minerals such as lithium, cobalt and nickel, concentrated in a few countries, with ethical concerns about some mining, so recycling and alternatives like sodium-ion batteries matter. Batteries can suffer thermal runaway, requiring safety management. Electric buses only cut emissions as much as the grid is clean, so the city needs more renewable power and storage. Low-carbon cement must still meet safety and durability standards. \"Biodegradable\" plastics may only break down in industrial composting, so labels can mislead. The city should weigh costs, supply chains, safety and full life-cycle emissions.",
+    "key_points": [
+      "Cement releases CO2 chemically from limestone decomposition as well as from fuel.",
+      "Lithium-ion batteries move lithium ions between electrodes; benefits depend on a clean grid.",
+      "Solar cells use doped silicon p–n junctions and the photovoltaic effect.",
+      "Plastics are persistent polymers; reduction and reuse beat relying on recycling.",
+      "Risks: critical mineral supply and ethics, battery safety, standards for new materials, misleading labels."
+    ]
+  }
+]

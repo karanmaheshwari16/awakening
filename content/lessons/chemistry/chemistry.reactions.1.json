@@ -1,0 +1,83 @@
+{
+  "id": "chemistry.reactions.1",
+  "region": "chemistry",
+  "topic": "reactions",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Chemical Reactions: Transforming Matter",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1770s and 1780s, the French chemist **Antoine Lavoisier** performed experiments with extraordinary care, weighing everything before and after chemical reactions, including gases, in sealed containers. When he heated metals in air, they gained weight. When he burned substances in sealed vessels, the total weight stayed exactly the same.\n\nHe concluded that matter is never created or destroyed in a chemical reaction; it is only rearranged. This **law of conservation of mass** helped transform chemistry from alchemy into a modern science. Lavoisier also identified oxygen’s role in burning and helped create the modern system for naming chemicals. Tragically, he was executed by guillotine in **1794** during the French Revolution, partly because of his role as a tax collector. A fellow scientist reportedly lamented that it took only a moment to cut off that head, but a century might not produce another like it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **chemical reaction** is a process in which substances, called **reactants**, are transformed into new substances with different properties, called **products**. During a reaction, chemical bonds in the reactants break and new bonds form, rearranging atoms into new combinations.\n\nThis is different from a **physical change**, like melting ice or dissolving sugar, where the substance’s identity doesn’t change. Melted ice is still water. But when wood burns, it becomes ash, carbon dioxide and water vapour: entirely new substances.\n\nSigns that a chemical reaction may be happening include:\n\n- A **colour change**.\n- **Bubbles of gas** forming.\n- **Heat or light** being released or absorbed.\n- A solid, called a **precipitate**, forming when two liquids are mixed.\n- A change in **smell**."
+    },
+    {
+      "type": "text",
+      "heading": "Chemical equations",
+      "md": "Chemists describe reactions using **chemical equations**, with reactants on the left and products on the right.\n\nFor example, when **methane**, the main component of natural gas used for cooking in many homes, burns in oxygen:\n\n**CH₄ + 2O₂ → CO₂ + 2H₂O**\n\nOne molecule of methane reacts with two molecules of oxygen to produce one molecule of carbon dioxide and two molecules of water.\n\nBecause atoms are neither created nor destroyed, equations must be **balanced**: the same number of each type of atom must appear on both sides. Here, there is 1 carbon atom, 4 hydrogen atoms and 4 oxygen atoms on each side."
+    },
+    {
+      "type": "steps",
+      "title": "Balancing an equation",
+      "items": [
+        "Start with the unbalanced reaction for hydrogen burning to form water: **H₂ + O₂ → H₂O**.",
+        "Count atoms. Left: 2 hydrogen, 2 oxygen. Right: 2 hydrogen, 1 oxygen. The oxygen doesn’t balance.",
+        "Put a **2** in front of H₂O: **H₂ + O₂ → 2H₂O**. Now the right has 4 hydrogen and 2 oxygen.",
+        "Hydrogen is now unbalanced. Put a **2** in front of H₂: **2H₂ + O₂ → 2H₂O**.",
+        "Check: left has 4 hydrogen and 2 oxygen; right has 4 hydrogen and 2 oxygen. Balanced.",
+        "You can only change the numbers **in front** of molecules, never the small numbers inside them, because changing those would change what the substance is."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Types of reactions",
+      "md": "- **Combustion**: a substance reacts rapidly with oxygen, releasing heat and light, as in burning wood, petrol or gas.\n- **Oxidation**: more broadly, reactions where substances combine with oxygen or lose electrons. **Rusting** is a slow oxidation of iron in the presence of water and oxygen.\n- **Synthesis**: two or more substances combine to make a more complex one.\n- **Decomposition**: one substance breaks down into simpler ones, as when heat breaks down limestone into lime and carbon dioxide.\n- **Precipitation**: two dissolved substances react to form an insoluble solid.\n- **Acid–base reactions**: you’ll explore these in the acids and bases lessons."
+    },
+    {
+      "type": "text",
+      "heading": "Energy in reactions",
+      "md": "Breaking chemical bonds **requires** energy; forming bonds **releases** energy. Whether a reaction gives out or takes in energy overall depends on the balance between the two.\n\n- **Exothermic reactions** release energy, usually as heat, because the bonds formed are stronger than those broken. Burning fuel, respiration in your cells and hand warmers are exothermic.\n- **Endothermic reactions** absorb energy from their surroundings, making them feel cold. **Instant cold packs**, used for sports injuries, contain substances that absorb heat when mixed with water. Photosynthesis is endothermic, absorbing energy from sunlight.\n\nEven exothermic reactions usually need a small push to get started, called the **activation energy**: like a match needed to light a fire, or a spark to ignite petrol. Once started, the energy released can keep the reaction going."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of activation energy like pushing a boulder over a small hill before it can roll down into a valley. The valley is lower than the starting point, so overall the boulder releases energy as it rolls. But first, you have to push it up and over the hump. A **catalyst** is like digging a tunnel through the hill, letting the boulder reach the valley without such a big push."
+    },
+    {
+      "type": "text",
+      "heading": "What controls the speed of a reaction?",
+      "md": "Reactions happen when particles **collide** with enough energy and the right orientation. Anything that increases effective collisions speeds up a reaction:\n\n- **Temperature**: higher temperatures make particles move faster, colliding more often and more energetically. That’s why food spoils faster outside the refrigerator, and why cooking speeds up chemical changes in food.\n- **Concentration**: more particles in a given space means more collisions.\n- **Surface area**: breaking a solid into smaller pieces exposes more surface for reactions. Powdered sugar dissolves faster than a sugar cube, and fine dust, like flour in a mill, can burn so fast it explodes, which is why dust explosions are a serious industrial hazard.\n- **Catalysts**: substances that speed up reactions without being used up, by providing an easier pathway with lower activation energy. **Enzymes** in your body are biological catalysts; **catalytic converters** in cars use metals to convert harmful exhaust gases into less harmful ones."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do cut apples and potatoes turn brown, and how does lemon juice stop it?",
+      "md": "When you cut an apple, you break open its cells, letting an enzyme inside them come into contact with oxygen from the air. The enzyme catalyses the **oxidation** of natural compounds in the fruit, producing brown pigments, similar to those that make tea and coffee dark. Lemon juice slows browning in two ways: its **acidity** reduces the enzyme’s activity, since enzymes work best at particular pH levels, and it contains **vitamin C**, which reacts with oxygen and interferes with the browning reaction. Keeping cut fruit cold, or covered in water to limit oxygen, also slows browning, applying the principles of reaction rates you just learned."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **chemical reaction** turns **reactants** into new **products** by breaking and forming bonds; physical changes don’t create new substances.",
+        "**Lavoisier** established the **law of conservation of mass**: matter is rearranged, not created or destroyed.",
+        "**Chemical equations** must be **balanced**, with equal numbers of each atom on both sides (e.g. **CH₄ + 2O₂ → CO₂ + 2H₂O**).",
+        "Types include **combustion**, **oxidation** (like rusting), **synthesis**, **decomposition** and **precipitation**.",
+        "**Exothermic** reactions release energy; **endothermic** reactions absorb it; most need **activation energy** to start.",
+        "Reaction speed increases with **temperature**, **concentration**, **surface area** and **catalysts** like **enzymes**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Chemical reactions are happening everywhere: in your cells, your kitchen, car engines, factories and the atmosphere. Understanding them explains cooking, rusting, burning, digestion and batteries, and gives you the tools to make sense of everything from food preservation to industrial safety. Next, you’ll explore catalysts and equilibrium, including the single reaction that feeds billions of people."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is conservation of mass in a chemical reaction, what is the difference between exothermic and endothermic reactions, and what factors speed up a reaction?"
+  }
+}

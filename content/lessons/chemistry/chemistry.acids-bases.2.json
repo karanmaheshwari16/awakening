@@ -1,0 +1,81 @@
+{
+  "id": "chemistry.acids-bases.2",
+  "region": "chemistry",
+  "topic": "acids-bases",
+  "level": 2,
+  "prerequisites": [
+    "chemistry.acids-bases.1"
+  ],
+  "title": "Acid Balance in Bodies, Soils and Seas",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Your blood has a pH of about **7.4**, and your body defends that number fiercely. If it falls below about **7.35**, a condition called **acidosis**, or rises above about **7.45**, called **alkalosis**, you start to feel unwell. Beyond roughly **6.8** or **7.8**, the changes can be life-threatening, disrupting enzymes, nerves and the heart.\n\nYet every moment, your cells produce acids, including carbon dioxide from respiration, and you eat foods of all kinds. How does your blood stay so constant? Through a remarkable chemical system called a **buffer**, and through your lungs and kidneys working constantly in the background. Acid–base balance is quietly keeping you alive right now."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met acids, bases and the pH scale. In living things and the natural environment, keeping pH within the right range is essential, because many chemical processes, especially those involving enzymes, only work properly within narrow pH limits.\n\nThe key tool for resisting changes in pH is a **buffer**: a solution that can absorb added acid or base without its pH changing much. A buffer usually contains a **weak acid** and its matching **base** together. If extra acid is added, the base part mops up the hydrogen ions; if extra base is added, the acid part releases hydrogen ions to neutralise it."
+    },
+    {
+      "type": "text",
+      "heading": "How your blood stays balanced",
+      "md": "Your blood’s main buffer is the **bicarbonate buffer system**, based on carbon dioxide dissolved in the blood:\n\n- Carbon dioxide from your cells dissolves in blood and reacts with water to form **carbonic acid**, which can release hydrogen ions and become **bicarbonate**.\n- If your blood becomes too acidic, bicarbonate absorbs extra hydrogen ions.\n- If it becomes too basic, carbonic acid releases more hydrogen ions.\n\nTwo organs fine-tune the system:\n\n- Your **lungs** adjust how much carbon dioxide you breathe out. When blood becomes more acidic, for example during hard exercise, you breathe faster and deeper, removing more carbon dioxide and reducing acidity. This happens automatically, within minutes.\n- Your **kidneys** adjust how much acid and bicarbonate are removed in urine, working more slowly, over hours to days.\n\nSome medical conditions disrupt this balance. In uncontrolled **diabetes**, for example, the body can produce large amounts of acidic substances called ketones, leading to a dangerous condition called diabetic ketoacidosis, which requires urgent medical treatment."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a buffer as a shock absorber on a car. When the car hits a bump, the shock absorber soaks up the jolt so passengers barely feel it. A buffer soaks up sudden additions of acid or base, keeping pH smooth. Your lungs and kidneys are like the mechanics who adjust the suspension over time, so it keeps working however rough the road gets."
+    },
+    {
+      "type": "text",
+      "heading": "Acids and your teeth",
+      "md": "Tooth **enamel**, the hard outer layer of your teeth, is made mostly of a mineral called **hydroxyapatite**, a form of calcium phosphate. It’s the hardest substance in your body, but it has a weakness: it dissolves in acid.\n\nWhen you eat sugars and other carbohydrates, bacteria in the sticky film on your teeth, called **plaque**, ferment them and produce **acids**. When the pH at the tooth surface falls below about **5.5**, enamel starts to dissolve, a process called **demineralisation**. Repeated acid attacks over time can create holes: **cavities**, or **tooth decay**.\n\nSaliva helps protect teeth: it contains buffers, including bicarbonate, that neutralise acids, and minerals that help repair early damage. **Fluoride**, found in most toothpastes and added to drinking water in some countries, strengthens enamel by forming a more acid-resistant mineral.\n\nThat’s why **how often** you eat sugar matters as much as how much: frequent snacking or sipping sugary drinks keeps your teeth bathed in acid for longer. Acidic drinks, like many soft drinks and fruit juices, can also erode enamel directly."
+    },
+    {
+      "type": "text",
+      "heading": "Soil pH and farming",
+      "md": "Soil pH strongly affects how well plants grow, mainly because it controls which **nutrients** dissolve and become available to plant roots.\n\n- Most crops grow best in soils that are **slightly acidic to neutral**, roughly pH **6 to 7.5**.\n- In very **acidic** soils, some toxic elements like aluminium dissolve more readily, harming roots, while nutrients like phosphorus become less available. Farmers often add **lime** (calcium carbonate), a base, to raise the pH. Acidic soils are common in high-rainfall regions, including parts of India’s northeast and the Western Ghats.\n- In very **alkaline** or **saline** soils, nutrients like iron and zinc become harder for plants to absorb, and salts can damage crops. Large areas of land in India are affected by soil salinity or alkalinity, often worsened by poor irrigation and drainage. Farmers can treat alkaline soils with **gypsum** and improved drainage.\n\nSome plants are natural indicators: **hydrangea** flowers tend to be blue in acidic soils and pink in alkaline soils, because soil pH affects how much aluminium the plant absorbs."
+    },
+    {
+      "type": "steps",
+      "title": "The chemistry of ocean acidification",
+      "items": [
+        "As you saw in the Earth region, the ocean absorbs roughly a quarter of the carbon dioxide humans emit.",
+        "When CO₂ dissolves in seawater, it reacts with water to form **carbonic acid**, the same acid as in your blood’s buffer system.",
+        "Carbonic acid releases **hydrogen ions**, lowering the ocean’s pH. Surface ocean pH has fallen from about **8.2** to about **8.1** since pre-industrial times, roughly a **30%** increase in hydrogen ion concentration.",
+        "The extra hydrogen ions react with **carbonate ions** in seawater, reducing their availability.",
+        "Many marine organisms, like corals, oysters, mussels and some plankton, need carbonate to build their shells and skeletons from **calcium carbonate**. With less carbonate available, building shells takes more energy, and in more acidic conditions, existing shells can even begin to dissolve.",
+        "Seawater is naturally buffered, which slows the change, but the buffer is being overwhelmed by the speed of CO₂ emissions."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why is sulphuric acid sometimes called a measure of a country’s industrial strength?",
+      "md": "**Sulphuric acid** is one of the most widely produced chemicals in the world, with production running to hundreds of millions of tonnes a year. It’s used to make **fertilisers** (especially phosphate fertilisers), to process metals and minerals, to refine petroleum, and in manufacturing chemicals, detergents, dyes, paper and **car batteries**: the common lead–acid battery uses sulphuric acid as its electrolyte. Because it’s used in so many industries, economists and historians once used sulphuric acid production as a rough indicator of a country’s level of industrial development. It’s a reminder that acid–base chemistry isn’t just about lemons and soap, but underpins much of the modern economy."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **buffer** contains a weak acid and its base, resisting changes in pH.",
+        "Blood pH is kept at about **7.4** by the **bicarbonate buffer**, adjusted by the **lungs** (fast) and **kidneys** (slow); deviations cause **acidosis** or **alkalosis**.",
+        "Bacteria in **plaque** turn sugars into acids; below about **pH 5.5**, tooth **enamel** dissolves; **saliva** and **fluoride** protect teeth.",
+        "**How often** you eat sugar matters for tooth decay.",
+        "Most crops prefer soil pH of about **6–7.5**; **lime** treats acidic soils, **gypsum** and drainage treat alkaline ones.",
+        "**Ocean acidification**: dissolved CO₂ forms carbonic acid, lowering pH and reducing **carbonate** for shell-building life.",
+        "**Sulphuric acid** is among the most produced chemicals, vital for fertilisers and batteries."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Acid–base balance affects your health, from your blood to your teeth, the food that grows in fields, and the life in the oceans. Understanding buffers and pH helps you make sense of medical tests, dental advice, farming practices and environmental change. It’s a striking example of how one chemical idea connects your body to the whole planet."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a buffer and why is it vital for your blood, how does sugar lead to tooth decay, and why does soil pH matter for farming?"
+  }
+}

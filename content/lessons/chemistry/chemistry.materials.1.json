@@ -1,0 +1,84 @@
+{
+  "id": "chemistry.materials.1",
+  "region": "chemistry",
+  "topic": "materials",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Materials: From Stone to Steel to Concrete",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the courtyard of the Qutub Minar complex in **Delhi** stands an **iron pillar** over **7 metres** tall and weighing more than six tonnes. An inscription suggests it was made around the **4th or 5th century CE**, during the Gupta period, and it was probably moved to its current location centuries later.\n\nFor over **1,600 years**, it has stood outdoors, exposed to Delhi’s monsoons and humidity. Yet it has barely rusted. Scientists, including researchers at IIT Kanpur, have found that the iron’s unusual composition, particularly its relatively high phosphorus content and the absence of certain other elements, helped form a thin, protective layer on its surface that slows corrosion. Ancient metalworkers had created a material whose durability still impresses modern scientists."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Materials science** is the study of the substances we use to make things, how their internal structure determines their properties, and how to design new materials with properties we need.\n\nMaterials have been so central to human history that archaeologists name early periods after them: the **Stone Age**, the **Bronze Age** and the **Iron Age**. Today, we might say we live in the age of steel, concrete, plastic and silicon.\n\nEngineers choose materials based on properties such as:\n\n- **Strength**: how much force a material can withstand before breaking.\n- **Hardness**: resistance to scratching and denting.\n- **Toughness**: ability to absorb energy without shattering. Glass is hard but not tough; rubber is tough but not hard.\n- **Density**: mass per volume, crucial for aircraft and vehicles.\n- **Conductivity**: how well it conducts heat and electricity.\n- **Corrosion resistance**, **flexibility**, **cost** and **ease of manufacturing**."
+    },
+    {
+      "type": "text",
+      "heading": "Metals and alloys",
+      "md": "Pure metals are often too soft or weak for practical use. Mixing a metal with small amounts of other elements creates an **alloy**, which often has very different and better properties.\n\nIn a pure metal, atoms are arranged in neat, regular layers that can slide over each other fairly easily, as you saw in the bonds lessons, making it soft. Adding atoms of a different size disrupts these layers, making it harder for them to slide, so the alloy becomes harder and stronger.\n\n- **Bronze**: copper mixed with tin. Harder than copper, it gave its name to the Bronze Age, beginning around 3300 BCE in parts of the Middle East and South Asia, including the Indus Valley Civilisation, which produced remarkable bronze figures like the **Dancing Girl** of Mohenjo-daro.\n- **Brass**: copper and zinc, used in musical instruments, fittings and traditional Indian utensils.\n- **Steel**: iron with a small amount of **carbon** (usually less than 2%), much stronger and tougher than pure iron. It is the most widely used metal in the world, essential for buildings, bridges, vehicles, ships and machines.\n- **Stainless steel**: steel with **chromium** added, which forms a thin, invisible oxide layer protecting it from rust, used for cutlery, kitchen equipment and medical instruments."
+    },
+    {
+      "type": "text",
+      "heading": "Wootz steel: India’s legendary metal",
+      "md": "From perhaps as early as the last centuries BCE, metalworkers in southern India and Sri Lanka produced a high-quality steel known as **wootz** (from a word for steel in a South Indian language). Made in sealed clay crucibles, it had a high carbon content and a distinctive internal structure.\n\nWootz steel was traded widely across the Middle East and was used to make the famous **Damascus blades**, renowned for their strength, sharpness and beautiful wavy patterns. The original techniques were largely lost by the 18th and 19th centuries. Modern scientists studying surviving blades have found microscopic structures, including features that some researchers have compared to carbon nanotubes, though interpretations vary."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a pure metal like a neat stack of identical oranges in a shop display. Push the top layer, and it slides easily over the layer below. Now mix in some smaller lemons and a few large grapefruits. The layers become bumpy and irregular, and they no longer slide easily. That’s why alloys are usually harder and stronger than pure metals: the mixed atoms jam the layers in place."
+    },
+    {
+      "type": "text",
+      "heading": "Ceramics and glass",
+      "md": "**Ceramics** are hard, heat-resistant materials made by heating clay and other minerals to high temperatures: pottery, bricks, tiles and porcelain. Modern “advanced ceramics” are used in engine parts, artificial joints and the heat-resistant tiles on spacecraft. Ceramics are hard and resist heat and corrosion, but they tend to be brittle.\n\n**Glass** is made by melting sand (silicon dioxide) with other ingredients, like soda ash and limestone, and cooling it quickly so the atoms don’t have time to arrange into a regular crystal. It’s an **amorphous** solid: hard and transparent, but with a disordered internal structure."
+    },
+    {
+      "type": "text",
+      "heading": "Concrete: the world’s most used material",
+      "md": "After water, **concrete** is the most widely used substance on Earth. It’s made by mixing **cement**, water, sand and gravel. The cement reacts with water in a chemical process called **hydration**, forming crystals that bind everything together into an artificial rock.\n\nThe Romans built remarkably durable concrete structures, like the **Pantheon** in Rome, whose unreinforced concrete dome, completed around 125 CE, is still standing. Modern **reinforced concrete**, with steel bars embedded inside, combines concrete’s strength under compression with steel’s strength under tension, allowing skyscrapers, bridges and dams.\n\nBut concrete has a major environmental cost. Making cement involves heating limestone (calcium carbonate) to very high temperatures, which both burns fuel and chemically releases carbon dioxide from the limestone itself. **Cement production** accounts for roughly **8%** of global carbon dioxide emissions. India is the world’s second-largest cement producer, after China. Researchers are developing lower-carbon alternatives, such as cements using industrial by-products like fly ash, new chemistries and ways to capture the carbon dioxide released."
+    },
+    {
+      "type": "steps",
+      "title": "Composite materials",
+      "items": [
+        "A **composite** combines two or more different materials to get the best properties of each.",
+        "**Reinforced concrete** pairs concrete, strong when squeezed, with steel, strong when stretched.",
+        "**Fibreglass** embeds thin glass fibres in plastic resin, creating a light, strong material used in boats and water tanks.",
+        "**Carbon fibre** composites embed carbon fibres in resin, producing materials that are extremely strong and light, used in aircraft, racing cars, bicycles and sports equipment. Modern airliners like the Boeing 787 are built largely from carbon fibre composites, saving weight and fuel.",
+        "**Natural composites** include **wood** (cellulose fibres in a lignin matrix) and **bone** (flexible collagen fibres combined with hard mineral crystals).",
+        "Ancient builders used composites too: mud bricks reinforced with straw have been used for thousands of years."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why does iron rust, and how can rusting be prevented?",
+      "md": "**Rusting** is an oxidation reaction, which you met in the reactions lessons: iron reacts with **oxygen** and **water** to form iron oxides, the flaky, reddish-brown substance we call rust. Salt speeds it up, which is why cars and structures near the sea, or on roads treated with salt, rust faster. Unlike the protective oxide layers on aluminium or stainless steel, rust is porous and flakes off, exposing fresh iron underneath to further attack. Ways to prevent rust include **painting** or **oiling** the surface to keep out air and water; **galvanising**, coating iron with **zinc**, which corrodes first and protects the iron even if scratched; **alloying**, as in stainless steel; and attaching blocks of more reactive metals, a technique called **sacrificial protection**, used on ships and pipelines. Corrosion costs countries enormous sums every year, so preventing it is a major engineering concern."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Materials science** links a material’s internal structure to its properties, like **strength**, **hardness**, **toughness** and **conductivity**.",
+        "**Alloys**, like **bronze**, **brass**, **steel** and **stainless steel**, are usually harder and stronger than pure metals because mixed atoms stop layers sliding.",
+        "The **Iron Pillar of Delhi** has resisted rust for about **1,600 years**, thanks partly to a protective surface layer.",
+        "**Wootz steel** from South India was famed worldwide and used in **Damascus blades**.",
+        "**Ceramics** and **glass** are hard but brittle; **concrete** is the most used material after water.",
+        "**Cement** production causes about **8%** of global CO₂ emissions.",
+        "**Composites**, like **reinforced concrete** and **carbon fibre**, combine materials’ strengths; rust is prevented by **painting**, **galvanising** and **alloying**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every object around you, from your phone to the building you’re in, depends on choosing the right materials. Understanding materials explains why bridges stand, why ships rust, why aircraft are made of composites and why cement matters for climate change. It also reveals the remarkable skill of ancient metalworkers, whose achievements still impress scientists today. Next, you’ll explore the materials that power modern technology: semiconductors, batteries and beyond."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what makes an alloy different from a pure metal, why is the Iron Pillar of Delhi so remarkable, and why is cement a major source of carbon emissions?"
+  }
+}

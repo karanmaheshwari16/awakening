@@ -1,0 +1,328 @@
+##### LESSON
+id: chemistry.elements.2
+title: Electrons and the Logic of the Periodic Table
+minutes: 15
+prereq: chemistry.elements.1
+check: In your own words: why do elements in the same group behave similarly, what are valence electrons, and why do alkali metals get more reactive further down the group?
+
+=== hook
+Drop a small piece of **lithium** into water and it fizzes gently, skating across the surface. Drop in **sodium** and it whizzes around, melting into a shiny ball, sometimes catching fire. **Potassium** bursts into lilac flames. **Rubidium** and **caesium** react so violently that they can explode, even shattering the container.
+
+All five are in the same column of the periodic table, the alkali metals, and they all react with water in the same basic way, producing hydrogen gas and heat. But the further down the column you go, the more violent the reaction becomes. Mendeleev organised the table by observing patterns like this. It took the discovery of electrons and quantum physics to explain **why** the patterns exist.
+
+=== core
+In the previous lesson, you saw that an element is defined by the number of **protons** in its nucleus, and that Mendeleev arranged elements so that similar ones lined up in columns. But chemistry, how elements react and bond, is controlled almost entirely by their **electrons**.
+
+As you saw in the Physics region, electrons in atoms can only occupy certain **energy levels**, often pictured as **shells** around the nucleus. Each shell can hold a limited number of electrons:
+
+- The first shell holds up to **2**.
+- The second holds up to **8**.
+- The third holds up to 8 in the simple model used for the lighter elements (with more complex rules for heavier ones).
+
+Electrons fill the lowest available shells first. The electrons in the **outermost** shell are called **valence electrons**, and they determine how an atom behaves chemically.
+
+=== text Why groups behave alike
+Elements in the same **group** (column) have the same number of **valence electrons**, which is why they behave similarly:
+
+- **Group 1 (alkali metals)**: lithium, sodium, potassium… each has **1** valence electron, which they lose easily, making them highly reactive.
+- **Group 17 (halogens)**: fluorine, chlorine, bromine… each has **7** valence electrons, one short of a full outer shell. They eagerly grab an extra electron, making them highly reactive too.
+- **Group 18 (noble gases)**: helium, neon, argon… have **full** outer shells. They’re stable and barely react with anything.
+
+The **period** (row) number tells you how many shells an atom’s electrons occupy. Sodium, in period 3, has electrons in three shells: 2, 8 and 1.
+
+=== callout analogy
+Think of atoms as people with different numbers of empty seats in their outer row. Noble gases have every seat filled and are content. Alkali metals have just one person sitting alone in an otherwise empty row, who is very happy to leave. Halogens have one empty seat and are eager to fill it. Much of chemistry is atoms swapping or sharing electrons to fill those outer rows.
+
+=== text The octet rule
+Many atoms tend to react in ways that give them a full outer shell, usually **eight** valence electrons, like the noble gases. This tendency is called the **octet rule** (from the Latin for eight). Hydrogen and helium are exceptions: their single shell is full with **two**.
+
+Atoms can achieve full outer shells by:
+
+- **Losing** electrons (as metals like sodium tend to do), becoming positive **ions**.
+- **Gaining** electrons (as non-metals like chlorine tend to do), becoming negative ions.
+- **Sharing** electrons with other atoms.
+
+You’ll see how these lead to different kinds of chemical bonds in the next lesson. The octet rule is a useful guide rather than an absolute law; many molecules, especially involving heavier elements, break it.
+
+=== text Trends across the table
+The periodic table shows clear **trends**, which come from how electrons are arranged:
+
+**Atomic size**: atoms get **larger** going **down** a group, because each row adds another shell of electrons. Going **across** a period from left to right, atoms generally get **smaller**: more protons in the nucleus pull the electrons in more tightly, while the electrons are added to the same shell.
+
+**Reactivity of metals**: alkali metals get **more reactive** going down. In larger atoms, the single outer electron is further from the nucleus and shielded by more inner electrons, so it’s held more loosely and lost more easily. That’s why caesium is so much more explosive than lithium.
+
+**Reactivity of non-metals**: halogens get **less reactive** going down. Smaller atoms like fluorine pull electrons in strongly; fluorine is the most reactive element of all.
+
+**Electronegativity**: a measure, developed by the American chemist **Linus Pauling**, of how strongly an atom attracts electrons in a bond. It increases going up and to the right in the table (excluding noble gases), so fluorine is the most electronegative element.
+
+=== text Metals, non-metals and metalloids
+- **Metals**, which make up most elements, are on the left and in the middle. They tend to be shiny, conduct electricity and heat well, can be hammered into shapes and tend to lose electrons in reactions.
+- **Non-metals** are on the upper right. They tend to be poor conductors and, as solids, brittle; many are gases at room temperature, like oxygen and nitrogen.
+- **Metalloids**, along a zigzag boundary between them, have intermediate properties. **Silicon** is the most famous: a **semiconductor**, the basis of computer chips, as you’ll explore in the materials lessons.
+
+The large central block contains the **transition metals**, like iron, copper, gold and silver, which often form coloured compounds and are used as catalysts. The two rows usually shown separately at the bottom include the **lanthanides**, often called **rare earth elements**, essential for strong magnets in electric motors and wind turbines, phone screens and many electronics. Despite their name, many aren’t especially rare, but they’re difficult to separate, and **China** dominates their processing.
+
+=== steps Making new elements
+- The heaviest element found naturally in significant amounts is uranium, with 92 protons. Elements beyond it are mostly made artificially.
+- Scientists create new elements by smashing lighter nuclei together in particle accelerators, hoping they fuse.
+- These superheavy elements are extremely unstable, often existing for only a fraction of a second before decaying.
+- The heaviest element confirmed so far is **oganesson**, with **118** protons, first reported in the early 2000s by a Russian–American team and officially named in **2016**, along with **nihonium** (113, named after Japan), **moscovium** (115) and **tennessine** (117).
+- These completed the seventh row of the periodic table.
+- Scientists are attempting to make elements 119 and 120, which would begin an eighth row. Some theories predict an “island of stability” where certain superheavy elements might last longer.
+
+=== reveal Gold and copper are coloured, but most metals look silvery. Why?
+Most metals reflect nearly all wavelengths of visible light roughly equally, so they look silvery-grey. **Copper** absorbs some blue and green light, so it looks reddish. **Gold**’s colour comes from an unusual effect: its electrons, especially the inner ones close to its heavy nucleus, move so fast that **Einstein’s theory of relativity** subtly changes their energy levels. This shifts the light gold absorbs into the blue part of the spectrum, so it reflects the yellow and red light that gives it its warm colour. Without relativity, gold would look silvery like most other metals. The same relativistic effects help explain why **mercury** is a liquid at room temperature.
+
+=== keypoints
+- Chemistry is controlled mainly by **electrons**, arranged in **shells**; outer-shell **valence electrons** determine behaviour.
+- Elements in the same **group** share the same number of valence electrons, so they behave similarly.
+- **Alkali metals** (1 valence electron) and **halogens** (7) are highly reactive; **noble gases** (full shells) are stable.
+- The **octet rule**: atoms tend to gain, lose or share electrons to reach eight outer electrons.
+- Trends: atoms get **larger down** a group and **smaller across** a period; alkali metals get **more reactive** down the group; **fluorine** is the most **electronegative** element.
+- Elements are **metals**, **non-metals** or **metalloids** like **silicon**; **rare earths** are vital for modern technology.
+- The heaviest confirmed element is **oganesson (118)**; gold’s colour comes partly from **relativity**.
+
+=== why
+Understanding electrons turns the periodic table from a chart to memorise into a logical map that predicts how elements behave. It explains why sodium is dangerous but salt is safe, why some metals rust and others don’t, and why silicon powers computers. Next, you’ll see how atoms use their electrons to bond together and build the substances around you.
+
+##### LESSON
+id: chemistry.bonds.1
+title: Chemical Bonds: How Atoms Hold Together
+minutes: 15
+check: In your own words: what are ionic, covalent and metallic bonds, and how can the same element, carbon, form both diamond and graphite?
+
+=== hook
+**Sodium** is a soft, shiny metal that reacts violently with water and can burst into flames. **Chlorine** is a greenish-yellow poisonous gas, used as a chemical weapon in World War I. Put them together, and they react vigorously to form something completely different: white crystals that you sprinkle on your food every day. **Table salt**.
+
+How can two dangerous substances combine into something so harmless? The answer lies in what happens to their electrons when they bond. The properties of a substance depend not just on which atoms it contains, but on **how** those atoms are joined.
+
+=== core
+A **chemical bond** is an attraction that holds atoms together in molecules or larger structures. Bonds form because, as you saw in the previous lesson, atoms tend to become more stable by gaining, losing or sharing electrons to fill their outer shells.
+
+In **1916**, the American chemist **Gilbert N. Lewis** proposed that atoms bond by **sharing pairs of electrons**, and introduced simple diagrams, still used today, showing valence electrons as dots around atomic symbols.
+
+There are three main types of strong chemical bond:
+
+1. **Ionic bonds**: electrons are **transferred** from one atom to another.
+2. **Covalent bonds**: electrons are **shared** between atoms.
+3. **Metallic bonds**: electrons are **pooled** among many metal atoms.
+
+=== text Ionic bonds
+When a metal like sodium meets a non-metal like chlorine, sodium **gives up** its single valence electron, and chlorine **takes** it.
+
+- Sodium, having lost a negative electron, becomes a **positive ion**, Na⁺, with a full outer shell.
+- Chlorine, having gained an electron, becomes a **negative ion**, Cl⁻, also with a full outer shell.
+
+Opposite charges attract strongly, so the ions cling together. In table salt, millions of sodium and chloride ions pack into a regular, repeating 3D pattern called a **crystal lattice**, which is why salt forms neat cube-shaped crystals.
+
+Ionic compounds tend to:
+
+- Have **high melting points**, because the strong attractions between ions take a lot of energy to break. Salt melts at about 801 °C.
+- Be **hard but brittle**: shifting the layers brings like charges together, which repel, so the crystal shatters.
+- **Conduct electricity when melted or dissolved in water**, because the ions can then move, but not as solids.
+
+=== text Covalent bonds
+When two non-metal atoms bond, neither can easily take electrons from the other. Instead, they **share** pairs of electrons, each atom counting the shared electrons towards its full outer shell.
+
+- In a **hydrogen molecule** (H₂), two hydrogen atoms share one pair of electrons.
+- In **water** (H₂O), an oxygen atom shares one pair of electrons with each of two hydrogen atoms.
+- In **oxygen gas** (O₂), two oxygen atoms share **two** pairs of electrons, a **double bond**.
+- In **nitrogen gas** (N₂), the atoms share **three** pairs, a **triple bond**, which is very strong. That’s why nitrogen gas is so unreactive, and why turning it into useful compounds, as you’ll see in the reactions lessons, is so difficult.
+
+Covalent bonds create **molecules**: distinct groups of atoms bonded together. Many covalent substances, like water, carbon dioxide and sugar, have relatively low melting and boiling points, because, although the bonds within each molecule are strong, the attractions **between** molecules are much weaker.
+
+=== callout analogy
+Think of an ionic bond as a transaction: one atom gives an electron to another, and the two are then held together by attraction, like magnets with opposite poles. A covalent bond is like two people holding the same rope: neither owns it, but sharing it keeps them connected. A metallic bond is like a crowd sharing a common pool: everyone contributes, and the pool holds the whole community together.
+
+=== text Metallic bonds
+In metals, atoms give up their valence electrons into a shared **“sea” of electrons** that moves freely throughout the whole structure, while the positive metal ions sit in a regular arrangement.
+
+This explains the characteristic properties of metals:
+
+- **Conducting electricity**: the free electrons can flow when a voltage is applied, as you saw in the Physics region.
+- **Conducting heat**: moving electrons carry energy quickly.
+- **Malleability and ductility**: layers of metal ions can slide past each other without breaking the bond, because the electron sea moves with them. That’s why metals can be hammered into sheets or drawn into wires, whereas salt crystals shatter.
+- **Shininess**: the free electrons interact with light and reflect it.
+
+=== steps Same atoms, different bonds: diamond and graphite
+- **Diamond** and **graphite**, the “lead” in pencils, are both made of pure **carbon**. Yet diamond is the hardest natural material, transparent and an electrical insulator, while graphite is soft, black, slippery and conducts electricity.
+- The difference is entirely in how the carbon atoms are bonded.
+- In **diamond**, each carbon atom forms strong covalent bonds with **four** others, in a rigid 3D network extending throughout the crystal. There are no weak points and no free electrons, so diamond is extremely hard and doesn’t conduct electricity.
+- In **graphite**, each carbon atom bonds with **three** others, forming flat sheets of hexagons. The sheets are held together only by weak forces, so they slide over each other easily, which is why graphite leaves a mark on paper and works as a lubricant.
+- In graphite, each carbon’s fourth electron is free to move along the sheets, so graphite **conducts electricity**.
+- Different forms of the same element are called **allotropes**. You’ll meet more carbon allotropes, including graphene, in the carbon lessons.
+
+=== text Weaker attractions between molecules
+Besides strong chemical bonds, there are weaker forces **between** molecules, called **intermolecular forces**. They don’t hold atoms together within a molecule, but they determine whether a substance is a solid, liquid or gas at room temperature.
+
+The most important for life is the **hydrogen bond**: a weak attraction between a hydrogen atom bonded to a strongly electronegative atom, like oxygen or nitrogen, and another such atom nearby. Hydrogen bonds hold the two strands of **DNA** together, which, as you saw in the Biology region, lets them unzip for copying. They also give water many of its unusual properties, which you’ll explore in the next lesson.
+
+=== reveal Why is salt water, but not pure water, a good conductor of electricity?
+Pure water conducts electricity very poorly, because it contains almost no free **ions** to carry charge. When salt dissolves, water molecules pull the sodium and chloride ions apart from their crystal lattice, surrounding them and letting them move freely through the solution. These moving ions carry electric current. Most tap water, river water and seawater contain dissolved salts and minerals, so they do conduct electricity, which is why electrical appliances and water are a dangerous combination, as you saw in the Physics region’s electricity lessons. Our bodies also rely on dissolved ions, like sodium and potassium, to send electrical signals along nerves.
+
+=== keypoints
+- **Chemical bonds** hold atoms together as atoms gain, lose or share electrons; **Lewis (1916)** described bonding as sharing electron pairs.
+- **Ionic bonds**: electrons are **transferred** (e.g. sodium to chlorine), forming oppositely charged ions in a **crystal lattice**; high melting points, brittle, conduct when molten or dissolved.
+- **Covalent bonds**: electrons are **shared** between non-metals, forming **molecules**; double and triple bonds share more pairs.
+- **Metallic bonds**: a “**sea**” of free electrons explains why metals conduct, shine and can be shaped.
+- **Diamond** and **graphite** are both carbon, but different bonding gives completely different properties: they’re **allotropes**.
+- **Hydrogen bonds** are weak forces between molecules, crucial for **DNA** and **water**.
+
+=== why
+Bonds explain why substances have the properties they do: why salt dissolves, why metals conduct, why diamonds are hard and why water is liquid. Understanding them lets you see the everyday world, from the food you eat to the phone in your hand, as an arrangement of atoms held together in particular ways. Next, you’ll explore how the shapes of molecules matter, and why water is so unusual.
+
+##### LESSON
+id: chemistry.bonds.2
+title: Molecules in 3D: Shape, Polarity and Weird Water
+minutes: 15
+prereq: chemistry.bonds.1
+check: In your own words: why are some molecules polar, why don’t oil and water mix, and why does ice float when most solids sink in their own liquid?
+
+=== hook
+In the late **1950s**, a drug called **thalidomide** was widely sold in many countries, mainly as a sedative and to ease morning sickness in pregnant women. It seemed safe. But by the early **1960s**, doctors realised it was causing severe birth defects, and around **10,000** babies worldwide were affected, many born with shortened or missing limbs.
+
+Thalidomide molecules come in two forms that are **mirror images** of each other, like your left and right hands. Scientists long believed one form was the useful sedative and the other caused the harm, though it turned out the body converts one form into the other, so separating them wouldn’t have prevented the tragedy. The disaster transformed drug regulation worldwide and showed that the **3D shape** of molecules can matter enormously.
+
+=== core
+In the previous lesson, you saw how atoms bond together. But molecules aren’t flat diagrams on a page; they’re three-dimensional objects with specific **shapes**. And a molecule’s shape determines much of how it behaves: how it reacts, how it interacts with other molecules, whether it dissolves, and how it acts in the body.
+
+A simple rule helps predict molecular shapes. Electron pairs around a central atom, both those in bonds and unshared pairs, **repel each other**, so they arrange themselves as far apart as possible. This idea is called **VSEPR theory** (valence shell electron pair repulsion).
+
+=== text Common molecular shapes
+- **Carbon dioxide** (CO₂): **linear**, with the two oxygen atoms on opposite sides of the carbon, at 180 degrees.
+- **Methane** (CH₄): **tetrahedral**, with four hydrogen atoms pointing to the corners of a triangular pyramid, at about **109.5 degrees** to each other, as far apart as possible in three dimensions.
+- **Ammonia** (NH₃): a **pyramid**, with three hydrogens and one unshared pair of electrons on the nitrogen.
+- **Water** (H₂O): **bent**, at an angle of about **104.5 degrees**, because the oxygen has two unshared pairs of electrons that push the hydrogens closer together.
+
+Water’s bent shape turns out to be one of the most important facts in all of chemistry and biology.
+
+=== text Polar molecules
+As you saw in the elements lessons, some atoms are more **electronegative** than others: they pull shared electrons towards themselves. In a covalent bond between two different atoms, the electrons may be shared **unequally**.
+
+In water, oxygen is much more electronegative than hydrogen, so it pulls the shared electrons closer. The oxygen end of the molecule becomes slightly **negative**, and the hydrogen ends slightly **positive**. Because water is bent, these charges don’t cancel out: the molecule has a positive side and a negative side. It’s **polar**.
+
+Carbon dioxide also has polar bonds, but because the molecule is **linear and symmetrical**, the two pulls cancel out, and the molecule as a whole is **non-polar**. Shape decides polarity.
+
+=== callout analogy
+Think of polarity like a tug-of-war. In carbon dioxide, two equally strong teams pull in exactly opposite directions, so the rope doesn’t move: no overall polarity. In water, the two hydrogen “teams” both pull from one side, at an angle, while the oxygen pulls from the other, so there’s an overall imbalance. The molecule has a distinctly positive end and a negative end.
+
+=== text Like dissolves like
+A useful rule of thumb in chemistry is **“like dissolves like”**:
+
+- **Polar** substances tend to dissolve in **polar** solvents. Salt and sugar dissolve well in water.
+- **Non-polar** substances tend to dissolve in **non-polar** solvents. Oils and fats dissolve in petrol or other oils, but not in water.
+
+That’s why **oil and water don’t mix**. Water molecules are strongly attracted to each other through hydrogen bonds; non-polar oil molecules can’t join in, so they’re squeezed out, forming a separate layer.
+
+**Soap** solves this problem with clever molecular design. Each soap molecule has a long, non-polar tail that dissolves in grease, and a polar, charged head that dissolves in water. Soap molecules surround oily dirt with their tails pointing inward and heads outward, forming tiny spheres that can be rinsed away. This is also why washing hands with soap breaks apart many viruses, which have fatty outer coats.
+
+=== text Mirror-image molecules
+Some molecules exist in two forms that are **mirror images** of each other but can’t be superimposed, just as your left hand can’t be placed exactly over your right. This property is called **chirality**, from the Greek word for hand.
+
+Mirror-image molecules can behave very differently in the body, because many biological molecules, like enzymes and receptors, are themselves chiral, like a left-handed glove that only fits a left hand. For example, one form of the molecule **carvone** smells like **spearmint**, while its mirror image smells like **caraway** seeds. Many drugs are now carefully developed and tested as a single mirror-image form.
+
+=== steps Why water is so unusual
+- **Ice floats.** In most substances, the solid is denser than the liquid, so it sinks. But when water freezes, hydrogen bonds lock molecules into an open, hexagonal lattice that takes up **more space** than liquid water. Ice is about **9%** less dense, so it floats.
+- That’s crucial for life: lakes and seas freeze from the **top down**, and the floating ice insulates the water below, letting fish and other life survive the winter.
+- **High boiling point**: for such a small, light molecule, water boils at a surprisingly high temperature, 100 °C. Without hydrogen bonds holding its molecules together, water would be a gas at room temperature, and Earth would have no oceans.
+- **High heat capacity**: water absorbs a lot of heat before its temperature rises. That’s why oceans moderate climate, as you saw in the Earth region, and why sweating cools your body so effectively.
+- **Surface tension**: hydrogen bonds make water’s surface act like a thin elastic skin, which lets some insects walk on water and helps water rise up thin tubes in plants.
+- **A universal solvent**: water’s polarity lets it dissolve more substances than almost any other liquid, which is why it’s the medium in which the chemistry of life takes place.
+
+=== reveal How can a gecko walk up a glass wall and hang from the ceiling?
+Geckos’ feet are covered with millions of tiny hair-like structures called **setae**, each branching into hundreds of even tinier tips. These come into extremely close contact with surfaces, close enough for very weak attractions between molecules, called **van der Waals forces**, to act. Each individual force is tiny, but added up across billions of contact points, they’re strong enough to support the gecko’s weight many times over. No glue or suction is involved. Scientists have studied gecko feet to design new types of reusable dry adhesives, an example of **biomimicry**, learning from nature to create new materials.
+
+=== keypoints
+- Molecules have **3D shapes**, predicted by **VSEPR**: electron pairs repel and spread out (CO₂ **linear**, methane **tetrahedral** at 109.5°, water **bent** at 104.5°).
+- Unequal sharing of electrons creates **polar** bonds; whether a molecule is **polar** depends on its **shape**.
+- **Like dissolves like**: polar dissolves polar, non-polar dissolves non-polar; **soap** bridges oil and water.
+- **Chiral** molecules come in mirror-image forms that can act differently in the body, as **thalidomide** and **carvone** show.
+- Water is unusual: **ice floats**, it has a **high boiling point**, **high heat capacity**, **surface tension** and dissolves many substances, all thanks to **hydrogen bonds**.
+- **Van der Waals forces** let geckos cling to walls.
+
+=== why
+The shapes of molecules explain why medicines work, why soap cleans, why oil and water separate and why water makes life on Earth possible. Molecular shape is the hidden reason behind countless everyday phenomena. Next, you’ll explore what happens when molecules react and transform into entirely new substances.
+
+##### LESSON
+id: chemistry.reactions.1
+title: Chemical Reactions: Transforming Matter
+minutes: 15
+check: In your own words: what is conservation of mass in a chemical reaction, what is the difference between exothermic and endothermic reactions, and what factors speed up a reaction?
+
+=== hook
+In the 1770s and 1780s, the French chemist **Antoine Lavoisier** performed experiments with extraordinary care, weighing everything before and after chemical reactions, including gases, in sealed containers. When he heated metals in air, they gained weight. When he burned substances in sealed vessels, the total weight stayed exactly the same.
+
+He concluded that matter is never created or destroyed in a chemical reaction; it is only rearranged. This **law of conservation of mass** helped transform chemistry from alchemy into a modern science. Lavoisier also identified oxygen’s role in burning and helped create the modern system for naming chemicals. Tragically, he was executed by guillotine in **1794** during the French Revolution, partly because of his role as a tax collector. A fellow scientist reportedly lamented that it took only a moment to cut off that head, but a century might not produce another like it.
+
+=== core
+A **chemical reaction** is a process in which substances, called **reactants**, are transformed into new substances with different properties, called **products**. During a reaction, chemical bonds in the reactants break and new bonds form, rearranging atoms into new combinations.
+
+This is different from a **physical change**, like melting ice or dissolving sugar, where the substance’s identity doesn’t change. Melted ice is still water. But when wood burns, it becomes ash, carbon dioxide and water vapour: entirely new substances.
+
+Signs that a chemical reaction may be happening include:
+
+- A **colour change**.
+- **Bubbles of gas** forming.
+- **Heat or light** being released or absorbed.
+- A solid, called a **precipitate**, forming when two liquids are mixed.
+- A change in **smell**.
+
+=== text Chemical equations
+Chemists describe reactions using **chemical equations**, with reactants on the left and products on the right.
+
+For example, when **methane**, the main component of natural gas used for cooking in many homes, burns in oxygen:
+
+**CH₄ + 2O₂ → CO₂ + 2H₂O**
+
+One molecule of methane reacts with two molecules of oxygen to produce one molecule of carbon dioxide and two molecules of water.
+
+Because atoms are neither created nor destroyed, equations must be **balanced**: the same number of each type of atom must appear on both sides. Here, there is 1 carbon atom, 4 hydrogen atoms and 4 oxygen atoms on each side.
+
+=== steps Balancing an equation
+- Start with the unbalanced reaction for hydrogen burning to form water: **H₂ + O₂ → H₂O**.
+- Count atoms. Left: 2 hydrogen, 2 oxygen. Right: 2 hydrogen, 1 oxygen. The oxygen doesn’t balance.
+- Put a **2** in front of H₂O: **H₂ + O₂ → 2H₂O**. Now the right has 4 hydrogen and 2 oxygen.
+- Hydrogen is now unbalanced. Put a **2** in front of H₂: **2H₂ + O₂ → 2H₂O**.
+- Check: left has 4 hydrogen and 2 oxygen; right has 4 hydrogen and 2 oxygen. Balanced.
+- You can only change the numbers **in front** of molecules, never the small numbers inside them, because changing those would change what the substance is.
+
+=== text Types of reactions
+- **Combustion**: a substance reacts rapidly with oxygen, releasing heat and light, as in burning wood, petrol or gas.
+- **Oxidation**: more broadly, reactions where substances combine with oxygen or lose electrons. **Rusting** is a slow oxidation of iron in the presence of water and oxygen.
+- **Synthesis**: two or more substances combine to make a more complex one.
+- **Decomposition**: one substance breaks down into simpler ones, as when heat breaks down limestone into lime and carbon dioxide.
+- **Precipitation**: two dissolved substances react to form an insoluble solid.
+- **Acid–base reactions**: you’ll explore these in the acids and bases lessons.
+
+=== text Energy in reactions
+Breaking chemical bonds **requires** energy; forming bonds **releases** energy. Whether a reaction gives out or takes in energy overall depends on the balance between the two.
+
+- **Exothermic reactions** release energy, usually as heat, because the bonds formed are stronger than those broken. Burning fuel, respiration in your cells and hand warmers are exothermic.
+- **Endothermic reactions** absorb energy from their surroundings, making them feel cold. **Instant cold packs**, used for sports injuries, contain substances that absorb heat when mixed with water. Photosynthesis is endothermic, absorbing energy from sunlight.
+
+Even exothermic reactions usually need a small push to get started, called the **activation energy**: like a match needed to light a fire, or a spark to ignite petrol. Once started, the energy released can keep the reaction going.
+
+=== callout analogy
+Think of activation energy like pushing a boulder over a small hill before it can roll down into a valley. The valley is lower than the starting point, so overall the boulder releases energy as it rolls. But first, you have to push it up and over the hump. A **catalyst** is like digging a tunnel through the hill, letting the boulder reach the valley without such a big push.
+
+=== text What controls the speed of a reaction?
+Reactions happen when particles **collide** with enough energy and the right orientation. Anything that increases effective collisions speeds up a reaction:
+
+- **Temperature**: higher temperatures make particles move faster, colliding more often and more energetically. That’s why food spoils faster outside the refrigerator, and why cooking speeds up chemical changes in food.
+- **Concentration**: more particles in a given space means more collisions.
+- **Surface area**: breaking a solid into smaller pieces exposes more surface for reactions. Powdered sugar dissolves faster than a sugar cube, and fine dust, like flour in a mill, can burn so fast it explodes, which is why dust explosions are a serious industrial hazard.
+- **Catalysts**: substances that speed up reactions without being used up, by providing an easier pathway with lower activation energy. **Enzymes** in your body are biological catalysts; **catalytic converters** in cars use metals to convert harmful exhaust gases into less harmful ones.
+
+=== reveal Why do cut apples and potatoes turn brown, and how does lemon juice stop it?
+When you cut an apple, you break open its cells, letting an enzyme inside them come into contact with oxygen from the air. The enzyme catalyses the **oxidation** of natural compounds in the fruit, producing brown pigments, similar to those that make tea and coffee dark. Lemon juice slows browning in two ways: its **acidity** reduces the enzyme’s activity, since enzymes work best at particular pH levels, and it contains **vitamin C**, which reacts with oxygen and interferes with the browning reaction. Keeping cut fruit cold, or covered in water to limit oxygen, also slows browning, applying the principles of reaction rates you just learned.
+
+=== keypoints
+- A **chemical reaction** turns **reactants** into new **products** by breaking and forming bonds; physical changes don’t create new substances.
+- **Lavoisier** established the **law of conservation of mass**: matter is rearranged, not created or destroyed.
+- **Chemical equations** must be **balanced**, with equal numbers of each atom on both sides (e.g. **CH₄ + 2O₂ → CO₂ + 2H₂O**).
+- Types include **combustion**, **oxidation** (like rusting), **synthesis**, **decomposition** and **precipitation**.
+- **Exothermic** reactions release energy; **endothermic** reactions absorb it; most need **activation energy** to start.
+- Reaction speed increases with **temperature**, **concentration**, **surface area** and **catalysts** like **enzymes**.
+
+=== why
+Chemical reactions are happening everywhere: in your cells, your kitchen, car engines, factories and the atmosphere. Understanding them explains cooking, rusting, burning, digestion and batteries, and gives you the tools to make sense of everything from food preservation to industrial safety. Next, you’ll explore catalysts and equilibrium, including the single reaction that feeds billions of people.

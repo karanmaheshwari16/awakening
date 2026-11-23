@@ -1,0 +1,325 @@
+##### LESSON
+id: chemistry.reactions.2
+title: Catalysts, Equilibrium and the Reaction That Feeds the World
+minutes: 15
+prereq: chemistry.reactions.1
+check: In your own words: what is chemical equilibrium and how does Le Chatelier’s principle help control it, why is the Haber–Bosch process so important, and how do catalysts work?
+
+=== hook
+By around **1900**, scientists were warning of a coming crisis. Crops need **nitrogen** to grow, and farmers were running out of natural sources of nitrogen fertiliser, like manure and guano (bird droppings) mined from islands off South America. Without a new source, the British scientist **William Crookes** warned in 1898, the world faced mass starvation.
+
+The air is about 78% nitrogen, but, as you saw in the bonds lessons, nitrogen gas is held together by a very strong triple bond that plants can’t break. In **1909**, the German chemist **Fritz Haber** found a way to combine nitrogen from the air with hydrogen to make **ammonia**, and **Carl Bosch** scaled it up into an industrial process by **1913**. Today, scientists estimate that fertilisers made through the **Haber–Bosch process** help feed roughly **half** of the world’s population. It may be the most important chemical reaction ever industrialised.
+
+=== core
+In the previous lesson, you saw reactions as going one way, from reactants to products. But many reactions are **reversible**: the products can react to form the reactants again. This is shown with a double arrow (⇌).
+
+In a closed system, a reversible reaction eventually reaches **chemical equilibrium**: a state where the forward and reverse reactions happen at the **same rate**, so the amounts of reactants and products stop changing overall, even though molecules are still constantly reacting in both directions.
+
+Equilibrium doesn’t mean equal amounts of reactants and products. Some reactions settle with mostly products; others with mostly reactants. Chemists want to push reactions towards the products they need.
+
+=== text Le Chatelier’s principle
+In **1884**, the French chemist **Henri Le Chatelier** described a powerful rule: when a system at equilibrium is disturbed, it **shifts to counteract the disturbance**.
+
+- **Add more reactant**: the equilibrium shifts to use it up, making more product.
+- **Remove product** as it forms: the equilibrium shifts to replace it, making more.
+- **Increase pressure** (for reactions involving gases): the equilibrium shifts towards the side with **fewer gas molecules**, reducing pressure.
+- **Change temperature**: raising temperature favours the direction that **absorbs** heat; lowering it favours the direction that **releases** heat.
+
+=== callout analogy
+Think of equilibrium like a busy railway platform with trains arriving and leaving at the same rate, so the number of people on the platform stays steady. If suddenly more people arrive at the entrance (adding reactant), more of them will board trains (forming products) until the platform settles at a new steady level. The system adjusts to absorb the change, which is Le Chatelier’s principle.
+
+=== steps How the Haber–Bosch process works
+- The reaction: **N₂ + 3H₂ ⇌ 2NH₃** (nitrogen plus hydrogen form ammonia). It’s reversible and releases heat.
+- **Pressure**: four gas molecules on the left become two on the right. By Le Chatelier’s principle, **high pressure** pushes the equilibrium towards ammonia. The process uses pressures of around **150 to 300 times** normal atmospheric pressure.
+- **Temperature**: because the forward reaction releases heat, lower temperatures would favour more ammonia. But at low temperatures, the reaction is far too slow.
+- So engineers choose a **compromise temperature**, around **400 to 500 °C**: hot enough for a reasonable rate, while still producing a decent amount of ammonia.
+- An **iron-based catalyst** speeds the reaction up enormously, without being used up.
+- Ammonia is continuously **removed** by cooling it into a liquid, shifting the equilibrium to make more, and unreacted gases are recycled.
+- The ammonia is turned into fertilisers like urea, as well as being used for many other products.
+
+=== text The impact, and the dark side
+The Haber–Bosch process transformed agriculture. Synthetic fertilisers helped make possible the **Green Revolution**, which, from the 1960s, dramatically increased crop yields in countries including India, where high-yielding wheat and rice varieties combined with fertilisers and irrigation helped the country move from food shortages towards self-sufficiency in grains.
+
+But it has costs:
+
+- The process uses roughly **1–2%** of the world’s total energy supply, mostly from natural gas, which is also the usual source of the hydrogen, so it’s a significant source of carbon dioxide emissions.
+- Excess fertiliser washes into rivers and seas, causing the **dead zones** you met in the Earth region, and releases **nitrous oxide**, a powerful greenhouse gas.
+- Overuse can degrade soil health. In India, heavily subsidised urea has encouraged its overuse relative to other nutrients in some regions.
+
+Fritz Haber’s legacy is especially complicated. He won the **1918 Nobel Prize in Chemistry** for ammonia synthesis. But during World War I, he also led Germany’s development of **chemical weapons**, personally overseeing the first large-scale use of chlorine gas in **1915**. The same chemistry that could feed the world could also be used for killing: ammonia is a key ingredient in explosives.
+
+=== text Catalysts: chemistry’s accelerators
+A **catalyst** speeds up a reaction by providing an alternative pathway with a lower activation energy, as you saw in the previous lesson. It’s not consumed, so a small amount can be used over and over.
+
+- **Industry**: the majority of industrial chemical processes rely on catalysts, from making fertilisers and plastics to refining fuel.
+- **Catalytic converters** in car exhausts use metals like **platinum**, **palladium** and **rhodium** to convert toxic carbon monoxide, unburned fuel and nitrogen oxides into less harmful carbon dioxide, water and nitrogen.
+- **Enzymes** are biological catalysts, mostly proteins. They speed up reactions in living cells, often by millions of times. Each enzyme has an **active site** shaped to fit specific molecules, like a key fitting a lock (though the enzyme often adjusts its shape slightly as the molecule binds). Digestive enzymes break down food; others copy DNA, as you saw in the Biology region. Enzymes are also used in washing powders to break down stains and in making cheese and bread.
+
+=== reveal What happened at Bhopal, and what did it teach the world about chemical safety?
+On the night of **2–3 December 1984**, a gas called **methyl isocyanate**, used to make pesticides, leaked from a Union Carbide pesticide plant in **Bhopal**, India. Water had entered a storage tank, triggering a runaway reaction that built up heat and pressure, and around 40 tonnes of toxic gas escaped over the sleeping city. Official estimates put the immediate death toll at several thousand, with estimates of total deaths over time ranging much higher, and hundreds of thousands of people suffered lasting health effects. Investigations found that multiple safety systems were not working or were inadequate. Bhopal is often described as the world’s worst industrial disaster. It led to stronger chemical safety and environmental laws in India and worldwide, and to the principle that companies handling hazardous chemicals must plan for emergencies and inform communities around them. Legal battles over compensation and site clean-up continued for decades.
+
+=== keypoints
+- Many reactions are **reversible** (⇌) and reach **chemical equilibrium**, where forward and reverse rates are equal.
+- **Le Chatelier’s principle (1884)**: a system at equilibrium shifts to counteract disturbances in concentration, pressure or temperature.
+- The **Haber–Bosch process** (N₂ + 3H₂ ⇌ 2NH₃) uses **high pressure**, a **compromise temperature** and an **iron catalyst** to make ammonia.
+- Its fertilisers help feed roughly **half** the world and enabled the **Green Revolution**, but it uses 1–2% of global energy and contributes to pollution.
+- **Fritz Haber** won a Nobel Prize for ammonia and also led Germany’s **chemical weapons** programme.
+- **Catalysts**, from **catalytic converters** to **enzymes**, speed reactions without being used up.
+- **Bhopal (1984)** showed the devastating consequences of failed chemical safety.
+
+=== why
+Chemistry has given humanity enormous power: to feed billions, cure diseases and build the modern world, and also to cause terrible harm. Understanding equilibrium and catalysts explains how industrial chemistry works, while the stories of Haber and Bhopal show why safety, ethics and responsibility must go hand in hand with scientific progress.
+
+##### LESSON
+id: chemistry.acids-bases.1
+title: Acids and Bases in Everyday Life
+minutes: 14
+check: In your own words: what makes a substance an acid or a base, what does the pH scale measure, and what happens in a neutralisation reaction?
+
+=== hook
+Here’s an experiment you can do in your kitchen. Make a paste of **turmeric** powder with a little water and spread it on paper. It’s bright yellow. Now dab on a solution of **baking soda** or soap. Where it touches, the yellow turns a striking **reddish-brown**. Add a little **lemon juice**, and the yellow returns.
+
+Turmeric is acting as a natural **indicator**: a substance that changes colour depending on whether it meets an acid or a base. People have noticed colour changes like this for centuries; the colour of stains from turmeric-based curries on clothing can turn red when washed with alkaline soap. It’s a vivid glimpse into one of the most important ideas in chemistry.
+
+=== core
+**Acids** and **bases** are two families of chemicals with opposite properties. They’re everywhere: in food, cleaning products, your stomach, your blood, soil, batteries and the ocean.
+
+**Acids** typically:
+
+- Taste **sour**, like lemons, vinegar and tamarind (though you should never taste unknown chemicals).
+- Turn blue litmus paper **red**.
+- React with many metals, releasing hydrogen gas.
+- Can be corrosive when strong.
+
+**Bases** typically:
+
+- Taste **bitter** and feel **slippery** or soapy.
+- Turn red litmus paper **blue**.
+- Can be corrosive when strong, like drain cleaners.
+
+Bases that dissolve in water are called **alkalis**.
+
+=== text What makes something an acid or a base?
+In **1884**, the Swedish chemist **Svante Arrhenius** (whom you also met in the climate lessons) proposed a simple definition:
+
+- An **acid** produces **hydrogen ions** (H⁺) when dissolved in water.
+- A **base** produces **hydroxide ions** (OH⁻) when dissolved in water.
+
+In **1923**, the chemists **Johannes Brønsted** and **Thomas Lowry** independently proposed a broader definition, now widely used:
+
+- An **acid** is a substance that **donates** a hydrogen ion (a proton) to another substance.
+- A **base** is a substance that **accepts** a hydrogen ion.
+
+So acid–base chemistry is fundamentally about the transfer of tiny hydrogen ions between molecules.
+
+=== text The pH scale
+The **pH scale** measures how acidic or basic a solution is, based on the concentration of hydrogen ions. It was introduced in **1909** by the Danish chemist **Søren Sørensen**, who was working on quality control at the Carlsberg brewery.
+
+The scale usually runs from **0 to 14**:
+
+- **pH 7** is **neutral**: pure water at room temperature.
+- **Below 7** is **acidic**: the lower the number, the stronger the acidity.
+- **Above 7** is **basic** (alkaline): the higher the number, the stronger the base.
+
+As you saw in the Math region, pH is **logarithmic**: each step represents a **tenfold** change in hydrogen ion concentration. A solution at pH 3 is **10 times** more acidic than one at pH 4, and **100 times** more acidic than one at pH 5.
+
+=== steps Everyday substances on the pH scale
+- **Battery acid**: around pH **0 to 1**. Highly corrosive.
+- **Stomach acid**: around pH **1.5 to 3.5**. Strong enough to help digest food and kill many microbes.
+- **Lemon juice**: around pH **2**.
+- **Vinegar**: around pH **2.5 to 3**.
+- **Black coffee**: around pH **5**.
+- **Pure water**: pH **7**.
+- **Human blood**: around pH **7.4**, slightly basic and very tightly controlled.
+- **Seawater**: around pH **8.1**, slightly basic.
+- **Baking soda solution**: around pH **8 to 9**.
+- **Soap**: often around pH **9 to 10**.
+- **Household bleach**: around pH **12 to 13**.
+- **Drain cleaner**: around pH **13 to 14**. Highly corrosive.
+
+=== callout analogy
+Think of the pH scale like a seesaw balanced in the middle at 7. Acids push one end down with extra hydrogen ions; bases push the other end down by mopping up hydrogen ions. Pure water sits perfectly level. Because the scale is logarithmic, each step further from the middle is like adding ten times more weight.
+
+=== text Strong and weak acids
+**Strength** isn’t the same as **concentration**:
+
+- A **strong acid**, like **hydrochloric acid** (the acid in your stomach) or **sulphuric acid**, almost completely splits apart in water, releasing nearly all its hydrogen ions.
+- A **weak acid**, like **acetic acid** in vinegar or **citric acid** in citrus fruits, only partly splits apart, releasing a fraction of its hydrogen ions.
+
+**Concentration**, by contrast, describes how much acid is dissolved in a given amount of water. A dilute strong acid can be less harmful than a concentrated weak acid.
+
+=== text Neutralisation
+When an acid and a base react, they **neutralise** each other, producing **water** and a **salt**:
+
+**acid + base → salt + water**
+
+For example, hydrochloric acid and sodium hydroxide react to form sodium chloride (table salt) and water. In chemistry, “salt” means any compound formed this way, not just table salt.
+
+Neutralisation is used every day:
+
+- **Antacids**, containing bases like magnesium hydroxide or calcium carbonate, neutralise excess stomach acid to relieve heartburn and indigestion.
+- **Baking**: baking powder contains a base (baking soda) and a dry acid. When mixed with water and heated, they react, releasing carbon dioxide bubbles that make cakes and breads rise.
+- **Toothpaste** is usually slightly basic, helping neutralise acids produced by bacteria in your mouth.
+- **Farmers** add lime (a base) to acidic soils to make them more suitable for crops.
+
+=== reveal How does red cabbage make a rainbow of colours?
+Red cabbage contains natural pigments called **anthocyanins** (also found in blueberries and red onions) that change colour across a wide range of pH values. If you chop red cabbage, boil it in water and strain the purple liquid, you get a homemade indicator. Add lemon juice or vinegar, and it turns **pink or red**. Leave it neutral, and it stays **purple**. Add baking soda, and it turns **blue or green**. Add a strong base, like washing soda, and it turns **yellow**. Each colour corresponds to a different pH, because the pigment molecules change shape as they gain or lose hydrogen ions, which changes the wavelengths of light they absorb. It’s a safe, colourful way to see acid–base chemistry at home.
+
+=== keypoints
+- **Acids** taste sour and turn litmus red; **bases** taste bitter, feel slippery and turn litmus blue; soluble bases are **alkalis**.
+- **Arrhenius (1884)**: acids produce **H⁺**, bases produce **OH⁻**; **Brønsted–Lowry (1923)**: acids **donate** protons, bases **accept** them.
+- The **pH scale** (Sørensen, 1909) runs 0–14: **7 is neutral**, lower is acidic, higher is basic; each step is a **tenfold** change.
+- **Strong** acids fully release hydrogen ions; **weak** acids only partly; strength differs from concentration.
+- **Neutralisation**: acid + base → salt + water, used in **antacids**, **baking**, **toothpaste** and **farming**.
+- Natural **indicators** like **turmeric** and **red cabbage** change colour with pH.
+
+=== why
+Acids and bases are part of cooking, cleaning, digestion, medicine, farming and industry. Understanding them helps you use household chemicals safely (never mix bleach with acidic cleaners, which can release toxic chlorine gas), understand food chemistry and appreciate the chemistry happening inside your own body. Next, you’ll see how acid–base balance matters for your blood, your teeth, soils and the ocean.
+
+##### LESSON
+id: chemistry.acids-bases.2
+title: Acid Balance in Bodies, Soils and Seas
+minutes: 15
+prereq: chemistry.acids-bases.1
+check: In your own words: what is a buffer and why is it vital for your blood, how does sugar lead to tooth decay, and why does soil pH matter for farming?
+
+=== hook
+Your blood has a pH of about **7.4**, and your body defends that number fiercely. If it falls below about **7.35**, a condition called **acidosis**, or rises above about **7.45**, called **alkalosis**, you start to feel unwell. Beyond roughly **6.8** or **7.8**, the changes can be life-threatening, disrupting enzymes, nerves and the heart.
+
+Yet every moment, your cells produce acids, including carbon dioxide from respiration, and you eat foods of all kinds. How does your blood stay so constant? Through a remarkable chemical system called a **buffer**, and through your lungs and kidneys working constantly in the background. Acid–base balance is quietly keeping you alive right now.
+
+=== core
+In the previous lesson, you met acids, bases and the pH scale. In living things and the natural environment, keeping pH within the right range is essential, because many chemical processes, especially those involving enzymes, only work properly within narrow pH limits.
+
+The key tool for resisting changes in pH is a **buffer**: a solution that can absorb added acid or base without its pH changing much. A buffer usually contains a **weak acid** and its matching **base** together. If extra acid is added, the base part mops up the hydrogen ions; if extra base is added, the acid part releases hydrogen ions to neutralise it.
+
+=== text How your blood stays balanced
+Your blood’s main buffer is the **bicarbonate buffer system**, based on carbon dioxide dissolved in the blood:
+
+- Carbon dioxide from your cells dissolves in blood and reacts with water to form **carbonic acid**, which can release hydrogen ions and become **bicarbonate**.
+- If your blood becomes too acidic, bicarbonate absorbs extra hydrogen ions.
+- If it becomes too basic, carbonic acid releases more hydrogen ions.
+
+Two organs fine-tune the system:
+
+- Your **lungs** adjust how much carbon dioxide you breathe out. When blood becomes more acidic, for example during hard exercise, you breathe faster and deeper, removing more carbon dioxide and reducing acidity. This happens automatically, within minutes.
+- Your **kidneys** adjust how much acid and bicarbonate are removed in urine, working more slowly, over hours to days.
+
+Some medical conditions disrupt this balance. In uncontrolled **diabetes**, for example, the body can produce large amounts of acidic substances called ketones, leading to a dangerous condition called diabetic ketoacidosis, which requires urgent medical treatment.
+
+=== callout analogy
+Think of a buffer as a shock absorber on a car. When the car hits a bump, the shock absorber soaks up the jolt so passengers barely feel it. A buffer soaks up sudden additions of acid or base, keeping pH smooth. Your lungs and kidneys are like the mechanics who adjust the suspension over time, so it keeps working however rough the road gets.
+
+=== text Acids and your teeth
+Tooth **enamel**, the hard outer layer of your teeth, is made mostly of a mineral called **hydroxyapatite**, a form of calcium phosphate. It’s the hardest substance in your body, but it has a weakness: it dissolves in acid.
+
+When you eat sugars and other carbohydrates, bacteria in the sticky film on your teeth, called **plaque**, ferment them and produce **acids**. When the pH at the tooth surface falls below about **5.5**, enamel starts to dissolve, a process called **demineralisation**. Repeated acid attacks over time can create holes: **cavities**, or **tooth decay**.
+
+Saliva helps protect teeth: it contains buffers, including bicarbonate, that neutralise acids, and minerals that help repair early damage. **Fluoride**, found in most toothpastes and added to drinking water in some countries, strengthens enamel by forming a more acid-resistant mineral.
+
+That’s why **how often** you eat sugar matters as much as how much: frequent snacking or sipping sugary drinks keeps your teeth bathed in acid for longer. Acidic drinks, like many soft drinks and fruit juices, can also erode enamel directly.
+
+=== text Soil pH and farming
+Soil pH strongly affects how well plants grow, mainly because it controls which **nutrients** dissolve and become available to plant roots.
+
+- Most crops grow best in soils that are **slightly acidic to neutral**, roughly pH **6 to 7.5**.
+- In very **acidic** soils, some toxic elements like aluminium dissolve more readily, harming roots, while nutrients like phosphorus become less available. Farmers often add **lime** (calcium carbonate), a base, to raise the pH. Acidic soils are common in high-rainfall regions, including parts of India’s northeast and the Western Ghats.
+- In very **alkaline** or **saline** soils, nutrients like iron and zinc become harder for plants to absorb, and salts can damage crops. Large areas of land in India are affected by soil salinity or alkalinity, often worsened by poor irrigation and drainage. Farmers can treat alkaline soils with **gypsum** and improved drainage.
+
+Some plants are natural indicators: **hydrangea** flowers tend to be blue in acidic soils and pink in alkaline soils, because soil pH affects how much aluminium the plant absorbs.
+
+=== steps The chemistry of ocean acidification
+- As you saw in the Earth region, the ocean absorbs roughly a quarter of the carbon dioxide humans emit.
+- When CO₂ dissolves in seawater, it reacts with water to form **carbonic acid**, the same acid as in your blood’s buffer system.
+- Carbonic acid releases **hydrogen ions**, lowering the ocean’s pH. Surface ocean pH has fallen from about **8.2** to about **8.1** since pre-industrial times, roughly a **30%** increase in hydrogen ion concentration.
+- The extra hydrogen ions react with **carbonate ions** in seawater, reducing their availability.
+- Many marine organisms, like corals, oysters, mussels and some plankton, need carbonate to build their shells and skeletons from **calcium carbonate**. With less carbonate available, building shells takes more energy, and in more acidic conditions, existing shells can even begin to dissolve.
+- Seawater is naturally buffered, which slows the change, but the buffer is being overwhelmed by the speed of CO₂ emissions.
+
+=== reveal Why is sulphuric acid sometimes called a measure of a country’s industrial strength?
+**Sulphuric acid** is one of the most widely produced chemicals in the world, with production running to hundreds of millions of tonnes a year. It’s used to make **fertilisers** (especially phosphate fertilisers), to process metals and minerals, to refine petroleum, and in manufacturing chemicals, detergents, dyes, paper and **car batteries**: the common lead–acid battery uses sulphuric acid as its electrolyte. Because it’s used in so many industries, economists and historians once used sulphuric acid production as a rough indicator of a country’s level of industrial development. It’s a reminder that acid–base chemistry isn’t just about lemons and soap, but underpins much of the modern economy.
+
+=== keypoints
+- A **buffer** contains a weak acid and its base, resisting changes in pH.
+- Blood pH is kept at about **7.4** by the **bicarbonate buffer**, adjusted by the **lungs** (fast) and **kidneys** (slow); deviations cause **acidosis** or **alkalosis**.
+- Bacteria in **plaque** turn sugars into acids; below about **pH 5.5**, tooth **enamel** dissolves; **saliva** and **fluoride** protect teeth.
+- **How often** you eat sugar matters for tooth decay.
+- Most crops prefer soil pH of about **6–7.5**; **lime** treats acidic soils, **gypsum** and drainage treat alkaline ones.
+- **Ocean acidification**: dissolved CO₂ forms carbonic acid, lowering pH and reducing **carbonate** for shell-building life.
+- **Sulphuric acid** is among the most produced chemicals, vital for fertilisers and batteries.
+
+=== why
+Acid–base balance affects your health, from your blood to your teeth, the food that grows in fields, and the life in the oceans. Understanding buffers and pH helps you make sense of medical tests, dental advice, farming practices and environmental change. It’s a striking example of how one chemical idea connects your body to the whole planet.
+
+##### LESSON
+id: chemistry.carbon.1
+title: Carbon: The Backbone of Life
+minutes: 15
+check: In your own words: why can carbon form such an enormous variety of compounds, what did Wöhler’s experiment show, and what are the four main types of biological molecules?
+
+=== hook
+In **2004**, two physicists at the University of Manchester, **Andre Geim** and **Konstantin Novoselov**, held regular Friday evening sessions where they tried unusual experiments. One involved taking a lump of graphite, the material in pencils, and repeatedly peeling off thin layers with ordinary **sticky tape**.
+
+By folding and peeling the tape again and again, they eventually isolated a sheet of carbon just **one atom thick**: **graphene**. Many scientists had thought such a thin sheet couldn’t exist on its own. It turned out to be remarkably strong, flexible, transparent and an excellent conductor of electricity. Geim and Novoselov won the **2010 Nobel Prize in Physics**. Carbon, it seems, never stops surprising us.
+
+=== core
+Carbon is the sixth element in the periodic table, with **4 valence electrons**. That simple fact makes it extraordinary.
+
+With four valence electrons, a carbon atom can form **four** strong covalent bonds, more than most other common elements. It can bond with other carbon atoms to form **long chains**, **branched chains** and **rings**, as well as bonding with hydrogen, oxygen, nitrogen, sulphur, phosphorus and other elements. It can form single, double and triple bonds.
+
+As a result, carbon can form an almost limitless variety of compounds, far more than all other elements combined: chemists have described many millions of carbon compounds. The study of carbon compounds is called **organic chemistry**, and it’s the chemistry of all known life.
+
+=== text The end of “vital force”
+For centuries, many scientists believed that the substances found in living things, like sugars, proteins and urea, were fundamentally different from those in non-living things, and could only be made by living organisms, through a mysterious “**vital force**”. This idea was called **vitalism**.
+
+In **1828**, the German chemist **Friedrich Wöhler** heated a non-living chemical, ammonium cyanate, and produced **urea**, a compound found in urine, previously thought to come only from living bodies. He wrote excitedly to a colleague that he could make urea without needing kidneys.
+
+Vitalism didn’t collapse overnight, but Wöhler’s work, and later syntheses, showed that the chemistry of life follows the same rules as all other chemistry. Living things are made of extraordinary, complex arrangements of ordinary atoms.
+
+=== callout analogy
+Think of carbon atoms as the ultimate building blocks, like a construction toy piece with four connectors. With just one type of piece that connects in four directions, you could build straight lines, branching trees, rings, cages and endless combinations. Add a few other types of pieces, like hydrogen, oxygen and nitrogen, and the possibilities become practically infinite. That’s why carbon can build everything from petrol to DNA.
+
+=== text Hydrocarbons and functional groups
+The simplest organic compounds are **hydrocarbons**, made only of carbon and hydrogen:
+
+- **Methane** (CH₄): one carbon atom, the main component of natural gas.
+- **Propane** and **butane**: three and four carbons, the main components of LPG cooking gas.
+- **Octane**: eight carbons, a component of petrol.
+- Longer chains form waxes and, eventually, the polymers in plastics.
+
+Adding other atoms creates **functional groups**, clusters of atoms that give molecules particular properties:
+
+- **Alcohols** contain an oxygen-hydrogen group: **ethanol** is the alcohol in alcoholic drinks and is also used as a fuel; India blends it into petrol.
+- **Carboxylic acids** contain a carbon-oxygen group that makes them acidic: **acetic acid** in vinegar, **citric acid** in citrus fruits.
+- Other groups create the smells and flavours of fruits, the active ingredients of medicines and the colours of dyes.
+
+=== text Carbon’s many forms
+As you saw in the bonds lessons, pure carbon comes in several forms, called **allotropes**:
+
+- **Diamond**: a rigid 3D network, extremely hard.
+- **Graphite**: stacked flat sheets, soft and conductive.
+- **Graphene**: a single layer of graphite, one atom thick, about 200 times stronger than steel by weight, and an excellent conductor. Researchers are exploring uses in electronics, batteries, sensors and composite materials, though large-scale applications have developed more slowly than early hype suggested.
+- **Fullerenes**: hollow cage-like molecules, the most famous being **buckminsterfullerene** (C₆₀), shaped like a football, discovered in **1985** and named after the architect Buckminster Fuller, who designed geodesic domes.
+- **Carbon nanotubes**: graphene rolled into tiny cylinders, extremely strong and conductive.
+
+=== steps The four great families of biological molecules
+- **Carbohydrates**: sugars and starches, made of carbon, hydrogen and oxygen. Glucose provides energy, as you saw in the Biology region; starch stores energy in plants; **cellulose** forms plant cell walls and is the most abundant organic compound on Earth.
+- **Lipids**: fats, oils and related molecules. They store energy densely, form the membranes surrounding every cell and make up some hormones.
+- **Proteins**: long chains of **amino acids**, folded into complex shapes, doing most of the work in cells: enzymes, structural materials, transport molecules and antibodies.
+- **Nucleic acids**: **DNA** and **RNA**, carrying genetic information in sequences of bases, as you saw in the Biology region.
+- All four are built mainly from carbon frameworks, using a small number of other elements. Together, they make up most of the dry mass of living things.
+
+=== reveal If carbon is so good at forming life’s molecules, could life elsewhere be based on silicon instead?
+**Silicon** sits directly below carbon in the periodic table, with the same four valence electrons, so science fiction writers have long imagined silicon-based life. But silicon has major disadvantages. Silicon atoms are larger, so silicon–silicon bonds are weaker than carbon–carbon bonds, making long, stable silicon chains difficult. Silicon reacts readily with oxygen, forming solid silicon dioxide, essentially sand and quartz, while carbon forms carbon dioxide, a gas that living things can easily release and absorb. Silicon also forms far fewer stable double bonds. Most scientists think carbon is much better suited to building the complex, flexible molecules life needs, although no one can rule out exotic chemistries in conditions very different from Earth’s.
+
+=== keypoints
+- Carbon’s **four valence electrons** let it form four bonds, building **chains**, **branches** and **rings**: millions of compounds.
+- **Organic chemistry** studies carbon compounds, the chemistry of life.
+- **Wöhler (1828)** made urea from non-living chemicals, undermining **vitalism**.
+- **Hydrocarbons** (methane, propane, octane) contain only carbon and hydrogen; **functional groups** like alcohols and acids add properties.
+- Carbon **allotropes** include **diamond**, **graphite**, **graphene** (isolated in **2004** with sticky tape; Nobel **2010**), **fullerenes** and **nanotubes**.
+- Life’s four molecule families: **carbohydrates**, **lipids**, **proteins** and **nucleic acids**.
+- Silicon is a poor substitute for carbon in building life’s complex molecules.
+
+=== why
+Carbon chemistry is the chemistry of life, food, fuels, plastics and medicines. Understanding why carbon is so versatile connects chemistry to biology, energy and materials, and explains why carbon dioxide, a simple carbon compound, matters so much for the climate. Next, you’ll explore how humans use carbon chemistry to make fuels, plastics and medicines, and the problems that come with them.

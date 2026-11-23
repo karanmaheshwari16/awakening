@@ -1,0 +1,85 @@
+{
+  "id": "chemistry.bonds.2",
+  "region": "chemistry",
+  "topic": "bonds",
+  "level": 2,
+  "prerequisites": [
+    "chemistry.bonds.1"
+  ],
+  "title": "Molecules in 3D: Shape, Polarity and Weird Water",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the late **1950s**, a drug called **thalidomide** was widely sold in many countries, mainly as a sedative and to ease morning sickness in pregnant women. It seemed safe. But by the early **1960s**, doctors realised it was causing severe birth defects, and around **10,000** babies worldwide were affected, many born with shortened or missing limbs.\n\nThalidomide molecules come in two forms that are **mirror images** of each other, like your left and right hands. Scientists long believed one form was the useful sedative and the other caused the harm, though it turned out the body converts one form into the other, so separating them wouldn’t have prevented the tragedy. The disaster transformed drug regulation worldwide and showed that the **3D shape** of molecules can matter enormously."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how atoms bond together. But molecules aren’t flat diagrams on a page; they’re three-dimensional objects with specific **shapes**. And a molecule’s shape determines much of how it behaves: how it reacts, how it interacts with other molecules, whether it dissolves, and how it acts in the body.\n\nA simple rule helps predict molecular shapes. Electron pairs around a central atom, both those in bonds and unshared pairs, **repel each other**, so they arrange themselves as far apart as possible. This idea is called **VSEPR theory** (valence shell electron pair repulsion)."
+    },
+    {
+      "type": "text",
+      "heading": "Common molecular shapes",
+      "md": "- **Carbon dioxide** (CO₂): **linear**, with the two oxygen atoms on opposite sides of the carbon, at 180 degrees.\n- **Methane** (CH₄): **tetrahedral**, with four hydrogen atoms pointing to the corners of a triangular pyramid, at about **109.5 degrees** to each other, as far apart as possible in three dimensions.\n- **Ammonia** (NH₃): a **pyramid**, with three hydrogens and one unshared pair of electrons on the nitrogen.\n- **Water** (H₂O): **bent**, at an angle of about **104.5 degrees**, because the oxygen has two unshared pairs of electrons that push the hydrogens closer together.\n\nWater’s bent shape turns out to be one of the most important facts in all of chemistry and biology."
+    },
+    {
+      "type": "text",
+      "heading": "Polar molecules",
+      "md": "As you saw in the elements lessons, some atoms are more **electronegative** than others: they pull shared electrons towards themselves. In a covalent bond between two different atoms, the electrons may be shared **unequally**.\n\nIn water, oxygen is much more electronegative than hydrogen, so it pulls the shared electrons closer. The oxygen end of the molecule becomes slightly **negative**, and the hydrogen ends slightly **positive**. Because water is bent, these charges don’t cancel out: the molecule has a positive side and a negative side. It’s **polar**.\n\nCarbon dioxide also has polar bonds, but because the molecule is **linear and symmetrical**, the two pulls cancel out, and the molecule as a whole is **non-polar**. Shape decides polarity."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of polarity like a tug-of-war. In carbon dioxide, two equally strong teams pull in exactly opposite directions, so the rope doesn’t move: no overall polarity. In water, the two hydrogen “teams” both pull from one side, at an angle, while the oxygen pulls from the other, so there’s an overall imbalance. The molecule has a distinctly positive end and a negative end."
+    },
+    {
+      "type": "text",
+      "heading": "Like dissolves like",
+      "md": "A useful rule of thumb in chemistry is **“like dissolves like”**:\n\n- **Polar** substances tend to dissolve in **polar** solvents. Salt and sugar dissolve well in water.\n- **Non-polar** substances tend to dissolve in **non-polar** solvents. Oils and fats dissolve in petrol or other oils, but not in water.\n\nThat’s why **oil and water don’t mix**. Water molecules are strongly attracted to each other through hydrogen bonds; non-polar oil molecules can’t join in, so they’re squeezed out, forming a separate layer.\n\n**Soap** solves this problem with clever molecular design. Each soap molecule has a long, non-polar tail that dissolves in grease, and a polar, charged head that dissolves in water. Soap molecules surround oily dirt with their tails pointing inward and heads outward, forming tiny spheres that can be rinsed away. This is also why washing hands with soap breaks apart many viruses, which have fatty outer coats."
+    },
+    {
+      "type": "text",
+      "heading": "Mirror-image molecules",
+      "md": "Some molecules exist in two forms that are **mirror images** of each other but can’t be superimposed, just as your left hand can’t be placed exactly over your right. This property is called **chirality**, from the Greek word for hand.\n\nMirror-image molecules can behave very differently in the body, because many biological molecules, like enzymes and receptors, are themselves chiral, like a left-handed glove that only fits a left hand. For example, one form of the molecule **carvone** smells like **spearmint**, while its mirror image smells like **caraway** seeds. Many drugs are now carefully developed and tested as a single mirror-image form."
+    },
+    {
+      "type": "steps",
+      "title": "Why water is so unusual",
+      "items": [
+        "**Ice floats.** In most substances, the solid is denser than the liquid, so it sinks. But when water freezes, hydrogen bonds lock molecules into an open, hexagonal lattice that takes up **more space** than liquid water. Ice is about **9%** less dense, so it floats.",
+        "That’s crucial for life: lakes and seas freeze from the **top down**, and the floating ice insulates the water below, letting fish and other life survive the winter.",
+        "**High boiling point**: for such a small, light molecule, water boils at a surprisingly high temperature, 100 °C. Without hydrogen bonds holding its molecules together, water would be a gas at room temperature, and Earth would have no oceans.",
+        "**High heat capacity**: water absorbs a lot of heat before its temperature rises. That’s why oceans moderate climate, as you saw in the Earth region, and why sweating cools your body so effectively.",
+        "**Surface tension**: hydrogen bonds make water’s surface act like a thin elastic skin, which lets some insects walk on water and helps water rise up thin tubes in plants.",
+        "**A universal solvent**: water’s polarity lets it dissolve more substances than almost any other liquid, which is why it’s the medium in which the chemistry of life takes place."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "How can a gecko walk up a glass wall and hang from the ceiling?",
+      "md": "Geckos’ feet are covered with millions of tiny hair-like structures called **setae**, each branching into hundreds of even tinier tips. These come into extremely close contact with surfaces, close enough for very weak attractions between molecules, called **van der Waals forces**, to act. Each individual force is tiny, but added up across billions of contact points, they’re strong enough to support the gecko’s weight many times over. No glue or suction is involved. Scientists have studied gecko feet to design new types of reusable dry adhesives, an example of **biomimicry**, learning from nature to create new materials."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Molecules have **3D shapes**, predicted by **VSEPR**: electron pairs repel and spread out (CO₂ **linear**, methane **tetrahedral** at 109.5°, water **bent** at 104.5°).",
+        "Unequal sharing of electrons creates **polar** bonds; whether a molecule is **polar** depends on its **shape**.",
+        "**Like dissolves like**: polar dissolves polar, non-polar dissolves non-polar; **soap** bridges oil and water.",
+        "**Chiral** molecules come in mirror-image forms that can act differently in the body, as **thalidomide** and **carvone** show.",
+        "Water is unusual: **ice floats**, it has a **high boiling point**, **high heat capacity**, **surface tension** and dissolves many substances, all thanks to **hydrogen bonds**.",
+        "**Van der Waals forces** let geckos cling to walls."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The shapes of molecules explain why medicines work, why soap cleans, why oil and water separate and why water makes life on Earth possible. Molecular shape is the hidden reason behind countless everyday phenomena. Next, you’ll explore what happens when molecules react and transform into entirely new substances."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why are some molecules polar, why don’t oil and water mix, and why does ice float when most solids sink in their own liquid?"
+  }
+}

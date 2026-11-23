@@ -1,0 +1,83 @@
+{
+  "id": "chemistry.bonds.1",
+  "region": "chemistry",
+  "topic": "bonds",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Chemical Bonds: How Atoms Hold Together",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "**Sodium** is a soft, shiny metal that reacts violently with water and can burst into flames. **Chlorine** is a greenish-yellow poisonous gas, used as a chemical weapon in World War I. Put them together, and they react vigorously to form something completely different: white crystals that you sprinkle on your food every day. **Table salt**.\n\nHow can two dangerous substances combine into something so harmless? The answer lies in what happens to their electrons when they bond. The properties of a substance depend not just on which atoms it contains, but on **how** those atoms are joined."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **chemical bond** is an attraction that holds atoms together in molecules or larger structures. Bonds form because, as you saw in the previous lesson, atoms tend to become more stable by gaining, losing or sharing electrons to fill their outer shells.\n\nIn **1916**, the American chemist **Gilbert N. Lewis** proposed that atoms bond by **sharing pairs of electrons**, and introduced simple diagrams, still used today, showing valence electrons as dots around atomic symbols.\n\nThere are three main types of strong chemical bond:\n\n1. **Ionic bonds**: electrons are **transferred** from one atom to another.\n2. **Covalent bonds**: electrons are **shared** between atoms.\n3. **Metallic bonds**: electrons are **pooled** among many metal atoms."
+    },
+    {
+      "type": "text",
+      "heading": "Ionic bonds",
+      "md": "When a metal like sodium meets a non-metal like chlorine, sodium **gives up** its single valence electron, and chlorine **takes** it.\n\n- Sodium, having lost a negative electron, becomes a **positive ion**, Na⁺, with a full outer shell.\n- Chlorine, having gained an electron, becomes a **negative ion**, Cl⁻, also with a full outer shell.\n\nOpposite charges attract strongly, so the ions cling together. In table salt, millions of sodium and chloride ions pack into a regular, repeating 3D pattern called a **crystal lattice**, which is why salt forms neat cube-shaped crystals.\n\nIonic compounds tend to:\n\n- Have **high melting points**, because the strong attractions between ions take a lot of energy to break. Salt melts at about 801 °C.\n- Be **hard but brittle**: shifting the layers brings like charges together, which repel, so the crystal shatters.\n- **Conduct electricity when melted or dissolved in water**, because the ions can then move, but not as solids."
+    },
+    {
+      "type": "text",
+      "heading": "Covalent bonds",
+      "md": "When two non-metal atoms bond, neither can easily take electrons from the other. Instead, they **share** pairs of electrons, each atom counting the shared electrons towards its full outer shell.\n\n- In a **hydrogen molecule** (H₂), two hydrogen atoms share one pair of electrons.\n- In **water** (H₂O), an oxygen atom shares one pair of electrons with each of two hydrogen atoms.\n- In **oxygen gas** (O₂), two oxygen atoms share **two** pairs of electrons, a **double bond**.\n- In **nitrogen gas** (N₂), the atoms share **three** pairs, a **triple bond**, which is very strong. That’s why nitrogen gas is so unreactive, and why turning it into useful compounds, as you’ll see in the reactions lessons, is so difficult.\n\nCovalent bonds create **molecules**: distinct groups of atoms bonded together. Many covalent substances, like water, carbon dioxide and sugar, have relatively low melting and boiling points, because, although the bonds within each molecule are strong, the attractions **between** molecules are much weaker."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an ionic bond as a transaction: one atom gives an electron to another, and the two are then held together by attraction, like magnets with opposite poles. A covalent bond is like two people holding the same rope: neither owns it, but sharing it keeps them connected. A metallic bond is like a crowd sharing a common pool: everyone contributes, and the pool holds the whole community together."
+    },
+    {
+      "type": "text",
+      "heading": "Metallic bonds",
+      "md": "In metals, atoms give up their valence electrons into a shared **“sea” of electrons** that moves freely throughout the whole structure, while the positive metal ions sit in a regular arrangement.\n\nThis explains the characteristic properties of metals:\n\n- **Conducting electricity**: the free electrons can flow when a voltage is applied, as you saw in the Physics region.\n- **Conducting heat**: moving electrons carry energy quickly.\n- **Malleability and ductility**: layers of metal ions can slide past each other without breaking the bond, because the electron sea moves with them. That’s why metals can be hammered into sheets or drawn into wires, whereas salt crystals shatter.\n- **Shininess**: the free electrons interact with light and reflect it."
+    },
+    {
+      "type": "steps",
+      "title": "Same atoms, different bonds: diamond and graphite",
+      "items": [
+        "**Diamond** and **graphite**, the “lead” in pencils, are both made of pure **carbon**. Yet diamond is the hardest natural material, transparent and an electrical insulator, while graphite is soft, black, slippery and conducts electricity.",
+        "The difference is entirely in how the carbon atoms are bonded.",
+        "In **diamond**, each carbon atom forms strong covalent bonds with **four** others, in a rigid 3D network extending throughout the crystal. There are no weak points and no free electrons, so diamond is extremely hard and doesn’t conduct electricity.",
+        "In **graphite**, each carbon atom bonds with **three** others, forming flat sheets of hexagons. The sheets are held together only by weak forces, so they slide over each other easily, which is why graphite leaves a mark on paper and works as a lubricant.",
+        "In graphite, each carbon’s fourth electron is free to move along the sheets, so graphite **conducts electricity**.",
+        "Different forms of the same element are called **allotropes**. You’ll meet more carbon allotropes, including graphene, in the carbon lessons."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Weaker attractions between molecules",
+      "md": "Besides strong chemical bonds, there are weaker forces **between** molecules, called **intermolecular forces**. They don’t hold atoms together within a molecule, but they determine whether a substance is a solid, liquid or gas at room temperature.\n\nThe most important for life is the **hydrogen bond**: a weak attraction between a hydrogen atom bonded to a strongly electronegative atom, like oxygen or nitrogen, and another such atom nearby. Hydrogen bonds hold the two strands of **DNA** together, which, as you saw in the Biology region, lets them unzip for copying. They also give water many of its unusual properties, which you’ll explore in the next lesson."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why is salt water, but not pure water, a good conductor of electricity?",
+      "md": "Pure water conducts electricity very poorly, because it contains almost no free **ions** to carry charge. When salt dissolves, water molecules pull the sodium and chloride ions apart from their crystal lattice, surrounding them and letting them move freely through the solution. These moving ions carry electric current. Most tap water, river water and seawater contain dissolved salts and minerals, so they do conduct electricity, which is why electrical appliances and water are a dangerous combination, as you saw in the Physics region’s electricity lessons. Our bodies also rely on dissolved ions, like sodium and potassium, to send electrical signals along nerves."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Chemical bonds** hold atoms together as atoms gain, lose or share electrons; **Lewis (1916)** described bonding as sharing electron pairs.",
+        "**Ionic bonds**: electrons are **transferred** (e.g. sodium to chlorine), forming oppositely charged ions in a **crystal lattice**; high melting points, brittle, conduct when molten or dissolved.",
+        "**Covalent bonds**: electrons are **shared** between non-metals, forming **molecules**; double and triple bonds share more pairs.",
+        "**Metallic bonds**: a “**sea**” of free electrons explains why metals conduct, shine and can be shaped.",
+        "**Diamond** and **graphite** are both carbon, but different bonding gives completely different properties: they’re **allotropes**.",
+        "**Hydrogen bonds** are weak forces between molecules, crucial for **DNA** and **water**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Bonds explain why substances have the properties they do: why salt dissolves, why metals conduct, why diamonds are hard and why water is liquid. Understanding them lets you see the everyday world, from the food you eat to the phone in your hand, as an arrangement of atoms held together in particular ways. Next, you’ll explore how the shapes of molecules matter, and why water is so unusual."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are ionic, covalent and metallic bonds, and how can the same element, carbon, form both diamond and graphite?"
+  }
+}

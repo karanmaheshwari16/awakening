@@ -1,0 +1,85 @@
+{
+  "id": "chemistry.materials.2",
+  "region": "chemistry",
+  "topic": "materials",
+  "level": 2,
+  "prerequisites": [
+    "chemistry.materials.1"
+  ],
+  "title": "Semiconductors, Batteries and Materials of the Future",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the early **1990s**, almost every major electronics company had tried and failed to make a bright, efficient **blue light-emitting diode (LED)**. Red and green LEDs existed, but without blue, you couldn’t combine colours to make white light. Many researchers had given up.\n\nWorking with limited resources, **Shuji Nakamura**, an engineer at a small Japanese chemical company, along with the scientists **Isamu Akasaki** and **Hiroshi Amano**, who had been working on the problem for years, finally succeeded, using a difficult material called gallium nitride. Their breakthrough made possible the white **LED lights** now found in homes, phones, televisions and streetlights worldwide, using a fraction of the energy of old bulbs. They shared the **2014 Nobel Prize in Physics**. The right material, it turns out, can change the world."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met materials like metals, ceramics and composites. This lesson explores materials that control **electricity** and **energy**, the foundations of modern electronics, renewable energy and electric vehicles.\n\nMaterials can be grouped by how well they conduct electricity:\n\n- **Conductors**, like copper and silver, let electrons flow easily, as you saw in the bonds lessons.\n- **Insulators**, like rubber, glass and most plastics, barely conduct at all.\n- **Semiconductors**, like **silicon** and **germanium**, are in between, and their conductivity can be precisely controlled.\n\nThat controllability is what makes semiconductors so valuable: they can act like switches, turning current on and off, which, as you saw in the Technology region, is the basis of all digital electronics."
+    },
+    {
+      "type": "text",
+      "heading": "Doping: controlling semiconductors",
+      "md": "Pure silicon conducts electricity only weakly. Its conductivity can be dramatically increased by adding tiny, carefully controlled amounts of other elements, a process called **doping**.\n\n- Adding an element with **one more** valence electron than silicon, like **phosphorus**, provides extra free electrons that can carry current. This creates **n-type** silicon (n for negative).\n- Adding an element with **one fewer** valence electron, like **boron**, creates gaps where electrons are missing, called **holes**, which behave like positive charges moving through the material. This creates **p-type** silicon (p for positive).\n\nWhen n-type and p-type silicon are placed together, they form a **p–n junction**, where current flows easily in one direction but not the other. This is the basis of the **diode**, and combinations of junctions form the **transistor**, which was invented at Bell Labs in **1947** by **John Bardeen**, **Walter Brattain** and **William Shockley**, who shared the 1956 Nobel Prize. The transistor made computers, mobile phones and nearly all modern electronics possible."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of pure silicon as a busy car park where almost every space is filled and cars can barely move. Doping with phosphorus is like adding extra cars that have to drive around looking for spaces: there’s suddenly lots of movement. Doping with boron is like removing some cars, creating empty spaces that neighbouring cars can move into, so the empty spaces themselves seem to move through the car park. Either way, traffic, electric current, can now flow."
+    },
+    {
+      "type": "text",
+      "heading": "Semiconductors that make light and capture it",
+      "md": "The same p–n junction idea powers two crucial technologies:\n\n**LEDs**: when electrons cross a p–n junction and fill holes, they release energy as **light**. The colour depends on the semiconductor material and the size of the energy gap involved, the quantum energy levels you met in the Physics region. LEDs are far more efficient and longer-lasting than old incandescent bulbs. India’s **UJALA** programme, launched in **2015**, distributed hundreds of millions of LED bulbs, significantly cutting electricity use.\n\n**Solar cells**: work in reverse. When light hits a p–n junction, its energy frees electrons, creating an electric current, the photovoltaic effect you met in the Physics region. Most solar panels use silicon. Researchers are developing new materials, like **perovskites**, which could make solar cells cheaper and more efficient, though durability remains a challenge."
+    },
+    {
+      "type": "text",
+      "heading": "Lithium-ion batteries",
+      "md": "A **battery** stores energy in chemical form and releases it as electricity. It has two electrodes, a positive **cathode** and a negative **anode**, separated by an **electrolyte** that allows ions, but not electrons, to move between them.\n\nIn a **lithium-ion battery**:\n\n- When the battery is **charging**, lithium ions move from the cathode, through the electrolyte, and are stored in the anode, usually made of graphite.\n- When the battery is **in use**, the lithium ions move back to the cathode, while electrons flow through the external circuit, powering your device.\n\nLithium is the lightest metal and gives up electrons easily, so lithium-ion batteries can store a lot of energy for their weight. Developed through work by **John Goodenough**, **M. Stanley Whittingham** and **Akira Yoshino**, who shared the **2019 Nobel Prize in Chemistry**, they were first sold commercially by Sony in **1991**. They now power phones, laptops and electric vehicles, and are increasingly used to store solar and wind energy for power grids. Their costs have fallen dramatically, by around **90%** over the 2010s, helping make electric vehicles affordable."
+    },
+    {
+      "type": "steps",
+      "title": "Critical minerals: the new resource race",
+      "items": [
+        "Modern technologies depend on a set of **critical minerals**: lithium, cobalt, nickel and graphite for batteries; rare earth elements for powerful magnets in electric motors and wind turbines; copper for wiring; and silicon and gallium for electronics and solar panels.",
+        "Demand for these minerals is rising rapidly with the growth of electric vehicles and renewable energy.",
+        "Supply is highly concentrated. The **Democratic Republic of Congo** produces around **70%** of the world’s cobalt, where mining has been linked to dangerous conditions and child labour in some small-scale mines. **China** dominates the **processing** of many critical minerals, including most rare earths, lithium and graphite.",
+        "This concentration creates economic and geopolitical risks, and many countries, including India, the US and EU members, have launched strategies to secure supplies, diversify sources and develop domestic processing. India has discovered lithium deposits, including in Jammu and Kashmir, though turning discoveries into production takes many years.",
+        "**Recycling** batteries and electronics, and developing batteries that use more abundant materials, like **sodium-ion** batteries, can reduce dependence on scarce minerals."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Superconductors and new frontiers",
+      "md": "In **1911**, the Dutch physicist **Heike Kamerlingh Onnes** discovered that mercury, cooled to about **−269 °C**, close to absolute zero, conducted electricity with **zero resistance**. This is **superconductivity**. Superconducting magnets are used in **MRI** scanners, particle accelerators and some experimental trains that levitate above their tracks.\n\nThe catch is that known superconductors need extreme cold, expensive to maintain. A superconductor that worked at room temperature and normal pressure would transform power grids, electronics and transport. In **2023**, a team of researchers claimed to have found one, a material called **LK-99**. The claim went viral, but laboratories around the world quickly tested it and found it was not a superconductor. It was a fast, public example of science’s self-correction in action.\n\nOther frontiers include **nanomaterials**, engineered at the scale of billionths of a metre, with unusual properties; **self-healing materials** that repair cracks; and materials designed with the help of AI, which can predict new compounds’ properties before they’re made."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do lithium-ion batteries sometimes catch fire, and how is this being addressed?",
+      "md": "If a lithium-ion battery is damaged, overcharged, poorly made or overheated, a short circuit inside can start generating heat. The heat can trigger chemical reactions that release more heat, a dangerous chain reaction called **thermal runaway**, which can lead to fire or explosion. The flammable liquid electrolyte makes this worse. Safety measures include battery management systems that monitor temperature and charging, protective casings and separators, and strict manufacturing standards. Researchers are developing **solid-state batteries**, which replace the flammable liquid electrolyte with a solid one, potentially making batteries safer and able to store more energy. For users, the practical advice is to use reliable chargers, avoid damaged batteries and avoid exposing devices to extreme heat."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Semiconductors** like **silicon** have controllable conductivity, between conductors and insulators.",
+        "**Doping** creates **n-type** (extra electrons) and **p-type** (holes) silicon; a **p–n junction** forms diodes and **transistors** (invented **1947**).",
+        "**LEDs** turn electricity into light (blue LED: Nobel **2014**); **solar cells** turn light into electricity.",
+        "**Lithium-ion batteries** store energy by moving lithium ions between electrodes (Nobel **2019**); their costs fell about **90%** in the 2010s.",
+        "**Critical minerals** like lithium, cobalt and rare earths are concentrated in a few countries, raising supply and ethical concerns.",
+        "**Superconductors** conduct with zero resistance but need extreme cold; the **LK-99** claim (2023) was quickly disproved.",
+        "Battery fires come from **thermal runaway**; **solid-state batteries** may be safer."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The materials in this lesson power your phone, light your home and will shape the transition to clean energy. Understanding them explains how electronics work, why electric vehicles have become practical and why minerals have become a matter of global politics. Materials science is where chemistry, physics and engineering meet to build the future."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is a semiconductor and how does doping change it, how does a lithium-ion battery store energy, and why are critical minerals a growing concern?"
+  }
+}

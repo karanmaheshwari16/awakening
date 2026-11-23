@@ -1,0 +1,86 @@
+{
+  "id": "chemistry.carbon.2",
+  "region": "chemistry",
+  "topic": "carbon",
+  "level": 2,
+  "prerequisites": [
+    "chemistry.carbon.1"
+  ],
+  "title": "Fuels, Plastics and Medicines",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "For thousands of years, healers in many cultures, from ancient Egypt and Greece to China and among Indigenous peoples of the Americas, used preparations of **willow bark** to relieve pain and fever. In the 19th century, chemists identified the active ingredient, a compound called **salicin**, and converted it into **salicylic acid**. It worked, but it was harsh on the stomach.\n\nIn **1897**, at the German company **Bayer**, a chemist named **Felix Hoffmann** made a modified version, **acetylsalicylic acid**, that was gentler. Bayer sold it as **Aspirin** from 1899. More than a century later, it remains one of the most widely used medicines in the world, taken for pain, fever and, in low doses, to help prevent heart attacks and strokes in some people. Its story captures how organic chemistry transforms natural substances into the products that shape modern life."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that carbon can form an almost limitless variety of compounds. Humans have learned to exploit this, especially using **crude oil**, **natural gas** and **coal**: the fossilised remains of ancient organisms, rich in carbon compounds formed over millions of years.\n\nThese fossil resources are used in two main ways:\n\n1. As **fuels**, burned for energy.\n2. As **raw materials** (feedstocks) for making plastics, fertilisers, medicines, dyes, solvents and thousands of other products, in an industry known as **petrochemicals**."
+    },
+    {
+      "type": "text",
+      "heading": "Refining crude oil",
+      "md": "**Crude oil**, pumped from underground, is a thick mixture of many different hydrocarbons, from small molecules with a few carbon atoms to very long chains. To be useful, it must be separated, using **fractional distillation**:\n\n- Crude oil is heated until most of it becomes vapour, and fed into a tall **fractionating column**, hot at the bottom and cooler at the top.\n- As the vapours rise, they cool. Different hydrocarbons condense back into liquids at different heights, depending on their boiling points.\n- **Small molecules** with low boiling points, like the gases used in LPG, rise to the top.\n- Higher up, still fairly light liquids condense: **petrol** (gasoline) and **naphtha**, a raw material for chemicals.\n- Further down: **kerosene** (used for jet fuel and, in some homes, for lamps and stoves), then **diesel**.\n- At the bottom: heavy **fuel oils**, **lubricating oils**, waxes and **bitumen**, used for road surfaces.\n\nRefineries also use processes like **cracking**, which breaks large, less useful molecules into smaller, more valuable ones such as petrol and the building blocks of plastics."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of fractional distillation like a crowd of people of different heights climbing a tall staircase, where each floor has a doorway at a different height. The smallest, lightest people (small molecules) can keep climbing to the top floors; heavier ones get off at lower floors. By the end, each floor has collected people of similar size. A fractionating column sorts hydrocarbons by how easily they boil."
+    },
+    {
+      "type": "text",
+      "heading": "Polymers and plastics",
+      "md": "**Polymers** are giant molecules made by linking together many small repeating units, called **monomers**, like beads on a necklace. Many natural materials are polymers: proteins, DNA, cellulose, starch, silk, wool and natural rubber.\n\n**Plastics** are synthetic polymers, mostly made from petrochemicals:\n\n- **Bakelite**, invented by **Leo Baekeland** in **1907**, was the first fully synthetic plastic, used in early telephones, radios and electrical fittings.\n- **Polyethylene** (polythene), the most common plastic, was discovered by accident at the British company ICI in **1933**. It’s used in plastic bags, bottles and packaging.\n- Others include **PVC** (pipes, window frames), **polystyrene** (packaging, disposable cups), **nylon** (clothing, ropes), **PET** (drink bottles, polyester fabrics) and many more.\n\nPlastics are lightweight, cheap, durable, waterproof and easily shaped, which made them enormously useful in packaging, medicine, construction, transport and electronics."
+    },
+    {
+      "type": "text",
+      "heading": "The plastic problem",
+      "md": "Their durability is also their biggest problem. Most plastics don’t biodegrade: they can persist in the environment for decades to centuries, breaking into ever-smaller fragments, called **microplastics**, as you saw in the Earth region.\n\n- Global plastic production has grown to over **400 million tonnes** a year.\n- A widely cited 2017 study estimated that only about **9%** of all plastic ever made had been recycled; much of the rest ended up in landfills, was burned or leaked into the environment.\n- Recycling is difficult because there are many types of plastic, often mixed together or contaminated with food, and recycled plastic is often lower in quality.\n\nResponses include reducing single-use plastics: **India banned many single-use plastic items** from **2022**, and many other countries have restricted plastic bags, straws and packaging. Other approaches include designing products for reuse and recycling, making producers responsible for their plastic waste, and developing **biodegradable** or **bio-based** plastics, though some “biodegradable” plastics only break down under specific industrial conditions. Negotiations on a global plastics treaty have been under way, but countries have disagreed over whether to limit plastic production."
+    },
+    {
+      "type": "steps",
+      "title": "From natural remedy to modern medicine",
+      "items": [
+        "**Observation**: traditional healers notice that a plant, like willow bark, relieves symptoms.",
+        "**Isolation**: chemists extract and identify the active compound, such as salicin.",
+        "**Modification**: they alter the molecule to improve its effectiveness or reduce side effects, creating aspirin.",
+        "**Testing**: modern medicines go through laboratory studies and the clinical trial phases you met in the Biology region, to establish safety and effectiveness.",
+        "**Manufacturing**: chemists develop efficient ways to make the medicine reliably and cheaply at scale.",
+        "Many important medicines came from nature this way: **morphine** from opium poppies, **quinine** from cinchona bark (for malaria), **penicillin** from mould, and the cancer drug **paclitaxel** from the Pacific yew tree. Artemisinin, a key malaria drug, was developed by the Chinese scientist **Tu Youyou** from a herb used in traditional Chinese medicine, earning her the **2015 Nobel Prize**."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Generic medicines and India",
+      "md": "When a company invents a new drug, it typically receives a **patent**, giving it exclusive rights to sell the drug for a period, often 20 years from filing, to reward the high cost of research and development. After the patent expires, other manufacturers can make **generic** versions: chemically identical copies, sold much more cheaply.\n\n**India** became one of the world’s largest producers of generic medicines, partly because its patent laws, until 2005, protected manufacturing processes rather than the drugs themselves, allowing Indian companies to develop alternative ways of making them. Indian generic manufacturers dramatically cut the cost of HIV medicines in developing countries in the 2000s, as you saw in the Biology region. India supplies a large share of the generic medicines used in the US and many lower-income countries, which is why it’s often called “the pharmacy of the world”. Balancing incentives for innovation with affordable access to medicines remains a major global debate."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Natural products are often marketed as safer than chemicals. Is that true?",
+      "md": "Not necessarily. Everything is made of chemicals: water, vitamins and the compounds in fruits are chemicals, just as medicines are. Whether something is natural or synthetic tells you little about its safety. Many natural substances are highly toxic: **ricin** from castor beans, **aconite** from monkshood, **arsenic** and the toxins in poisonous mushrooms. Meanwhile, many synthetic substances are safe at normal doses. What matters is the specific substance and the **dose**: as the 16th-century physician **Paracelsus** observed, the dose makes the poison. Even water can be dangerous in extreme amounts. Herbal remedies can also interact with prescription medicines and may vary in strength and purity. The right question isn’t “natural or chemical?” but “what is it, how much, and what does the evidence say?”"
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Fossil fuels are used as **fuels** and as raw materials for **petrochemicals**.",
+        "**Fractional distillation** separates crude oil by boiling point into products like **LPG**, **petrol**, **kerosene**, **diesel** and **bitumen**; **cracking** breaks large molecules into smaller ones.",
+        "**Polymers** are long chains of repeating **monomers**; plastics like **Bakelite (1907)** and **polyethylene (1933)** transformed modern life.",
+        "Over **400 million tonnes** of plastic are produced a year; only about **9%** of all plastic ever made has been recycled.",
+        "India banned many **single-use plastics** in **2022**.",
+        "**Aspirin** (Hoffmann, 1897) came from willow bark; many medicines originate in nature, like **artemisinin** (Tu Youyou, Nobel 2015).",
+        "India is a major producer of **generic medicines**; “natural” isn’t automatically safer: **the dose makes the poison**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Carbon chemistry gives us the fuels that power transport, the plastics that fill our homes and the medicines that save lives, along with pollution, climate change and plastic waste. Understanding how these products are made helps you make sense of debates about energy, plastics and healthcare, and see past simplistic claims that natural is always good or chemicals are always bad."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how is crude oil separated into useful products, what are polymers and why is plastic pollution such a problem, and how was aspirin developed from a natural remedy?"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "chemistry.elements.2",
+  "region": "chemistry",
+  "topic": "elements",
+  "level": 2,
+  "prerequisites": [
+    "chemistry.elements.1"
+  ],
+  "title": "Electrons and the Logic of the Periodic Table",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Drop a small piece of **lithium** into water and it fizzes gently, skating across the surface. Drop in **sodium** and it whizzes around, melting into a shiny ball, sometimes catching fire. **Potassium** bursts into lilac flames. **Rubidium** and **caesium** react so violently that they can explode, even shattering the container.\n\nAll five are in the same column of the periodic table, the alkali metals, and they all react with water in the same basic way, producing hydrogen gas and heat. But the further down the column you go, the more violent the reaction becomes. Mendeleev organised the table by observing patterns like this. It took the discovery of electrons and quantum physics to explain **why** the patterns exist."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that an element is defined by the number of **protons** in its nucleus, and that Mendeleev arranged elements so that similar ones lined up in columns. But chemistry, how elements react and bond, is controlled almost entirely by their **electrons**.\n\nAs you saw in the Physics region, electrons in atoms can only occupy certain **energy levels**, often pictured as **shells** around the nucleus. Each shell can hold a limited number of electrons:\n\n- The first shell holds up to **2**.\n- The second holds up to **8**.\n- The third holds up to 8 in the simple model used for the lighter elements (with more complex rules for heavier ones).\n\nElectrons fill the lowest available shells first. The electrons in the **outermost** shell are called **valence electrons**, and they determine how an atom behaves chemically."
+    },
+    {
+      "type": "text",
+      "heading": "Why groups behave alike",
+      "md": "Elements in the same **group** (column) have the same number of **valence electrons**, which is why they behave similarly:\n\n- **Group 1 (alkali metals)**: lithium, sodium, potassium… each has **1** valence electron, which they lose easily, making them highly reactive.\n- **Group 17 (halogens)**: fluorine, chlorine, bromine… each has **7** valence electrons, one short of a full outer shell. They eagerly grab an extra electron, making them highly reactive too.\n- **Group 18 (noble gases)**: helium, neon, argon… have **full** outer shells. They’re stable and barely react with anything.\n\nThe **period** (row) number tells you how many shells an atom’s electrons occupy. Sodium, in period 3, has electrons in three shells: 2, 8 and 1."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of atoms as people with different numbers of empty seats in their outer row. Noble gases have every seat filled and are content. Alkali metals have just one person sitting alone in an otherwise empty row, who is very happy to leave. Halogens have one empty seat and are eager to fill it. Much of chemistry is atoms swapping or sharing electrons to fill those outer rows."
+    },
+    {
+      "type": "text",
+      "heading": "The octet rule",
+      "md": "Many atoms tend to react in ways that give them a full outer shell, usually **eight** valence electrons, like the noble gases. This tendency is called the **octet rule** (from the Latin for eight). Hydrogen and helium are exceptions: their single shell is full with **two**.\n\nAtoms can achieve full outer shells by:\n\n- **Losing** electrons (as metals like sodium tend to do), becoming positive **ions**.\n- **Gaining** electrons (as non-metals like chlorine tend to do), becoming negative ions.\n- **Sharing** electrons with other atoms.\n\nYou’ll see how these lead to different kinds of chemical bonds in the next lesson. The octet rule is a useful guide rather than an absolute law; many molecules, especially involving heavier elements, break it."
+    },
+    {
+      "type": "text",
+      "heading": "Trends across the table",
+      "md": "The periodic table shows clear **trends**, which come from how electrons are arranged:\n\n**Atomic size**: atoms get **larger** going **down** a group, because each row adds another shell of electrons. Going **across** a period from left to right, atoms generally get **smaller**: more protons in the nucleus pull the electrons in more tightly, while the electrons are added to the same shell.\n\n**Reactivity of metals**: alkali metals get **more reactive** going down. In larger atoms, the single outer electron is further from the nucleus and shielded by more inner electrons, so it’s held more loosely and lost more easily. That’s why caesium is so much more explosive than lithium.\n\n**Reactivity of non-metals**: halogens get **less reactive** going down. Smaller atoms like fluorine pull electrons in strongly; fluorine is the most reactive element of all.\n\n**Electronegativity**: a measure, developed by the American chemist **Linus Pauling**, of how strongly an atom attracts electrons in a bond. It increases going up and to the right in the table (excluding noble gases), so fluorine is the most electronegative element."
+    },
+    {
+      "type": "text",
+      "heading": "Metals, non-metals and metalloids",
+      "md": "- **Metals**, which make up most elements, are on the left and in the middle. They tend to be shiny, conduct electricity and heat well, can be hammered into shapes and tend to lose electrons in reactions.\n- **Non-metals** are on the upper right. They tend to be poor conductors and, as solids, brittle; many are gases at room temperature, like oxygen and nitrogen.\n- **Metalloids**, along a zigzag boundary between them, have intermediate properties. **Silicon** is the most famous: a **semiconductor**, the basis of computer chips, as you’ll explore in the materials lessons.\n\nThe large central block contains the **transition metals**, like iron, copper, gold and silver, which often form coloured compounds and are used as catalysts. The two rows usually shown separately at the bottom include the **lanthanides**, often called **rare earth elements**, essential for strong magnets in electric motors and wind turbines, phone screens and many electronics. Despite their name, many aren’t especially rare, but they’re difficult to separate, and **China** dominates their processing."
+    },
+    {
+      "type": "steps",
+      "title": "Making new elements",
+      "items": [
+        "The heaviest element found naturally in significant amounts is uranium, with 92 protons. Elements beyond it are mostly made artificially.",
+        "Scientists create new elements by smashing lighter nuclei together in particle accelerators, hoping they fuse.",
+        "These superheavy elements are extremely unstable, often existing for only a fraction of a second before decaying.",
+        "The heaviest element confirmed so far is **oganesson**, with **118** protons, first reported in the early 2000s by a Russian–American team and officially named in **2016**, along with **nihonium** (113, named after Japan), **moscovium** (115) and **tennessine** (117).",
+        "These completed the seventh row of the periodic table.",
+        "Scientists are attempting to make elements 119 and 120, which would begin an eighth row. Some theories predict an “island of stability” where certain superheavy elements might last longer."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Gold and copper are coloured, but most metals look silvery. Why?",
+      "md": "Most metals reflect nearly all wavelengths of visible light roughly equally, so they look silvery-grey. **Copper** absorbs some blue and green light, so it looks reddish. **Gold**’s colour comes from an unusual effect: its electrons, especially the inner ones close to its heavy nucleus, move so fast that **Einstein’s theory of relativity** subtly changes their energy levels. This shifts the light gold absorbs into the blue part of the spectrum, so it reflects the yellow and red light that gives it its warm colour. Without relativity, gold would look silvery like most other metals. The same relativistic effects help explain why **mercury** is a liquid at room temperature."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Chemistry is controlled mainly by **electrons**, arranged in **shells**; outer-shell **valence electrons** determine behaviour.",
+        "Elements in the same **group** share the same number of valence electrons, so they behave similarly.",
+        "**Alkali metals** (1 valence electron) and **halogens** (7) are highly reactive; **noble gases** (full shells) are stable.",
+        "The **octet rule**: atoms tend to gain, lose or share electrons to reach eight outer electrons.",
+        "Trends: atoms get **larger down** a group and **smaller across** a period; alkali metals get **more reactive** down the group; **fluorine** is the most **electronegative** element.",
+        "Elements are **metals**, **non-metals** or **metalloids** like **silicon**; **rare earths** are vital for modern technology.",
+        "The heaviest confirmed element is **oganesson (118)**; gold’s colour comes partly from **relativity**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding electrons turns the periodic table from a chart to memorise into a logical map that predicts how elements behave. It explains why sodium is dangerous but salt is safe, why some metals rust and others don’t, and why silicon powers computers. Next, you’ll see how atoms use their electrons to bond together and build the substances around you."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do elements in the same group behave similarly, what are valence electrons, and why do alkali metals get more reactive further down the group?"
+  }
+}
