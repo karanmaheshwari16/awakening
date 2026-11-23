@@ -1,0 +1,84 @@
+{
+  "id": "economics.supply-demand.1",
+  "region": "economics",
+  "topic": "supply-demand",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Supply and Demand: The Invisible Auction",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In late **2019**, the price of onions in many Indian cities jumped to well over **100 rupees a kilogram**, several times what it had been months earlier. Heavy, unseasonal rains had damaged crops in major growing states. Onions are a staple of Indian cooking, so the price spike made headlines, sparked political arguments and led the government to restrict exports and import onions from abroad.\n\nNobody issued an order to raise onion prices. No committee decided it. Prices rose because of the interaction of millions of buyers and sellers, each responding to their own situation. This is **supply and demand**, the most famous model in economics."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **market** is any situation where buyers and sellers exchange goods or services: a vegetable market, an online shop, the market for labour or for houses.\n\n**Demand** is how much of something buyers are willing and able to buy at different prices. The **law of demand**: other things being equal, when the price **rises**, people buy **less**; when it falls, they buy more. When onions get expensive, families use fewer, substitute other ingredients or buy smaller quantities.\n\n**Supply** is how much sellers are willing and able to sell at different prices. The **law of supply**: other things being equal, when the price **rises**, sellers offer **more**, because it becomes more profitable; when it falls, they offer less."
+    },
+    {
+      "type": "diagram",
+      "alt": "A graph with quantity on the horizontal axis and price on the vertical axis. A demand line slopes downward from upper left to lower right. A supply line slopes upward from lower left to upper right. They cross at a point labelled equilibrium.",
+      "caption": "Demand slopes down, supply slopes up; they meet at the equilibrium price and quantity.",
+      "svg": "<svg viewBox=\"0 0 320 210\" xmlns=\"http://www.w3.org/2000/svg\"> <g style=\"stroke:var(--line-2);stroke-width:1\"><path d=\"M45 175 H295\"/><path d=\"M45 20 V175\"/></g> <path d=\"M65 35 L270 160\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/> <path d=\"M65 160 L270 35\" style=\"fill:none;stroke:currentColor;stroke-width:2\"/> <circle cx=\"167\" cy=\"97\" r=\"4\" style=\"fill:var(--gold)\"/> <path d=\"M45 97 H167 V175\" style=\"fill:none;stroke:var(--text-3);stroke-dasharray:3 3\"/> <g style=\"font:500 9px var(--font-ui);fill:var(--text-2)\"><text x=\"170\" y=\"196\" text-anchor=\"middle\">quantity</text><text x=\"30\" y=\"100\" text-anchor=\"middle\" transform=\"rotate(-90 30 100)\">price</text><text x=\"252\" y=\"150\" style=\"fill:var(--accent)\">demand</text><text x=\"252\" y=\"32\">supply</text><text x=\"175\" y=\"92\">equilibrium</text></g> </svg>"
+    },
+    {
+      "type": "text",
+      "heading": "Where they meet: equilibrium",
+      "md": "Plot demand and supply on a graph, with price on the vertical axis and quantity on the horizontal axis. Demand slopes **downward**; supply slopes **upward**. Where they cross is the **equilibrium**: the price at which the quantity buyers want equals the quantity sellers offer.\n\n- If the price is **above** equilibrium, sellers offer more than buyers want. Unsold stock piles up (a **surplus**), so sellers cut prices.\n- If the price is **below** equilibrium, buyers want more than is available. Goods run out (a **shortage**), so sellers can raise prices.\n\nEither way, the price tends to move towards equilibrium, without anyone planning it."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a market as a constant, invisible auction. If too many people want something, buyers effectively bid the price up until some drop out. If sellers have too much, they lower their prices until enough buyers step in. The equilibrium price is where the auction settles, and it keeps shifting as conditions change."
+    },
+    {
+      "type": "text",
+      "heading": "Movements versus shifts",
+      "md": "It’s important to distinguish two kinds of change:\n\n- A **movement along** a curve happens when the **price** of the good itself changes. A higher onion price means a lower quantity demanded: same demand curve, different point.\n- A **shift** of a curve happens when something **other than price** changes.\n\n**Demand shifts** can be caused by changes in income, tastes, population, expectations, or the prices of related goods. If incomes rise, demand for many goods increases at every price. If the price of a **substitute** (like tea versus coffee) rises, demand for the other increases.\n\n**Supply shifts** can be caused by changes in production costs, technology, weather, the number of sellers or government policy. Unseasonal rains shift onion supply to the **left**: less is available at every price."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: the onion shock",
+      "items": [
+        "Normally, onion supply and demand meet at a moderate price.",
+        "Heavy rains destroy part of the crop. **Supply shifts left**: at every price, farmers have fewer onions to sell.",
+        "At the old price, buyers now want more onions than are available: a **shortage**.",
+        "Prices rise. As they do, some buyers cut back or switch to substitutes (a movement along the demand curve), while traders who stored onions sell more of them.",
+        "A new equilibrium is reached at a **higher price** and **lower quantity**.",
+        "Over the following months, high prices encourage farmers to plant more onions and the government to allow imports, shifting supply back to the right. Prices eventually fall again, sometimes too far, if many farmers planted more at once."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Prices as messages",
+      "md": "In **1945**, the Austrian-British economist **Friedrich Hayek** argued in a famous essay that prices perform a remarkable function: they **communicate information**.\n\nKnowledge about the world, such as a crop failure in one region, a new use for a material or a change in consumer tastes, is scattered among millions of people. No central planner could gather it all. But a rising price signals scarcity to everyone at once, telling buyers to economise and producers to supply more, even if none of them knows the reason. Hayek called this a “marvel”: a system that coordinates millions of decisions without anyone fully understanding it."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Do supply and demand always work smoothly?",
+      "md": "No. The model is a powerful simplification, but real markets have complications. Prices can be slow to adjust; some markets are dominated by a few powerful sellers; buyers and sellers may lack information; and some goods affect people outside the transaction, like pollution. People also don’t always respond to prices the way simple models predict, as behavioural economics shows. And markets can produce outcomes that are efficient but that many people consider **unfair**, such as essential medicines becoming unaffordable. The next lessons explore these limits: what happens when governments set prices, and when markets fail."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Demand**: buyers purchase less at higher prices. **Supply**: sellers offer more at higher prices.",
+        "The **equilibrium** is where quantity demanded equals quantity supplied; surpluses and shortages push prices towards it.",
+        "A change in the good’s own price causes a **movement along** a curve; other factors cause **shifts**.",
+        "Demand shifts with **income, tastes, population, expectations** and **related goods’ prices**; supply shifts with **costs, technology, weather** and **policy**.",
+        "A supply shock, like India’s **2019 onion crisis**, raises prices and lowers quantity.",
+        "**Hayek (1945)** argued prices act as signals that coordinate scattered knowledge."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Supply and demand explain the prices of almost everything you buy, as well as wages, rents and interest rates. With this simple model, you can make sense of news about fuel prices, housing costs, crop failures and shortages, and judge proposed policies more clearly. Next, you’ll see what happens when prices are controlled, and how responsive buyers and sellers really are."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do demand curves usually slope downward and supply curves upward, and what happens to price when demand rises or supply falls?"
+  }
+}

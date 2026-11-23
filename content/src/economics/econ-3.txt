@@ -1,0 +1,217 @@
+##### LESSON
+id: economics.growth.2
+title: Why Are Some Countries Rich and Others Poor?
+minutes: 16
+check: In your own words: what are the main explanations economists give for why some countries are much richer than others, and what does the comparison of North and South Korea suggest?
+
+=== hook
+At night, satellite images of the Korean peninsula show something extraordinary. **South Korea** blazes with light: cities, highways, factories. Just across the border, **North Korea** is almost completely dark, apart from a small glow around the capital, Pyongyang.
+
+In 1945, the two halves of Korea shared the same history, language, culture and geography, and had broadly similar levels of income. Divided after World War II, they took radically different political and economic paths. Today, South Korea is one of the world’s richest, most technologically advanced countries, while North Korea is one of the poorest, and has suffered devastating famine. Same people, same peninsula, wildly different outcomes. Why?
+
+=== core
+The question of why some countries are rich and others poor is one of the oldest and most important in economics. Adam Smith’s famous 1776 book was titled *An Inquiry into the Nature and Causes of the Wealth of Nations*.
+
+In the long run, a country’s standard of living depends mostly on its **productivity**: how much its workers can produce per hour. Productivity, in turn, depends on several ingredients:
+
+- **Physical capital**: machines, buildings, roads, electricity networks.
+- **Human capital**: the education, skills and health of workers.
+- **Technology and ideas**: better ways of producing things.
+- **Natural resources**: land, minerals, energy.
+
+But this raises a deeper question: why do some countries accumulate capital, educate people and adopt technology much more successfully than others? Here, economists offer several, often overlapping, explanations.
+
+=== text Explanation 1: technology drives long-run growth
+In **1956**, the economist **Robert Solow** built a model showing that adding more capital, such as more machines per worker, raises output, but with **diminishing returns**: the hundredth machine adds less than the first. So capital alone can’t sustain growth forever. Solow found that most long-run growth in rich countries came from **technological progress**, improvements in knowledge and methods. He won the Nobel Prize in 1987.
+
+This also predicts **catch-up growth**: poorer countries can grow faster by adopting technologies already invented elsewhere, rather than inventing everything from scratch. That’s partly how countries like South Korea, Taiwan and China achieved rapid growth.
+
+=== text Explanation 2: institutions
+Many economists argue the deepest cause is **institutions**: the rules of the game that shape incentives, including property rights, the rule of law, how power is constrained and whether people can keep the rewards of their effort.
+
+The economists **Daron Acemoglu**, **Simon Johnson** and **James Robinson**, who shared the **2024 Nobel Prize in Economics**, distinguish:
+
+- **Inclusive institutions**, which protect property rights, enforce contracts fairly, provide public services and allow broad participation in economic and political life. They encourage investment and innovation.
+- **Extractive institutions**, which concentrate power and wealth in a small elite who extract resources from everyone else. They discourage investment, since people fear their gains will be taken.
+
+They point to natural experiments like **North and South Korea**, and the twin cities of **Nogales**, split by the US–Mexico border, where the same people and geography produced different outcomes under different institutions. They also argue that institutions set up by colonisers had lasting effects: where Europeans settled in large numbers, they often built more inclusive institutions for themselves; where they extracted resources using forced labour, they built extractive institutions that sometimes persisted after independence.
+
+=== callout analogy
+Think of an economy as a football league. Talent, training and equipment matter (capital, education, technology). But if referees are corrupt, rules change on a whim and the strongest team can simply confiscate the others’ players, nobody bothers investing in talent. Institutions are the rules and referees. Good ones make investment and effort worthwhile.
+
+=== text Explanation 3: geography
+Others emphasise **geography**. The economist **Jeffrey Sachs** has argued that tropical diseases like malaria, poor soils, lack of navigable rivers and being landlocked impose real economic burdens. Landlocked countries, for instance, face higher transport costs to reach world markets. The geographer **Jared Diamond** argued, in *Guns, Germs, and Steel* (1997), that geography shaped which regions developed farming, cities and technology earliest, giving them long-run advantages.
+
+Institutional economists respond that geography’s effects often work **through** institutions, and that geography doesn’t explain cases like the Koreas. Most researchers now think geography, institutions and history all interact.
+
+=== text Explanation 4: human capital, culture and policy
+- **Human capital**: education and health raise productivity. East Asian economies that grew rapidly typically invested heavily in mass education early on.
+- **Culture**: some scholars argue that values like trust, attitudes to work, or openness to new ideas influence growth. This is contested, partly because culture can change quickly with circumstances, and cultural explanations have sometimes been used to justify prejudice.
+- **Policy**: choices about trade, investment, macroeconomic stability and industrial strategy matter. Rapidly growing economies like South Korea and Taiwan combined export-oriented manufacturing with active government strategies, though economists debate how much credit government direction deserves.
+
+=== steps China and India: two great accelerations
+- From **1978**, under **Deng Xiaoping**, China began market reforms: allowing farmers to sell surplus crops, opening special economic zones to foreign investment and gradually allowing private businesses.
+- China grew at close to **10%** a year on average for about three decades. According to the World Bank, the number of people in China living in extreme poverty fell by **around 800 million** over roughly four decades, the largest reduction in poverty in history.
+- India’s growth accelerated after reforms in the 1980s and especially **1991**, averaging around **6–7%** a year for long periods, with strong growth in services like IT, and substantial reductions in poverty.
+- Both countries combined markets with significant state roles, in different ways and under very different political systems.
+- Both still face major challenges, including inequality, environmental damage and, in China’s case, slowing growth and an ageing population, and in India’s, creating enough good jobs for a young, growing workforce.
+
+=== reveal Can poor countries always catch up with rich ones?
+Not automatically. While some economies have converged rapidly, many others have stagnated for long periods. Some countries reach middle-income levels and then struggle to make the leap to high income, sometimes called the **middle-income trap**, as cheap labour advantages fade before innovation capacity develops, though economists debate whether this trap is a real general pattern. Conflict, political instability, corruption, debt crises and commodity dependence can all stall growth. On the other hand, countries like South Korea, Singapore, Botswana and, more recently, others show that sustained growth and poverty reduction are possible. There is no single recipe, which is why development economics remains a lively field.
+
+=== keypoints
+- Living standards depend mainly on **productivity**, driven by **physical capital**, **human capital**, **technology** and **resources**.
+- **Solow (1956)**: capital has diminishing returns; long-run growth comes mainly from **technological progress**; poorer countries can **catch up**.
+- **Acemoglu, Johnson and Robinson** (Nobel 2024) stress **inclusive** versus **extractive institutions**, illustrated by **North and South Korea**.
+- **Geography** (disease, location, resources) also matters, often interacting with institutions.
+- **Education**, **policy** and possibly **culture** play roles; explanations overlap.
+- **China** since **1978** and **India** since **1991** achieved historic growth and poverty reduction.
+
+=== why
+Why nations prosper or stagnate shapes the lives of billions of people: whether children survive, whether workers can find good jobs, whether families escape poverty. Understanding the main explanations helps you evaluate claims about what makes economies succeed, and engage with debates about development, governance and global inequality. These ideas connect closely to the History, Politics and Law regions.
+
+##### LESSON
+id: economics.trade.1
+title: Why Countries Trade
+minutes: 14
+check: In your own words: why do countries trade even when they could make things themselves, and how did containerisation and global supply chains change world trade?
+
+=== hook
+Pick up a smartphone and try to work out where it was made. The answer is: almost everywhere. Its design might come from the US or South Korea; its most advanced chips from Taiwan; its camera sensors from Japan; its rare earth elements largely processed in China; its glass from the US or China; its software built by engineers around the world, including in India; and its final assembly in China, India or Vietnam.
+
+No single country could make a modern smartphone alone, at least not at anything like the same price. Your phone is the product of a global web of specialisation and trade, linking thousands of companies in dozens of countries.
+
+=== core
+International trade is simply buying and selling across borders. Its basic logic is the same as trade between individuals, which you met in the comparative advantage lesson: people and countries gain by **specialising** in what they do relatively well and **exchanging** for the rest.
+
+Trade brings several kinds of benefits:
+
+- **Comparative advantage**: countries specialise where their opportunity costs are lowest, raising total output.
+- **Economies of scale**: producing for a world market lets firms produce in huge volumes, lowering costs per unit.
+- **Variety**: consumers get access to goods that can’t be produced locally, like tropical fruit in cold countries or specialised medicines.
+- **Competition and ideas**: foreign competition pushes domestic firms to improve, and trade spreads technology and know-how.
+
+=== text The box that changed the world
+For most of history, loading and unloading ships was slow and expensive. Dock workers carried goods piece by piece: sacks, barrels, crates. A ship might spend as long in port as at sea, and theft and damage were common.
+
+In **1956**, an American trucking entrepreneur named **Malcolm McLean** sent a ship from New Jersey to Texas carrying **58** metal containers that could be lifted straight from trucks onto the ship. Standardised shipping containers, which could move seamlessly between ships, trains and trucks, dramatically cut the cost and time of transporting goods. As containerisation spread worldwide from the 1960s, it became one of the most important, if least glamorous, drivers of globalisation. Today, giant container ships can carry over **20,000** containers each.
+
+=== callout analogy
+Think of trade before containers as moving house by carrying every item separately, by hand, onto a truck, then off again at the other end, then onto another truck. Containerisation is like packing everything into identical boxes that a crane can lift in seconds, onto any truck, train or ship in the world. The goods didn’t change; moving them became vastly cheaper.
+
+=== text Global value chains
+Cheaper transport and communications allowed companies to split production into stages carried out in different countries: design in one, components in several, assembly in another. These are **global value chains**. A large share of world trade now consists of parts and components crossing borders, sometimes several times, before becoming finished products.
+
+Value chains let developing countries join global manufacturing by specialising in particular stages, such as assembly, rather than building whole industries from scratch. But they also create vulnerabilities, as the COVID-19 pandemic showed, when disruptions in one place caused shortages worldwide.
+
+=== text India’s place in world trade
+India’s trade has grown enormously since its economy opened up in **1991**. Some notable strengths:
+
+- **IT and business services**: India is one of the world’s largest exporters of software and IT services, with companies serving clients worldwide. Services exports have become a major part of India’s economy.
+- **Pharmaceuticals**: India is a leading producer of **generic medicines**, cheaper versions of drugs whose patents have expired, supplying a large share of generic medicines used worldwide, including in Africa and the US. It is often called “the pharmacy of the world”.
+- **Remittances**: India receives more money from citizens working abroad than any other country, over **100 billion dollars** a year in recent years.
+- Recent government policies, such as production-linked incentive schemes launched in **2020**, aim to expand manufacturing, including electronics, where India has become a major assembly hub for smartphones.
+
+=== steps How trade is managed: tariffs, quotas and the WTO
+- A **tariff** is a tax on imports. It raises the price of foreign goods, protecting domestic producers but making goods more expensive for consumers and for businesses that use imported parts.
+- A **quota** limits the quantity of a good that can be imported.
+- **Non-tariff barriers** include regulations, standards and paperwork that make importing harder, sometimes for legitimate safety reasons, sometimes as disguised protection.
+- After World War II, countries created the **General Agreement on Tariffs and Trade (GATT)** in **1947** to reduce trade barriers through negotiation. Average tariffs on manufactured goods fell dramatically over the following decades.
+- In **1995**, the **World Trade Organization (WTO)** replaced GATT, with a system for settling trade disputes between members. Its core principle is non-discrimination: treating all members’ goods equally.
+- Countries also sign **free trade agreements** with specific partners, cutting tariffs between them.
+
+=== reveal Does a country gain from trade even if it runs a trade deficit?
+Often, yes. A **trade deficit** means a country imports more than it exports. Politicians sometimes describe deficits as “losing”, but economists generally see it differently. A deficit means a country is buying more goods from abroad than it sells, and paying for the difference by selling assets or borrowing, often reflecting the fact that it saves less than it invests. Deficits can be sustainable or problematic depending on circumstances: financing productive investment is very different from funding consumption with unsustainable debt. Trade balances with individual countries are even less meaningful: you probably run a “trade deficit” with your local shop, buying far more from it than it buys from you, and that’s perfectly fine.
+
+=== keypoints
+- Countries trade to benefit from **comparative advantage**, **economies of scale**, **variety** and **competition and ideas**.
+- **Containerisation**, pioneered by **Malcolm McLean** in **1956**, slashed transport costs and drove globalisation.
+- **Global value chains** split production across many countries, creating efficiency and vulnerability.
+- India is a major exporter of **IT services** and **generic medicines**, and the world’s largest recipient of **remittances**.
+- **Tariffs**, **quotas** and **non-tariff barriers** restrict trade; **GATT (1947)** and the **WTO (1995)** reduced barriers.
+- **Trade deficits** aren’t automatically harmful; context matters.
+
+=== why
+Trade shapes what you buy, what it costs, what jobs exist in your town and how countries relate to one another. Understanding why countries trade, and how trade is organised, helps you make sense of debates about tariffs, globalisation and supply chains. The next lesson looks at the harder side: who loses from trade, and why trade wars happen.
+
+##### LESSON
+id: economics.trade.2
+title: Winners, Losers and Trade Wars
+minutes: 15
+prereq: economics.trade.1
+check: In your own words: why can trade benefit a country overall while hurting particular workers and regions, and what are the main arguments for and against protecting domestic industries?
+
+=== hook
+Between 1999 and 2011, imports from China to the United States grew enormously after China joined the World Trade Organization in 2001. American consumers got cheaper furniture, clothing, toys and electronics. US companies used cheaper parts.
+
+But economists **David Autor**, **David Dorn** and **Gordon Hanson** studied what happened in the American towns that had specialised in making those same products. They estimated that the “**China shock**” cost the US up to around **two million** manufacturing and related jobs over that period, with losses concentrated in specific communities, many of which struggled to recover for years. The gains from trade were spread thinly across millions of consumers; the losses fell heavily on particular places. That imbalance helps explain much of today’s politics of trade.
+
+=== core
+Economists broadly agree that trade **raises total income** in the countries involved. Surveys of leading economists consistently find strong majorities agreeing that freer trade has, on balance, benefited countries.
+
+But “on balance” hides a crucial point: trade creates **winners and losers**.
+
+- **Winners** include consumers paying lower prices, exporters gaining new markets, businesses using cheaper imported inputs, and workers in expanding industries.
+- **Losers** include workers and owners in industries that face new foreign competition, and the communities that depend on them.
+
+Older economic models often assumed that displaced workers would quickly find new jobs in growing industries. Research like the China shock studies suggests the adjustment can be slow, painful and incomplete, especially when job losses are concentrated geographically and workers can’t easily move or retrain.
+
+=== callout analogy
+Think of trade like building a new highway that bypasses a small town. Overall, journeys become faster and cheaper for millions of travellers. But the restaurants, petrol stations and shops in the bypassed town lose their customers. The highway is a net benefit to society, and it is still a disaster for that town, unless something is done to help it adapt.
+
+=== text Arguments for protection
+Despite the overall gains from trade, there are several arguments for restricting it, some stronger than others:
+
+**Infant industries**: new industries in developing countries may need temporary protection to grow strong enough to compete with established foreign rivals. **Alexander Hamilton** in the US and the German economist **Friedrich List** made this argument in the 18th and 19th centuries, and countries like the US, Germany, Japan and South Korea all protected key industries during their early industrialisation. Critics note that protection often becomes permanent, sheltering inefficient firms indefinitely.
+
+**National security**: countries may want domestic capacity in strategic sectors, such as defence, energy, food, medicines and semiconductors, rather than depending on potentially hostile suppliers. The COVID-19 pandemic and recent geopolitical tensions strengthened these concerns.
+
+**Unfair practices**: countries may respond to trading partners that heavily subsidise their industries, dump goods below cost or steal intellectual property.
+
+**Protecting jobs and communities**: politically, this is often the most powerful argument, although economists argue that tariffs are usually an expensive way to save jobs, compared with direct support for affected workers.
+
+=== text The costs of protection
+Tariffs have real costs, which are often less visible than their benefits:
+
+- **Higher prices** for consumers, which fall hardest on lower-income households.
+- **Higher costs for businesses** that use imported parts, which can cost jobs in other industries.
+- **Retaliation**: other countries often respond with tariffs of their own, hurting exporters.
+- **Less competition**, which can reduce innovation and efficiency.
+
+Several studies of recent tariffs, including those imposed by the US on Chinese goods from **2018**, found that most of the cost was passed on to domestic buyers in the form of higher prices, rather than being paid by foreign exporters.
+
+=== text A cautionary tale: the Smoot–Hawley tariff
+In **1930**, as the Great Depression began, the US passed the **Smoot–Hawley Tariff Act**, raising tariffs on thousands of imported goods. Over a thousand economists signed a petition urging President Hoover to veto it. He didn’t.
+
+Other countries retaliated with their own tariffs, and world trade collapsed dramatically in the early 1930s. Economists debate how much Smoot–Hawley itself worsened the Depression, compared with other causes like banking failures and monetary policy. But the episode became a powerful warning about the dangers of tariff wars, and helped inspire the post-war push to reduce trade barriers through GATT.
+
+=== steps Trade wars in the 21st century
+- From **2018**, the US and China imposed escalating tariffs on hundreds of billions of dollars of each other’s goods, in a dispute over trade imbalances, technology transfer and intellectual property.
+- Both sides also imposed restrictions on technology, especially advanced semiconductors, citing national security.
+- In the mid-2020s, a new wave of tariffs and trade tensions spread more widely, affecting many countries’ trade relationships and raising uncertainty for businesses.
+- Many companies began diversifying supply chains, sometimes called “**China plus one**”, moving some production to countries like Vietnam, Mexico and India.
+- Whether this marks a lasting retreat from globalisation, or a reshaping of it, is still unclear.
+
+=== text Helping those who lose
+If trade creates large overall gains but concentrated losses, one answer is to use part of the gains to help those who lose. Possible policies include:
+
+- **Retraining** and education programmes for displaced workers.
+- **Income support** while workers search for new jobs.
+- **Help for affected regions**, such as investment in infrastructure and new industries.
+- **Strong social safety nets**, like unemployment insurance and healthcare not tied to jobs.
+
+The US has had a programme called **Trade Adjustment Assistance** since the 1960s, but many studies found it too small and too hard to access to fully offset the damage. Countries with stronger safety nets, like Denmark, often combine openness to trade with extensive support for workers, an approach sometimes called **flexicurity**.
+
+=== reveal India declined to join the world’s largest trade agreement, RCEP, in 2019. Why?
+The **Regional Comprehensive Economic Partnership (RCEP)** brought together 15 Asia-Pacific countries, including China, Japan, South Korea, Australia and the ASEAN nations. India took part in negotiations for years but withdrew in **2019**. Its stated concerns included the risk of a flood of cheap imports, particularly from China, harming Indian manufacturers and farmers, and worries that its existing trade deficits would widen. Supporters of the decision saw it as protecting domestic industry and agriculture; critics argued India risked being left out of regional supply chains and missing the benefits of integration. India has since pursued other bilateral agreements, such as with the UAE, Australia and the UK. It illustrates how trade decisions balance economic gains, domestic interests and strategic concerns.
+
+=== keypoints
+- Trade **raises total income**, but creates **winners and losers**.
+- The **China shock** studies (Autor, Dorn and Hanson) showed concentrated, long-lasting job losses in affected US communities.
+- Arguments for protection include **infant industries**, **national security**, **unfair practices** and **protecting communities**.
+- Tariffs raise **prices**, increase **costs** for businesses and invite **retaliation**; recent US tariff costs were largely paid by domestic buyers.
+- The **Smoot–Hawley Tariff (1930)** triggered retaliation as world trade collapsed.
+- Policies like **retraining**, **income support** and strong **safety nets** can help spread the gains from trade more fairly.
+
+=== why
+Trade policy affects prices, jobs and international relations, and it has become one of the most politically charged issues of our time. Understanding both the gains and the costs helps you see past slogans on all sides, and think about the real trade-offs involved, including how to share the gains of openness more fairly.

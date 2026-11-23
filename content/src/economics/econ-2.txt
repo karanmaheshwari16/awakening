@@ -1,0 +1,266 @@
+##### LESSON
+id: economics.market-failures.2
+title: When Governments Fail Too
+minutes: 15
+prereq: economics.market-failures.1
+check: In your own words: what are two ways that government intervention can fail, and what does the history of the Licence Raj and India’s 1991 reforms illustrate?
+
+=== hook
+In **1902**, the French colonial government in Hanoi, Vietnam, faced a plague of rats in the city’s new sewers. To encourage locals to help, officials offered a small bounty for every rat killed. To avoid handling piles of dead rats, they asked people to bring in just the **tails** as proof.
+
+Soon, officials began noticing rats running around the city **without tails**. Enterprising hunters were catching rats, cutting off their tails and releasing them to breed more rats, and more tails. Some people reportedly started farming rats. The historian Michael Vann documented the episode. Similar stories, sometimes called the **cobra effect**, illustrate a broader lesson: government interventions can backfire when they create incentives their designers didn’t anticipate.
+
+=== core
+In the previous lesson, you saw that markets can fail: through externalities, public goods, common resources, information problems and monopolies. That’s a reason governments step in. But economists also study **government failure**: situations where government intervention makes outcomes worse, or fails to improve them, or costs more than it achieves.
+
+The key insight is that governments are made of **people**, such as politicians, officials and regulators, who respond to incentives and have limited information, just like people in markets. Recognising this doesn’t mean governments should never act. It means comparing **realistic** markets with **realistic** governments, rather than an imperfect market with an imaginary perfect government, or vice versa.
+
+=== text Why governments fail: the main reasons
+**Unintended consequences**: as the rat bounty showed, policies change incentives, sometimes in unexpected directions.
+
+**The knowledge problem**: Friedrich Hayek, whom you met in the supply-and-demand lesson, argued that central planners can’t gather all the scattered, changing information that prices convey. Decisions made far from local conditions often misfire.
+
+**Public choice problems**: the economist **James Buchanan** (Nobel Prize 1986) and others applied economic reasoning to politics. Politicians may favour policies that win votes in the short term over those that help in the long term. Officials may pursue bigger budgets or more power. Concentrated groups with a lot at stake lobby effectively, while the costs are spread thinly across millions of voters who barely notice.
+
+**Regulatory capture**: the economist **George Stigler** argued in 1971 that regulators often end up serving the industries they regulate, because industries have the strongest incentives to influence them, through lobbying, expertise and the promise of future jobs.
+
+**Rent-seeking**: individuals and companies spending effort and money to win favours from government, such as licences, subsidies or protection from competition, rather than creating value.
+
+=== callout analogy
+Think of market failure and government failure as two different kinds of engine trouble. A market can stall when it ignores costs like pollution. A government can stall when it lacks information or bends to special interests. Good mechanics don’t assume one engine never breaks; they look at each situation and ask which is more likely to work, and how to design safeguards against the most likely failures.
+
+=== text Central planning: the extreme case
+The **Soviet Union** tried to replace markets almost entirely with central planning. Planners set production targets for thousands of goods, allocated resources and fixed prices.
+
+It achieved rapid industrialisation in some periods, particularly in heavy industry. But it suffered chronic problems: **shortages** of consumer goods, long queues, poor quality and waste. A popular joke described a nail factory: given a target by **weight**, it produced a few gigantic, useless nails; given a target by **number**, it produced millions of tiny, useless ones. Whether or not that factory existed, the joke captured a real problem: targets distorted incentives, and planners lacked the information prices provide. Agricultural collectivisation under Stalin contributed to devastating famines in the early 1930s, including in Ukraine and Kazakhstan.
+
+=== text India’s Licence Raj and the 1991 reforms
+After independence in 1947, India built a mixed economy with a large state role, aiming for self-reliance and rapid industrialisation. Over time, a dense system of controls developed, nicknamed the **Licence Raj**: businesses needed government licences to start, expand, change products or import machinery. Many industries were reserved for the public sector or for small firms.
+
+The system aimed to direct investment towards national priorities and prevent concentration of economic power. But critics argue it encouraged corruption and rent-seeking, protected inefficient firms from competition, discouraged investment and contributed to slow growth, sometimes called the “Hindu rate of growth”, a phrase coined by the economist Raj Krishna for growth of around **3.5%** a year.
+
+In **1991**, facing a severe balance-of-payments crisis with foreign exchange reserves covering only a few weeks of imports, the government of Prime Minister **P. V. Narasimha Rao** and Finance Minister **Manmohan Singh** launched sweeping reforms: abolishing most industrial licensing, reducing tariffs, opening to foreign investment and devaluing the rupee. Growth accelerated substantially in the following decades. Economists still debate how much credit the reforms deserve compared with earlier changes in the 1980s, and how the benefits were shared.
+
+=== steps The mixed economy: a spectrum, not a choice
+- Almost no country is purely market-based or purely state-run. Real economies sit on a **spectrum**.
+- Most rely on **markets** for most goods and services, because markets are generally good at coordinating production and encouraging innovation.
+- Most use **government** for public goods, social insurance, regulation of externalities and monopolies, and redistribution to reduce poverty and inequality.
+- Countries differ in the balance. The **Nordic countries**, such as Denmark and Sweden, combine open, market economies with high taxes, strong unions and extensive public services. The **United States** relies more on markets and less on public provision in areas like healthcare. **China** combines markets with a powerful state and large state-owned enterprises.
+- Debates about where to draw the line, on healthcare, education, energy, banking or digital platforms, are at the heart of politics, and depend on values as well as evidence.
+
+=== reveal How can policymakers reduce the risk of government failure?
+Economists and political scientists suggest several safeguards: **testing policies** on a small scale before rolling them out widely, sometimes with randomised trials; building in **evaluation** and sunset clauses so policies are reviewed and ended if they don’t work; **transparency** about who benefits from regulations and subsidies; **independent institutions**, like central banks and audit offices, insulated from short-term political pressure; **competition** between providers where possible; and paying close attention to **incentives**, asking how people might game the rules. The 2019 Nobel Prize in Economics went to **Abhijit Banerjee**, **Esther Duflo** and **Michael Kremer** for using experiments to test which anti-poverty policies actually work, including in India.
+
+=== keypoints
+- **Government failure** happens when intervention worsens outcomes or costs more than it achieves.
+- Causes include **unintended consequences**, the **knowledge problem**, **public choice** incentives, **regulatory capture** and **rent-seeking**.
+- **Soviet central planning** suffered chronic **shortages** and distorted targets.
+- India’s **Licence Raj** imposed heavy controls; the **1991 reforms** under **Rao and Singh** dismantled many and growth accelerated.
+- Real economies are **mixed**, combining markets and government in different proportions.
+- Safeguards include **testing**, **evaluation**, **transparency**, **independent institutions** and attention to **incentives**.
+
+=== why
+Debates about economic policy often become battles between “markets good” and “government good”. Understanding both market failure and government failure lets you move beyond slogans and ask better questions: what exactly is going wrong, which institution is best placed to fix it, and how might the fix itself fail? That’s the kind of thinking good policy, and good citizenship, needs.
+
+##### LESSON
+id: economics.money-banks.1
+title: What Money Really Is
+minutes: 14
+check: In your own words: what are the three main functions of money, and why can paper or digital money have value even though it isn’t backed by gold?
+
+=== hook
+On the island of **Yap**, in the western Pacific, people traditionally used giant stone discs called **rai** as money. Some were taller than a person and weighed several tonnes, quarried from limestone on islands hundreds of kilometres away and brought back by canoe.
+
+The stones were often too heavy to move, so when one changed hands, it simply stayed where it was, and everyone remembered that its ownership had changed. One famous story tells of a huge stone that sank to the bottom of the sea during transport. The islanders agreed it still existed and kept using it as wealth for generations, even though nobody could see it. What mattered wasn’t the stone. It was the shared agreement about who owned what. That’s the secret of all money.
+
+=== core
+**Money** is anything widely accepted as payment for goods and services, and for settling debts. Economists usually describe three main functions:
+
+1. **Medium of exchange**: you can trade it for things you want, instead of bartering.
+2. **Unit of account**: it provides a common measure of value, so you can compare the prices of very different things, like a haircut and a kilo of rice.
+3. **Store of value**: it holds value over time, so you can save it for later (though inflation erodes this, as you saw in the Money region).
+
+Money is a social technology. It works because people **trust** that others will accept it.
+
+=== text Why not just barter?
+Imagine an economy without money. A potter wants rice. She must find a rice farmer who happens to want pots, at the same time, in the right quantity. Economists call this the **double coincidence of wants**, and it makes barter clumsy and inefficient.
+
+Money solves this: the potter sells pots to anyone for money, then uses the money to buy rice from anyone. Interestingly, anthropologists have found little evidence of societies that relied mainly on barter before money. Many early communities used **credit** and obligations within small groups (“I’ll give you grain now, you help with the harvest later”), and barter was more common between strangers. The idea of a pure barter economy may be more of a teaching story than history.
+
+=== callout analogy
+Think of money as a kind of shared ledger, like a scoreboard everyone agrees to respect. When you work, the scoreboard records that society owes you something; when you spend, you claim it. Coins, notes, stones or digital numbers are just different ways of keeping score.
+
+=== text A short history of money
+- **Commodity money**: things with their own value, like grain, cattle, salt, shells and metal. **Cowrie shells** were used as money for centuries across parts of Africa, South Asia and China.
+- **Coins**: among the earliest known coins were made in **Lydia**, in present-day Turkey, around the **7th century BCE**, from a natural gold-silver alloy called electrum. Early punch-marked coins also appeared in India from around the 6th century BCE.
+- **Paper money**: China pioneered it. During the **Song dynasty**, from the early 11th century, merchants and then the government issued paper notes called **jiaozi**, which were lighter than strings of iron coins. Marco Polo later described the paper money of Yuan China with amazement.
+- **Representative money**: for long periods, paper money in many countries could be exchanged for a fixed amount of gold or silver, under the **gold standard**.
+- **Fiat money**: in **1971**, US President **Richard Nixon** ended the direct convertibility of the dollar into gold, completing a shift that had been under way for decades. Today, almost all national currencies are **fiat money**: valuable because governments declare them legal tender and people trust them, not because they’re backed by a commodity.
+
+=== text What gives fiat money value?
+If a 500-rupee note isn’t backed by gold, why is it worth anything? Several reasons combine:
+
+- **Legal tender**: the government requires it to be accepted for debts and uses it for **taxes**. Because everyone must pay taxes in the national currency, everyone needs it.
+- **Trust in institutions**: people trust that the central bank will manage its supply responsibly and not print so much that it loses value.
+- **Network effects**: it’s valuable because everyone else accepts it, and they accept it because everyone else does.
+
+When trust collapses, as in hyperinflation, people abandon a currency quickly, turning to foreign currencies, gold or barter.
+
+=== steps India’s 2016 demonetisation
+- On **8 November 2016**, India’s government announced that **500 and 1,000 rupee** notes would cease to be legal tender, starting at midnight.
+- Those notes made up about **86%** of the value of currency in circulation.
+- The stated aims were to fight **black money** (untaxed wealth), counterfeit currency and terrorism financing, and to encourage digital payments.
+- People queued at banks for weeks to deposit or exchange old notes, and cash shortages disrupted many businesses, especially in the cash-dependent informal economy.
+- The Reserve Bank later reported that almost all of the demonetised notes, about **99%** by value, were returned to banks, suggesting that most untaxed wealth wasn’t held as hoarded cash.
+- Digital payments did grow rapidly in the following years, helped by UPI and other factors. Economists continue to debate the policy’s overall costs and benefits.
+
+=== text Most money is digital
+Today, the notes and coins in your pocket are only a small fraction of the money in an economy. Most money exists as **bank deposits**: numbers in bank accounts, moved electronically by cards, transfers and apps like UPI. As you’ll see in the next lesson, most of this money is actually created by commercial banks when they make loans.
+
+=== reveal Is Bitcoin money?
+It depends on how well it performs money’s three functions. **Bitcoin**, launched in **2009** after a 2008 paper by the pseudonymous **Satoshi Nakamoto**, is a digital currency run on a decentralised network without a central bank, with a fixed maximum supply. Supporters see it as protection against government mismanagement of money. Critics note that its price is extremely **volatile**, making it a poor **unit of account** and an unreliable **store of value** in the short term, and that it’s used relatively little as a **medium of exchange** for everyday purchases in most countries, while transactions can be slow or costly. Many governments and central banks are exploring their own **central bank digital currencies** instead; India’s RBI has piloted a digital rupee since 2022.
+
+=== keypoints
+- **Money** functions as a **medium of exchange**, **unit of account** and **store of value**.
+- It solves barter’s **double coincidence of wants**, though early societies often relied on credit within communities.
+- Money evolved from **commodity money** (like cowrie shells) to **coins** (Lydia, ancient India), **paper money** (Song China) and **fiat money**.
+- Since **1971**, major currencies have been **fiat money**, valuable through **legal tender status, taxes, trust** and **network effects**.
+- India’s **2016 demonetisation** withdrew about **86%** of currency by value; about **99%** was returned.
+- Most modern money is **digital bank deposits**; **Bitcoin** struggles to perform all money’s functions reliably.
+
+=== why
+Money is so familiar that we rarely stop to ask what it is. But understanding that money rests on trust and institutions helps you make sense of inflation, banking crises, cryptocurrencies and debates about digital currencies. Next, you’ll see how banks create most of the money in the economy, and why that makes them both essential and fragile.
+
+##### LESSON
+id: economics.money-banks.2
+title: How Banks Create Money, and Why They Sometimes Collapse
+minutes: 15
+prereq: economics.money-banks.1
+check: In your own words: how do banks create money when they lend, what causes a bank run, and how did the 2008 financial crisis spread?
+
+=== hook
+On **9 March 2023**, depositors at **Silicon Valley Bank** in California, a major lender to technology start-ups, started withdrawing their money. News spread fast through group chats and social media. In a single day, customers tried to withdraw around **42 billion dollars**, roughly a quarter of the bank’s deposits.
+
+By the next morning, the bank had collapsed, the second-largest bank failure in US history at the time. Old-fashioned bank runs had involved queues outside branches. This one happened on smartphones, in hours. To understand why banks can fall so fast, you need to understand something surprising: banks don’t just store money. They create it.
+
+=== core
+Many people imagine that a bank is like a vault: you deposit money, and the bank lends out some of those deposits to borrowers. That picture is partly true but misleading.
+
+In **2014**, the **Bank of England** published an explanation that surprised many readers: in the modern economy, **most money is created by commercial banks when they make loans**. When a bank lends you money, it doesn’t hand over someone else’s savings. It simply credits your account with a new deposit, creating new money. When the loan is repaid, that money is effectively destroyed.
+
+Banks can’t create money without limit. They’re constrained by the need to make profitable loans to borrowers who will repay, by regulations requiring them to hold enough **capital** and liquid assets, and by central bank interest rates, which affect how much people want to borrow.
+
+=== text Fractional reserve banking
+Banks keep only a small fraction of their deposits as cash or reserves at the central bank. The rest is tied up in loans and investments, such as mortgages, business loans and government bonds. This is called **fractional reserve banking**.
+
+It’s normally fine, because on any given day, only a small share of depositors want their money back. Banks can also borrow from each other or from the central bank. But it creates a basic vulnerability: banks borrow **short** (deposits can be withdrawn at any time) and lend **long** (loans are repaid over years). If too many depositors want their money at once, the bank can’t pay them all, even if it’s fundamentally sound.
+
+=== callout analogy
+Think of a bank like a busy cinema with one narrow exit. On a normal evening, people leave a few at a time, and the exit is plenty. But if someone shouts “Fire!”, everyone rushes for the door at once, and even if there’s no fire, people get crushed. Bank runs work the same way: the rush itself can cause the disaster everyone feared.
+
+=== text Bank runs
+A **bank run** happens when many depositors try to withdraw their money at the same time, usually because they fear the bank will fail. Because the bank can’t immediately turn long-term loans into cash, a run can bring down even a healthy bank, and fear of failure becomes **self-fulfilling**.
+
+In **2007**, the British bank **Northern Rock** suffered the UK’s first major bank run in over a century, with depositors queuing outside branches. The 2023 Silicon Valley Bank run showed how social media and mobile banking can make runs dramatically faster. SVB had also invested heavily in long-term bonds that lost value as interest rates rose, and a high share of its deposits were large, uninsured business accounts, making depositors especially quick to flee.
+
+=== text Safety nets
+Governments have developed tools to make banking safer:
+
+- **Deposit insurance**: governments guarantee deposits up to a limit, so ordinary savers don’t need to rush to withdraw. In India, the **DICGC** insures up to **5 lakh rupees** per depositor per bank. In the US, the **FDIC** insures up to **250,000 dollars**. The UK’s **FSCS** provides similar protection. Deposit insurance makes runs far less likely.
+- **Lender of last resort**: central banks can lend to solvent banks facing a temporary cash shortage. The principle was set out by the British journalist **Walter Bagehot** in **1873**: lend freely, at a penalty rate, against good collateral.
+- **Capital requirements**: rules requiring banks to fund themselves partly with shareholders’ money rather than borrowed money, so they can absorb losses. These were strengthened worldwide after 2008 under rules known as **Basel III**.
+- **Supervision**: regulators like the **RBI**, the Federal Reserve and the Bank of England inspect banks and test whether they could survive severe shocks, through so-called **stress tests**.
+
+=== steps How the 2008 financial crisis unfolded
+- In the early 2000s, US house prices rose rapidly. Lenders made many **subprime** mortgages to borrowers with weak credit, often with low initial rates that later jumped.
+- These mortgages were bundled into complex financial products and sold to investors worldwide, often with high credit ratings that turned out to be badly wrong.
+- Many banks were highly **leveraged**: they had borrowed heavily, so even small losses could wipe out their capital.
+- From **2006–07**, house prices fell and many borrowers defaulted. The complex products lost value, and nobody was sure which banks held the worst of them.
+- Banks stopped trusting each other and stopped lending to each other. On **15 September 2008**, the investment bank **Lehman Brothers** collapsed, triggering a global panic.
+- Governments and central banks responded with bailouts, guarantees and emergency lending to prevent the entire financial system from collapsing. The world still entered the deepest recession since the 1930s, with millions losing jobs and homes.
+
+=== reveal Why did governments bail out banks with public money, and was it right?
+Because the failure of large, interconnected banks threatened to bring down the whole financial system, freezing the payments, loans and savings that ordinary people and businesses depend on. Policymakers judged the cost of letting them collapse would be far greater than the cost of rescue. Critics argued that bailouts rewarded reckless behaviour, created **moral hazard** (banks expecting future rescues might take more risk) and protected wealthy shareholders and executives while ordinary people suffered. Banks seen as **“too big to fail”** became a major political issue, leading to reforms such as higher capital requirements and plans for winding down failing banks without taxpayer rescues. How well those reforms work is still debated.
+
+=== keypoints
+- Commercial banks create most money **by making loans**, as the **Bank of England** explained in **2014**.
+- **Fractional reserve banking**: banks keep only a fraction of deposits as reserves, borrowing short and lending long.
+- **Bank runs** can become self-fulfilling, as with **Northern Rock (2007)** and **Silicon Valley Bank (2023)**.
+- Safety nets include **deposit insurance** (₹5 lakh in India, $250,000 in the US), a **lender of last resort** (Bagehot, 1873), **capital requirements** and **supervision**.
+- The **2008 crisis** grew from **subprime mortgages**, complex products and high **leverage**, peaking with **Lehman Brothers’** collapse.
+- Bailouts prevented collapse but raised concerns about **moral hazard** and banks that are **too big to fail**.
+
+=== why
+Banks touch almost every part of your financial life: your savings, loans, payments and the jobs that depend on business credit. Understanding how they create money and why they can fail helps you make sense of financial news, protect your own savings and engage with debates about regulation. It connects closely to the Money region’s lessons on inflation and central banks.
+
+##### LESSON
+id: economics.growth.1
+title: GDP: Measuring an Economy, and What It Misses
+minutes: 14
+check: In your own words: what does GDP measure, why do economists use GDP per person and purchasing power parity, and what are two important things GDP leaves out?
+
+=== hook
+In **1934**, the economist **Simon Kuznets** presented the US Congress with the first official estimates of national income, helping to create the measure we now call **GDP**. It became one of the most influential numbers in the world, used to judge governments, compare countries and guide policy.
+
+Yet Kuznets himself warned, in that very report, that the welfare of a nation can scarcely be inferred from a measure of national income. He knew his number left out much of what matters. Nearly a century later, economists, governments and citizens still argue about what GDP tells us, and what it hides.
+
+=== core
+**Gross domestic product (GDP)** is the total market value of all **final** goods and services produced within a country during a period, usually a year or a quarter.
+
+A few words in that definition matter:
+
+- **Market value**: things are counted at their prices, which lets very different things, like rice, haircuts and software, be added together.
+- **Final**: only goods sold to their final users are counted, to avoid **double counting**. The flour bought by a bakery isn’t counted separately from the bread it becomes.
+- **Within a country**: GDP counts production inside a country’s borders, whoever owns the business.
+
+GDP can be measured three ways, which in principle give the same answer: by adding up everything **produced**, all the **income** earned (wages, profits, rents), or all the **spending** on final goods. The spending approach is often written as **GDP = C + I + G + (X − M)**: consumer spending, plus business investment, plus government spending, plus exports minus imports.
+
+=== text Comparing across time and countries
+Raw GDP figures can mislead, so economists adjust them:
+
+**Real versus nominal**: nominal GDP uses current prices, so it rises with inflation even if production doesn’t change. **Real GDP** adjusts for inflation, measuring actual changes in output. When news reports that an economy grew 6%, it usually means real GDP.
+
+**Per person**: a large country naturally has a large GDP. **GDP per capita** (GDP divided by population) gives a better sense of average living standards. India has one of the largest economies in the world by total GDP, but because it has the world’s largest population, its GDP per person is far lower than in many smaller countries.
+
+**Purchasing power parity (PPP)**: prices differ across countries. A haircut costs far less in Delhi than in London. Converting GDP at market exchange rates understates living standards in countries where prices are low. **PPP** adjusts for these differences, comparing what money can actually buy. By PPP, India ranks as one of the very largest economies in the world, behind only China and the US.
+
+=== callout analogy
+Think of GDP as a giant receipt totalling everything sold to final users in a year. It’s a powerful measure of how much economic activity there is. But a receipt doesn’t tell you whether the purchases made people happier, whether they were fairly shared, or whether the house was quietly falling apart while the shopping went on.
+
+=== steps Growth and the Rule of 70
+- Economic growth is usually measured as the percentage increase in real GDP.
+- Small differences in growth rates compound dramatically over time, just like interest.
+- To estimate how long it takes for an economy to **double** in size, divide **70** by the growth rate.
+- At **2%** a year, typical for many rich countries, GDP doubles in about **35 years**.
+- At **7%** a year, which China sustained for decades and India has approached in some years, it doubles in about **10 years**, and quadruples in about 20.
+- This is why sustained growth is so powerful: a country growing at 7% for 30 years can become roughly eight times richer within a single generation.
+
+=== text What GDP leaves out
+GDP was designed to measure market production, not wellbeing. Major gaps include:
+
+- **Unpaid work**: cooking, cleaning, childcare and caring for elderly relatives, often done by women, isn’t counted, even though it’s essential. If you hire someone to cook, GDP rises; if a family member cooks, it doesn’t.
+- **The informal economy**: much economic activity, especially in developing countries, happens off the books. A large share of India’s workforce is in informal jobs, which statisticians estimate but find hard to measure.
+- **Inequality**: GDP per person is an average. GDP can rise while most people’s incomes stagnate, if gains go mainly to the richest.
+- **Environment**: GDP counts the value of timber cut and oil burned, but not the depletion of forests and oil reserves, or the damage from pollution. Cleaning up after a disaster can even **raise** GDP.
+- **Health, leisure and happiness**: working longer hours raises GDP; more free time doesn’t show up at all.
+
+=== text Alternatives and supplements
+Many measures try to fill these gaps:
+
+- The **Human Development Index (HDI)**, created in **1990** by the Pakistani economist **Mahbub ul Haq** with input from the Indian economist **Amartya Sen**, combines income with **life expectancy** and **education**. It reflects Sen’s idea that development should be about expanding people’s real freedoms and capabilities, not just income.
+- **Bhutan** famously promotes **Gross National Happiness**, measuring wellbeing across areas like health, community, culture and environment.
+- Many statistical agencies now publish measures of wellbeing, inequality and natural capital alongside GDP.
+
+=== reveal If GDP has so many flaws, why is it still used everywhere?
+Because, despite its limits, it measures something important. GDP per person is strongly correlated with many things people care about, such as life expectancy, child survival, education and access to clean water, even if the relationship isn’t perfect. It’s also standardised, regularly updated and comparable across countries, which alternatives often aren’t. Most economists argue that GDP should be used as **one** important indicator among several, not as the sole measure of a country’s success. The danger comes when growth in GDP becomes the only goal, regardless of what kind of growth it is, or who benefits.
+
+=== keypoints
+- **GDP** is the market value of all **final** goods and services produced in a country in a period; it can be measured by production, income or spending (**C + I + G + X − M**).
+- **Real GDP** adjusts for inflation; **GDP per capita** adjusts for population; **PPP** adjusts for price differences between countries.
+- Growth compounds: **70 ÷ growth rate** ≈ years to double.
+- GDP omits **unpaid work**, much of the **informal economy**, **inequality**, **environmental damage** and **wellbeing**.
+- **Kuznets** himself warned GDP doesn’t measure welfare.
+- Alternatives include the **Human Development Index** (ul Haq and Sen, 1990) and Bhutan’s **Gross National Happiness**.
+
+=== why
+GDP figures appear constantly in news and political debates, often used to judge governments and compare countries. Understanding what GDP measures, and what it doesn’t, helps you interpret those claims critically. It also sets up the next lesson’s big question: why are some countries so much richer than others?

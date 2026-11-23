@@ -1,0 +1,86 @@
+{
+  "id": "economics.opportunity-cost.2",
+  "region": "economics",
+  "topic": "opportunity-cost",
+  "level": 2,
+  "prerequisites": [
+    "economics.opportunity-cost.1"
+  ],
+  "title": "Comparative Advantage: Why Specialising Makes Everyone Richer",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 1776, the Scottish philosopher **Adam Smith** described a small pin factory. One worker alone, making pins from start to finish, could make perhaps **20** a day, maybe fewer. But in the factory, the work was split into about **18 separate steps**, such as drawing the wire, straightening it, cutting it and sharpening it, with each worker specialising in a few. Ten workers made around **48,000** pins a day, about **4,800** each.\n\nSpecialisation is one of the most powerful forces in economics. But it raises a puzzle: what if one person, or one country, is better at **everything**? Should they still trade? The answer, discovered about forty years after Smith, is one of the most surprising ideas in economics."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met **opportunity cost**: the value of the best alternative you give up. Now apply it to producing things.\n\n- **Absolute advantage** means being able to produce more of something with the same resources: being faster or more productive at it.\n- **Comparative advantage** means being able to produce something at a **lower opportunity cost**: giving up less of other things to make it.\n\nIn **1817**, the British economist **David Ricardo** showed that **trade is beneficial whenever opportunity costs differ**, even if one side has an absolute advantage in everything. Each side should specialise in what it’s **relatively** best at, and trade for the rest. Both end up with more than they could produce alone."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: the chef and the assistant",
+      "items": [
+        "A skilled chef can, in one hour, either cook **10 meals** or wash **100 plates**.",
+        "Her assistant can, in one hour, either cook **2 meals** or wash **50 plates**.",
+        "The chef is better at **both** tasks: she has an absolute advantage in cooking and washing.",
+        "Now compare **opportunity costs**. For the chef, 1 meal costs 10 plates washed (100 ÷ 10). For the assistant, 1 meal costs 25 plates (50 ÷ 2).",
+        "So the chef gives up fewer plates per meal: she has a **comparative advantage in cooking**. The assistant gives up fewer meals per plate (1 plate costs him 1/25 of a meal, versus 1/10 for the chef): he has a **comparative advantage in washing**.",
+        "If the chef cooks all day and the assistant washes, the restaurant produces more meals **and** gets more plates washed than if each split their time. Even though the chef is better at washing, every hour she spends washing costs 10 meals; the assistant costs only 2."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a top surgeon who also happens to be the fastest typist in the hospital. Should she type her own reports? No. Every hour she spends typing is an hour not spent operating, which is enormously valuable. Even though a secretary types more slowly, the hospital as a whole is far better off if the surgeon operates and the secretary types. That’s comparative advantage in one sentence."
+    },
+    {
+      "type": "text",
+      "heading": "Ricardo’s wine and cloth",
+      "md": "Ricardo used two countries and two goods. In his example, **Portugal** could produce both **wine** and **cloth** using less labour than **England**. Portugal had an absolute advantage in both. But Portugal’s advantage was much **bigger** in wine than in cloth.\n\nSo it made sense for Portugal to specialise in wine and England in cloth, then trade. Both countries ended up with more wine and more cloth than if each tried to make both itself. The insight is counter-intuitive, which is why it’s often misunderstood: a country doesn’t need to be the best at anything to benefit from trade. It only needs to be **relatively** better at some things than others."
+    },
+    {
+      "type": "text",
+      "heading": "Picturing choices: the production possibilities frontier",
+      "md": "Economists often draw a **production possibilities frontier (PPF)**: a curve showing all the combinations of two goods an economy (or person) can produce with its resources.\n\n- Points **on** the curve use all resources efficiently.\n- Points **inside** the curve mean resources are being wasted, like unemployment or idle factories.\n- Points **outside** the curve are impossible with current resources and technology.\n\nMoving along the curve shows opportunity cost: making more of one good means making less of the other. Trade lets a country **consume** at a point outside its own frontier, by specialising and exchanging. Economic growth, through better technology or more resources, pushes the whole frontier outward."
+    },
+    {
+      "type": "diagram",
+      "alt": "A graph with cloth on the horizontal axis and wine on the vertical axis. A curved line bows outward from the wine axis to the cloth axis, labelled possible combinations. A point inside the curve is labelled wasteful, a point outside is labelled impossible alone, reachable with trade.",
+      "caption": "A production possibilities frontier: specialisation and trade can let a country consume beyond what it could make alone.",
+      "svg": "<svg viewBox=\"0 0 320 210\" xmlns=\"http://www.w3.org/2000/svg\"> <g style=\"stroke:var(--line-2);stroke-width:1\"><path d=\"M45 175 H295\"/><path d=\"M45 20 V175\"/></g> <path d=\"M45 35 C150 40 230 90 255 175\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/> <circle cx=\"120\" cy=\"125\" r=\"4\" style=\"fill:currentColor;opacity:.7\"/> <circle cx=\"225\" cy=\"60\" r=\"4\" style=\"fill:var(--gold)\"/> <g style=\"font:500 9px var(--font-ui);fill:var(--text-2)\"><text x=\"170\" y=\"196\" text-anchor=\"middle\">cloth</text><text x=\"30\" y=\"100\" text-anchor=\"middle\" transform=\"rotate(-90 30 100)\">wine</text><text x=\"128\" y=\"138\">wasteful</text><text x=\"232\" y=\"52\">beyond the frontier:</text><text x=\"232\" y=\"63\">reachable with trade</text><text x=\"150\" y=\"88\" style=\"fill:var(--accent)\">possible combinations</text></g> </svg>"
+    },
+    {
+      "type": "text",
+      "heading": "Specialisation everywhere",
+      "md": "Comparative advantage explains much of economic life:\n\n- **People** specialise in careers and buy almost everything else, from food to haircuts.\n- **Regions** specialise: Tiruppur in Tamil Nadu is known for knitwear, Bengaluru for software, Silicon Valley for technology firms.\n- **Countries** specialise in what they produce relatively efficiently, from Bangladesh’s garments to Switzerland’s precision instruments and India’s IT and pharmaceutical services.\n\nAdam Smith argued that specialisation increases productivity because workers become more skilled, waste less time switching tasks and are more likely to invent better tools. But he also worried that extremely repetitive work could dull people’s minds, and argued for public education to counter it."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If specialisation and trade make everyone better off, why do they cause so much controversy?",
+      "md": "Because “everyone better off” describes the **overall** gains, not each individual. When a country specialises, some industries expand and others shrink. Workers in shrinking industries may lose jobs, and moving to new industries or regions can be difficult, slow and painful. The total gains can be large while the losses are concentrated on particular people and places. Whether and how the winners should compensate the losers is a political question, explored further in the Trade lessons later in this region."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Absolute advantage**: producing more with the same resources. **Comparative advantage**: producing at a **lower opportunity cost**.",
+        "**Ricardo (1817)** showed trade benefits both sides whenever **opportunity costs differ**, even if one side is better at everything.",
+        "**Adam Smith’s pin factory (1776)** showed how **specialisation** boosts productivity enormously.",
+        "A **production possibilities frontier** shows the trade-offs an economy faces; trade lets it consume beyond its own frontier.",
+        "Specialisation operates at the level of **people**, **regions** and **countries**.",
+        "Overall gains can come with **concentrated losses** for some workers and industries."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Comparative advantage is one of the few ideas in economics that is both true and non-obvious, and it explains why people and countries trade, why careers specialise and why being “bad” at something doesn’t make trade pointless. It’s the foundation for the Trade lessons later in this region, and a useful way to think about how you spend your own time."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between absolute and comparative advantage, and why can two people both gain from trade even if one is better at everything?"
+  }
+}

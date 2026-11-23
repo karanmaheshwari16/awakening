@@ -1,0 +1,34 @@
+[
+  {
+    "id": "economics.gate.1",
+    "region": "economics",
+    "tier": 1,
+    "title": "The Price of Clean Air",
+    "question": "A city suffers from severe air pollution caused by vehicles, factories and crop burning nearby. One politician proposes capping the price of petrol to help families; another proposes a tax on polluting activities. Using opportunity cost, supply and demand, price controls and market failure, evaluate both proposals and suggest what a better policy mix might look like.",
+    "links": ["opportunity-cost", "supply-demand", "market-failures", "money-banks"],
+    "model_answer": "Air pollution is a negative externality: drivers, factories and farmers don’t pay the health costs their emissions impose on others, so the market produces too much pollution.\n\nCapping the petrol price below the market level is a price ceiling. It would increase the quantity of petrol demanded while discouraging supply, risking shortages, queues and black markets. It would also make driving cheaper, likely increasing pollution, the opposite of what the city needs. Its benefits would go disproportionately to people who drive most, who are often better off.\n\nA tax on polluting activities is a Pigouvian tax: it makes polluters face more of the true cost, so they cut emissions where it is cheapest to do so. Because demand for fuel is fairly inelastic in the short run, the tax would raise reliable revenue but might fall heavily on lower-income households who spend a larger share of income on transport and energy.\n\nEvery policy has an opportunity cost: money spent subsidising fuel cannot be spent on cleaner buses or health care.\n\nA better mix: a pollution tax or tradeable permits for factories; using the revenue to fund better public transport and direct support for poorer households, so the policy is fair; regulation or targeted subsidies to give farmers affordable alternatives to stubble burning; and clear standards for vehicles. This combines prices, rules and support, rather than relying on a price control that makes the externality worse.",
+    "key_points": [
+      "Pollution is a negative externality: the market produces too much of it.",
+      "A petrol price cap is a price ceiling that causes shortages and increases driving and pollution.",
+      "A Pigouvian tax corrects the price signal, but can be regressive because fuel demand is inelastic.",
+      "Every policy has an opportunity cost in how public money is used.",
+      "A good mix pairs pollution pricing with revenue recycling, alternatives for farmers, public transport and standards."
+    ]
+  },
+  {
+    "id": "economics.gate.2",
+    "region": "economics",
+    "tier": 2,
+    "title": "The Development Puzzle",
+    "question": "A developing country wants to raise living standards quickly. Its advisers disagree: one wants high tariffs to protect new industries, another wants to open fully to trade, and a third says nothing will work without better institutions. Using what you have learned about growth, trade, money and banking, explain the strengths and weaknesses of each view and how they might fit together.",
+    "links": ["growth", "trade", "money-banks", "market-failures"],
+    "model_answer": "Each adviser captures part of the story.\n\nProtection: the infant industry argument has historical support; the US, Germany, Japan and South Korea all protected industries while industrialising. Temporary protection can give firms time to learn. But protection raises prices for consumers and businesses, invites retaliation and often becomes permanent, sheltering inefficient firms and inviting rent-seeking, as India’s Licence Raj illustrated.\n\nOpenness: trade lets the country specialise according to comparative advantage, reach economies of scale, import technology and join global value chains, which is how many East Asian economies grew. China and India both accelerated after opening up. But opening abruptly can devastate exposed industries and regions, as the China shock showed even in a rich country, so adjustment support matters.\n\nInstitutions: research by Acemoglu, Johnson and Robinson and the contrast between North and South Korea suggest that secure property rights, the rule of law, constraints on power and broad participation are fundamental; without them, investment is discouraged and gains are captured by elites. A stable financial system, with trusted money, a credible central bank and supervised banks, is part of this: inflation or banking crises can wipe out years of growth.\n\nThey fit together: institutions provide the foundation; opening to trade and technology drives catch-up growth; any protection should be targeted, temporary and tied to performance such as exporting; and investment in education, infrastructure and safety nets helps people adapt and shares the gains.",
+    "key_points": [
+      "Infant-industry protection has historical support but risks permanence, higher prices and rent-seeking.",
+      "Openness brings comparative advantage, scale, technology and value chains, but creates concentrated losers.",
+      "Inclusive institutions and the rule of law underpin long-run growth.",
+      "Stable money and well-regulated banks prevent crises that destroy growth.",
+      "Best approach combines strong institutions, openness, targeted temporary support and investment in people."
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "id": "economics.growth.1",
+  "region": "economics",
+  "topic": "growth",
+  "level": 1,
+  "prerequisites": [],
+  "title": "GDP: Measuring an Economy, and What It Misses",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1934**, the economist **Simon Kuznets** presented the US Congress with the first official estimates of national income, helping to create the measure we now call **GDP**. It became one of the most influential numbers in the world, used to judge governments, compare countries and guide policy.\n\nYet Kuznets himself warned, in that very report, that the welfare of a nation can scarcely be inferred from a measure of national income. He knew his number left out much of what matters. Nearly a century later, economists, governments and citizens still argue about what GDP tells us, and what it hides."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Gross domestic product (GDP)** is the total market value of all **final** goods and services produced within a country during a period, usually a year or a quarter.\n\nA few words in that definition matter:\n\n- **Market value**: things are counted at their prices, which lets very different things, like rice, haircuts and software, be added together.\n- **Final**: only goods sold to their final users are counted, to avoid **double counting**. The flour bought by a bakery isn’t counted separately from the bread it becomes.\n- **Within a country**: GDP counts production inside a country’s borders, whoever owns the business.\n\nGDP can be measured three ways, which in principle give the same answer: by adding up everything **produced**, all the **income** earned (wages, profits, rents), or all the **spending** on final goods. The spending approach is often written as **GDP = C + I + G + (X − M)**: consumer spending, plus business investment, plus government spending, plus exports minus imports."
+    },
+    {
+      "type": "text",
+      "heading": "Comparing across time and countries",
+      "md": "Raw GDP figures can mislead, so economists adjust them:\n\n**Real versus nominal**: nominal GDP uses current prices, so it rises with inflation even if production doesn’t change. **Real GDP** adjusts for inflation, measuring actual changes in output. When news reports that an economy grew 6%, it usually means real GDP.\n\n**Per person**: a large country naturally has a large GDP. **GDP per capita** (GDP divided by population) gives a better sense of average living standards. India has one of the largest economies in the world by total GDP, but because it has the world’s largest population, its GDP per person is far lower than in many smaller countries.\n\n**Purchasing power parity (PPP)**: prices differ across countries. A haircut costs far less in Delhi than in London. Converting GDP at market exchange rates understates living standards in countries where prices are low. **PPP** adjusts for these differences, comparing what money can actually buy. By PPP, India ranks as one of the very largest economies in the world, behind only China and the US."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of GDP as a giant receipt totalling everything sold to final users in a year. It’s a powerful measure of how much economic activity there is. But a receipt doesn’t tell you whether the purchases made people happier, whether they were fairly shared, or whether the house was quietly falling apart while the shopping went on."
+    },
+    {
+      "type": "steps",
+      "title": "Growth and the Rule of 70",
+      "items": [
+        "Economic growth is usually measured as the percentage increase in real GDP.",
+        "Small differences in growth rates compound dramatically over time, just like interest.",
+        "To estimate how long it takes for an economy to **double** in size, divide **70** by the growth rate.",
+        "At **2%** a year, typical for many rich countries, GDP doubles in about **35 years**.",
+        "At **7%** a year, which China sustained for decades and India has approached in some years, it doubles in about **10 years**, and quadruples in about 20.",
+        "This is why sustained growth is so powerful: a country growing at 7% for 30 years can become roughly eight times richer within a single generation."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What GDP leaves out",
+      "md": "GDP was designed to measure market production, not wellbeing. Major gaps include:\n\n- **Unpaid work**: cooking, cleaning, childcare and caring for elderly relatives, often done by women, isn’t counted, even though it’s essential. If you hire someone to cook, GDP rises; if a family member cooks, it doesn’t.\n- **The informal economy**: much economic activity, especially in developing countries, happens off the books. A large share of India’s workforce is in informal jobs, which statisticians estimate but find hard to measure.\n- **Inequality**: GDP per person is an average. GDP can rise while most people’s incomes stagnate, if gains go mainly to the richest.\n- **Environment**: GDP counts the value of timber cut and oil burned, but not the depletion of forests and oil reserves, or the damage from pollution. Cleaning up after a disaster can even **raise** GDP.\n- **Health, leisure and happiness**: working longer hours raises GDP; more free time doesn’t show up at all."
+    },
+    {
+      "type": "text",
+      "heading": "Alternatives and supplements",
+      "md": "Many measures try to fill these gaps:\n\n- The **Human Development Index (HDI)**, created in **1990** by the Pakistani economist **Mahbub ul Haq** with input from the Indian economist **Amartya Sen**, combines income with **life expectancy** and **education**. It reflects Sen’s idea that development should be about expanding people’s real freedoms and capabilities, not just income.\n- **Bhutan** famously promotes **Gross National Happiness**, measuring wellbeing across areas like health, community, culture and environment.\n- Many statistical agencies now publish measures of wellbeing, inequality and natural capital alongside GDP."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If GDP has so many flaws, why is it still used everywhere?",
+      "md": "Because, despite its limits, it measures something important. GDP per person is strongly correlated with many things people care about, such as life expectancy, child survival, education and access to clean water, even if the relationship isn’t perfect. It’s also standardised, regularly updated and comparable across countries, which alternatives often aren’t. Most economists argue that GDP should be used as **one** important indicator among several, not as the sole measure of a country’s success. The danger comes when growth in GDP becomes the only goal, regardless of what kind of growth it is, or who benefits."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**GDP** is the market value of all **final** goods and services produced in a country in a period; it can be measured by production, income or spending (**C + I + G + X − M**).",
+        "**Real GDP** adjusts for inflation; **GDP per capita** adjusts for population; **PPP** adjusts for price differences between countries.",
+        "Growth compounds: **70 ÷ growth rate** ≈ years to double.",
+        "GDP omits **unpaid work**, much of the **informal economy**, **inequality**, **environmental damage** and **wellbeing**.",
+        "**Kuznets** himself warned GDP doesn’t measure welfare.",
+        "Alternatives include the **Human Development Index** (ul Haq and Sen, 1990) and Bhutan’s **Gross National Happiness**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "GDP figures appear constantly in news and political debates, often used to judge governments and compare countries. Understanding what GDP measures, and what it doesn’t, helps you interpret those claims critically. It also sets up the next lesson’s big question: why are some countries so much richer than others?"
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does GDP measure, why do economists use GDP per person and purchasing power parity, and what are two important things GDP leaves out?"
+  }
+}

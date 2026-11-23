@@ -1,0 +1,83 @@
+{
+  "id": "economics.market-failures.1",
+  "region": "economics",
+  "topic": "market-failures",
+  "level": 1,
+  "prerequisites": [],
+  "title": "When Markets Fail",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Every winter, the air in Delhi and much of northern India turns thick and grey. Smoke from burning crop stubble in surrounding states, vehicle exhaust, construction dust, industry and other sources combine into some of the worst air pollution in the world. Studies estimate that air pollution shortens average lives in the region by years.\n\nEach farmer burning stubble, each driver and each factory is making a sensible choice from their own point of view. None of them pays for the harm their smoke does to the millions breathing it. This is a **market failure**: a situation where markets, left alone, produce outcomes that are bad for society as a whole."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In earlier lessons, you saw how markets can coordinate millions of decisions through prices. But markets work well only under certain conditions. When those conditions break down, markets can produce too much of some things, too little of others or nothing at all. Economists identify several main types of **market failure**:\n\n1. **Externalities**\n2. **Public goods**\n3. **Common resources**\n4. **Information problems**\n5. **Market power** (monopolies)\n\nRecognising them doesn’t automatically mean governments should step in; as the next lesson shows, government action can fail too. But it explains why almost every economy mixes markets with some government role."
+    },
+    {
+      "type": "text",
+      "heading": "Externalities: costs and benefits that spill over",
+      "md": "An **externality** is a cost or benefit that affects people who aren’t part of a transaction.\n\n- **Negative externalities** harm others: pollution, traffic congestion, noise, antibiotic overuse leading to resistant bacteria. Because the producer doesn’t pay the full cost, the market produces **too much** of the harmful thing.\n- **Positive externalities** benefit others: vaccination (which protects people around you as well as you), education (which benefits society through a more skilled, informed population), research and planting trees. Because the producer doesn’t capture all the benefits, the market produces **too little**."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a negative externality like eating at a restaurant where part of your bill is secretly paid by strangers at other tables. Because you don’t face the full price, you order more than you would if you paid it all. Pollution works like that: the polluter enjoys the benefits, while the costs are spread across everyone else’s lungs."
+    },
+    {
+      "type": "text",
+      "heading": "Fixing externalities",
+      "md": "Economists have proposed several approaches:\n\n- **Pigouvian taxes**, named after the economist **Arthur Pigou**: tax the harmful activity by roughly the cost it imposes on others, so the price reflects the true cost. Carbon taxes and fuel taxes are examples.\n- **Subsidies** for positive externalities, such as free or subsidised vaccines and education.\n- **Regulation**: limits on emissions, bans on certain pollutants or required standards.\n- **Cap and trade**: set a total limit on pollution, issue permits adding up to that limit, and let companies trade them. Companies that can cut pollution cheaply sell permits to those for whom it’s expensive. The **US Acid Rain Program**, launched under 1990 legislation, used this approach to cut sulphur dioxide emissions from power plants substantially, at a lower cost than many had predicted. The EU’s emissions trading system applies the idea to carbon."
+    },
+    {
+      "type": "text",
+      "heading": "Public goods",
+      "md": "A **public good** has two features:\n\n- **Non-excludable**: you can’t easily stop people who don’t pay from benefiting.\n- **Non-rival**: one person using it doesn’t reduce what’s available for others.\n\nExamples include national defence, street lighting, flood defences, basic scientific knowledge and clean air. The problem is the **free-rider problem**: since people can benefit without paying, each has an incentive to let others pay. A private company would struggle to sell street lighting to individual residents. As a result, markets tend to **under-provide** public goods, which is why they’re usually funded through taxes."
+    },
+    {
+      "type": "text",
+      "heading": "Common resources and the tragedy of the commons",
+      "md": "**Common resources** are non-excludable but **rival**: anyone can use them, but use by one person leaves less for others. Examples include fish in the ocean, groundwater, forests and grazing land.\n\nIn **1968**, the ecologist **Garrett Hardin** described the **tragedy of the commons**: if a pasture is open to everyone, each herder gains by adding more animals, while the cost of overgrazing is shared by all. Rationally, each adds more, and the pasture is destroyed. Overfishing and groundwater depletion follow this pattern.\n\nBut the political economist **Elinor Ostrom** studied real communities and found that the “tragedy” isn’t inevitable. From Swiss alpine meadows and Japanese forests to irrigation systems in **Nepal** and fisheries in many countries, communities had sustainably managed shared resources for centuries, using their own rules, monitoring and penalties, without either privatisation or top-down government control. In **2009**, she became the first woman to win the Nobel Prize in Economics."
+    },
+    {
+      "type": "steps",
+      "title": "Ostrom’s principles for managing a commons",
+      "items": [
+        "**Clear boundaries**: who has the right to use the resource is well defined.",
+        "**Rules fit local conditions**, rather than being imposed from far away.",
+        "**Users help make the rules**, so they see them as legitimate.",
+        "**Monitoring**: someone accountable to the users watches how the resource is used.",
+        "**Graduated penalties**: small sanctions for first offences, tougher ones for repeat offenders.",
+        "**Cheap ways to resolve disputes**, and recognition of the community’s right to organise by higher authorities."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What happens when one side of a deal knows much more than the other?",
+      "md": "That’s an **information problem**, or **asymmetric information**. You met it in the Money region with George Akerlof’s used-car example: if sellers know which cars are “lemons” but buyers can’t tell, buyers offer only an average price, good-car owners withdraw, and the market can unravel. It also explains problems in insurance, healthcare (doctors know more than patients), finance and hiring. Solutions include warranties, reputations and reviews, independent inspections, licensing of professionals and laws requiring disclosure. Akerlof shared the 2001 Nobel Prize with Michael Spence and Joseph Stiglitz for work on these problems."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Market failure** happens when markets left alone produce outcomes that are bad for society.",
+        "**Negative externalities** (like pollution) lead to too much; **positive externalities** (like vaccination) to too little.",
+        "Fixes include **Pigouvian taxes**, **subsidies**, **regulation** and **cap and trade**, as in the US **Acid Rain Program**.",
+        "**Public goods** are **non-excludable** and **non-rival**; the **free-rider problem** leads to under-provision.",
+        "The **tragedy of the commons** (Hardin, 1968) threatens shared resources, but **Elinor Ostrom** showed communities can manage them well.",
+        "**Asymmetric information** and **market power** are further sources of market failure."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Many of the world’s biggest problems, including air pollution, climate change, overfishing, pandemics and underfunded research, are market failures at heart. Understanding them helps you see why purely market or purely government solutions often fall short, and why the best answers frequently combine prices, rules and community action. Next, you’ll see the other side: how government intervention can fail too."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is an externality, why do public goods tend to be under-provided by markets, and what did Elinor Ostrom discover about managing shared resources?"
+  }
+}

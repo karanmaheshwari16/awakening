@@ -1,0 +1,78 @@
+{
+  "id": "economics.trade.1",
+  "region": "economics",
+  "topic": "trade",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Why Countries Trade",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Pick up a smartphone and try to work out where it was made. The answer is: almost everywhere. Its design might come from the US or South Korea; its most advanced chips from Taiwan; its camera sensors from Japan; its rare earth elements largely processed in China; its glass from the US or China; its software built by engineers around the world, including in India; and its final assembly in China, India or Vietnam.\n\nNo single country could make a modern smartphone alone, at least not at anything like the same price. Your phone is the product of a global web of specialisation and trade, linking thousands of companies in dozens of countries."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "International trade is simply buying and selling across borders. Its basic logic is the same as trade between individuals, which you met in the comparative advantage lesson: people and countries gain by **specialising** in what they do relatively well and **exchanging** for the rest.\n\nTrade brings several kinds of benefits:\n\n- **Comparative advantage**: countries specialise where their opportunity costs are lowest, raising total output.\n- **Economies of scale**: producing for a world market lets firms produce in huge volumes, lowering costs per unit.\n- **Variety**: consumers get access to goods that can’t be produced locally, like tropical fruit in cold countries or specialised medicines.\n- **Competition and ideas**: foreign competition pushes domestic firms to improve, and trade spreads technology and know-how."
+    },
+    {
+      "type": "text",
+      "heading": "The box that changed the world",
+      "md": "For most of history, loading and unloading ships was slow and expensive. Dock workers carried goods piece by piece: sacks, barrels, crates. A ship might spend as long in port as at sea, and theft and damage were common.\n\nIn **1956**, an American trucking entrepreneur named **Malcolm McLean** sent a ship from New Jersey to Texas carrying **58** metal containers that could be lifted straight from trucks onto the ship. Standardised shipping containers, which could move seamlessly between ships, trains and trucks, dramatically cut the cost and time of transporting goods. As containerisation spread worldwide from the 1960s, it became one of the most important, if least glamorous, drivers of globalisation. Today, giant container ships can carry over **20,000** containers each."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of trade before containers as moving house by carrying every item separately, by hand, onto a truck, then off again at the other end, then onto another truck. Containerisation is like packing everything into identical boxes that a crane can lift in seconds, onto any truck, train or ship in the world. The goods didn’t change; moving them became vastly cheaper."
+    },
+    {
+      "type": "text",
+      "heading": "Global value chains",
+      "md": "Cheaper transport and communications allowed companies to split production into stages carried out in different countries: design in one, components in several, assembly in another. These are **global value chains**. A large share of world trade now consists of parts and components crossing borders, sometimes several times, before becoming finished products.\n\nValue chains let developing countries join global manufacturing by specialising in particular stages, such as assembly, rather than building whole industries from scratch. But they also create vulnerabilities, as the COVID-19 pandemic showed, when disruptions in one place caused shortages worldwide."
+    },
+    {
+      "type": "text",
+      "heading": "India’s place in world trade",
+      "md": "India’s trade has grown enormously since its economy opened up in **1991**. Some notable strengths:\n\n- **IT and business services**: India is one of the world’s largest exporters of software and IT services, with companies serving clients worldwide. Services exports have become a major part of India’s economy.\n- **Pharmaceuticals**: India is a leading producer of **generic medicines**, cheaper versions of drugs whose patents have expired, supplying a large share of generic medicines used worldwide, including in Africa and the US. It is often called “the pharmacy of the world”.\n- **Remittances**: India receives more money from citizens working abroad than any other country, over **100 billion dollars** a year in recent years.\n- Recent government policies, such as production-linked incentive schemes launched in **2020**, aim to expand manufacturing, including electronics, where India has become a major assembly hub for smartphones."
+    },
+    {
+      "type": "steps",
+      "title": "How trade is managed: tariffs, quotas and the WTO",
+      "items": [
+        "A **tariff** is a tax on imports. It raises the price of foreign goods, protecting domestic producers but making goods more expensive for consumers and for businesses that use imported parts.",
+        "A **quota** limits the quantity of a good that can be imported.",
+        "**Non-tariff barriers** include regulations, standards and paperwork that make importing harder, sometimes for legitimate safety reasons, sometimes as disguised protection.",
+        "After World War II, countries created the **General Agreement on Tariffs and Trade (GATT)** in **1947** to reduce trade barriers through negotiation. Average tariffs on manufactured goods fell dramatically over the following decades.",
+        "In **1995**, the **World Trade Organization (WTO)** replaced GATT, with a system for settling trade disputes between members. Its core principle is non-discrimination: treating all members’ goods equally.",
+        "Countries also sign **free trade agreements** with specific partners, cutting tariffs between them."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Does a country gain from trade even if it runs a trade deficit?",
+      "md": "Often, yes. A **trade deficit** means a country imports more than it exports. Politicians sometimes describe deficits as “losing”, but economists generally see it differently. A deficit means a country is buying more goods from abroad than it sells, and paying for the difference by selling assets or borrowing, often reflecting the fact that it saves less than it invests. Deficits can be sustainable or problematic depending on circumstances: financing productive investment is very different from funding consumption with unsustainable debt. Trade balances with individual countries are even less meaningful: you probably run a “trade deficit” with your local shop, buying far more from it than it buys from you, and that’s perfectly fine."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Countries trade to benefit from **comparative advantage**, **economies of scale**, **variety** and **competition and ideas**.",
+        "**Containerisation**, pioneered by **Malcolm McLean** in **1956**, slashed transport costs and drove globalisation.",
+        "**Global value chains** split production across many countries, creating efficiency and vulnerability.",
+        "India is a major exporter of **IT services** and **generic medicines**, and the world’s largest recipient of **remittances**.",
+        "**Tariffs**, **quotas** and **non-tariff barriers** restrict trade; **GATT (1947)** and the **WTO (1995)** reduced barriers.",
+        "**Trade deficits** aren’t automatically harmful; context matters."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Trade shapes what you buy, what it costs, what jobs exist in your town and how countries relate to one another. Understanding why countries trade, and how trade is organised, helps you make sense of debates about tariffs, globalisation and supply chains. The next lesson looks at the harder side: who loses from trade, and why trade wars happen."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do countries trade even when they could make things themselves, and how did containerisation and global supply chains change world trade?"
+  }
+}

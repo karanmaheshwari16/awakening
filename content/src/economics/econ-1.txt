@@ -1,0 +1,296 @@
+##### LESSON
+id: economics.opportunity-cost.2
+title: Comparative Advantage: Why Specialising Makes Everyone Richer
+minutes: 15
+prereq: economics.opportunity-cost.1
+check: In your own words: what is the difference between absolute and comparative advantage, and why can two people both gain from trade even if one is better at everything?
+
+=== hook
+In 1776, the Scottish philosopher **Adam Smith** described a small pin factory. One worker alone, making pins from start to finish, could make perhaps **20** a day, maybe fewer. But in the factory, the work was split into about **18 separate steps**, such as drawing the wire, straightening it, cutting it and sharpening it, with each worker specialising in a few. Ten workers made around **48,000** pins a day, about **4,800** each.
+
+Specialisation is one of the most powerful forces in economics. But it raises a puzzle: what if one person, or one country, is better at **everything**? Should they still trade? The answer, discovered about forty years after Smith, is one of the most surprising ideas in economics.
+
+=== core
+In the previous lesson, you met **opportunity cost**: the value of the best alternative you give up. Now apply it to producing things.
+
+- **Absolute advantage** means being able to produce more of something with the same resources: being faster or more productive at it.
+- **Comparative advantage** means being able to produce something at a **lower opportunity cost**: giving up less of other things to make it.
+
+In **1817**, the British economist **David Ricardo** showed that **trade is beneficial whenever opportunity costs differ**, even if one side has an absolute advantage in everything. Each side should specialise in what it’s **relatively** best at, and trade for the rest. Both end up with more than they could produce alone.
+
+=== steps Worked example: the chef and the assistant
+- A skilled chef can, in one hour, either cook **10 meals** or wash **100 plates**.
+- Her assistant can, in one hour, either cook **2 meals** or wash **50 plates**.
+- The chef is better at **both** tasks: she has an absolute advantage in cooking and washing.
+- Now compare **opportunity costs**. For the chef, 1 meal costs 10 plates washed (100 ÷ 10). For the assistant, 1 meal costs 25 plates (50 ÷ 2).
+- So the chef gives up fewer plates per meal: she has a **comparative advantage in cooking**. The assistant gives up fewer meals per plate (1 plate costs him 1/25 of a meal, versus 1/10 for the chef): he has a **comparative advantage in washing**.
+- If the chef cooks all day and the assistant washes, the restaurant produces more meals **and** gets more plates washed than if each split their time. Even though the chef is better at washing, every hour she spends washing costs 10 meals; the assistant costs only 2.
+
+=== callout analogy
+Think of a top surgeon who also happens to be the fastest typist in the hospital. Should she type her own reports? No. Every hour she spends typing is an hour not spent operating, which is enormously valuable. Even though a secretary types more slowly, the hospital as a whole is far better off if the surgeon operates and the secretary types. That’s comparative advantage in one sentence.
+
+=== text Ricardo’s wine and cloth
+Ricardo used two countries and two goods. In his example, **Portugal** could produce both **wine** and **cloth** using less labour than **England**. Portugal had an absolute advantage in both. But Portugal’s advantage was much **bigger** in wine than in cloth.
+
+So it made sense for Portugal to specialise in wine and England in cloth, then trade. Both countries ended up with more wine and more cloth than if each tried to make both itself. The insight is counter-intuitive, which is why it’s often misunderstood: a country doesn’t need to be the best at anything to benefit from trade. It only needs to be **relatively** better at some things than others.
+
+=== text Picturing choices: the production possibilities frontier
+Economists often draw a **production possibilities frontier (PPF)**: a curve showing all the combinations of two goods an economy (or person) can produce with its resources.
+
+- Points **on** the curve use all resources efficiently.
+- Points **inside** the curve mean resources are being wasted, like unemployment or idle factories.
+- Points **outside** the curve are impossible with current resources and technology.
+
+Moving along the curve shows opportunity cost: making more of one good means making less of the other. Trade lets a country **consume** at a point outside its own frontier, by specialising and exchanging. Economic growth, through better technology or more resources, pushes the whole frontier outward.
+
+=== diagram A graph with cloth on the horizontal axis and wine on the vertical axis. A curved line bows outward from the wine axis to the cloth axis, labelled possible combinations. A point inside the curve is labelled wasteful, a point outside is labelled impossible alone, reachable with trade. | A production possibilities frontier: specialisation and trade can let a country consume beyond what it could make alone.
+<svg viewBox="0 0 320 210" xmlns="http://www.w3.org/2000/svg">
+<g style="stroke:var(--line-2);stroke-width:1"><path d="M45 175 H295"/><path d="M45 20 V175"/></g>
+<path d="M45 35 C150 40 230 90 255 175" style="fill:none;stroke:var(--accent);stroke-width:2"/>
+<circle cx="120" cy="125" r="4" style="fill:currentColor;opacity:.7"/>
+<circle cx="225" cy="60" r="4" style="fill:var(--gold)"/>
+<g style="font:500 9px var(--font-ui);fill:var(--text-2)"><text x="170" y="196" text-anchor="middle">cloth</text><text x="30" y="100" text-anchor="middle" transform="rotate(-90 30 100)">wine</text><text x="128" y="138">wasteful</text><text x="232" y="52">beyond the frontier:</text><text x="232" y="63">reachable with trade</text><text x="150" y="88" style="fill:var(--accent)">possible combinations</text></g>
+</svg>
+
+=== text Specialisation everywhere
+Comparative advantage explains much of economic life:
+
+- **People** specialise in careers and buy almost everything else, from food to haircuts.
+- **Regions** specialise: Tiruppur in Tamil Nadu is known for knitwear, Bengaluru for software, Silicon Valley for technology firms.
+- **Countries** specialise in what they produce relatively efficiently, from Bangladesh’s garments to Switzerland’s precision instruments and India’s IT and pharmaceutical services.
+
+Adam Smith argued that specialisation increases productivity because workers become more skilled, waste less time switching tasks and are more likely to invent better tools. But he also worried that extremely repetitive work could dull people’s minds, and argued for public education to counter it.
+
+=== reveal If specialisation and trade make everyone better off, why do they cause so much controversy?
+Because “everyone better off” describes the **overall** gains, not each individual. When a country specialises, some industries expand and others shrink. Workers in shrinking industries may lose jobs, and moving to new industries or regions can be difficult, slow and painful. The total gains can be large while the losses are concentrated on particular people and places. Whether and how the winners should compensate the losers is a political question, explored further in the Trade lessons later in this region.
+
+=== keypoints
+- **Absolute advantage**: producing more with the same resources. **Comparative advantage**: producing at a **lower opportunity cost**.
+- **Ricardo (1817)** showed trade benefits both sides whenever **opportunity costs differ**, even if one side is better at everything.
+- **Adam Smith’s pin factory (1776)** showed how **specialisation** boosts productivity enormously.
+- A **production possibilities frontier** shows the trade-offs an economy faces; trade lets it consume beyond its own frontier.
+- Specialisation operates at the level of **people**, **regions** and **countries**.
+- Overall gains can come with **concentrated losses** for some workers and industries.
+
+=== why
+Comparative advantage is one of the few ideas in economics that is both true and non-obvious, and it explains why people and countries trade, why careers specialise and why being “bad” at something doesn’t make trade pointless. It’s the foundation for the Trade lessons later in this region, and a useful way to think about how you spend your own time.
+
+##### LESSON
+id: economics.supply-demand.1
+title: Supply and Demand: The Invisible Auction
+minutes: 14
+check: In your own words: why do demand curves usually slope downward and supply curves upward, and what happens to price when demand rises or supply falls?
+
+=== hook
+In late **2019**, the price of onions in many Indian cities jumped to well over **100 rupees a kilogram**, several times what it had been months earlier. Heavy, unseasonal rains had damaged crops in major growing states. Onions are a staple of Indian cooking, so the price spike made headlines, sparked political arguments and led the government to restrict exports and import onions from abroad.
+
+Nobody issued an order to raise onion prices. No committee decided it. Prices rose because of the interaction of millions of buyers and sellers, each responding to their own situation. This is **supply and demand**, the most famous model in economics.
+
+=== core
+A **market** is any situation where buyers and sellers exchange goods or services: a vegetable market, an online shop, the market for labour or for houses.
+
+**Demand** is how much of something buyers are willing and able to buy at different prices. The **law of demand**: other things being equal, when the price **rises**, people buy **less**; when it falls, they buy more. When onions get expensive, families use fewer, substitute other ingredients or buy smaller quantities.
+
+**Supply** is how much sellers are willing and able to sell at different prices. The **law of supply**: other things being equal, when the price **rises**, sellers offer **more**, because it becomes more profitable; when it falls, they offer less.
+
+=== diagram A graph with quantity on the horizontal axis and price on the vertical axis. A demand line slopes downward from upper left to lower right. A supply line slopes upward from lower left to upper right. They cross at a point labelled equilibrium. | Demand slopes down, supply slopes up; they meet at the equilibrium price and quantity.
+<svg viewBox="0 0 320 210" xmlns="http://www.w3.org/2000/svg">
+<g style="stroke:var(--line-2);stroke-width:1"><path d="M45 175 H295"/><path d="M45 20 V175"/></g>
+<path d="M65 35 L270 160" style="fill:none;stroke:var(--accent);stroke-width:2"/>
+<path d="M65 160 L270 35" style="fill:none;stroke:currentColor;stroke-width:2"/>
+<circle cx="167" cy="97" r="4" style="fill:var(--gold)"/>
+<path d="M45 97 H167 V175" style="fill:none;stroke:var(--text-3);stroke-dasharray:3 3"/>
+<g style="font:500 9px var(--font-ui);fill:var(--text-2)"><text x="170" y="196" text-anchor="middle">quantity</text><text x="30" y="100" text-anchor="middle" transform="rotate(-90 30 100)">price</text><text x="252" y="150" style="fill:var(--accent)">demand</text><text x="252" y="32">supply</text><text x="175" y="92">equilibrium</text></g>
+</svg>
+
+=== text Where they meet: equilibrium
+Plot demand and supply on a graph, with price on the vertical axis and quantity on the horizontal axis. Demand slopes **downward**; supply slopes **upward**. Where they cross is the **equilibrium**: the price at which the quantity buyers want equals the quantity sellers offer.
+
+- If the price is **above** equilibrium, sellers offer more than buyers want. Unsold stock piles up (a **surplus**), so sellers cut prices.
+- If the price is **below** equilibrium, buyers want more than is available. Goods run out (a **shortage**), so sellers can raise prices.
+
+Either way, the price tends to move towards equilibrium, without anyone planning it.
+
+=== callout analogy
+Think of a market as a constant, invisible auction. If too many people want something, buyers effectively bid the price up until some drop out. If sellers have too much, they lower their prices until enough buyers step in. The equilibrium price is where the auction settles, and it keeps shifting as conditions change.
+
+=== text Movements versus shifts
+It’s important to distinguish two kinds of change:
+
+- A **movement along** a curve happens when the **price** of the good itself changes. A higher onion price means a lower quantity demanded: same demand curve, different point.
+- A **shift** of a curve happens when something **other than price** changes.
+
+**Demand shifts** can be caused by changes in income, tastes, population, expectations, or the prices of related goods. If incomes rise, demand for many goods increases at every price. If the price of a **substitute** (like tea versus coffee) rises, demand for the other increases.
+
+**Supply shifts** can be caused by changes in production costs, technology, weather, the number of sellers or government policy. Unseasonal rains shift onion supply to the **left**: less is available at every price.
+
+=== steps Worked example: the onion shock
+- Normally, onion supply and demand meet at a moderate price.
+- Heavy rains destroy part of the crop. **Supply shifts left**: at every price, farmers have fewer onions to sell.
+- At the old price, buyers now want more onions than are available: a **shortage**.
+- Prices rise. As they do, some buyers cut back or switch to substitutes (a movement along the demand curve), while traders who stored onions sell more of them.
+- A new equilibrium is reached at a **higher price** and **lower quantity**.
+- Over the following months, high prices encourage farmers to plant more onions and the government to allow imports, shifting supply back to the right. Prices eventually fall again, sometimes too far, if many farmers planted more at once.
+
+=== text Prices as messages
+In **1945**, the Austrian-British economist **Friedrich Hayek** argued in a famous essay that prices perform a remarkable function: they **communicate information**.
+
+Knowledge about the world, such as a crop failure in one region, a new use for a material or a change in consumer tastes, is scattered among millions of people. No central planner could gather it all. But a rising price signals scarcity to everyone at once, telling buyers to economise and producers to supply more, even if none of them knows the reason. Hayek called this a “marvel”: a system that coordinates millions of decisions without anyone fully understanding it.
+
+=== reveal Do supply and demand always work smoothly?
+No. The model is a powerful simplification, but real markets have complications. Prices can be slow to adjust; some markets are dominated by a few powerful sellers; buyers and sellers may lack information; and some goods affect people outside the transaction, like pollution. People also don’t always respond to prices the way simple models predict, as behavioural economics shows. And markets can produce outcomes that are efficient but that many people consider **unfair**, such as essential medicines becoming unaffordable. The next lessons explore these limits: what happens when governments set prices, and when markets fail.
+
+=== keypoints
+- **Demand**: buyers purchase less at higher prices. **Supply**: sellers offer more at higher prices.
+- The **equilibrium** is where quantity demanded equals quantity supplied; surpluses and shortages push prices towards it.
+- A change in the good’s own price causes a **movement along** a curve; other factors cause **shifts**.
+- Demand shifts with **income, tastes, population, expectations** and **related goods’ prices**; supply shifts with **costs, technology, weather** and **policy**.
+- A supply shock, like India’s **2019 onion crisis**, raises prices and lowers quantity.
+- **Hayek (1945)** argued prices act as signals that coordinate scattered knowledge.
+
+=== why
+Supply and demand explain the prices of almost everything you buy, as well as wages, rents and interest rates. With this simple model, you can make sense of news about fuel prices, housing costs, crop failures and shortages, and judge proposed policies more clearly. Next, you’ll see what happens when prices are controlled, and how responsive buyers and sellers really are.
+
+##### LESSON
+id: economics.supply-demand.2
+title: Elasticity, Price Controls and Unintended Consequences
+minutes: 15
+prereq: economics.supply-demand.1
+check: In your own words: what is price elasticity of demand, and what typically happens when a government sets a maximum price below the market price?
+
+=== hook
+In 1947, Bombay (now Mumbai) introduced strict **rent control** to protect tenants during a housing shortage. Rents for many existing tenancies were effectively frozen at historic levels, and tenants gained strong protection against eviction.
+
+Decades later, some tenants in central Mumbai were still paying rents that had barely changed since the 1940s. That sounds wonderful for those tenants. But landlords, earning almost nothing, had little reason to maintain their buildings, and many old buildings fell into dangerous disrepair, with periodic collapses. New investment in rental housing was discouraged. A policy meant to help tenants had consequences few had intended. Price controls are one of the clearest places where good intentions meet supply and demand.
+
+=== core
+In the previous lesson, you saw that buyers buy less when prices rise. But **how much** less? That depends on **price elasticity of demand**: how sensitive the quantity demanded is to a change in price.
+
+- **Elastic** demand: quantity changes a lot when price changes. If the price of one brand of biscuits rises, many people switch to another brand.
+- **Inelastic** demand: quantity changes little. If petrol prices rise, most people still need to drive to work, at least in the short term.
+
+Demand tends to be **inelastic** for necessities with few substitutes (basic food, essential medicines, fuel, salt), and **elastic** for luxuries and goods with many substitutes. Demand also usually becomes more elastic over **time**, as people find alternatives: switching to public transport or buying a more fuel-efficient vehicle after petrol prices rise.
+
+=== steps Why elasticity matters: who pays a tax?
+- The government puts a tax of **10** per unit on a product.
+- Legally, it might be collected from sellers. But who really bears it, a question economists call **tax incidence**, depends on elasticity, not on who hands over the money.
+- If demand is **inelastic** (like cigarettes for addicted smokers), sellers can raise prices by nearly the full tax, and buyers keep buying. **Buyers** bear most of the tax.
+- If demand is **elastic**, buyers would flee if prices rose much, so sellers must absorb most of the tax through lower profits. **Sellers** bear most of it.
+- This is why governments often tax goods with inelastic demand, like tobacco, alcohol and fuel: revenue is reliable. It’s also why such taxes can fall heavily on poorer households, who spend a larger share of income on necessities.
+
+=== text Price ceilings: shortages
+A **price ceiling** is a legal maximum price, usually set to make something more affordable. If it’s set **below** the market equilibrium, quantity demanded exceeds quantity supplied: a **shortage**.
+
+Typical consequences include:
+
+- **Queues and waiting lists**: goods are allocated by who arrives first, rather than who pays most.
+- **Black markets**: goods are resold illegally at higher prices.
+- **Lower quality**: sellers cut costs, since they can’t raise prices.
+- **Less supply over time**: producers invest less or leave the market.
+
+Rent control is the classic example. Surveys of leading economists, such as those run by the University of Chicago’s IGM Forum, find that a large majority believe broad rent control reduces the quantity and quality of rental housing. Supporters respond that softer versions, like limits on sudden rent increases, can protect tenants from displacement, and the debate continues in many cities.
+
+=== callout analogy
+Think of a price ceiling as forcing a dam to keep the water level artificially low. Downstream, people get water cheaply, but the reservoir isn’t refilled, the dam isn’t maintained, and eventually there’s less water for everyone. The intention, cheap water, is reasonable. The mechanism undermines it.
+
+=== text Price floors: surpluses
+A **price floor** is a legal minimum price. Set **above** equilibrium, it creates a **surplus**: more is supplied than buyers want.
+
+**Agricultural support prices** are a common example. India’s government announces **Minimum Support Prices (MSP)** for many crops and buys large quantities of wheat and rice at those prices, protecting farmers’ incomes and building stocks for food distribution programmes. Supporters see this as vital for farmers and food security. Critics argue it has encouraged over-production of water-intensive rice and wheat in some regions, depleting groundwater in states like Punjab, and led to large, costly grain stocks. How to reform it while protecting farmers is a major and sensitive political issue, as the farmers’ protests of **2020–21** showed.
+
+=== text The minimum wage debate
+A **minimum wage** is a price floor in the labour market. Simple supply and demand predicts that setting wages above the market level will reduce employment, because employers hire fewer workers.
+
+But in **1994**, economists **David Card** and **Alan Krueger** studied fast-food restaurants in New Jersey, which had raised its minimum wage, compared with neighbouring Pennsylvania, which hadn’t. They found **no evidence** that employment fell; if anything, it rose slightly. Their work, which contributed to Card’s 2021 Nobel Prize, challenged the simple model. One explanation is that many employers have some power to set wages below what a competitive market would pay, so a moderate minimum wage can raise pay without cutting jobs.
+
+Research since then is mixed. Many studies find moderate increases have small effects on employment; very large increases may have bigger ones. The size and context of the increase matter.
+
+=== reveal Surge pricing makes taxis expensive during storms and festivals. Is that fair?
+Economists and the public often disagree. Economists point out that higher prices during peaks encourage more drivers to work, ration rides to those who need them most urgently and reduce waiting times, while a fixed price would mean long waits and empty roads. Many people, however, see sharp price rises during emergencies as exploitative, sometimes called **price gouging**, and some places have laws restricting them during disasters. Research by the behavioural economist **Richard Thaler** and colleagues found that people judge price increases as unfair when they seem to exploit a sudden spike in demand, even when they accept them for rising costs. Efficiency and fairness can pull in different directions, and both matter to how people judge markets.
+
+=== keypoints
+- **Price elasticity of demand** measures how strongly quantity responds to price; necessities are **inelastic**, luxuries and goods with substitutes are **elastic**.
+- **Tax incidence** depends on elasticity: buyers bear more of a tax when demand is inelastic.
+- **Price ceilings** below equilibrium cause **shortages**, queues, black markets and lower quality, as with **rent control**.
+- **Price floors** above equilibrium cause **surpluses**, as with some agricultural support like India’s **MSP**.
+- **Card and Krueger (1994)** found a minimum wage rise didn’t reduce employment, challenging the simple model.
+- **Efficiency** and **fairness** can conflict, as in debates over **surge pricing**.
+
+=== why
+Governments regularly intervene in prices, through taxes, subsidies, rent rules, minimum wages and support prices. Understanding elasticity and price controls helps you predict their effects, spot unintended consequences and see why reasonable people disagree. Good policy usually requires weighing efficiency against fairness, rather than ignoring either.
+
+##### LESSON
+id: economics.market-failures.1
+title: When Markets Fail
+minutes: 15
+check: In your own words: what is an externality, why do public goods tend to be under-provided by markets, and what did Elinor Ostrom discover about managing shared resources?
+
+=== hook
+Every winter, the air in Delhi and much of northern India turns thick and grey. Smoke from burning crop stubble in surrounding states, vehicle exhaust, construction dust, industry and other sources combine into some of the worst air pollution in the world. Studies estimate that air pollution shortens average lives in the region by years.
+
+Each farmer burning stubble, each driver and each factory is making a sensible choice from their own point of view. None of them pays for the harm their smoke does to the millions breathing it. This is a **market failure**: a situation where markets, left alone, produce outcomes that are bad for society as a whole.
+
+=== core
+In earlier lessons, you saw how markets can coordinate millions of decisions through prices. But markets work well only under certain conditions. When those conditions break down, markets can produce too much of some things, too little of others or nothing at all. Economists identify several main types of **market failure**:
+
+1. **Externalities**
+2. **Public goods**
+3. **Common resources**
+4. **Information problems**
+5. **Market power** (monopolies)
+
+Recognising them doesn’t automatically mean governments should step in; as the next lesson shows, government action can fail too. But it explains why almost every economy mixes markets with some government role.
+
+=== text Externalities: costs and benefits that spill over
+An **externality** is a cost or benefit that affects people who aren’t part of a transaction.
+
+- **Negative externalities** harm others: pollution, traffic congestion, noise, antibiotic overuse leading to resistant bacteria. Because the producer doesn’t pay the full cost, the market produces **too much** of the harmful thing.
+- **Positive externalities** benefit others: vaccination (which protects people around you as well as you), education (which benefits society through a more skilled, informed population), research and planting trees. Because the producer doesn’t capture all the benefits, the market produces **too little**.
+
+=== callout analogy
+Think of a negative externality like eating at a restaurant where part of your bill is secretly paid by strangers at other tables. Because you don’t face the full price, you order more than you would if you paid it all. Pollution works like that: the polluter enjoys the benefits, while the costs are spread across everyone else’s lungs.
+
+=== text Fixing externalities
+Economists have proposed several approaches:
+
+- **Pigouvian taxes**, named after the economist **Arthur Pigou**: tax the harmful activity by roughly the cost it imposes on others, so the price reflects the true cost. Carbon taxes and fuel taxes are examples.
+- **Subsidies** for positive externalities, such as free or subsidised vaccines and education.
+- **Regulation**: limits on emissions, bans on certain pollutants or required standards.
+- **Cap and trade**: set a total limit on pollution, issue permits adding up to that limit, and let companies trade them. Companies that can cut pollution cheaply sell permits to those for whom it’s expensive. The **US Acid Rain Program**, launched under 1990 legislation, used this approach to cut sulphur dioxide emissions from power plants substantially, at a lower cost than many had predicted. The EU’s emissions trading system applies the idea to carbon.
+
+=== text Public goods
+A **public good** has two features:
+
+- **Non-excludable**: you can’t easily stop people who don’t pay from benefiting.
+- **Non-rival**: one person using it doesn’t reduce what’s available for others.
+
+Examples include national defence, street lighting, flood defences, basic scientific knowledge and clean air. The problem is the **free-rider problem**: since people can benefit without paying, each has an incentive to let others pay. A private company would struggle to sell street lighting to individual residents. As a result, markets tend to **under-provide** public goods, which is why they’re usually funded through taxes.
+
+=== text Common resources and the tragedy of the commons
+**Common resources** are non-excludable but **rival**: anyone can use them, but use by one person leaves less for others. Examples include fish in the ocean, groundwater, forests and grazing land.
+
+In **1968**, the ecologist **Garrett Hardin** described the **tragedy of the commons**: if a pasture is open to everyone, each herder gains by adding more animals, while the cost of overgrazing is shared by all. Rationally, each adds more, and the pasture is destroyed. Overfishing and groundwater depletion follow this pattern.
+
+But the political economist **Elinor Ostrom** studied real communities and found that the “tragedy” isn’t inevitable. From Swiss alpine meadows and Japanese forests to irrigation systems in **Nepal** and fisheries in many countries, communities had sustainably managed shared resources for centuries, using their own rules, monitoring and penalties, without either privatisation or top-down government control. In **2009**, she became the first woman to win the Nobel Prize in Economics.
+
+=== steps Ostrom’s principles for managing a commons
+- **Clear boundaries**: who has the right to use the resource is well defined.
+- **Rules fit local conditions**, rather than being imposed from far away.
+- **Users help make the rules**, so they see them as legitimate.
+- **Monitoring**: someone accountable to the users watches how the resource is used.
+- **Graduated penalties**: small sanctions for first offences, tougher ones for repeat offenders.
+- **Cheap ways to resolve disputes**, and recognition of the community’s right to organise by higher authorities.
+
+=== reveal What happens when one side of a deal knows much more than the other?
+That’s an **information problem**, or **asymmetric information**. You met it in the Money region with George Akerlof’s used-car example: if sellers know which cars are “lemons” but buyers can’t tell, buyers offer only an average price, good-car owners withdraw, and the market can unravel. It also explains problems in insurance, healthcare (doctors know more than patients), finance and hiring. Solutions include warranties, reputations and reviews, independent inspections, licensing of professionals and laws requiring disclosure. Akerlof shared the 2001 Nobel Prize with Michael Spence and Joseph Stiglitz for work on these problems.
+
+=== keypoints
+- **Market failure** happens when markets left alone produce outcomes that are bad for society.
+- **Negative externalities** (like pollution) lead to too much; **positive externalities** (like vaccination) to too little.
+- Fixes include **Pigouvian taxes**, **subsidies**, **regulation** and **cap and trade**, as in the US **Acid Rain Program**.
+- **Public goods** are **non-excludable** and **non-rival**; the **free-rider problem** leads to under-provision.
+- The **tragedy of the commons** (Hardin, 1968) threatens shared resources, but **Elinor Ostrom** showed communities can manage them well.
+- **Asymmetric information** and **market power** are further sources of market failure.
+
+=== why
+Many of the world’s biggest problems, including air pollution, climate change, overfishing, pandemics and underfunded research, are market failures at heart. Understanding them helps you see why purely market or purely government solutions often fall short, and why the best answers frequently combine prices, rules and community action. Next, you’ll see the other side: how government intervention can fail too.

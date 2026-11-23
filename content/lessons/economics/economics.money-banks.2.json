@@ -1,0 +1,80 @@
+{
+  "id": "economics.money-banks.2",
+  "region": "economics",
+  "topic": "money-banks",
+  "level": 2,
+  "prerequisites": [
+    "economics.money-banks.1"
+  ],
+  "title": "How Banks Create Money, and Why They Sometimes Collapse",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **9 March 2023**, depositors at **Silicon Valley Bank** in California, a major lender to technology start-ups, started withdrawing their money. News spread fast through group chats and social media. In a single day, customers tried to withdraw around **42 billion dollars**, roughly a quarter of the bank’s deposits.\n\nBy the next morning, the bank had collapsed, the second-largest bank failure in US history at the time. Old-fashioned bank runs had involved queues outside branches. This one happened on smartphones, in hours. To understand why banks can fall so fast, you need to understand something surprising: banks don’t just store money. They create it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Many people imagine that a bank is like a vault: you deposit money, and the bank lends out some of those deposits to borrowers. That picture is partly true but misleading.\n\nIn **2014**, the **Bank of England** published an explanation that surprised many readers: in the modern economy, **most money is created by commercial banks when they make loans**. When a bank lends you money, it doesn’t hand over someone else’s savings. It simply credits your account with a new deposit, creating new money. When the loan is repaid, that money is effectively destroyed.\n\nBanks can’t create money without limit. They’re constrained by the need to make profitable loans to borrowers who will repay, by regulations requiring them to hold enough **capital** and liquid assets, and by central bank interest rates, which affect how much people want to borrow."
+    },
+    {
+      "type": "text",
+      "heading": "Fractional reserve banking",
+      "md": "Banks keep only a small fraction of their deposits as cash or reserves at the central bank. The rest is tied up in loans and investments, such as mortgages, business loans and government bonds. This is called **fractional reserve banking**.\n\nIt’s normally fine, because on any given day, only a small share of depositors want their money back. Banks can also borrow from each other or from the central bank. But it creates a basic vulnerability: banks borrow **short** (deposits can be withdrawn at any time) and lend **long** (loans are repaid over years). If too many depositors want their money at once, the bank can’t pay them all, even if it’s fundamentally sound."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a bank like a busy cinema with one narrow exit. On a normal evening, people leave a few at a time, and the exit is plenty. But if someone shouts “Fire!”, everyone rushes for the door at once, and even if there’s no fire, people get crushed. Bank runs work the same way: the rush itself can cause the disaster everyone feared."
+    },
+    {
+      "type": "text",
+      "heading": "Bank runs",
+      "md": "A **bank run** happens when many depositors try to withdraw their money at the same time, usually because they fear the bank will fail. Because the bank can’t immediately turn long-term loans into cash, a run can bring down even a healthy bank, and fear of failure becomes **self-fulfilling**.\n\nIn **2007**, the British bank **Northern Rock** suffered the UK’s first major bank run in over a century, with depositors queuing outside branches. The 2023 Silicon Valley Bank run showed how social media and mobile banking can make runs dramatically faster. SVB had also invested heavily in long-term bonds that lost value as interest rates rose, and a high share of its deposits were large, uninsured business accounts, making depositors especially quick to flee."
+    },
+    {
+      "type": "text",
+      "heading": "Safety nets",
+      "md": "Governments have developed tools to make banking safer:\n\n- **Deposit insurance**: governments guarantee deposits up to a limit, so ordinary savers don’t need to rush to withdraw. In India, the **DICGC** insures up to **5 lakh rupees** per depositor per bank. In the US, the **FDIC** insures up to **250,000 dollars**. The UK’s **FSCS** provides similar protection. Deposit insurance makes runs far less likely.\n- **Lender of last resort**: central banks can lend to solvent banks facing a temporary cash shortage. The principle was set out by the British journalist **Walter Bagehot** in **1873**: lend freely, at a penalty rate, against good collateral.\n- **Capital requirements**: rules requiring banks to fund themselves partly with shareholders’ money rather than borrowed money, so they can absorb losses. These were strengthened worldwide after 2008 under rules known as **Basel III**.\n- **Supervision**: regulators like the **RBI**, the Federal Reserve and the Bank of England inspect banks and test whether they could survive severe shocks, through so-called **stress tests**."
+    },
+    {
+      "type": "steps",
+      "title": "How the 2008 financial crisis unfolded",
+      "items": [
+        "In the early 2000s, US house prices rose rapidly. Lenders made many **subprime** mortgages to borrowers with weak credit, often with low initial rates that later jumped.",
+        "These mortgages were bundled into complex financial products and sold to investors worldwide, often with high credit ratings that turned out to be badly wrong.",
+        "Many banks were highly **leveraged**: they had borrowed heavily, so even small losses could wipe out their capital.",
+        "From **2006–07**, house prices fell and many borrowers defaulted. The complex products lost value, and nobody was sure which banks held the worst of them.",
+        "Banks stopped trusting each other and stopped lending to each other. On **15 September 2008**, the investment bank **Lehman Brothers** collapsed, triggering a global panic.",
+        "Governments and central banks responded with bailouts, guarantees and emergency lending to prevent the entire financial system from collapsing. The world still entered the deepest recession since the 1930s, with millions losing jobs and homes."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why did governments bail out banks with public money, and was it right?",
+      "md": "Because the failure of large, interconnected banks threatened to bring down the whole financial system, freezing the payments, loans and savings that ordinary people and businesses depend on. Policymakers judged the cost of letting them collapse would be far greater than the cost of rescue. Critics argued that bailouts rewarded reckless behaviour, created **moral hazard** (banks expecting future rescues might take more risk) and protected wealthy shareholders and executives while ordinary people suffered. Banks seen as **“too big to fail”** became a major political issue, leading to reforms such as higher capital requirements and plans for winding down failing banks without taxpayer rescues. How well those reforms work is still debated."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Commercial banks create most money **by making loans**, as the **Bank of England** explained in **2014**.",
+        "**Fractional reserve banking**: banks keep only a fraction of deposits as reserves, borrowing short and lending long.",
+        "**Bank runs** can become self-fulfilling, as with **Northern Rock (2007)** and **Silicon Valley Bank (2023)**.",
+        "Safety nets include **deposit insurance** (₹5 lakh in India, $250,000 in the US), a **lender of last resort** (Bagehot, 1873), **capital requirements** and **supervision**.",
+        "The **2008 crisis** grew from **subprime mortgages**, complex products and high **leverage**, peaking with **Lehman Brothers’** collapse.",
+        "Bailouts prevented collapse but raised concerns about **moral hazard** and banks that are **too big to fail**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Banks touch almost every part of your financial life: your savings, loans, payments and the jobs that depend on business credit. Understanding how they create money and why they can fail helps you make sense of financial news, protect your own savings and engage with debates about regulation. It connects closely to the Money region’s lessons on inflation and central banks."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do banks create money when they lend, what causes a bank run, and how did the 2008 financial crisis spread?"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "economics.trade.2",
+  "region": "economics",
+  "topic": "trade",
+  "level": 2,
+  "prerequisites": [
+    "economics.trade.1"
+  ],
+  "title": "Winners, Losers and Trade Wars",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Between 1999 and 2011, imports from China to the United States grew enormously after China joined the World Trade Organization in 2001. American consumers got cheaper furniture, clothing, toys and electronics. US companies used cheaper parts.\n\nBut economists **David Autor**, **David Dorn** and **Gordon Hanson** studied what happened in the American towns that had specialised in making those same products. They estimated that the “**China shock**” cost the US up to around **two million** manufacturing and related jobs over that period, with losses concentrated in specific communities, many of which struggled to recover for years. The gains from trade were spread thinly across millions of consumers; the losses fell heavily on particular places. That imbalance helps explain much of today’s politics of trade."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "Economists broadly agree that trade **raises total income** in the countries involved. Surveys of leading economists consistently find strong majorities agreeing that freer trade has, on balance, benefited countries.\n\nBut “on balance” hides a crucial point: trade creates **winners and losers**.\n\n- **Winners** include consumers paying lower prices, exporters gaining new markets, businesses using cheaper imported inputs, and workers in expanding industries.\n- **Losers** include workers and owners in industries that face new foreign competition, and the communities that depend on them.\n\nOlder economic models often assumed that displaced workers would quickly find new jobs in growing industries. Research like the China shock studies suggests the adjustment can be slow, painful and incomplete, especially when job losses are concentrated geographically and workers can’t easily move or retrain."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of trade like building a new highway that bypasses a small town. Overall, journeys become faster and cheaper for millions of travellers. But the restaurants, petrol stations and shops in the bypassed town lose their customers. The highway is a net benefit to society, and it is still a disaster for that town, unless something is done to help it adapt."
+    },
+    {
+      "type": "text",
+      "heading": "Arguments for protection",
+      "md": "Despite the overall gains from trade, there are several arguments for restricting it, some stronger than others:\n\n**Infant industries**: new industries in developing countries may need temporary protection to grow strong enough to compete with established foreign rivals. **Alexander Hamilton** in the US and the German economist **Friedrich List** made this argument in the 18th and 19th centuries, and countries like the US, Germany, Japan and South Korea all protected key industries during their early industrialisation. Critics note that protection often becomes permanent, sheltering inefficient firms indefinitely.\n\n**National security**: countries may want domestic capacity in strategic sectors, such as defence, energy, food, medicines and semiconductors, rather than depending on potentially hostile suppliers. The COVID-19 pandemic and recent geopolitical tensions strengthened these concerns.\n\n**Unfair practices**: countries may respond to trading partners that heavily subsidise their industries, dump goods below cost or steal intellectual property.\n\n**Protecting jobs and communities**: politically, this is often the most powerful argument, although economists argue that tariffs are usually an expensive way to save jobs, compared with direct support for affected workers."
+    },
+    {
+      "type": "text",
+      "heading": "The costs of protection",
+      "md": "Tariffs have real costs, which are often less visible than their benefits:\n\n- **Higher prices** for consumers, which fall hardest on lower-income households.\n- **Higher costs for businesses** that use imported parts, which can cost jobs in other industries.\n- **Retaliation**: other countries often respond with tariffs of their own, hurting exporters.\n- **Less competition**, which can reduce innovation and efficiency.\n\nSeveral studies of recent tariffs, including those imposed by the US on Chinese goods from **2018**, found that most of the cost was passed on to domestic buyers in the form of higher prices, rather than being paid by foreign exporters."
+    },
+    {
+      "type": "text",
+      "heading": "A cautionary tale: the Smoot–Hawley tariff",
+      "md": "In **1930**, as the Great Depression began, the US passed the **Smoot–Hawley Tariff Act**, raising tariffs on thousands of imported goods. Over a thousand economists signed a petition urging President Hoover to veto it. He didn’t.\n\nOther countries retaliated with their own tariffs, and world trade collapsed dramatically in the early 1930s. Economists debate how much Smoot–Hawley itself worsened the Depression, compared with other causes like banking failures and monetary policy. But the episode became a powerful warning about the dangers of tariff wars, and helped inspire the post-war push to reduce trade barriers through GATT."
+    },
+    {
+      "type": "steps",
+      "title": "Trade wars in the 21st century",
+      "items": [
+        "From **2018**, the US and China imposed escalating tariffs on hundreds of billions of dollars of each other’s goods, in a dispute over trade imbalances, technology transfer and intellectual property.",
+        "Both sides also imposed restrictions on technology, especially advanced semiconductors, citing national security.",
+        "In the mid-2020s, a new wave of tariffs and trade tensions spread more widely, affecting many countries’ trade relationships and raising uncertainty for businesses.",
+        "Many companies began diversifying supply chains, sometimes called “**China plus one**”, moving some production to countries like Vietnam, Mexico and India.",
+        "Whether this marks a lasting retreat from globalisation, or a reshaping of it, is still unclear."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Helping those who lose",
+      "md": "If trade creates large overall gains but concentrated losses, one answer is to use part of the gains to help those who lose. Possible policies include:\n\n- **Retraining** and education programmes for displaced workers.\n- **Income support** while workers search for new jobs.\n- **Help for affected regions**, such as investment in infrastructure and new industries.\n- **Strong social safety nets**, like unemployment insurance and healthcare not tied to jobs.\n\nThe US has had a programme called **Trade Adjustment Assistance** since the 1960s, but many studies found it too small and too hard to access to fully offset the damage. Countries with stronger safety nets, like Denmark, often combine openness to trade with extensive support for workers, an approach sometimes called **flexicurity**."
+    },
+    {
+      "type": "reveal",
+      "prompt": "India declined to join the world’s largest trade agreement, RCEP, in 2019. Why?",
+      "md": "The **Regional Comprehensive Economic Partnership (RCEP)** brought together 15 Asia-Pacific countries, including China, Japan, South Korea, Australia and the ASEAN nations. India took part in negotiations for years but withdrew in **2019**. Its stated concerns included the risk of a flood of cheap imports, particularly from China, harming Indian manufacturers and farmers, and worries that its existing trade deficits would widen. Supporters of the decision saw it as protecting domestic industry and agriculture; critics argued India risked being left out of regional supply chains and missing the benefits of integration. India has since pursued other bilateral agreements, such as with the UAE, Australia and the UK. It illustrates how trade decisions balance economic gains, domestic interests and strategic concerns."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Trade **raises total income**, but creates **winners and losers**.",
+        "The **China shock** studies (Autor, Dorn and Hanson) showed concentrated, long-lasting job losses in affected US communities.",
+        "Arguments for protection include **infant industries**, **national security**, **unfair practices** and **protecting communities**.",
+        "Tariffs raise **prices**, increase **costs** for businesses and invite **retaliation**; recent US tariff costs were largely paid by domestic buyers.",
+        "The **Smoot–Hawley Tariff (1930)** triggered retaliation as world trade collapsed.",
+        "Policies like **retraining**, **income support** and strong **safety nets** can help spread the gains from trade more fairly."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Trade policy affects prices, jobs and international relations, and it has become one of the most politically charged issues of our time. Understanding both the gains and the costs helps you see past slogans on all sides, and think about the real trade-offs involved, including how to share the gains of openness more fairly."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why can trade benefit a country overall while hurting particular workers and regions, and what are the main arguments for and against protecting domestic industries?"
+  }
+}

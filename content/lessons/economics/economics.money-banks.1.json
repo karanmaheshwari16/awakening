@@ -1,0 +1,83 @@
+{
+  "id": "economics.money-banks.1",
+  "region": "economics",
+  "topic": "money-banks",
+  "level": 1,
+  "prerequisites": [],
+  "title": "What Money Really Is",
+  "estimated_minutes": 14,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On the island of **Yap**, in the western Pacific, people traditionally used giant stone discs called **rai** as money. Some were taller than a person and weighed several tonnes, quarried from limestone on islands hundreds of kilometres away and brought back by canoe.\n\nThe stones were often too heavy to move, so when one changed hands, it simply stayed where it was, and everyone remembered that its ownership had changed. One famous story tells of a huge stone that sank to the bottom of the sea during transport. The islanders agreed it still existed and kept using it as wealth for generations, even though nobody could see it. What mattered wasn’t the stone. It was the shared agreement about who owned what. That’s the secret of all money."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Money** is anything widely accepted as payment for goods and services, and for settling debts. Economists usually describe three main functions:\n\n1. **Medium of exchange**: you can trade it for things you want, instead of bartering.\n2. **Unit of account**: it provides a common measure of value, so you can compare the prices of very different things, like a haircut and a kilo of rice.\n3. **Store of value**: it holds value over time, so you can save it for later (though inflation erodes this, as you saw in the Money region).\n\nMoney is a social technology. It works because people **trust** that others will accept it."
+    },
+    {
+      "type": "text",
+      "heading": "Why not just barter?",
+      "md": "Imagine an economy without money. A potter wants rice. She must find a rice farmer who happens to want pots, at the same time, in the right quantity. Economists call this the **double coincidence of wants**, and it makes barter clumsy and inefficient.\n\nMoney solves this: the potter sells pots to anyone for money, then uses the money to buy rice from anyone. Interestingly, anthropologists have found little evidence of societies that relied mainly on barter before money. Many early communities used **credit** and obligations within small groups (“I’ll give you grain now, you help with the harvest later”), and barter was more common between strangers. The idea of a pure barter economy may be more of a teaching story than history."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of money as a kind of shared ledger, like a scoreboard everyone agrees to respect. When you work, the scoreboard records that society owes you something; when you spend, you claim it. Coins, notes, stones or digital numbers are just different ways of keeping score."
+    },
+    {
+      "type": "text",
+      "heading": "A short history of money",
+      "md": "- **Commodity money**: things with their own value, like grain, cattle, salt, shells and metal. **Cowrie shells** were used as money for centuries across parts of Africa, South Asia and China.\n- **Coins**: among the earliest known coins were made in **Lydia**, in present-day Turkey, around the **7th century BCE**, from a natural gold-silver alloy called electrum. Early punch-marked coins also appeared in India from around the 6th century BCE.\n- **Paper money**: China pioneered it. During the **Song dynasty**, from the early 11th century, merchants and then the government issued paper notes called **jiaozi**, which were lighter than strings of iron coins. Marco Polo later described the paper money of Yuan China with amazement.\n- **Representative money**: for long periods, paper money in many countries could be exchanged for a fixed amount of gold or silver, under the **gold standard**.\n- **Fiat money**: in **1971**, US President **Richard Nixon** ended the direct convertibility of the dollar into gold, completing a shift that had been under way for decades. Today, almost all national currencies are **fiat money**: valuable because governments declare them legal tender and people trust them, not because they’re backed by a commodity."
+    },
+    {
+      "type": "text",
+      "heading": "What gives fiat money value?",
+      "md": "If a 500-rupee note isn’t backed by gold, why is it worth anything? Several reasons combine:\n\n- **Legal tender**: the government requires it to be accepted for debts and uses it for **taxes**. Because everyone must pay taxes in the national currency, everyone needs it.\n- **Trust in institutions**: people trust that the central bank will manage its supply responsibly and not print so much that it loses value.\n- **Network effects**: it’s valuable because everyone else accepts it, and they accept it because everyone else does.\n\nWhen trust collapses, as in hyperinflation, people abandon a currency quickly, turning to foreign currencies, gold or barter."
+    },
+    {
+      "type": "steps",
+      "title": "India’s 2016 demonetisation",
+      "items": [
+        "On **8 November 2016**, India’s government announced that **500 and 1,000 rupee** notes would cease to be legal tender, starting at midnight.",
+        "Those notes made up about **86%** of the value of currency in circulation.",
+        "The stated aims were to fight **black money** (untaxed wealth), counterfeit currency and terrorism financing, and to encourage digital payments.",
+        "People queued at banks for weeks to deposit or exchange old notes, and cash shortages disrupted many businesses, especially in the cash-dependent informal economy.",
+        "The Reserve Bank later reported that almost all of the demonetised notes, about **99%** by value, were returned to banks, suggesting that most untaxed wealth wasn’t held as hoarded cash.",
+        "Digital payments did grow rapidly in the following years, helped by UPI and other factors. Economists continue to debate the policy’s overall costs and benefits."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Most money is digital",
+      "md": "Today, the notes and coins in your pocket are only a small fraction of the money in an economy. Most money exists as **bank deposits**: numbers in bank accounts, moved electronically by cards, transfers and apps like UPI. As you’ll see in the next lesson, most of this money is actually created by commercial banks when they make loans."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is Bitcoin money?",
+      "md": "It depends on how well it performs money’s three functions. **Bitcoin**, launched in **2009** after a 2008 paper by the pseudonymous **Satoshi Nakamoto**, is a digital currency run on a decentralised network without a central bank, with a fixed maximum supply. Supporters see it as protection against government mismanagement of money. Critics note that its price is extremely **volatile**, making it a poor **unit of account** and an unreliable **store of value** in the short term, and that it’s used relatively little as a **medium of exchange** for everyday purchases in most countries, while transactions can be slow or costly. Many governments and central banks are exploring their own **central bank digital currencies** instead; India’s RBI has piloted a digital rupee since 2022."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Money** functions as a **medium of exchange**, **unit of account** and **store of value**.",
+        "It solves barter’s **double coincidence of wants**, though early societies often relied on credit within communities.",
+        "Money evolved from **commodity money** (like cowrie shells) to **coins** (Lydia, ancient India), **paper money** (Song China) and **fiat money**.",
+        "Since **1971**, major currencies have been **fiat money**, valuable through **legal tender status, taxes, trust** and **network effects**.",
+        "India’s **2016 demonetisation** withdrew about **86%** of currency by value; about **99%** was returned.",
+        "Most modern money is **digital bank deposits**; **Bitcoin** struggles to perform all money’s functions reliably."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Money is so familiar that we rarely stop to ask what it is. But understanding that money rests on trust and institutions helps you make sense of inflation, banking crises, cryptocurrencies and debates about digital currencies. Next, you’ll see how banks create most of the money in the economy, and why that makes them both essential and fragile."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the three main functions of money, and why can paper or digital money have value even though it isn’t backed by gold?"
+  }
+}

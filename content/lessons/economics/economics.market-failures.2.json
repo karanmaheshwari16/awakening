@@ -1,0 +1,79 @@
+{
+  "id": "economics.market-failures.2",
+  "region": "economics",
+  "topic": "market-failures",
+  "level": 2,
+  "prerequisites": [
+    "economics.market-failures.1"
+  ],
+  "title": "When Governments Fail Too",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1902**, the French colonial government in Hanoi, Vietnam, faced a plague of rats in the city’s new sewers. To encourage locals to help, officials offered a small bounty for every rat killed. To avoid handling piles of dead rats, they asked people to bring in just the **tails** as proof.\n\nSoon, officials began noticing rats running around the city **without tails**. Enterprising hunters were catching rats, cutting off their tails and releasing them to breed more rats, and more tails. Some people reportedly started farming rats. The historian Michael Vann documented the episode. Similar stories, sometimes called the **cobra effect**, illustrate a broader lesson: government interventions can backfire when they create incentives their designers didn’t anticipate."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that markets can fail: through externalities, public goods, common resources, information problems and monopolies. That’s a reason governments step in. But economists also study **government failure**: situations where government intervention makes outcomes worse, or fails to improve them, or costs more than it achieves.\n\nThe key insight is that governments are made of **people**, such as politicians, officials and regulators, who respond to incentives and have limited information, just like people in markets. Recognising this doesn’t mean governments should never act. It means comparing **realistic** markets with **realistic** governments, rather than an imperfect market with an imaginary perfect government, or vice versa."
+    },
+    {
+      "type": "text",
+      "heading": "Why governments fail: the main reasons",
+      "md": "**Unintended consequences**: as the rat bounty showed, policies change incentives, sometimes in unexpected directions.\n\n**The knowledge problem**: Friedrich Hayek, whom you met in the supply-and-demand lesson, argued that central planners can’t gather all the scattered, changing information that prices convey. Decisions made far from local conditions often misfire.\n\n**Public choice problems**: the economist **James Buchanan** (Nobel Prize 1986) and others applied economic reasoning to politics. Politicians may favour policies that win votes in the short term over those that help in the long term. Officials may pursue bigger budgets or more power. Concentrated groups with a lot at stake lobby effectively, while the costs are spread thinly across millions of voters who barely notice.\n\n**Regulatory capture**: the economist **George Stigler** argued in 1971 that regulators often end up serving the industries they regulate, because industries have the strongest incentives to influence them, through lobbying, expertise and the promise of future jobs.\n\n**Rent-seeking**: individuals and companies spending effort and money to win favours from government, such as licences, subsidies or protection from competition, rather than creating value."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of market failure and government failure as two different kinds of engine trouble. A market can stall when it ignores costs like pollution. A government can stall when it lacks information or bends to special interests. Good mechanics don’t assume one engine never breaks; they look at each situation and ask which is more likely to work, and how to design safeguards against the most likely failures."
+    },
+    {
+      "type": "text",
+      "heading": "Central planning: the extreme case",
+      "md": "The **Soviet Union** tried to replace markets almost entirely with central planning. Planners set production targets for thousands of goods, allocated resources and fixed prices.\n\nIt achieved rapid industrialisation in some periods, particularly in heavy industry. But it suffered chronic problems: **shortages** of consumer goods, long queues, poor quality and waste. A popular joke described a nail factory: given a target by **weight**, it produced a few gigantic, useless nails; given a target by **number**, it produced millions of tiny, useless ones. Whether or not that factory existed, the joke captured a real problem: targets distorted incentives, and planners lacked the information prices provide. Agricultural collectivisation under Stalin contributed to devastating famines in the early 1930s, including in Ukraine and Kazakhstan."
+    },
+    {
+      "type": "text",
+      "heading": "India’s Licence Raj and the 1991 reforms",
+      "md": "After independence in 1947, India built a mixed economy with a large state role, aiming for self-reliance and rapid industrialisation. Over time, a dense system of controls developed, nicknamed the **Licence Raj**: businesses needed government licences to start, expand, change products or import machinery. Many industries were reserved for the public sector or for small firms.\n\nThe system aimed to direct investment towards national priorities and prevent concentration of economic power. But critics argue it encouraged corruption and rent-seeking, protected inefficient firms from competition, discouraged investment and contributed to slow growth, sometimes called the “Hindu rate of growth”, a phrase coined by the economist Raj Krishna for growth of around **3.5%** a year.\n\nIn **1991**, facing a severe balance-of-payments crisis with foreign exchange reserves covering only a few weeks of imports, the government of Prime Minister **P. V. Narasimha Rao** and Finance Minister **Manmohan Singh** launched sweeping reforms: abolishing most industrial licensing, reducing tariffs, opening to foreign investment and devaluing the rupee. Growth accelerated substantially in the following decades. Economists still debate how much credit the reforms deserve compared with earlier changes in the 1980s, and how the benefits were shared."
+    },
+    {
+      "type": "steps",
+      "title": "The mixed economy: a spectrum, not a choice",
+      "items": [
+        "Almost no country is purely market-based or purely state-run. Real economies sit on a **spectrum**.",
+        "Most rely on **markets** for most goods and services, because markets are generally good at coordinating production and encouraging innovation.",
+        "Most use **government** for public goods, social insurance, regulation of externalities and monopolies, and redistribution to reduce poverty and inequality.",
+        "Countries differ in the balance. The **Nordic countries**, such as Denmark and Sweden, combine open, market economies with high taxes, strong unions and extensive public services. The **United States** relies more on markets and less on public provision in areas like healthcare. **China** combines markets with a powerful state and large state-owned enterprises.",
+        "Debates about where to draw the line, on healthcare, education, energy, banking or digital platforms, are at the heart of politics, and depend on values as well as evidence."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "How can policymakers reduce the risk of government failure?",
+      "md": "Economists and political scientists suggest several safeguards: **testing policies** on a small scale before rolling them out widely, sometimes with randomised trials; building in **evaluation** and sunset clauses so policies are reviewed and ended if they don’t work; **transparency** about who benefits from regulations and subsidies; **independent institutions**, like central banks and audit offices, insulated from short-term political pressure; **competition** between providers where possible; and paying close attention to **incentives**, asking how people might game the rules. The 2019 Nobel Prize in Economics went to **Abhijit Banerjee**, **Esther Duflo** and **Michael Kremer** for using experiments to test which anti-poverty policies actually work, including in India."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Government failure** happens when intervention worsens outcomes or costs more than it achieves.",
+        "Causes include **unintended consequences**, the **knowledge problem**, **public choice** incentives, **regulatory capture** and **rent-seeking**.",
+        "**Soviet central planning** suffered chronic **shortages** and distorted targets.",
+        "India’s **Licence Raj** imposed heavy controls; the **1991 reforms** under **Rao and Singh** dismantled many and growth accelerated.",
+        "Real economies are **mixed**, combining markets and government in different proportions.",
+        "Safeguards include **testing**, **evaluation**, **transparency**, **independent institutions** and attention to **incentives**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Debates about economic policy often become battles between “markets good” and “government good”. Understanding both market failure and government failure lets you move beyond slogans and ask better questions: what exactly is going wrong, which institution is best placed to fix it, and how might the fix itself fail? That’s the kind of thinking good policy, and good citizenship, needs."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are two ways that government intervention can fail, and what does the history of the Licence Raj and India’s 1991 reforms illustrate?"
+  }
+}

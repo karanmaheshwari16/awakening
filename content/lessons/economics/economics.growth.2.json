@@ -1,0 +1,82 @@
+{
+  "id": "economics.growth.2",
+  "region": "economics",
+  "topic": "growth",
+  "level": 2,
+  "prerequisites": [],
+  "title": "Why Are Some Countries Rich and Others Poor?",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "At night, satellite images of the Korean peninsula show something extraordinary. **South Korea** blazes with light: cities, highways, factories. Just across the border, **North Korea** is almost completely dark, apart from a small glow around the capital, Pyongyang.\n\nIn 1945, the two halves of Korea shared the same history, language, culture and geography, and had broadly similar levels of income. Divided after World War II, they took radically different political and economic paths. Today, South Korea is one of the world’s richest, most technologically advanced countries, while North Korea is one of the poorest, and has suffered devastating famine. Same people, same peninsula, wildly different outcomes. Why?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The question of why some countries are rich and others poor is one of the oldest and most important in economics. Adam Smith’s famous 1776 book was titled *An Inquiry into the Nature and Causes of the Wealth of Nations*.\n\nIn the long run, a country’s standard of living depends mostly on its **productivity**: how much its workers can produce per hour. Productivity, in turn, depends on several ingredients:\n\n- **Physical capital**: machines, buildings, roads, electricity networks.\n- **Human capital**: the education, skills and health of workers.\n- **Technology and ideas**: better ways of producing things.\n- **Natural resources**: land, minerals, energy.\n\nBut this raises a deeper question: why do some countries accumulate capital, educate people and adopt technology much more successfully than others? Here, economists offer several, often overlapping, explanations."
+    },
+    {
+      "type": "text",
+      "heading": "Explanation 1: technology drives long-run growth",
+      "md": "In **1956**, the economist **Robert Solow** built a model showing that adding more capital, such as more machines per worker, raises output, but with **diminishing returns**: the hundredth machine adds less than the first. So capital alone can’t sustain growth forever. Solow found that most long-run growth in rich countries came from **technological progress**, improvements in knowledge and methods. He won the Nobel Prize in 1987.\n\nThis also predicts **catch-up growth**: poorer countries can grow faster by adopting technologies already invented elsewhere, rather than inventing everything from scratch. That’s partly how countries like South Korea, Taiwan and China achieved rapid growth."
+    },
+    {
+      "type": "text",
+      "heading": "Explanation 2: institutions",
+      "md": "Many economists argue the deepest cause is **institutions**: the rules of the game that shape incentives, including property rights, the rule of law, how power is constrained and whether people can keep the rewards of their effort.\n\nThe economists **Daron Acemoglu**, **Simon Johnson** and **James Robinson**, who shared the **2024 Nobel Prize in Economics**, distinguish:\n\n- **Inclusive institutions**, which protect property rights, enforce contracts fairly, provide public services and allow broad participation in economic and political life. They encourage investment and innovation.\n- **Extractive institutions**, which concentrate power and wealth in a small elite who extract resources from everyone else. They discourage investment, since people fear their gains will be taken.\n\nThey point to natural experiments like **North and South Korea**, and the twin cities of **Nogales**, split by the US–Mexico border, where the same people and geography produced different outcomes under different institutions. They also argue that institutions set up by colonisers had lasting effects: where Europeans settled in large numbers, they often built more inclusive institutions for themselves; where they extracted resources using forced labour, they built extractive institutions that sometimes persisted after independence."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an economy as a football league. Talent, training and equipment matter (capital, education, technology). But if referees are corrupt, rules change on a whim and the strongest team can simply confiscate the others’ players, nobody bothers investing in talent. Institutions are the rules and referees. Good ones make investment and effort worthwhile."
+    },
+    {
+      "type": "text",
+      "heading": "Explanation 3: geography",
+      "md": "Others emphasise **geography**. The economist **Jeffrey Sachs** has argued that tropical diseases like malaria, poor soils, lack of navigable rivers and being landlocked impose real economic burdens. Landlocked countries, for instance, face higher transport costs to reach world markets. The geographer **Jared Diamond** argued, in *Guns, Germs, and Steel* (1997), that geography shaped which regions developed farming, cities and technology earliest, giving them long-run advantages.\n\nInstitutional economists respond that geography’s effects often work **through** institutions, and that geography doesn’t explain cases like the Koreas. Most researchers now think geography, institutions and history all interact."
+    },
+    {
+      "type": "text",
+      "heading": "Explanation 4: human capital, culture and policy",
+      "md": "- **Human capital**: education and health raise productivity. East Asian economies that grew rapidly typically invested heavily in mass education early on.\n- **Culture**: some scholars argue that values like trust, attitudes to work, or openness to new ideas influence growth. This is contested, partly because culture can change quickly with circumstances, and cultural explanations have sometimes been used to justify prejudice.\n- **Policy**: choices about trade, investment, macroeconomic stability and industrial strategy matter. Rapidly growing economies like South Korea and Taiwan combined export-oriented manufacturing with active government strategies, though economists debate how much credit government direction deserves."
+    },
+    {
+      "type": "steps",
+      "title": "China and India: two great accelerations",
+      "items": [
+        "From **1978**, under **Deng Xiaoping**, China began market reforms: allowing farmers to sell surplus crops, opening special economic zones to foreign investment and gradually allowing private businesses.",
+        "China grew at close to **10%** a year on average for about three decades. According to the World Bank, the number of people in China living in extreme poverty fell by **around 800 million** over roughly four decades, the largest reduction in poverty in history.",
+        "India’s growth accelerated after reforms in the 1980s and especially **1991**, averaging around **6–7%** a year for long periods, with strong growth in services like IT, and substantial reductions in poverty.",
+        "Both countries combined markets with significant state roles, in different ways and under very different political systems.",
+        "Both still face major challenges, including inequality, environmental damage and, in China’s case, slowing growth and an ageing population, and in India’s, creating enough good jobs for a young, growing workforce."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can poor countries always catch up with rich ones?",
+      "md": "Not automatically. While some economies have converged rapidly, many others have stagnated for long periods. Some countries reach middle-income levels and then struggle to make the leap to high income, sometimes called the **middle-income trap**, as cheap labour advantages fade before innovation capacity develops, though economists debate whether this trap is a real general pattern. Conflict, political instability, corruption, debt crises and commodity dependence can all stall growth. On the other hand, countries like South Korea, Singapore, Botswana and, more recently, others show that sustained growth and poverty reduction are possible. There is no single recipe, which is why development economics remains a lively field."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Living standards depend mainly on **productivity**, driven by **physical capital**, **human capital**, **technology** and **resources**.",
+        "**Solow (1956)**: capital has diminishing returns; long-run growth comes mainly from **technological progress**; poorer countries can **catch up**.",
+        "**Acemoglu, Johnson and Robinson** (Nobel 2024) stress **inclusive** versus **extractive institutions**, illustrated by **North and South Korea**.",
+        "**Geography** (disease, location, resources) also matters, often interacting with institutions.",
+        "**Education**, **policy** and possibly **culture** play roles; explanations overlap.",
+        "**China** since **1978** and **India** since **1991** achieved historic growth and poverty reduction."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Why nations prosper or stagnate shapes the lives of billions of people: whether children survive, whether workers can find good jobs, whether families escape poverty. Understanding the main explanations helps you evaluate claims about what makes economies succeed, and engage with debates about development, governance and global inequality. These ideas connect closely to the History, Politics and Law regions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the main explanations economists give for why some countries are much richer than others, and what does the comparison of North and South Korea suggest?"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "economics.supply-demand.2",
+  "region": "economics",
+  "topic": "supply-demand",
+  "level": 2,
+  "prerequisites": [
+    "economics.supply-demand.1"
+  ],
+  "title": "Elasticity, Price Controls and Unintended Consequences",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In 1947, Bombay (now Mumbai) introduced strict **rent control** to protect tenants during a housing shortage. Rents for many existing tenancies were effectively frozen at historic levels, and tenants gained strong protection against eviction.\n\nDecades later, some tenants in central Mumbai were still paying rents that had barely changed since the 1940s. That sounds wonderful for those tenants. But landlords, earning almost nothing, had little reason to maintain their buildings, and many old buildings fell into dangerous disrepair, with periodic collapses. New investment in rental housing was discouraged. A policy meant to help tenants had consequences few had intended. Price controls are one of the clearest places where good intentions meet supply and demand."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that buyers buy less when prices rise. But **how much** less? That depends on **price elasticity of demand**: how sensitive the quantity demanded is to a change in price.\n\n- **Elastic** demand: quantity changes a lot when price changes. If the price of one brand of biscuits rises, many people switch to another brand.\n- **Inelastic** demand: quantity changes little. If petrol prices rise, most people still need to drive to work, at least in the short term.\n\nDemand tends to be **inelastic** for necessities with few substitutes (basic food, essential medicines, fuel, salt), and **elastic** for luxuries and goods with many substitutes. Demand also usually becomes more elastic over **time**, as people find alternatives: switching to public transport or buying a more fuel-efficient vehicle after petrol prices rise."
+    },
+    {
+      "type": "steps",
+      "title": "Why elasticity matters: who pays a tax?",
+      "items": [
+        "The government puts a tax of **10** per unit on a product.",
+        "Legally, it might be collected from sellers. But who really bears it, a question economists call **tax incidence**, depends on elasticity, not on who hands over the money.",
+        "If demand is **inelastic** (like cigarettes for addicted smokers), sellers can raise prices by nearly the full tax, and buyers keep buying. **Buyers** bear most of the tax.",
+        "If demand is **elastic**, buyers would flee if prices rose much, so sellers must absorb most of the tax through lower profits. **Sellers** bear most of it.",
+        "This is why governments often tax goods with inelastic demand, like tobacco, alcohol and fuel: revenue is reliable. It’s also why such taxes can fall heavily on poorer households, who spend a larger share of income on necessities."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Price ceilings: shortages",
+      "md": "A **price ceiling** is a legal maximum price, usually set to make something more affordable. If it’s set **below** the market equilibrium, quantity demanded exceeds quantity supplied: a **shortage**.\n\nTypical consequences include:\n\n- **Queues and waiting lists**: goods are allocated by who arrives first, rather than who pays most.\n- **Black markets**: goods are resold illegally at higher prices.\n- **Lower quality**: sellers cut costs, since they can’t raise prices.\n- **Less supply over time**: producers invest less or leave the market.\n\nRent control is the classic example. Surveys of leading economists, such as those run by the University of Chicago’s IGM Forum, find that a large majority believe broad rent control reduces the quantity and quality of rental housing. Supporters respond that softer versions, like limits on sudden rent increases, can protect tenants from displacement, and the debate continues in many cities."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a price ceiling as forcing a dam to keep the water level artificially low. Downstream, people get water cheaply, but the reservoir isn’t refilled, the dam isn’t maintained, and eventually there’s less water for everyone. The intention, cheap water, is reasonable. The mechanism undermines it."
+    },
+    {
+      "type": "text",
+      "heading": "Price floors: surpluses",
+      "md": "A **price floor** is a legal minimum price. Set **above** equilibrium, it creates a **surplus**: more is supplied than buyers want.\n\n**Agricultural support prices** are a common example. India’s government announces **Minimum Support Prices (MSP)** for many crops and buys large quantities of wheat and rice at those prices, protecting farmers’ incomes and building stocks for food distribution programmes. Supporters see this as vital for farmers and food security. Critics argue it has encouraged over-production of water-intensive rice and wheat in some regions, depleting groundwater in states like Punjab, and led to large, costly grain stocks. How to reform it while protecting farmers is a major and sensitive political issue, as the farmers’ protests of **2020–21** showed."
+    },
+    {
+      "type": "text",
+      "heading": "The minimum wage debate",
+      "md": "A **minimum wage** is a price floor in the labour market. Simple supply and demand predicts that setting wages above the market level will reduce employment, because employers hire fewer workers.\n\nBut in **1994**, economists **David Card** and **Alan Krueger** studied fast-food restaurants in New Jersey, which had raised its minimum wage, compared with neighbouring Pennsylvania, which hadn’t. They found **no evidence** that employment fell; if anything, it rose slightly. Their work, which contributed to Card’s 2021 Nobel Prize, challenged the simple model. One explanation is that many employers have some power to set wages below what a competitive market would pay, so a moderate minimum wage can raise pay without cutting jobs.\n\nResearch since then is mixed. Many studies find moderate increases have small effects on employment; very large increases may have bigger ones. The size and context of the increase matter."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Surge pricing makes taxis expensive during storms and festivals. Is that fair?",
+      "md": "Economists and the public often disagree. Economists point out that higher prices during peaks encourage more drivers to work, ration rides to those who need them most urgently and reduce waiting times, while a fixed price would mean long waits and empty roads. Many people, however, see sharp price rises during emergencies as exploitative, sometimes called **price gouging**, and some places have laws restricting them during disasters. Research by the behavioural economist **Richard Thaler** and colleagues found that people judge price increases as unfair when they seem to exploit a sudden spike in demand, even when they accept them for rising costs. Efficiency and fairness can pull in different directions, and both matter to how people judge markets."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Price elasticity of demand** measures how strongly quantity responds to price; necessities are **inelastic**, luxuries and goods with substitutes are **elastic**.",
+        "**Tax incidence** depends on elasticity: buyers bear more of a tax when demand is inelastic.",
+        "**Price ceilings** below equilibrium cause **shortages**, queues, black markets and lower quality, as with **rent control**.",
+        "**Price floors** above equilibrium cause **surpluses**, as with some agricultural support like India’s **MSP**.",
+        "**Card and Krueger (1994)** found a minimum wage rise didn’t reduce employment, challenging the simple model.",
+        "**Efficiency** and **fairness** can conflict, as in debates over **surge pricing**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Governments regularly intervene in prices, through taxes, subsidies, rent rules, minimum wages and support prices. Understanding elasticity and price controls helps you predict their effects, spot unintended consequences and see why reasonable people disagree. Good policy usually requires weighing efficiency against fairness, rather than ignoring either."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is price elasticity of demand, and what typically happens when a government sets a maximum price below the market price?"
+  }
+}
