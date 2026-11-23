@@ -1,0 +1,80 @@
+{
+  "id": "law.rights.1",
+  "region": "law",
+  "topic": "rights",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Rights: What Every Person Is Owed",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **December 1948**, in Paris, the newly formed United Nations General Assembly adopted the **Universal Declaration of Human Rights (UDHR)**. Its first article declares: “All human beings are born free and equal in dignity and rights.”\n\nThat phrase almost read differently. Early drafts said “**all men** are born free and equal”. **Hansa Mehta**, India’s delegate to the UN Commission on Human Rights, argued that “all men” might be interpreted to exclude women, and pushed for more inclusive wording. Her suggestion was adopted. The UDHR, with **30** articles, became the most translated document in the world and the foundation of international human rights law. Its central idea is simple and radical: certain rights belong to every person, simply because they are human."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **right** is an entitlement: something a person is owed, which others, including the state, have a duty to respect, protect or fulfil.\n\n**Human rights** are rights that belong to all people, regardless of nationality, sex, ethnicity, religion, caste, language or any other status. They’re often described as **universal** (belonging to everyone), **inalienable** (they can’t be taken away entirely, though they may be limited in specific circumstances) and **indivisible** (different rights are interconnected).\n\nRights can be protected at different levels:\n\n- **International law**, through treaties and declarations like the UDHR.\n- **National constitutions**, like India’s **Fundamental Rights**.\n- **Ordinary laws**, which may create rights such as consumer rights or labour rights."
+    },
+    {
+      "type": "text",
+      "heading": "Kinds of rights",
+      "md": "Rights are often grouped into broad categories:\n\n- **Civil and political rights**: such as the rights to **life**, **liberty**, **freedom of speech**, **freedom of religion**, **a fair trial**, **privacy** and **voting**. These are set out in the **International Covenant on Civil and Political Rights (ICCPR)**, adopted in **1966**.\n- **Economic, social and cultural rights**: such as the rights to **work**, **education**, **health**, **social security**, an **adequate standard of living** (including food and housing) and to take part in **cultural life**. These are set out in the **International Covenant on Economic, Social and Cultural Rights (ICESCR)**, also adopted in **1966**.\n- **Collective rights**: such as the right of peoples to **self-determination**, and rights of **minorities** and **indigenous peoples** to protect their culture and identity.\n\nTogether, the UDHR and the two covenants are often called the **International Bill of Human Rights**. India has ratified both covenants."
+    },
+    {
+      "type": "text",
+      "heading": "Negative and positive rights",
+      "md": "In a famous **1958** lecture, the philosopher **Isaiah Berlin** distinguished two concepts of liberty, which relate to two kinds of rights:\n\n- **Negative rights** (or negative liberty): the right to be left alone, free from interference. Freedom of speech requires that the state **not** censor you; freedom from torture requires that the state **not** torture you.\n- **Positive rights** (or positive liberty): rights that require others, especially the state, to **provide** something, such as education, healthcare or legal aid.\n\nSome argue that only negative rights are true rights, because positive rights depend on resources and impose costs on others. Others respond that even negative rights require resources, like courts, police and elections, and that freedom means little without basic necessities: free speech isn’t much use to someone who is starving or can’t read."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of negative rights as a fence around your personal space: others, including the government, mustn’t cross it to harm you, silence you or imprison you unjustly. Positive rights are more like a floor beneath you: a minimum level of support, like education and healthcare, that society commits to providing so no one falls below a certain level of dignity. A good society needs both the fence and the floor."
+    },
+    {
+      "type": "text",
+      "heading": "India’s Fundamental Rights",
+      "md": "**Part III** of India’s Constitution (Articles 12 to 35) sets out **Fundamental Rights**, which can be enforced in courts. They include:\n\n- **Right to equality** (Articles 14–18): equality before the law and equal protection of the laws (Article 14); prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15); equality of opportunity in public employment (Article 16); **abolition of untouchability** (Article 17); and abolition of titles (Article 18).\n- **Right to freedom** (Articles 19–22): including freedom of **speech and expression**, assembly, association, movement, residence and profession (Article 19); protection in respect of conviction for offences (Article 20); protection of **life and personal liberty** (Article 21); the **right to education** (Article 21A); and protection against arbitrary arrest and detention (Article 22).\n- **Right against exploitation** (Articles 23–24): prohibition of human trafficking and forced labour, and of employment of children below 14 in factories, mines and hazardous work.\n- **Right to freedom of religion** (Articles 25–28): freedom of conscience and to profess, practise and propagate religion, subject to public order, morality and health.\n- **Cultural and educational rights** (Articles 29–30): protection of minorities’ languages, scripts and cultures, and their right to establish and administer educational institutions.\n- **Right to constitutional remedies** (Article 32): the right to approach the **Supreme Court** directly to enforce Fundamental Rights. **Ambedkar** described Article 32 as the “**very soul of the Constitution and the very heart of it**”."
+    },
+    {
+      "type": "steps",
+      "title": "How to enforce a Fundamental Right",
+      "items": [
+        "If you believe a Fundamental Right has been violated by the state, you can approach the **Supreme Court** under **Article 32**, or a **High Court** under **Article 226**, which also allows High Courts to enforce other legal rights.",
+        "Courts can issue special orders called **writs**, including:",
+        "**Habeas corpus** (“you shall have the body”): requiring a person who has been detained to be brought before the court, to check whether the detention is lawful.",
+        "**Mandamus** (“we command”): ordering a public official or body to perform a legal duty.",
+        "**Prohibition** and **certiorari**: preventing or quashing decisions by lower courts or tribunals acting beyond their powers.",
+        "**Quo warranto** (“by what authority”): questioning whether a person has the legal right to hold a public office.",
+        "Free **legal aid** is available for eligible people through legal services authorities, as you’ll see in the courts lessons."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Are rights absolute, or can they be limited?",
+      "md": "Very few rights are absolute. Most can be limited in certain circumstances to protect other people’s rights or important public interests. India’s Constitution explicitly allows **reasonable restrictions** on many freedoms. For example, **Article 19(2)** allows reasonable restrictions on freedom of speech in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation or incitement to an offence. Courts decide whether restrictions are genuinely **reasonable**, increasingly using a test of **proportionality**: is the restriction for a legitimate aim, suitable to achieve it, necessary (with no less restrictive alternative) and balanced against its impact on rights? Some rights, like the prohibition on **torture**, are treated as absolute in international law. The next lesson explores hard cases where rights collide."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Human rights** belong to everyone and are **universal**, **inalienable** and **indivisible**; the **UDHR (1948)** set the foundation, with **Hansa Mehta** securing inclusive language.",
+        "**Civil and political rights** (ICCPR, 1966) include speech, religion, fair trial and voting; **economic, social and cultural rights** (ICESCR, 1966) include education, health and an adequate standard of living.",
+        "**Isaiah Berlin (1958)** distinguished **negative** liberty (freedom from interference) and **positive** liberty (the ability to act, often requiring support).",
+        "India’s **Fundamental Rights** (Part III) cover **equality**, **freedom**, **against exploitation**, **religion**, **cultural and educational rights** and **constitutional remedies**.",
+        "**Article 17** abolished untouchability; **Article 21** protects life and liberty; **Article 32**, the “**heart and soul**” of the Constitution, allows direct petitions to the Supreme Court.",
+        "**Writs** like **habeas corpus** and **mandamus** enforce rights.",
+        "Most rights allow **reasonable restrictions**, judged increasingly by **proportionality**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Knowing your rights is the first step to protecting them, for yourself and others. Understanding the different kinds of rights, how they’re protected in India and internationally, and how they can be limited, helps you recognise injustice, use legal remedies and engage in debates about freedom and equality. The next lesson explores what happens when rights come into conflict."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between civil and political rights and economic and social rights, what are negative and positive rights, and what are some of the Fundamental Rights in India’s Constitution?"
+  }
+}

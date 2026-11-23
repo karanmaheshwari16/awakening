@@ -1,0 +1,85 @@
+{
+  "id": "law.criminal-justice.2",
+  "region": "law",
+  "topic": "criminal-justice",
+  "level": 2,
+  "prerequisites": [
+    "law.criminal-justice.1"
+  ],
+  "title": "Police, Rights and Reform",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1829**, the British Home Secretary **Robert Peel** established the **Metropolitan Police** in London, one of the first modern police forces. Officers, nicknamed “**bobbies**” or “peelers” after him, wore blue uniforms rather than military red, and were mostly unarmed, to distinguish them from soldiers.\n\nA set of principles associated with Peel’s approach, though probably written down later by others, expressed a striking idea: “**the police are the public and the public are the police**”. Police, on this view, are simply citizens paid to give full-time attention to duties that every citizen has, and their power depends on public approval and cooperation, not force. Nearly two centuries later, the relationship between police and the public they serve remains one of the most important, and contested, questions in any society."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how societies define crime and punishment. **Police** are usually the first point of contact between citizens and the criminal justice system: they prevent crime, respond to emergencies, investigate offences, arrest suspects and maintain public order.\n\nPolice hold unusual powers in a democracy: to stop, search, detain and, in extreme cases, use force. These powers are necessary to protect the public, but they can also be abused. Balancing **effective policing** with **protection of rights** is a central challenge for every justice system.\n\nThe **Peelian principles** include ideas such as:\n\n- The basic mission of police is to **prevent crime and disorder**.\n- Police depend on **public approval** and cooperation.\n- Police should use **force only when necessary**, and only as much as needed.\n- The test of police efficiency is the **absence** of crime and disorder, not visible police action against it."
+    },
+    {
+      "type": "text",
+      "heading": "Your rights when arrested in India",
+      "md": "India’s Constitution and laws give people important protections when arrested or detained:\n\n- **Article 22** of the Constitution guarantees that an arrested person must be **informed of the grounds** for arrest as soon as possible, has the right to **consult and be defended by a lawyer** of their choice, and must be produced before the nearest **magistrate** within **24 hours** (excluding travel time).\n- **Article 20(3)** protects against **self-incrimination**: no person accused of an offence can be compelled to be a witness against themselves.\n- **Article 21** protects life and personal liberty, which courts have interpreted to include protection against custodial torture and the right to a fair trial.\n\nIn ***D. K. Basu v State of West Bengal*** (**1997**), the Supreme Court issued detailed **guidelines** to prevent custodial violence, including that police carrying out arrests must wear clear identification, prepare an **arrest memo** signed by a witness, inform a relative or friend of the arrest and place of detention, allow the arrested person to meet a lawyer during interrogation (though not throughout) and arrange medical examinations. Many of these requirements were later written into law."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of police powers like the powers of a skilled surgeon. A surgeon must be allowed to cut, because surgery saves lives. But strict rules govern when they can operate, how they must obtain consent, what records they must keep, and what happens if they cause unnecessary harm. Rights during arrest work like those surgical rules: they don’t stop police from doing their job; they make sure that their extraordinary powers are used carefully and accountably."
+    },
+    {
+      "type": "text",
+      "heading": "Rights in other countries",
+      "md": "Many democracies have similar protections:\n\n- In the **United States**, the Supreme Court’s ruling in ***Miranda v Arizona*** (**1966**) requires police to warn suspects in custody, before questioning, that they have the **right to remain silent**, that anything they say can be used against them, and that they have the **right to a lawyer**. These became known as **Miranda rights**.\n- In **England and Wales**, the **Police and Criminal Evidence Act** of **1984** set rules for stop and search, arrest, detention and interrogation, including the recording of interviews."
+    },
+    {
+      "type": "text",
+      "heading": "Custodial violence and police reform",
+      "md": "**Custodial violence**, abuse or torture of people in police or judicial custody, is a serious concern in many countries, including India. Human rights organisations and India’s National Human Rights Commission record deaths in custody every year. Causes are often linked to pressure to solve cases quickly, reliance on confessions, inadequate training and weak accountability.\n\nIndia’s Supreme Court addressed police reform in ***Prakash Singh v Union of India*** (**2006**), directing states to take steps such as:\n\n- Setting up **state security commissions** to reduce political interference in policing.\n- Ensuring **fixed tenures** for senior police officers, so they can’t be transferred arbitrarily.\n- **Separating** investigation from law-and-order duties, so investigators can focus on solving crimes.\n- Creating **police complaints authorities** to investigate serious misconduct.\n\nImplementation of these directions has been uneven across states, and police reform remains an ongoing challenge. Other issues include shortages of police personnel, poor working conditions and long hours, and the need for better forensic and investigative capacity."
+    },
+    {
+      "type": "steps",
+      "title": "Bail: liberty before trial",
+      "items": [
+        "**Bail** is the temporary release of an accused person while awaiting trial, often on conditions such as a promise to appear in court, a financial bond or restrictions on travel.",
+        "In a famous **1977** judgment, Justice **V. R. Krishna Iyer** of the Supreme Court declared that the basic rule is “**bail, not jail**”, reflecting the presumption of innocence.",
+        "Courts consider factors like the seriousness of the offence, the risk that the accused might flee, tamper with evidence or influence witnesses, and their criminal history.",
+        "Some special laws, such as certain anti-terrorism and anti-money-laundering laws, make bail much harder to obtain, which supporters say is necessary for serious threats and critics say leads to long detention without trial.",
+        "Poverty is a major barrier: many undertrials remain in jail simply because they can’t afford bail bonds, which is why courts and legal aid authorities have pushed for release on personal bonds for poor accused people."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Young people and the law",
+      "md": "Most legal systems treat children differently from adults, recognising that young people are still developing, more capable of change and more vulnerable. In India, the **Juvenile Justice (Care and Protection of Children) Act** of **2015** governs children in conflict with the law, defining a child as anyone **under 18**. Children are generally dealt with by **Juvenile Justice Boards** rather than regular criminal courts, with an emphasis on rehabilitation, and can’t be sentenced to death or life imprisonment without the possibility of release.\n\nAfter the brutal **2012** gang rape and murder of a young woman in Delhi, which provoked nationwide protests and led to major changes in laws on sexual violence, the 2015 Act introduced a provision allowing **16- to 18-year-olds** accused of **heinous** offences to be tried as adults, after an assessment of their mental capacity and maturity. Supporters saw it as necessary for justice in the most serious cases; child rights advocates argued it went against the principle of rehabilitation and evidence on adolescent development."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What does research suggest actually reduces crime?",
+      "md": "Researchers have studied many approaches, with some fairly consistent findings. **Hot spots policing**, focusing police resources on the small number of locations where much crime is concentrated, has been found in many studies to reduce crime in those places, without simply displacing it elsewhere. **Focused deterrence**, which identifies the small number of people driving serious violence, offers them support alongside clear warnings, and works with communities, has shown promising results in some cities. **Problem-oriented policing**, which tackles the underlying conditions behind recurring problems, also has good support. Beyond policing, factors like **street lighting**, **youth programmes**, **education**, **employment** and **reducing lead exposure** (a much-debated hypothesis) have been linked to lower crime. **Trust** between police and communities matters too: people are more likely to report crimes and cooperate with investigations when they see police as fair and legitimate, echoing Peel’s principles."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Modern policing began with **Peel’s Metropolitan Police (1829)**; **Peelian principles** stress prevention, public consent and minimal force.",
+        "In India, **Article 22** guarantees being informed of grounds for arrest, access to a lawyer and production before a magistrate within **24 hours**; **Article 20(3)** protects against **self-incrimination**.",
+        "***D. K. Basu* (1997)** set guidelines against custodial violence; ***Prakash Singh* (2006)** directed police reforms, unevenly implemented.",
+        "The US requires **Miranda warnings** (**1966**); England uses **PACE (1984)**.",
+        "“**Bail, not jail**” (Krishna Iyer, **1977**), but poverty keeps many undertrials in prison.",
+        "India’s **Juvenile Justice Act (2015)** treats under-18s differently, but allows 16–18-year-olds to be tried as adults for heinous crimes.",
+        "**Hot spots policing**, **focused deterrence** and **community trust** are supported by research as ways to reduce crime."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Your interactions with police, and the rights you have during them, are some of the most direct ways you encounter state power. Knowing your rights, understanding the debates about police reform, and seeing what evidence suggests works helps you engage as an informed citizen in making policing both effective and fair."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what rights do people have when arrested in India, what are Peel’s principles of policing, and what does evidence suggest about effective ways to reduce crime?"
+  }
+}

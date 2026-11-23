@@ -14,7 +14,10 @@ export function Home() {
   const cur = currentRegion(d);
   const keep = cur ? nextInRegion(d, cur) : null;
   const curGate = cur && !keep ? gatesInRegion(cur).map((g) => gateState(d, g)).find((g) => g.status === 'open') : undefined;
-  const showKeep = !!keep && (q.dailyDone || q.daily?.lesson.id !== keep.id);
+  const bonusLessonId =
+    q.bonus && !q.bonus.done && q.bonus.suggestion?.type === 'lesson' ? q.bonus.suggestion.lesson.id : undefined;
+  // Don't show the same lesson twice (as the daily quest or the bonus quest and again as "Keep going").
+  const showKeep = !!keep && (q.dailyDone || q.daily?.lesson.id !== keep.id) && bonusLessonId !== keep.id;
   const curProg = cur ? libraryProgress(d, cur) : null;
   const lib = libraryProgress(d);
   const explore = discoverLesson(d, [cur, q.daily?.lesson.region].filter(Boolean) as string[]);

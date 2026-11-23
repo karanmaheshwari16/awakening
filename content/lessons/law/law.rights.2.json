@@ -1,0 +1,86 @@
+{
+  "id": "law.rights.2",
+  "region": "law",
+  "topic": "rights",
+  "level": 2,
+  "prerequisites": [
+    "law.rights.1"
+  ],
+  "title": "When Rights Collide: Hard Cases",
+  "estimated_minutes": 16,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2018**, India’s Supreme Court decided a case about the **Sabarimala** temple in Kerala, a major Hindu pilgrimage site, which had traditionally barred women of menstruating age, roughly 10 to 50, from entering. Temple authorities and many devotees argued the practice was an essential part of the deity’s worship and protected by the right to freedom of religion. Petitioners argued it violated women’s rights to **equality** and **non-discrimination**.\n\nBy a 4–1 majority, the Court ruled that the exclusion was unconstitutional. The only woman on the bench, **Justice Indu Malhotra**, dissented, arguing that courts shouldn’t interfere with deeply held religious practices. The ruling provoked large protests, and in **2019**, the Court referred broader questions about religious freedom to a larger bench. The case captured a fundamental challenge: what happens when two rights, both protected by the Constitution, point in opposite directions?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that most rights aren’t absolute: they can be reasonably restricted. Often, the hardest legal questions arise not between rights and government power, but between **rights themselves**, or between rights and important public interests.\n\nCommon conflicts include:\n\n- **Free speech** versus protection from **hate** or **harm**.\n- **Privacy** versus **security**.\n- **Religious freedom** versus **equality**.\n- **Equality of treatment** versus measures to correct **historical disadvantage**.\n\nCourts don’t resolve these with simple formulas. They weigh competing values, consider context and develop tests to make their reasoning more consistent and transparent."
+    },
+    {
+      "type": "text",
+      "heading": "The proportionality test",
+      "md": "Many constitutional courts, including India’s, use a structured method called **proportionality** to decide whether a restriction on a right is justified. In the **Puttaswamy** privacy judgment (**2017**) and later cases, India’s Supreme Court applied versions of this test:\n\n1. **Legitimate aim**: does the restriction pursue a legitimate goal, like public safety or protecting others’ rights?\n2. **Suitability**: is the measure rationally connected to that goal?\n3. **Necessity**: is it the **least restrictive** way of achieving the goal, or are there less intrusive alternatives?\n4. **Balancing**: does the benefit of the restriction outweigh the harm to the right?\n\nProportionality originated largely in **German** constitutional law and has spread to courts around the world, from Canada and South Africa to the European Court of Human Rights."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of proportionality like a doctor deciding on treatment. Is there a real problem worth treating (legitimate aim)? Will this treatment actually help (suitability)? Is there a gentler treatment that would work just as well (necessity)? And do the benefits outweigh the side effects (balancing)? A good doctor doesn’t amputate a leg to treat a sprained ankle, and a good court doesn’t accept severe restrictions on rights when milder ones would do."
+    },
+    {
+      "type": "text",
+      "heading": "Free speech and its limits",
+      "md": "Countries draw the line on free speech very differently:\n\n- **United States**: the First Amendment gives speech exceptionally strong protection. In ***Brandenburg v Ohio*** (**1969**), the Supreme Court ruled that even inflammatory speech, including by the Ku Klux Klan, is protected unless it is directed to inciting **imminent lawless action** and is likely to produce it. Most **hate speech** is legally protected in the US.\n- **Europe**: many European countries criminalise hate speech, Holocaust denial and incitement to hatred, reflecting historical experiences with fascism.\n- **India**: **Article 19(2)** allows reasonable restrictions on several grounds, including **public order**, decency and morality, defamation and incitement to an offence. Indian law criminalises speech promoting enmity between groups and deliberately insulting religious beliefs.\n\nA long-running controversy in India concerned the colonial-era offence of **sedition** (Section 124A of the old Indian Penal Code), which critics argued was used against journalists, activists and protesters. In **2022**, the Supreme Court effectively put the law on hold pending review. The new **Bharatiya Nyaya Sanhita**, in force from 2024, dropped the word “sedition” but includes an offence concerning acts endangering the **sovereignty, unity and integrity of India**, which critics argue could be used similarly, while the government says it is more precisely defined. Debates over speech also extend online, to internet shutdowns, content takedowns and laws on misinformation."
+    },
+    {
+      "type": "text",
+      "heading": "Privacy and security",
+      "md": "In the **Puttaswamy** case (**2017**), as you’ve seen, India’s Supreme Court recognised **privacy** as a fundamental right. In **2018**, a five-judge bench applied this to **Aadhaar**, India’s biometric identity system. The Court upheld Aadhaar for distributing welfare benefits and subsidies, finding it served legitimate aims, but struck down or limited some uses, such as mandatory linking for bank accounts, mobile phone connections and use by private companies, finding these disproportionate. One judge dissented, arguing the whole scheme was unconstitutional.\n\nSimilar debates arise worldwide over government surveillance, data retention, facial recognition and encryption, as you saw in the Technology region."
+    },
+    {
+      "type": "steps",
+      "title": "Equality and affirmative action",
+      "items": [
+        "India’s Constitution allows the state to make special provisions for socially and educationally backward classes, Scheduled Castes and Scheduled Tribes, including **reservations**: setting aside a share of seats in education, government jobs and legislatures.",
+        "Reservations were designed to address centuries of caste-based exclusion, especially of Dalits, who faced untouchability, and Adivasis.",
+        "In **1990**, the government implemented the **Mandal Commission**’s recommendation of reservations for **Other Backward Classes (OBCs)** in central government jobs, sparking intense protests and debate.",
+        "In ***Indra Sawhney*** (**1992**), the Supreme Court upheld OBC reservations, but generally capped total reservations at **50%**, and excluded the more advantaged among backward classes, called the “**creamy layer**”.",
+        "In **2019**, a constitutional amendment introduced a **10%** reservation for **economically weaker sections** among groups not otherwise covered; the Supreme Court upheld it by a 3–2 majority in **2022**.",
+        "Supporters argue reservations are essential to correct deep, ongoing inequality and ensure representation. Critics raise concerns about merit, whether benefits reach the most disadvantaged and whether caste-based categories entrench caste identity."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Affirmative action elsewhere",
+      "md": "Many countries have adopted measures to address historical disadvantage, with different approaches:\n\n- In the **United States**, universities long used race as one factor in admissions to promote diversity. In **2023**, in ***Students for Fair Admissions v Harvard***, the Supreme Court ruled that race-conscious admissions programmes at Harvard and the University of North Carolina violated the Constitution’s equal protection guarantee, effectively ending such programmes.\n- **South Africa**, after apartheid, adopted broad measures to promote employment and ownership opportunities for Black South Africans.\n- Many countries use **quotas** for women in legislatures. In India, a **2023** constitutional amendment provides for reserving **one-third** of seats in the Lok Sabha and state assemblies for women, to take effect after a future census and redrawing of constituencies."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How do courts decide when religious freedom conflicts with other rights?",
+      "md": "India’s Supreme Court has often used an “**essential religious practices**” test, asking whether a practice is essential or integral to a religion, and therefore protected under Article 25. Practices found not essential can be regulated, especially for public order, morality, health or social reform. Critics argue that this requires secular judges to decide matters of religious doctrine, which they’re poorly placed to do, and that results can seem inconsistent. Some judges and scholars have proposed alternatives, such as focusing on whether practices violate others’ dignity or equality, regardless of whether they’re “essential”. Similar dilemmas arise worldwide, over issues like religious dress in schools, religious exemptions from anti-discrimination laws and the role of religious courts. These are among the most difficult questions in constitutional law, involving deep values on all sides."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Hard cases arise when rights conflict: **speech vs harm**, **privacy vs security**, **religion vs equality**, **equal treatment vs correcting disadvantage**.",
+        "The **proportionality test** asks about **legitimate aim**, **suitability**, **necessity** and **balancing**.",
+        "The **US** strongly protects speech (***Brandenburg*, 1969**); **Europe** criminalises hate speech; **India** allows restrictions under **Article 19(2)**; the **sedition** law was put on hold in **2022**.",
+        "The **Aadhaar** judgment (**2018**) upheld its welfare use but limited other uses on privacy grounds.",
+        "**Reservations** address caste disadvantage; ***Indra Sawhney* (1992)** set a **50%** cap and the **creamy layer**; **EWS** reservations were upheld in **2022**.",
+        "The US ended race-conscious admissions in **2023**; India passed **women’s reservation** in legislatures in **2023**.",
+        "The **Sabarimala** case shows the difficulty of balancing religious freedom and equality."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Many of the most contested public debates, about speech, privacy, religion and equality, are at their core conflicts between rights. Understanding how courts weigh them, and the strongest arguments on each side, helps you engage with these debates thoughtfully and respectfully, recognising that reasonable people can disagree about how to balance deeply held values."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do different countries balance free speech against harm, what is the proportionality test, and what are the main arguments in the debate over reservations and affirmative action?"
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "law.gate.1",
+    "region": "law",
+    "tier": 1,
+    "title": "A Citizen’s Toolkit",
+    "question": "A street vendor in an Indian city has her cart seized by municipal officials without notice, and when she protests, she is detained at a police station overnight without being told why. Using what you have learned about what law is, the Constitution, fundamental rights and the courts, explain which of her rights may have been violated and what legal routes she could use. (General education only, not legal advice.)",
+    "links": ["what-is-law", "constitutions", "rights", "courts"],
+    "model_answer": "Several constitutional protections are relevant.\n\nThe seizure: Article 21 protects life and personal liberty, and since the Olga Tellis case the Supreme Court has recognised the right to livelihood as part of it. After Maneka Gandhi, any procedure that deprives a person of liberty or livelihood must be fair, just and reasonable, not arbitrary. Seizing her cart without notice or a hearing may fail that test. Article 19(1)(g) protects the freedom to practise any occupation or trade, subject to reasonable restrictions such as regulation of street vending, and Article 14 guarantees equality before the law and protection from arbitrary state action. India also has a specific law protecting and regulating street vendors, passed in 2014, which sets out processes for vending zones and evictions.\n\nThe detention: Article 22 requires that an arrested person be informed of the grounds of arrest, be allowed to consult a lawyer of her choice and be produced before a magistrate within 24 hours. The D. K. Basu guidelines require an arrest memo, informing a relative and other safeguards. Being detained without being told why would breach these protections, and Article 20(3) protects her from being forced to incriminate herself.\n\nRemedies: she could seek free legal aid through the District Legal Services Authority under the 1987 Act. Her lawyer could file a writ petition in the High Court under Article 226, or in the Supreme Court under Article 32, the provision Ambedkar called the heart and soul of the Constitution, seeking orders such as mandamus to return her cart or habeas corpus if she were still detained. Complaints about police conduct could also go to human rights commissions or police complaints authorities. Because law in a common law system develops through precedent, earlier judgments like Olga Tellis and D. K. Basu would bind or guide the courts.",
+    "key_points": [
+      "Article 21 includes the right to livelihood (Olga Tellis); procedures must be fair, just and reasonable (Maneka Gandhi).",
+      "Articles 19(1)(g) and 14 protect occupation and freedom from arbitrary action, subject to reasonable regulation.",
+      "Article 22 and the D. K. Basu guidelines protect arrested persons: grounds, lawyer, magistrate within 24 hours.",
+      "Free legal aid and writ petitions under Articles 226 and 32 (mandamus, habeas corpus) provide remedies.",
+      "Binding precedents guide courts in applying these rights."
+    ]
+  },
+  {
+    "id": "law.gate.2",
+    "region": "law",
+    "tier": 2,
+    "title": "Justice in the Balance",
+    "question": "A city proposes to use facial recognition cameras to identify suspects in crowds, and to deny bail automatically to anyone the system flags as \"high risk\". Using what you have learned about rights in conflict, courts and evidence, criminal justice and wrongful convictions, evaluate this proposal. What rights are at stake, what could go wrong, and what safeguards would a court likely require? (General education only, not legal advice.)",
+    "links": ["rights", "courts", "criminal-justice", "contracts"],
+    "model_answer": "The proposal pits public safety against several rights, so a court would likely apply a proportionality test.\n\nRights at stake: privacy, recognised as a fundamental right in Puttaswamy (2017); freedom of movement, assembly and expression, since people may avoid protests if they fear being tracked; equality, if the system performs worse for some groups; and personal liberty under Article 21, especially the presumption of innocence and the principle that bail should be the rule and jail the exception.\n\nWhat could go wrong: facial recognition can produce false matches, and studies have found some systems are less accurate for certain groups, so innocent people may be misidentified. Like eyewitness identification, a confident identification can be wrong, and wrongful convictions often begin with mistaken identification. Automated risk scores can reproduce bias in historical data, as debates over the COMPAS tool showed, and different definitions of fairness can conflict. Denying bail automatically removes individual judgement, and since around three-quarters of India’s prisoners are already undertrials, it could deepen the injustice of detention without conviction, especially for the poor.\n\nProportionality analysis: a legitimate aim (preventing serious crime) exists, but the measure must be suitable, necessary and balanced. Blanket surveillance of everyone in crowds and automatic denial of bail are unlikely to be the least restrictive means.\n\nSafeguards a court would likely require: a clear legal basis in legislation; limits on when and where cameras are used and how long data is kept; independent testing of accuracy across groups; human review of every match, which should be treated as a lead rather than evidence of guilt; no automatic bail denial, with judges deciding case by case on recognised factors; transparency, audits and a way to challenge errors; and remedies for people wrongly identified.",
+    "key_points": [
+      "Rights at stake: privacy (Puttaswamy), movement and assembly, equality, liberty and presumption of innocence.",
+      "Facial recognition and risk scores can misidentify people and encode bias, echoing eyewitness errors and COMPAS.",
+      "Automatic bail denial conflicts with \"bail, not jail\" and worsens the undertrial problem.",
+      "Proportionality: legitimate aim, but blanket measures likely fail necessity and balancing.",
+      "Safeguards: legal basis, limits, accuracy testing, human review, individual bail decisions, transparency and remedies."
+    ]
+  }
+]

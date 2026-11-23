@@ -1,0 +1,85 @@
+{
+  "id": "law.what-is-law.2",
+  "region": "law",
+  "topic": "what-is-law",
+  "level": 2,
+  "prerequisites": [
+    "law.what-is-law.1"
+  ],
+  "title": "How Law Grows: Precedent, Statutes and Interpretation",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On an August evening in **1928**, in a café in Paisley, Scotland, a woman named **May Donoghue** drank a bottle of ginger beer that a friend had bought for her. The bottle was made of dark, opaque glass. When she poured out the rest, she said, the decomposed remains of a **snail** floated out. She fell ill.\n\nBecause her friend, not she, had bought the drink, she had no contract with the café or the manufacturer. But in **1932**, Britain’s highest court ruled in ***Donoghue v Stevenson*** that manufacturers owe a **duty of care** to the people who will use their products. Lord Atkin described a “**neighbour principle**”: you must take reasonable care to avoid harming people closely and directly affected by your actions. Whether a snail was ever actually in the bottle was never proven. Yet that single case helped create the modern law of negligence across the common law world, including India."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met the main sources of law and the two great legal families: **common law** and **civil law**. This lesson looks more closely at how law develops and how courts work out what the law means.\n\nIn **common law** systems like India, the UK and the US, much law is made and refined by **judges**, through their decisions in individual cases. The core principle is **precedent**, also known by its Latin name, ***stare decisis***, meaning “to stand by things decided”: courts should follow the legal principles established in earlier decisions, especially those of higher courts."
+    },
+    {
+      "type": "text",
+      "heading": "How precedent works",
+      "md": "- **Binding precedent**: lower courts must follow the decisions of higher courts in the same system. In India, under **Article 141** of the Constitution, the law declared by the **Supreme Court** is binding on all courts in the country.\n- **Persuasive precedent**: decisions from courts that aren’t binding, such as lower courts, courts in other states or courts in other countries, may still influence judges. Indian courts often cite decisions from the UK, US and other common law countries.\n- **Ratio decidendi** (“the reason for the decision”): the legal principle essential to the decision, which becomes binding.\n- **Obiter dicta** (“things said by the way”): other comments by the judge, which may be persuasive but aren’t binding.\n- **Distinguishing**: a court can avoid following a precedent by showing that the facts of the new case are materially different.\n- **Overruling**: a higher court, or the same court with a larger bench, can overturn an earlier precedent it now considers wrong.\n\nPrecedent provides **consistency** and **predictability**, since similar cases are decided similarly, while allowing law to **evolve** gradually as new situations arise."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of precedent like a path through a forest. The first judge to face a new kind of case cuts a path. Later judges, facing similar journeys, follow the same path, making it wider and clearer, so travellers know where to go. Occasionally, a judge finds the old path leads somewhere unjust or no longer fits the landscape, and a higher court cuts a new one. Over time, a network of paths, the common law, grows across the forest."
+    },
+    {
+      "type": "text",
+      "heading": "Interpreting statutes",
+      "md": "Even when Parliament writes a law, its meaning isn’t always clear. Words can be ambiguous, situations arise that lawmakers didn’t foresee, and technology changes. Courts must **interpret** statutes, and there are several traditional approaches:\n\n- **The literal rule**: give words their ordinary, plain meaning, even if the result seems odd. It respects Parliament’s exact words, but can produce absurd outcomes.\n- **The golden rule**: start with the literal meaning, but depart from it if it would produce an absurd or obviously unjust result.\n- **The mischief rule**: ask what problem, or “mischief”, the law was designed to fix, and interpret it to address that problem. It dates back to an English case from **1584**.\n- **The purposive approach**: interpret the law in light of its overall **purpose**, looking at the context and aims of the legislation. Modern courts, including Indian courts, increasingly favour this approach, especially for constitutional and social welfare legislation."
+    },
+    {
+      "type": "text",
+      "heading": "What is law, really? Different theories",
+      "md": "Legal philosophers have long debated what makes something law:\n\n- **Natural law** theory, as you saw in the previous lesson, holds that law is connected to morality: an unjust law may lack true legal authority.\n- **Legal positivism** holds that law is defined by its **sources**, such as legislation passed by proper procedures, not its morality. The British philosopher **H. L. A. Hart**, in *The Concept of Law* (**1961**), argued that a legal system rests on a “**rule of recognition**”: a shared understanding among officials about what counts as valid law.\n- **Legal realism**, influential in the US in the early 20th century, emphasised that law in practice depends on what judges actually do, which can be influenced by their backgrounds, values and even, as a famous joke put it, what they had for breakfast."
+    },
+    {
+      "type": "steps",
+      "title": "India’s new criminal laws",
+      "items": [
+        "For over 160 years, India’s criminal law was largely based on the **Indian Penal Code (IPC)** of **1860**, drafted under the leadership of the British historian and politician **Thomas Babington Macaulay**, along with the **Code of Criminal Procedure** and the **Indian Evidence Act** of 1872.",
+        "In **2023**, Parliament passed three new laws to replace them: the **Bharatiya Nyaya Sanhita** (replacing the IPC), the **Bharatiya Nagarik Suraksha Sanhita** (replacing the Code of Criminal Procedure) and the **Bharatiya Sakshya Adhiniyam** (replacing the Evidence Act).",
+        "They came into force on **1 July 2024**.",
+        "The government described them as replacing colonial-era laws with ones focused on justice for citizens, adding provisions on offences like organised crime and mob lynching, and using technology, such as electronic evidence and recording of searches.",
+        "Critics argued that much of the content remained similar to the old laws, raised concerns about some expanded police powers and questioned the speed of their passage. Courts will interpret them over many years, building new precedent."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Legal pluralism and personal laws",
+      "md": "India’s legal system includes **personal laws**: different rules on matters like **marriage**, **divorce**, **inheritance** and **adoption** for different religious communities. Hindu personal law was codified by Parliament in the **1950s** through laws like the Hindu Marriage Act and Hindu Succession Act, while Muslim, Christian and Parsi personal laws are governed by separate laws and traditions.\n\nSome landmark cases have shaped this area:\n\n- In the **Shah Bano** case (**1985**), the Supreme Court ruled that a divorced Muslim woman was entitled to maintenance from her former husband under general criminal procedure law. The judgment sparked major political controversy; Parliament subsequently passed a law that was widely seen as diluting the ruling, though later court interpretations expanded women’s rights under it.\n- In the **Shayara Bano** case (**2017**), the Supreme Court ruled that the practice of instant **triple talaq**, a form of divorce by pronouncing “talaq” three times at once, was unconstitutional. Parliament later made it a criminal offence in **2019**.\n\nThe Constitution’s **Directive Principles** (Article 44) state that the state shall endeavour to secure a **Uniform Civil Code** for all citizens. **Goa** has long had a common civil code, inherited from Portuguese rule, and **Uttarakhand** adopted a Uniform Civil Code that came into force in **2025**. Supporters argue a uniform code would promote equality, especially gender equality, and national integration. Critics worry it could override the religious and cultural autonomy of minorities, and argue that reform should come from within communities. The debate remains one of the most sensitive in Indian law and politics."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If precedent is so important, can courts ever ignore it?",
+      "md": "Courts take precedent seriously, but it isn’t absolute. A higher court can **overrule** its own earlier decisions when it concludes they were wrong or no longer fit changed social conditions. India’s Supreme Court has overruled itself in several major cases, such as in **2017**, when it declared the **ADM Jabalpur** decision from the Emergency to be wrong, and in **2018**, when, in ***Navtej Singh Johar***, it struck down the part of the law criminalising consensual same-sex relations, overruling a 2013 decision. Larger benches can overrule smaller ones. Lower courts can **distinguish** precedents on the facts. The challenge is balancing **stability**, since people need to rely on the law, with **justice**, since law must be able to correct its mistakes and adapt to new understanding."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "In **common law**, **precedent** (***stare decisis***) means courts follow earlier decisions; India’s Supreme Court decisions bind all courts (**Article 141**).",
+        "Key ideas: **binding** and **persuasive** precedent, ***ratio decidendi*** and ***obiter dicta***, **distinguishing** and **overruling**.",
+        "***Donoghue v Stevenson* (1932)** created the **neighbour principle** and modern negligence law.",
+        "Statutes are interpreted through the **literal**, **golden**, **mischief** and **purposive** approaches.",
+        "Theories of law include **natural law**, **legal positivism** (**Hart, 1961**) and **legal realism**.",
+        "India replaced the **IPC (1860)** and related laws with the **Bharatiya Nyaya Sanhita** and two other laws from **1 July 2024**.",
+        "India’s **personal laws**, cases like **Shah Bano (1985)** and **Shayara Bano (2017)**, and the **Uniform Civil Code** debate show legal pluralism’s complexities."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Law isn’t a fixed rulebook; it grows through cases, interpretation and legislative reform. Understanding precedent and interpretation helps you see why court judgments matter so much, why lawyers argue about the meaning of words, and how a case about a snail in a bottle can shape the law for nearly a century. Next, you’ll explore the highest law of all: constitutions."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is precedent and why does it matter in common law systems, what are the main approaches to interpreting statutes, and why has India’s system of personal laws been debated?"
+  }
+}

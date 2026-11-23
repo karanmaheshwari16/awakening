@@ -1,0 +1,82 @@
+{
+  "id": "law.criminal-justice.1",
+  "region": "law",
+  "topic": "criminal-justice",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Crime and Punishment",
+  "estimated_minutes": 16,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1764**, a 26-year-old Italian nobleman named **Cesare Beccaria** published a short book called *On Crimes and Punishments*. At the time, punishments across Europe were often cruel and arbitrary: torture was used to extract confessions, and executions for minor crimes were common.\n\nBeccaria argued that punishment should be **proportionate** to the crime, that torture should be abolished, and that the death penalty was neither necessary nor useful. Most strikingly, he argued that the **certainty** of punishment deters crime far more than its **severity**. His book was translated across Europe, influenced rulers and thinkers from Catherine the Great of Russia to the American founders, and helped inspire the reform of criminal law. Many of his questions, about what punishment is for and what actually works, are still debated today."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Criminal law** defines behaviour that society considers so harmful that it deserves punishment by the state, from theft and assault to fraud, corruption and murder.\n\nIn most legal systems, a crime generally requires two elements:\n\n- **Actus reus** (“guilty act”): the physical act, or sometimes a failure to act when there’s a legal duty, that the law prohibits.\n- **Mens rea** (“guilty mind”): the mental state required for the crime, such as **intention**, **knowledge**, **recklessness** or **negligence**.\n\nThat’s why the law distinguishes between, say, **murder** (killing with intent) and **causing death by negligence**: the act may be similar, but the mental state differs. Some minor offences, like many traffic violations, are **strict liability** offences, requiring no proof of intent.\n\nLegal systems also recognise **defences**, such as **self-defence**, **insanity** (as you saw in the Philosophy region), **duress** (being forced to act under threat) and, for young children, **lack of capacity**."
+    },
+    {
+      "type": "text",
+      "heading": "Why punish? Five purposes",
+      "md": "Philosophers and legal systems have offered several justifications for punishment, which you met briefly in the Philosophy region:\n\n1. **Retribution**: offenders **deserve** punishment proportionate to their wrongdoing. It’s about justice for the act itself, not future consequences.\n2. **Deterrence**: punishment discourages crime. **Specific deterrence** discourages the offender from reoffending; **general deterrence** discourages others.\n3. **Incapacitation**: imprisonment prevents offenders from committing crimes against the public while they’re locked up.\n4. **Rehabilitation**: helping offenders change, through education, training, therapy and support, so they can lead law-abiding lives.\n5. **Restoration**: repairing the harm done to victims and communities, often through **restorative justice**, which brings offenders, victims and communities together to address the harm and agree on how to make amends.\n\nMost systems combine these goals, but the balance between them varies greatly between countries and over time."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of punishment like different responses when a child breaks a neighbour’s window. A **retributive** parent says: you did wrong, so you deserve a consequence. A **deterrent** parent says: this punishment will make you, and your siblings, think twice next time. An **incapacitating** parent says: no more cricket in the garden. A **rehabilitative** parent says: let’s learn to play more carefully. A **restorative** parent says: go apologise and help pay for the window. Most parents mix several of these, and so do justice systems."
+    },
+    {
+      "type": "text",
+      "heading": "Does punishment deter crime?",
+      "md": "Research supports Beccaria’s insight: the **certainty** of being caught matters much more than the **severity** of punishment. A major review by the US **National Research Council** in **2014** concluded that increasing the severity of already long prison sentences has little deterrent effect, while increasing the likelihood of apprehension is a more effective deterrent.\n\nThis suggests that effective policing, quick and reliable investigations, and swift, fair justice may do more to reduce crime than ever-harsher sentences."
+    },
+    {
+      "type": "text",
+      "heading": "The death penalty",
+      "md": "The **death penalty** (capital punishment) is one of the most debated issues in criminal justice:\n\n- According to **Amnesty International**, more than **two-thirds** of the world’s countries have abolished the death penalty in law or in practice.\n- It’s still used in countries including **China** (which is believed to carry out the most executions, though figures are secret), **Iran**, **Saudi Arabia** and some US states. **India** retains it.\n- In ***Bachan Singh v State of Punjab*** (**1980**), India’s Supreme Court upheld the death penalty, but ruled it should be imposed only in the “**rarest of rare**” cases, when alternative punishment is unquestionably foreclosed. Executions in India are rare, though courts continue to hand down death sentences.\n\nArguments **for** the death penalty include retribution for the most heinous crimes, justice for victims’ families and possible deterrence. Arguments **against** include the risk of **executing innocent people**, which can never be undone, as the wrongful convictions you met earlier show; evidence that it is applied **unequally**, disproportionately affecting the poor and marginalised; questions about whether the state should ever take life; and the lack of clear evidence that it deters crime more effectively than long imprisonment. A **2012** review by the US National Research Council concluded that existing studies could not determine whether the death penalty deters murder."
+    },
+    {
+      "type": "steps",
+      "title": "India’s prisons: the undertrial problem",
+      "items": [
+        "According to India’s **National Crime Records Bureau**, around **three-quarters** of India’s prisoners are **undertrials**: people awaiting trial who have not been convicted of any crime.",
+        "Many are poor and unable to afford bail or lawyers, and some spend longer in jail awaiting trial than the maximum sentence for their alleged offence, as the Hussainara Khatoon case revealed decades ago.",
+        "Many prisons are **overcrowded**, operating well above capacity.",
+        "Legal provisions allow undertrials who have spent half the maximum sentence in custody to be released, and courts have repeatedly emphasised that **bail should be the rule, and jail the exception**.",
+        "Reforms aim to speed up trials, expand legal aid, use video conferencing for hearings and review cases of long-term undertrials."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Different approaches to prison",
+      "md": "Countries take very different approaches to imprisonment:\n\n- The **United States** has one of the highest incarceration rates in the world, with well over a million people in prison, influenced by long sentences and policies like mandatory minimum sentences.\n- **Norway** focuses heavily on **rehabilitation**. Prisons like **Halden** resemble dormitories more than cells, with education, work and therapy programmes, aiming to prepare prisoners for life after release. Norway reports relatively low rates of **reoffending**, though direct comparisons between countries are complicated by differences in how reoffending is measured and in the prison populations themselves.\n- Many countries are expanding **alternatives** to prison for less serious offences, such as fines, community service, probation and electronic monitoring. India’s new criminal laws introduced **community service** as a punishment for some minor offences."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What is restorative justice, and does it work?",
+      "md": "**Restorative justice** focuses on repairing harm rather than only punishing. Typically, with the consent of both sides, offenders meet their victims, often with a trained facilitator and community members. Victims can describe how the crime affected them and ask questions; offenders take responsibility and agree on ways to make amends, such as apologies, compensation or community work. It draws partly on traditional practices in many cultures, including Maori communities in New Zealand and community-based dispute resolution traditions found in many societies, including Indian village panchayats. Research suggests restorative justice often leads to higher **victim satisfaction** and can modestly reduce **reoffending** for some offences, though it’s not suitable for every case, especially where there are serious power imbalances or risks to victims. Many countries now use it alongside traditional criminal justice."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A crime usually requires **actus reus** (guilty act) and **mens rea** (guilty mind); defences include **self-defence**, **insanity** and **duress**.",
+        "Purposes of punishment: **retribution**, **deterrence**, **incapacitation**, **rehabilitation** and **restoration**.",
+        "**Beccaria (1764)** argued for proportionate punishment and that **certainty** deters more than **severity**, supported by modern research.",
+        "Over **two-thirds** of countries have abolished the **death penalty** in law or practice; India retains it for the “**rarest of rare**” cases (***Bachan Singh*, 1980**); evidence on its deterrent effect is inconclusive.",
+        "About **three-quarters** of India’s prisoners are **undertrials**; “**bail is the rule, jail the exception**”.",
+        "Approaches vary from high incarceration in the **US** to rehabilitation in **Norway**; **restorative justice** focuses on repairing harm."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "How a society defines and responds to crime reflects its deepest values about justice, mercy, safety and human dignity. Understanding the purposes of punishment and the evidence on what works helps you engage with debates about sentencing, prisons and the death penalty more thoughtfully, and see past slogans to what actually makes communities safer and justice fairer."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what two elements usually make up a crime, what are the main purposes of punishment, and what does the evidence say about deterrence and the death penalty?"
+  }
+}

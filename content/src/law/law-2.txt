@@ -1,0 +1,312 @@
+##### LESSON
+id: law.rights.2
+title: When Rights Collide: Hard Cases
+minutes: 16
+disclaimer: legal
+prereq: law.rights.1
+check: In your own words: how do different countries balance free speech against harm, what is the proportionality test, and what are the main arguments in the debate over reservations and affirmative action?
+
+=== hook
+In **2018**, India’s Supreme Court decided a case about the **Sabarimala** temple in Kerala, a major Hindu pilgrimage site, which had traditionally barred women of menstruating age, roughly 10 to 50, from entering. Temple authorities and many devotees argued the practice was an essential part of the deity’s worship and protected by the right to freedom of religion. Petitioners argued it violated women’s rights to **equality** and **non-discrimination**.
+
+By a 4–1 majority, the Court ruled that the exclusion was unconstitutional. The only woman on the bench, **Justice Indu Malhotra**, dissented, arguing that courts shouldn’t interfere with deeply held religious practices. The ruling provoked large protests, and in **2019**, the Court referred broader questions about religious freedom to a larger bench. The case captured a fundamental challenge: what happens when two rights, both protected by the Constitution, point in opposite directions?
+
+=== core
+In the previous lesson, you saw that most rights aren’t absolute: they can be reasonably restricted. Often, the hardest legal questions arise not between rights and government power, but between **rights themselves**, or between rights and important public interests.
+
+Common conflicts include:
+
+- **Free speech** versus protection from **hate** or **harm**.
+- **Privacy** versus **security**.
+- **Religious freedom** versus **equality**.
+- **Equality of treatment** versus measures to correct **historical disadvantage**.
+
+Courts don’t resolve these with simple formulas. They weigh competing values, consider context and develop tests to make their reasoning more consistent and transparent.
+
+=== text The proportionality test
+Many constitutional courts, including India’s, use a structured method called **proportionality** to decide whether a restriction on a right is justified. In the **Puttaswamy** privacy judgment (**2017**) and later cases, India’s Supreme Court applied versions of this test:
+
+1. **Legitimate aim**: does the restriction pursue a legitimate goal, like public safety or protecting others’ rights?
+2. **Suitability**: is the measure rationally connected to that goal?
+3. **Necessity**: is it the **least restrictive** way of achieving the goal, or are there less intrusive alternatives?
+4. **Balancing**: does the benefit of the restriction outweigh the harm to the right?
+
+Proportionality originated largely in **German** constitutional law and has spread to courts around the world, from Canada and South Africa to the European Court of Human Rights.
+
+=== callout analogy
+Think of proportionality like a doctor deciding on treatment. Is there a real problem worth treating (legitimate aim)? Will this treatment actually help (suitability)? Is there a gentler treatment that would work just as well (necessity)? And do the benefits outweigh the side effects (balancing)? A good doctor doesn’t amputate a leg to treat a sprained ankle, and a good court doesn’t accept severe restrictions on rights when milder ones would do.
+
+=== text Free speech and its limits
+Countries draw the line on free speech very differently:
+
+- **United States**: the First Amendment gives speech exceptionally strong protection. In ***Brandenburg v Ohio*** (**1969**), the Supreme Court ruled that even inflammatory speech, including by the Ku Klux Klan, is protected unless it is directed to inciting **imminent lawless action** and is likely to produce it. Most **hate speech** is legally protected in the US.
+- **Europe**: many European countries criminalise hate speech, Holocaust denial and incitement to hatred, reflecting historical experiences with fascism.
+- **India**: **Article 19(2)** allows reasonable restrictions on several grounds, including **public order**, decency and morality, defamation and incitement to an offence. Indian law criminalises speech promoting enmity between groups and deliberately insulting religious beliefs.
+
+A long-running controversy in India concerned the colonial-era offence of **sedition** (Section 124A of the old Indian Penal Code), which critics argued was used against journalists, activists and protesters. In **2022**, the Supreme Court effectively put the law on hold pending review. The new **Bharatiya Nyaya Sanhita**, in force from 2024, dropped the word “sedition” but includes an offence concerning acts endangering the **sovereignty, unity and integrity of India**, which critics argue could be used similarly, while the government says it is more precisely defined. Debates over speech also extend online, to internet shutdowns, content takedowns and laws on misinformation.
+
+=== text Privacy and security
+In the **Puttaswamy** case (**2017**), as you’ve seen, India’s Supreme Court recognised **privacy** as a fundamental right. In **2018**, a five-judge bench applied this to **Aadhaar**, India’s biometric identity system. The Court upheld Aadhaar for distributing welfare benefits and subsidies, finding it served legitimate aims, but struck down or limited some uses, such as mandatory linking for bank accounts, mobile phone connections and use by private companies, finding these disproportionate. One judge dissented, arguing the whole scheme was unconstitutional.
+
+Similar debates arise worldwide over government surveillance, data retention, facial recognition and encryption, as you saw in the Technology region.
+
+=== steps Equality and affirmative action
+- India’s Constitution allows the state to make special provisions for socially and educationally backward classes, Scheduled Castes and Scheduled Tribes, including **reservations**: setting aside a share of seats in education, government jobs and legislatures.
+- Reservations were designed to address centuries of caste-based exclusion, especially of Dalits, who faced untouchability, and Adivasis.
+- In **1990**, the government implemented the **Mandal Commission**’s recommendation of reservations for **Other Backward Classes (OBCs)** in central government jobs, sparking intense protests and debate.
+- In ***Indra Sawhney*** (**1992**), the Supreme Court upheld OBC reservations, but generally capped total reservations at **50%**, and excluded the more advantaged among backward classes, called the “**creamy layer**”.
+- In **2019**, a constitutional amendment introduced a **10%** reservation for **economically weaker sections** among groups not otherwise covered; the Supreme Court upheld it by a 3–2 majority in **2022**.
+- Supporters argue reservations are essential to correct deep, ongoing inequality and ensure representation. Critics raise concerns about merit, whether benefits reach the most disadvantaged and whether caste-based categories entrench caste identity.
+
+=== text Affirmative action elsewhere
+Many countries have adopted measures to address historical disadvantage, with different approaches:
+
+- In the **United States**, universities long used race as one factor in admissions to promote diversity. In **2023**, in ***Students for Fair Admissions v Harvard***, the Supreme Court ruled that race-conscious admissions programmes at Harvard and the University of North Carolina violated the Constitution’s equal protection guarantee, effectively ending such programmes.
+- **South Africa**, after apartheid, adopted broad measures to promote employment and ownership opportunities for Black South Africans.
+- Many countries use **quotas** for women in legislatures. In India, a **2023** constitutional amendment provides for reserving **one-third** of seats in the Lok Sabha and state assemblies for women, to take effect after a future census and redrawing of constituencies.
+
+=== reveal How do courts decide when religious freedom conflicts with other rights?
+India’s Supreme Court has often used an “**essential religious practices**” test, asking whether a practice is essential or integral to a religion, and therefore protected under Article 25. Practices found not essential can be regulated, especially for public order, morality, health or social reform. Critics argue that this requires secular judges to decide matters of religious doctrine, which they’re poorly placed to do, and that results can seem inconsistent. Some judges and scholars have proposed alternatives, such as focusing on whether practices violate others’ dignity or equality, regardless of whether they’re “essential”. Similar dilemmas arise worldwide, over issues like religious dress in schools, religious exemptions from anti-discrimination laws and the role of religious courts. These are among the most difficult questions in constitutional law, involving deep values on all sides.
+
+=== keypoints
+- Hard cases arise when rights conflict: **speech vs harm**, **privacy vs security**, **religion vs equality**, **equal treatment vs correcting disadvantage**.
+- The **proportionality test** asks about **legitimate aim**, **suitability**, **necessity** and **balancing**.
+- The **US** strongly protects speech (***Brandenburg*, 1969**); **Europe** criminalises hate speech; **India** allows restrictions under **Article 19(2)**; the **sedition** law was put on hold in **2022**.
+- The **Aadhaar** judgment (**2018**) upheld its welfare use but limited other uses on privacy grounds.
+- **Reservations** address caste disadvantage; ***Indra Sawhney* (1992)** set a **50%** cap and the **creamy layer**; **EWS** reservations were upheld in **2022**.
+- The US ended race-conscious admissions in **2023**; India passed **women’s reservation** in legislatures in **2023**.
+- The **Sabarimala** case shows the difficulty of balancing religious freedom and equality.
+
+=== why
+Many of the most contested public debates, about speech, privacy, religion and equality, are at their core conflicts between rights. Understanding how courts weigh them, and the strongest arguments on each side, helps you engage with these debates thoughtfully and respectfully, recognising that reasonable people can disagree about how to balance deeply held values.
+
+##### LESSON
+id: law.courts.1
+title: Courts and Judges
+minutes: 15
+disclaimer: legal
+check: In your own words: how is India’s court system structured, what is the difference between the adversarial and inquisitorial systems, and why is case pendency such a serious problem in India?
+
+=== hook
+In **1959**, a celebrated naval officer named **K. M. Nanavati** shot dead his wife’s lover in Bombay, then surrendered to police. The case became a national sensation, covered obsessively by newspapers, especially a popular tabloid that campaigned openly for the officer.
+
+A **jury** acquitted Nanavati, a verdict the trial judge considered so perverse that he referred the case to the High Court, which overturned it and convicted him of murder. Concerns that juries could be swayed by media and public sentiment contributed to India gradually abolishing **jury trials** in the following years. The case still inspires books and films, and it reveals enduring questions about how courts should decide guilt fairly, insulated from public pressure.
+
+=== core
+**Courts** are institutions that settle disputes and apply the law. They decide whether people accused of crimes are guilty, resolve disagreements between individuals and organisations, review government actions and interpret the Constitution.
+
+Courts generally deal with two main kinds of cases:
+
+- **Criminal cases**: the state prosecutes someone accused of a crime, such as theft, assault or fraud. If convicted, the person may face punishment like a fine or imprisonment.
+- **Civil cases**: disputes between individuals or organisations, such as over contracts, property, family matters, compensation for injuries or consumer complaints. The usual remedies are compensation or court orders, rather than punishment.
+
+=== text The structure of India’s courts
+India has a single, integrated judicial system, unlike the US, which has separate federal and state court systems:
+
+- **The Supreme Court**, established under **Article 124**, sits at the top in New Delhi. It hears appeals from High Courts, cases between the Union and states, petitions to enforce Fundamental Rights under Article 32, and gives advisory opinions when the President requests them. Its sanctioned strength is **34** judges, including the Chief Justice of India.
+- **High Courts**: there are **25** High Courts, each with jurisdiction over one or more states or union territories. They hear appeals from lower courts, enforce rights through writs under Article 226 and supervise subordinate courts.
+- **District and subordinate courts**: in each district, a **District Court** and many lower courts handle the great majority of civil and criminal cases, the courts most people actually encounter.
+- **Tribunals and special courts**: specialised bodies for areas like tax, consumer disputes, environment (the **National Green Tribunal**), family matters and administrative disputes.
+
+=== text Adversarial and inquisitorial systems
+Legal systems differ in how trials work:
+
+- **Adversarial** systems, used in common law countries like India, the UK and the US, treat a trial as a contest between two sides, prosecution and defence in criminal cases, or two parties in civil cases. Each side gathers evidence, presents witnesses and challenges the other’s case through **cross-examination**. The judge acts as a relatively neutral referee, ensuring fair procedure and deciding on the law, and sometimes the facts.
+- **Inquisitorial** systems, common in civil law countries like France and Germany, give the judge a more active role in investigating the case: questioning witnesses, directing the gathering of evidence and seeking the truth more directly.
+
+Each has strengths and weaknesses. Adversarial systems emphasise the rights of parties to present their case, but can favour those who can afford skilled lawyers. Inquisitorial systems may be more efficient and less dependent on lawyers’ skill, but concentrate significant power in judges.
+
+=== callout analogy
+Think of an adversarial trial like a debate competition with a referee: two teams argue their sides as strongly as possible, cross-examine each other, and the referee ensures fair rules and declares the winner. An inquisitorial trial is more like an investigation led by a detective-judge, who asks the questions, gathers the evidence and tries to work out what really happened. Both aim at justice, but they assign the work very differently.
+
+=== text Burden and standard of proof
+Who has to prove what, and how convincingly?
+
+- In **criminal** cases, the prosecution bears the **burden of proof**, and the accused is presumed innocent until proven guilty. The standard is proof **beyond reasonable doubt**: a high bar, because a wrongful conviction can deprive someone of liberty or even life.
+- In **civil** cases, the standard is usually the **balance of probabilities** (or preponderance of evidence): whichever side’s version is more likely true wins.
+
+That’s why the same events can lead to different outcomes: someone might be acquitted of a crime, because guilt wasn’t proven beyond reasonable doubt, yet still be found liable to pay compensation in a civil case.
+
+=== steps India’s justice challenge: pendency
+- India’s courts face a massive backlog of cases. According to the **National Judicial Data Grid**, more than **50 million** (5 crore) cases are pending across all courts, the great majority in district and subordinate courts.
+- Some cases take years, even decades, to be resolved. As a common saying goes, justice delayed is justice denied.
+- Causes include a shortage of judges (India has historically had around **20 judges per million people**, far fewer than many other countries), vacancies, frequent adjournments, procedural complexity, the government itself being a major litigant, and limited court infrastructure.
+- Delays particularly harm the poor, undertrial prisoners, as you’ll see in the criminal justice lessons, and businesses, affecting economic growth.
+- Reforms include filling vacancies, digitising courts through the **e-Courts** project (including online case status and virtual hearings, which expanded rapidly during the COVID-19 pandemic), fast-track courts for certain offences and alternative dispute resolution.
+
+=== text Access to justice
+Justice must be accessible, not just available in theory. India has developed several mechanisms:
+
+- **Free legal aid**: under the **Legal Services Authorities Act** of **1987**, the **National Legal Services Authority (NALSA)** and state and district authorities provide free legal services to eligible people, including women, children, members of Scheduled Castes and Tribes, people with disabilities, victims of trafficking or disasters, industrial workers and those below an income threshold. Article 39A of the Constitution directs the state to ensure free legal aid.
+- **Lok Adalats** (“people’s courts”): forums where disputes, such as traffic fines, family disputes, bank recovery and compensation claims, are settled by compromise, quickly and without court fees. Their decisions are final and binding. National Lok Adalats settle millions of cases in single days.
+- **Alternative dispute resolution**: **mediation**, **conciliation** and **arbitration** help parties settle disputes outside traditional courtroom trials. India passed a **Mediation Act** in **2023**.
+
+=== reveal Why did India abolish jury trials while the US and UK still use them?
+In a **jury** trial, ordinary citizens, rather than judges, decide whether the accused is guilty, based on the evidence presented. Supporters argue juries bring community values into justice, act as a check on state power and give legitimacy to verdicts. In the US, the right to a jury trial is guaranteed by the Constitution for many cases; in England and Wales, juries hear serious criminal cases. India inherited jury trials from British rule in some places, but after concerns that juries could be swayed by public opinion, media campaigns and community or caste prejudices, highlighted by the **Nanavati** case, India gradually phased out jury trials from the **1960s**, and they were largely ended with the new Code of Criminal Procedure in **1973**. Today, judges decide both facts and law in Indian trials. Critics of juries point to similar concerns about bias elsewhere; supporters of juries worry that judge-only systems concentrate too much power in a few officials.
+
+=== keypoints
+- Courts handle **criminal cases** (the state prosecutes crimes) and **civil cases** (disputes between parties).
+- India has an integrated system: the **Supreme Court** (Article 124, up to **34** judges), **25 High Courts**, **district and subordinate courts** and specialised **tribunals**.
+- **Adversarial** systems (India, UK, US) treat trials as contests; **inquisitorial** systems (France, Germany) give judges an investigative role.
+- Criminal cases require proof **beyond reasonable doubt**; civil cases use the **balance of probabilities**.
+- Over **50 million** cases are pending in India; causes include **few judges** and procedural delays; **e-Courts** aim to help.
+- **Free legal aid** (**NALSA, 1987 Act**), **Lok Adalats** and **mediation** improve access to justice.
+- India phased out **jury trials** after cases like **Nanavati (1959)**.
+
+=== why
+Courts protect rights, settle disputes and hold the powerful accountable, but only if they’re accessible, fair and timely. Understanding how courts are structured and how they work helps you know where to turn if you need justice, make sense of legal news, and appreciate both the importance of the judiciary and the urgent challenges it faces.
+
+##### LESSON
+id: law.courts.2
+title: Judging Fairly: Bias, Evidence and Wrongful Convictions
+minutes: 15
+disclaimer: legal
+prereq: law.courts.1
+check: In your own words: what are some ways bias can affect judicial decisions, why can forensic evidence and confessions sometimes be unreliable, and what does Blackstone’s ratio say about criminal justice?
+
+=== hook
+In **1989**, five teenage boys, four Black and one Hispanic, were arrested for a brutal assault on a woman jogging in New York’s Central Park. After long police interrogations without lawyers, four of them gave videotaped confessions, which they quickly retracted, saying they had been coerced. There was no DNA evidence linking them to the crime. All five were convicted and spent between six and thirteen years in prison.
+
+In **2002**, a convicted rapist and murderer serving a life sentence confessed that he alone had committed the crime, and DNA evidence confirmed it. The convictions of the five, who became known as the **Exonerated Five**, were overturned. New York City later paid them a large settlement. Their case shows how false confessions, public pressure, racial prejudice and flawed evidence can combine to convict innocent people, and why justice systems need safeguards against their own mistakes.
+
+=== core
+In the previous lesson, you saw how courts are structured. But a fair justice system depends not only on structures, but on how **decisions** are made: how evidence is evaluated, how judges and juries reason, and how mistakes are caught and corrected.
+
+Courts, like all human institutions, can make errors. A **wrongful conviction** is when an innocent person is convicted of a crime they didn’t commit. These cases are especially serious because the state has used its power to punish an innocent person, while the real offender may remain free.
+
+=== text The presumption of innocence and Blackstone’s ratio
+A foundational principle of criminal justice is the **presumption of innocence**: anyone accused of a crime is presumed innocent until proven guilty according to law. It’s recognised in the Universal Declaration of Human Rights and by courts in India and around the world.
+
+In the 1760s, the English jurist **William Blackstone** wrote that it is **better that ten guilty persons escape than that one innocent suffer**. This idea, known as **Blackstone’s ratio**, expresses a moral choice: justice systems should be designed to minimise wrongful convictions, even at the cost of sometimes failing to convict the guilty. That’s why the standard of proof in criminal cases is so high, beyond reasonable doubt, and why the accused has rights like legal representation and the right to remain silent.
+
+=== callout analogy
+Think of a criminal justice system as a net designed to catch wrongdoers. A net with very fine mesh catches nearly every guilty person, but also traps many innocent people. A net with wider mesh lets some guilty people slip through, but rarely catches the innocent. Blackstone’s ratio is a decision about the size of the mesh: most legal systems deliberately choose a wider mesh, because convicting the innocent is considered a far worse error.
+
+=== text How bias can creep in
+Judges and juries are human, and research suggests that, like everyone, they can be influenced by factors that shouldn’t matter:
+
+- **Anchoring**: studies have found that sentencing decisions can be influenced by irrelevant numbers, such as a prosecutor’s suggested sentence or even, in some experiments, numbers generated by rolling dice, echoing the anchoring bias you met in the Philosophy region.
+- **Implicit bias**: unconscious attitudes and stereotypes about race, caste, religion, gender or class can affect judgements, even among people who consciously reject prejudice. Studies in several countries have found disparities in arrests, bail and sentencing affecting minority and disadvantaged groups.
+- **Media and public pressure**: high-profile cases can create pressure for quick convictions.
+- **Fatigue and circumstance**: a widely cited **2011** study of parole decisions in Israel suggested that judges granted parole far more often at the start of the day and after food breaks than just before them. Later researchers argued the pattern was partly explained by how cases were scheduled, illustrating the importance of careful interpretation of such studies, but the broader concern, that irrelevant factors can affect decisions, is supported by much research.
+
+=== text When evidence misleads
+Several kinds of evidence, once considered highly reliable, have turned out to be less so:
+
+- **Eyewitness identification**: as you saw in the Mind region, memory is reconstructive, and confident eyewitnesses can be mistaken. Mistaken eyewitness identification has contributed to a large share of wrongful convictions later overturned by DNA evidence.
+- **False confessions**: innocent people sometimes confess, especially under long, high-pressure interrogations, when tired, frightened, young, with intellectual disabilities or when promised leniency. In India, confessions made to police are generally **inadmissible** as evidence in court, precisely because of concerns about coercion, though confessions to a magistrate can be admissible.
+- **Forensic science**: in **2009**, a major report by the US **National Academy of Sciences** found that, apart from DNA analysis, many forensic techniques, such as bite-mark analysis, hair comparison and some fingerprint and firearm analyses, had not been rigorously tested for reliability, and that experts sometimes overstated their certainty in court. Since then, efforts have been made to strengthen forensic standards.
+- **Informants**: testimony from people who receive benefits, like reduced sentences, in exchange for testifying can be unreliable.
+
+=== steps The Innocence Project and DNA exonerations
+- The **Innocence Project** was founded in **1992** in New York by lawyers **Barry Scheck** and **Peter Neufeld**, to use DNA testing to free wrongfully convicted people.
+- DNA evidence, which you met in the Biology region, can conclusively show that a particular person was or wasn’t the source of biological evidence, like blood or other samples, from a crime scene.
+- In the United States, **hundreds** of people have been exonerated through DNA evidence, many after spending decades in prison, some after being sentenced to death.
+- Analyses of these cases found common causes: **eyewitness misidentification**, **flawed forensic evidence**, **false confessions** and **unreliable informants**, often in combination.
+- These cases led to reforms in many places, such as recording interrogations, changing police line-up procedures and improving forensic standards.
+- Similar organisations now work in many countries. In India, legal aid groups and researchers have highlighted cases of people acquitted after many years in prison, including people charged under terrorism laws, raising questions about compensation for the wrongfully imprisoned.
+
+=== text Safeguards and appeals
+Justice systems use several safeguards to reduce errors:
+
+- **Appeals**: convicted people can usually appeal to higher courts, which review whether the law was applied correctly and the trial was fair.
+- **Legal representation**: everyone accused of a crime has the right to a lawyer, with free legal aid for those who can’t afford one.
+- **Rules of evidence**: excluding unreliable evidence, such as coerced confessions.
+- **Recording interrogations** and access to lawyers during questioning.
+- **Independent forensic laboratories**, separate from police and prosecutors.
+- **Review bodies**: some countries have independent commissions to investigate possible wrongful convictions, like the **Criminal Cases Review Commission** in England, Wales and Northern Ireland, established in **1997**.
+
+=== reveal Should artificial intelligence help judges decide cases?
+Courts around the world are experimenting with AI tools. Some uses are relatively uncontroversial: **translating** judgments into regional languages, **transcribing** hearings and helping judges **research** legal materials. India’s Supreme Court has used AI tools for translating judgments into Indian languages and has explored AI-assisted research. More controversial is using AI to **predict** outcomes or assess risk, such as whether a defendant is likely to reoffend, as with the COMPAS tool you met in the Technology region, where debates arose about bias and transparency. Critics warn that AI can reproduce historical biases in data, lack transparency in its reasoning and undermine the human judgement and accountability central to justice. Supporters argue that, carefully designed and monitored, AI could reduce delays and some human biases. Most legal experts agree that, at least for now, final decisions about people’s liberty and rights must remain with accountable human judges.
+
+=== keypoints
+- **Wrongful convictions** punish the innocent and leave the guilty free; the **Exonerated Five** (Central Park, 1989) were cleared in **2002**.
+- The **presumption of innocence** and **Blackstone’s ratio** (better ten guilty escape than one innocent suffer) underpin criminal justice.
+- Bias can enter through **anchoring**, **implicit bias**, **public pressure** and **circumstance**.
+- **Eyewitness misidentification**, **false confessions**, flawed **forensic science** (**NAS report, 2009**) and **unreliable informants** contribute to wrongful convictions.
+- In India, **confessions to police** are generally **inadmissible**.
+- The **Innocence Project (1992)** has used DNA to exonerate hundreds of people in the US.
+- Safeguards include **appeals**, **legal representation**, **evidence rules**, **recorded interrogations** and **review bodies**; AI in courts raises concerns about bias and accountability.
+
+=== why
+Justice systems hold enormous power over people’s lives, and they can make mistakes. Understanding how bias, flawed evidence and pressure can lead to wrongful convictions helps you appreciate why procedural safeguards matter, why the presumption of innocence protects everyone, and why reforms to evidence and policing are so important. It also connects to what you learned about memory, statistics and reasoning in earlier regions.
+
+##### LESSON
+id: law.criminal-justice.1
+title: Crime and Punishment
+minutes: 16
+disclaimer: legal
+check: In your own words: what two elements usually make up a crime, what are the main purposes of punishment, and what does the evidence say about deterrence and the death penalty?
+
+=== hook
+In **1764**, a 26-year-old Italian nobleman named **Cesare Beccaria** published a short book called *On Crimes and Punishments*. At the time, punishments across Europe were often cruel and arbitrary: torture was used to extract confessions, and executions for minor crimes were common.
+
+Beccaria argued that punishment should be **proportionate** to the crime, that torture should be abolished, and that the death penalty was neither necessary nor useful. Most strikingly, he argued that the **certainty** of punishment deters crime far more than its **severity**. His book was translated across Europe, influenced rulers and thinkers from Catherine the Great of Russia to the American founders, and helped inspire the reform of criminal law. Many of his questions, about what punishment is for and what actually works, are still debated today.
+
+=== core
+**Criminal law** defines behaviour that society considers so harmful that it deserves punishment by the state, from theft and assault to fraud, corruption and murder.
+
+In most legal systems, a crime generally requires two elements:
+
+- **Actus reus** (“guilty act”): the physical act, or sometimes a failure to act when there’s a legal duty, that the law prohibits.
+- **Mens rea** (“guilty mind”): the mental state required for the crime, such as **intention**, **knowledge**, **recklessness** or **negligence**.
+
+That’s why the law distinguishes between, say, **murder** (killing with intent) and **causing death by negligence**: the act may be similar, but the mental state differs. Some minor offences, like many traffic violations, are **strict liability** offences, requiring no proof of intent.
+
+Legal systems also recognise **defences**, such as **self-defence**, **insanity** (as you saw in the Philosophy region), **duress** (being forced to act under threat) and, for young children, **lack of capacity**.
+
+=== text Why punish? Five purposes
+Philosophers and legal systems have offered several justifications for punishment, which you met briefly in the Philosophy region:
+
+1. **Retribution**: offenders **deserve** punishment proportionate to their wrongdoing. It’s about justice for the act itself, not future consequences.
+2. **Deterrence**: punishment discourages crime. **Specific deterrence** discourages the offender from reoffending; **general deterrence** discourages others.
+3. **Incapacitation**: imprisonment prevents offenders from committing crimes against the public while they’re locked up.
+4. **Rehabilitation**: helping offenders change, through education, training, therapy and support, so they can lead law-abiding lives.
+5. **Restoration**: repairing the harm done to victims and communities, often through **restorative justice**, which brings offenders, victims and communities together to address the harm and agree on how to make amends.
+
+Most systems combine these goals, but the balance between them varies greatly between countries and over time.
+
+=== callout analogy
+Think of punishment like different responses when a child breaks a neighbour’s window. A **retributive** parent says: you did wrong, so you deserve a consequence. A **deterrent** parent says: this punishment will make you, and your siblings, think twice next time. An **incapacitating** parent says: no more cricket in the garden. A **rehabilitative** parent says: let’s learn to play more carefully. A **restorative** parent says: go apologise and help pay for the window. Most parents mix several of these, and so do justice systems.
+
+=== text Does punishment deter crime?
+Research supports Beccaria’s insight: the **certainty** of being caught matters much more than the **severity** of punishment. A major review by the US **National Research Council** in **2014** concluded that increasing the severity of already long prison sentences has little deterrent effect, while increasing the likelihood of apprehension is a more effective deterrent.
+
+This suggests that effective policing, quick and reliable investigations, and swift, fair justice may do more to reduce crime than ever-harsher sentences.
+
+=== text The death penalty
+The **death penalty** (capital punishment) is one of the most debated issues in criminal justice:
+
+- According to **Amnesty International**, more than **two-thirds** of the world’s countries have abolished the death penalty in law or in practice.
+- It’s still used in countries including **China** (which is believed to carry out the most executions, though figures are secret), **Iran**, **Saudi Arabia** and some US states. **India** retains it.
+- In ***Bachan Singh v State of Punjab*** (**1980**), India’s Supreme Court upheld the death penalty, but ruled it should be imposed only in the “**rarest of rare**” cases, when alternative punishment is unquestionably foreclosed. Executions in India are rare, though courts continue to hand down death sentences.
+
+Arguments **for** the death penalty include retribution for the most heinous crimes, justice for victims’ families and possible deterrence. Arguments **against** include the risk of **executing innocent people**, which can never be undone, as the wrongful convictions you met earlier show; evidence that it is applied **unequally**, disproportionately affecting the poor and marginalised; questions about whether the state should ever take life; and the lack of clear evidence that it deters crime more effectively than long imprisonment. A **2012** review by the US National Research Council concluded that existing studies could not determine whether the death penalty deters murder.
+
+=== steps India’s prisons: the undertrial problem
+- According to India’s **National Crime Records Bureau**, around **three-quarters** of India’s prisoners are **undertrials**: people awaiting trial who have not been convicted of any crime.
+- Many are poor and unable to afford bail or lawyers, and some spend longer in jail awaiting trial than the maximum sentence for their alleged offence, as the Hussainara Khatoon case revealed decades ago.
+- Many prisons are **overcrowded**, operating well above capacity.
+- Legal provisions allow undertrials who have spent half the maximum sentence in custody to be released, and courts have repeatedly emphasised that **bail should be the rule, and jail the exception**.
+- Reforms aim to speed up trials, expand legal aid, use video conferencing for hearings and review cases of long-term undertrials.
+
+=== text Different approaches to prison
+Countries take very different approaches to imprisonment:
+
+- The **United States** has one of the highest incarceration rates in the world, with well over a million people in prison, influenced by long sentences and policies like mandatory minimum sentences.
+- **Norway** focuses heavily on **rehabilitation**. Prisons like **Halden** resemble dormitories more than cells, with education, work and therapy programmes, aiming to prepare prisoners for life after release. Norway reports relatively low rates of **reoffending**, though direct comparisons between countries are complicated by differences in how reoffending is measured and in the prison populations themselves.
+- Many countries are expanding **alternatives** to prison for less serious offences, such as fines, community service, probation and electronic monitoring. India’s new criminal laws introduced **community service** as a punishment for some minor offences.
+
+=== reveal What is restorative justice, and does it work?
+**Restorative justice** focuses on repairing harm rather than only punishing. Typically, with the consent of both sides, offenders meet their victims, often with a trained facilitator and community members. Victims can describe how the crime affected them and ask questions; offenders take responsibility and agree on ways to make amends, such as apologies, compensation or community work. It draws partly on traditional practices in many cultures, including Maori communities in New Zealand and community-based dispute resolution traditions found in many societies, including Indian village panchayats. Research suggests restorative justice often leads to higher **victim satisfaction** and can modestly reduce **reoffending** for some offences, though it’s not suitable for every case, especially where there are serious power imbalances or risks to victims. Many countries now use it alongside traditional criminal justice.
+
+=== keypoints
+- A crime usually requires **actus reus** (guilty act) and **mens rea** (guilty mind); defences include **self-defence**, **insanity** and **duress**.
+- Purposes of punishment: **retribution**, **deterrence**, **incapacitation**, **rehabilitation** and **restoration**.
+- **Beccaria (1764)** argued for proportionate punishment and that **certainty** deters more than **severity**, supported by modern research.
+- Over **two-thirds** of countries have abolished the **death penalty** in law or practice; India retains it for the “**rarest of rare**” cases (***Bachan Singh*, 1980**); evidence on its deterrent effect is inconclusive.
+- About **three-quarters** of India’s prisoners are **undertrials**; “**bail is the rule, jail the exception**”.
+- Approaches vary from high incarceration in the **US** to rehabilitation in **Norway**; **restorative justice** focuses on repairing harm.
+
+=== why
+How a society defines and responds to crime reflects its deepest values about justice, mercy, safety and human dignity. Understanding the purposes of punishment and the evidence on what works helps you engage with debates about sentencing, prisons and the death penalty more thoughtfully, and see past slogans to what actually makes communities safer and justice fairer.

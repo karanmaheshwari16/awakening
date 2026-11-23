@@ -1,0 +1,86 @@
+{
+  "id": "law.contracts.2",
+  "region": "law",
+  "topic": "contracts",
+  "level": 2,
+  "prerequisites": [
+    "law.contracts.1"
+  ],
+  "title": "Fine Print, Consumer Rights and Digital Agreements",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2016**, two researchers, **Jonathan Obar** and **Anne Oeldorf-Hirsch**, created a fake social networking site and asked over 500 university students to sign up. The site’s terms of service included some unusual clauses: users agreed that their data could be shared with the US National Security Agency and with employers, and, buried in the text, that they would give up their **first-born child** as payment for the service.\n\nAbout **98%** of participants agreed without noticing the clauses. Most spent less than a minute on terms that would take an average reader around half an hour or more to read properly. The experiment highlighted something almost everyone does every day: agreeing to contracts we haven’t read, written by companies far more powerful than us. It raises important questions about fairness, consent and how the law should protect consumers."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw the classic idea of a contract: two parties freely negotiating and agreeing on terms. But many modern contracts don’t work that way. When you sign up for a mobile phone plan, open a bank account, buy insurance, book a flight or install an app, you’re usually presented with a long **standard form contract**, written in advance by the company, which you can only accept or reject as a whole. There’s no negotiation. These are sometimes called **contracts of adhesion**.\n\nStandard form contracts are efficient: companies can’t negotiate separately with millions of customers. But they raise concerns:\n\n- **Unequal bargaining power**: the company writes all the terms; the consumer has little choice but to accept.\n- **Information asymmetry**: terms may be long, complex and full of legal jargon, and few people read them.\n- **Unfair terms**: contracts may include clauses that heavily favour the company, such as limiting its liability, allowing it to change terms unilaterally or imposing harsh penalties on customers."
+    },
+    {
+      "type": "text",
+      "heading": "Unfair terms and how law responds",
+      "md": "Courts and legislatures have developed ways to protect weaker parties:\n\n- Courts can refuse to enforce terms that are **unconscionable**, grossly unfair, or **against public policy**.\n- Ambiguous terms in standard form contracts are often interpreted **against** the party that wrote them.\n- Many countries have laws specifically targeting **unfair contract terms** in consumer contracts. India’s **Consumer Protection Act** of **2019** defines **unfair contracts** and allows consumer commissions to declare such terms void.\n- In a **2019** case, India’s Supreme Court held that a builder could not enforce one-sided terms in an apartment purchase agreement that heavily favoured the builder, finding them unfair to homebuyers."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a standard form contract like a restaurant with a fixed menu and no substitutions. That’s convenient and efficient, and usually fine. But imagine if the menu contained, in tiny print, a rule that you must pay double if you leave any food, and that the restaurant isn’t responsible if the food makes you ill. You’d expect someone, a regulator or a court, to step in, because you had no real chance to negotiate. Consumer protection law is that someone."
+    },
+    {
+      "type": "text",
+      "heading": "India’s Consumer Protection Act",
+      "md": "The **Consumer Protection Act, 2019**, replaced an earlier 1986 law, updating consumer protection for the age of e-commerce. Key features include:\n\n- **Consumer rights**: including the right to be protected against hazardous goods and services, the right to be **informed** about quality, quantity, purity and price, the right to **choose**, the right to be **heard**, the right to seek **redressal** and the right to **consumer education**.\n- **Consumer commissions** at **district**, **state** and **national** levels, which hear complaints about defective goods, deficient services and unfair trade practices. They’re designed to be simpler, cheaper and faster than ordinary courts, and consumers can file complaints themselves, including **online** through the **e-Daakhil** portal.\n- **Product liability**: manufacturers, sellers and service providers can be held liable for harm caused by defective products.\n- **Central Consumer Protection Authority (CCPA)**: a regulator that can investigate violations of consumer rights, order recalls, and act against **misleading advertisements**, including penalties for endorsers, such as celebrities, who promote misleading ads without due diligence.\n- **E-commerce rules**: obligations on online marketplaces to display information about sellers, prices, return policies and grievance redressal."
+    },
+    {
+      "type": "text",
+      "heading": "Dark patterns",
+      "md": "**Dark patterns** are design tricks in websites and apps that manipulate users into doing things they didn’t intend, such as buying more, sharing more data or finding it hard to cancel. They exploit the psychological shortcuts you met in the Money and Philosophy regions.\n\nCommon examples include:\n\n- **False urgency**: fake countdown timers or “only 2 left!” messages.\n- **Basket sneaking**: adding items or charges to your cart without clear consent.\n- **Confirm shaming**: making the option to decline embarrassing, like “No thanks, I don’t want to save money”.\n- **Forced continuity**: making it easy to start a free trial but hard to cancel before being charged.\n- **Hidden costs**: revealing extra fees only at the final step.\n- **Disguised advertisements** presented as genuine content.\n\nIn **2023**, India’s Central Consumer Protection Authority issued guidelines identifying and prohibiting **13** types of dark patterns on online platforms, joining regulators in the European Union and the United States in tackling such practices."
+    },
+    {
+      "type": "steps",
+      "title": "Practical tips before you agree",
+      "items": [
+        "**Skim for the key terms**, even if you don’t read everything: price, renewal and cancellation terms, fees and penalties, data sharing, and how disputes are resolved.",
+        "**Watch for automatic renewals**, and set reminders to cancel free trials if you don’t want them to continue.",
+        "**Keep records**: save receipts, screenshots of offers and copies of contracts and terms.",
+        "**Check privacy settings**, and be cautious about granting apps unnecessary permissions.",
+        "**For big decisions**, such as buying property, taking a loan, signing an employment contract or a rental agreement, read carefully and consider getting independent legal advice. India’s **Model Tenancy Act** of **2021** provides a framework that states can adopt to make rental agreements clearer and fairer for landlords and tenants.",
+        "**Know where to complain**: start with the company’s grievance officer, then use consumer helplines (India’s **National Consumer Helpline**) and consumer commissions if needed."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Arbitration and dispute resolution clauses",
+      "md": "Many contracts include an **arbitration clause**, requiring disputes to be resolved by a private arbitrator rather than in court. Arbitration can be faster, more flexible and confidential, and is widely used in business. India’s **Arbitration and Conciliation Act** of **1996** governs it.\n\nBut in consumer contracts, arbitration clauses can disadvantage consumers if they’re forced to use costly or distant arbitration. India’s Supreme Court has held that consumers can still approach **consumer commissions** despite arbitration clauses in their contracts, protecting their access to the simpler consumer remedies."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What are smart contracts, and are they really contracts?",
+      "md": "**Smart contracts** are computer programs stored on a **blockchain**, a shared digital ledger used by cryptocurrencies, that automatically execute actions when certain conditions are met: for example, automatically releasing payment when a delivery is confirmed. Supporters say they can reduce the need for intermediaries, cut costs and ensure agreements are carried out exactly as coded. But there are important caveats. Code can contain **bugs**, as you saw in the Technology region, and once executed on a blockchain, transactions may be impossible to reverse. Smart contracts can’t easily handle situations requiring human judgement, such as whether goods were of acceptable quality, and their legal status varies between countries. Whether a smart contract is legally enforceable depends on whether it meets the ordinary requirements for a contract, like offer, acceptance, consideration and capacity. In practice, code alone rarely replaces the need for legal agreements and human judgement."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Many modern contracts are **standard form contracts** (contracts of **adhesion**), raising concerns about **unequal bargaining power**, **information asymmetry** and **unfair terms**.",
+        "In a **2016** experiment, about **98%** of people agreed to terms of service without noticing a clause giving up their first-born child.",
+        "Courts can refuse **unconscionable** terms; India’s **Consumer Protection Act (2019)** allows unfair contract terms to be declared void.",
+        "The Act provides **consumer rights**, **consumer commissions** (with online filing via **e-Daakhil**), **product liability** and the **CCPA** regulator, including action on **misleading ads**.",
+        "**Dark patterns** manipulate users; India banned **13** types in **2023**.",
+        "Read key terms, watch for **auto-renewals**, keep records and know how to complain.",
+        "Consumers can approach **consumer commissions** despite **arbitration clauses**; **smart contracts** have limits and uncertain legal status."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Every day, you agree to contracts you haven’t negotiated and often haven’t read. Understanding standard form contracts, consumer rights and manipulative design helps you protect your money, your data and your rights, and use the legal remedies available when businesses treat you unfairly. It’s a practical, everyday application of everything this region has explored: law as a tool to balance power and protect people."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: why do standard form contracts raise concerns, what protections does India’s Consumer Protection Act provide, and what are dark patterns?"
+  }
+}

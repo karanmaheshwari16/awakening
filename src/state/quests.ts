@@ -47,7 +47,9 @@ export function questStatus(saved: Saved, d: Derived): QuestStatus {
   let bonus: QuestStatus['bonus'] = null;
   if (dailyDone) {
     const due = dueShadows(d)[0];
-    const lesson = discoverLesson(d, meta ? [meta.region] : []);
+    // Keep the reader in the region they're exploring; only wander off when it has nothing open.
+    const cur = currentRegion(d);
+    const lesson = (cur ? nextInRegion(d, cur) : null) ?? discoverLesson(d, meta ? [meta.region] : []);
     bonus = {
       done: bonusDone,
       suggestion: due ? { type: 'review', shadow: due } : lesson ? { type: 'lesson', lesson } : null,

@@ -1,0 +1,80 @@
+{
+  "id": "law.constitutions.2",
+  "region": "law",
+  "topic": "constitutions",
+  "level": 2,
+  "prerequisites": [
+    "law.constitutions.1"
+  ],
+  "title": "Changing and Interpreting Constitutions",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1977**, the Indian government impounded the passport of a journalist named **Maneka Gandhi**, without giving her reasons or a chance to be heard, citing the “public interest”. She challenged the decision in the Supreme Court.\n\nAt the time, courts had interpreted **Article 21**, which says no person shall be deprived of life or personal liberty “except according to procedure established by law”, quite narrowly: as long as there was a law setting out a procedure, the government could follow it, however unfair. In **1978**, in ***Maneka Gandhi v Union of India***, the Supreme Court transformed this. It ruled that the procedure must be “**fair, just and reasonable**”, not arbitrary. From that seed, courts went on to read many rights into the “right to life”: dignity, livelihood, a clean environment, health, shelter, privacy and more. A few words in a constitution can grow enormously through interpretation."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw what constitutions are and what India’s contains. But constitutions aren’t frozen in time. They change in two main ways:\n\n1. **Formal amendment**: changing the text through an official procedure.\n2. **Interpretation**: courts, especially supreme or constitutional courts, deciding what the words mean in new situations.\n\nBoth raise a fundamental tension: constitutions need to be **stable** enough to protect basic principles from passing majorities, yet **flexible** enough to adapt to changing societies."
+    },
+    {
+      "type": "text",
+      "heading": "Amending constitutions",
+      "md": "Most constitutions make amendment harder than passing ordinary laws, to protect fundamental principles.\n\n- **United States**: an amendment must usually be approved by **two-thirds** of both houses of Congress and then ratified by **three-quarters** of the states. This is very difficult; only **27** amendments have been made since 1789, the first ten (the **Bill of Rights**) in 1791.\n- **India**: under **Article 368**, amendments follow different procedures depending on what’s being changed:\n- Some provisions, like creating new states, can be changed by a **simple majority** in Parliament.\n- Most amendments need a **special majority**: a majority of the total membership of each house, and two-thirds of members present and voting.\n- Amendments affecting **federal** features, like the distribution of powers between the Union and states or representation of states, also need **ratification by at least half** of the state legislatures.\n\nIndia’s Constitution has been amended over **100** times, far more than the US Constitution, reflecting both its detail and its relatively flexible procedure. And as you saw in the Democracy region, the **basic structure doctrine** from the **Kesavananda Bharati** case (1973) means some core features can’t be amended away at all."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a constitution like the foundations and frame of a house. Ordinary laws are like the furniture: easy to rearrange. Amending the constitution is like renovating the structure, possible, but requiring careful planning and broad agreement. India’s basic structure doctrine is like declaring that the load-bearing walls can’t be removed, however many residents vote for it, because the whole house would collapse."
+    },
+    {
+      "type": "text",
+      "heading": "Interpreting constitutions: two schools",
+      "md": "Judges interpreting constitutions face a basic question: should they follow the meaning the words had when they were written, or interpret them in light of today’s values and circumstances?\n\n**Originalism**, influential in the **United States**, holds that the Constitution should be interpreted according to its original meaning, either what the framers intended or how the words were understood when adopted. Supporters argue it constrains judges, preventing them from imposing their own values, and leaves changes to the democratic amendment process.\n\n**Living constitutionalism** holds that a constitution’s broad principles, like liberty, equality and dignity, should be applied in light of evolving social values and new circumstances that the framers couldn’t have imagined, like the internet. Supporters argue that otherwise constitutions would become outdated and unjust. Critics argue it gives unelected judges too much power.\n\nIn the US, this debate is highly political, shaping battles over judicial appointments. In **India**, the Supreme Court has generally favoured a **purposive** and evolving approach, interpreting rights broadly in light of the Constitution’s transformative goals, though judges differ in their emphasis."
+    },
+    {
+      "type": "text",
+      "heading": "Expanding the right to life",
+      "md": "After ***Maneka Gandhi***, Indian courts interpreted **Article 21**’s “right to life and personal liberty” expansively, reading in many related rights, including:\n\n- The right to live with **human dignity**.\n- The right to **livelihood**, recognised in the ***Olga Tellis*** case (**1985**) concerning pavement dwellers in Bombay facing eviction.\n- The right to a **clean and healthy environment**.\n- The right to **health** and emergency medical care.\n- The right to **free legal aid** and a **speedy trial**.\n- The right to **privacy**, recognised as a fundamental right by a nine-judge bench in ***K. S. Puttaswamy v Union of India*** (**2017**).\n- The right to **education** for children aged 6 to 14, first recognised by courts and then added explicitly to the Constitution as **Article 21A** in **2002**."
+    },
+    {
+      "type": "steps",
+      "title": "Public interest litigation",
+      "items": [
+        "Traditionally, only a person directly affected could bring a case to court.",
+        "From the late **1970s** and **1980s**, India’s Supreme Court, led by judges including **P. N. Bhagwati** and **V. R. Krishna Iyer**, relaxed these rules, allowing **public interest litigation (PIL)**: cases brought by any public-spirited person or group on behalf of those unable to approach courts themselves, such as prisoners, bonded labourers or the very poor.",
+        "Courts even treated **letters** and newspaper reports as petitions.",
+        "In the ***Hussainara Khatoon*** cases (**1979**), based on newspaper reports, the Court found thousands of **undertrial prisoners** in Bihar who had been jailed for longer than the maximum sentence for their alleged offences, without trial, and ordered their release, recognising the right to a speedy trial.",
+        "PILs have addressed environmental protection, such as cases brought by the lawyer **M. C. Mehta** on pollution of the Ganga and Delhi’s air, as well as bonded labour, prison conditions, food security and sexual harassment at work.",
+        "Critics argue PIL has sometimes led to **judicial overreach**, with courts making policy decisions better left to elected governments, and that frivolous PILs clog courts. Supporters argue it has given voice to the voiceless."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What is “constitutional morality”, and why is it debated?",
+      "md": "**Constitutional morality** refers to commitment to the Constitution’s core values, like liberty, equality, dignity and fraternity, and to respecting its processes, even when popular opinion or majority sentiment points the other way. Ambedkar used the phrase in the Constituent Assembly, warning that constitutional morality was not a natural sentiment and had to be cultivated. In recent decades, India’s Supreme Court has invoked constitutional morality in cases such as ***Navtej Singh Johar*** (**2018**), decriminalising consensual same-sex relations, holding that constitutional values must prevail over majoritarian or social morality. Supporters see it as essential for protecting minorities and individual rights. Critics argue the concept is vague and could allow judges to substitute their own values for those of elected representatives and society. The debate reflects the broader tension between democracy and judicial protection of rights."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Constitutions change through **formal amendment** and **judicial interpretation**, balancing **stability** and **flexibility**.",
+        "The **US** Constitution is hard to amend (**27** amendments); India’s **Article 368** uses **simple**, **special** and **special plus state ratification** procedures; India has over **100** amendments, limited by the **basic structure**.",
+        "**Originalism** follows original meaning; **living constitutionalism** applies principles to evolving circumstances; India generally takes a **purposive** approach.",
+        "***Maneka Gandhi* (1978)** required procedures affecting liberty to be **fair, just and reasonable**, expanding **Article 21** to include **dignity**, **livelihood**, **environment**, **privacy (2017)** and **education (Article 21A, 2002)**.",
+        "**Public interest litigation** opened courts to the disadvantaged, as in ***Hussainara Khatoon* (1979)**, but raises concerns about **judicial overreach**.",
+        "**Constitutional morality**, invoked in ***Navtej Singh Johar* (2018)**, is both influential and debated."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "How constitutions change and are interpreted determines the scope of your rights and the limits of government power. Understanding amendment procedures, interpretive debates and landmark cases helps you make sense of major court judgments, political battles over constitutional change and the ongoing conversation between courts, legislatures and citizens about what the Constitution means."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how can India’s Constitution be amended, what is the difference between originalism and living constitutionalism, and how did the Maneka Gandhi case transform the right to life?"
+  }
+}

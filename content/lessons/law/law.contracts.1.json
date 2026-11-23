@@ -1,0 +1,78 @@
+{
+  "id": "law.contracts.1",
+  "region": "law",
+  "topic": "contracts",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Contracts: Promises the Law Will Enforce",
+  "estimated_minutes": 14,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1891**, a London company called the **Carbolic Smoke Ball Company** advertised a remarkable product: a rubber ball containing carbolic acid, with a tube for inhaling its vapours, which it claimed could prevent influenza. The advertisement promised to pay **£100**, a large sum at the time, to anyone who used the smoke ball as directed and still caught flu. To show its sincerity, it said it had deposited £1,000 in a bank for the purpose.\n\nA woman named **Louisa Carlill** bought one, used it faithfully three times a day for weeks, and then caught influenza. She claimed her £100. The company refused, arguing that its advertisement was mere sales talk, not a serious promise. In **1893**, the English Court of Appeal ruled in her favour: the advertisement was a genuine offer, which she had accepted by using the product as instructed. ***Carlill v Carbolic Smoke Ball Company*** is still taught to law students around the world, including in India, as a classic case about when promises become legally binding."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **contract** is an agreement between two or more parties that the law will **enforce**. Not every promise is a contract: if a friend promises to help you move house and doesn’t turn up, you can’t usually take them to court. Contracts are agreements made with the intention of creating legal obligations.\n\nContracts are everywhere in daily life, often without us noticing:\n\n- Buying groceries, a bus ticket or a cinema ticket.\n- Accepting a job.\n- Renting a flat.\n- Signing up for a mobile phone plan or an online service.\n- Taking out a loan or buying insurance.\n\nIn India, contracts are governed mainly by the **Indian Contract Act** of **1872**, one of the oldest laws still in force in the country, drafted during British rule and based on English common law principles."
+    },
+    {
+      "type": "text",
+      "heading": "The essential elements of a valid contract",
+      "md": "Under the Indian Contract Act, an agreement is a valid contract if it’s made with:\n\n1. **Offer and acceptance**: one party makes a clear **offer** (a proposal), and the other **accepts** it unconditionally. The acceptance must match the offer; changing the terms creates a **counter-offer** instead.\n2. **Lawful consideration**: something of value is exchanged, such as money, goods, services or a promise to do or not do something. In everyday terms: each side gives and gets something.\n3. **Capacity**: the parties must be legally **competent** to contract: adults (18 or over in India), of sound mind and not disqualified by law.\n4. **Free consent**: agreement must be given freely, without **coercion**, **undue influence**, **fraud**, **misrepresentation** or certain **mistakes**.\n5. **Lawful object**: the purpose of the contract must be legal. An agreement to commit a crime, or one that is fraudulent or against public policy, is **void**.\n6. **Intention to create legal relations**: the parties must intend the agreement to be legally binding. In business deals, this is usually presumed; in family or social arrangements, it usually isn’t."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a contract like a recipe that only works if all the essential ingredients are present. Offer and acceptance are the flour and water; consideration is the yeast; capacity, free consent and a lawful object are the oven conditions. Leave out a crucial ingredient, or bake it in the wrong conditions, and what you get isn’t a valid contract, however official it looks on paper."
+    },
+    {
+      "type": "text",
+      "heading": "Offers, invitations and acceptance",
+      "md": "An important distinction is between an **offer** and an **invitation to treat** (an invitation to make offers):\n\n- Goods displayed in a shop window or on a supermarket shelf, with price tags, are usually treated as **invitations to treat**: the customer makes the offer at the checkout, which the shop can accept or refuse.\n- Advertisements are usually invitations to treat too, but, as the **Carbolic Smoke Ball** case showed, an advertisement can be a genuine **offer** if it’s clear, definite and shows an intention to be bound, especially where it promises a reward to anyone who performs certain acts. This is called a **unilateral contract**: anyone who performs the act accepts the offer.\n\nAcceptance usually has to be **communicated** to the person making the offer, though, in unilateral contracts like rewards, performing the act is enough."
+    },
+    {
+      "type": "text",
+      "heading": "Who can make contracts?",
+      "md": "Some people lack the legal capacity to make binding contracts:\n\n- **Minors**: in the landmark case ***Mohori Bibee v Dharmodas Ghose*** (**1903**), decided by the Privy Council on appeal from Calcutta, a teenager had mortgaged his property to a moneylender. The court ruled that a contract with a **minor** is **void from the beginning**: it has no legal effect at all, protecting young people from exploitation.\n- **People of unsound mind** at the time of contracting, unable to understand the contract and its effects.\n- **People disqualified by law**, in specific circumstances."
+    },
+    {
+      "type": "steps",
+      "title": "When a contract is broken: remedies",
+      "items": [
+        "A **breach of contract** happens when one party fails to perform their obligations, performs them badly or makes it clear they won’t perform.",
+        "The most common remedy is **damages**: money to compensate the injured party, aiming to put them in the position they would have been in if the contract had been performed.",
+        "Damages generally cover losses that were **reasonably foreseeable** when the contract was made. This principle comes from a famous English case, ***Hadley v Baxendale*** (**1854**), in which a mill owner couldn’t recover profits lost because a carrier delayed delivering a broken crankshaft, since the carrier couldn’t have known the mill would stop entirely without it. India’s Contract Act adopts a similar principle.",
+        "**Specific performance**: in some cases, especially involving unique items like land or rare goods, courts can order the party to actually **carry out** the contract, rather than just pay money. Amendments to India’s Specific Relief Act in **2018** made specific performance more widely available.",
+        "**Injunctions**: court orders preventing a party from doing something, such as breaching a confidentiality agreement.",
+        "**Rescission**: cancelling the contract and restoring both parties to their original positions, for instance where consent was obtained by fraud."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Do contracts have to be in writing?",
+      "md": "Not always. Under Indian law, many contracts can be made **orally** or even through **conduct**: when you buy vegetables at a market, no written contract is needed. However, some contracts must be in **writing** and sometimes **registered** to be valid or enforceable, such as contracts for the sale of land and long-term property leases, as required by laws like the Transfer of Property Act and the Registration Act. Even when not required, having a contract **in writing** is usually wise, because it provides clear evidence of what was agreed, reducing disputes. Today, **electronic contracts**, formed by clicking “I agree” or signing digitally, are recognised under India’s **Information Technology Act** of **2000**. The next lesson explores the fine print in these everyday digital agreements."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **contract** is an agreement the law will enforce; in India, contracts are governed mainly by the **Indian Contract Act (1872)**.",
+        "Essential elements: **offer and acceptance**, **lawful consideration**, **capacity**, **free consent**, **lawful object** and **intention to create legal relations**.",
+        "Shop displays and most adverts are **invitations to treat**, but ***Carlill v Carbolic Smoke Ball Co* (1893)** showed an advert can be a binding **offer** (a **unilateral contract**).",
+        "***Mohori Bibee v Dharmodas Ghose* (1903)**: contracts with **minors** are **void**.",
+        "Remedies for breach include **damages** (limited to **foreseeable** losses, from ***Hadley v Baxendale*, 1854**), **specific performance**, **injunctions** and **rescission**.",
+        "Many contracts can be oral, but some, like **land sales**, must be **written and registered**; **electronic contracts** are valid under the **IT Act (2000)**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "You enter contracts almost every day, from buying a ticket to signing up for an app or accepting a job. Understanding what makes a contract valid and what happens when one is broken helps you protect yourself, avoid disputes and know when an agreement is legally binding. The final lesson looks at consumer rights and the fine print of modern agreements."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the essential elements of a valid contract under Indian law, what did the Carbolic Smoke Ball case decide, and what remedies are available if a contract is broken?"
+  }
+}

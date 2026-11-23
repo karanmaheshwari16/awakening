@@ -1,0 +1,303 @@
+##### LESSON
+id: law.what-is-law.2
+title: How Law Grows: Precedent, Statutes and Interpretation
+minutes: 15
+disclaimer: legal
+prereq: law.what-is-law.1
+check: In your own words: what is precedent and why does it matter in common law systems, what are the main approaches to interpreting statutes, and why has India’s system of personal laws been debated?
+
+=== hook
+On an August evening in **1928**, in a café in Paisley, Scotland, a woman named **May Donoghue** drank a bottle of ginger beer that a friend had bought for her. The bottle was made of dark, opaque glass. When she poured out the rest, she said, the decomposed remains of a **snail** floated out. She fell ill.
+
+Because her friend, not she, had bought the drink, she had no contract with the café or the manufacturer. But in **1932**, Britain’s highest court ruled in ***Donoghue v Stevenson*** that manufacturers owe a **duty of care** to the people who will use their products. Lord Atkin described a “**neighbour principle**”: you must take reasonable care to avoid harming people closely and directly affected by your actions. Whether a snail was ever actually in the bottle was never proven. Yet that single case helped create the modern law of negligence across the common law world, including India.
+
+=== core
+In the previous lesson, you met the main sources of law and the two great legal families: **common law** and **civil law**. This lesson looks more closely at how law develops and how courts work out what the law means.
+
+In **common law** systems like India, the UK and the US, much law is made and refined by **judges**, through their decisions in individual cases. The core principle is **precedent**, also known by its Latin name, ***stare decisis***, meaning “to stand by things decided”: courts should follow the legal principles established in earlier decisions, especially those of higher courts.
+
+=== text How precedent works
+- **Binding precedent**: lower courts must follow the decisions of higher courts in the same system. In India, under **Article 141** of the Constitution, the law declared by the **Supreme Court** is binding on all courts in the country.
+- **Persuasive precedent**: decisions from courts that aren’t binding, such as lower courts, courts in other states or courts in other countries, may still influence judges. Indian courts often cite decisions from the UK, US and other common law countries.
+- **Ratio decidendi** (“the reason for the decision”): the legal principle essential to the decision, which becomes binding.
+- **Obiter dicta** (“things said by the way”): other comments by the judge, which may be persuasive but aren’t binding.
+- **Distinguishing**: a court can avoid following a precedent by showing that the facts of the new case are materially different.
+- **Overruling**: a higher court, or the same court with a larger bench, can overturn an earlier precedent it now considers wrong.
+
+Precedent provides **consistency** and **predictability**, since similar cases are decided similarly, while allowing law to **evolve** gradually as new situations arise.
+
+=== callout analogy
+Think of precedent like a path through a forest. The first judge to face a new kind of case cuts a path. Later judges, facing similar journeys, follow the same path, making it wider and clearer, so travellers know where to go. Occasionally, a judge finds the old path leads somewhere unjust or no longer fits the landscape, and a higher court cuts a new one. Over time, a network of paths, the common law, grows across the forest.
+
+=== text Interpreting statutes
+Even when Parliament writes a law, its meaning isn’t always clear. Words can be ambiguous, situations arise that lawmakers didn’t foresee, and technology changes. Courts must **interpret** statutes, and there are several traditional approaches:
+
+- **The literal rule**: give words their ordinary, plain meaning, even if the result seems odd. It respects Parliament’s exact words, but can produce absurd outcomes.
+- **The golden rule**: start with the literal meaning, but depart from it if it would produce an absurd or obviously unjust result.
+- **The mischief rule**: ask what problem, or “mischief”, the law was designed to fix, and interpret it to address that problem. It dates back to an English case from **1584**.
+- **The purposive approach**: interpret the law in light of its overall **purpose**, looking at the context and aims of the legislation. Modern courts, including Indian courts, increasingly favour this approach, especially for constitutional and social welfare legislation.
+
+=== text What is law, really? Different theories
+Legal philosophers have long debated what makes something law:
+
+- **Natural law** theory, as you saw in the previous lesson, holds that law is connected to morality: an unjust law may lack true legal authority.
+- **Legal positivism** holds that law is defined by its **sources**, such as legislation passed by proper procedures, not its morality. The British philosopher **H. L. A. Hart**, in *The Concept of Law* (**1961**), argued that a legal system rests on a “**rule of recognition**”: a shared understanding among officials about what counts as valid law.
+- **Legal realism**, influential in the US in the early 20th century, emphasised that law in practice depends on what judges actually do, which can be influenced by their backgrounds, values and even, as a famous joke put it, what they had for breakfast.
+
+=== steps India’s new criminal laws
+- For over 160 years, India’s criminal law was largely based on the **Indian Penal Code (IPC)** of **1860**, drafted under the leadership of the British historian and politician **Thomas Babington Macaulay**, along with the **Code of Criminal Procedure** and the **Indian Evidence Act** of 1872.
+- In **2023**, Parliament passed three new laws to replace them: the **Bharatiya Nyaya Sanhita** (replacing the IPC), the **Bharatiya Nagarik Suraksha Sanhita** (replacing the Code of Criminal Procedure) and the **Bharatiya Sakshya Adhiniyam** (replacing the Evidence Act).
+- They came into force on **1 July 2024**.
+- The government described them as replacing colonial-era laws with ones focused on justice for citizens, adding provisions on offences like organised crime and mob lynching, and using technology, such as electronic evidence and recording of searches.
+- Critics argued that much of the content remained similar to the old laws, raised concerns about some expanded police powers and questioned the speed of their passage. Courts will interpret them over many years, building new precedent.
+
+=== text Legal pluralism and personal laws
+India’s legal system includes **personal laws**: different rules on matters like **marriage**, **divorce**, **inheritance** and **adoption** for different religious communities. Hindu personal law was codified by Parliament in the **1950s** through laws like the Hindu Marriage Act and Hindu Succession Act, while Muslim, Christian and Parsi personal laws are governed by separate laws and traditions.
+
+Some landmark cases have shaped this area:
+
+- In the **Shah Bano** case (**1985**), the Supreme Court ruled that a divorced Muslim woman was entitled to maintenance from her former husband under general criminal procedure law. The judgment sparked major political controversy; Parliament subsequently passed a law that was widely seen as diluting the ruling, though later court interpretations expanded women’s rights under it.
+- In the **Shayara Bano** case (**2017**), the Supreme Court ruled that the practice of instant **triple talaq**, a form of divorce by pronouncing “talaq” three times at once, was unconstitutional. Parliament later made it a criminal offence in **2019**.
+
+The Constitution’s **Directive Principles** (Article 44) state that the state shall endeavour to secure a **Uniform Civil Code** for all citizens. **Goa** has long had a common civil code, inherited from Portuguese rule, and **Uttarakhand** adopted a Uniform Civil Code that came into force in **2025**. Supporters argue a uniform code would promote equality, especially gender equality, and national integration. Critics worry it could override the religious and cultural autonomy of minorities, and argue that reform should come from within communities. The debate remains one of the most sensitive in Indian law and politics.
+
+=== reveal If precedent is so important, can courts ever ignore it?
+Courts take precedent seriously, but it isn’t absolute. A higher court can **overrule** its own earlier decisions when it concludes they were wrong or no longer fit changed social conditions. India’s Supreme Court has overruled itself in several major cases, such as in **2017**, when it declared the **ADM Jabalpur** decision from the Emergency to be wrong, and in **2018**, when, in ***Navtej Singh Johar***, it struck down the part of the law criminalising consensual same-sex relations, overruling a 2013 decision. Larger benches can overrule smaller ones. Lower courts can **distinguish** precedents on the facts. The challenge is balancing **stability**, since people need to rely on the law, with **justice**, since law must be able to correct its mistakes and adapt to new understanding.
+
+=== keypoints
+- In **common law**, **precedent** (***stare decisis***) means courts follow earlier decisions; India’s Supreme Court decisions bind all courts (**Article 141**).
+- Key ideas: **binding** and **persuasive** precedent, ***ratio decidendi*** and ***obiter dicta***, **distinguishing** and **overruling**.
+- ***Donoghue v Stevenson* (1932)** created the **neighbour principle** and modern negligence law.
+- Statutes are interpreted through the **literal**, **golden**, **mischief** and **purposive** approaches.
+- Theories of law include **natural law**, **legal positivism** (**Hart, 1961**) and **legal realism**.
+- India replaced the **IPC (1860)** and related laws with the **Bharatiya Nyaya Sanhita** and two other laws from **1 July 2024**.
+- India’s **personal laws**, cases like **Shah Bano (1985)** and **Shayara Bano (2017)**, and the **Uniform Civil Code** debate show legal pluralism’s complexities.
+
+=== why
+Law isn’t a fixed rulebook; it grows through cases, interpretation and legislative reform. Understanding precedent and interpretation helps you see why court judgments matter so much, why lawyers argue about the meaning of words, and how a case about a snail in a bottle can shape the law for nearly a century. Next, you’ll explore the highest law of all: constitutions.
+
+##### LESSON
+id: law.constitutions.1
+title: Constitutions: The Rules for Making Rules
+minutes: 15
+disclaimer: legal
+check: In your own words: what does a constitution do, how did India’s Constitution come into being, and what are its key parts?
+
+=== hook
+On **9 December 1946**, around 200 members of India’s **Constituent Assembly** gathered in New Delhi for their first meeting. Over the next nearly three years, through **11 sessions**, debating line by line, they drafted the Constitution of a country that didn’t yet fully exist, in the shadow of Partition, communal violence and the challenge of uniting hundreds of princely states and provinces.
+
+They studied constitutions from around the world, from the United States, Britain, Ireland, Canada and many others, and debated every major question: federalism, fundamental rights, language, religion, caste and the powers of the President. On **26 November 1949**, they adopted the finished document. It came into force on **26 January 1950**, now celebrated as **Republic Day**. It remains one of the longest written national constitutions in the world, and one of the most ambitious.
+
+=== core
+A **constitution** is the fundamental law of a country: a set of rules that establishes how the state is organised, how power is divided and limited, and what rights citizens have. It’s often called the “supreme law”, because other laws must be consistent with it.
+
+Constitutions perform several key functions:
+
+1. **Establishing institutions**: creating the legislature, executive and judiciary, and defining their powers.
+2. **Limiting power**: setting boundaries on what governments can do, through separation of powers, federalism and rights.
+3. **Protecting rights**: guaranteeing freedoms like speech, religion, equality and fair trials.
+4. **Defining identity and values**: expressing the nation’s founding principles and aspirations.
+5. **Providing rules for change**: setting out how the constitution itself can be amended.
+
+The idea that even rulers should be bound by fundamental rules has deep roots. In **1215**, English barons forced King John to agree to **Magna Carta**, which established that the king was not above the law, including the principle that no free man could be imprisoned except by lawful judgement or the law of the land. Though it initially protected mainly the nobility, it became a powerful symbol of limited government.
+
+=== text Written and unwritten constitutions
+Most countries have a **codified** (written) constitution: a single document, or a small set of documents, with special legal status. The **United States Constitution**, drafted in **1787** and in force since **1789**, is the oldest written national constitution still in use, and one of the shortest, with seven articles and 27 amendments.
+
+A few countries, notably the **United Kingdom**, New Zealand and Israel, don’t have a single codified constitution. The UK’s constitution is described as **uncodified**: it’s made up of important laws passed by Parliament, court decisions, conventions (unwritten practices that are generally followed) and historic documents like Magna Carta. In the UK, Parliament is traditionally sovereign: it can, in principle, change any law by ordinary majority.
+
+=== callout analogy
+Think of a country as a sports league. Ordinary laws are like the rules of play: how many players, what counts as a foul. The constitution is like the league’s charter: it sets up who makes the rules, who referees, how disputes are settled, what rights every player has, and how the charter itself can be changed. Teams can argue about the rules of play every season, but changing the charter requires much broader agreement.
+
+=== text Making India’s Constitution
+The **Constituent Assembly** was elected indirectly, mostly by provincial legislatures, with representatives of princely states joining later. After Partition, its membership was around **299**. It included leading figures of the independence movement, representatives of different communities and regions, and **15 women**, including **Hansa Mehta**, **Sarojini Naidu** and **Durgabai Deshmukh**.
+
+**B. R. Ambedkar**, a brilliant lawyer and economist and a leader of the Dalit community, who had himself faced caste discrimination, chaired the **Drafting Committee**, and is often called the principal architect of the Constitution. **Rajendra Prasad**, who later became India’s first President, presided over the Assembly.
+
+The process took **2 years, 11 months and 18 days**. The Assembly debated thousands of proposed amendments to the draft. Its records, the **Constituent Assembly Debates**, are still consulted by courts to understand the framers’ intentions.
+
+=== text Key parts of India’s Constitution
+- **The Preamble**: begins “**We, the people of India**”, declaring India a **sovereign, socialist, secular, democratic republic** (the words “socialist” and “secular” were added in **1976**) and committing to secure for all citizens **justice**, **liberty**, **equality** and **fraternity**.
+- **Fundamental Rights** (Part III): enforceable rights, including equality before the law, freedom of speech, freedom of religion, protection of life and personal liberty and the right to constitutional remedies, explored in the rights lessons.
+- **Directive Principles of State Policy** (Part IV): goals for the state, like securing adequate livelihood, equal pay for equal work, public health and free education, which aren’t enforceable in courts but are meant to guide policy, as you saw in the Politics region.
+- **Fundamental Duties** (Part IVA): added in **1976**, listing citizens’ duties, like respecting the Constitution, protecting the environment and developing scientific temper.
+- **Structure of government**: provisions on Parliament, the President, the Union and state governments, the judiciary, the Election Commission and other institutions.
+- **Federal provisions**: the division of powers between the Union and states, as you saw in the Democracy region.
+- **Schedules**: detailed lists, including the official languages and the division of legislative powers.
+
+=== steps Why India’s Constitution is so long
+- It covers the structures of both the Union and the states in detail, whereas some federations leave state constitutions separate.
+- It includes detailed provisions on **administration**, the **civil services**, **elections**, **emergencies** and **finance**, which other countries often leave to ordinary laws.
+- It includes **special provisions** for particular regions and communities, such as Scheduled Castes, Scheduled Tribes and certain states.
+- The framers, wary of misuse of power and unsure how institutions would evolve, chose to write many things down explicitly.
+- It has been **amended over 100 times**, adding to its length.
+- Supporters say the detail provides clarity and protection; critics say it makes the Constitution complex and invites frequent amendments.
+
+=== reveal What does it mean to call India’s Constitution a “transformative” constitution?
+Many scholars and judges describe India’s Constitution as **transformative**: not simply recording the existing social order, but aiming to **change** it. At independence, Indian society was marked by deep inequalities of caste, gender and wealth. The Constitution abolished **untouchability** (Article 17), prohibited discrimination, provided for **reservations** in education, jobs and legislatures for historically disadvantaged groups, and set goals of social and economic justice. Ambedkar saw the Constitution as a tool to challenge entrenched hierarchies, though he warned that its success would depend on the people and leaders who worked it. Courts have often invoked this transformative vision when interpreting rights, while debates continue over how far, and how fast, constitutional ideals have been realised in practice.
+
+=== keypoints
+- A **constitution** is a country’s supreme law: it **establishes institutions**, **limits power**, **protects rights**, **expresses values** and sets **rules for change**.
+- **Magna Carta (1215)** established that rulers aren’t above the law.
+- Most countries have **codified** constitutions; the **US Constitution (1787)** is the oldest still in use; the **UK** has an **uncodified** constitution.
+- India’s **Constituent Assembly** met from **December 1946**; the Constitution was adopted on **26 November 1949** and came into force on **26 January 1950**.
+- **B. R. Ambedkar** chaired the Drafting Committee; the Assembly included **15 women**.
+- Key parts: **Preamble**, **Fundamental Rights**, **Directive Principles**, **Fundamental Duties**, government structure and federal provisions.
+- India’s Constitution is long and often described as **transformative**, aiming to change an unequal society.
+
+=== why
+Constitutions shape every part of public life: who governs, how they’re chosen, what they can and can’t do, and what rights you have. Understanding India’s Constitution, and constitutions generally, helps you know your rights, follow debates about government power and appreciate the vision and compromises behind the document that governs over a billion people. Next, you’ll see how constitutions change and how courts interpret them.
+
+##### LESSON
+id: law.constitutions.2
+title: Changing and Interpreting Constitutions
+minutes: 15
+disclaimer: legal
+prereq: law.constitutions.1
+check: In your own words: how can India’s Constitution be amended, what is the difference between originalism and living constitutionalism, and how did the Maneka Gandhi case transform the right to life?
+
+=== hook
+In **1977**, the Indian government impounded the passport of a journalist named **Maneka Gandhi**, without giving her reasons or a chance to be heard, citing the “public interest”. She challenged the decision in the Supreme Court.
+
+At the time, courts had interpreted **Article 21**, which says no person shall be deprived of life or personal liberty “except according to procedure established by law”, quite narrowly: as long as there was a law setting out a procedure, the government could follow it, however unfair. In **1978**, in ***Maneka Gandhi v Union of India***, the Supreme Court transformed this. It ruled that the procedure must be “**fair, just and reasonable**”, not arbitrary. From that seed, courts went on to read many rights into the “right to life”: dignity, livelihood, a clean environment, health, shelter, privacy and more. A few words in a constitution can grow enormously through interpretation.
+
+=== core
+In the previous lesson, you saw what constitutions are and what India’s contains. But constitutions aren’t frozen in time. They change in two main ways:
+
+1. **Formal amendment**: changing the text through an official procedure.
+2. **Interpretation**: courts, especially supreme or constitutional courts, deciding what the words mean in new situations.
+
+Both raise a fundamental tension: constitutions need to be **stable** enough to protect basic principles from passing majorities, yet **flexible** enough to adapt to changing societies.
+
+=== text Amending constitutions
+Most constitutions make amendment harder than passing ordinary laws, to protect fundamental principles.
+
+- **United States**: an amendment must usually be approved by **two-thirds** of both houses of Congress and then ratified by **three-quarters** of the states. This is very difficult; only **27** amendments have been made since 1789, the first ten (the **Bill of Rights**) in 1791.
+- **India**: under **Article 368**, amendments follow different procedures depending on what’s being changed:
+- Some provisions, like creating new states, can be changed by a **simple majority** in Parliament.
+- Most amendments need a **special majority**: a majority of the total membership of each house, and two-thirds of members present and voting.
+- Amendments affecting **federal** features, like the distribution of powers between the Union and states or representation of states, also need **ratification by at least half** of the state legislatures.
+
+India’s Constitution has been amended over **100** times, far more than the US Constitution, reflecting both its detail and its relatively flexible procedure. And as you saw in the Democracy region, the **basic structure doctrine** from the **Kesavananda Bharati** case (1973) means some core features can’t be amended away at all.
+
+=== callout analogy
+Think of a constitution like the foundations and frame of a house. Ordinary laws are like the furniture: easy to rearrange. Amending the constitution is like renovating the structure, possible, but requiring careful planning and broad agreement. India’s basic structure doctrine is like declaring that the load-bearing walls can’t be removed, however many residents vote for it, because the whole house would collapse.
+
+=== text Interpreting constitutions: two schools
+Judges interpreting constitutions face a basic question: should they follow the meaning the words had when they were written, or interpret them in light of today’s values and circumstances?
+
+**Originalism**, influential in the **United States**, holds that the Constitution should be interpreted according to its original meaning, either what the framers intended or how the words were understood when adopted. Supporters argue it constrains judges, preventing them from imposing their own values, and leaves changes to the democratic amendment process.
+
+**Living constitutionalism** holds that a constitution’s broad principles, like liberty, equality and dignity, should be applied in light of evolving social values and new circumstances that the framers couldn’t have imagined, like the internet. Supporters argue that otherwise constitutions would become outdated and unjust. Critics argue it gives unelected judges too much power.
+
+In the US, this debate is highly political, shaping battles over judicial appointments. In **India**, the Supreme Court has generally favoured a **purposive** and evolving approach, interpreting rights broadly in light of the Constitution’s transformative goals, though judges differ in their emphasis.
+
+=== text Expanding the right to life
+After ***Maneka Gandhi***, Indian courts interpreted **Article 21**’s “right to life and personal liberty” expansively, reading in many related rights, including:
+
+- The right to live with **human dignity**.
+- The right to **livelihood**, recognised in the ***Olga Tellis*** case (**1985**) concerning pavement dwellers in Bombay facing eviction.
+- The right to a **clean and healthy environment**.
+- The right to **health** and emergency medical care.
+- The right to **free legal aid** and a **speedy trial**.
+- The right to **privacy**, recognised as a fundamental right by a nine-judge bench in ***K. S. Puttaswamy v Union of India*** (**2017**).
+- The right to **education** for children aged 6 to 14, first recognised by courts and then added explicitly to the Constitution as **Article 21A** in **2002**.
+
+=== steps Public interest litigation
+- Traditionally, only a person directly affected could bring a case to court.
+- From the late **1970s** and **1980s**, India’s Supreme Court, led by judges including **P. N. Bhagwati** and **V. R. Krishna Iyer**, relaxed these rules, allowing **public interest litigation (PIL)**: cases brought by any public-spirited person or group on behalf of those unable to approach courts themselves, such as prisoners, bonded labourers or the very poor.
+- Courts even treated **letters** and newspaper reports as petitions.
+- In the ***Hussainara Khatoon*** cases (**1979**), based on newspaper reports, the Court found thousands of **undertrial prisoners** in Bihar who had been jailed for longer than the maximum sentence for their alleged offences, without trial, and ordered their release, recognising the right to a speedy trial.
+- PILs have addressed environmental protection, such as cases brought by the lawyer **M. C. Mehta** on pollution of the Ganga and Delhi’s air, as well as bonded labour, prison conditions, food security and sexual harassment at work.
+- Critics argue PIL has sometimes led to **judicial overreach**, with courts making policy decisions better left to elected governments, and that frivolous PILs clog courts. Supporters argue it has given voice to the voiceless.
+
+=== reveal What is “constitutional morality”, and why is it debated?
+**Constitutional morality** refers to commitment to the Constitution’s core values, like liberty, equality, dignity and fraternity, and to respecting its processes, even when popular opinion or majority sentiment points the other way. Ambedkar used the phrase in the Constituent Assembly, warning that constitutional morality was not a natural sentiment and had to be cultivated. In recent decades, India’s Supreme Court has invoked constitutional morality in cases such as ***Navtej Singh Johar*** (**2018**), decriminalising consensual same-sex relations, holding that constitutional values must prevail over majoritarian or social morality. Supporters see it as essential for protecting minorities and individual rights. Critics argue the concept is vague and could allow judges to substitute their own values for those of elected representatives and society. The debate reflects the broader tension between democracy and judicial protection of rights.
+
+=== keypoints
+- Constitutions change through **formal amendment** and **judicial interpretation**, balancing **stability** and **flexibility**.
+- The **US** Constitution is hard to amend (**27** amendments); India’s **Article 368** uses **simple**, **special** and **special plus state ratification** procedures; India has over **100** amendments, limited by the **basic structure**.
+- **Originalism** follows original meaning; **living constitutionalism** applies principles to evolving circumstances; India generally takes a **purposive** approach.
+- ***Maneka Gandhi* (1978)** required procedures affecting liberty to be **fair, just and reasonable**, expanding **Article 21** to include **dignity**, **livelihood**, **environment**, **privacy (2017)** and **education (Article 21A, 2002)**.
+- **Public interest litigation** opened courts to the disadvantaged, as in ***Hussainara Khatoon* (1979)**, but raises concerns about **judicial overreach**.
+- **Constitutional morality**, invoked in ***Navtej Singh Johar* (2018)**, is both influential and debated.
+
+=== why
+How constitutions change and are interpreted determines the scope of your rights and the limits of government power. Understanding amendment procedures, interpretive debates and landmark cases helps you make sense of major court judgments, political battles over constitutional change and the ongoing conversation between courts, legislatures and citizens about what the Constitution means.
+
+##### LESSON
+id: law.rights.1
+title: Rights: What Every Person Is Owed
+minutes: 15
+disclaimer: legal
+check: In your own words: what is the difference between civil and political rights and economic and social rights, what are negative and positive rights, and what are some of the Fundamental Rights in India’s Constitution?
+
+=== hook
+In **December 1948**, in Paris, the newly formed United Nations General Assembly adopted the **Universal Declaration of Human Rights (UDHR)**. Its first article declares: “All human beings are born free and equal in dignity and rights.”
+
+That phrase almost read differently. Early drafts said “**all men** are born free and equal”. **Hansa Mehta**, India’s delegate to the UN Commission on Human Rights, argued that “all men” might be interpreted to exclude women, and pushed for more inclusive wording. Her suggestion was adopted. The UDHR, with **30** articles, became the most translated document in the world and the foundation of international human rights law. Its central idea is simple and radical: certain rights belong to every person, simply because they are human.
+
+=== core
+A **right** is an entitlement: something a person is owed, which others, including the state, have a duty to respect, protect or fulfil.
+
+**Human rights** are rights that belong to all people, regardless of nationality, sex, ethnicity, religion, caste, language or any other status. They’re often described as **universal** (belonging to everyone), **inalienable** (they can’t be taken away entirely, though they may be limited in specific circumstances) and **indivisible** (different rights are interconnected).
+
+Rights can be protected at different levels:
+
+- **International law**, through treaties and declarations like the UDHR.
+- **National constitutions**, like India’s **Fundamental Rights**.
+- **Ordinary laws**, which may create rights such as consumer rights or labour rights.
+
+=== text Kinds of rights
+Rights are often grouped into broad categories:
+
+- **Civil and political rights**: such as the rights to **life**, **liberty**, **freedom of speech**, **freedom of religion**, **a fair trial**, **privacy** and **voting**. These are set out in the **International Covenant on Civil and Political Rights (ICCPR)**, adopted in **1966**.
+- **Economic, social and cultural rights**: such as the rights to **work**, **education**, **health**, **social security**, an **adequate standard of living** (including food and housing) and to take part in **cultural life**. These are set out in the **International Covenant on Economic, Social and Cultural Rights (ICESCR)**, also adopted in **1966**.
+- **Collective rights**: such as the right of peoples to **self-determination**, and rights of **minorities** and **indigenous peoples** to protect their culture and identity.
+
+Together, the UDHR and the two covenants are often called the **International Bill of Human Rights**. India has ratified both covenants.
+
+=== text Negative and positive rights
+In a famous **1958** lecture, the philosopher **Isaiah Berlin** distinguished two concepts of liberty, which relate to two kinds of rights:
+
+- **Negative rights** (or negative liberty): the right to be left alone, free from interference. Freedom of speech requires that the state **not** censor you; freedom from torture requires that the state **not** torture you.
+- **Positive rights** (or positive liberty): rights that require others, especially the state, to **provide** something, such as education, healthcare or legal aid.
+
+Some argue that only negative rights are true rights, because positive rights depend on resources and impose costs on others. Others respond that even negative rights require resources, like courts, police and elections, and that freedom means little without basic necessities: free speech isn’t much use to someone who is starving or can’t read.
+
+=== callout analogy
+Think of negative rights as a fence around your personal space: others, including the government, mustn’t cross it to harm you, silence you or imprison you unjustly. Positive rights are more like a floor beneath you: a minimum level of support, like education and healthcare, that society commits to providing so no one falls below a certain level of dignity. A good society needs both the fence and the floor.
+
+=== text India’s Fundamental Rights
+**Part III** of India’s Constitution (Articles 12 to 35) sets out **Fundamental Rights**, which can be enforced in courts. They include:
+
+- **Right to equality** (Articles 14–18): equality before the law and equal protection of the laws (Article 14); prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15); equality of opportunity in public employment (Article 16); **abolition of untouchability** (Article 17); and abolition of titles (Article 18).
+- **Right to freedom** (Articles 19–22): including freedom of **speech and expression**, assembly, association, movement, residence and profession (Article 19); protection in respect of conviction for offences (Article 20); protection of **life and personal liberty** (Article 21); the **right to education** (Article 21A); and protection against arbitrary arrest and detention (Article 22).
+- **Right against exploitation** (Articles 23–24): prohibition of human trafficking and forced labour, and of employment of children below 14 in factories, mines and hazardous work.
+- **Right to freedom of religion** (Articles 25–28): freedom of conscience and to profess, practise and propagate religion, subject to public order, morality and health.
+- **Cultural and educational rights** (Articles 29–30): protection of minorities’ languages, scripts and cultures, and their right to establish and administer educational institutions.
+- **Right to constitutional remedies** (Article 32): the right to approach the **Supreme Court** directly to enforce Fundamental Rights. **Ambedkar** described Article 32 as the “**very soul of the Constitution and the very heart of it**”.
+
+=== steps How to enforce a Fundamental Right
+- If you believe a Fundamental Right has been violated by the state, you can approach the **Supreme Court** under **Article 32**, or a **High Court** under **Article 226**, which also allows High Courts to enforce other legal rights.
+- Courts can issue special orders called **writs**, including:
+- **Habeas corpus** (“you shall have the body”): requiring a person who has been detained to be brought before the court, to check whether the detention is lawful.
+- **Mandamus** (“we command”): ordering a public official or body to perform a legal duty.
+- **Prohibition** and **certiorari**: preventing or quashing decisions by lower courts or tribunals acting beyond their powers.
+- **Quo warranto** (“by what authority”): questioning whether a person has the legal right to hold a public office.
+- Free **legal aid** is available for eligible people through legal services authorities, as you’ll see in the courts lessons.
+
+=== reveal Are rights absolute, or can they be limited?
+Very few rights are absolute. Most can be limited in certain circumstances to protect other people’s rights or important public interests. India’s Constitution explicitly allows **reasonable restrictions** on many freedoms. For example, **Article 19(2)** allows reasonable restrictions on freedom of speech in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation or incitement to an offence. Courts decide whether restrictions are genuinely **reasonable**, increasingly using a test of **proportionality**: is the restriction for a legitimate aim, suitable to achieve it, necessary (with no less restrictive alternative) and balanced against its impact on rights? Some rights, like the prohibition on **torture**, are treated as absolute in international law. The next lesson explores hard cases where rights collide.
+
+=== keypoints
+- **Human rights** belong to everyone and are **universal**, **inalienable** and **indivisible**; the **UDHR (1948)** set the foundation, with **Hansa Mehta** securing inclusive language.
+- **Civil and political rights** (ICCPR, 1966) include speech, religion, fair trial and voting; **economic, social and cultural rights** (ICESCR, 1966) include education, health and an adequate standard of living.
+- **Isaiah Berlin (1958)** distinguished **negative** liberty (freedom from interference) and **positive** liberty (the ability to act, often requiring support).
+- India’s **Fundamental Rights** (Part III) cover **equality**, **freedom**, **against exploitation**, **religion**, **cultural and educational rights** and **constitutional remedies**.
+- **Article 17** abolished untouchability; **Article 21** protects life and liberty; **Article 32**, the “**heart and soul**” of the Constitution, allows direct petitions to the Supreme Court.
+- **Writs** like **habeas corpus** and **mandamus** enforce rights.
+- Most rights allow **reasonable restrictions**, judged increasingly by **proportionality**.
+
+=== why
+Knowing your rights is the first step to protecting them, for yourself and others. Understanding the different kinds of rights, how they’re protected in India and internationally, and how they can be limited, helps you recognise injustice, use legal remedies and engage in debates about freedom and equality. The next lesson explores what happens when rights come into conflict.

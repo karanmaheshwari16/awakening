@@ -1,0 +1,79 @@
+{
+  "id": "law.constitutions.1",
+  "region": "law",
+  "topic": "constitutions",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Constitutions: The Rules for Making Rules",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **9 December 1946**, around 200 members of India’s **Constituent Assembly** gathered in New Delhi for their first meeting. Over the next nearly three years, through **11 sessions**, debating line by line, they drafted the Constitution of a country that didn’t yet fully exist, in the shadow of Partition, communal violence and the challenge of uniting hundreds of princely states and provinces.\n\nThey studied constitutions from around the world, from the United States, Britain, Ireland, Canada and many others, and debated every major question: federalism, fundamental rights, language, religion, caste and the powers of the President. On **26 November 1949**, they adopted the finished document. It came into force on **26 January 1950**, now celebrated as **Republic Day**. It remains one of the longest written national constitutions in the world, and one of the most ambitious."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **constitution** is the fundamental law of a country: a set of rules that establishes how the state is organised, how power is divided and limited, and what rights citizens have. It’s often called the “supreme law”, because other laws must be consistent with it.\n\nConstitutions perform several key functions:\n\n1. **Establishing institutions**: creating the legislature, executive and judiciary, and defining their powers.\n2. **Limiting power**: setting boundaries on what governments can do, through separation of powers, federalism and rights.\n3. **Protecting rights**: guaranteeing freedoms like speech, religion, equality and fair trials.\n4. **Defining identity and values**: expressing the nation’s founding principles and aspirations.\n5. **Providing rules for change**: setting out how the constitution itself can be amended.\n\nThe idea that even rulers should be bound by fundamental rules has deep roots. In **1215**, English barons forced King John to agree to **Magna Carta**, which established that the king was not above the law, including the principle that no free man could be imprisoned except by lawful judgement or the law of the land. Though it initially protected mainly the nobility, it became a powerful symbol of limited government."
+    },
+    {
+      "type": "text",
+      "heading": "Written and unwritten constitutions",
+      "md": "Most countries have a **codified** (written) constitution: a single document, or a small set of documents, with special legal status. The **United States Constitution**, drafted in **1787** and in force since **1789**, is the oldest written national constitution still in use, and one of the shortest, with seven articles and 27 amendments.\n\nA few countries, notably the **United Kingdom**, New Zealand and Israel, don’t have a single codified constitution. The UK’s constitution is described as **uncodified**: it’s made up of important laws passed by Parliament, court decisions, conventions (unwritten practices that are generally followed) and historic documents like Magna Carta. In the UK, Parliament is traditionally sovereign: it can, in principle, change any law by ordinary majority."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a country as a sports league. Ordinary laws are like the rules of play: how many players, what counts as a foul. The constitution is like the league’s charter: it sets up who makes the rules, who referees, how disputes are settled, what rights every player has, and how the charter itself can be changed. Teams can argue about the rules of play every season, but changing the charter requires much broader agreement."
+    },
+    {
+      "type": "text",
+      "heading": "Making India’s Constitution",
+      "md": "The **Constituent Assembly** was elected indirectly, mostly by provincial legislatures, with representatives of princely states joining later. After Partition, its membership was around **299**. It included leading figures of the independence movement, representatives of different communities and regions, and **15 women**, including **Hansa Mehta**, **Sarojini Naidu** and **Durgabai Deshmukh**.\n\n**B. R. Ambedkar**, a brilliant lawyer and economist and a leader of the Dalit community, who had himself faced caste discrimination, chaired the **Drafting Committee**, and is often called the principal architect of the Constitution. **Rajendra Prasad**, who later became India’s first President, presided over the Assembly.\n\nThe process took **2 years, 11 months and 18 days**. The Assembly debated thousands of proposed amendments to the draft. Its records, the **Constituent Assembly Debates**, are still consulted by courts to understand the framers’ intentions."
+    },
+    {
+      "type": "text",
+      "heading": "Key parts of India’s Constitution",
+      "md": "- **The Preamble**: begins “**We, the people of India**”, declaring India a **sovereign, socialist, secular, democratic republic** (the words “socialist” and “secular” were added in **1976**) and committing to secure for all citizens **justice**, **liberty**, **equality** and **fraternity**.\n- **Fundamental Rights** (Part III): enforceable rights, including equality before the law, freedom of speech, freedom of religion, protection of life and personal liberty and the right to constitutional remedies, explored in the rights lessons.\n- **Directive Principles of State Policy** (Part IV): goals for the state, like securing adequate livelihood, equal pay for equal work, public health and free education, which aren’t enforceable in courts but are meant to guide policy, as you saw in the Politics region.\n- **Fundamental Duties** (Part IVA): added in **1976**, listing citizens’ duties, like respecting the Constitution, protecting the environment and developing scientific temper.\n- **Structure of government**: provisions on Parliament, the President, the Union and state governments, the judiciary, the Election Commission and other institutions.\n- **Federal provisions**: the division of powers between the Union and states, as you saw in the Democracy region.\n- **Schedules**: detailed lists, including the official languages and the division of legislative powers."
+    },
+    {
+      "type": "steps",
+      "title": "Why India’s Constitution is so long",
+      "items": [
+        "It covers the structures of both the Union and the states in detail, whereas some federations leave state constitutions separate.",
+        "It includes detailed provisions on **administration**, the **civil services**, **elections**, **emergencies** and **finance**, which other countries often leave to ordinary laws.",
+        "It includes **special provisions** for particular regions and communities, such as Scheduled Castes, Scheduled Tribes and certain states.",
+        "The framers, wary of misuse of power and unsure how institutions would evolve, chose to write many things down explicitly.",
+        "It has been **amended over 100 times**, adding to its length.",
+        "Supporters say the detail provides clarity and protection; critics say it makes the Constitution complex and invites frequent amendments."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What does it mean to call India’s Constitution a “transformative” constitution?",
+      "md": "Many scholars and judges describe India’s Constitution as **transformative**: not simply recording the existing social order, but aiming to **change** it. At independence, Indian society was marked by deep inequalities of caste, gender and wealth. The Constitution abolished **untouchability** (Article 17), prohibited discrimination, provided for **reservations** in education, jobs and legislatures for historically disadvantaged groups, and set goals of social and economic justice. Ambedkar saw the Constitution as a tool to challenge entrenched hierarchies, though he warned that its success would depend on the people and leaders who worked it. Courts have often invoked this transformative vision when interpreting rights, while debates continue over how far, and how fast, constitutional ideals have been realised in practice."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **constitution** is a country’s supreme law: it **establishes institutions**, **limits power**, **protects rights**, **expresses values** and sets **rules for change**.",
+        "**Magna Carta (1215)** established that rulers aren’t above the law.",
+        "Most countries have **codified** constitutions; the **US Constitution (1787)** is the oldest still in use; the **UK** has an **uncodified** constitution.",
+        "India’s **Constituent Assembly** met from **December 1946**; the Constitution was adopted on **26 November 1949** and came into force on **26 January 1950**.",
+        "**B. R. Ambedkar** chaired the Drafting Committee; the Assembly included **15 women**.",
+        "Key parts: **Preamble**, **Fundamental Rights**, **Directive Principles**, **Fundamental Duties**, government structure and federal provisions.",
+        "India’s Constitution is long and often described as **transformative**, aiming to change an unequal society."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Constitutions shape every part of public life: who governs, how they’re chosen, what they can and can’t do, and what rights you have. Understanding India’s Constitution, and constitutions generally, helps you know your rights, follow debates about government power and appreciate the vision and compromises behind the document that governs over a billion people. Next, you’ll see how constitutions change and how courts interpret them."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what does a constitution do, how did India’s Constitution come into being, and what are its key parts?"
+  }
+}

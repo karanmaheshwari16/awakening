@@ -1,0 +1,83 @@
+{
+  "id": "law.courts.1",
+  "region": "law",
+  "topic": "courts",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Courts and Judges",
+  "estimated_minutes": 15,
+  "disclaimer": "legal",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1959**, a celebrated naval officer named **K. M. Nanavati** shot dead his wife’s lover in Bombay, then surrendered to police. The case became a national sensation, covered obsessively by newspapers, especially a popular tabloid that campaigned openly for the officer.\n\nA **jury** acquitted Nanavati, a verdict the trial judge considered so perverse that he referred the case to the High Court, which overturned it and convicted him of murder. Concerns that juries could be swayed by media and public sentiment contributed to India gradually abolishing **jury trials** in the following years. The case still inspires books and films, and it reveals enduring questions about how courts should decide guilt fairly, insulated from public pressure."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Courts** are institutions that settle disputes and apply the law. They decide whether people accused of crimes are guilty, resolve disagreements between individuals and organisations, review government actions and interpret the Constitution.\n\nCourts generally deal with two main kinds of cases:\n\n- **Criminal cases**: the state prosecutes someone accused of a crime, such as theft, assault or fraud. If convicted, the person may face punishment like a fine or imprisonment.\n- **Civil cases**: disputes between individuals or organisations, such as over contracts, property, family matters, compensation for injuries or consumer complaints. The usual remedies are compensation or court orders, rather than punishment."
+    },
+    {
+      "type": "text",
+      "heading": "The structure of India’s courts",
+      "md": "India has a single, integrated judicial system, unlike the US, which has separate federal and state court systems:\n\n- **The Supreme Court**, established under **Article 124**, sits at the top in New Delhi. It hears appeals from High Courts, cases between the Union and states, petitions to enforce Fundamental Rights under Article 32, and gives advisory opinions when the President requests them. Its sanctioned strength is **34** judges, including the Chief Justice of India.\n- **High Courts**: there are **25** High Courts, each with jurisdiction over one or more states or union territories. They hear appeals from lower courts, enforce rights through writs under Article 226 and supervise subordinate courts.\n- **District and subordinate courts**: in each district, a **District Court** and many lower courts handle the great majority of civil and criminal cases, the courts most people actually encounter.\n- **Tribunals and special courts**: specialised bodies for areas like tax, consumer disputes, environment (the **National Green Tribunal**), family matters and administrative disputes."
+    },
+    {
+      "type": "text",
+      "heading": "Adversarial and inquisitorial systems",
+      "md": "Legal systems differ in how trials work:\n\n- **Adversarial** systems, used in common law countries like India, the UK and the US, treat a trial as a contest between two sides, prosecution and defence in criminal cases, or two parties in civil cases. Each side gathers evidence, presents witnesses and challenges the other’s case through **cross-examination**. The judge acts as a relatively neutral referee, ensuring fair procedure and deciding on the law, and sometimes the facts.\n- **Inquisitorial** systems, common in civil law countries like France and Germany, give the judge a more active role in investigating the case: questioning witnesses, directing the gathering of evidence and seeking the truth more directly.\n\nEach has strengths and weaknesses. Adversarial systems emphasise the rights of parties to present their case, but can favour those who can afford skilled lawyers. Inquisitorial systems may be more efficient and less dependent on lawyers’ skill, but concentrate significant power in judges."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an adversarial trial like a debate competition with a referee: two teams argue their sides as strongly as possible, cross-examine each other, and the referee ensures fair rules and declares the winner. An inquisitorial trial is more like an investigation led by a detective-judge, who asks the questions, gathers the evidence and tries to work out what really happened. Both aim at justice, but they assign the work very differently."
+    },
+    {
+      "type": "text",
+      "heading": "Burden and standard of proof",
+      "md": "Who has to prove what, and how convincingly?\n\n- In **criminal** cases, the prosecution bears the **burden of proof**, and the accused is presumed innocent until proven guilty. The standard is proof **beyond reasonable doubt**: a high bar, because a wrongful conviction can deprive someone of liberty or even life.\n- In **civil** cases, the standard is usually the **balance of probabilities** (or preponderance of evidence): whichever side’s version is more likely true wins.\n\nThat’s why the same events can lead to different outcomes: someone might be acquitted of a crime, because guilt wasn’t proven beyond reasonable doubt, yet still be found liable to pay compensation in a civil case."
+    },
+    {
+      "type": "steps",
+      "title": "India’s justice challenge: pendency",
+      "items": [
+        "India’s courts face a massive backlog of cases. According to the **National Judicial Data Grid**, more than **50 million** (5 crore) cases are pending across all courts, the great majority in district and subordinate courts.",
+        "Some cases take years, even decades, to be resolved. As a common saying goes, justice delayed is justice denied.",
+        "Causes include a shortage of judges (India has historically had around **20 judges per million people**, far fewer than many other countries), vacancies, frequent adjournments, procedural complexity, the government itself being a major litigant, and limited court infrastructure.",
+        "Delays particularly harm the poor, undertrial prisoners, as you’ll see in the criminal justice lessons, and businesses, affecting economic growth.",
+        "Reforms include filling vacancies, digitising courts through the **e-Courts** project (including online case status and virtual hearings, which expanded rapidly during the COVID-19 pandemic), fast-track courts for certain offences and alternative dispute resolution."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Access to justice",
+      "md": "Justice must be accessible, not just available in theory. India has developed several mechanisms:\n\n- **Free legal aid**: under the **Legal Services Authorities Act** of **1987**, the **National Legal Services Authority (NALSA)** and state and district authorities provide free legal services to eligible people, including women, children, members of Scheduled Castes and Tribes, people with disabilities, victims of trafficking or disasters, industrial workers and those below an income threshold. Article 39A of the Constitution directs the state to ensure free legal aid.\n- **Lok Adalats** (“people’s courts”): forums where disputes, such as traffic fines, family disputes, bank recovery and compensation claims, are settled by compromise, quickly and without court fees. Their decisions are final and binding. National Lok Adalats settle millions of cases in single days.\n- **Alternative dispute resolution**: **mediation**, **conciliation** and **arbitration** help parties settle disputes outside traditional courtroom trials. India passed a **Mediation Act** in **2023**."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why did India abolish jury trials while the US and UK still use them?",
+      "md": "In a **jury** trial, ordinary citizens, rather than judges, decide whether the accused is guilty, based on the evidence presented. Supporters argue juries bring community values into justice, act as a check on state power and give legitimacy to verdicts. In the US, the right to a jury trial is guaranteed by the Constitution for many cases; in England and Wales, juries hear serious criminal cases. India inherited jury trials from British rule in some places, but after concerns that juries could be swayed by public opinion, media campaigns and community or caste prejudices, highlighted by the **Nanavati** case, India gradually phased out jury trials from the **1960s**, and they were largely ended with the new Code of Criminal Procedure in **1973**. Today, judges decide both facts and law in Indian trials. Critics of juries point to similar concerns about bias elsewhere; supporters of juries worry that judge-only systems concentrate too much power in a few officials."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Courts handle **criminal cases** (the state prosecutes crimes) and **civil cases** (disputes between parties).",
+        "India has an integrated system: the **Supreme Court** (Article 124, up to **34** judges), **25 High Courts**, **district and subordinate courts** and specialised **tribunals**.",
+        "**Adversarial** systems (India, UK, US) treat trials as contests; **inquisitorial** systems (France, Germany) give judges an investigative role.",
+        "Criminal cases require proof **beyond reasonable doubt**; civil cases use the **balance of probabilities**.",
+        "Over **50 million** cases are pending in India; causes include **few judges** and procedural delays; **e-Courts** aim to help.",
+        "**Free legal aid** (**NALSA, 1987 Act**), **Lok Adalats** and **mediation** improve access to justice.",
+        "India phased out **jury trials** after cases like **Nanavati (1959)**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Courts protect rights, settle disputes and hold the powerful accountable, but only if they’re accessible, fair and timely. Understanding how courts are structured and how they work helps you know where to turn if you need justice, make sense of legal news, and appreciate both the importance of the judiciary and the urgent challenges it faces."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how is India’s court system structured, what is the difference between the adversarial and inquisitorial systems, and why is case pendency such a serious problem in India?"
+  }
+}
