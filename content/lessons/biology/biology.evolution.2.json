@@ -1,0 +1,81 @@
+{
+  "id": "biology.evolution.2",
+  "region": "biology",
+  "topic": "evolution",
+  "level": 2,
+  "prerequisites": [
+    "biology.evolution.1"
+  ],
+  "title": "Where Humans Came From",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2010**, a team led by the Swedish geneticist **Svante Pääbo** published something once thought impossible: a draft of the **Neanderthal genome**, reconstructed from fragments of DNA extracted from bones tens of thousands of years old.\n\nComparing it with modern human DNA revealed a surprise. People whose ancestors come from outside Africa carry about **1 to 2%** Neanderthal DNA. Our ancestors and Neanderthals had met and had children together. That same year, Pääbo’s team analysed DNA from a tiny finger bone found in a Siberian cave and discovered an entirely new group of ancient humans, now called **Denisovans**, known at first almost only from their DNA. Pääbo won the 2022 Nobel Prize. Ancient DNA has transformed the story of where we came from."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that humans and chimpanzees share a common ancestor that lived around 6 to 7 million years ago. Since then, many species of **hominins** (humans and our extinct close relatives) have lived, most in Africa, and most now extinct.\n\nKey milestones in the human story include:\n\n- **Walking upright**: early hominins walked on two legs millions of years ago, long before brains grew large. The famous skeleton nicknamed **Lucy**, found in Ethiopia in **1974**, belonged to a species called *Australopithecus afarensis* and lived about **3.2 million years ago**. She walked upright, but had a brain only slightly larger than a chimpanzee’s.\n- **Stone tools**: the oldest known stone tools date back over **3 million years**.\n- ***Homo erectus***: appearing around **2 million years ago**, with a larger brain and body proportions more like ours, it was the first hominin known to spread widely out of Africa, reaching Asia, including Java and China.\n- **Control of fire**: evidence of controlled fire use becomes clearer from around a million years ago or later; cooking may have helped fuel the growth of larger brains."
+    },
+    {
+      "type": "text",
+      "heading": "The origin of our species",
+      "md": "Our own species, ***Homo sapiens***, evolved in **Africa**. The oldest known fossils attributed to early *Homo sapiens*, from **Jebel Irhoud** in Morocco, are about **300,000 years** old. For most of our species’ history, all humans lived in Africa.\n\nAround **60,000 to 70,000 years ago**, a group of modern humans spread out of Africa in a major dispersal (there were earlier, smaller movements too). Their descendants eventually reached every continent except Antarctica: South Asia and Australia by around 50,000 to 65,000 years ago (estimates vary), Europe by around 45,000 years ago, and the Americas by at least around 15,000 to 20,000 years ago, possibly earlier.\n\nBecause humans lived in Africa longest, African populations today contain **more genetic diversity** than all other populations combined. Two people from different African regions can be more genetically different from each other than a person from Europe is from a person from East Asia."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine a large family that lived in one ancestral village for hundreds of thousands of years, developing many distinct branches. Then a small group left to settle new lands. That group carried only a fraction of the village’s variety with them, and their descendants spread across the world. That’s why most of humanity’s genetic diversity is still found in Africa, and why people outside Africa, despite looking very different, are relatively closely related."
+    },
+    {
+      "type": "text",
+      "heading": "Our cousins: Neanderthals and Denisovans",
+      "md": "When modern humans left Africa, they weren’t alone. **Neanderthals** lived across Europe and western Asia from around 400,000 years ago until about **40,000 years ago**. They were strong, made sophisticated tools, buried their dead, used fire and may have created symbolic art. **Denisovans** lived across parts of Asia.\n\nAncient DNA shows that modern humans interbred with both:\n\n- Most people of non-African ancestry carry about **1–2%** Neanderthal DNA.\n- Some populations, especially in Papua New Guinea and parts of Southeast Asia and Australia, carry several percent **Denisovan** DNA.\n- Some inherited genes were useful. Tibetans carry a version of a gene called **EPAS1**, inherited from Denisovans, which helps them thrive at high altitude with low oxygen.\n\nWhy Neanderthals disappeared remains debated: competition with modern humans, climate change, small population sizes and absorption through interbreeding may all have played roles."
+    },
+    {
+      "type": "text",
+      "heading": "The peopling of India",
+      "md": "Genetic studies show that most people in South Asia descend from a mixture of several ancestral populations:\n\n- Descendants of the **first modern humans** who reached South Asia tens of thousands of years ago, sometimes called **ancient South Asian hunter-gatherers**, related to present-day Andamanese islanders.\n- **Early farmers** with ancestry related to ancient populations of the Iranian plateau, who contributed to the Indus Valley Civilisation population.\n- Later migrations of **Steppe pastoralists** from Central Asia, around **4,000 to 3,500 years ago**, whose ancestry is found in varying proportions across the subcontinent.\n\nA 2009 study led by the geneticists **David Reich** and **Lalji Singh** described two broad ancestral groups, now often called **Ancestral North Indians** and **Ancestral South Indians**, whose mixing shaped most modern Indian populations. Genetics also shows that, beginning roughly 2,000 years ago, many groups stopped mixing as much, consistent with the rise of endogamy (marrying within one’s group). These findings are scientifically important and sometimes politically sensitive; responsible interpretation avoids simplistic claims about identity or superiority."
+    },
+    {
+      "type": "steps",
+      "title": "Evolution is still happening",
+      "items": [
+        "**Lactase persistence**: most mammals, including most humans historically, lose the ability to digest milk sugar (lactose) after weaning.",
+        "In some populations that herded cattle and drank milk, such as in parts of Europe, Africa, the Middle East and South Asia, mutations allowing adults to keep digesting lactose spread rapidly over the last 10,000 years or so, because milk provided valuable nutrition.",
+        "Different mutations with the same effect arose independently in different regions, a clear example of natural selection acting on human populations.",
+        "**High-altitude adaptation** evolved separately in Tibetans, Andean peoples and Ethiopian highlanders.",
+        "**Disease resistance**: as you saw with sickle cell and malaria, infectious diseases have strongly shaped human genes.",
+        "Today, modern medicine, diet and lifestyle continue to change which traits affect survival and reproduction, so human evolution continues, though in complex ways."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "A peacock’s tail is huge, heavy and attracts predators. How could natural selection produce something so impractical?",
+      "md": "Through **sexual selection**, a special form of natural selection that Darwin described in **1871**. Some traits evolve not because they help survival, but because they help win **mates**. Peahens tend to prefer males with larger, more elaborate tails, so males with impressive tails leave more offspring, even if those tails make them more vulnerable to predators. One idea is that only healthy, strong males can afford such costly displays, so the tail acts as an honest signal of quality. The peacock, fittingly, is India’s national bird. Sexual selection also helps explain antlers, birdsong, bright colours and many differences between males and females across species."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Hominins split from the chimpanzee lineage about **6–7 million years ago**; **Lucy** (*Australopithecus afarensis*) lived about **3.2 million years ago**.",
+        "***Homo erectus*** (from ~2 million years ago) was the first hominin to spread widely beyond Africa.",
+        "***Homo sapiens*** evolved in **Africa**; the oldest fossils (Jebel Irhoud) are about **300,000 years** old.",
+        "A major **out-of-Africa** dispersal happened around **60,000–70,000 years ago**; Africa retains the most genetic diversity.",
+        "Non-Africans carry **1–2% Neanderthal** DNA; some populations carry **Denisovan** DNA (Pääbo, Nobel 2022).",
+        "South Asians descend from ancient hunter-gatherers, Iranian-related farmers and later Steppe migrants.",
+        "Humans are still evolving, as **lactase persistence** shows; **sexual selection** explains traits like the **peacock’s tail**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The story of human origins tells you that all living humans are close relatives, sharing recent African ancestry, and that our species’ history involves migration, mixing and adaptation. Understanding it helps counter false ideas about racial purity or hierarchy, and connects biology to the History region’s story of farming, cities and civilisations."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: when and where did modern humans evolve, how did they spread across the world, and what does ancient DNA reveal about Neanderthals and our own ancestry?"
+  }
+}

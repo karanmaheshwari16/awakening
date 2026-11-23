@@ -1,0 +1,78 @@
+{
+  "id": "biology.evolution.1",
+  "region": "biology",
+  "topic": "evolution",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Evolution by Natural Selection",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1977**, a severe drought struck Daphne Major, a tiny island in the Galápagos. The biologists **Peter** and **Rosemary Grant**, who studied the island’s finches for decades, watched as the small, soft seeds the birds usually ate ran out. Only large, hard seeds remained.\n\nMany finches starved. Those that survived tended to have slightly **larger, deeper beaks**, better at cracking tough seeds. Their offspring inherited those beaks. Within a single generation, the average beak size of the population had measurably increased. The Grants had watched evolution happen, in real time, in the very birds whose ancestors had helped inspire **Charles Darwin**’s ideas over a century earlier."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Evolution** is the change in the inherited characteristics of populations over generations. Over long periods, it has produced the vast diversity of life on Earth from common ancestors.\n\nThe main mechanism, proposed independently by **Charles Darwin** and **Alfred Russel Wallace**, is **natural selection**. Their ideas were presented together at a scientific meeting in London in **1858**, and Darwin published *On the Origin of Species* in **1859**.\n\nDarwin had developed his ideas over two decades, partly inspired by his five-year voyage on HMS **Beagle** (1831–1836), during which he observed fossils, island species and variation across South America and the Galápagos. Wallace reached similar conclusions while collecting specimens in the Malay Archipelago, and wrote to Darwin, prompting the joint presentation."
+    },
+    {
+      "type": "text",
+      "heading": "The four ingredients of natural selection",
+      "md": "Natural selection follows almost inevitably from four facts:\n\n1. **Variation**: individuals in a population differ from one another, in size, colour, speed, resistance to disease and countless other traits.\n2. **Inheritance**: many of these differences are passed from parents to offspring through genes.\n3. **Selection**: more individuals are born than can survive and reproduce, because resources are limited. Individuals with traits better suited to their environment tend to survive and reproduce more.\n4. **Time**: over many generations, helpful traits become more common in the population, and less helpful ones become rarer.\n\nNo intention or plan is involved. Natural selection is simply the result of some individuals leaving more offspring than others because of their inherited traits."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of natural selection as a filter that runs every generation. Each generation, a population produces a variety of slightly different individuals. The environment acts like a sieve: those best suited to current conditions are more likely to pass through and reproduce. Repeat the sieving over thousands or millions of generations, and the population gradually changes, even though no one designed the sieve or chose what would pass."
+    },
+    {
+      "type": "text",
+      "heading": "Evolution you can see",
+      "md": "**The peppered moth**: in 19th-century England, most peppered moths were pale, camouflaged against lichen-covered tree bark. As the Industrial Revolution spread, soot darkened trees in industrial areas, and dark-coloured moths became far more common there, because birds spotted and ate pale moths more easily. After clean air laws reduced pollution in the 20th century, pale moths became common again.\n\n**Antibiotic resistance**: when bacteria are exposed to antibiotics, any that happen to carry mutations allowing them to survive multiply, while the rest die. Over time, resistant strains become common. You’ll explore this in the microbes lessons.\n\n**Darwin’s finches**: as the Grants showed, beak sizes shift with droughts and changes in food supply, sometimes within a few years."
+    },
+    {
+      "type": "text",
+      "heading": "The evidence for evolution",
+      "md": "Evolution is supported by many independent lines of evidence:\n\n- **Fossils**: the fossil record shows life changing over time, with simpler forms in older rocks and transitional forms linking groups. In **2004**, scientists found fossils of **Tiktaalik** in the Canadian Arctic: a roughly 375-million-year-old creature intermediate between fish and four-legged animals, with fins containing wrist-like bones. Researchers had predicted where to look, based on the age of rocks where such a transition should occur.\n- **Comparative anatomy**: the arm of a human, the wing of a bat, the flipper of a whale and the leg of a cat contain the same basic set of bones, arranged differently. These **homologous structures** reflect descent from a common ancestor.\n- **DNA**: the more closely related two species are thought to be, the more similar their DNA, and genetic family trees closely match those built from fossils and anatomy.\n- **Biogeography**: island species often resemble those on the nearest mainland, as Darwin noticed in the Galápagos, suggesting they descended from mainland colonists.\n- **Direct observation**: evolution has been observed in nature and in laboratories, including in long-running experiments with bacteria."
+    },
+    {
+      "type": "steps",
+      "title": "The tree of life",
+      "items": [
+        "All living things share a common ancestor that lived over **3.5 billion years** ago.",
+        "As populations split and adapted to different environments, they gradually became separate species, branching like a tree.",
+        "Humans did **not** evolve from chimpanzees. Humans and chimpanzees share a common ancestor that lived roughly **6 to 7 million years ago**; both lineages have evolved since.",
+        "Similarly, birds evolved from a group of dinosaurs, so in a real sense, birds are living dinosaurs.",
+        "Every living species today is the tip of a branch that has survived and evolved for the same length of time since life began."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What are the most common misunderstandings about evolution?",
+      "md": "Several are widespread. “**Survival of the fittest**”, a phrase coined by the philosopher Herbert Spencer, doesn’t mean the strongest survive; “fit” means well-suited to an environment, and what counts as fit changes as environments change. Evolution is **not progress** towards a goal; it has no direction, and simpler organisms like bacteria are spectacularly successful. **Individuals don’t evolve**; populations do, over generations. Evolution is **not purely random**: mutations arise randomly, but selection is not random. And calling it “just a theory” misunderstands the scientific meaning of theory: a well-tested explanation supported by vast evidence, like the theory of gravity or germ theory."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Evolution** is change in inherited traits of populations over generations.",
+        "**Darwin** and **Wallace** proposed **natural selection** (presented **1858**; *Origin of Species*, **1859**).",
+        "Natural selection needs **variation**, **inheritance**, **selection** and **time**.",
+        "Observed examples include **Darwin’s finches** (Grants, 1977 drought), **peppered moths** and **antibiotic resistance**.",
+        "Evidence comes from **fossils** (like **Tiktaalik**), **homologous structures**, **DNA**, **biogeography** and **direct observation**.",
+        "Humans and chimpanzees share a **common ancestor** about **6–7 million years ago**.",
+        "Evolution isn’t progress towards a goal, and “fit” means suited to an environment."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Evolution is the unifying idea of biology; as the geneticist Theodosius Dobzhansky wrote, nothing in biology makes sense except in its light. It explains the diversity of life, why antibiotics stop working, why viruses change and why we get certain diseases. Next, you’ll trace the evolutionary story of our own species."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what four ingredients make natural selection work, and what are two strong pieces of evidence for evolution?"
+  }
+}

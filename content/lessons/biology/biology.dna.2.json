@@ -1,0 +1,90 @@
+{
+  "id": "biology.dna.2",
+  "region": "biology",
+  "topic": "dna",
+  "level": 2,
+  "prerequisites": [
+    "biology.dna.1"
+  ],
+  "title": "Genes, Environment and Editing Life",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **November 2018**, a Chinese scientist named **He Jiankui** announced that he had created the world’s first **genetically edited babies**: twin girls whose DNA he had altered as embryos, using a technique called CRISPR, in an attempt to make them resistant to HIV.\n\nThe announcement provoked worldwide alarm. Scientists condemned the experiment as reckless and unethical: the edits were unnecessary, the risks unknown, and the changes could be passed to future generations. He was sentenced to three years in prison in China in 2019. The episode showed that humans now have the power to rewrite the code of life, and that deciding how to use it is one of the great ethical challenges of our time."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that DNA contains genes that code for proteins. This lesson explores how genes are **inherited**, how they interact with the **environment**, and how scientists can now **edit** them.\n\nThe science of inheritance began in a monastery garden. In the 1850s and 1860s, **Gregor Mendel**, an Augustinian friar in what is now the Czech Republic, bred thousands of pea plants and tracked traits like flower colour, seed shape and plant height across generations. He published his findings in **1866**, but they were largely ignored until **1900**, when other scientists independently rediscovered his principles."
+    },
+    {
+      "type": "text",
+      "heading": "Mendel’s discoveries",
+      "md": "Mendel found that traits are passed on in discrete units, which we now call **genes**, and that each organism inherits **two copies** of each gene, one from each parent. Different versions of a gene are called **alleles**.\n\n- Some alleles are **dominant**: one copy is enough for the trait to appear.\n- Others are **recessive**: the trait only appears if both copies are recessive.\n\nAn organism’s genetic makeup is its **genotype**; the traits it actually shows are its **phenotype**."
+    },
+    {
+      "type": "steps",
+      "title": "Worked example: carriers and inheritance",
+      "items": [
+        "Consider a recessive genetic condition, like **thalassaemia**, a blood disorder that affects haemoglobin. Call the healthy allele **H** and the disease allele **h**.",
+        "A person with **HH** is unaffected. A person with **Hh** is a **carrier**: unaffected, because one healthy copy is enough, but able to pass the disease allele on. A person with **hh** has the condition.",
+        "If two carriers (**Hh × Hh**) have a child, each parent passes on either H or h with equal chance.",
+        "The possibilities are HH, Hh, hH and hh, so each child has a **25%** chance of being unaffected and not a carrier, a **50%** chance of being a carrier, and a **25%** chance of having the condition.",
+        "India has a large number of thalassaemia carriers, and many thousands of children are born with severe thalassaemia each year. Carrier screening before marriage or pregnancy helps families understand their risks."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Most traits involve many genes",
+      "md": "Mendel studied traits controlled by single genes, but most human traits, like height, intelligence, skin colour and risk of heart disease, are **polygenic**: influenced by many genes, sometimes thousands, each with a small effect, combined with environmental factors.\n\n**Height** is a good example. It’s strongly influenced by genes, yet average heights in many countries have increased substantially over the past century, far too fast for genes to change, because of better nutrition and health. Genes set a range of possibilities; environment influences where in that range a person ends up."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of genes as a recipe and the environment as the kitchen. The recipe matters enormously: you can’t bake a cake from a recipe for soup. But the same recipe can produce very different results depending on the ingredients available, the oven and the cook. Asking whether a cake is due to the recipe or the kitchen misses the point: it’s always both, working together."
+    },
+    {
+      "type": "text",
+      "heading": "Beyond the DNA sequence: epigenetics",
+      "md": "Cells can switch genes on and off without changing the DNA sequence itself, by adding chemical tags to DNA or the proteins it’s wound around. These changes are called **epigenetic** changes, and they’re part of how cells with identical DNA become different types, as you saw in the cells lessons.\n\nEnvironmental factors, like diet, stress and toxins, can influence epigenetic tags. Studies of people conceived during the **Dutch Hunger Winter**, a severe famine in the Nazi-occupied Netherlands in 1944–45, found that those exposed to famine before birth had different epigenetic marks and higher rates of some health problems decades later. Whether such effects can pass across multiple generations in humans is still debated; claims in popular media often go well beyond the evidence."
+    },
+    {
+      "type": "text",
+      "heading": "Gene editing with CRISPR",
+      "md": "For decades, changing DNA was slow and imprecise. In **2012**, **Jennifer Doudna** and **Emmanuelle Charpentier** published a method based on a natural defence system that bacteria use against viruses, called **CRISPR-Cas9**. It works like molecular scissors guided by a GPS: a guide molecule leads the Cas9 protein to a precise location in the DNA, where it makes a cut. The cell’s repair machinery then fixes the cut, which can be used to disable a gene or insert a new sequence.\n\nCRISPR is cheaper, faster and more precise than earlier methods, and it has transformed biology. Doudna and Charpentier won the **2020 Nobel Prize in Chemistry**, the first time two women shared a science Nobel without a male co-winner.\n\nIn **November 2023**, the UK became the first country to approve a CRISPR-based therapy, **Casgevy**, for **sickle cell disease** and a form of thalassaemia, followed shortly by the US. It edits a patient’s own blood stem cells outside the body, then returns them. It’s highly effective for many patients, but extremely expensive and complex."
+    },
+    {
+      "type": "text",
+      "heading": "Ethics: where to draw the line?",
+      "md": "Gene editing raises difficult questions:\n\n- **Somatic editing** changes cells in a patient’s body, like blood cells, affecting only that person. It’s widely seen as acceptable for treating serious diseases, with proper safety checks.\n- **Germline editing** changes eggs, sperm or embryos, so changes pass to future generations. Most countries ban or strictly restrict it for reproduction, because of safety risks, consent of future generations and fears of “designer babies”.\n- **Enhancement versus treatment**: should editing ever be used to enhance traits like intelligence or athletic ability, rather than treat disease? Many fear it could deepen inequality.\n- **Access**: treatments costing millions per patient raise questions about who benefits, especially for diseases like sickle cell, which is most common in parts of Africa, India and among people of African descent. India launched a **National Sickle Cell Anaemia Elimination Mission** in **2023**, focusing on screening, especially in tribal communities where the condition is more common."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Sickle cell disease is harmful, so why is the gene for it so common in some parts of the world?",
+      "md": "Because carrying **one** copy of the sickle cell allele provides significant **protection against malaria**, one of history’s deadliest diseases. In regions where malaria has been common, such as parts of Africa, the Middle East and India, carriers survived malaria more often and had more children, so the allele stayed common, even though people with **two** copies develop sickle cell disease. This is a classic example of natural selection balancing benefits and costs, called **heterozygote advantage**, and it links directly to the next lesson on evolution."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Mendel** (published **1866**, rediscovered **1900**) showed traits are inherited as discrete units (genes), with two copies each.",
+        "**Dominant** alleles show with one copy; **recessive** alleles need two. Two **carriers** have a 25% chance of an affected child.",
+        "Most traits are **polygenic** and shaped by both genes and **environment**; nature versus nurture is usually a false choice.",
+        "**Epigenetics** switches genes on and off without changing the DNA sequence.",
+        "**CRISPR-Cas9** (Doudna and Charpentier, 2012; Nobel 2020) enables precise gene editing; **Casgevy** (2023) treats sickle cell disease.",
+        "**Germline editing**, as in **He Jiankui’s** 2018 experiment, is widely condemned; access and enhancement raise further ethical questions.",
+        "The sickle cell allele persists because carriers are **protected against malaria**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Genetics affects your health, your family and future medical choices, from carrier screening to new therapies. Understanding how genes and environment interact protects you from simplistic claims about destiny, and understanding gene editing prepares you for some of the most important ethical decisions your generation will face."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do dominant and recessive genes work, why is “nature versus nurture” usually the wrong question, and what is CRISPR and why is it ethically debated?"
+  }
+}

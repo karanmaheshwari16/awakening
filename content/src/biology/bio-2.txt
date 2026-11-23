@@ -1,0 +1,305 @@
+##### LESSON
+id: biology.evolution.2
+title: Where Humans Came From
+minutes: 15
+prereq: biology.evolution.1
+check: In your own words: when and where did modern humans evolve, how did they spread across the world, and what does ancient DNA reveal about Neanderthals and our own ancestry?
+
+=== hook
+In **2010**, a team led by the Swedish geneticist **Svante Pääbo** published something once thought impossible: a draft of the **Neanderthal genome**, reconstructed from fragments of DNA extracted from bones tens of thousands of years old.
+
+Comparing it with modern human DNA revealed a surprise. People whose ancestors come from outside Africa carry about **1 to 2%** Neanderthal DNA. Our ancestors and Neanderthals had met and had children together. That same year, Pääbo’s team analysed DNA from a tiny finger bone found in a Siberian cave and discovered an entirely new group of ancient humans, now called **Denisovans**, known at first almost only from their DNA. Pääbo won the 2022 Nobel Prize. Ancient DNA has transformed the story of where we came from.
+
+=== core
+In the previous lesson, you saw that humans and chimpanzees share a common ancestor that lived around 6 to 7 million years ago. Since then, many species of **hominins** (humans and our extinct close relatives) have lived, most in Africa, and most now extinct.
+
+Key milestones in the human story include:
+
+- **Walking upright**: early hominins walked on two legs millions of years ago, long before brains grew large. The famous skeleton nicknamed **Lucy**, found in Ethiopia in **1974**, belonged to a species called *Australopithecus afarensis* and lived about **3.2 million years ago**. She walked upright, but had a brain only slightly larger than a chimpanzee’s.
+- **Stone tools**: the oldest known stone tools date back over **3 million years**.
+- ***Homo erectus***: appearing around **2 million years ago**, with a larger brain and body proportions more like ours, it was the first hominin known to spread widely out of Africa, reaching Asia, including Java and China.
+- **Control of fire**: evidence of controlled fire use becomes clearer from around a million years ago or later; cooking may have helped fuel the growth of larger brains.
+
+=== text The origin of our species
+Our own species, ***Homo sapiens***, evolved in **Africa**. The oldest known fossils attributed to early *Homo sapiens*, from **Jebel Irhoud** in Morocco, are about **300,000 years** old. For most of our species’ history, all humans lived in Africa.
+
+Around **60,000 to 70,000 years ago**, a group of modern humans spread out of Africa in a major dispersal (there were earlier, smaller movements too). Their descendants eventually reached every continent except Antarctica: South Asia and Australia by around 50,000 to 65,000 years ago (estimates vary), Europe by around 45,000 years ago, and the Americas by at least around 15,000 to 20,000 years ago, possibly earlier.
+
+Because humans lived in Africa longest, African populations today contain **more genetic diversity** than all other populations combined. Two people from different African regions can be more genetically different from each other than a person from Europe is from a person from East Asia.
+
+=== callout analogy
+Imagine a large family that lived in one ancestral village for hundreds of thousands of years, developing many distinct branches. Then a small group left to settle new lands. That group carried only a fraction of the village’s variety with them, and their descendants spread across the world. That’s why most of humanity’s genetic diversity is still found in Africa, and why people outside Africa, despite looking very different, are relatively closely related.
+
+=== text Our cousins: Neanderthals and Denisovans
+When modern humans left Africa, they weren’t alone. **Neanderthals** lived across Europe and western Asia from around 400,000 years ago until about **40,000 years ago**. They were strong, made sophisticated tools, buried their dead, used fire and may have created symbolic art. **Denisovans** lived across parts of Asia.
+
+Ancient DNA shows that modern humans interbred with both:
+
+- Most people of non-African ancestry carry about **1–2%** Neanderthal DNA.
+- Some populations, especially in Papua New Guinea and parts of Southeast Asia and Australia, carry several percent **Denisovan** DNA.
+- Some inherited genes were useful. Tibetans carry a version of a gene called **EPAS1**, inherited from Denisovans, which helps them thrive at high altitude with low oxygen.
+
+Why Neanderthals disappeared remains debated: competition with modern humans, climate change, small population sizes and absorption through interbreeding may all have played roles.
+
+=== text The peopling of India
+Genetic studies show that most people in South Asia descend from a mixture of several ancestral populations:
+
+- Descendants of the **first modern humans** who reached South Asia tens of thousands of years ago, sometimes called **ancient South Asian hunter-gatherers**, related to present-day Andamanese islanders.
+- **Early farmers** with ancestry related to ancient populations of the Iranian plateau, who contributed to the Indus Valley Civilisation population.
+- Later migrations of **Steppe pastoralists** from Central Asia, around **4,000 to 3,500 years ago**, whose ancestry is found in varying proportions across the subcontinent.
+
+A 2009 study led by the geneticists **David Reich** and **Lalji Singh** described two broad ancestral groups, now often called **Ancestral North Indians** and **Ancestral South Indians**, whose mixing shaped most modern Indian populations. Genetics also shows that, beginning roughly 2,000 years ago, many groups stopped mixing as much, consistent with the rise of endogamy (marrying within one’s group). These findings are scientifically important and sometimes politically sensitive; responsible interpretation avoids simplistic claims about identity or superiority.
+
+=== steps Evolution is still happening
+- **Lactase persistence**: most mammals, including most humans historically, lose the ability to digest milk sugar (lactose) after weaning.
+- In some populations that herded cattle and drank milk, such as in parts of Europe, Africa, the Middle East and South Asia, mutations allowing adults to keep digesting lactose spread rapidly over the last 10,000 years or so, because milk provided valuable nutrition.
+- Different mutations with the same effect arose independently in different regions, a clear example of natural selection acting on human populations.
+- **High-altitude adaptation** evolved separately in Tibetans, Andean peoples and Ethiopian highlanders.
+- **Disease resistance**: as you saw with sickle cell and malaria, infectious diseases have strongly shaped human genes.
+- Today, modern medicine, diet and lifestyle continue to change which traits affect survival and reproduction, so human evolution continues, though in complex ways.
+
+=== reveal A peacock’s tail is huge, heavy and attracts predators. How could natural selection produce something so impractical?
+Through **sexual selection**, a special form of natural selection that Darwin described in **1871**. Some traits evolve not because they help survival, but because they help win **mates**. Peahens tend to prefer males with larger, more elaborate tails, so males with impressive tails leave more offspring, even if those tails make them more vulnerable to predators. One idea is that only healthy, strong males can afford such costly displays, so the tail acts as an honest signal of quality. The peacock, fittingly, is India’s national bird. Sexual selection also helps explain antlers, birdsong, bright colours and many differences between males and females across species.
+
+=== keypoints
+- Hominins split from the chimpanzee lineage about **6–7 million years ago**; **Lucy** (*Australopithecus afarensis*) lived about **3.2 million years ago**.
+- ***Homo erectus*** (from ~2 million years ago) was the first hominin to spread widely beyond Africa.
+- ***Homo sapiens*** evolved in **Africa**; the oldest fossils (Jebel Irhoud) are about **300,000 years** old.
+- A major **out-of-Africa** dispersal happened around **60,000–70,000 years ago**; Africa retains the most genetic diversity.
+- Non-Africans carry **1–2% Neanderthal** DNA; some populations carry **Denisovan** DNA (Pääbo, Nobel 2022).
+- South Asians descend from ancient hunter-gatherers, Iranian-related farmers and later Steppe migrants.
+- Humans are still evolving, as **lactase persistence** shows; **sexual selection** explains traits like the **peacock’s tail**.
+
+=== why
+The story of human origins tells you that all living humans are close relatives, sharing recent African ancestry, and that our species’ history involves migration, mixing and adaptation. Understanding it helps counter false ideas about racial purity or hierarchy, and connects biology to the History region’s story of farming, cities and civilisations.
+
+##### LESSON
+id: biology.immune.1
+title: Your Inner Defence Force
+minutes: 15
+disclaimer: health
+check: In your own words: what is the difference between the innate and adaptive immune systems, how does immunological memory work, and how do vaccines use it?
+
+=== hook
+Smallpox was one of the deadliest diseases in human history. In the 20th century alone, it is estimated to have killed around **300 million** people. It scarred and blinded many survivors.
+
+On **8 May 1980**, the World Health Organization officially declared smallpox **eradicated**: the first human disease ever wiped out completely, through a global vaccination campaign. The last naturally occurring case had been a hospital cook in Somalia in 1977, who survived. India, once home to a large share of the world’s cases, saw its last case in **1975**. The campaign succeeded because of a remarkable feature of your body: an immune system that can learn and remember.
+
+=== core
+Your body is constantly exposed to potential invaders, called **pathogens**: bacteria, viruses, fungi and parasites. The **immune system** is the network of cells, tissues and molecules that defends against them.
+
+It has two main branches that work together:
+
+1. **The innate immune system**: fast, general defences you’re born with, which respond to any invader within minutes to hours.
+2. **The adaptive immune system**: slower to respond at first, but highly specific to each invader, and able to **remember** it, so the next response is faster and stronger.
+
+=== text First line: barriers
+Before any immune cell gets involved, physical and chemical **barriers** block most invaders:
+
+- **Skin**: a tough, waterproof barrier.
+- **Mucus** in your nose, throat and lungs traps particles; tiny hairs called cilia sweep it away.
+- **Stomach acid** destroys many swallowed microbes.
+- **Tears and saliva** contain enzymes that break down bacterial walls.
+- **Friendly bacteria** on your skin and in your gut compete with harmful ones.
+
+=== text The innate immune system
+If invaders get past the barriers, through a cut for example, the innate immune system responds quickly:
+
+- **Inflammation**: damaged tissue releases chemical signals that widen blood vessels and make them leakier, letting immune cells and fluid flood the area. That’s why infected areas become red, warm, swollen and painful.
+- **Phagocytes**, “eating cells”, such as **neutrophils** and **macrophages**, engulf and digest invaders. The Russian zoologist **Élie Metchnikoff** discovered this process, called **phagocytosis**, in **1882**, watching cells in starfish larvae surround a thorn he had inserted.
+- **Fever**: raising body temperature can slow the growth of some pathogens and speed up immune responses.
+
+The innate system is fast, but it doesn’t distinguish much between one invader and another, and it doesn’t remember past infections.
+
+=== text The adaptive immune system
+The adaptive immune system relies on two main types of white blood cell called **lymphocytes**:
+
+- **B cells** produce **antibodies**: Y-shaped proteins that lock onto specific molecules on a pathogen, called **antigens**, like a key fitting a particular lock. Antibodies can neutralise viruses, block toxins and mark invaders for destruction.
+- **T cells** come in several types. **Helper T cells** coordinate the immune response, activating B cells and other immune cells. **Killer T cells** find and destroy the body’s own cells that have been infected by viruses or have become cancerous.
+
+Your body contains an enormous variety of B and T cells, each able to recognise a different antigen, generated by shuffling genes. When one recognises an invader, it multiplies rapidly into an army of identical cells targeting that specific pathogen. This takes several days, which is why you feel ill for a while during a first infection.
+
+=== callout analogy
+Think of the innate immune system as a city’s police patrols, which respond quickly to any disturbance but treat every intruder roughly the same way. The adaptive immune system is like a specialised detective agency: it takes time to identify a particular criminal, but once it does, it produces a squad trained specifically to catch them, and keeps their photo on file, ready to act immediately if they ever return.
+
+=== text Immunological memory
+After an infection is cleared, most of the specialised B and T cells die off. But some remain as **memory cells**, which can survive for years or even a lifetime.
+
+If the same pathogen returns, memory cells recognise it immediately and launch a fast, powerful response, often clearing the infection before you notice any symptoms. This is why you usually catch diseases like chickenpox only once, and it’s the principle that makes vaccines work.
+
+=== steps How vaccination works
+- A **vaccine** exposes your immune system to a harmless version or part of a pathogen, such as a weakened or killed germ, a piece of its surface, or instructions for your cells to make that piece.
+- Your adaptive immune system responds as if to a real infection, producing antibodies and specialised B and T cells.
+- Memory cells form, without you having to suffer the disease itself.
+- If you’re later exposed to the real pathogen, your immune system recognises it quickly and fights it off, preventing illness or making it much milder.
+- Some vaccines need **booster** doses to strengthen or refresh memory, and some pathogens, like influenza, change frequently, so vaccines need updating.
+
+=== text A history of protection
+Long before the science was understood, people in **India**, **China**, Africa and the Ottoman Empire practised **variolation**: deliberately exposing healthy people to material from mild smallpox cases, usually causing a milder infection that gave lasting protection, though with real risks. In the early 1700s, Lady Mary Wortley Montagu, who had seen it practised in Constantinople, helped introduce it to Britain.
+
+In **1796**, the English doctor **Edward Jenner** tested a safer approach. Noticing that milkmaids who caught mild **cowpox** seemed protected from smallpox, he inoculated a boy with cowpox material, then later exposed him to smallpox. The boy didn’t get ill. The word **vaccine** comes from the Latin *vacca*, meaning cow.
+
+Vaccination campaigns have since dramatically reduced diseases like measles, diphtheria and tetanus. **India** was certified **polio-free** by the WHO in **2014**, after a massive campaign that once vaccinated around 170 million children in a single round, once considered one of the hardest places in the world to eliminate the disease.
+
+=== reveal If you’re vaccinated, why does it matter whether other people are too?
+Because of **herd immunity**, or community immunity. When a large enough share of a population is immune, a pathogen can’t spread easily from person to person, so even people who can’t be vaccinated, like newborn babies, people with weakened immune systems and some people with certain medical conditions, are indirectly protected. The share needed depends on how contagious the disease is. Measles is extremely contagious, so around **95%** of people need to be immune to stop outbreaks. When vaccination rates fall below that level, outbreaks can return, as has happened in several countries in recent years.
+
+=== keypoints
+- The **immune system** defends against **pathogens** using **barriers**, the **innate** system and the **adaptive** system.
+- **Innate** defences include **inflammation**, **phagocytes** (Metchnikoff, 1882) and **fever**: fast but general.
+- **Adaptive** defences use **B cells** (antibodies) and **T cells** (helper and killer): slower at first but highly specific.
+- **Memory cells** allow a faster, stronger response if a pathogen returns.
+- **Vaccines** train the adaptive immune system safely; **Jenner (1796)** pioneered vaccination after earlier **variolation** in India, China and elsewhere.
+- **Smallpox** was eradicated in **1980**; India was certified **polio-free** in **2014**.
+- **Herd immunity** protects those who can’t be vaccinated; measles needs about **95%** immunity.
+
+=== why
+Your immune system protects you every day, mostly without your noticing. Understanding how it works helps you make informed decisions about vaccines, recognise when an infection needs medical attention and appreciate one of medicine’s greatest achievements: protecting billions of people through vaccination. The next lesson looks at what happens when the immune system goes wrong.
+
+##### LESSON
+id: biology.immune.2
+title: When Immunity Misfires, and How Vaccines Are Proven
+minutes: 15
+disclaimer: health
+prereq: biology.immune.1
+check: In your own words: what are allergies and autoimmune diseases, how does HIV damage the immune system, and how are new vaccines tested for safety and effectiveness?
+
+=== hook
+In the 1990s, a Hungarian-born biochemist named **Katalin Karikó** spent years trying to use **messenger RNA** (mRNA) as a medicine. The idea was elegant: give cells mRNA instructions and they’d make useful proteins themselves. But injected mRNA triggered dangerous inflammation. Her grant applications were repeatedly rejected; she was demoted at her university.
+
+Working with the immunologist **Drew Weissman**, she discovered in **2005** that a small chemical change to mRNA let it slip past the immune system’s alarm. Fifteen years later, that finding enabled the rapid development of **mRNA vaccines against COVID-19**, given to hundreds of millions of people. Karikó and Weissman won the **2023 Nobel Prize** in Physiology or Medicine. Their story is about both the power of the immune system and the difficulty of working with it.
+
+=== core
+In the previous lesson, you saw how the immune system defends the body. But the immune system is powerful and complex, and it can go wrong in three main ways:
+
+1. **Overreacting** to harmless things: **allergies**.
+2. **Attacking the body itself**: **autoimmune diseases**.
+3. **Failing to respond properly**: **immunodeficiency**.
+
+Understanding these failures has led to major treatments, and the same knowledge underpins modern vaccines and cancer therapies.
+
+=== text Allergies: false alarms
+An **allergy** is an immune overreaction to a normally harmless substance, called an **allergen**, such as pollen, dust mites, pet dander, certain foods or insect stings.
+
+In allergic people, the immune system produces a type of antibody called **IgE** against the allergen. On later exposure, IgE triggers immune cells to release chemicals like **histamine**, causing symptoms: sneezing, itchy eyes, rashes, swelling or wheezing. **Antihistamine** medicines block some of these effects.
+
+In severe cases, a whole-body reaction called **anaphylaxis** can cause swelling of the airways and a dangerous drop in blood pressure. It’s a medical emergency, treated with an injection of **adrenaline** (epinephrine), and people at risk often carry auto-injectors.
+
+Allergies have become more common in many countries over recent decades. One explanation, the **hygiene hypothesis**, suggested that less exposure to germs in early childhood leaves the immune system poorly “trained”. Scientists now favour a refined version, sometimes called the **old friends hypothesis**: reduced contact with the diverse, mostly harmless microbes humans evolved alongside, in soil, animals and diverse diets, may disrupt immune regulation. Good hygiene against harmful germs still matters.
+
+=== text Autoimmune diseases: friendly fire
+The immune system normally learns to tolerate the body’s own cells, removing lymphocytes that react against “self” during development. Sometimes this tolerance fails, and the immune system attacks the body’s own tissues. These are **autoimmune diseases**, and there are dozens of them:
+
+- **Type 1 diabetes**: the immune system destroys insulin-producing cells in the pancreas. (Type 2 diabetes, which is far more common, is mostly a different condition, linked to insulin resistance.)
+- **Rheumatoid arthritis**: attacks the lining of joints, causing pain and swelling.
+- **Multiple sclerosis**: attacks the protective coating of nerve fibres in the brain and spinal cord.
+- **Coeliac disease**: an immune reaction to gluten damages the small intestine.
+
+Autoimmune diseases are more common in women, for reasons not fully understood. Treatments often involve suppressing or redirecting immune activity.
+
+=== text HIV: an attack on the immune system itself
+The **human immunodeficiency virus (HIV)**, identified in the early 1980s, infects and destroys **helper T cells**, the coordinators of the immune response. Over years, without treatment, their numbers fall until the body can no longer fight off infections it would normally control. This advanced stage is called **AIDS** (acquired immunodeficiency syndrome).
+
+HIV has caused one of the deadliest pandemics in modern history, with tens of millions of deaths worldwide. But treatment has transformed it. **Antiretroviral therapy (ART)**, introduced in effective combinations in the mid-1990s, keeps the virus suppressed. People living with HIV who receive effective treatment can expect a near-normal lifespan, and, when the virus is suppressed to undetectable levels, they **cannot transmit** it sexually, a principle known as “undetectable equals untransmittable”. India’s generic drug manufacturers played a major role in making antiretroviral drugs affordable for developing countries in the 2000s.
+
+=== callout analogy
+Think of the immune system as a security system for a building. Allergies are like an alarm that goes off every time a leaf blows past the window. Autoimmune disease is like the security guards mistaking the building’s own staff for intruders and attacking them. HIV is like an intruder who specifically targets the security control room, disabling the coordinators so the building becomes defenceless against everything else.
+
+=== steps How a new vaccine is tested
+- **Preclinical research**: the vaccine is tested in laboratory studies and animals for safety and immune response.
+- **Phase I trial**: given to a small number of healthy volunteers, often tens of people, mainly to check safety and the right dose.
+- **Phase II trial**: given to hundreds of people, including different age groups, to study safety and immune responses further.
+- **Phase III trial**: given to thousands or tens of thousands of people, randomly assigned to receive either the vaccine or a placebo. Researchers compare how many people in each group get the disease, measuring **effectiveness**, and watch for less common side effects.
+- **Regulatory review**: independent regulators, like India’s **CDSCO**, the US **FDA** or the UK **MHRA**, review the data before approving the vaccine.
+- **Ongoing monitoring**: after approval, safety monitoring systems continue tracking very rare side effects across millions of people.
+- COVID-19 vaccines were developed unusually fast because of years of earlier research (including on mRNA), huge funding, running trial phases in overlapping fashion and manufacturing doses before approval, rather than skipping safety steps.
+
+=== text Vaccine safety and misinformation
+Like all medicines, vaccines can cause side effects. Most are mild and short-lived, like a sore arm or brief fever. Serious side effects do occur but are **rare**, and safety monitoring systems exist to detect them.
+
+Misinformation has caused real harm. In **1998**, a British doctor named **Andrew Wakefield** published a study in *The Lancet* claiming a link between the MMR (measles, mumps and rubella) vaccine and autism. Large studies involving millions of children found **no such link**. Investigations revealed the study was fraudulent and that Wakefield had undisclosed financial conflicts of interest. The journal retracted the paper in **2010**, and he was struck off the UK medical register. But the scare reduced vaccination rates in several countries, contributing to measles outbreaks.
+
+=== reveal Can the immune system be used to fight cancer?
+Yes, and this has become one of the most exciting areas of medicine. Cancer cells often escape the immune system by exploiting natural “brakes”, called **checkpoints**, that normally stop immune cells from attacking healthy tissue. **Checkpoint inhibitor** drugs release these brakes, letting killer T cells attack cancer. **James Allison** and **Tasuku Honjo** won the **2018 Nobel Prize** for discoveries leading to these treatments, which have dramatically improved outcomes for some patients with cancers like advanced melanoma. Another approach, **CAR-T therapy**, genetically modifies a patient’s own T cells to recognise their cancer. India approved its first domestically developed CAR-T therapy in **2023**, at a fraction of the cost of therapies abroad. These treatments don’t work for everyone and can have serious side effects, but they’ve opened a new front against cancer.
+
+=== keypoints
+- **Allergies** are overreactions to harmless **allergens**, involving **IgE** and **histamine**; **anaphylaxis** is an emergency treated with **adrenaline**.
+- The **old friends hypothesis** links reduced exposure to diverse microbes to rising allergies.
+- **Autoimmune diseases**, like type 1 diabetes and rheumatoid arthritis, occur when the immune system attacks the body.
+- **HIV** destroys **helper T cells**; **antiretroviral therapy** allows near-normal lifespans, and undetectable means untransmittable.
+- Vaccines pass **preclinical**, **Phase I–III** trials and **regulatory review**, then ongoing monitoring.
+- **Karikó and Weissman’s** mRNA work (Nobel 2023) enabled COVID-19 vaccines; **Wakefield’s** autism claim was **fraudulent** and retracted.
+- **Immunotherapy**, like checkpoint inhibitors and **CAR-T**, harnesses the immune system against cancer.
+
+=== why
+Allergies, autoimmune conditions, HIV and vaccines affect millions of people and generate many questions and myths. Understanding how the immune system can misfire, and how vaccines are tested, helps you make informed health decisions, support people with these conditions and evaluate health claims critically.
+
+##### LESSON
+id: biology.microbes.1
+title: The Invisible Majority
+minutes: 15
+check: In your own words: what are the main types of microbes, how was germ theory established, and why are most microbes helpful rather than harmful?
+
+=== hook
+In the 1670s, a Dutch cloth merchant named **Antonie van Leeuwenhoek**, who made his own powerful single-lens microscopes as a hobby, looked at a drop of pond water and saw it teeming with tiny moving creatures. He called them **animalcules**, “little animals”. He later scraped plaque from his own teeth and found even more, writing that there were more living creatures in his mouth than there were people in the Netherlands.
+
+He was the first person to see bacteria. For most of history, humans had no idea that they shared their world, and their bodies, with an invisible majority of living things. Today we know microbes outnumber every other form of life on Earth, and that without them, life as we know it would collapse.
+
+=== core
+**Microbes** (or microorganisms) are living things too small to see with the naked eye. The main groups include:
+
+- **Bacteria**: single-celled organisms without a nucleus (prokaryotes, as you saw in the cells lessons). They live almost everywhere: in soil, water, air, inside other organisms, and in extreme environments like boiling springs and deep-sea vents.
+- **Archaea**: also single-celled prokaryotes, but genetically very different from bacteria; many live in extreme environments.
+- **Fungi**: include single-celled **yeasts** and multicellular moulds, which also form part of the microbial world.
+- **Protists**: a diverse group of mostly single-celled organisms with a nucleus, such as amoebas and the parasite that causes malaria.
+- **Viruses**: much smaller than bacteria. They aren’t made of cells and can’t reproduce on their own; they must infect a host cell and hijack its machinery to make copies of themselves. Whether viruses count as “alive” is debated.
+
+=== text Germ theory: a revolution in medicine
+For centuries, many people believed diseases were caused by **miasma**, “bad air” from rotting matter, or by imbalances in the body. Microscopes revealed microbes, but linking them to disease took much longer.
+
+- In **1847**, the Hungarian doctor **Ignaz Semmelweis**, working in Vienna, noticed that women giving birth in a ward attended by doctors, who came straight from performing autopsies, died of fever far more often than in a ward run by midwives. When he made doctors wash their hands in a chlorine solution, deaths dropped dramatically. But many colleagues rejected his ideas, and he died in an asylum in 1865.
+- In **1854**, during a cholera outbreak in London, the doctor **John Snow** mapped cases and traced many to a single water pump on Broad Street. He persuaded officials to remove the pump’s handle. His work, a founding moment in **epidemiology**, suggested cholera spread through contaminated water.
+- In the 1860s, the French chemist **Louis Pasteur** showed that microbes cause fermentation and spoilage, and that they come from other microbes rather than appearing spontaneously. He developed **pasteurisation**, heating liquids to kill harmful microbes.
+- In the 1870s and 1880s, the German doctor **Robert Koch** identified the specific bacteria causing **anthrax**, **tuberculosis** (in 1882) and **cholera**, and set out criteria for proving a microbe causes a disease.
+
+**Germ theory**, the idea that specific microbes cause specific infectious diseases, transformed medicine and public health. It led to antiseptic surgery, clean water systems, sanitation, vaccines and antibiotics, saving countless millions of lives.
+
+=== callout analogy
+Before germ theory, fighting disease was like trying to stop a burglar you couldn’t see, couldn’t name and didn’t know existed. People blamed bad air, bad luck or bad morals. Germ theory was like switching on the lights: suddenly, specific culprits could be identified, tracked and stopped, with handwashing, clean water and later vaccines and medicines.
+
+=== text Microbes: mostly friends
+Despite their reputation, only a tiny fraction of microbes cause disease. Most are harmless or essential:
+
+- **Oxygen**: around **2.4 billion years ago**, photosynthetic bacteria called **cyanobacteria** began releasing so much oxygen that it transformed Earth’s atmosphere, an event called the **Great Oxidation Event**. The oxygen you breathe exists largely thanks to microbes. Microscopic marine organisms still produce a large share of the world’s oxygen today.
+- **Recycling**: bacteria and fungi break down dead plants and animals, returning nutrients to the soil. Without decomposers, the world would be buried in waste.
+- **Nitrogen fixation**: plants need nitrogen, but can’t use nitrogen gas from the air directly. Certain bacteria, some living in the roots of legumes like peas, beans and lentils, convert it into usable forms, fertilising soil naturally.
+- **Food**: microbes ferment foods humans have enjoyed for thousands of years: yeast makes bread rise; bacteria turn milk into **curd (dahi)** and yoghurt; fermentation produces **idli** and **dosa** batter, cheese, kimchi, soy sauce, vinegar and pickles.
+- **Medicine and industry**: microbes produce antibiotics, insulin (genetically engineered bacteria have produced human insulin since the 1980s) and enzymes for detergents and food processing.
+
+=== text Your microbiome
+Your body is home to trillions of microbes, especially in your gut, collectively called your **microbiome**. A widely cited 2016 estimate suggests the average person carries around **38 trillion** bacteria, roughly similar to the number of human cells in the body.
+
+Gut microbes help digest fibre that human enzymes can’t break down, produce certain vitamins, train the immune system and protect against harmful microbes by occupying space and resources. Research suggests the microbiome may influence many aspects of health, from digestion and immunity to possibly mood, though much is still being studied, and many popular claims run ahead of the evidence.
+
+=== steps How viruses reproduce
+- A virus is essentially genetic material (DNA or RNA) packaged in a protein coat, sometimes with an outer envelope.
+- It attaches to a specific type of host cell, by binding to molecules on the cell’s surface, like a key fitting a lock. This is why many viruses only infect certain species or tissues.
+- It enters the cell and releases its genetic material.
+- The virus’s genes hijack the cell’s machinery, making it produce viral proteins and copies of the viral genome.
+- New virus particles assemble inside the cell.
+- They are released, often damaging or killing the cell, and go on to infect other cells. Antibiotics don’t work against viruses, because viruses don’t have the bacterial structures antibiotics target.
+
+=== reveal Can viruses ever be useful?
+Yes. Viruses that infect bacteria, called **bacteriophages** (or phages), are the most abundant biological entities on Earth, playing a major role in controlling bacterial populations in oceans and soil. They were discovered in the early 20th century, partly through observations of rivers in India: in **1896**, the British bacteriologist **Ernest Hankin** noticed that water from the Ganges and Yamuna seemed to have a mysterious ability to kill cholera bacteria. Today, researchers are exploring **phage therapy**, using phages to treat bacterial infections resistant to antibiotics. Viruses have also been engineered into tools for gene therapy and vaccines. And remarkably, around **8%** of the human genome consists of remnants of ancient viruses that infected our ancestors.
+
+=== keypoints
+- **Microbes** include **bacteria**, **archaea**, **fungi**, **protists** and **viruses**; viruses need host cells to reproduce.
+- **Leeuwenhoek** first saw bacteria in the **1670s**.
+- **Semmelweis** (handwashing, 1847), **Snow** (cholera, 1854), **Pasteur** and **Koch** established **germ theory**.
+- Most microbes are helpful: they produced much of Earth’s **oxygen**, **recycle** nutrients, **fix nitrogen** and ferment **foods** like curd and idli.
+- The human **microbiome** contains around **38 trillion** bacteria, roughly matching human cell numbers.
+- Viruses hijack host cells; **antibiotics don’t work against viruses**.
+- **Bacteriophages** infect bacteria and may help treat resistant infections.
+
+=== why
+Microbes shape your health, your food, the air you breathe and the soil that grows your crops. Understanding them explains why handwashing and clean water save lives, why antibiotics don’t cure colds and why the microbial world is mostly a friend, not an enemy. The next lesson looks at the dark side: antibiotic resistance and pandemics.

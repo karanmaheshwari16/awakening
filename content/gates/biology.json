@@ -1,0 +1,34 @@
+[
+  {
+    "id": "biology.gate.1",
+    "region": "biology",
+    "tier": 1,
+    "title": "From Gene to Survival",
+    "question": "Sickle cell disease is caused by a single change in one gene, yet the gene is common in regions where malaria has been widespread. Using what you have learned about cells, DNA and inheritance, evolution, the immune system and microbes, explain how one DNA change affects the body, why it is inherited the way it is, and why natural selection has kept it common.",
+    "links": ["cells", "dna", "evolution", "immune", "microbes"],
+    "model_answer": "Genes carry instructions for proteins. In sickle cell disease, a single change in the DNA sequence of the gene for part of haemoglobin changes one codon, so one amino acid in the protein is different. That altered haemoglobin can clump together when oxygen is low, distorting red blood cells into a rigid sickle shape. These cells block small blood vessels and break down early, causing pain, anaemia and organ damage.\n\nPeople inherit two copies of the gene, one from each parent. The sickle allele is recessive for the disease: someone with one normal and one sickle copy is a carrier who usually has no serious symptoms, while someone with two sickle copies has the disease. If two carriers have a child, there is a 25 percent chance with each pregnancy that the child inherits two sickle copies.\n\nMalaria is caused by a single-celled parasite, carried by mosquitoes, that lives part of its life inside red blood cells. Carriers of one sickle copy are significantly protected against severe malaria, likely because infected red blood cells sickle and are cleared, which limits the parasite. In regions where malaria killed many children, carriers were more likely to survive and have children, so natural selection kept the allele common even though two copies cause disease. This is heterozygote advantage: the balance between the benefit to carriers and the cost to those with two copies.\n\nThis also explains why the gene is common in parts of Africa, India and the Middle East, why carrier screening matters, and why new treatments such as CRISPR-based therapies are being developed.",
+    "key_points": [
+      "One DNA change alters one amino acid in haemoglobin, causing red cells to sickle.",
+      "Two copies are inherited; carriers (one copy) are usually healthy; two carriers have a 25% chance per child of an affected child.",
+      "Malaria is caused by a parasite that lives in red blood cells.",
+      "Carriers are protected against severe malaria, so selection keeps the allele common (heterozygote advantage).",
+      "This links genetics, evolution, infection and modern screening or gene therapy."
+    ]
+  },
+  {
+    "id": "biology.gate.2",
+    "region": "biology",
+    "tier": 2,
+    "title": "One Health",
+    "question": "Experts warn that deforestation, wildlife trade and heavy antibiotic use on farms increase the risk of future pandemics and untreatable infections. Using what you have learned about evolution, microbes, the immune system and ecosystems, explain the biological reasons behind this warning and propose a set of actions that address it.",
+    "links": ["microbes", "ecosystems", "evolution", "immune"],
+    "model_answer": "Most new infectious diseases are zoonotic: they jump from animals to people. Deforestation and habitat destruction push people and livestock into closer contact with wildlife that carries viruses humans have never encountered, while the wildlife trade brings stressed animals of many species together in crowded markets. Each contact is an opportunity for a virus to spill over. If it can spread between people and its reproduction number is above one, dense cities and global travel can turn an outbreak into a pandemic. Human immune systems have no memory cells for a genuinely new virus, so a first wave can be severe until vaccines or immunity build up.\n\nAntibiotics on farms create a different but related danger. Antibiotics do not create resistance but select for bacteria that already carry resistance mutations; using them routinely in large numbers of animals, sometimes just to promote growth, applies constant selection pressure. Resistant bacteria multiply and can share resistance genes via plasmids, then reach people through food, water and the environment, making infections harder to treat.\n\nEcosystems matter too: intact, biodiverse ecosystems help regulate populations of animals and pathogens, and their destruction disrupts these balances.\n\nActions in a One Health approach: protect and restore forests and habitats; regulate and reduce high-risk wildlife trade; monitor diseases in wildlife, livestock and people and share data internationally; ban antibiotics as growth promoters and require prescriptions; strengthen infection control and vaccination; invest in new antibiotics and rapid diagnostics; and coordinate doctors, vets and ecologists.",
+    "key_points": [
+      "Most new diseases are zoonotic; habitat loss and wildlife trade increase spillover chances.",
+      "New pathogens meet immune systems with no memory, and spread if R is above one.",
+      "Farm antibiotic use selects for resistant bacteria, which can share genes and reach people.",
+      "Healthy ecosystems help regulate animal and pathogen populations.",
+      "One Health actions: protect habitats, regulate trade, surveillance, antibiotic stewardship, vaccines and new drugs."
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "id": "biology.dna.1",
+  "region": "biology",
+  "topic": "dna",
+  "level": 1,
+  "prerequisites": [],
+  "title": "DNA: The Code of Life",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **May 1952**, at King’s College London, a PhD student named **Raymond Gosling**, working under the chemist **Rosalind Franklin**, captured an X-ray image of DNA after many hours of exposure. Known as **Photo 51**, it showed a striking X-shaped pattern that, to a trained eye, revealed that DNA was a **helix**.\n\nIn early 1953, without Franklin’s knowledge, her colleague **Maurice Wilkins** showed the image to **James Watson**, who was working with **Francis Crick** at Cambridge on DNA’s structure. Along with data from a report summarising Franklin’s research, it helped them build their famous model of the **double helix**, published in April 1953. Watson, Crick and Wilkins shared the 1962 Nobel Prize. Franklin had died of cancer in 1958, aged 37; Nobel Prizes are not awarded posthumously. Her crucial contribution was long underplayed."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**DNA** (deoxyribonucleic acid) is the molecule that carries the genetic instructions for building and running every living organism, from bacteria to blue whales.\n\nIts structure is the famous **double helix**: two long strands twisted around each other like a spiral staircase or a twisted ladder.\n\n- The **sides** of the ladder are made of alternating sugar and phosphate molecules.\n- The **rungs** are made of pairs of chemical units called **bases**. There are four: **adenine (A)**, **thymine (T)**, **cytosine (C)** and **guanine (G)**.\n- The bases pair up in a strict pattern: **A always pairs with T**, and **C always pairs with G**.\n\nThe genetic information is written in the **sequence** of bases along a strand, like letters in a very long sentence: ATTGCCATG…"
+    },
+    {
+      "type": "text",
+      "heading": "Why the pairing matters",
+      "md": "The strict pairing rule has a brilliant consequence, which Watson and Crick noted in a famously understated line in their 1953 paper: it immediately suggests a possible copying mechanism.\n\nBecause A always pairs with T and C with G, each strand contains all the information needed to rebuild the other. To copy DNA, the cell unzips the two strands, and each serves as a template for building a new partner strand. The result is two identical double helices, each containing one old strand and one new one. This is how DNA is copied before a cell divides, as you saw in the previous lesson."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of DNA as a zip whose two sides fit together only in one way: every A tooth on one side meets a T on the other, every C meets a G. Unzip it, and each half is enough to rebuild the whole zip, because you know exactly which tooth must go opposite each one. That’s why DNA can be copied so accurately."
+    },
+    {
+      "type": "text",
+      "heading": "From gene to protein",
+      "md": "A **gene** is a section of DNA that contains the instructions for making a particular product, usually a **protein**. Proteins do most of the work in cells: they form structures like muscle fibres and hair, act as enzymes that speed up chemical reactions, carry oxygen in the blood (haemoglobin), fight infection (antibodies) and send signals (some hormones).\n\nFrancis Crick described the flow of genetic information as the **central dogma** of molecular biology: **DNA → RNA → protein**."
+    },
+    {
+      "type": "steps",
+      "title": "How a cell reads a gene",
+      "items": [
+        "**Transcription**: in the nucleus, the cell copies the gene’s DNA sequence into a similar molecule called **messenger RNA (mRNA)**. RNA uses a base called uracil (U) instead of thymine.",
+        "The mRNA travels out of the nucleus to a **ribosome**, the protein-building machine you met earlier.",
+        "**Translation**: the ribosome reads the mRNA **three letters at a time**. Each three-letter “word” is called a **codon**.",
+        "Each codon specifies a particular **amino acid**, the building blocks of proteins, or a signal to stop. With four letters in groups of three, there are 64 possible codons, coding for **20** amino acids, so most amino acids have several codons.",
+        "The ribosome links amino acids together in the order specified, forming a long chain.",
+        "The chain folds into a complex 3D shape, which determines what the protein does. (Predicting this folding is the problem AlphaFold tackled, as you saw in the Technology region.)"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The human genome",
+      "md": "Your complete set of DNA is called your **genome**. The human genome contains about **3 billion** base pairs, divided among 23 pairs of chromosomes.\n\nIf you could stretch out the DNA in a single human cell end to end, it would be roughly **2 metres** long, packed into a nucleus only a few thousandths of a millimetre across, by being wound tightly around proteins.\n\nThe **Human Genome Project**, an international effort launched in 1990, published an essentially complete sequence of the human genome in **2003**, at a cost of around 3 billion dollars. Today, a person’s genome can be sequenced in a day or two for a few hundred dollars.\n\nThe project revealed surprises. Humans have only around **20,000** protein-coding genes, far fewer than many expected, similar to some much simpler animals. And only about **1–2%** of the genome directly codes for proteins. Much of the rest helps regulate when and where genes are switched on, while the function of some remains debated."
+    },
+    {
+      "type": "reveal",
+      "prompt": "How similar is your DNA to other people’s, and to other species?",
+      "md": "Any two humans share about **99.9%** of their DNA sequence; the differences that make each of us unique, along with differences between populations, lie in the remaining 0.1%, which still amounts to millions of base pairs. Most human genetic variation is found **within** populations rather than between them, which is one reason biologists consider traditional racial categories a poor description of human genetic diversity. Humans share roughly **98–99%** of their DNA with chimpanzees, our closest living relatives, depending on how it’s measured. And because all life shares a common ancestry, we share many genes with animals, plants and even yeast: some yeast genes can be replaced by their human versions and still work."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**DNA** is a **double helix** of two strands, with bases **A, T, C and G**; **A pairs with T**, **C with G**.",
+        "**Rosalind Franklin’s** X-ray work (**Photo 51**) was crucial to **Watson and Crick’s** 1953 model.",
+        "Base pairing allows DNA to be **copied** accurately: each strand is a template for the other.",
+        "A **gene** codes for a product, usually a **protein**; information flows **DNA → RNA → protein**.",
+        "Ribosomes read mRNA in three-letter **codons**, each specifying one of **20 amino acids**.",
+        "The human genome has about **3 billion** base pairs and around **20,000** protein-coding genes; only **1–2%** codes for proteins.",
+        "Any two humans share about **99.9%** of their DNA."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "DNA is the instruction manual for life, and understanding it underpins modern medicine, agriculture, forensics and our understanding of evolution and human history. It explains why children resemble their parents, how genetic diseases arise and how new technologies can read and even edit genes, as the next lesson explores."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the structure of DNA, how does the information in a gene get turned into a protein, and roughly how big is the human genome?"
+  }
+}

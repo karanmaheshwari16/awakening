@@ -1,0 +1,87 @@
+{
+  "id": "biology.cells.2",
+  "region": "biology",
+  "topic": "cells",
+  "level": 2,
+  "prerequisites": [
+    "biology.cells.1"
+  ],
+  "title": "How Cells Live, Divide and Die",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1951**, a 31-year-old African American woman named **Henrietta Lacks** was treated for cervical cancer at Johns Hopkins Hospital in Baltimore. Doctors took a sample of her tumour cells without her knowledge or consent, as was common practice then. She died later that year.\n\nHer cells did something no human cells had done before in a laboratory: they kept dividing, indefinitely. Known as **HeLa cells**, they have since been used in tens of thousands of studies, helping develop the polio vaccine, map human genes and study cancer and viruses. For decades, her family didn’t know. Her story transformed scientific understanding of cells, and debates about consent and fairness in medical research."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw what cells are made of. This lesson looks at how they work: how they get energy, how they make copies of themselves, and why they sometimes die on purpose.\n\nEvery cell needs a constant supply of energy to build molecules, move things around, pump substances across its membrane and divide. Cells don’t use food energy directly. They convert it into a universal energy currency: a molecule called **ATP** (adenosine triphosphate). When a cell needs energy, it breaks a chemical bond in ATP, releasing a small, convenient packet of energy.\n\nYour body uses ATP at an astonishing rate. Each day, it recycles roughly its **own body weight** in ATP, constantly rebuilding it from the broken-down form."
+    },
+    {
+      "type": "text",
+      "heading": "Cellular respiration: burning food slowly",
+      "md": "Most of your cells make ATP through **cellular respiration**, which happens largely in the **mitochondria**, the power stations you met in the previous lesson.\n\nIn simple terms:\n\n**glucose + oxygen → carbon dioxide + water + energy (ATP)**\n\nIt’s chemically similar to burning sugar, but instead of releasing all the energy at once as a flame, cells release it in many small, controlled steps, capturing much of it as ATP. Completely breaking down one molecule of glucose produces around **30 to 32 ATP** molecules.\n\nThat’s why you breathe in oxygen and breathe out carbon dioxide: your cells need oxygen to run respiration and produce carbon dioxide as waste. When you exercise hard and your muscles can’t get oxygen fast enough, they switch to a less efficient process that produces much less ATP per glucose."
+    },
+    {
+      "type": "text",
+      "heading": "Photosynthesis: the reverse",
+      "md": "Plants, algae and some bacteria capture energy from **sunlight** in their **chloroplasts**, using it to build glucose from carbon dioxide and water, releasing oxygen as a by-product:\n\n**carbon dioxide + water + light energy → glucose + oxygen**\n\nIt’s essentially respiration in reverse. Photosynthesis captures energy; respiration releases it. Together, they form a great cycle linking plants and animals: almost all the energy in the food you eat originally came from sunlight captured by photosynthesis, as you saw in the Physics region."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of glucose as a large banknote, and ATP as small coins. You can’t use a large banknote in a vending machine, so you exchange it for coins first. Cellular respiration is the exchange office, breaking down glucose into lots of small ATP “coins” that every machine in the cell accepts."
+    },
+    {
+      "type": "steps",
+      "title": "How a cell divides: mitosis",
+      "items": [
+        "Your body makes millions of new cells every second, to grow and to replace worn-out ones. Most body cells divide by **mitosis**, producing two identical copies.",
+        "**Copying**: before dividing, the cell copies all its DNA, so each new cell will get a full set.",
+        "**Condensing**: the long DNA strands coil tightly into compact **chromosomes**, visible under a microscope. Humans have **46** chromosomes, in 23 pairs.",
+        "**Lining up**: the chromosomes line up across the middle of the cell, attached to a system of protein fibres.",
+        "**Separating**: the fibres pull the copies apart, sending one complete set to each end of the cell.",
+        "**Splitting**: the cell pinches in two, creating two daughter cells, each with an identical set of 46 chromosomes.",
+        "A different kind of division, **meiosis**, makes eggs and sperm. It halves the chromosome number to 23 and shuffles genetic material, which is why siblings differ from each other."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Checkpoints and cancer",
+      "md": "Cell division is tightly controlled. Cells pass through **checkpoints**, molecular inspections that check for damaged DNA and other problems before allowing division to continue. If damage is found, the cell pauses to repair it, or triggers its own destruction.\n\nA protein called **p53**, sometimes nicknamed “the guardian of the genome”, plays a central role in this. It can halt division when DNA is damaged and trigger cell death if damage can’t be repaired.\n\n**Cancer** happens when cells accumulate mutations that break these controls, so they divide uncontrollably, ignore signals to stop and avoid self-destruction. Mutations in the gene for p53 are found in around **half** of all human cancers. Cancer cells can also invade nearby tissues and spread to other parts of the body, a process called **metastasis**. HeLa cells divide endlessly partly because they were infected with a virus, **HPV**, that disrupts these controls. HPV causes most cervical cancers, which is why HPV vaccination, now offered in many countries including India, can prevent them."
+    },
+    {
+      "type": "text",
+      "heading": "Cells that die on purpose",
+      "md": "It might seem strange, but cells sometimes deliberately destroy themselves. This **programmed cell death**, called **apoptosis**, is essential for health. An adult human body loses roughly **50 to 70 billion** cells each day through apoptosis.\n\nApoptosis removes damaged or potentially dangerous cells, like those with irreparable DNA damage. It also sculpts the body during development: human embryos initially have webbing between their fingers and toes, which disappears because those cells undergo apoptosis. Failure of apoptosis can contribute to cancer; too much can contribute to diseases like some neurodegenerative conditions."
+    },
+    {
+      "type": "reveal",
+      "prompt": "If every cell in your body has the same DNA, what are stem cells and why are scientists so interested in them?",
+      "md": "**Stem cells** are cells that haven’t yet specialised, and can divide to make more stem cells or develop into specialised cells. **Embryonic stem cells**, from very early embryos, can become almost any cell type. **Adult stem cells**, found in places like bone marrow, can make a narrower range: blood stem cells, for example, make all types of blood cells, which is why bone marrow transplants can treat leukaemia. In **2006**, the Japanese scientist **Shinya Yamanaka** found a way to reprogramme ordinary adult cells back into stem-cell-like cells, called **induced pluripotent stem cells**, avoiding the ethical debates around using embryos. He shared the 2012 Nobel Prize. Scientists hope stem cells may one day repair damaged tissues, like heart muscle or nerve cells, though many proposed treatments remain experimental, and unproven “stem cell clinics” are a concern in several countries."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Cells use **ATP** as their energy currency; the body recycles about its own weight in ATP daily.",
+        "**Cellular respiration** (mainly in mitochondria) converts glucose and oxygen into carbon dioxide, water and ATP (~30–32 ATP per glucose).",
+        "**Photosynthesis** in chloroplasts uses light to make glucose and oxygen: roughly respiration in reverse.",
+        "**Mitosis** produces two identical cells; **meiosis** produces eggs and sperm with half the chromosomes.",
+        "**Checkpoints** and proteins like **p53** control division; **cancer** arises when these controls break.",
+        "**Apoptosis** removes damaged cells and shapes the body; tens of billions of cells die this way daily.",
+        "**HeLa cells** (Henrietta Lacks, 1951) transformed research and raised lasting questions about **consent**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding how cells get energy, divide and die explains everything from why you need to breathe to how cancer develops and why HPV vaccines matter. It’s also the foundation for the next lessons on DNA and genes, the instructions that control all of these processes."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how do cells get usable energy from food, how does a cell divide, and why is uncontrolled cell division dangerous?"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "biology.microbes.1",
+  "region": "biology",
+  "topic": "microbes",
+  "level": 1,
+  "prerequisites": [],
+  "title": "The Invisible Majority",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1670s, a Dutch cloth merchant named **Antonie van Leeuwenhoek**, who made his own powerful single-lens microscopes as a hobby, looked at a drop of pond water and saw it teeming with tiny moving creatures. He called them **animalcules**, “little animals”. He later scraped plaque from his own teeth and found even more, writing that there were more living creatures in his mouth than there were people in the Netherlands.\n\nHe was the first person to see bacteria. For most of history, humans had no idea that they shared their world, and their bodies, with an invisible majority of living things. Today we know microbes outnumber every other form of life on Earth, and that without them, life as we know it would collapse."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Microbes** (or microorganisms) are living things too small to see with the naked eye. The main groups include:\n\n- **Bacteria**: single-celled organisms without a nucleus (prokaryotes, as you saw in the cells lessons). They live almost everywhere: in soil, water, air, inside other organisms, and in extreme environments like boiling springs and deep-sea vents.\n- **Archaea**: also single-celled prokaryotes, but genetically very different from bacteria; many live in extreme environments.\n- **Fungi**: include single-celled **yeasts** and multicellular moulds, which also form part of the microbial world.\n- **Protists**: a diverse group of mostly single-celled organisms with a nucleus, such as amoebas and the parasite that causes malaria.\n- **Viruses**: much smaller than bacteria. They aren’t made of cells and can’t reproduce on their own; they must infect a host cell and hijack its machinery to make copies of themselves. Whether viruses count as “alive” is debated."
+    },
+    {
+      "type": "text",
+      "heading": "Germ theory: a revolution in medicine",
+      "md": "For centuries, many people believed diseases were caused by **miasma**, “bad air” from rotting matter, or by imbalances in the body. Microscopes revealed microbes, but linking them to disease took much longer.\n\n- In **1847**, the Hungarian doctor **Ignaz Semmelweis**, working in Vienna, noticed that women giving birth in a ward attended by doctors, who came straight from performing autopsies, died of fever far more often than in a ward run by midwives. When he made doctors wash their hands in a chlorine solution, deaths dropped dramatically. But many colleagues rejected his ideas, and he died in an asylum in 1865.\n- In **1854**, during a cholera outbreak in London, the doctor **John Snow** mapped cases and traced many to a single water pump on Broad Street. He persuaded officials to remove the pump’s handle. His work, a founding moment in **epidemiology**, suggested cholera spread through contaminated water.\n- In the 1860s, the French chemist **Louis Pasteur** showed that microbes cause fermentation and spoilage, and that they come from other microbes rather than appearing spontaneously. He developed **pasteurisation**, heating liquids to kill harmful microbes.\n- In the 1870s and 1880s, the German doctor **Robert Koch** identified the specific bacteria causing **anthrax**, **tuberculosis** (in 1882) and **cholera**, and set out criteria for proving a microbe causes a disease.\n\n**Germ theory**, the idea that specific microbes cause specific infectious diseases, transformed medicine and public health. It led to antiseptic surgery, clean water systems, sanitation, vaccines and antibiotics, saving countless millions of lives."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Before germ theory, fighting disease was like trying to stop a burglar you couldn’t see, couldn’t name and didn’t know existed. People blamed bad air, bad luck or bad morals. Germ theory was like switching on the lights: suddenly, specific culprits could be identified, tracked and stopped, with handwashing, clean water and later vaccines and medicines."
+    },
+    {
+      "type": "text",
+      "heading": "Microbes: mostly friends",
+      "md": "Despite their reputation, only a tiny fraction of microbes cause disease. Most are harmless or essential:\n\n- **Oxygen**: around **2.4 billion years ago**, photosynthetic bacteria called **cyanobacteria** began releasing so much oxygen that it transformed Earth’s atmosphere, an event called the **Great Oxidation Event**. The oxygen you breathe exists largely thanks to microbes. Microscopic marine organisms still produce a large share of the world’s oxygen today.\n- **Recycling**: bacteria and fungi break down dead plants and animals, returning nutrients to the soil. Without decomposers, the world would be buried in waste.\n- **Nitrogen fixation**: plants need nitrogen, but can’t use nitrogen gas from the air directly. Certain bacteria, some living in the roots of legumes like peas, beans and lentils, convert it into usable forms, fertilising soil naturally.\n- **Food**: microbes ferment foods humans have enjoyed for thousands of years: yeast makes bread rise; bacteria turn milk into **curd (dahi)** and yoghurt; fermentation produces **idli** and **dosa** batter, cheese, kimchi, soy sauce, vinegar and pickles.\n- **Medicine and industry**: microbes produce antibiotics, insulin (genetically engineered bacteria have produced human insulin since the 1980s) and enzymes for detergents and food processing."
+    },
+    {
+      "type": "text",
+      "heading": "Your microbiome",
+      "md": "Your body is home to trillions of microbes, especially in your gut, collectively called your **microbiome**. A widely cited 2016 estimate suggests the average person carries around **38 trillion** bacteria, roughly similar to the number of human cells in the body.\n\nGut microbes help digest fibre that human enzymes can’t break down, produce certain vitamins, train the immune system and protect against harmful microbes by occupying space and resources. Research suggests the microbiome may influence many aspects of health, from digestion and immunity to possibly mood, though much is still being studied, and many popular claims run ahead of the evidence."
+    },
+    {
+      "type": "steps",
+      "title": "How viruses reproduce",
+      "items": [
+        "A virus is essentially genetic material (DNA or RNA) packaged in a protein coat, sometimes with an outer envelope.",
+        "It attaches to a specific type of host cell, by binding to molecules on the cell’s surface, like a key fitting a lock. This is why many viruses only infect certain species or tissues.",
+        "It enters the cell and releases its genetic material.",
+        "The virus’s genes hijack the cell’s machinery, making it produce viral proteins and copies of the viral genome.",
+        "New virus particles assemble inside the cell.",
+        "They are released, often damaging or killing the cell, and go on to infect other cells. Antibiotics don’t work against viruses, because viruses don’t have the bacterial structures antibiotics target."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can viruses ever be useful?",
+      "md": "Yes. Viruses that infect bacteria, called **bacteriophages** (or phages), are the most abundant biological entities on Earth, playing a major role in controlling bacterial populations in oceans and soil. They were discovered in the early 20th century, partly through observations of rivers in India: in **1896**, the British bacteriologist **Ernest Hankin** noticed that water from the Ganges and Yamuna seemed to have a mysterious ability to kill cholera bacteria. Today, researchers are exploring **phage therapy**, using phages to treat bacterial infections resistant to antibiotics. Viruses have also been engineered into tools for gene therapy and vaccines. And remarkably, around **8%** of the human genome consists of remnants of ancient viruses that infected our ancestors."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Microbes** include **bacteria**, **archaea**, **fungi**, **protists** and **viruses**; viruses need host cells to reproduce.",
+        "**Leeuwenhoek** first saw bacteria in the **1670s**.",
+        "**Semmelweis** (handwashing, 1847), **Snow** (cholera, 1854), **Pasteur** and **Koch** established **germ theory**.",
+        "Most microbes are helpful: they produced much of Earth’s **oxygen**, **recycle** nutrients, **fix nitrogen** and ferment **foods** like curd and idli.",
+        "The human **microbiome** contains around **38 trillion** bacteria, roughly matching human cell numbers.",
+        "Viruses hijack host cells; **antibiotics don’t work against viruses**.",
+        "**Bacteriophages** infect bacteria and may help treat resistant infections."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Microbes shape your health, your food, the air you breathe and the soil that grows your crops. Understanding them explains why handwashing and clean water save lives, why antibiotics don’t cure colds and why the microbial world is mostly a friend, not an enemy. The next lesson looks at the dark side: antibiotic resistance and pandemics."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the main types of microbes, how was germ theory established, and why are most microbes helpful rather than harmful?"
+  }
+}

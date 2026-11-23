@@ -1,0 +1,85 @@
+{
+  "id": "biology.ecosystems.2",
+  "region": "biology",
+  "topic": "ecosystems",
+  "level": 2,
+  "prerequisites": [
+    "biology.ecosystems.1"
+  ],
+  "title": "Biodiversity in Crisis, and the Fight to Save It",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the early **1970s**, in the hills of what is now Uttarakhand, villagers learned that their local forests had been allocated to commercial loggers. In **1973**, in the village of Mandal, and later in other villages like Reni, people, many of them women led by figures such as **Gaura Devi**, protected the trees by putting themselves between the trees and the loggers, hugging the trunks.\n\nThe **Chipko movement**, from the Hindi word for “to stick” or “to cling”, spread across the region. It drew national attention to deforestation, helped lead to restrictions on tree felling in the Himalayan forests, and became an inspiration for environmental movements worldwide. It showed that protecting nature is often about protecting people’s livelihoods too."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Biodiversity**, short for biological diversity, is the variety of life on Earth at every level: the diversity of **genes** within species, the diversity of **species**, and the diversity of **ecosystems**.\n\nScientists have described around **2 million** species, but estimates of the total number of species on Earth, most of them insects, fungi and microbes not yet described, range widely, often from around **8 million** to far more.\n\nBiodiversity matters for many reasons: it underpins the ecosystem services you met in the previous lesson, makes ecosystems more resilient to shocks, provides sources of food and medicine, and, for many people, has deep cultural, spiritual and ethical value in its own right."
+    },
+    {
+      "type": "text",
+      "heading": "The scale of the loss",
+      "md": "In **2019**, the **Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)**, an international scientific body sometimes called the IPCC for biodiversity, published a major global assessment. It estimated that around **1 million** animal and plant species are threatened with extinction, many within decades, unless action is taken.\n\nThe **Living Planet Index**, published by WWF and the Zoological Society of London, tracks thousands of populations of vertebrate animals. Its **2024** report found an average decline of about **73%** in the size of monitored wildlife populations since **1970**. This doesn’t mean 73% of animals or species have disappeared; it means that, on average, the tracked populations have shrunk by that much, with some growing and many shrinking sharply. Freshwater species showed especially steep declines."
+    },
+    {
+      "type": "text",
+      "heading": "Five main drivers",
+      "md": "The IPBES assessment identified five main direct drivers of biodiversity loss, in roughly this order of global impact:\n\n1. **Changes in land and sea use**: clearing forests, grasslands and wetlands for farming, cities, mining and infrastructure. This is the biggest driver on land.\n2. **Direct exploitation**: overfishing, hunting, poaching and logging. This is the biggest driver in the oceans.\n3. **Climate change**: shifting temperatures and rainfall patterns, ocean warming and acidification; coral reefs are particularly vulnerable.\n4. **Pollution**: plastics, pesticides, fertiliser run-off and other chemicals.\n5. **Invasive species**: plants, animals and diseases moved by humans into new places, where they outcompete or prey on native species.\n\nBehind these direct drivers lie deeper causes: growing populations and consumption, economic systems that don’t value nature, and weak governance."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of an ecosystem as an aeroplane held together by thousands of rivets, each a species. Removing a few rivets might make no visible difference. But keep removing them, and at some point, often unpredictably, a crucial one goes and the plane fails. This analogy, proposed by the ecologists Paul and Anne Ehrlich, captures why scientists worry about losing species even when the immediate effects aren’t obvious."
+    },
+    {
+      "type": "text",
+      "heading": "A sixth mass extinction?",
+      "md": "Over Earth’s history, there have been **five mass extinctions**, when a large share of species disappeared in a geologically short time. The most famous, about **66 million years ago**, wiped out the non-bird dinosaurs, most likely after an asteroid impact.\n\nMany scientists warn that current extinction rates are far above natural background rates, and that we may be entering a **sixth mass extinction**, driven by humans. Others argue that, measured by the share of species already lost, we aren’t there yet, but that current trends could lead there. Either way, the rate of loss is widely seen as alarming. The **dodo**, a flightless bird on Mauritius, became extinct by the late 1600s, within a century of humans arriving, and became a symbol of human-caused extinction."
+    },
+    {
+      "type": "steps",
+      "title": "Conservation successes",
+      "items": [
+        "**Asiatic lions**: by the early 20th century, perhaps only a few dozen remained, in India’s **Gir** forest in Gujarat. Protection helped numbers recover to around **670** by **2020**, and further since, though having nearly all of them in one region leaves them vulnerable to disease or disaster.",
+        "**Tigers**: as you saw in the previous lesson, India’s tiger population has grown substantially since Project Tiger began.",
+        "**Whales**: after the international moratorium on commercial whaling in **1986**, some species, like humpback whales, have recovered strongly in many regions.",
+        "**The ozone layer**: although not a species, the **Montreal Protocol** of **1987**, which phased out ozone-destroying chemicals, is widely considered the most successful international environmental agreement, and the ozone layer is slowly healing, protecting all life from harmful UV radiation.",
+        "**Protected areas and community conservation**: many successes come from involving local and Indigenous communities, who manage a large share of the world’s remaining biodiversity, as Elinor Ostrom’s work in the Economics region suggested."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Global goals and hard choices",
+      "md": "In **December 2022**, nearly 200 countries adopted the **Kunming-Montreal Global Biodiversity Framework**, including a target known as **“30 by 30”**: protecting **30%** of the world’s land and oceans by **2030**, along with goals to restore degraded ecosystems, reduce pollution and cut harmful subsidies.\n\nConservation also involves difficult trade-offs and debates:\n\n- How to protect wildlife without displacing **local and tribal communities** whose livelihoods depend on forests. India’s **Forest Rights Act** of 2006 recognised the rights of forest-dwelling communities, and its implementation is still debated.\n- Whether bold interventions work. India’s **Project Cheetah**, which brought cheetahs from Namibia and South Africa to **Kuno National Park** from **2022**, aims to restore a species that went extinct in India in the mid-20th century. Supporters see it as ambitious restoration; critics questioned the habitat and noted that several cheetahs died. Its long-term success is still uncertain.\n- How to balance economic development and conservation, especially in lower-income countries."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What can individuals actually do about biodiversity loss?",
+      "md": "Individual actions are small compared with policy and economic change, but they add up and influence wider change. Options include reducing **food waste**, since farming is the biggest driver of habitat loss; choosing **sustainably produced** food, timber and seafood where possible; eating less meat, especially from sources linked to deforestation, since livestock farming uses a large share of agricultural land; avoiding products from illegally traded wildlife; planting **native** species and reducing pesticide use in gardens to support pollinators; supporting conservation organisations; and, perhaps most powerfully, engaging as a citizen and voter on environmental policies. Learning about local ecosystems and sharing that knowledge also matters: people protect what they understand and care about."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Biodiversity** is the variety of life at the level of **genes**, **species** and **ecosystems**.",
+        "**IPBES (2019)** estimated around **1 million** species threatened with extinction.",
+        "The **Living Planet Index (2024)** found an average **73%** decline in monitored vertebrate populations since **1970**.",
+        "Main drivers: **land and sea use change**, **direct exploitation**, **climate change**, **pollution** and **invasive species**.",
+        "Scientists debate whether a **sixth mass extinction** is under way; current extinction rates are far above natural levels.",
+        "Successes include **Asiatic lions**, **tigers**, **whales** and the **Montreal Protocol**; community-based conservation matters.",
+        "The **Kunming-Montreal framework (2022)** set the **30 by 30** target; conservation involves trade-offs, as with **Project Cheetah** and forest rights."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Biodiversity loss is one of the defining challenges of this century, closely linked to climate change, food security and human wellbeing. Understanding its causes and the evidence for what works helps you engage with conservation debates thoughtfully, recognise both the scale of the problem and the real possibility of recovery, and see your own choices in a wider context."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are the main drivers of biodiversity loss, what does the Living Planet Index measure, and what are two examples of successful conservation?"
+  }
+}

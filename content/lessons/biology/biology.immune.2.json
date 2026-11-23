@@ -1,0 +1,87 @@
+{
+  "id": "biology.immune.2",
+  "region": "biology",
+  "topic": "immune",
+  "level": 2,
+  "prerequisites": [
+    "biology.immune.1"
+  ],
+  "title": "When Immunity Misfires, and How Vaccines Are Proven",
+  "estimated_minutes": 15,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the 1990s, a Hungarian-born biochemist named **Katalin Karikó** spent years trying to use **messenger RNA** (mRNA) as a medicine. The idea was elegant: give cells mRNA instructions and they’d make useful proteins themselves. But injected mRNA triggered dangerous inflammation. Her grant applications were repeatedly rejected; she was demoted at her university.\n\nWorking with the immunologist **Drew Weissman**, she discovered in **2005** that a small chemical change to mRNA let it slip past the immune system’s alarm. Fifteen years later, that finding enabled the rapid development of **mRNA vaccines against COVID-19**, given to hundreds of millions of people. Karikó and Weissman won the **2023 Nobel Prize** in Physiology or Medicine. Their story is about both the power of the immune system and the difficulty of working with it."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw how the immune system defends the body. But the immune system is powerful and complex, and it can go wrong in three main ways:\n\n1. **Overreacting** to harmless things: **allergies**.\n2. **Attacking the body itself**: **autoimmune diseases**.\n3. **Failing to respond properly**: **immunodeficiency**.\n\nUnderstanding these failures has led to major treatments, and the same knowledge underpins modern vaccines and cancer therapies."
+    },
+    {
+      "type": "text",
+      "heading": "Allergies: false alarms",
+      "md": "An **allergy** is an immune overreaction to a normally harmless substance, called an **allergen**, such as pollen, dust mites, pet dander, certain foods or insect stings.\n\nIn allergic people, the immune system produces a type of antibody called **IgE** against the allergen. On later exposure, IgE triggers immune cells to release chemicals like **histamine**, causing symptoms: sneezing, itchy eyes, rashes, swelling or wheezing. **Antihistamine** medicines block some of these effects.\n\nIn severe cases, a whole-body reaction called **anaphylaxis** can cause swelling of the airways and a dangerous drop in blood pressure. It’s a medical emergency, treated with an injection of **adrenaline** (epinephrine), and people at risk often carry auto-injectors.\n\nAllergies have become more common in many countries over recent decades. One explanation, the **hygiene hypothesis**, suggested that less exposure to germs in early childhood leaves the immune system poorly “trained”. Scientists now favour a refined version, sometimes called the **old friends hypothesis**: reduced contact with the diverse, mostly harmless microbes humans evolved alongside, in soil, animals and diverse diets, may disrupt immune regulation. Good hygiene against harmful germs still matters."
+    },
+    {
+      "type": "text",
+      "heading": "Autoimmune diseases: friendly fire",
+      "md": "The immune system normally learns to tolerate the body’s own cells, removing lymphocytes that react against “self” during development. Sometimes this tolerance fails, and the immune system attacks the body’s own tissues. These are **autoimmune diseases**, and there are dozens of them:\n\n- **Type 1 diabetes**: the immune system destroys insulin-producing cells in the pancreas. (Type 2 diabetes, which is far more common, is mostly a different condition, linked to insulin resistance.)\n- **Rheumatoid arthritis**: attacks the lining of joints, causing pain and swelling.\n- **Multiple sclerosis**: attacks the protective coating of nerve fibres in the brain and spinal cord.\n- **Coeliac disease**: an immune reaction to gluten damages the small intestine.\n\nAutoimmune diseases are more common in women, for reasons not fully understood. Treatments often involve suppressing or redirecting immune activity."
+    },
+    {
+      "type": "text",
+      "heading": "HIV: an attack on the immune system itself",
+      "md": "The **human immunodeficiency virus (HIV)**, identified in the early 1980s, infects and destroys **helper T cells**, the coordinators of the immune response. Over years, without treatment, their numbers fall until the body can no longer fight off infections it would normally control. This advanced stage is called **AIDS** (acquired immunodeficiency syndrome).\n\nHIV has caused one of the deadliest pandemics in modern history, with tens of millions of deaths worldwide. But treatment has transformed it. **Antiretroviral therapy (ART)**, introduced in effective combinations in the mid-1990s, keeps the virus suppressed. People living with HIV who receive effective treatment can expect a near-normal lifespan, and, when the virus is suppressed to undetectable levels, they **cannot transmit** it sexually, a principle known as “undetectable equals untransmittable”. India’s generic drug manufacturers played a major role in making antiretroviral drugs affordable for developing countries in the 2000s."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the immune system as a security system for a building. Allergies are like an alarm that goes off every time a leaf blows past the window. Autoimmune disease is like the security guards mistaking the building’s own staff for intruders and attacking them. HIV is like an intruder who specifically targets the security control room, disabling the coordinators so the building becomes defenceless against everything else."
+    },
+    {
+      "type": "steps",
+      "title": "How a new vaccine is tested",
+      "items": [
+        "**Preclinical research**: the vaccine is tested in laboratory studies and animals for safety and immune response.",
+        "**Phase I trial**: given to a small number of healthy volunteers, often tens of people, mainly to check safety and the right dose.",
+        "**Phase II trial**: given to hundreds of people, including different age groups, to study safety and immune responses further.",
+        "**Phase III trial**: given to thousands or tens of thousands of people, randomly assigned to receive either the vaccine or a placebo. Researchers compare how many people in each group get the disease, measuring **effectiveness**, and watch for less common side effects.",
+        "**Regulatory review**: independent regulators, like India’s **CDSCO**, the US **FDA** or the UK **MHRA**, review the data before approving the vaccine.",
+        "**Ongoing monitoring**: after approval, safety monitoring systems continue tracking very rare side effects across millions of people.",
+        "COVID-19 vaccines were developed unusually fast because of years of earlier research (including on mRNA), huge funding, running trial phases in overlapping fashion and manufacturing doses before approval, rather than skipping safety steps."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Vaccine safety and misinformation",
+      "md": "Like all medicines, vaccines can cause side effects. Most are mild and short-lived, like a sore arm or brief fever. Serious side effects do occur but are **rare**, and safety monitoring systems exist to detect them.\n\nMisinformation has caused real harm. In **1998**, a British doctor named **Andrew Wakefield** published a study in *The Lancet* claiming a link between the MMR (measles, mumps and rubella) vaccine and autism. Large studies involving millions of children found **no such link**. Investigations revealed the study was fraudulent and that Wakefield had undisclosed financial conflicts of interest. The journal retracted the paper in **2010**, and he was struck off the UK medical register. But the scare reduced vaccination rates in several countries, contributing to measles outbreaks."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can the immune system be used to fight cancer?",
+      "md": "Yes, and this has become one of the most exciting areas of medicine. Cancer cells often escape the immune system by exploiting natural “brakes”, called **checkpoints**, that normally stop immune cells from attacking healthy tissue. **Checkpoint inhibitor** drugs release these brakes, letting killer T cells attack cancer. **James Allison** and **Tasuku Honjo** won the **2018 Nobel Prize** for discoveries leading to these treatments, which have dramatically improved outcomes for some patients with cancers like advanced melanoma. Another approach, **CAR-T therapy**, genetically modifies a patient’s own T cells to recognise their cancer. India approved its first domestically developed CAR-T therapy in **2023**, at a fraction of the cost of therapies abroad. These treatments don’t work for everyone and can have serious side effects, but they’ve opened a new front against cancer."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Allergies** are overreactions to harmless **allergens**, involving **IgE** and **histamine**; **anaphylaxis** is an emergency treated with **adrenaline**.",
+        "The **old friends hypothesis** links reduced exposure to diverse microbes to rising allergies.",
+        "**Autoimmune diseases**, like type 1 diabetes and rheumatoid arthritis, occur when the immune system attacks the body.",
+        "**HIV** destroys **helper T cells**; **antiretroviral therapy** allows near-normal lifespans, and undetectable means untransmittable.",
+        "Vaccines pass **preclinical**, **Phase I–III** trials and **regulatory review**, then ongoing monitoring.",
+        "**Karikó and Weissman’s** mRNA work (Nobel 2023) enabled COVID-19 vaccines; **Wakefield’s** autism claim was **fraudulent** and retracted.",
+        "**Immunotherapy**, like checkpoint inhibitors and **CAR-T**, harnesses the immune system against cancer."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Allergies, autoimmune conditions, HIV and vaccines affect millions of people and generate many questions and myths. Understanding how the immune system can misfire, and how vaccines are tested, helps you make informed health decisions, support people with these conditions and evaluate health claims critically."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what are allergies and autoimmune diseases, how does HIV damage the immune system, and how are new vaccines tested for safety and effectiveness?"
+  }
+}

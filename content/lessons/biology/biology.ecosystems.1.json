@@ -1,0 +1,83 @@
+{
+  "id": "biology.ecosystems.1",
+  "region": "biology",
+  "topic": "ecosystems",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Ecosystems Work",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1995**, after an absence of about 70 years, grey wolves were reintroduced into **Yellowstone National Park** in the United States. Wolves had been hunted out of the park by the 1920s. Without them, elk populations had grown large, browsing heavily on young trees along rivers.\n\nAfter the wolves returned, elk numbers fell and their behaviour changed. Many scientists reported that in some areas, willows and aspens began to recover, providing habitat for birds and beavers. The story of wolves transforming Yellowstone became famous, though later research suggests the effects were real but more complex and patchy than the most popular versions claim, with other factors like bears, hunters and drought also playing a role. Either way, it showed how one species can ripple through an entire ecosystem."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "An **ecosystem** is a community of living things interacting with each other and with their physical environment, such as soil, water, air and climate. Ecosystems range from a small pond to a rainforest, a coral reef or a desert.\n\nEvery ecosystem depends on two fundamental processes:\n\n1. **Energy flows** through it, entering mostly as sunlight and leaving as heat.\n2. **Nutrients cycle** within it, being reused again and again.\n\nLiving things in an ecosystem can be grouped by how they get energy:\n\n- **Producers**: mainly plants, algae and some bacteria, which make their own food through photosynthesis, as you saw in the cells lessons.\n- **Consumers**: animals that eat other organisms. **Herbivores** eat plants; **carnivores** eat animals; **omnivores** eat both.\n- **Decomposers**: bacteria, fungi and other organisms that break down dead material and waste, returning nutrients to the soil."
+    },
+    {
+      "type": "text",
+      "heading": "Food chains and food webs",
+      "md": "A **food chain** shows a simple sequence of who eats whom: grass → deer → tiger. Each step is called a **trophic level**.\n\nReal ecosystems are far more complex, with many interconnected food chains forming a **food web**. Deer eat many plants; tigers eat deer, wild boar and other prey; birds, insects, fungi and microbes all play their part. Food webs show how a change to one species can affect many others."
+    },
+    {
+      "type": "text",
+      "heading": "The ten percent rule",
+      "md": "Energy is lost at every step up a food chain. When a deer eats grass, most of the energy in the grass doesn’t end up as deer: much is used for the deer’s movement, warmth and life processes, released as heat, as you saw in the Physics region, or lost in waste.\n\nOn average, only about **10%** of the energy at one trophic level is passed on to the next, a rough rule of thumb (the real figure varies, often from around 5% to 20%). So:\n\n- If plants capture **10,000** units of energy, herbivores might get about **1,000**.\n- Carnivores eating those herbivores might get about **100**.\n- Top predators might get about **10**.\n\nThis is why ecosystems usually have far more plants than herbivores, and far fewer top predators, forming an **energy pyramid**. It’s also why food chains rarely have more than four or five levels: there isn’t enough energy left at the top."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of energy in a food chain like money passed through a chain of middlemen who each spend 90% on their own running costs. Start with 10,000 rupees at the bottom, and by the fourth person, only 10 rupees remain. That’s why a forest can feed thousands of deer but only a handful of tigers."
+    },
+    {
+      "type": "text",
+      "heading": "Nutrient cycles",
+      "md": "Unlike energy, which flows through ecosystems, **nutrients** like carbon, nitrogen and phosphorus are **recycled**.\n\n- **The carbon cycle**: plants take in carbon dioxide during photosynthesis and build it into sugars. Animals eat plants, and both release carbon dioxide through respiration. Decomposers release carbon from dead material. Over millions of years, some carbon becomes buried as fossil fuels, which humans now release by burning, as you’ll see in the Earth & Climate region.\n- **The nitrogen cycle**: nitrogen gas makes up about 78% of the air, but most organisms can’t use it directly. Nitrogen-fixing bacteria, as you saw in the microbes lessons, convert it into forms plants can absorb. Decomposers return nitrogen to the soil, and other bacteria return it to the air."
+    },
+    {
+      "type": "text",
+      "heading": "Keystone species",
+      "md": "Some species have a much larger effect on their ecosystem than their numbers suggest. Ecologists call them **keystone species**, after the central stone in an arch that holds the others in place.\n\nIn the 1960s, the ecologist **Robert Paine** removed predatory **starfish** from a stretch of rocky shore in Washington State. Without them, mussels took over, crowding out many other species, and diversity fell sharply. He coined the term keystone species.\n\nAnother example: **sea otters** on the Pacific coast eat sea urchins. Where otters were hunted out, urchin populations exploded and devoured underwater **kelp forests**, which shelter many fish and other species. Where otters returned, kelp forests recovered.\n\nPredators like **tigers** in India are often considered keystone or “umbrella” species: protecting the large areas of forest they need also protects countless other species, and the rivers and water supplies that people depend on."
+    },
+    {
+      "type": "steps",
+      "title": "Protecting India’s tigers",
+      "items": [
+        "At the start of the 20th century, India may have had tens of thousands of wild tigers. Hunting and habitat loss caused a steep decline.",
+        "In **1973**, India launched **Project Tiger**, creating dedicated tiger reserves, starting with nine.",
+        "Despite setbacks, including serious poaching crises in the 2000s, numbers have recovered. The **2022** national tiger census estimated an average of around **3,600** wild tigers, about three-quarters of the world’s wild tiger population.",
+        "India now has over 50 tiger reserves.",
+        "Challenges remain, including conflict between tigers and people living near forests, habitat fragmentation and ensuring that conservation benefits local and tribal communities rather than displacing them."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "What are ecosystem services, and why do economists try to put a price on nature?",
+      "md": "**Ecosystem services** are the benefits humans get from nature: **provisioning** services like food, fresh water, timber and medicines; **regulating** services like pollination of crops, flood control by wetlands and forests, climate regulation and water purification; and **cultural** services like recreation and spiritual value. Many crops, including many fruits, vegetables and nuts, depend partly on animal pollinators such as bees. Because these services are usually free, markets tend to ignore them, a form of the market failure you met in the Economics region. Putting estimated economic values on them can help decision-makers take nature into account, although critics argue some things, like the existence of a species, can’t or shouldn’t be measured in money."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "An **ecosystem** is a community of organisms interacting with each other and their environment.",
+        "**Producers** make food from sunlight; **consumers** eat other organisms; **decomposers** recycle dead material.",
+        "**Food webs** connect many food chains; each step is a **trophic level**.",
+        "Only about **10%** of energy passes to the next level, so top predators are few: the **energy pyramid**.",
+        "**Energy flows** through ecosystems, while **nutrients** like carbon and nitrogen **cycle**.",
+        "**Keystone species**, like **Paine’s starfish**, **sea otters** and **wolves**, have outsized effects.",
+        "India’s **Project Tiger (1973)** helped tiger numbers recover to about **3,600** (2022)."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Ecosystems provide the food, water, clean air and stable climate humans depend on. Understanding how energy and nutrients move through them, and how removing one species can cause ripple effects, helps you appreciate why conservation matters, not just for wildlife but for people. The final lesson in this region looks at biodiversity loss and what can be done about it."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does energy flow through a food web, why are there usually far fewer top predators than plants, and what is a keystone species?"
+  }
+}

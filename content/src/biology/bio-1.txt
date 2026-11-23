@@ -1,0 +1,286 @@
+##### LESSON
+id: biology.cells.2
+title: How Cells Live, Divide and Die
+minutes: 15
+prereq: biology.cells.1
+check: In your own words: how do cells get usable energy from food, how does a cell divide, and why is uncontrolled cell division dangerous?
+
+=== hook
+In **1951**, a 31-year-old African American woman named **Henrietta Lacks** was treated for cervical cancer at Johns Hopkins Hospital in Baltimore. Doctors took a sample of her tumour cells without her knowledge or consent, as was common practice then. She died later that year.
+
+Her cells did something no human cells had done before in a laboratory: they kept dividing, indefinitely. Known as **HeLa cells**, they have since been used in tens of thousands of studies, helping develop the polio vaccine, map human genes and study cancer and viruses. For decades, her family didn’t know. Her story transformed scientific understanding of cells, and debates about consent and fairness in medical research.
+
+=== core
+In the previous lesson, you saw what cells are made of. This lesson looks at how they work: how they get energy, how they make copies of themselves, and why they sometimes die on purpose.
+
+Every cell needs a constant supply of energy to build molecules, move things around, pump substances across its membrane and divide. Cells don’t use food energy directly. They convert it into a universal energy currency: a molecule called **ATP** (adenosine triphosphate). When a cell needs energy, it breaks a chemical bond in ATP, releasing a small, convenient packet of energy.
+
+Your body uses ATP at an astonishing rate. Each day, it recycles roughly its **own body weight** in ATP, constantly rebuilding it from the broken-down form.
+
+=== text Cellular respiration: burning food slowly
+Most of your cells make ATP through **cellular respiration**, which happens largely in the **mitochondria**, the power stations you met in the previous lesson.
+
+In simple terms:
+
+**glucose + oxygen → carbon dioxide + water + energy (ATP)**
+
+It’s chemically similar to burning sugar, but instead of releasing all the energy at once as a flame, cells release it in many small, controlled steps, capturing much of it as ATP. Completely breaking down one molecule of glucose produces around **30 to 32 ATP** molecules.
+
+That’s why you breathe in oxygen and breathe out carbon dioxide: your cells need oxygen to run respiration and produce carbon dioxide as waste. When you exercise hard and your muscles can’t get oxygen fast enough, they switch to a less efficient process that produces much less ATP per glucose.
+
+=== text Photosynthesis: the reverse
+Plants, algae and some bacteria capture energy from **sunlight** in their **chloroplasts**, using it to build glucose from carbon dioxide and water, releasing oxygen as a by-product:
+
+**carbon dioxide + water + light energy → glucose + oxygen**
+
+It’s essentially respiration in reverse. Photosynthesis captures energy; respiration releases it. Together, they form a great cycle linking plants and animals: almost all the energy in the food you eat originally came from sunlight captured by photosynthesis, as you saw in the Physics region.
+
+=== callout analogy
+Think of glucose as a large banknote, and ATP as small coins. You can’t use a large banknote in a vending machine, so you exchange it for coins first. Cellular respiration is the exchange office, breaking down glucose into lots of small ATP “coins” that every machine in the cell accepts.
+
+=== steps How a cell divides: mitosis
+- Your body makes millions of new cells every second, to grow and to replace worn-out ones. Most body cells divide by **mitosis**, producing two identical copies.
+- **Copying**: before dividing, the cell copies all its DNA, so each new cell will get a full set.
+- **Condensing**: the long DNA strands coil tightly into compact **chromosomes**, visible under a microscope. Humans have **46** chromosomes, in 23 pairs.
+- **Lining up**: the chromosomes line up across the middle of the cell, attached to a system of protein fibres.
+- **Separating**: the fibres pull the copies apart, sending one complete set to each end of the cell.
+- **Splitting**: the cell pinches in two, creating two daughter cells, each with an identical set of 46 chromosomes.
+- A different kind of division, **meiosis**, makes eggs and sperm. It halves the chromosome number to 23 and shuffles genetic material, which is why siblings differ from each other.
+
+=== text Checkpoints and cancer
+Cell division is tightly controlled. Cells pass through **checkpoints**, molecular inspections that check for damaged DNA and other problems before allowing division to continue. If damage is found, the cell pauses to repair it, or triggers its own destruction.
+
+A protein called **p53**, sometimes nicknamed “the guardian of the genome”, plays a central role in this. It can halt division when DNA is damaged and trigger cell death if damage can’t be repaired.
+
+**Cancer** happens when cells accumulate mutations that break these controls, so they divide uncontrollably, ignore signals to stop and avoid self-destruction. Mutations in the gene for p53 are found in around **half** of all human cancers. Cancer cells can also invade nearby tissues and spread to other parts of the body, a process called **metastasis**. HeLa cells divide endlessly partly because they were infected with a virus, **HPV**, that disrupts these controls. HPV causes most cervical cancers, which is why HPV vaccination, now offered in many countries including India, can prevent them.
+
+=== text Cells that die on purpose
+It might seem strange, but cells sometimes deliberately destroy themselves. This **programmed cell death**, called **apoptosis**, is essential for health. An adult human body loses roughly **50 to 70 billion** cells each day through apoptosis.
+
+Apoptosis removes damaged or potentially dangerous cells, like those with irreparable DNA damage. It also sculpts the body during development: human embryos initially have webbing between their fingers and toes, which disappears because those cells undergo apoptosis. Failure of apoptosis can contribute to cancer; too much can contribute to diseases like some neurodegenerative conditions.
+
+=== reveal If every cell in your body has the same DNA, what are stem cells and why are scientists so interested in them?
+**Stem cells** are cells that haven’t yet specialised, and can divide to make more stem cells or develop into specialised cells. **Embryonic stem cells**, from very early embryos, can become almost any cell type. **Adult stem cells**, found in places like bone marrow, can make a narrower range: blood stem cells, for example, make all types of blood cells, which is why bone marrow transplants can treat leukaemia. In **2006**, the Japanese scientist **Shinya Yamanaka** found a way to reprogramme ordinary adult cells back into stem-cell-like cells, called **induced pluripotent stem cells**, avoiding the ethical debates around using embryos. He shared the 2012 Nobel Prize. Scientists hope stem cells may one day repair damaged tissues, like heart muscle or nerve cells, though many proposed treatments remain experimental, and unproven “stem cell clinics” are a concern in several countries.
+
+=== keypoints
+- Cells use **ATP** as their energy currency; the body recycles about its own weight in ATP daily.
+- **Cellular respiration** (mainly in mitochondria) converts glucose and oxygen into carbon dioxide, water and ATP (~30–32 ATP per glucose).
+- **Photosynthesis** in chloroplasts uses light to make glucose and oxygen: roughly respiration in reverse.
+- **Mitosis** produces two identical cells; **meiosis** produces eggs and sperm with half the chromosomes.
+- **Checkpoints** and proteins like **p53** control division; **cancer** arises when these controls break.
+- **Apoptosis** removes damaged cells and shapes the body; tens of billions of cells die this way daily.
+- **HeLa cells** (Henrietta Lacks, 1951) transformed research and raised lasting questions about **consent**.
+
+=== why
+Understanding how cells get energy, divide and die explains everything from why you need to breathe to how cancer develops and why HPV vaccines matter. It’s also the foundation for the next lessons on DNA and genes, the instructions that control all of these processes.
+
+##### LESSON
+id: biology.dna.1
+title: DNA: The Code of Life
+minutes: 15
+check: In your own words: what is the structure of DNA, how does the information in a gene get turned into a protein, and roughly how big is the human genome?
+
+=== hook
+In **May 1952**, at King’s College London, a PhD student named **Raymond Gosling**, working under the chemist **Rosalind Franklin**, captured an X-ray image of DNA after many hours of exposure. Known as **Photo 51**, it showed a striking X-shaped pattern that, to a trained eye, revealed that DNA was a **helix**.
+
+In early 1953, without Franklin’s knowledge, her colleague **Maurice Wilkins** showed the image to **James Watson**, who was working with **Francis Crick** at Cambridge on DNA’s structure. Along with data from a report summarising Franklin’s research, it helped them build their famous model of the **double helix**, published in April 1953. Watson, Crick and Wilkins shared the 1962 Nobel Prize. Franklin had died of cancer in 1958, aged 37; Nobel Prizes are not awarded posthumously. Her crucial contribution was long underplayed.
+
+=== core
+**DNA** (deoxyribonucleic acid) is the molecule that carries the genetic instructions for building and running every living organism, from bacteria to blue whales.
+
+Its structure is the famous **double helix**: two long strands twisted around each other like a spiral staircase or a twisted ladder.
+
+- The **sides** of the ladder are made of alternating sugar and phosphate molecules.
+- The **rungs** are made of pairs of chemical units called **bases**. There are four: **adenine (A)**, **thymine (T)**, **cytosine (C)** and **guanine (G)**.
+- The bases pair up in a strict pattern: **A always pairs with T**, and **C always pairs with G**.
+
+The genetic information is written in the **sequence** of bases along a strand, like letters in a very long sentence: ATTGCCATG…
+
+=== text Why the pairing matters
+The strict pairing rule has a brilliant consequence, which Watson and Crick noted in a famously understated line in their 1953 paper: it immediately suggests a possible copying mechanism.
+
+Because A always pairs with T and C with G, each strand contains all the information needed to rebuild the other. To copy DNA, the cell unzips the two strands, and each serves as a template for building a new partner strand. The result is two identical double helices, each containing one old strand and one new one. This is how DNA is copied before a cell divides, as you saw in the previous lesson.
+
+=== callout analogy
+Think of DNA as a zip whose two sides fit together only in one way: every A tooth on one side meets a T on the other, every C meets a G. Unzip it, and each half is enough to rebuild the whole zip, because you know exactly which tooth must go opposite each one. That’s why DNA can be copied so accurately.
+
+=== text From gene to protein
+A **gene** is a section of DNA that contains the instructions for making a particular product, usually a **protein**. Proteins do most of the work in cells: they form structures like muscle fibres and hair, act as enzymes that speed up chemical reactions, carry oxygen in the blood (haemoglobin), fight infection (antibodies) and send signals (some hormones).
+
+Francis Crick described the flow of genetic information as the **central dogma** of molecular biology: **DNA → RNA → protein**.
+
+=== steps How a cell reads a gene
+- **Transcription**: in the nucleus, the cell copies the gene’s DNA sequence into a similar molecule called **messenger RNA (mRNA)**. RNA uses a base called uracil (U) instead of thymine.
+- The mRNA travels out of the nucleus to a **ribosome**, the protein-building machine you met earlier.
+- **Translation**: the ribosome reads the mRNA **three letters at a time**. Each three-letter “word” is called a **codon**.
+- Each codon specifies a particular **amino acid**, the building blocks of proteins, or a signal to stop. With four letters in groups of three, there are 64 possible codons, coding for **20** amino acids, so most amino acids have several codons.
+- The ribosome links amino acids together in the order specified, forming a long chain.
+- The chain folds into a complex 3D shape, which determines what the protein does. (Predicting this folding is the problem AlphaFold tackled, as you saw in the Technology region.)
+
+=== text The human genome
+Your complete set of DNA is called your **genome**. The human genome contains about **3 billion** base pairs, divided among 23 pairs of chromosomes.
+
+If you could stretch out the DNA in a single human cell end to end, it would be roughly **2 metres** long, packed into a nucleus only a few thousandths of a millimetre across, by being wound tightly around proteins.
+
+The **Human Genome Project**, an international effort launched in 1990, published an essentially complete sequence of the human genome in **2003**, at a cost of around 3 billion dollars. Today, a person’s genome can be sequenced in a day or two for a few hundred dollars.
+
+The project revealed surprises. Humans have only around **20,000** protein-coding genes, far fewer than many expected, similar to some much simpler animals. And only about **1–2%** of the genome directly codes for proteins. Much of the rest helps regulate when and where genes are switched on, while the function of some remains debated.
+
+=== reveal How similar is your DNA to other people’s, and to other species?
+Any two humans share about **99.9%** of their DNA sequence; the differences that make each of us unique, along with differences between populations, lie in the remaining 0.1%, which still amounts to millions of base pairs. Most human genetic variation is found **within** populations rather than between them, which is one reason biologists consider traditional racial categories a poor description of human genetic diversity. Humans share roughly **98–99%** of their DNA with chimpanzees, our closest living relatives, depending on how it’s measured. And because all life shares a common ancestry, we share many genes with animals, plants and even yeast: some yeast genes can be replaced by their human versions and still work.
+
+=== keypoints
+- **DNA** is a **double helix** of two strands, with bases **A, T, C and G**; **A pairs with T**, **C with G**.
+- **Rosalind Franklin’s** X-ray work (**Photo 51**) was crucial to **Watson and Crick’s** 1953 model.
+- Base pairing allows DNA to be **copied** accurately: each strand is a template for the other.
+- A **gene** codes for a product, usually a **protein**; information flows **DNA → RNA → protein**.
+- Ribosomes read mRNA in three-letter **codons**, each specifying one of **20 amino acids**.
+- The human genome has about **3 billion** base pairs and around **20,000** protein-coding genes; only **1–2%** codes for proteins.
+- Any two humans share about **99.9%** of their DNA.
+
+=== why
+DNA is the instruction manual for life, and understanding it underpins modern medicine, agriculture, forensics and our understanding of evolution and human history. It explains why children resemble their parents, how genetic diseases arise and how new technologies can read and even edit genes, as the next lesson explores.
+
+##### LESSON
+id: biology.dna.2
+title: Genes, Environment and Editing Life
+minutes: 15
+prereq: biology.dna.1
+check: In your own words: how do dominant and recessive genes work, why is “nature versus nurture” usually the wrong question, and what is CRISPR and why is it ethically debated?
+
+=== hook
+In **November 2018**, a Chinese scientist named **He Jiankui** announced that he had created the world’s first **genetically edited babies**: twin girls whose DNA he had altered as embryos, using a technique called CRISPR, in an attempt to make them resistant to HIV.
+
+The announcement provoked worldwide alarm. Scientists condemned the experiment as reckless and unethical: the edits were unnecessary, the risks unknown, and the changes could be passed to future generations. He was sentenced to three years in prison in China in 2019. The episode showed that humans now have the power to rewrite the code of life, and that deciding how to use it is one of the great ethical challenges of our time.
+
+=== core
+In the previous lesson, you saw that DNA contains genes that code for proteins. This lesson explores how genes are **inherited**, how they interact with the **environment**, and how scientists can now **edit** them.
+
+The science of inheritance began in a monastery garden. In the 1850s and 1860s, **Gregor Mendel**, an Augustinian friar in what is now the Czech Republic, bred thousands of pea plants and tracked traits like flower colour, seed shape and plant height across generations. He published his findings in **1866**, but they were largely ignored until **1900**, when other scientists independently rediscovered his principles.
+
+=== text Mendel’s discoveries
+Mendel found that traits are passed on in discrete units, which we now call **genes**, and that each organism inherits **two copies** of each gene, one from each parent. Different versions of a gene are called **alleles**.
+
+- Some alleles are **dominant**: one copy is enough for the trait to appear.
+- Others are **recessive**: the trait only appears if both copies are recessive.
+
+An organism’s genetic makeup is its **genotype**; the traits it actually shows are its **phenotype**.
+
+=== steps Worked example: carriers and inheritance
+- Consider a recessive genetic condition, like **thalassaemia**, a blood disorder that affects haemoglobin. Call the healthy allele **H** and the disease allele **h**.
+- A person with **HH** is unaffected. A person with **Hh** is a **carrier**: unaffected, because one healthy copy is enough, but able to pass the disease allele on. A person with **hh** has the condition.
+- If two carriers (**Hh × Hh**) have a child, each parent passes on either H or h with equal chance.
+- The possibilities are HH, Hh, hH and hh, so each child has a **25%** chance of being unaffected and not a carrier, a **50%** chance of being a carrier, and a **25%** chance of having the condition.
+- India has a large number of thalassaemia carriers, and many thousands of children are born with severe thalassaemia each year. Carrier screening before marriage or pregnancy helps families understand their risks.
+
+=== text Most traits involve many genes
+Mendel studied traits controlled by single genes, but most human traits, like height, intelligence, skin colour and risk of heart disease, are **polygenic**: influenced by many genes, sometimes thousands, each with a small effect, combined with environmental factors.
+
+**Height** is a good example. It’s strongly influenced by genes, yet average heights in many countries have increased substantially over the past century, far too fast for genes to change, because of better nutrition and health. Genes set a range of possibilities; environment influences where in that range a person ends up.
+
+=== callout analogy
+Think of genes as a recipe and the environment as the kitchen. The recipe matters enormously: you can’t bake a cake from a recipe for soup. But the same recipe can produce very different results depending on the ingredients available, the oven and the cook. Asking whether a cake is due to the recipe or the kitchen misses the point: it’s always both, working together.
+
+=== text Beyond the DNA sequence: epigenetics
+Cells can switch genes on and off without changing the DNA sequence itself, by adding chemical tags to DNA or the proteins it’s wound around. These changes are called **epigenetic** changes, and they’re part of how cells with identical DNA become different types, as you saw in the cells lessons.
+
+Environmental factors, like diet, stress and toxins, can influence epigenetic tags. Studies of people conceived during the **Dutch Hunger Winter**, a severe famine in the Nazi-occupied Netherlands in 1944–45, found that those exposed to famine before birth had different epigenetic marks and higher rates of some health problems decades later. Whether such effects can pass across multiple generations in humans is still debated; claims in popular media often go well beyond the evidence.
+
+=== text Gene editing with CRISPR
+For decades, changing DNA was slow and imprecise. In **2012**, **Jennifer Doudna** and **Emmanuelle Charpentier** published a method based on a natural defence system that bacteria use against viruses, called **CRISPR-Cas9**. It works like molecular scissors guided by a GPS: a guide molecule leads the Cas9 protein to a precise location in the DNA, where it makes a cut. The cell’s repair machinery then fixes the cut, which can be used to disable a gene or insert a new sequence.
+
+CRISPR is cheaper, faster and more precise than earlier methods, and it has transformed biology. Doudna and Charpentier won the **2020 Nobel Prize in Chemistry**, the first time two women shared a science Nobel without a male co-winner.
+
+In **November 2023**, the UK became the first country to approve a CRISPR-based therapy, **Casgevy**, for **sickle cell disease** and a form of thalassaemia, followed shortly by the US. It edits a patient’s own blood stem cells outside the body, then returns them. It’s highly effective for many patients, but extremely expensive and complex.
+
+=== text Ethics: where to draw the line?
+Gene editing raises difficult questions:
+
+- **Somatic editing** changes cells in a patient’s body, like blood cells, affecting only that person. It’s widely seen as acceptable for treating serious diseases, with proper safety checks.
+- **Germline editing** changes eggs, sperm or embryos, so changes pass to future generations. Most countries ban or strictly restrict it for reproduction, because of safety risks, consent of future generations and fears of “designer babies”.
+- **Enhancement versus treatment**: should editing ever be used to enhance traits like intelligence or athletic ability, rather than treat disease? Many fear it could deepen inequality.
+- **Access**: treatments costing millions per patient raise questions about who benefits, especially for diseases like sickle cell, which is most common in parts of Africa, India and among people of African descent. India launched a **National Sickle Cell Anaemia Elimination Mission** in **2023**, focusing on screening, especially in tribal communities where the condition is more common.
+
+=== reveal Sickle cell disease is harmful, so why is the gene for it so common in some parts of the world?
+Because carrying **one** copy of the sickle cell allele provides significant **protection against malaria**, one of history’s deadliest diseases. In regions where malaria has been common, such as parts of Africa, the Middle East and India, carriers survived malaria more often and had more children, so the allele stayed common, even though people with **two** copies develop sickle cell disease. This is a classic example of natural selection balancing benefits and costs, called **heterozygote advantage**, and it links directly to the next lesson on evolution.
+
+=== keypoints
+- **Mendel** (published **1866**, rediscovered **1900**) showed traits are inherited as discrete units (genes), with two copies each.
+- **Dominant** alleles show with one copy; **recessive** alleles need two. Two **carriers** have a 25% chance of an affected child.
+- Most traits are **polygenic** and shaped by both genes and **environment**; nature versus nurture is usually a false choice.
+- **Epigenetics** switches genes on and off without changing the DNA sequence.
+- **CRISPR-Cas9** (Doudna and Charpentier, 2012; Nobel 2020) enables precise gene editing; **Casgevy** (2023) treats sickle cell disease.
+- **Germline editing**, as in **He Jiankui’s** 2018 experiment, is widely condemned; access and enhancement raise further ethical questions.
+- The sickle cell allele persists because carriers are **protected against malaria**.
+
+=== why
+Genetics affects your health, your family and future medical choices, from carrier screening to new therapies. Understanding how genes and environment interact protects you from simplistic claims about destiny, and understanding gene editing prepares you for some of the most important ethical decisions your generation will face.
+
+##### LESSON
+id: biology.evolution.1
+title: Evolution by Natural Selection
+minutes: 15
+check: In your own words: what four ingredients make natural selection work, and what are two strong pieces of evidence for evolution?
+
+=== hook
+In **1977**, a severe drought struck Daphne Major, a tiny island in the Galápagos. The biologists **Peter** and **Rosemary Grant**, who studied the island’s finches for decades, watched as the small, soft seeds the birds usually ate ran out. Only large, hard seeds remained.
+
+Many finches starved. Those that survived tended to have slightly **larger, deeper beaks**, better at cracking tough seeds. Their offspring inherited those beaks. Within a single generation, the average beak size of the population had measurably increased. The Grants had watched evolution happen, in real time, in the very birds whose ancestors had helped inspire **Charles Darwin**’s ideas over a century earlier.
+
+=== core
+**Evolution** is the change in the inherited characteristics of populations over generations. Over long periods, it has produced the vast diversity of life on Earth from common ancestors.
+
+The main mechanism, proposed independently by **Charles Darwin** and **Alfred Russel Wallace**, is **natural selection**. Their ideas were presented together at a scientific meeting in London in **1858**, and Darwin published *On the Origin of Species* in **1859**.
+
+Darwin had developed his ideas over two decades, partly inspired by his five-year voyage on HMS **Beagle** (1831–1836), during which he observed fossils, island species and variation across South America and the Galápagos. Wallace reached similar conclusions while collecting specimens in the Malay Archipelago, and wrote to Darwin, prompting the joint presentation.
+
+=== text The four ingredients of natural selection
+Natural selection follows almost inevitably from four facts:
+
+1. **Variation**: individuals in a population differ from one another, in size, colour, speed, resistance to disease and countless other traits.
+2. **Inheritance**: many of these differences are passed from parents to offspring through genes.
+3. **Selection**: more individuals are born than can survive and reproduce, because resources are limited. Individuals with traits better suited to their environment tend to survive and reproduce more.
+4. **Time**: over many generations, helpful traits become more common in the population, and less helpful ones become rarer.
+
+No intention or plan is involved. Natural selection is simply the result of some individuals leaving more offspring than others because of their inherited traits.
+
+=== callout analogy
+Think of natural selection as a filter that runs every generation. Each generation, a population produces a variety of slightly different individuals. The environment acts like a sieve: those best suited to current conditions are more likely to pass through and reproduce. Repeat the sieving over thousands or millions of generations, and the population gradually changes, even though no one designed the sieve or chose what would pass.
+
+=== text Evolution you can see
+**The peppered moth**: in 19th-century England, most peppered moths were pale, camouflaged against lichen-covered tree bark. As the Industrial Revolution spread, soot darkened trees in industrial areas, and dark-coloured moths became far more common there, because birds spotted and ate pale moths more easily. After clean air laws reduced pollution in the 20th century, pale moths became common again.
+
+**Antibiotic resistance**: when bacteria are exposed to antibiotics, any that happen to carry mutations allowing them to survive multiply, while the rest die. Over time, resistant strains become common. You’ll explore this in the microbes lessons.
+
+**Darwin’s finches**: as the Grants showed, beak sizes shift with droughts and changes in food supply, sometimes within a few years.
+
+=== text The evidence for evolution
+Evolution is supported by many independent lines of evidence:
+
+- **Fossils**: the fossil record shows life changing over time, with simpler forms in older rocks and transitional forms linking groups. In **2004**, scientists found fossils of **Tiktaalik** in the Canadian Arctic: a roughly 375-million-year-old creature intermediate between fish and four-legged animals, with fins containing wrist-like bones. Researchers had predicted where to look, based on the age of rocks where such a transition should occur.
+- **Comparative anatomy**: the arm of a human, the wing of a bat, the flipper of a whale and the leg of a cat contain the same basic set of bones, arranged differently. These **homologous structures** reflect descent from a common ancestor.
+- **DNA**: the more closely related two species are thought to be, the more similar their DNA, and genetic family trees closely match those built from fossils and anatomy.
+- **Biogeography**: island species often resemble those on the nearest mainland, as Darwin noticed in the Galápagos, suggesting they descended from mainland colonists.
+- **Direct observation**: evolution has been observed in nature and in laboratories, including in long-running experiments with bacteria.
+
+=== steps The tree of life
+- All living things share a common ancestor that lived over **3.5 billion years** ago.
+- As populations split and adapted to different environments, they gradually became separate species, branching like a tree.
+- Humans did **not** evolve from chimpanzees. Humans and chimpanzees share a common ancestor that lived roughly **6 to 7 million years ago**; both lineages have evolved since.
+- Similarly, birds evolved from a group of dinosaurs, so in a real sense, birds are living dinosaurs.
+- Every living species today is the tip of a branch that has survived and evolved for the same length of time since life began.
+
+=== reveal What are the most common misunderstandings about evolution?
+Several are widespread. “**Survival of the fittest**”, a phrase coined by the philosopher Herbert Spencer, doesn’t mean the strongest survive; “fit” means well-suited to an environment, and what counts as fit changes as environments change. Evolution is **not progress** towards a goal; it has no direction, and simpler organisms like bacteria are spectacularly successful. **Individuals don’t evolve**; populations do, over generations. Evolution is **not purely random**: mutations arise randomly, but selection is not random. And calling it “just a theory” misunderstands the scientific meaning of theory: a well-tested explanation supported by vast evidence, like the theory of gravity or germ theory.
+
+=== keypoints
+- **Evolution** is change in inherited traits of populations over generations.
+- **Darwin** and **Wallace** proposed **natural selection** (presented **1858**; *Origin of Species*, **1859**).
+- Natural selection needs **variation**, **inheritance**, **selection** and **time**.
+- Observed examples include **Darwin’s finches** (Grants, 1977 drought), **peppered moths** and **antibiotic resistance**.
+- Evidence comes from **fossils** (like **Tiktaalik**), **homologous structures**, **DNA**, **biogeography** and **direct observation**.
+- Humans and chimpanzees share a **common ancestor** about **6–7 million years ago**.
+- Evolution isn’t progress towards a goal, and “fit” means suited to an environment.
+
+=== why
+Evolution is the unifying idea of biology; as the geneticist Theodosius Dobzhansky wrote, nothing in biology makes sense except in its light. It explains the diversity of life, why antibiotics stop working, why viruses change and why we get certain diseases. Next, you’ll trace the evolutionary story of our own species.

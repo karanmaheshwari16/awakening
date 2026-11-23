@@ -1,0 +1,97 @@
+{
+  "id": "biology.microbes.2",
+  "region": "biology",
+  "topic": "microbes",
+  "level": 2,
+  "prerequisites": [
+    "biology.microbes.1"
+  ],
+  "title": "Antibiotics, Resistance and Pandemics",
+  "estimated_minutes": 15,
+  "disclaimer": "health",
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **September 1928**, the Scottish scientist **Alexander Fleming** returned to his London laboratory after a summer holiday and noticed something odd about a dish of bacteria he had left out. A mould had contaminated it, and around the mould was a clear ring where the bacteria had died.\n\nFleming identified the mould as *Penicillium* and named the bacteria-killing substance it produced **penicillin**. Little came of it for over a decade, until **Howard Florey**, **Ernst Chain** and colleagues at Oxford found ways to purify and produce it in the early 1940s, just in time to save many lives in World War II. All three shared the 1945 Nobel Prize. In his acceptance speech, Fleming gave a warning: misuse of penicillin could make bacteria resistant to it. He was right."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Antibiotics** are medicines that kill bacteria or stop them from multiplying, by targeting structures and processes that bacteria have but human cells don’t, such as bacterial cell walls or bacterial ribosomes. Before antibiotics, a scratch that became infected, pneumonia or a difficult childbirth could easily be fatal. Antibiotics transformed medicine, making surgery, cancer treatment, organ transplants and care for premature babies far safer.\n\nBut bacteria evolve. **Antibiotic resistance** happens when bacteria change so that antibiotics no longer work against them. It’s natural selection in action, the same process you met in the evolution lessons, happening fast because bacteria reproduce rapidly, sometimes dividing every 20 minutes."
+    },
+    {
+      "type": "steps",
+      "title": "How resistance evolves",
+      "items": [
+        "In a large population of bacteria, random **mutations** mean a few individuals may happen to be slightly resistant to an antibiotic.",
+        "When the antibiotic is used, it kills most of the bacteria, but the resistant ones are more likely to survive.",
+        "The survivors multiply, and the next generation contains more resistant bacteria.",
+        "Repeated exposure **selects** for ever more resistant strains.",
+        "Bacteria can also share resistance genes directly with each other, even across different species, by swapping small loops of DNA called **plasmids**, spreading resistance quickly.",
+        "The antibiotic doesn’t create resistance; it **selects** for resistant bacteria that already exist, by removing their competitors."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine spraying a field of weeds with a weedkiller that kills 99.9% of them. The few survivors, which happened to be naturally tough, now have the whole field to themselves, and their seeds spread everywhere. Next season, the same weedkiller barely works. Each time you spray, you’re clearing space for the toughest survivors. Overusing antibiotics does the same with bacteria."
+    },
+    {
+      "type": "text",
+      "heading": "Why misuse makes it worse",
+      "md": "Every use of antibiotics creates selection pressure, so unnecessary use speeds up resistance:\n\n- **Using antibiotics for viral infections**, like colds and most sore throats and flu, which antibiotics can’t treat at all.\n- **Not completing courses as prescribed**, or using leftover antibiotics without medical advice. (Advice on course length is evolving; follow your doctor’s guidance.)\n- **Over-the-counter sales without prescription**, common in many countries, including parts of India, though rules have tightened for some antibiotics.\n- **Agriculture**: in many countries, large amounts of antibiotics are given to livestock, sometimes to promote growth rather than treat disease. Resistant bacteria can spread from farms to people through food, water and the environment. Several countries, including the EU, have banned antibiotics as growth promoters.\n- **Pollution**: antibiotics released from factories, hospitals and sewage into rivers and soil can encourage resistance in environmental bacteria."
+    },
+    {
+      "type": "text",
+      "heading": "A growing crisis",
+      "md": "A major study published in *The Lancet* in **2022** estimated that in **2019**, bacterial antimicrobial resistance directly caused about **1.27 million** deaths worldwide and was associated with nearly **5 million**. That’s more direct deaths than HIV/AIDS or malaria caused that year. Some infections, like certain forms of tuberculosis and gonorrhoea, have become very difficult to treat.\n\nAt the same time, few new classes of antibiotics have been developed in recent decades, partly because developing them is expensive and they’re used sparingly to preserve their effectiveness, making them less profitable. Responses include stewardship programmes in hospitals to use antibiotics more carefully, better infection control, vaccines to prevent infections in the first place, faster diagnostic tests, and new incentives for developing antibiotics. India’s national action plan and the “Red Line” campaign, which marks prescription-only antibiotic packaging with a red vertical line, aim to reduce misuse."
+    },
+    {
+      "type": "text",
+      "heading": "Pandemics: when diseases go global",
+      "md": "An **epidemic** is a rapid increase in cases of a disease in a population; a **pandemic** is an epidemic that spreads across many countries or continents.\n\nMost new infectious diseases are **zoonotic**: they jump from animals to humans, as you saw in the farming lessons. HIV came from chimpanzees and other primates; influenza often from birds and pigs; Ebola likely from bats. Factors increasing the risk of new pandemics include:\n\n- **Close contact with animals**, through farming, wildlife trade and habitat destruction, which brings people into contact with new viruses.\n- **Dense cities** where diseases spread easily.\n- **Global travel**, which can carry an infection around the world within days."
+    },
+    {
+      "type": "steps",
+      "title": "What makes a disease spread",
+      "items": [
+        "Epidemiologists use a number called **R₀** (“R nought”): the average number of people one infected person infects in a population with no immunity.",
+        "If R₀ is above **1**, cases grow; below 1, the outbreak shrinks.",
+        "Measles has a very high R₀, often estimated around **12 to 18**; seasonal flu is much lower, around 1 to 2. The original strain of the virus that causes COVID-19 was estimated at around 2 to 3; later variants were more transmissible.",
+        "Spread also depends on how the disease is transmitted (air, droplets, touch, water, insects), how long people are infectious, whether people can spread it before showing symptoms and how deadly it is.",
+        "Measures like vaccination, masks, ventilation, handwashing, testing, isolation and reducing contacts aim to push the effective reproduction number below 1."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "COVID-19",
+      "md": "The COVID-19 pandemic, caused by the coronavirus SARS-CoV-2, was first identified in Wuhan, China, in late **2019**. The WHO declared it a pandemic in **March 2020**. The World Health Organization estimated around **15 million** excess deaths globally in 2020 and 2021, far more than officially reported COVID deaths, and India was among the countries with the largest estimated excess mortality, a figure the Indian government disputed.\n\nThe pandemic showed both the power of science, with effective vaccines developed in under a year, and the challenges of global coordination, misinformation and unequal access to vaccines. The exact origin of the virus, whether through natural spillover from animals or a laboratory-related incident, remains debated and unresolved."
+    },
+    {
+      "type": "reveal",
+      "prompt": "What is “One Health”, and why do experts say it’s essential for preventing future pandemics?",
+      "md": "**One Health** is an approach recognising that the health of **people**, **animals** and the **environment** are deeply connected. Many threats, such as zoonotic diseases, antibiotic resistance and food safety, cross between them. Preventing pandemics means monitoring diseases in wildlife and livestock, regulating wildlife trade, reducing deforestation that brings people into contact with new pathogens, using antibiotics carefully in both medicine and farming, and sharing information across borders quickly. It requires doctors, vets, ecologists and governments to work together. In **2025**, WHO member states adopted a **Pandemic Agreement** aimed at improving global preparedness and more equitable sharing of vaccines and medicines, though how it will work in practice is still being developed."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Fleming** discovered **penicillin** in **1928**; Florey and Chain made it a usable medicine in the 1940s.",
+        "**Antibiotic resistance** evolves by **natural selection**; bacteria also share resistance genes via **plasmids**.",
+        "Misuse, including antibiotics for **viral infections**, **over-the-counter** sales and use in **livestock**, speeds up resistance.",
+        "Resistance directly caused about **1.27 million** deaths in **2019**; few new antibiotic classes are being developed.",
+        "Most new diseases are **zoonotic**; **R₀** measures how fast a disease spreads.",
+        "**COVID-19** caused an estimated **15 million** excess deaths in 2020–21; its origin remains unresolved.",
+        "**One Health** links human, animal and environmental health to prevent future crises."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Antibiotic resistance and pandemics are among the greatest threats to global health, and both are shaped by human behaviour. Simple actions, like not demanding antibiotics for viral illnesses, completing treatments as advised, getting vaccinated and supporting good public health, make a real difference. Understanding the biology helps you see why."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how does antibiotic resistance evolve, why does misuse of antibiotics make it worse, and what makes a new disease likely to become a pandemic?"
+  }
+}
