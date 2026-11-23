@@ -1,10 +1,10 @@
 import { useState } from 'preact/hooks';
-import { lessonById } from '../content/catalog';
+import { gatesInRegion, lessonById, regionById } from '../content/catalog';
 import { Icon } from '../components/Icon';
 import { showReward } from '../components/Reward';
 import { Sys, TopBar } from '../components/ui';
 import { href } from '../lib/router';
-import { nextInRegion } from '../state/derive';
+import { gateState, libraryProgress, nextInRegion } from '../state/derive';
 import { questTagFor } from '../state/quests';
 import { addEvent, getSaved, setNote, useGame } from '../state/store';
 import type { Result } from '../state/types';
@@ -41,12 +41,30 @@ export function CheckScreen({ id }: { id: string }) {
       explained: text.trim().length >= 20,
       ...(quest ? { quest } : {}),
     });
-    const next = nextInRegion(outcome.after, meta.region);
+    const after = outcome.after;
+    const next = nextInRegion(after, meta.region);
+    const openGate = gatesInRegion(meta.region)
+      .map((g) => gateState(after, g))
+      .find((g) => g.status === 'open');
+    const regionName = regionById.get(meta.region)?.name ?? 'region';
+    const lp = libraryProgress(after, meta.region);
+    const primary = next
+      ? { label: `Next in ${regionName}: ${next.title}`, href: href.lesson(next.id) }
+      : openGate
+        ? { label: `Face the Gate: ${openGate.gate.title}`, href: href.gate(openGate.gate.id) }
+        : { label: 'Back to the map', href: href.home() };
+    const secondary =
+      next && openGate
+        ? { label: `Face the Gate instead`, href: href.gate(openGate.gate.id) }
+        : next || openGate
+          ? { label: 'Back to the map', href: href.home() }
+          : { label: `View ${regionName}`, href: href.region(meta.region) };
     showReward({
       outcome,
       title: quest === 'daily' ? 'Daily Quest complete' : 'Session complete',
-      primary: next ? { label: `Next: ${next.title}`, href: href.lesson(next.id) } : { label: 'Back to the map', href: href.home() },
-      secondary: next ? { label: 'Back to the map', href: href.home() } : { label: 'View region', href: href.region(meta.region) },
+      note: `${regionName}: ${lp.done} of ${lp.total} lessons explored`,
+      primary,
+      secondary,
     });
   };
 

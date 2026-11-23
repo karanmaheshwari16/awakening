@@ -227,7 +227,24 @@ export function derive(saved: Saved, today = todayFn()): Derived {
 
   computeStreak(d, penaltyDays, today);
   computeUnlocks(d);
+  // Safety net: if a region has no Gate for a tier, finishing enough lessons opens the next tier.
+  for (const r of Object.values(regions)) {
+    for (;;) {
+      if (catalog.gates.some((g) => g.region === r.id && g.tier === r.tier)) break;
+      const atTier = lessonsInRegion(r.id).filter((l) => l.level === r.tier && !l.bridge);
+      if (!atTier.length) break;
+      const done = atTier.filter((l) => r.completed.has(l.id)).length;
+      if (done < Math.min(GATE_LESSONS_NEEDED, atTier.length)) break;
+      r.tier++;
+    }
+  }
   return d;
+}
+
+/** Lessons completed vs lessons available (bridge lessons don't count). */
+export function libraryProgress(d: Derived, regionId?: string): { done: number; total: number } {
+  const all = catalog.lessons.filter((l) => !l.bridge && (!regionId || l.region === regionId));
+  return { done: all.filter((l) => d.completed.has(l.id)).length, total: all.length };
 }
 
 function computeStreak(d: Derived, penaltyDays: Set<string>, today: string) {

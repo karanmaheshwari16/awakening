@@ -1,9 +1,9 @@
-import { regionById, topicTitle } from '../content/catalog';
+import { gatesInRegion, regionById, topicTitle } from '../content/catalog';
 import { Icon } from '../components/Icon';
 import { StarMap } from '../components/StarMap';
 import { Bar, Btn, RankBadge, Sys, pad, roman } from '../components/ui';
 import { go, href } from '../lib/router';
-import { discoverLesson, dueShadows } from '../state/derive';
+import { currentRegion, discoverLesson, dueShadows, gateState, libraryProgress, nextInRegion } from '../state/derive';
 import { questStatus } from '../state/quests';
 import { useGame } from '../state/store';
 
@@ -11,7 +11,13 @@ export function Home() {
   const { saved, d } = useGame();
   const q = questStatus(saved, d);
   const due = dueShadows(d);
-  const explore = discoverLesson(d, q.daily ? [q.daily.lesson.region] : []);
+  const cur = currentRegion(d);
+  const keep = cur ? nextInRegion(d, cur) : null;
+  const curGate = cur && !keep ? gatesInRegion(cur).map((g) => gateState(d, g)).find((g) => g.status === 'open') : undefined;
+  const showKeep = !!keep && (q.dailyDone || q.daily?.lesson.id !== keep.id);
+  const curProg = cur ? libraryProgress(d, cur) : null;
+  const lib = libraryProgress(d);
+  const explore = discoverLesson(d, [cur, q.daily?.lesson.region].filter(Boolean) as string[]);
   const streakOn = d.streak.status === 'active';
   const glowPenalty = !!q.penalty;
 
@@ -108,6 +114,58 @@ export function Home() {
               {q.bonus?.done && <p class="quest-copy" style={{ marginTop: 10, marginBottom: 0 }}>Bonus cleared too. Rest well, Hunter.</p>}
             </>
           )}
+        </Sys>
+
+        {/* ── Keep reading in the current region ── */}
+        {showKeep && keep && cur && (
+          <Sys label="Keep going" tone={q.dailyDone ? 'accent' : 'default'}>
+            <div class="continue-region">
+              <span class="label">{regionById.get(cur)?.name}</span>
+              {curProg && (
+                <span class="label mono">
+                  {curProg.done}/{curProg.total} explored
+                </span>
+              )}
+            </div>
+            <div class="quest-title" style={{ fontSize: 19 }}>{keep.title}</div>
+            <div class="quest-meta">
+              <span class="mono">{keep.estimated_minutes} MIN</span>
+              <span class="mono">TIER {roman(keep.level)}</span>
+            </div>
+            <Btn
+              class="wide"
+              variant={q.dailyDone ? 'primary' : 'ghost'}
+              icon="arrow"
+              onClick={() => go(href.lesson(keep.id))}
+            >
+              Next lesson
+            </Btn>
+          </Sys>
+        )}
+        {curGate && cur && (
+          <Sys label="Gate open" tone="gold">
+            <p class="quest-copy">
+              You've explored this tier of {regionById.get(cur)?.name}. Clear its Gate to open the next tier.
+            </p>
+            <Btn class="wide" variant="gold" icon="gates" onClick={() => go(href.gate(curGate.gate.id))}>
+              Face the Gate
+            </Btn>
+          </Sys>
+        )}
+
+        {/* ── Library tracker ── */}
+        <Sys label="Library">
+          <div class="library">
+            <div class="library-head">
+              <span class="library-count">
+                {lib.done}
+                <small>/ {lib.total} lessons</small>
+              </span>
+              <span class="label mono">{lib.total ? Math.round((lib.done / lib.total) * 100) : 0}%</span>
+            </div>
+            <Bar value={lib.total ? lib.done / lib.total : 0} label="Lessons covered" />
+            <div class="library-sub">Lessons you've covered, out of everything in the app right now.</div>
+          </div>
         </Sys>
 
         <div class="mini-cards">

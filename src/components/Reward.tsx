@@ -10,6 +10,8 @@ import { Bar, Btn, Sys } from './ui';
 export interface RewardData {
   outcome: Outcome;
   title: string;
+  /** Small progress line under the actions, e.g. "Physics: 3 of 12 lessons explored". */
+  note?: string;
   primary: { label: string; href: string };
   secondary?: { label: string; href: string };
 }
@@ -148,6 +150,7 @@ export function RewardOverlay() {
             </Btn>
           )}
         </div>
+        {data.note && <div class="reward-note mono">{data.note}</div>}
       </Sys>
     </div>
   );

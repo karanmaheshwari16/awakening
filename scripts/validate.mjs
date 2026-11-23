@@ -20,7 +20,7 @@ const TONES = new Set(['analogy', 'definition', 'note', 'caution', 'open-questio
 const ROLES = new Set(['hook', 'core', 'example', 'why']);
 const DISCLAIMERS = new Set(['health', 'legal', 'financial']);
 const WORDS_MIN = 800;
-const WORDS_MAX = 1300;
+const WORDS_MAX = 2300;
 
 const isStr = (v) => typeof v === 'string' && v.trim().length > 0;
 const words = (s) => (s.match(/[A-Za-z0-9’'-]+/g) || []).length;

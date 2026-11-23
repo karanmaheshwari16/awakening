@@ -1,20 +1,17 @@
 // ─── Daily, bonus and penalty quests ───────────────────────────────
 import { lessonById } from '../content/catalog';
 import type { LessonMeta } from '../content/schema';
-import { dayNum } from '../lib/date';
 import { currentRegion, discoverLesson, dueShadows, nextInRegion, type Derived, type Shadow } from './derive';
 import { getDerived, getSaved, setQuestPick } from './store';
 import type { QuestTag, Saved } from './types';
 
 function pickDaily(d: Derived): { lesson: LessonMeta; kind: 'continue' | 'discover' } | null {
-  const preferContinue = dayNum(d.today) % 2 === 0;
+  // Stay in the region you're exploring until you choose to switch (or it runs out of open lessons).
   const cur = currentRegion(d);
   const cont = cur ? nextInRegion(d, cur) : null;
-  const disc = discoverLesson(d, cur ? [cur] : []) ?? discoverLesson(d);
-  if (preferContinue && cont) return { lesson: cont, kind: 'continue' };
-  if (disc) return { lesson: disc, kind: cont && disc.id === cont.id ? 'continue' : 'discover' };
   if (cont) return { lesson: cont, kind: 'continue' };
-  return null;
+  const disc = discoverLesson(d, cur ? [cur] : []) ?? discoverLesson(d);
+  return disc ? { lesson: disc, kind: 'discover' } : null;
 }
 
 /** Choose today's quest once, so it stays the same all day (and on reload). */
