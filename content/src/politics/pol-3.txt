@@ -1,0 +1,220 @@
+##### LESSON
+id: politics.international.2
+title: War, Peace and Global Cooperation
+minutes: 16
+prereq: politics.international.1
+check: In your own words: how did nuclear deterrence shape the Cold War, what are the Geneva Conventions and the International Criminal Court, and why is global cooperation on issues like climate change so difficult?
+
+=== hook
+On **27 October 1962**, at the height of the **Cuban Missile Crisis**, a Soviet submarine near Cuba was being tracked by American warships dropping small practice depth charges to force it to surface. Cut off from Moscow, unable to communicate and believing war might already have begun, the submarine’s captain reportedly wanted to launch a nuclear-armed torpedo.
+
+According to accounts that emerged decades later, launching required the agreement of three senior officers. One of them, **Vasili Arkhipov**, refused. The submarine surfaced, and the crisis was eventually resolved through negotiation between US President **John F. Kennedy** and Soviet leader **Nikita Khrushchev**. Some historians argue that one officer’s decision may have helped prevent a nuclear war. The episode shows both the terrifying risks of the nuclear age and the role of individual judgement in world events.
+
+=== core
+In the previous lesson, you met the main theories of international relations. This lesson explores some of the central challenges they try to explain: **war**, **peace** and **cooperation** on shared problems.
+
+Why do wars happen? Scholars point to many causes, often combined:
+
+- **Security dilemmas** and arms races, as you saw in the previous lesson.
+- **Miscalculation**: leaders may overestimate their chances of quick victory or underestimate their opponents’ resolve, as in 1914.
+- **Territorial disputes**, competition over resources and contested borders.
+- **Nationalism**, ideology and identity.
+- **Domestic politics**: leaders may use conflict to rally support or distract from problems.
+- **Power transitions**: as you saw with Thucydides, the rise of a new power can create fear and instability.
+
+=== text The nuclear age and deterrence
+The atomic bombings of Hiroshima and Nagasaki in **1945**, which you met in the History region, opened the **nuclear age**. The Soviet Union tested its first atomic bomb in **1949**, and both superpowers built huge arsenals, at their peak holding tens of thousands of nuclear weapons.
+
+Nuclear weapons transformed strategy through **deterrence**: preventing an attack by threatening unacceptable retaliation. When both sides could survive a first strike and still destroy the other, the situation was described as **mutually assured destruction (MAD)**: any nuclear war would be suicidal for both. Some scholars argue this helped keep the **Cold War** between the superpowers from becoming a direct war. Others point out how close the world came to disaster, through crises like Cuba in 1962 and through false alarms.
+
+=== callout analogy
+Think of nuclear deterrence like two people standing in a room soaked in petrol, each holding a lit match. Neither wants to drop their match, because both would burn. That shared terror keeps them still. But it only works as long as no one panics, misreads the other’s movements or drops a match by accident. Deterrence has held since 1945, but it depends on rational leaders, reliable systems and luck.
+
+=== text Controlling nuclear weapons
+To reduce the risks, countries negotiated arms control agreements. The most important is the **Nuclear Non-Proliferation Treaty (NPT)**, opened for signature in **1968**. Under it:
+
+- Countries without nuclear weapons agree not to acquire them.
+- The five recognised nuclear-weapon states, the US, Russia, UK, France and China, agree to pursue nuclear disarmament.
+- All members have the right to peaceful nuclear energy.
+
+**India** has never signed the NPT, arguing that it is **discriminatory**, dividing the world permanently into nuclear “haves” and “have-nots”. India conducted a nuclear test in **1974** and a series of tests in **1998**, declaring itself a nuclear-weapon state; Pakistan conducted tests weeks later. India has adopted a policy of **no first use** of nuclear weapons. Other states outside the treaty with nuclear weapons include Pakistan, Israel (which has never officially confirmed its arsenal) and North Korea, which withdrew from the NPT.
+
+=== text Laws of war and international justice
+Even war has rules. The **Geneva Conventions**, in their modern form agreed in **1949**, along with later additions, set out protections for people who are not, or are no longer, fighting: wounded and sick soldiers, prisoners of war and civilians. Deliberately targeting civilians, torturing prisoners and attacking hospitals are among the acts they prohibit. The **International Committee of the Red Cross**, founded in 1863, helps uphold these rules.
+
+After World War II, the **Nuremberg** and **Tokyo** trials prosecuted leaders for war crimes and crimes against humanity, establishing that individuals, including heads of state, can be held personally responsible. In **2002**, the **International Criminal Court (ICC)** was established in The Hague to prosecute genocide, war crimes, crimes against humanity and aggression when national courts are unable or unwilling to do so. Over 120 countries are members, but several major powers, including the **United States**, **China**, **Russia** and **India**, are not, with various concerns about sovereignty and political misuse. Critics also note that early ICC cases focused heavily on Africa.
+
+=== text Is war declining?
+Scholars debate long-term trends in violence. The psychologist **Steven Pinker**, in a **2011** book, argued that violence, including war deaths, has declined substantially over the long run, especially since 1945, with no direct wars between great powers since then. Critics challenged his data and argued that a single major war could reverse such trends.
+
+Recent data have tempered optimism. Researchers at Sweden’s **Uppsala Conflict Data Program** have recorded a rise in the number of armed conflicts in recent years, with the mid-2020s seeing the highest number of state-based conflicts since records began after World War II, including major wars in **Ukraine**, **Gaza** and **Sudan**, among others.
+
+=== steps Cooperating on global problems
+- Some problems can only be solved together: climate change, pandemics, financial crises, ocean protection, nuclear proliferation and terrorism.
+- These are often **collective action problems**: everyone benefits if all cooperate, but each country is tempted to let others bear the costs, like the free-rider problem you met in the Economics region.
+- The **Montreal Protocol (1987)**, protecting the ozone layer, shows cooperation can work, helped by clear science, available alternatives and support for developing countries.
+- The **Paris Agreement (2015)** on climate relies on voluntary national pledges, reflecting the difficulty of binding agreements, as you saw in the Earth region.
+- **UN peacekeeping** missions have helped stabilise conflicts in many countries; **India** has historically been one of the largest contributors of troops to UN peacekeeping operations.
+- Groups like the **G20**, which India chaired in **2023**, bringing the African Union in as a permanent member, offer forums for major economies to coordinate.
+
+=== reveal Is the world moving from one superpower to many?
+After the Cold War ended in **1991**, the United States was often described as the world’s only superpower, a **unipolar** moment. Since then, the rise of **China** as a major economic and military power, a more assertive **Russia**, and the growing influence of countries like **India**, Brazil, Turkey, Saudi Arabia and Indonesia have led many analysts to describe a shift towards a **multipolar** world, with several centres of power. Some see growing rivalry between the US and China as the defining feature of the coming decades. Groupings like **BRICS** (Brazil, Russia, India, China, South Africa, and newer members) have expanded. Realists warn that power transitions can be dangerous; liberals hope institutions and interdependence can manage them peacefully. How this transition unfolds will shape the world for decades.
+
+=== keypoints
+- Wars arise from **security dilemmas**, **miscalculation**, **territorial disputes**, **nationalism**, **domestic politics** and **power transitions**.
+- **Nuclear deterrence** and **MAD** shaped the Cold War; the **Cuban Missile Crisis (1962)** came close to nuclear war.
+- The **NPT (1968)** aims to stop the spread of nuclear weapons; **India** hasn’t signed it, calling it discriminatory, and tested weapons in **1974** and **1998**.
+- The **Geneva Conventions (1949)** set rules of war; the **ICC (2002)** prosecutes the gravest crimes, though major powers, including India, aren’t members.
+- Debate continues over whether war is declining; armed conflicts have increased in recent years.
+- **Collective action problems** make global cooperation hard; successes include the **Montreal Protocol**; India is a major **peacekeeping** contributor and chaired the **G20** in **2023**.
+- Many analysts see a shift from a **unipolar** to a **multipolar** world.
+
+=== why
+War, nuclear weapons and global cooperation affect everyone’s security and future. Understanding why wars happen, how the nuclear age changed strategy and why cooperation is so difficult helps you interpret world events, evaluate foreign policy debates and appreciate the fragile achievements that have kept the peace between great powers since 1945.
+
+##### LESSON
+id: politics.revolutions.1
+title: Why Revolutions Happen
+minutes: 15
+check: In your own words: what conditions tend to lead to revolutions, what is the Tocqueville paradox, and why do revolutions often produce outcomes their leaders didn’t intend?
+
+=== hook
+On **14 July 1789**, a crowd in Paris stormed the **Bastille**, a royal fortress and prison that symbolised the king’s arbitrary power. It held only seven prisoners at the time. But its fall became the defining symbol of the **French Revolution**, and 14 July is still France’s national day.
+
+Within a few years, the revolution had abolished the monarchy and feudal privileges, issued the **Declaration of the Rights of Man and of the Citizen**, proclaiming liberty and equality, and executed King Louis XVI. Then it descended into the **Reign of Terror**, during which thousands were executed, often on flimsy charges, before the revolution itself gave way to the rule of **Napoleon Bonaparte**, who crowned himself emperor. A revolution that began with ideals of liberty ended in dictatorship. Why do revolutions happen, and why do they so often turn out so differently from what their participants hoped?
+
+=== core
+A **revolution** is a rapid, fundamental change in a society’s political system, and often its social and economic structures, usually involving mass participation and, often, violence. It’s different from:
+
+- A **coup**: a sudden seizure of power by a small group, often military, that changes the rulers but not necessarily the system.
+- A **reform**: gradual change within the existing system.
+- A **rebellion**: an uprising that may fail or may not seek to transform the whole system.
+
+Major revolutions have shaped the modern world:
+
+- The **American Revolution** (**1775–1783**), which led to independence from Britain and a new republic based on written constitutional principles.
+- The **French Revolution** (from **1789**), which spread ideas of liberty, equality and national sovereignty across Europe.
+- The **Haitian Revolution** (**1791–1804**), in which enslaved people in the French colony of Saint-Domingue rose up, defeated French, Spanish and British forces, and founded **Haiti**, the first independent state born from a successful slave revolt.
+- The **Russian Revolution** (**1917**), which overthrew the Tsar and led to the world’s first communist state.
+- The **Chinese Revolution** (culminating in **1949**), which brought the Communist Party to power.
+- The **Iranian Revolution** (**1979**), which overthrew the Shah and established an Islamic republic.
+
+=== text Theory 1: rising expectations and frustration
+Common sense might suggest revolutions happen when people are most miserable. But the French political thinker **Alexis de Tocqueville**, studying the French Revolution in the 1850s, noticed something surprising: the revolution broke out not where conditions were worst, but in parts of France where conditions had been **improving**. He wrote that the most dangerous moment for a bad government is usually when it begins to reform itself. This became known as the **Tocqueville paradox**.
+
+In **1962**, the American sociologist **James C. Davies** proposed the **J-curve** theory: revolutions are most likely when a long period of rising prosperity and expectations is followed by a **sudden reversal**. People’s expectations keep rising, while reality falls, and the widening gap produces intense frustration.
+
+Related ideas focus on **relative deprivation**: people rebel not because of absolute poverty, but because they feel they have less than they deserve, compared with others or with their own expectations.
+
+=== callout analogy
+Think of a pressure cooker on a stove. Hardship alone builds pressure slowly, and people often endure it for generations. But when the heat suddenly rises, through a sharp economic crisis, a humiliating war defeat or a broken promise of reform, while the valve, the ability to change things peacefully, is blocked, the pressure can become explosive. Revolutions often happen when hopes have risen and are then suddenly frustrated.
+
+=== text Theory 2: states breaking down
+In her influential **1979** book *States and Social Revolutions*, the American sociologist **Theda Skocpol** compared the French, Russian and Chinese revolutions. She argued that revolutions are less about the plans of revolutionaries and more about **structural conditions**:
+
+- **State breakdown**: the old regime is weakened, often by **international pressure**, such as war, defeat or fiscal crisis. France in 1789 was nearly bankrupt after costly wars, including its support for the American Revolution. Russia in 1917 was collapsing under the strain of World War I.
+- **Elite divisions**: key groups, such as nobles, military officers or business leaders, turn against the regime or refuse to defend it.
+- **Popular revolt**: especially peasant uprisings, which can overwhelm a weakened state.
+
+On this view, revolutionaries often succeed not by overthrowing a strong state, but by stepping into a power vacuum left by a regime that is already falling apart.
+
+=== text Theory 3: the role of security forces
+Many scholars emphasise one factor above all: whether the **army and police** remain loyal. When soldiers refuse to fire on protesters, or join them, regimes usually fall quickly. When security forces remain loyal and willing to use force, revolutions are often crushed. In Russia in 1917, soldiers in Petrograd joining protesters was decisive. In many later cases, the same question determined whether uprisings succeeded or failed.
+
+=== steps Why revolutions often go astray
+- **Coalitions split**: revolutions often unite diverse groups against a common enemy. Once the old regime falls, they disagree about what comes next, and conflicts erupt.
+- **Radicals often gain power**: in the chaos after a revolution, the most organised and determined factions, often the most radical, tend to win. In France, the Jacobins drove the Terror; in Russia, the Bolsheviks seized power from a more moderate provisional government.
+- **External threats**: foreign powers often intervene against revolutions, creating siege conditions that justify repression.
+- **Violence breeds violence**: revolutions that come to power through force often rely on force to stay in power.
+- **Strongmen emerge**: amid disorder, people may welcome a strong leader who promises stability, as with Napoleon in France or Stalin in the Soviet Union.
+- **Old patterns persist**: new rulers often adopt the methods of the regimes they replaced, a pattern George Orwell satirised in *Animal Farm* (1945).
+
+=== reveal Did the Haitian Revolution change the world, and why is it less famous than the French Revolution?
+The Haitian Revolution was extraordinary. Beginning in **1791**, enslaved Africans in Saint-Domingue, then the richest colony in the Caribbean, producing much of the world’s sugar and coffee on brutal plantations, rose up. Led by figures including **Toussaint Louverture**, a formerly enslaved man who became a brilliant military and political leader, they defeated armies sent by France, Spain and Britain, including a large force sent by Napoleon. Haiti declared independence in **1804**, becoming the first nation founded by formerly enslaved people and the first in the Caribbean to abolish slavery permanently. It terrified slave-holding powers and inspired enslaved people elsewhere. Yet Haiti faced isolation; in **1825**, France forced it to pay a huge indemnity to former slaveholders in exchange for recognition, a debt that burdened Haiti for over a century. Historians increasingly argue that its relative neglect in history books reflects long-standing biases about whose revolutions count.
+
+=== keypoints
+- A **revolution** is rapid, fundamental change involving mass participation; it differs from a **coup**, **reform** or **rebellion**.
+- Major revolutions include the **American (1775–83)**, **French (1789)**, **Haitian (1791–1804)**, **Russian (1917)**, **Chinese (1949)** and **Iranian (1979)**.
+- The **Tocqueville paradox**: revolutions often happen when conditions are **improving**; **Davies’s J-curve** stresses rising expectations followed by sudden reversal.
+- **Skocpol (1979)** emphasised **state breakdown**, **elite divisions** and **popular revolt**.
+- The **loyalty of security forces** often decides whether revolutions succeed.
+- Revolutions often go astray as **coalitions split**, **radicals gain power** and **strongmen emerge**, as with the **Terror** and **Napoleon**.
+- The **Haitian Revolution** created the first state founded by formerly enslaved people.
+
+=== why
+Revolutions have created many of the world’s modern states and ideas, from human rights declarations to communist regimes and Islamic republics. Understanding why they happen, and why they often end differently from how they began, helps you interpret political upheavals in the news and think carefully about how societies can change, whether through revolution or reform. The final lesson in this region looks at nonviolent revolutions and independence movements, including India’s.
+
+##### LESSON
+id: politics.revolutions.2
+title: Nonviolent Revolutions and the End of Empires
+minutes: 16
+prereq: politics.revolutions.1
+check: In your own words: how did India’s independence movement combine different strategies, why do nonviolent campaigns often succeed, and what made Partition so devastating?
+
+=== hook
+On **12 March 1930**, **Mahatma Gandhi**, aged 60, set out from his ashram near Ahmedabad with about 78 followers, walking towards the coastal village of **Dandi**, around 385 kilometres away. Their goal was simple: to make salt from seawater, breaking the British law that gave the colonial government a monopoly on salt production and taxed it.
+
+Along the way, thousands joined. On **6 April**, Gandhi picked up a lump of natural salt from the shore, defying the law. The **Salt March** sparked civil disobedience across India; tens of thousands of people, including Gandhi himself, were arrested. Newspapers around the world reported on it. Salt, something every person needed, had become a symbol of injustice that anyone could understand, and a way for ordinary people to resist an empire.
+
+=== core
+In the previous lesson, you saw that revolutions often involve violence and frequently end in new forms of authoritarian rule. But some of the most significant political transformations of the 20th century were achieved largely through **nonviolent resistance**: mass protests, strikes, boycotts and civil disobedience.
+
+The 20th century also saw the end of most of the world’s colonial empires. In **1945**, much of Africa, Asia and the Caribbean was under European colonial rule. By the 1970s, most colonies had become independent states, through a mix of negotiation, mass movements and, in some places, armed struggle.
+
+=== text India’s independence movement
+India’s struggle for independence was long, complex and involved many strands:
+
+- The **Indian National Congress**, founded in **1885**, began as a forum for educated Indians seeking a greater role in government, and grew into a mass movement.
+- After returning from South Africa in **1915**, where he had developed his methods, **Gandhi** promoted **satyagraha**, roughly “truth force” or “holding firmly to truth”: nonviolent resistance that sought to convert opponents through moral persuasion and self-suffering, rather than defeating them by force.
+- Major campaigns included the **Non-Cooperation Movement** (**1920–22**), boycotting British goods, schools and courts; the **Salt March** and **Civil Disobedience** (**1930**); and the **Quit India Movement** (**1942**), demanding immediate independence, which led to the arrest of the Congress leadership.
+- Other strands also played important roles: revolutionary groups, including figures like **Bhagat Singh**, who used violence against colonial officials; **Subhas Chandra Bose**’s **Indian National Army**, which fought alongside Japan in World War II; the **Royal Indian Navy mutiny** of **1946**; and movements led by figures like **B. R. Ambedkar** focused on caste justice and the rights of Dalits.
+- **World War II** severely weakened Britain economically and militarily, making it far harder to hold onto the empire.
+
+India became independent on **15 August 1947**. Historians debate the relative importance of nonviolent mass movements, armed resistance, Britain’s weakness after the war and international pressure, but most agree that all played a part.
+
+=== text Partition: independence and catastrophe
+Independence came with **Partition**: British India was divided into two states, **India** and **Pakistan** (which then included present-day **Bangladesh**, as East Pakistan), largely along religious lines, after the **Muslim League**, led by **Muhammad Ali Jinnah**, demanded a separate homeland for Muslims.
+
+The new borders were drawn hastily by a British lawyer, **Cyril Radcliffe**, who had never been to India before, and were announced only after independence. The result was one of the largest and most violent migrations in history:
+
+- An estimated **10 to 20 million** people were displaced, as Hindus and Sikhs moved to India and Muslims to Pakistan.
+- Communal violence killed somewhere between around **200,000 and 2 million** people; precise figures are unknown.
+- Tens of thousands of women were abducted and subjected to violence.
+
+Partition left deep scars and continues to shape relations between India and Pakistan, including the unresolved dispute over **Kashmir**. Gandhi himself was assassinated in **January 1948** by a Hindu nationalist who opposed his efforts for Hindu–Muslim reconciliation.
+
+=== callout analogy
+Think of colonial rule as a building held up by many pillars: the cooperation of local officials, soldiers, police, taxpayers, merchants and ordinary people going about their business. Nonviolent movements work by persuading people to withdraw their support from the pillars. When enough people stop cooperating, by boycotting, striking, refusing to pay taxes or refusing orders, the building becomes impossible to hold up, however strong it looks from outside.
+
+=== text Why nonviolent resistance often works
+In a groundbreaking **2011** study, *Why Civil Resistance Works*, the political scientists **Erica Chenoweth** and **Maria Stephan** analysed over 300 major campaigns for political change between **1900 and 2006**. They found that **nonviolent** campaigns succeeded about **53%** of the time, compared with about **26%** for **violent** campaigns.
+
+They suggested several reasons:
+
+- **Broader participation**: nonviolent campaigns are easier for ordinary people to join, including women, older people and children, so they tend to attract far more participants.
+- **Defections**: large, peaceful movements make it harder for soldiers and officials to justify repression, and more likely they’ll refuse orders or switch sides.
+- **Legitimacy**: violent repression of peaceful protesters often backfires, generating sympathy at home and abroad.
+- **Better outcomes**: countries where nonviolent campaigns succeeded were more likely to become democracies afterwards and less likely to fall into civil war.
+
+Chenoweth also observed that no campaign in their data that mobilised around **3.5%** of a population at its peak had failed, though she later cautioned that this was a tendency, not a law, and recent research suggests nonviolent campaigns have become less successful in recent years, as governments have learned new ways to counter them.
+
+=== steps Other nonviolent transformations
+- **Civil rights movement in the US** (1950s–60s): led by figures including **Martin Luther King Jr.**, who was deeply influenced by Gandhi, it used boycotts, marches and civil disobedience to end legal racial segregation.
+- **People Power Revolution, Philippines** (**1986**): mass peaceful protests in Manila led to the fall of the dictator **Ferdinand Marcos**.
+- **Velvet Revolution, Czechoslovakia** (**1989**): peaceful protests helped end communist rule, part of a wave of largely peaceful revolutions across Eastern Europe that year.
+- **End of apartheid, South Africa**: decades of resistance, combining mass protests, boycotts, strikes, international sanctions and an armed struggle by the ANC’s military wing, led to **Nelson Mandela**’s release in **1990** and the first democratic elections in **1994**.
+- **Arab Spring** (**2010–2011**): protests spread across North Africa and the Middle East. Outcomes varied widely: Tunisia initially transitioned to democracy, though it later experienced democratic backsliding; Egypt saw a brief democratic period followed by military rule; Libya, Syria and Yemen descended into civil war.
+
+=== reveal Was decolonisation mostly peaceful?
+It varied enormously. Some countries gained independence largely through negotiation and peaceful mass movements, such as **Ghana** in **1957**, the first sub-Saharan African colony to gain independence from Britain, led by **Kwame Nkrumah**. Others endured long and brutal wars. In **Algeria**, an eight-year war of independence against France (**1954–1962**) killed hundreds of thousands of people. In **Kenya**, the British crushed the **Mau Mau** uprising in the 1950s with mass detention and abuses. Portugal fought long colonial wars in Angola, Mozambique and Guinea-Bissau until its own dictatorship fell in 1974. Many newly independent states also faced difficult legacies: artificial borders, economies built to serve colonial powers, and limited preparation for self-government. Decolonisation reshaped the world, creating most of today’s countries, but its paths and costs differed greatly.
+
+=== keypoints
+- **Gandhi’s Salt March (1930)** turned a tax on salt into a symbol of resistance; **satyagraha** sought change through nonviolent moral pressure.
+- India’s independence movement combined the **Congress’s** mass campaigns (**Non-Cooperation 1920–22**, **Civil Disobedience 1930**, **Quit India 1942**) with revolutionaries, **Bose’s INA**, the **1946 naval mutiny**, Ambedkar’s social justice movement and Britain’s post-war weakness.
+- Independence on **15 August 1947** came with **Partition**: **10–20 million** displaced and roughly **200,000 to 2 million** killed.
+- **Chenoweth and Stephan (2011)** found **nonviolent** campaigns succeeded about **53%** of the time versus **26%** for violent ones, through **broad participation**, **defections** and **legitimacy**.
+- Other examples include the **US civil rights movement**, **People Power (1986)**, the **Velvet Revolution (1989)**, the end of **apartheid** and the mixed outcomes of the **Arab Spring**.
+- **Decolonisation** ranged from largely peaceful (**Ghana, 1957**) to brutal wars (**Algeria, 1954–62**).
+
+=== why
+India’s independence movement and other nonviolent struggles changed the world and inspired movements for justice everywhere. Understanding how ordinary people, through organisation and courage, have challenged powerful regimes, and the tragedies like Partition that can accompany even successful struggles, helps you think about how societies change and how freedom is won and protected. These ideas lead directly into the Democracy region.

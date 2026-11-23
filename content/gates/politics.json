@@ -1,0 +1,34 @@
+[
+  {
+    "id": "politics.gate.1",
+    "region": "politics",
+    "tier": 1,
+    "title": "The Leader Who Wants More Power",
+    "question": "Imagine a popular elected leader proposes to postpone the next election because of a crisis, calls journalists who criticise them \"enemies of the people\", and says only they truly represent the nation. Using what you have learned about power and legitimacy, the state, ideologies and media, analyse what is happening, why some citizens might support it, and what could protect the country’s institutions. Your answer should apply regardless of which side of politics the leader comes from.",
+    "links": ["power", "the-state", "ideologies", "media"],
+    "model_answer": "These are classic warning signs of democratic erosion described by Levitsky and Ziblatt: rejecting democratic rules (postponing elections), denying the legitimacy of critics (calling journalists enemies) and claiming to be the only true voice of the people, which is a hallmark of populism as Cas Mudde defines it. They apply whatever the leader’s ideology, left or right.\n\nIn terms of legitimacy, the leader is trying to shift from legal-rational authority, based on rules and elections, towards charismatic authority, based on their personal appeal. That is risky because legal-rational authority belongs to the office and constrains whoever holds it, while charismatic authority concentrates power in one person. Attacking the press also targets the agenda-setting role of media and a key mechanism for holding power to account; controlling what people think about is a powerful, often hidden, face of power.\n\nSome citizens might support the leader because of genuine crisis and fear, a desire for strong action, distrust of elites, or because the leader’s framing makes critics seem dangerous. History shows that freedoms are often removed gradually, each step seeming reasonable at the time.\n\nProtections include independent courts that can rule on whether postponement is constitutional, election commissions, a free and plural press, opposition parties and legislators willing to object, civil society organisations, and security forces that remain loyal to the constitution rather than to a person. The unwritten norms of mutual tolerance and forbearance matter too. Above all, citizens and leaders across the political spectrum need to defend the rules even when their own side is in power.",
+    "key_points": [
+      "Postponing elections, attacking the press and claiming sole representation are warning signs of democratic erosion.",
+      "This shifts legitimacy from legal-rational rules towards personal charismatic authority.",
+      "Attacking journalists targets accountability and the agenda-setting power of media.",
+      "Support can come from crisis, fear, distrust of elites and effective framing; erosion is often gradual.",
+      "Protections: courts, election bodies, free press, opposition, civil society, loyal-to-constitution security forces and norms of tolerance."
+    ]
+  },
+  {
+    "id": "politics.gate.2",
+    "region": "politics",
+    "tier": 2,
+    "title": "Change Without Chaos",
+    "question": "Compare India’s independence movement with the French Revolution. Using ideas about why revolutions happen, why nonviolent resistance often succeeds, misinformation and propaganda, and international politics, explain why their paths and outcomes differed, and what lessons they offer for movements seeking change today.",
+    "links": ["revolutions", "international", "media", "ideologies"],
+    "model_answer": "The French Revolution followed many patterns that theories of revolution predict. France faced a fiscal crisis after costly wars, elites were divided, and expectations had risen, consistent with the Tocqueville paradox and Davies’s J-curve. Once the old regime collapsed, the revolutionary coalition split, radicals such as the Jacobins gained power amid foreign war and internal threats, and the Terror followed. Disorder eventually brought a strongman, Napoleon. Violence used to seize power was then used to keep it, and propaganda and fear of enemies justified repression.\n\nIndia’s independence movement, while including revolutionaries and armed strands such as Bose’s INA, was dominated by mass nonviolent campaigns: Non-Cooperation, the Salt March and Quit India. Chenoweth and Stephan’s research suggests why this approach often works: it allows broad participation, encourages defections among those who sustain a regime, and makes repression look illegitimate at home and abroad. Symbols like salt helped frame the struggle in ways everyone could understand. International factors mattered greatly too: World War II exhausted Britain, and the post-war world, including the new United Nations, was turning against colonialism. India emerged as a democracy with a constitution, consistent with findings that nonviolent transitions more often produce democracy.\n\nBut India’s path was not free of catastrophe: Partition displaced 10 to 20 million people and killed hundreds of thousands or more, showing how communal division, rushed decisions and fear can turn independence into tragedy.\n\nLessons today: broad, disciplined, nonviolent participation tends to be more effective and more likely to produce democratic outcomes; coalitions need shared plans for what comes after victory; misinformation and dehumanising propaganda can unleash violence, as Partition and the WhatsApp lynchings showed; and international context shapes what is possible.",
+    "key_points": [
+      "France fits theories of revolution: fiscal crisis, elite splits, rising then frustrated expectations, radicalisation and a strongman.",
+      "India’s movement was dominated by mass nonviolent campaigns, with other strands alongside.",
+      "Nonviolence succeeds through broad participation, defections and legitimacy, and more often leads to democracy.",
+      "International context (WWII, decolonisation norms) shaped both paths.",
+      "Partition shows how division, fear and rushed decisions can cause catastrophe; misinformation and propaganda fuel violence."
+    ]
+  }
+]

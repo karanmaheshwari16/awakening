@@ -1,0 +1,80 @@
+{
+  "id": "politics.the-state.2",
+  "region": "politics",
+  "topic": "the-state",
+  "level": 2,
+  "prerequisites": [
+    "politics.the-state.1"
+  ],
+  "title": "What Should a State Do?",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1942**, in the middle of World War II, a British civil servant named **William Beveridge** published a report on social insurance. It became an unexpected bestseller, with hundreds of thousands of copies sold. It identified five “**giant evils**” holding society back: **Want**, **Disease**, **Ignorance**, **Squalor** and **Idleness**.\n\nAfter the war, the British government used Beveridge’s ideas to build a **welfare state**, including national insurance, family allowances and, in **1948**, the **National Health Service**, offering healthcare free at the point of use to everyone. Similar systems spread across Europe. The idea that the state should protect citizens “from the cradle to the grave” became widespread, and it remains one of the most debated questions in politics: how much should the state do?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw what a state is. This lesson asks what states **do**, and what they **should** do. Almost everyone agrees states should provide some basic functions; the disagreements are about how far beyond them to go.\n\nCore functions most people accept include:\n\n- **Security**: defending against external threats and maintaining internal order through police and courts.\n- **Law and justice**: making laws, enforcing contracts and settling disputes.\n- **Public goods**: things markets underprovide, like roads, clean water and basic research, as you saw in the Economics region.\n\nBeyond these, states may also provide:\n\n- **Welfare and social insurance**: pensions, unemployment support, disability benefits, food assistance.\n- **Public services**: healthcare, education, housing.\n- **Economic management**: regulating markets, managing the currency, steering growth.\n- **Redistribution**: using taxes and spending to reduce inequality."
+    },
+    {
+      "type": "text",
+      "heading": "A spectrum of views",
+      "md": "Political thinkers have proposed very different answers about the proper size of the state:\n\n- **The minimal state**: libertarian thinkers, like the philosopher **Robert Nozick** (whom you met in the Philosophy region), argued for a “**night-watchman state**” limited to protecting people from force, theft and fraud, and enforcing contracts. Anything more, they argued, violates individual rights, especially through taxation.\n- **The liberal market state**: many economists and politicians accept a broader role for providing public goods and a basic safety net, while relying mainly on markets.\n- **The social democratic welfare state**: the **Nordic countries** combine market economies with high taxes, extensive public services and strong social protection.\n- **The developmental state**: in countries like **South Korea**, **Taiwan** and **Japan**, and in different ways **China**, governments played an active role directing investment and industry to drive rapid growth.\n- **Central planning**: at the far end, the state owns and directs most of the economy, as in the former Soviet Union, with the problems you saw in the Economics region.\n\nWhere a society sits on this spectrum reflects both evidence about what works and **values**: about freedom, equality, responsibility and community."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the state like the management of a large apartment building. Everyone agrees management should keep the building secure and the lifts working. Some residents want management to do much more: run a shared kitchen, a gym, childcare and help residents who fall on hard times, funded by higher monthly charges. Others prefer low charges and minimal services, arranging everything else themselves. Both views are reasonable; the right choice depends on what residents value and can afford, and on how well the management actually performs."
+    },
+    {
+      "type": "text",
+      "heading": "India’s approach",
+      "md": "India’s **Constitution** includes **Directive Principles of State Policy**: goals the state should pursue, like securing adequate means of livelihood, equal pay for equal work, public health and education, though, unlike fundamental rights, courts can’t directly enforce them.\n\nIndia has built a wide range of welfare programmes, especially since the 2000s:\n\n- The **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**, passed in **2005**, guarantees up to **100 days** of paid work a year to rural households willing to do manual labour, a legal right to work.\n- The **National Food Security Act** of **2013** entitles roughly **two-thirds** of the population to subsidised food grains through the public distribution system.\n- Programmes for **cooking gas**, **toilets**, **bank accounts**, **health insurance** and **housing** have expanded rapidly in recent years, often using **direct benefit transfers** to bank accounts, aiming to reduce leakage and corruption.\n\nDebates continue over effectiveness, targeting, cost and whether welfare should focus on cash transfers or services."
+    },
+    {
+      "type": "text",
+      "heading": "State capacity: can the state actually deliver?",
+      "md": "Deciding what a state should do is one thing; being **able** to do it is another. **State capacity** is the ability of a state to carry out its goals: collecting taxes, enforcing laws, delivering services and implementing policies effectively.\n\nKey elements include:\n\n- **Fiscal capacity**: the ability to raise revenue. Rich countries typically collect a much larger share of their economy in taxes. Across OECD countries, tax revenue averages around a **third** of GDP; in India, combined central and state tax revenue is a much smaller share, roughly in the high teens, partly because a large share of the economy is informal.\n- **Bureaucratic capacity**: a competent, professional civil service. **Max Weber** described the ideal bureaucracy as hierarchical, rule-based, impersonal and staffed by appointed experts, rather than personal favourites.\n- **Legal capacity**: courts and police that can enforce laws reliably and fairly.\n\nThe political scientist **Francis Fukuyama** has written about the challenge of “**getting to Denmark**”: how countries can build states that are both **capable** and **accountable**, combining a strong state with the rule of law and democratic accountability."
+    },
+    {
+      "type": "steps",
+      "title": "When states fail",
+      "items": [
+        "A **fragile** or **failed state** is one that can no longer perform basic functions, such as maintaining security, controlling its territory or providing basic services.",
+        "**Somalia** after **1991** is a frequently cited example: the central government collapsed, rival militias controlled different areas, and for years there was no effective national government.",
+        "Causes of state failure often include civil war, deep ethnic or political divisions, economic collapse, corruption, external intervention and the legacy of colonial borders.",
+        "In fragile states, people may rely on clans, militias, religious groups or international aid for security and services.",
+        "Rebuilding states is extremely difficult. Efforts by outside powers in places like **Afghanistan** and **Iraq** in the 2000s showed how hard it is to build effective, legitimate institutions from outside."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is a bigger state always more effective at helping people?",
+      "md": "Not necessarily. Evidence suggests that **how well** a state works matters as much as **how much** it does. A large state with weak capacity, corruption or poorly designed programmes may achieve less than a smaller, well-run one. Programmes can be captured by elites, fail to reach intended beneficiaries or create unintended incentives, as you saw with government failure in the Economics region. On the other hand, many essential services, like public health, basic education, infrastructure and social insurance, are difficult to provide well without an active state, and countries that invested heavily in them, like the Nordic countries, have achieved high living standards. Many researchers emphasise building **capable, accountable institutions** rather than simply making the state bigger or smaller. The right balance remains one of the central debates in politics, shaped by both evidence and values."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Core state functions include **security**, **law and justice** and **public goods**; many states also provide **welfare**, **services** and **redistribution**.",
+        "Views range from the **minimal (night-watchman) state** to **social democratic welfare states**, **developmental states** and **central planning**.",
+        "The **Beveridge Report (1942)** led to Britain’s welfare state and the **NHS (1948)**.",
+        "India’s **Directive Principles** guide policy; programmes include **MGNREGA (2005)** and the **National Food Security Act (2013)**.",
+        "**State capacity**, including **fiscal**, **bureaucratic** and **legal** capacity, determines whether states can deliver.",
+        "**Fragile or failed states**, like **Somalia** after 1991, can’t perform basic functions.",
+        "Effectiveness depends on **how well** a state works, not just how much it does."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Debates about taxes, welfare, public services and the role of government dominate politics in almost every country. Understanding the range of views, the importance of state capacity and the evidence on what works helps you engage with these debates thoughtfully, recognising that they involve both facts and values, and that reasonable people disagree."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between a minimal state and a welfare state, what is state capacity, and why do some states fail?"
+  }
+}

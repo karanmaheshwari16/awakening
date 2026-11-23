@@ -1,0 +1,84 @@
+{
+  "id": "politics.international.1",
+  "region": "politics",
+  "topic": "international",
+  "level": 1,
+  "prerequisites": [],
+  "title": "How Countries Deal with Each Other",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **431 BCE**, war broke out between **Athens** and **Sparta**, the two great powers of ancient Greece. The Athenian historian **Thucydides**, who fought in the war, wrote a history of it, and offered an explanation that still echoes today: what made war inevitable was the rise of Athenian power and the fear this caused in Sparta.\n\nThucydides also recorded a chilling exchange. When Athens demanded that the small, neutral island of **Melos** submit to its rule, the Athenian envoys reportedly told the Melians that questions of justice only arise between equals in power; otherwise, “the strong do what they can and the weak suffer what they must”. The Melians refused. Athens conquered the island, killed the men and enslaved the women and children. For 2,400 years, scholars have debated whether that harsh view describes how international politics really works."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**International relations (IR)** is the study of how states and other actors, like international organisations, corporations, terrorist groups and civil society, interact across borders: through diplomacy, trade, alliances, conflict and cooperation.\n\nA central feature of international politics is **anarchy**: not chaos, but the absence of a **world government** above states. Within a country, a government can enforce laws and settle disputes. Between countries, there’s no higher authority with the power to enforce rules on powerful states. How states behave in this situation is the subject of competing theories."
+    },
+    {
+      "type": "text",
+      "heading": "Realism: power and security",
+      "md": "**Realism** is one of the oldest traditions in IR, drawing on Thucydides, the Italian writer **Niccolò Machiavelli** and the English philosopher **Thomas Hobbes**. Modern realists, like **Hans Morgenthau** in the mid-20th century, argued that:\n\n- **States** are the main actors in world politics.\n- In an anarchic system, states must rely on themselves for **security and survival**.\n- States pursue **power** and their **national interest**, often defined in terms of security.\n- Moral principles and international law matter less than power.\n- Peace is best maintained through a **balance of power**: when power is spread among several states, no single one can dominate.\n\nA key realist idea is the **security dilemma**: when one state builds up its military to feel safer, others feel threatened and respond in kind, leaving everyone less secure, which can lead to arms races and war."
+    },
+    {
+      "type": "text",
+      "heading": "Liberalism: cooperation and institutions",
+      "md": "**Liberal** theories of IR (different from liberalism as a domestic ideology) are more optimistic about cooperation. Liberals argue that:\n\n- **International institutions**, like the UN and the World Trade Organization, help states cooperate by setting rules, sharing information and making it easier to trust each other.\n- **Economic interdependence**: countries that trade heavily with each other have more to lose from war.\n- **Democracies** rarely, if ever, go to war with each other, an observation known as the **democratic peace theory**, though scholars debate why, and how strong the pattern is.\n- Non-state actors, like corporations and civil society groups, also shape world politics."
+    },
+    {
+      "type": "text",
+      "heading": "Constructivism: ideas matter",
+      "md": "**Constructivism**, which became influential from the **1990s**, argues that international politics is shaped not just by material power but by **ideas, identities and norms**. In a famous **1992** article, the political scientist **Alexander Wendt** argued that “**anarchy is what states make of it**”.\n\nFor example, the United Kingdom has many nuclear weapons, but the United States doesn’t see them as a threat, while it would view even a few nuclear weapons in a hostile state very differently. What matters is not just the weapons, but the relationship and identities between states. Norms, like the taboo against using nuclear weapons or the idea that colonialism is wrong, can change how states behave."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Imagine a group of neighbours with no police, no courts and no landlord. A **realist** expects each household to build high walls and stock weapons, trusting no one. A **liberal** expects neighbours to form a residents’ association, set rules, trade with each other and gradually build trust. A **constructivist** points out that whether neighbours see each other as friends, rivals or enemies depends on their history, identities and shared ideas, which can change. All three capture something about how real neighbourhoods, and real countries, behave."
+    },
+    {
+      "type": "text",
+      "heading": "The United Nations",
+      "md": "The **United Nations** was founded in **1945**, after World War II, to maintain international peace and security, develop friendly relations among nations and promote human rights and cooperation. Its main bodies include:\n\n- The **General Assembly**, where all **193** member states have one vote each. It debates issues and passes resolutions, which are generally not legally binding.\n- The **Security Council**, responsible for peace and security, which can authorise sanctions and military action through binding decisions. It has **15** members: **5 permanent members**, the **United States**, **Russia**, **China**, the **United Kingdom** and **France**, each with a **veto**, and 10 elected members serving two-year terms.\n- The **Secretary-General** and Secretariat, running the organisation.\n- Agencies such as the **World Health Organization**, **UNICEF**, the **World Food Programme** and the UN refugee agency.\n\nThe **veto** means any permanent member can block Security Council action, even if all other members support it. This has often paralysed the Council during major crises involving permanent members or their allies. Many countries, including **India**, **Brazil**, **Germany**, **Japan** and African nations, argue that the Security Council reflects the world of 1945 rather than today, and seek reform. India has long sought a permanent seat."
+    },
+    {
+      "type": "steps",
+      "title": "India and non-alignment",
+      "items": [
+        "After independence in 1947, India faced a world dividing into two rival blocs in the **Cold War**: one led by the United States, the other by the Soviet Union.",
+        "Prime Minister **Jawaharlal Nehru** chose not to join either bloc, pursuing a policy of **non-alignment**: keeping independence in foreign policy and judging issues on their merits.",
+        "In **1955**, leaders from Asian and African countries met at the **Bandung Conference** in Indonesia, promoting cooperation among newly independent nations.",
+        "In **1961**, the **Non-Aligned Movement** was formally founded in **Belgrade**, led by figures including Nehru, Egypt’s **Gamal Abdel Nasser**, Yugoslavia’s **Josip Broz Tito**, Indonesia’s **Sukarno** and Ghana’s **Kwame Nkrumah**.",
+        "Critics noted that non-aligned countries sometimes leaned towards one bloc, and India signed a treaty of friendship with the Soviet Union in 1971.",
+        "Today, India often describes its approach as **strategic autonomy**: building partnerships with many countries, including the US, Russia, Europe, Japan and Gulf states, while avoiding binding alliances."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If there’s no world government, why do countries follow international law at all?",
+      "md": "Most countries follow most international rules most of the time, even without a global police force. Reasons include **reciprocity** (countries follow rules so others will too, such as treating diplomats well), **reputation** (being seen as reliable brings benefits in trade and diplomacy), **self-interest** (rules on trade, aviation, postal services and the internet make everyone better off), **institutions** that monitor and settle disputes, and **norms** that become accepted as right. Powerful states do sometimes break international law when they believe their vital interests are at stake, and enforcement against them is difficult. But the everyday functioning of the world, from international flights and shipping to telecommunications and trade, depends on a dense web of rules that most states usually respect."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**International relations** studies interactions across borders in a system of **anarchy**: no world government.",
+        "**Realism** (Thucydides, Machiavelli, Hobbes, **Morgenthau**) emphasises **power**, **national interest**, **balance of power** and the **security dilemma**.",
+        "**Liberalism** emphasises **institutions**, **interdependence** and the **democratic peace**.",
+        "**Constructivism** (**Wendt, 1992**: “anarchy is what states make of it”) emphasises **ideas**, **identities** and **norms**.",
+        "The **UN (1945)** has a **General Assembly** of **193** states and a **Security Council** with **5 permanent members holding vetoes**; many, including India, seek reform.",
+        "India pursued **non-alignment** under **Nehru** (Non-Aligned Movement, **1961**) and now emphasises **strategic autonomy**.",
+        "States follow international law through **reciprocity**, **reputation**, **self-interest**, **institutions** and **norms**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "International relations affect trade, migration, security, climate action and the prices you pay. Understanding the main theories helps you interpret news about wars, alliances, summits and the UN, and see why countries behave as they do. The next lesson explores war, peace and the challenges of global cooperation."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what do realists, liberals and constructivists each believe about international politics, and how does the UN Security Council work?"
+  }
+}

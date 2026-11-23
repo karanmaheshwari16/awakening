@@ -1,0 +1,326 @@
+##### LESSON
+id: politics.power.2
+title: Who Really Rules? Elites, Groups and Hidden Power
+minutes: 15
+prereq: politics.power.1
+check: In your own words: what is the difference between the elite and pluralist views of power, and what are Steven Lukes’s three “faces” of power?
+
+=== hook
+In the late 1950s, the American political scientist **Robert Dahl** set out to answer a deceptively simple question about the city of New Haven, Connecticut: **who governs?** Was the city secretly run by a small group of wealthy business owners and old families, as many people assumed?
+
+Dahl studied how key decisions were actually made, on urban redevelopment, public education and political nominations. He concluded, in his 1961 book *Who Governs?*, that different groups won on different issues, and no single elite controlled everything. Critics soon replied that Dahl had missed something crucial: the issues that never made it onto the agenda at all. Their debate opened up one of the most important questions in politics: how do we see power when much of it is hidden?
+
+=== core
+In the previous lesson, you met **power**, **authority** and **legitimacy**. This lesson asks a harder question: in practice, **who** holds power in a society, and how can we tell?
+
+Political scientists have offered several broad answers:
+
+- **Elite theory**: real power is concentrated in a small group, whether wealthy business leaders, top officials, military chiefs or old families, regardless of formal democratic institutions.
+- **Pluralism**: power is spread among many competing groups, such as businesses, unions, professional bodies, religious organisations and citizens’ associations, none of which dominates permanently. Government acts partly as a referee among them.
+- **Marxist theory**: power reflects economic class; those who own the means of production (factories, land, capital) shape the state in their interests.
+
+Each captures part of reality, and the balance varies between countries and over time.
+
+=== text Elites and the power elite
+In **1956**, the American sociologist **C. Wright Mills** published *The Power Elite*, arguing that in the United States, a small, interconnected group of leaders from big business, the military and the top of government made the most important decisions, moving between these worlds and sharing similar backgrounds and outlooks.
+
+Earlier, Italian thinkers like **Vilfredo Pareto** and **Gaetano Mosca** argued that every society, whatever its formal system, is ruled by a minority: an organised few always prevail over a disorganised many. The German sociologist **Robert Michels** described an “**iron law of oligarchy**”: even democratic organisations, like political parties and trade unions, tend over time to be controlled by a small leadership group.
+
+=== text The three faces of power
+In **1974**, the British political theorist **Steven Lukes** proposed that power has three dimensions, or “faces”:
+
+1. **Decision-making**: who wins open conflicts over decisions. This is the power Dahl measured: who gets their way when issues are debated and decided.
+2. **Agenda-setting** (or non-decision-making): the power to keep issues **off** the agenda, so they’re never debated at all. The political scientists **Peter Bachrach** and **Morton Baratz** argued in the early 1960s that this hidden face of power was as important as the visible one. If a powerful group can prevent an issue, like pollution from a local factory, from ever being discussed, it never has to win an open fight.
+3. **Shaping preferences**: the most subtle form, influencing what people **want** in the first place, through culture, education, media and tradition, so that they don’t even recognise their own interests or imagine alternatives.
+
+Lukes argued that focusing only on the first face misses the deepest forms of power.
+
+=== callout analogy
+Think of power in a family deciding where to go on holiday. The **first face** is who wins the argument between the beach and the mountains. The **second face** is who decided that only those two options would be discussed, never a trip abroad. The **third face** is who shaped everyone’s idea of what a “good holiday” is in the first place, so that some options seem natural and others unthinkable. The loudest voice in the argument isn’t necessarily the most powerful person.
+
+=== text Interest groups, lobbying and money
+In democracies, organised groups seek to influence government through **lobbying**: meeting officials, providing information, funding research, running campaigns and supporting candidates.
+
+Interest groups play valuable roles: they represent citizens’ concerns, provide expertise and hold governments accountable. Trade unions, farmers’ organisations, business associations, environmental groups and patient groups all do this.
+
+But concerns arise when some groups have far more resources than others. The economist **Mancur Olson** argued in **1965** that small groups with concentrated interests, like a single industry seeking a tariff, find it easier to organise than large groups with diffuse interests, like millions of consumers who each lose a little. This can tilt policy towards organised minorities, linking to the public choice ideas you met in the Economics region.
+
+Countries regulate money in politics differently: through limits on donations, disclosure requirements and public funding of parties. In India, debates have centred on transparency in political funding; in **2024**, the Supreme Court struck down the **electoral bonds** scheme, which had allowed anonymous donations to political parties, ruling that voters have a right to information about political funding.
+
+=== steps How ordinary people exercise power
+- **Voting**: in democracies, citizens choose and can remove leaders.
+- **Organising**: joining or forming associations, unions and community groups amplifies individual voices.
+- **Protest and petition**: public demonstrations and petitions can push issues onto the agenda, tackling the second face of power.
+- **Information and media**: investigative journalism and citizen reporting expose hidden decisions.
+- **Courts**: legal challenges can force governments and companies to follow the law, as you’ll see in the Law region.
+- **Everyday choices**: what people buy, boycott or support can shift corporate behaviour.
+- **Changing ideas**: social movements that change how people think, about women’s rights, caste discrimination or the environment, challenge the third face of power.
+
+=== reveal If power can be hidden, how can researchers ever study it?
+It’s genuinely difficult, which is why the debate between Dahl and his critics was so important. Researchers use several approaches: tracing how decisions were actually made, using documents, interviews and records (**decision-making**); examining which issues reached the agenda and which didn’t, and why (**agenda-setting**); comparing what people say they want with what they might choose under different conditions, though this risks outsiders claiming to know people’s “real” interests better than they do (**shaping preferences**); analysing networks of connections between elites, such as shared boards, schools and families; and studying who benefits from policies over time. Critics of Lukes warn against assuming people suffer from “false consciousness” whenever they disagree with the analyst. The challenge is to detect hidden power without dismissing people’s own judgements.
+
+=== keypoints
+- **Elite theory** sees power concentrated in a few; **pluralism** sees it spread among competing groups; **Marxist theory** links it to economic class.
+- **C. Wright Mills (1956)** described a **power elite**; **Michels** proposed the **iron law of oligarchy**.
+- **Dahl’s *Who Governs?* (1961)** found power dispersed in New Haven; critics said he missed hidden power.
+- **Lukes’s three faces of power (1974)**: **decision-making**, **agenda-setting** and **shaping preferences**.
+- **Interest groups** and **lobbying** can represent citizens but also tilt policy towards organised, well-resourced groups (**Olson, 1965**).
+- India’s Supreme Court struck down **electoral bonds** in **2024**, citing voters’ right to information.
+- Citizens exercise power through **voting**, **organising**, **protest**, **media**, **courts** and **changing ideas**.
+
+=== why
+Understanding the different faces of power helps you look beyond the headlines: to ask not just who won a debate, but who set the agenda and whose voices were missing. It equips you to engage with politics more critically and more effectively, whatever your views, and connects to the next lessons on states, ideologies and media.
+
+##### LESSON
+id: politics.the-state.1
+title: States and Nations
+minutes: 15
+check: In your own words: what is the difference between a state and a nation, what makes something a state under international law, and what did Hobbes and Locke disagree about?
+
+=== hook
+In **1648**, after the **Thirty Years’ War** had devastated central Europe and killed millions, European powers signed a set of treaties known as the **Peace of Westphalia**. Among other things, the settlement strengthened an idea that would shape the modern world: that rulers have authority within their own territory, and that other powers should not interfere in their internal affairs, including in matters of religion.
+
+Historians debate how much Westphalia really changed at the time. But the idea associated with it, of a world divided into **sovereign states**, each with its own borders and government, spread across the globe, especially as colonial empires dissolved in the 20th century. Today, there are around 193 member states of the United Nations, and almost every inhabited piece of land on Earth is claimed by one. But what exactly is a state, and how is it different from a nation?
+
+=== core
+People often use **state**, **nation** and **country** interchangeably, but political scientists distinguish them:
+
+- A **state** is a political organisation that governs a defined territory and population, with its own institutions, laws and the ability to enforce them. The German sociologist **Max Weber**, whom you met earlier, famously defined the state as a human community that successfully claims the **monopoly of the legitimate use of physical force** within a given territory.
+- A **nation** is a group of people who see themselves as sharing a common identity, often based on language, culture, history, religion or ancestry, and who often aspire to govern themselves.
+- A **nation-state** is a state whose population largely shares a single national identity.
+
+In practice, many states contain multiple nations or identities, and some nations have no state of their own.
+
+=== text What makes a state?
+Under international law, a widely cited definition comes from the **Montevideo Convention** of **1933**, which lists four criteria:
+
+1. A **permanent population**.
+2. A **defined territory**.
+3. A functioning **government**.
+4. The **capacity to enter into relations** with other states.
+
+In practice, **recognition** by other states matters enormously. Some territories meet many of these criteria but are recognised by only some countries, or by none, such as **Taiwan**, **Kosovo** and **Palestine**, each recognised by some states but not others, for different historical and political reasons. Recognition affects whether a territory can join international organisations, sign treaties and trade freely.
+
+=== text Imagined communities
+What makes millions of people, most of whom will never meet, feel that they belong to the same nation? In his influential **1983** book, the political scientist **Benedict Anderson** described nations as **imagined communities**: not fake, but imagined, in the sense that members feel a deep bond with countless strangers they’ll never know.
+
+Anderson argued that modern nationalism spread with **print capitalism**: newspapers and books in common languages allowed people across large areas to imagine themselves as part of the same community, reading the same news on the same day. National anthems, flags, maps, museums, sporting teams and shared holidays all reinforce this sense of belonging.
+
+=== callout analogy
+Think of a nation like the fans of a cricket team. Millions of supporters across a country feel united when their team wins, though they’ll never meet each other or the players. Their shared identity is real in its effects, inspiring loyalty, joy and sacrifice, even though it exists mainly in their shared imagination, symbols and stories. A state, by contrast, is more like the cricket board: the organisation with the rules, the budget and the authority.
+
+=== text Multinational states and stateless nations
+Many states contain several national, linguistic or ethnic groups:
+
+- **India** is one of the most diverse states in the world, with hundreds of languages, many religions and a wide range of regional identities. Its constitution recognises 22 scheduled languages, and states were largely reorganised along linguistic lines from **1956**. Indian national identity has often been described as “**unity in diversity**”.
+- The **United Kingdom** includes England, Scotland, Wales and Northern Ireland, each with its own identity; Scotland held an independence referendum in **2014**, in which a majority voted to remain in the UK.
+- **Switzerland** combines German, French, Italian and Romansh-speaking communities in a single federation.
+
+Some nations have no state of their own. The **Kurds**, estimated at around 30 to 40 million people, live mainly across parts of Turkey, Iraq, Iran and Syria, and form one of the largest ethnic groups without an independent state.
+
+=== text Why have a state at all? The social contract
+Philosophers have long asked why people should accept being governed. Several thinkers developed the idea of a **social contract**: an implicit agreement in which people give up some freedoms in exchange for the benefits of government.
+
+- **Thomas Hobbes**, writing in **1651** after the English Civil War, imagined life without any government, a **state of nature**, as a war of all against all, in which life would be “solitary, poor, nasty, brutish, and short”. People would rationally agree to submit to a powerful sovereign, which he called the **Leviathan**, to secure peace and order.
+- **John Locke**, writing in **1689**, had a more optimistic view. People in a state of nature have **natural rights** to life, liberty and property. They create government to protect those rights, and if government violates them, people have the right to resist or replace it. Locke’s ideas strongly influenced the American Declaration of Independence.
+- **Jean-Jacques Rousseau**, in **1762**, argued that legitimate government must reflect the **general will** of the people, and began his book with the famous line: “Man is born free, and everywhere he is in chains.”
+
+=== steps The modern state system in numbers
+- At the end of World War II in 1945, the **United Nations** was founded by **51** member states.
+- **Decolonisation** across Asia, Africa, the Caribbean and the Pacific dramatically increased the number of independent states in the following decades. India and Pakistan became independent in **1947**; many African states gained independence around **1960**.
+- The breakup of the **Soviet Union** and **Yugoslavia** in the early 1990s created more than twenty new states.
+- **South Sudan** became the newest UN member in **2011**.
+- Today, the UN has **193** member states, plus observer states.
+- Many borders, especially in Africa and the Middle East, were drawn by colonial powers with little regard for local identities, contributing to later tensions.
+
+=== reveal Is the state becoming less important in a globalised world?
+Some argue that globalisation, multinational corporations, international organisations, the internet and global challenges like climate change and pandemics are eroding the power of states. Others point out that states remain the main actors in world politics: they control armies, borders, taxes, laws and passports, and crises like the 2008 financial crash and the COVID-19 pandemic showed people turning to their national governments for help. States have also pooled some sovereignty voluntarily, as in the **European Union**, where members share laws and, for most, a currency. Rather than disappearing, many scholars argue, the state is adapting, sharing power with other actors while remaining central.
+
+=== keypoints
+- A **state** governs a territory with institutions and, in **Weber’s** definition, a **monopoly on legitimate force**; a **nation** is a people with a shared identity.
+- The **Montevideo Convention (1933)** lists population, territory, government and capacity for relations; **recognition** also matters, as with **Taiwan**, **Kosovo** and **Palestine**.
+- The **Peace of Westphalia (1648)** is associated with the principle of state **sovereignty**.
+- **Benedict Anderson** described nations as **imagined communities**, spread by print and shared symbols.
+- **India** is a highly diverse multinational state; the **Kurds** are a large nation without a state.
+- **Hobbes** (order through a strong sovereign), **Locke** (government protects natural rights) and **Rousseau** (the general will) developed **social contract** theories.
+- The UN grew from **51** members in 1945 to **193** today.
+
+=== why
+States shape almost every part of your life, from the passport you carry to the laws you follow and the taxes you pay. Understanding what states and nations are, and why people accept being governed, helps you make sense of debates about borders, independence movements, nationalism and globalisation. The next lesson asks: what should a state actually do?
+
+##### LESSON
+id: politics.the-state.2
+title: What Should a State Do?
+minutes: 15
+prereq: politics.the-state.1
+check: In your own words: what is the difference between a minimal state and a welfare state, what is state capacity, and why do some states fail?
+
+=== hook
+In **1942**, in the middle of World War II, a British civil servant named **William Beveridge** published a report on social insurance. It became an unexpected bestseller, with hundreds of thousands of copies sold. It identified five “**giant evils**” holding society back: **Want**, **Disease**, **Ignorance**, **Squalor** and **Idleness**.
+
+After the war, the British government used Beveridge’s ideas to build a **welfare state**, including national insurance, family allowances and, in **1948**, the **National Health Service**, offering healthcare free at the point of use to everyone. Similar systems spread across Europe. The idea that the state should protect citizens “from the cradle to the grave” became widespread, and it remains one of the most debated questions in politics: how much should the state do?
+
+=== core
+In the previous lesson, you saw what a state is. This lesson asks what states **do**, and what they **should** do. Almost everyone agrees states should provide some basic functions; the disagreements are about how far beyond them to go.
+
+Core functions most people accept include:
+
+- **Security**: defending against external threats and maintaining internal order through police and courts.
+- **Law and justice**: making laws, enforcing contracts and settling disputes.
+- **Public goods**: things markets underprovide, like roads, clean water and basic research, as you saw in the Economics region.
+
+Beyond these, states may also provide:
+
+- **Welfare and social insurance**: pensions, unemployment support, disability benefits, food assistance.
+- **Public services**: healthcare, education, housing.
+- **Economic management**: regulating markets, managing the currency, steering growth.
+- **Redistribution**: using taxes and spending to reduce inequality.
+
+=== text A spectrum of views
+Political thinkers have proposed very different answers about the proper size of the state:
+
+- **The minimal state**: libertarian thinkers, like the philosopher **Robert Nozick** (whom you met in the Philosophy region), argued for a “**night-watchman state**” limited to protecting people from force, theft and fraud, and enforcing contracts. Anything more, they argued, violates individual rights, especially through taxation.
+- **The liberal market state**: many economists and politicians accept a broader role for providing public goods and a basic safety net, while relying mainly on markets.
+- **The social democratic welfare state**: the **Nordic countries** combine market economies with high taxes, extensive public services and strong social protection.
+- **The developmental state**: in countries like **South Korea**, **Taiwan** and **Japan**, and in different ways **China**, governments played an active role directing investment and industry to drive rapid growth.
+- **Central planning**: at the far end, the state owns and directs most of the economy, as in the former Soviet Union, with the problems you saw in the Economics region.
+
+Where a society sits on this spectrum reflects both evidence about what works and **values**: about freedom, equality, responsibility and community.
+
+=== callout analogy
+Think of the state like the management of a large apartment building. Everyone agrees management should keep the building secure and the lifts working. Some residents want management to do much more: run a shared kitchen, a gym, childcare and help residents who fall on hard times, funded by higher monthly charges. Others prefer low charges and minimal services, arranging everything else themselves. Both views are reasonable; the right choice depends on what residents value and can afford, and on how well the management actually performs.
+
+=== text India’s approach
+India’s **Constitution** includes **Directive Principles of State Policy**: goals the state should pursue, like securing adequate means of livelihood, equal pay for equal work, public health and education, though, unlike fundamental rights, courts can’t directly enforce them.
+
+India has built a wide range of welfare programmes, especially since the 2000s:
+
+- The **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**, passed in **2005**, guarantees up to **100 days** of paid work a year to rural households willing to do manual labour, a legal right to work.
+- The **National Food Security Act** of **2013** entitles roughly **two-thirds** of the population to subsidised food grains through the public distribution system.
+- Programmes for **cooking gas**, **toilets**, **bank accounts**, **health insurance** and **housing** have expanded rapidly in recent years, often using **direct benefit transfers** to bank accounts, aiming to reduce leakage and corruption.
+
+Debates continue over effectiveness, targeting, cost and whether welfare should focus on cash transfers or services.
+
+=== text State capacity: can the state actually deliver?
+Deciding what a state should do is one thing; being **able** to do it is another. **State capacity** is the ability of a state to carry out its goals: collecting taxes, enforcing laws, delivering services and implementing policies effectively.
+
+Key elements include:
+
+- **Fiscal capacity**: the ability to raise revenue. Rich countries typically collect a much larger share of their economy in taxes. Across OECD countries, tax revenue averages around a **third** of GDP; in India, combined central and state tax revenue is a much smaller share, roughly in the high teens, partly because a large share of the economy is informal.
+- **Bureaucratic capacity**: a competent, professional civil service. **Max Weber** described the ideal bureaucracy as hierarchical, rule-based, impersonal and staffed by appointed experts, rather than personal favourites.
+- **Legal capacity**: courts and police that can enforce laws reliably and fairly.
+
+The political scientist **Francis Fukuyama** has written about the challenge of “**getting to Denmark**”: how countries can build states that are both **capable** and **accountable**, combining a strong state with the rule of law and democratic accountability.
+
+=== steps When states fail
+- A **fragile** or **failed state** is one that can no longer perform basic functions, such as maintaining security, controlling its territory or providing basic services.
+- **Somalia** after **1991** is a frequently cited example: the central government collapsed, rival militias controlled different areas, and for years there was no effective national government.
+- Causes of state failure often include civil war, deep ethnic or political divisions, economic collapse, corruption, external intervention and the legacy of colonial borders.
+- In fragile states, people may rely on clans, militias, religious groups or international aid for security and services.
+- Rebuilding states is extremely difficult. Efforts by outside powers in places like **Afghanistan** and **Iraq** in the 2000s showed how hard it is to build effective, legitimate institutions from outside.
+
+=== reveal Is a bigger state always more effective at helping people?
+Not necessarily. Evidence suggests that **how well** a state works matters as much as **how much** it does. A large state with weak capacity, corruption or poorly designed programmes may achieve less than a smaller, well-run one. Programmes can be captured by elites, fail to reach intended beneficiaries or create unintended incentives, as you saw with government failure in the Economics region. On the other hand, many essential services, like public health, basic education, infrastructure and social insurance, are difficult to provide well without an active state, and countries that invested heavily in them, like the Nordic countries, have achieved high living standards. Many researchers emphasise building **capable, accountable institutions** rather than simply making the state bigger or smaller. The right balance remains one of the central debates in politics, shaped by both evidence and values.
+
+=== keypoints
+- Core state functions include **security**, **law and justice** and **public goods**; many states also provide **welfare**, **services** and **redistribution**.
+- Views range from the **minimal (night-watchman) state** to **social democratic welfare states**, **developmental states** and **central planning**.
+- The **Beveridge Report (1942)** led to Britain’s welfare state and the **NHS (1948)**.
+- India’s **Directive Principles** guide policy; programmes include **MGNREGA (2005)** and the **National Food Security Act (2013)**.
+- **State capacity**, including **fiscal**, **bureaucratic** and **legal** capacity, determines whether states can deliver.
+- **Fragile or failed states**, like **Somalia** after 1991, can’t perform basic functions.
+- Effectiveness depends on **how well** a state works, not just how much it does.
+
+=== why
+Debates about taxes, welfare, public services and the role of government dominate politics in almost every country. Understanding the range of views, the importance of state capacity and the evidence on what works helps you engage with these debates thoughtfully, recognising that they involve both facts and values, and that reasonable people disagree.
+
+##### LESSON
+id: politics.ideologies.1
+title: Left, Right and the Big Political Ideas
+minutes: 15
+check: In your own words: where do the terms left and right come from, and what are the core values of liberalism, conservatism and socialism?
+
+=== hook
+In the summer of **1789**, during the French Revolution, members of France’s new National Assembly gathered to debate how much power the king should keep. Those who supported the king and traditional order tended to sit on the **right** side of the hall, as seen from the president’s chair. Those who wanted radical change, limiting royal power and expanding equality, tended to sit on the **left**.
+
+The seating arrangement stuck as a metaphor. More than two centuries later, people around the world still describe political views as “left” or “right”, though what those words mean has shifted enormously over time and varies from country to country. Understanding the big ideas behind them helps make sense of almost every political debate.
+
+=== core
+An **ideology** is a broad set of beliefs about how society should be organised: what people are like, what government should do, what rights people have and what a good society looks like. Ideologies help people make sense of politics, but they can also simplify complex issues.
+
+The **left–right spectrum** is a common way to map ideologies, but it’s a simplification:
+
+- The **left** is often associated with **equality**, **social change**, a larger role for government in reducing inequality, and support for workers and disadvantaged groups.
+- The **right** is often associated with **tradition**, **order**, **individual responsibility**, free markets and national identity.
+
+In reality, views are more complex. Many people are left on some issues and right on others. Political scientists often use at least **two dimensions**: an **economic** axis (how much should government intervene in the economy?) and a **social** axis (how much should government enforce traditional values versus personal freedom?).
+
+=== text Liberalism
+**Liberalism** centres on **individual liberty** and **rights**. Its roots lie in thinkers like **John Locke**, whom you met in the previous lesson, and **John Stuart Mill**, who argued in *On Liberty* (**1859**) that the only legitimate reason to restrict someone’s freedom is to prevent harm to others, known as the **harm principle**.
+
+Core liberal values include:
+
+- **Individual rights**: freedom of speech, religion, assembly and the press.
+- **Rule of law** and **limited government**, with checks on power.
+- **Equality before the law** and equal opportunity.
+- **Tolerance** of different beliefs and ways of life.
+- **Markets** and private property, with views varying on how much regulation is needed.
+
+Confusingly, the word “liberal” means different things in different countries. In the **United States**, it usually means centre-left, supporting a larger role for government. In much of **Europe** and elsewhere, “liberal” often refers to support for free markets and individual freedom. **Classical liberals** emphasise free markets and limited government; **social liberals** support government action to ensure people have real opportunities, such as through education and healthcare.
+
+=== text Conservatism
+**Conservatism** emphasises **tradition**, **stability** and **gradual change**. A key founding figure was the Irish-born British statesman **Edmund Burke**, who, in *Reflections on the Revolution in France* (**1790**), warned against tearing down long-standing institutions in the name of abstract ideals. He argued that traditions embody the accumulated wisdom of many generations, and that society is a partnership between the dead, the living and those yet to be born.
+
+Core conservative values include:
+
+- **Respect for tradition** and established institutions, like family, religion and community.
+- **Gradual, cautious reform** rather than radical change.
+- **Order** and **authority**.
+- **Scepticism** about grand plans to remake society.
+- Often, **national identity** and patriotism.
+
+Modern conservatism varies widely: some conservatives strongly support free markets, others emphasise social cohesion and are more sceptical of unregulated capitalism.
+
+=== text Socialism
+**Socialism** emphasises **equality** and **collective** or **social ownership** of key resources. It developed in the 19th century in response to the harsh conditions of the Industrial Revolution, which you saw in the History region.
+
+**Karl Marx** argued that capitalism divides society into classes, owners and workers, and that workers are exploited. He predicted that capitalism would eventually be replaced by a classless society.
+
+Socialism has taken many forms:
+
+- **Revolutionary socialism** and **communism** sought to overthrow capitalism, often through revolution, leading to one-party states like the Soviet Union, explored in the next lesson.
+- **Democratic socialism** seeks to achieve socialist goals through elections and democratic institutions.
+- **Social democracy** accepts a market economy but uses taxes, welfare, public services and strong labour rights to reduce inequality, as in the Nordic countries.
+
+In India, the first Prime Minister, **Jawaharlal Nehru**, combined democracy with a planned, mixed economy, sometimes called **Nehruvian socialism**, and the word “socialist” was added to the preamble of the Constitution in **1976**.
+
+=== callout analogy
+Think of three gardeners with different philosophies. The **liberal** gardener wants each plant to have the freedom and space to grow in its own way, with rules only to stop plants from harming each other. The **conservative** gardener values the old, established trees and the garden’s traditional layout, making changes slowly and carefully. The **socialist** gardener wants water, sunlight and soil shared fairly, so no plant is left starving while others hoard resources. Each sees something real about what a garden needs, and each worries about what the others might neglect.
+
+=== steps Other important ideologies
+- **Nationalism**: emphasises the nation as the central political community, and its right to self-determination. It can unite people against colonial rule, as in India’s independence movement, but can also fuel exclusion and conflict.
+- **Libertarianism**: emphasises individual freedom above almost all else, favouring minimal government in both economic and personal matters.
+- **Anarchism**: seeks to abolish the state altogether, replacing it with voluntary cooperation.
+- **Environmentalism** (green politics): prioritises protecting the natural world and sustainability, as you saw in the Earth and Biology regions.
+- **Feminism**: seeks equal rights and opportunities for women, and examines how power and gender interact.
+- **Religious political movements**: many movements across the world draw political goals from religious values and identities.
+
+=== text Beyond left and right
+The left–right spectrum, developed in Europe, doesn’t map neatly onto every country. **Indian politics**, for example, also features major debates over **secularism** and the role of **religious identity** in public life, **caste** and social justice, **regional autonomy** and **language**, and relationships between the centre and the states. Parties often combine positions that would be classified differently in Europe or the United States.
+
+Many political scientists argue that, in many countries today, new divides cut across the traditional left–right split, such as attitudes to **globalisation**, **immigration**, national identity and urban versus rural life.
+
+=== reveal Why do people end up with such different political views?
+Research suggests many factors play a role. **Upbringing** and family influences matter, as do **personal experiences**, **economic circumstances**, **education**, **religion**, **community** and the **media** people consume. Psychologists have found links between political views and personality traits, such as openness to new experiences, and, as you saw in the Philosophy region, people may weigh **moral foundations** like care, fairness, loyalty, authority and liberty differently. Genetics may have a modest influence on broad tendencies, though environment matters greatly. Importantly, research also shows people often hold more nuanced views than party labels suggest. Understanding why others think differently, without assuming they’re foolish or malicious, is the first step towards productive political discussion.
+
+=== keypoints
+- The terms **left** and **right** come from seating in the French National Assembly in **1789**.
+- An **ideology** is a broad set of beliefs about how society should be organised; views often span **economic** and **social** dimensions.
+- **Liberalism** (Locke, **Mill’s harm principle**) emphasises **individual rights**, **rule of law** and **tolerance**; its meaning varies by country.
+- **Conservatism** (**Burke, 1790**) emphasises **tradition**, **order** and **gradual change**.
+- **Socialism** emphasises **equality** and collective ownership, ranging from **revolutionary communism** to **democratic socialism** and **social democracy**.
+- Other ideologies include **nationalism**, **libertarianism**, **anarchism**, **environmentalism** and **feminism**.
+- **Indian politics** features debates, like **secularism**, **caste** and **regional autonomy**, that don’t map neatly onto left and right.
+
+=== why
+Political ideologies shape elections, policies, laws and public debates around the world. Understanding the core values behind each, in its strongest form, helps you make sense of political arguments, understand people who disagree with you and form your own views more thoughtfully, rather than simply adopting a label.

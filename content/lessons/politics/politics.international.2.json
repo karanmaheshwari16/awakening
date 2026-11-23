@@ -1,0 +1,86 @@
+{
+  "id": "politics.international.2",
+  "region": "politics",
+  "topic": "international",
+  "level": 2,
+  "prerequisites": [
+    "politics.international.1"
+  ],
+  "title": "War, Peace and Global Cooperation",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **27 October 1962**, at the height of the **Cuban Missile Crisis**, a Soviet submarine near Cuba was being tracked by American warships dropping small practice depth charges to force it to surface. Cut off from Moscow, unable to communicate and believing war might already have begun, the submarine’s captain reportedly wanted to launch a nuclear-armed torpedo.\n\nAccording to accounts that emerged decades later, launching required the agreement of three senior officers. One of them, **Vasili Arkhipov**, refused. The submarine surfaced, and the crisis was eventually resolved through negotiation between US President **John F. Kennedy** and Soviet leader **Nikita Khrushchev**. Some historians argue that one officer’s decision may have helped prevent a nuclear war. The episode shows both the terrifying risks of the nuclear age and the role of individual judgement in world events."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met the main theories of international relations. This lesson explores some of the central challenges they try to explain: **war**, **peace** and **cooperation** on shared problems.\n\nWhy do wars happen? Scholars point to many causes, often combined:\n\n- **Security dilemmas** and arms races, as you saw in the previous lesson.\n- **Miscalculation**: leaders may overestimate their chances of quick victory or underestimate their opponents’ resolve, as in 1914.\n- **Territorial disputes**, competition over resources and contested borders.\n- **Nationalism**, ideology and identity.\n- **Domestic politics**: leaders may use conflict to rally support or distract from problems.\n- **Power transitions**: as you saw with Thucydides, the rise of a new power can create fear and instability."
+    },
+    {
+      "type": "text",
+      "heading": "The nuclear age and deterrence",
+      "md": "The atomic bombings of Hiroshima and Nagasaki in **1945**, which you met in the History region, opened the **nuclear age**. The Soviet Union tested its first atomic bomb in **1949**, and both superpowers built huge arsenals, at their peak holding tens of thousands of nuclear weapons.\n\nNuclear weapons transformed strategy through **deterrence**: preventing an attack by threatening unacceptable retaliation. When both sides could survive a first strike and still destroy the other, the situation was described as **mutually assured destruction (MAD)**: any nuclear war would be suicidal for both. Some scholars argue this helped keep the **Cold War** between the superpowers from becoming a direct war. Others point out how close the world came to disaster, through crises like Cuba in 1962 and through false alarms."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of nuclear deterrence like two people standing in a room soaked in petrol, each holding a lit match. Neither wants to drop their match, because both would burn. That shared terror keeps them still. But it only works as long as no one panics, misreads the other’s movements or drops a match by accident. Deterrence has held since 1945, but it depends on rational leaders, reliable systems and luck."
+    },
+    {
+      "type": "text",
+      "heading": "Controlling nuclear weapons",
+      "md": "To reduce the risks, countries negotiated arms control agreements. The most important is the **Nuclear Non-Proliferation Treaty (NPT)**, opened for signature in **1968**. Under it:\n\n- Countries without nuclear weapons agree not to acquire them.\n- The five recognised nuclear-weapon states, the US, Russia, UK, France and China, agree to pursue nuclear disarmament.\n- All members have the right to peaceful nuclear energy.\n\n**India** has never signed the NPT, arguing that it is **discriminatory**, dividing the world permanently into nuclear “haves” and “have-nots”. India conducted a nuclear test in **1974** and a series of tests in **1998**, declaring itself a nuclear-weapon state; Pakistan conducted tests weeks later. India has adopted a policy of **no first use** of nuclear weapons. Other states outside the treaty with nuclear weapons include Pakistan, Israel (which has never officially confirmed its arsenal) and North Korea, which withdrew from the NPT."
+    },
+    {
+      "type": "text",
+      "heading": "Laws of war and international justice",
+      "md": "Even war has rules. The **Geneva Conventions**, in their modern form agreed in **1949**, along with later additions, set out protections for people who are not, or are no longer, fighting: wounded and sick soldiers, prisoners of war and civilians. Deliberately targeting civilians, torturing prisoners and attacking hospitals are among the acts they prohibit. The **International Committee of the Red Cross**, founded in 1863, helps uphold these rules.\n\nAfter World War II, the **Nuremberg** and **Tokyo** trials prosecuted leaders for war crimes and crimes against humanity, establishing that individuals, including heads of state, can be held personally responsible. In **2002**, the **International Criminal Court (ICC)** was established in The Hague to prosecute genocide, war crimes, crimes against humanity and aggression when national courts are unable or unwilling to do so. Over 120 countries are members, but several major powers, including the **United States**, **China**, **Russia** and **India**, are not, with various concerns about sovereignty and political misuse. Critics also note that early ICC cases focused heavily on Africa."
+    },
+    {
+      "type": "text",
+      "heading": "Is war declining?",
+      "md": "Scholars debate long-term trends in violence. The psychologist **Steven Pinker**, in a **2011** book, argued that violence, including war deaths, has declined substantially over the long run, especially since 1945, with no direct wars between great powers since then. Critics challenged his data and argued that a single major war could reverse such trends.\n\nRecent data have tempered optimism. Researchers at Sweden’s **Uppsala Conflict Data Program** have recorded a rise in the number of armed conflicts in recent years, with the mid-2020s seeing the highest number of state-based conflicts since records began after World War II, including major wars in **Ukraine**, **Gaza** and **Sudan**, among others."
+    },
+    {
+      "type": "steps",
+      "title": "Cooperating on global problems",
+      "items": [
+        "Some problems can only be solved together: climate change, pandemics, financial crises, ocean protection, nuclear proliferation and terrorism.",
+        "These are often **collective action problems**: everyone benefits if all cooperate, but each country is tempted to let others bear the costs, like the free-rider problem you met in the Economics region.",
+        "The **Montreal Protocol (1987)**, protecting the ozone layer, shows cooperation can work, helped by clear science, available alternatives and support for developing countries.",
+        "The **Paris Agreement (2015)** on climate relies on voluntary national pledges, reflecting the difficulty of binding agreements, as you saw in the Earth region.",
+        "**UN peacekeeping** missions have helped stabilise conflicts in many countries; **India** has historically been one of the largest contributors of troops to UN peacekeeping operations.",
+        "Groups like the **G20**, which India chaired in **2023**, bringing the African Union in as a permanent member, offer forums for major economies to coordinate."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is the world moving from one superpower to many?",
+      "md": "After the Cold War ended in **1991**, the United States was often described as the world’s only superpower, a **unipolar** moment. Since then, the rise of **China** as a major economic and military power, a more assertive **Russia**, and the growing influence of countries like **India**, Brazil, Turkey, Saudi Arabia and Indonesia have led many analysts to describe a shift towards a **multipolar** world, with several centres of power. Some see growing rivalry between the US and China as the defining feature of the coming decades. Groupings like **BRICS** (Brazil, Russia, India, China, South Africa, and newer members) have expanded. Realists warn that power transitions can be dangerous; liberals hope institutions and interdependence can manage them peacefully. How this transition unfolds will shape the world for decades."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "Wars arise from **security dilemmas**, **miscalculation**, **territorial disputes**, **nationalism**, **domestic politics** and **power transitions**.",
+        "**Nuclear deterrence** and **MAD** shaped the Cold War; the **Cuban Missile Crisis (1962)** came close to nuclear war.",
+        "The **NPT (1968)** aims to stop the spread of nuclear weapons; **India** hasn’t signed it, calling it discriminatory, and tested weapons in **1974** and **1998**.",
+        "The **Geneva Conventions (1949)** set rules of war; the **ICC (2002)** prosecutes the gravest crimes, though major powers, including India, aren’t members.",
+        "Debate continues over whether war is declining; armed conflicts have increased in recent years.",
+        "**Collective action problems** make global cooperation hard; successes include the **Montreal Protocol**; India is a major **peacekeeping** contributor and chaired the **G20** in **2023**.",
+        "Many analysts see a shift from a **unipolar** to a **multipolar** world."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "War, nuclear weapons and global cooperation affect everyone’s security and future. Understanding why wars happen, how the nuclear age changed strategy and why cooperation is so difficult helps you interpret world events, evaluate foreign policy debates and appreciate the fragile achievements that have kept the peace between great powers since 1945."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did nuclear deterrence shape the Cold War, what are the Geneva Conventions and the International Criminal Court, and why is global cooperation on issues like climate change so difficult?"
+  }
+}

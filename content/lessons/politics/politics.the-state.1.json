@@ -1,0 +1,84 @@
+{
+  "id": "politics.the-state.1",
+  "region": "politics",
+  "topic": "the-state",
+  "level": 1,
+  "prerequisites": [],
+  "title": "States and Nations",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1648**, after the **Thirty Years’ War** had devastated central Europe and killed millions, European powers signed a set of treaties known as the **Peace of Westphalia**. Among other things, the settlement strengthened an idea that would shape the modern world: that rulers have authority within their own territory, and that other powers should not interfere in their internal affairs, including in matters of religion.\n\nHistorians debate how much Westphalia really changed at the time. But the idea associated with it, of a world divided into **sovereign states**, each with its own borders and government, spread across the globe, especially as colonial empires dissolved in the 20th century. Today, there are around 193 member states of the United Nations, and almost every inhabited piece of land on Earth is claimed by one. But what exactly is a state, and how is it different from a nation?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "People often use **state**, **nation** and **country** interchangeably, but political scientists distinguish them:\n\n- A **state** is a political organisation that governs a defined territory and population, with its own institutions, laws and the ability to enforce them. The German sociologist **Max Weber**, whom you met earlier, famously defined the state as a human community that successfully claims the **monopoly of the legitimate use of physical force** within a given territory.\n- A **nation** is a group of people who see themselves as sharing a common identity, often based on language, culture, history, religion or ancestry, and who often aspire to govern themselves.\n- A **nation-state** is a state whose population largely shares a single national identity.\n\nIn practice, many states contain multiple nations or identities, and some nations have no state of their own."
+    },
+    {
+      "type": "text",
+      "heading": "What makes a state?",
+      "md": "Under international law, a widely cited definition comes from the **Montevideo Convention** of **1933**, which lists four criteria:\n\n1. A **permanent population**.\n2. A **defined territory**.\n3. A functioning **government**.\n4. The **capacity to enter into relations** with other states.\n\nIn practice, **recognition** by other states matters enormously. Some territories meet many of these criteria but are recognised by only some countries, or by none, such as **Taiwan**, **Kosovo** and **Palestine**, each recognised by some states but not others, for different historical and political reasons. Recognition affects whether a territory can join international organisations, sign treaties and trade freely."
+    },
+    {
+      "type": "text",
+      "heading": "Imagined communities",
+      "md": "What makes millions of people, most of whom will never meet, feel that they belong to the same nation? In his influential **1983** book, the political scientist **Benedict Anderson** described nations as **imagined communities**: not fake, but imagined, in the sense that members feel a deep bond with countless strangers they’ll never know.\n\nAnderson argued that modern nationalism spread with **print capitalism**: newspapers and books in common languages allowed people across large areas to imagine themselves as part of the same community, reading the same news on the same day. National anthems, flags, maps, museums, sporting teams and shared holidays all reinforce this sense of belonging."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a nation like the fans of a cricket team. Millions of supporters across a country feel united when their team wins, though they’ll never meet each other or the players. Their shared identity is real in its effects, inspiring loyalty, joy and sacrifice, even though it exists mainly in their shared imagination, symbols and stories. A state, by contrast, is more like the cricket board: the organisation with the rules, the budget and the authority."
+    },
+    {
+      "type": "text",
+      "heading": "Multinational states and stateless nations",
+      "md": "Many states contain several national, linguistic or ethnic groups:\n\n- **India** is one of the most diverse states in the world, with hundreds of languages, many religions and a wide range of regional identities. Its constitution recognises 22 scheduled languages, and states were largely reorganised along linguistic lines from **1956**. Indian national identity has often been described as “**unity in diversity**”.\n- The **United Kingdom** includes England, Scotland, Wales and Northern Ireland, each with its own identity; Scotland held an independence referendum in **2014**, in which a majority voted to remain in the UK.\n- **Switzerland** combines German, French, Italian and Romansh-speaking communities in a single federation.\n\nSome nations have no state of their own. The **Kurds**, estimated at around 30 to 40 million people, live mainly across parts of Turkey, Iraq, Iran and Syria, and form one of the largest ethnic groups without an independent state."
+    },
+    {
+      "type": "text",
+      "heading": "Why have a state at all? The social contract",
+      "md": "Philosophers have long asked why people should accept being governed. Several thinkers developed the idea of a **social contract**: an implicit agreement in which people give up some freedoms in exchange for the benefits of government.\n\n- **Thomas Hobbes**, writing in **1651** after the English Civil War, imagined life without any government, a **state of nature**, as a war of all against all, in which life would be “solitary, poor, nasty, brutish, and short”. People would rationally agree to submit to a powerful sovereign, which he called the **Leviathan**, to secure peace and order.\n- **John Locke**, writing in **1689**, had a more optimistic view. People in a state of nature have **natural rights** to life, liberty and property. They create government to protect those rights, and if government violates them, people have the right to resist or replace it. Locke’s ideas strongly influenced the American Declaration of Independence.\n- **Jean-Jacques Rousseau**, in **1762**, argued that legitimate government must reflect the **general will** of the people, and began his book with the famous line: “Man is born free, and everywhere he is in chains.”"
+    },
+    {
+      "type": "steps",
+      "title": "The modern state system in numbers",
+      "items": [
+        "At the end of World War II in 1945, the **United Nations** was founded by **51** member states.",
+        "**Decolonisation** across Asia, Africa, the Caribbean and the Pacific dramatically increased the number of independent states in the following decades. India and Pakistan became independent in **1947**; many African states gained independence around **1960**.",
+        "The breakup of the **Soviet Union** and **Yugoslavia** in the early 1990s created more than twenty new states.",
+        "**South Sudan** became the newest UN member in **2011**.",
+        "Today, the UN has **193** member states, plus observer states.",
+        "Many borders, especially in Africa and the Middle East, were drawn by colonial powers with little regard for local identities, contributing to later tensions."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Is the state becoming less important in a globalised world?",
+      "md": "Some argue that globalisation, multinational corporations, international organisations, the internet and global challenges like climate change and pandemics are eroding the power of states. Others point out that states remain the main actors in world politics: they control armies, borders, taxes, laws and passports, and crises like the 2008 financial crash and the COVID-19 pandemic showed people turning to their national governments for help. States have also pooled some sovereignty voluntarily, as in the **European Union**, where members share laws and, for most, a currency. Rather than disappearing, many scholars argue, the state is adapting, sharing power with other actors while remaining central."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **state** governs a territory with institutions and, in **Weber’s** definition, a **monopoly on legitimate force**; a **nation** is a people with a shared identity.",
+        "The **Montevideo Convention (1933)** lists population, territory, government and capacity for relations; **recognition** also matters, as with **Taiwan**, **Kosovo** and **Palestine**.",
+        "The **Peace of Westphalia (1648)** is associated with the principle of state **sovereignty**.",
+        "**Benedict Anderson** described nations as **imagined communities**, spread by print and shared symbols.",
+        "**India** is a highly diverse multinational state; the **Kurds** are a large nation without a state.",
+        "**Hobbes** (order through a strong sovereign), **Locke** (government protects natural rights) and **Rousseau** (the general will) developed **social contract** theories.",
+        "The UN grew from **51** members in 1945 to **193** today."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "States shape almost every part of your life, from the passport you carry to the laws you follow and the taxes you pay. Understanding what states and nations are, and why people accept being governed, helps you make sense of debates about borders, independence movements, nationalism and globalisation. The next lesson asks: what should a state actually do?"
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between a state and a nation, what makes something a state under international law, and what did Hobbes and Locke disagree about?"
+  }
+}

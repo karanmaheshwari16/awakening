@@ -1,0 +1,79 @@
+{
+  "id": "politics.revolutions.1",
+  "region": "politics",
+  "topic": "revolutions",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Why Revolutions Happen",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **14 July 1789**, a crowd in Paris stormed the **Bastille**, a royal fortress and prison that symbolised the king’s arbitrary power. It held only seven prisoners at the time. But its fall became the defining symbol of the **French Revolution**, and 14 July is still France’s national day.\n\nWithin a few years, the revolution had abolished the monarchy and feudal privileges, issued the **Declaration of the Rights of Man and of the Citizen**, proclaiming liberty and equality, and executed King Louis XVI. Then it descended into the **Reign of Terror**, during which thousands were executed, often on flimsy charges, before the revolution itself gave way to the rule of **Napoleon Bonaparte**, who crowned himself emperor. A revolution that began with ideals of liberty ended in dictatorship. Why do revolutions happen, and why do they so often turn out so differently from what their participants hoped?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "A **revolution** is a rapid, fundamental change in a society’s political system, and often its social and economic structures, usually involving mass participation and, often, violence. It’s different from:\n\n- A **coup**: a sudden seizure of power by a small group, often military, that changes the rulers but not necessarily the system.\n- A **reform**: gradual change within the existing system.\n- A **rebellion**: an uprising that may fail or may not seek to transform the whole system.\n\nMajor revolutions have shaped the modern world:\n\n- The **American Revolution** (**1775–1783**), which led to independence from Britain and a new republic based on written constitutional principles.\n- The **French Revolution** (from **1789**), which spread ideas of liberty, equality and national sovereignty across Europe.\n- The **Haitian Revolution** (**1791–1804**), in which enslaved people in the French colony of Saint-Domingue rose up, defeated French, Spanish and British forces, and founded **Haiti**, the first independent state born from a successful slave revolt.\n- The **Russian Revolution** (**1917**), which overthrew the Tsar and led to the world’s first communist state.\n- The **Chinese Revolution** (culminating in **1949**), which brought the Communist Party to power.\n- The **Iranian Revolution** (**1979**), which overthrew the Shah and established an Islamic republic."
+    },
+    {
+      "type": "text",
+      "heading": "Theory 1: rising expectations and frustration",
+      "md": "Common sense might suggest revolutions happen when people are most miserable. But the French political thinker **Alexis de Tocqueville**, studying the French Revolution in the 1850s, noticed something surprising: the revolution broke out not where conditions were worst, but in parts of France where conditions had been **improving**. He wrote that the most dangerous moment for a bad government is usually when it begins to reform itself. This became known as the **Tocqueville paradox**.\n\nIn **1962**, the American sociologist **James C. Davies** proposed the **J-curve** theory: revolutions are most likely when a long period of rising prosperity and expectations is followed by a **sudden reversal**. People’s expectations keep rising, while reality falls, and the widening gap produces intense frustration.\n\nRelated ideas focus on **relative deprivation**: people rebel not because of absolute poverty, but because they feel they have less than they deserve, compared with others or with their own expectations."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a pressure cooker on a stove. Hardship alone builds pressure slowly, and people often endure it for generations. But when the heat suddenly rises, through a sharp economic crisis, a humiliating war defeat or a broken promise of reform, while the valve, the ability to change things peacefully, is blocked, the pressure can become explosive. Revolutions often happen when hopes have risen and are then suddenly frustrated."
+    },
+    {
+      "type": "text",
+      "heading": "Theory 2: states breaking down",
+      "md": "In her influential **1979** book *States and Social Revolutions*, the American sociologist **Theda Skocpol** compared the French, Russian and Chinese revolutions. She argued that revolutions are less about the plans of revolutionaries and more about **structural conditions**:\n\n- **State breakdown**: the old regime is weakened, often by **international pressure**, such as war, defeat or fiscal crisis. France in 1789 was nearly bankrupt after costly wars, including its support for the American Revolution. Russia in 1917 was collapsing under the strain of World War I.\n- **Elite divisions**: key groups, such as nobles, military officers or business leaders, turn against the regime or refuse to defend it.\n- **Popular revolt**: especially peasant uprisings, which can overwhelm a weakened state.\n\nOn this view, revolutionaries often succeed not by overthrowing a strong state, but by stepping into a power vacuum left by a regime that is already falling apart."
+    },
+    {
+      "type": "text",
+      "heading": "Theory 3: the role of security forces",
+      "md": "Many scholars emphasise one factor above all: whether the **army and police** remain loyal. When soldiers refuse to fire on protesters, or join them, regimes usually fall quickly. When security forces remain loyal and willing to use force, revolutions are often crushed. In Russia in 1917, soldiers in Petrograd joining protesters was decisive. In many later cases, the same question determined whether uprisings succeeded or failed."
+    },
+    {
+      "type": "steps",
+      "title": "Why revolutions often go astray",
+      "items": [
+        "**Coalitions split**: revolutions often unite diverse groups against a common enemy. Once the old regime falls, they disagree about what comes next, and conflicts erupt.",
+        "**Radicals often gain power**: in the chaos after a revolution, the most organised and determined factions, often the most radical, tend to win. In France, the Jacobins drove the Terror; in Russia, the Bolsheviks seized power from a more moderate provisional government.",
+        "**External threats**: foreign powers often intervene against revolutions, creating siege conditions that justify repression.",
+        "**Violence breeds violence**: revolutions that come to power through force often rely on force to stay in power.",
+        "**Strongmen emerge**: amid disorder, people may welcome a strong leader who promises stability, as with Napoleon in France or Stalin in the Soviet Union.",
+        "**Old patterns persist**: new rulers often adopt the methods of the regimes they replaced, a pattern George Orwell satirised in *Animal Farm* (1945)."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Did the Haitian Revolution change the world, and why is it less famous than the French Revolution?",
+      "md": "The Haitian Revolution was extraordinary. Beginning in **1791**, enslaved Africans in Saint-Domingue, then the richest colony in the Caribbean, producing much of the world’s sugar and coffee on brutal plantations, rose up. Led by figures including **Toussaint Louverture**, a formerly enslaved man who became a brilliant military and political leader, they defeated armies sent by France, Spain and Britain, including a large force sent by Napoleon. Haiti declared independence in **1804**, becoming the first nation founded by formerly enslaved people and the first in the Caribbean to abolish slavery permanently. It terrified slave-holding powers and inspired enslaved people elsewhere. Yet Haiti faced isolation; in **1825**, France forced it to pay a huge indemnity to former slaveholders in exchange for recognition, a debt that burdened Haiti for over a century. Historians increasingly argue that its relative neglect in history books reflects long-standing biases about whose revolutions count."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "A **revolution** is rapid, fundamental change involving mass participation; it differs from a **coup**, **reform** or **rebellion**.",
+        "Major revolutions include the **American (1775–83)**, **French (1789)**, **Haitian (1791–1804)**, **Russian (1917)**, **Chinese (1949)** and **Iranian (1979)**.",
+        "The **Tocqueville paradox**: revolutions often happen when conditions are **improving**; **Davies’s J-curve** stresses rising expectations followed by sudden reversal.",
+        "**Skocpol (1979)** emphasised **state breakdown**, **elite divisions** and **popular revolt**.",
+        "The **loyalty of security forces** often decides whether revolutions succeed.",
+        "Revolutions often go astray as **coalitions split**, **radicals gain power** and **strongmen emerge**, as with the **Terror** and **Napoleon**.",
+        "The **Haitian Revolution** created the first state founded by formerly enslaved people."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Revolutions have created many of the world’s modern states and ideas, from human rights declarations to communist regimes and Islamic republics. Understanding why they happen, and why they often end differently from how they began, helps you interpret political upheavals in the news and think carefully about how societies can change, whether through revolution or reform. The final lesson in this region looks at nonviolent revolutions and independence movements, including India’s."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what conditions tend to lead to revolutions, what is the Tocqueville paradox, and why do revolutions often produce outcomes their leaders didn’t intend?"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "politics.revolutions.2",
+  "region": "politics",
+  "topic": "revolutions",
+  "level": 2,
+  "prerequisites": [
+    "politics.revolutions.1"
+  ],
+  "title": "Nonviolent Revolutions and the End of Empires",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "On **12 March 1930**, **Mahatma Gandhi**, aged 60, set out from his ashram near Ahmedabad with about 78 followers, walking towards the coastal village of **Dandi**, around 385 kilometres away. Their goal was simple: to make salt from seawater, breaking the British law that gave the colonial government a monopoly on salt production and taxed it.\n\nAlong the way, thousands joined. On **6 April**, Gandhi picked up a lump of natural salt from the shore, defying the law. The **Salt March** sparked civil disobedience across India; tens of thousands of people, including Gandhi himself, were arrested. Newspapers around the world reported on it. Salt, something every person needed, had become a symbol of injustice that anyone could understand, and a way for ordinary people to resist an empire."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you saw that revolutions often involve violence and frequently end in new forms of authoritarian rule. But some of the most significant political transformations of the 20th century were achieved largely through **nonviolent resistance**: mass protests, strikes, boycotts and civil disobedience.\n\nThe 20th century also saw the end of most of the world’s colonial empires. In **1945**, much of Africa, Asia and the Caribbean was under European colonial rule. By the 1970s, most colonies had become independent states, through a mix of negotiation, mass movements and, in some places, armed struggle."
+    },
+    {
+      "type": "text",
+      "heading": "India’s independence movement",
+      "md": "India’s struggle for independence was long, complex and involved many strands:\n\n- The **Indian National Congress**, founded in **1885**, began as a forum for educated Indians seeking a greater role in government, and grew into a mass movement.\n- After returning from South Africa in **1915**, where he had developed his methods, **Gandhi** promoted **satyagraha**, roughly “truth force” or “holding firmly to truth”: nonviolent resistance that sought to convert opponents through moral persuasion and self-suffering, rather than defeating them by force.\n- Major campaigns included the **Non-Cooperation Movement** (**1920–22**), boycotting British goods, schools and courts; the **Salt March** and **Civil Disobedience** (**1930**); and the **Quit India Movement** (**1942**), demanding immediate independence, which led to the arrest of the Congress leadership.\n- Other strands also played important roles: revolutionary groups, including figures like **Bhagat Singh**, who used violence against colonial officials; **Subhas Chandra Bose**’s **Indian National Army**, which fought alongside Japan in World War II; the **Royal Indian Navy mutiny** of **1946**; and movements led by figures like **B. R. Ambedkar** focused on caste justice and the rights of Dalits.\n- **World War II** severely weakened Britain economically and militarily, making it far harder to hold onto the empire.\n\nIndia became independent on **15 August 1947**. Historians debate the relative importance of nonviolent mass movements, armed resistance, Britain’s weakness after the war and international pressure, but most agree that all played a part."
+    },
+    {
+      "type": "text",
+      "heading": "Partition: independence and catastrophe",
+      "md": "Independence came with **Partition**: British India was divided into two states, **India** and **Pakistan** (which then included present-day **Bangladesh**, as East Pakistan), largely along religious lines, after the **Muslim League**, led by **Muhammad Ali Jinnah**, demanded a separate homeland for Muslims.\n\nThe new borders were drawn hastily by a British lawyer, **Cyril Radcliffe**, who had never been to India before, and were announced only after independence. The result was one of the largest and most violent migrations in history:\n\n- An estimated **10 to 20 million** people were displaced, as Hindus and Sikhs moved to India and Muslims to Pakistan.\n- Communal violence killed somewhere between around **200,000 and 2 million** people; precise figures are unknown.\n- Tens of thousands of women were abducted and subjected to violence.\n\nPartition left deep scars and continues to shape relations between India and Pakistan, including the unresolved dispute over **Kashmir**. Gandhi himself was assassinated in **January 1948** by a Hindu nationalist who opposed his efforts for Hindu–Muslim reconciliation."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of colonial rule as a building held up by many pillars: the cooperation of local officials, soldiers, police, taxpayers, merchants and ordinary people going about their business. Nonviolent movements work by persuading people to withdraw their support from the pillars. When enough people stop cooperating, by boycotting, striking, refusing to pay taxes or refusing orders, the building becomes impossible to hold up, however strong it looks from outside."
+    },
+    {
+      "type": "text",
+      "heading": "Why nonviolent resistance often works",
+      "md": "In a groundbreaking **2011** study, *Why Civil Resistance Works*, the political scientists **Erica Chenoweth** and **Maria Stephan** analysed over 300 major campaigns for political change between **1900 and 2006**. They found that **nonviolent** campaigns succeeded about **53%** of the time, compared with about **26%** for **violent** campaigns.\n\nThey suggested several reasons:\n\n- **Broader participation**: nonviolent campaigns are easier for ordinary people to join, including women, older people and children, so they tend to attract far more participants.\n- **Defections**: large, peaceful movements make it harder for soldiers and officials to justify repression, and more likely they’ll refuse orders or switch sides.\n- **Legitimacy**: violent repression of peaceful protesters often backfires, generating sympathy at home and abroad.\n- **Better outcomes**: countries where nonviolent campaigns succeeded were more likely to become democracies afterwards and less likely to fall into civil war.\n\nChenoweth also observed that no campaign in their data that mobilised around **3.5%** of a population at its peak had failed, though she later cautioned that this was a tendency, not a law, and recent research suggests nonviolent campaigns have become less successful in recent years, as governments have learned new ways to counter them."
+    },
+    {
+      "type": "steps",
+      "title": "Other nonviolent transformations",
+      "items": [
+        "**Civil rights movement in the US** (1950s–60s): led by figures including **Martin Luther King Jr.**, who was deeply influenced by Gandhi, it used boycotts, marches and civil disobedience to end legal racial segregation.",
+        "**People Power Revolution, Philippines** (**1986**): mass peaceful protests in Manila led to the fall of the dictator **Ferdinand Marcos**.",
+        "**Velvet Revolution, Czechoslovakia** (**1989**): peaceful protests helped end communist rule, part of a wave of largely peaceful revolutions across Eastern Europe that year.",
+        "**End of apartheid, South Africa**: decades of resistance, combining mass protests, boycotts, strikes, international sanctions and an armed struggle by the ANC’s military wing, led to **Nelson Mandela**’s release in **1990** and the first democratic elections in **1994**.",
+        "**Arab Spring** (**2010–2011**): protests spread across North Africa and the Middle East. Outcomes varied widely: Tunisia initially transitioned to democracy, though it later experienced democratic backsliding; Egypt saw a brief democratic period followed by military rule; Libya, Syria and Yemen descended into civil war."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Was decolonisation mostly peaceful?",
+      "md": "It varied enormously. Some countries gained independence largely through negotiation and peaceful mass movements, such as **Ghana** in **1957**, the first sub-Saharan African colony to gain independence from Britain, led by **Kwame Nkrumah**. Others endured long and brutal wars. In **Algeria**, an eight-year war of independence against France (**1954–1962**) killed hundreds of thousands of people. In **Kenya**, the British crushed the **Mau Mau** uprising in the 1950s with mass detention and abuses. Portugal fought long colonial wars in Angola, Mozambique and Guinea-Bissau until its own dictatorship fell in 1974. Many newly independent states also faced difficult legacies: artificial borders, economies built to serve colonial powers, and limited preparation for self-government. Decolonisation reshaped the world, creating most of today’s countries, but its paths and costs differed greatly."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Gandhi’s Salt March (1930)** turned a tax on salt into a symbol of resistance; **satyagraha** sought change through nonviolent moral pressure.",
+        "India’s independence movement combined the **Congress’s** mass campaigns (**Non-Cooperation 1920–22**, **Civil Disobedience 1930**, **Quit India 1942**) with revolutionaries, **Bose’s INA**, the **1946 naval mutiny**, Ambedkar’s social justice movement and Britain’s post-war weakness.",
+        "Independence on **15 August 1947** came with **Partition**: **10–20 million** displaced and roughly **200,000 to 2 million** killed.",
+        "**Chenoweth and Stephan (2011)** found **nonviolent** campaigns succeeded about **53%** of the time versus **26%** for violent ones, through **broad participation**, **defections** and **legitimacy**.",
+        "Other examples include the **US civil rights movement**, **People Power (1986)**, the **Velvet Revolution (1989)**, the end of **apartheid** and the mixed outcomes of the **Arab Spring**.",
+        "**Decolonisation** ranged from largely peaceful (**Ghana, 1957**) to brutal wars (**Algeria, 1954–62**)."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "India’s independence movement and other nonviolent struggles changed the world and inspired movements for justice everywhere. Understanding how ordinary people, through organisation and courage, have challenged powerful regimes, and the tragedies like Partition that can accompany even successful struggles, helps you think about how societies change and how freedom is won and protected. These ideas lead directly into the Democracy region."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: how did India’s independence movement combine different strategies, why do nonviolent campaigns often succeed, and what made Partition so devastating?"
+  }
+}

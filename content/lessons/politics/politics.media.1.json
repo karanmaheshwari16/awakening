@@ -1,0 +1,84 @@
+{
+  "id": "politics.media.1",
+  "region": "politics",
+  "topic": "media",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Media, Propaganda and Public Opinion",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "Around **1450**, in the German city of Mainz, a goldsmith named **Johannes Gutenberg** developed a printing press using movable metal type. Within a few decades, printing presses spread across Europe, producing millions of books. Information that once had to be copied by hand could now be reproduced quickly and cheaply.\n\nIn **1517**, a German monk named **Martin Luther** wrote criticisms of the Catholic Church. Thanks to printing, his writings spread across Germany within weeks and across Europe within months, helping spark the **Protestant Reformation**, which transformed European religion and politics. New media technologies have repeatedly reshaped who can communicate, what people know and who holds power. Printing, newspapers, radio, television and the internet each changed politics profoundly."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "**Media** are the channels through which information reaches the public: newspapers, magazines, radio, television, websites, social media and messaging apps. In democracies, media perform vital functions:\n\n- **Informing** citizens about events, issues and decisions.\n- **Holding power to account**: investigating and exposing wrongdoing by governments, companies and powerful individuals. This is why journalism is sometimes called the “**fourth estate**”, alongside the executive, legislature and judiciary.\n- **Providing a forum** for public debate.\n- **Representing** different voices and perspectives.\n\nBut media can also mislead, manipulate and divide. Understanding how media influence opinion is essential for thinking clearly about politics."
+    },
+    {
+      "type": "text",
+      "heading": "Agenda-setting: what we think about",
+      "md": "In a famous **1972** study, the communication researchers **Maxwell McCombs** and **Donald Shaw** compared what voters in Chapel Hill, North Carolina, considered the most important issues in the 1968 US presidential election with what local and national media had covered most. They found a strong match.\n\nTheir conclusion became known as **agenda-setting theory**: the media may not be very successful at telling people **what to think**, but they’re remarkably successful at telling people **what to think about**. The issues that receive the most coverage come to seem the most important, linking to the second face of power you met earlier."
+    },
+    {
+      "type": "text",
+      "heading": "Framing: how we think about it",
+      "md": "**Framing** refers to how a story is presented: what’s emphasised, what’s left out, what language and images are used. The same facts can be framed in very different ways.\n\n- A protest can be framed as a **peaceful demonstration for rights** or as a **disruptive disturbance causing traffic chaos**.\n- Economic policy can be framed in terms of **jobs created** or **taxes raised**.\n- Migrants can be described as **refugees fleeing danger**, **workers contributing to the economy** or **illegal immigrants**.\n\nResearch by **Daniel Kahneman** and **Amos Tversky**, whom you met in the Philosophy region, showed that framing affects decisions: people respond differently to a medical treatment described as having a **90% survival rate** than one described as having a **10% mortality rate**, though they mean the same thing."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of the media as a spotlight sweeping across a dark stage. Agenda-setting is about **where** the spotlight points: whatever it lights up seems important, while everything else stays in the dark. Framing is about the **colour** of the light and the angle: the same actor can look heroic in warm light from below or sinister in cold light from above. Neither involves lying, yet both shape what the audience sees."
+    },
+    {
+      "type": "text",
+      "heading": "Propaganda",
+      "md": "**Propaganda** is communication designed to influence people’s beliefs and actions in the interest of a particular cause, often using emotion, selective facts, repetition and simplification rather than balanced information.\n\nGovernments used propaganda extensively during **World War I**, with posters, films and news designed to build support for the war and demonise the enemy. The **Nazi** regime turned propaganda into a central instrument of power: **Joseph Goebbels**, as Minister of Propaganda, controlled newspapers, radio, film and art, spreading antisemitic lies, glorifying Hitler and preparing the public for war.\n\nPropaganda techniques include:\n\n- **Repetition**: repeating a message until it feels true.\n- **Scapegoating**: blaming a group for society’s problems.\n- **Emotional appeals**: fear, anger, pride and hatred.\n- **Simple slogans** that replace complex arguments.\n- **Selective facts** and outright lies.\n- **Creating enemies**: uniting people against a common threat, real or imagined."
+    },
+    {
+      "type": "text",
+      "heading": "Who controls the media?",
+      "md": "Media ownership and funding shape what gets reported:\n\n- **State-owned media** can provide public service broadcasting, like the **BBC** in the UK or **Doordarshan** and **All India Radio** in India, but in some countries are controlled by governments to suppress criticism.\n- **Commercial media** depend on advertising and audiences, which can create pressure to attract attention with sensational or polarising content, or to avoid offending advertisers and owners.\n- **Concentrated ownership**, where a few companies or individuals own many outlets, can narrow the range of views.\n\nIn **1988**, the scholars **Edward Herman** and **Noam Chomsky** argued in *Manufacturing Consent* that commercial media in the US, through ownership, advertising and reliance on official sources, tend to serve powerful interests without any need for direct censorship. Their model has been influential but also criticised for underestimating journalists’ independence and media diversity.\n\nOrganisations like **Reporters Without Borders** publish annual indexes ranking countries on press freedom, assessing factors like legal protections, political pressure and safety of journalists. India’s large and diverse media landscape includes thousands of newspapers in many languages and hundreds of television news channels, alongside debates about media independence and the safety of journalists."
+    },
+    {
+      "type": "steps",
+      "title": "Distinguishing journalism from propaganda and opinion",
+      "items": [
+        "**Separate news from opinion**: reputable outlets label editorials and opinion columns separately from news reporting.",
+        "**Check for sources**: good journalism names sources, links to evidence and explains how information was obtained.",
+        "**Look for corrections**: trustworthy outlets publicly correct their mistakes.",
+        "**Notice emotional manipulation**: content designed mainly to make you angry or afraid deserves extra scrutiny.",
+        "**Compare coverage**: reading how different outlets, with different perspectives, cover the same story reveals framing and omissions.",
+        "**Ask who benefits** from a particular message, and who funds the outlet."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "Do media make people more polarised?",
+      "md": "It’s debated. In many countries, people increasingly choose news sources that match their views, from partisan TV channels to social media feeds, which can reinforce existing beliefs and deepen divisions. Partisan media can also present opponents in exaggerated, hostile ways. However, research suggests the picture is complex: many people consume a mix of sources, polarisation began rising in some countries before social media existed, and factors like economic inequality, political strategy and identity also drive division. As you saw in the Technology region, studies of social media algorithms have found smaller effects on political attitudes than many expected. Media are one important factor among several in shaping how divided societies become."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "New media technologies, from **Gutenberg’s press (~1450)** to the internet, repeatedly reshape politics; printing spread the **Reformation**.",
+        "Media inform citizens, **hold power to account** (the **fourth estate**) and host debate.",
+        "**Agenda-setting (McCombs and Shaw, 1972)**: media influence **what people think about**.",
+        "**Framing** shapes **how** people think about issues; the same facts can be presented very differently.",
+        "**Propaganda** uses **repetition**, **scapegoating**, **emotion** and **selective facts**, as in Nazi Germany under **Goebbels**.",
+        "**Ownership** and funding (state, commercial, concentrated) shape coverage; **Manufacturing Consent (1988)** is an influential critique.",
+        "Separate **news from opinion**, check **sources** and **corrections**, and compare coverage."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Your understanding of the world, beyond what you experience directly, comes largely through media. Knowing how agenda-setting, framing and propaganda work helps you become a more critical, independent consumer of news, and better able to tell journalism from manipulation. The next lesson explores how these challenges have intensified in the digital age."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is agenda-setting, how does framing influence opinion, and how is propaganda different from journalism?"
+  }
+}

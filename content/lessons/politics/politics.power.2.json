@@ -1,0 +1,82 @@
+{
+  "id": "politics.power.2",
+  "region": "politics",
+  "topic": "power",
+  "level": 2,
+  "prerequisites": [
+    "politics.power.1"
+  ],
+  "title": "Who Really Rules? Elites, Groups and Hidden Power",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the late 1950s, the American political scientist **Robert Dahl** set out to answer a deceptively simple question about the city of New Haven, Connecticut: **who governs?** Was the city secretly run by a small group of wealthy business owners and old families, as many people assumed?\n\nDahl studied how key decisions were actually made, on urban redevelopment, public education and political nominations. He concluded, in his 1961 book *Who Governs?*, that different groups won on different issues, and no single elite controlled everything. Critics soon replied that Dahl had missed something crucial: the issues that never made it onto the agenda at all. Their debate opened up one of the most important questions in politics: how do we see power when much of it is hidden?"
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "In the previous lesson, you met **power**, **authority** and **legitimacy**. This lesson asks a harder question: in practice, **who** holds power in a society, and how can we tell?\n\nPolitical scientists have offered several broad answers:\n\n- **Elite theory**: real power is concentrated in a small group, whether wealthy business leaders, top officials, military chiefs or old families, regardless of formal democratic institutions.\n- **Pluralism**: power is spread among many competing groups, such as businesses, unions, professional bodies, religious organisations and citizens’ associations, none of which dominates permanently. Government acts partly as a referee among them.\n- **Marxist theory**: power reflects economic class; those who own the means of production (factories, land, capital) shape the state in their interests.\n\nEach captures part of reality, and the balance varies between countries and over time."
+    },
+    {
+      "type": "text",
+      "heading": "Elites and the power elite",
+      "md": "In **1956**, the American sociologist **C. Wright Mills** published *The Power Elite*, arguing that in the United States, a small, interconnected group of leaders from big business, the military and the top of government made the most important decisions, moving between these worlds and sharing similar backgrounds and outlooks.\n\nEarlier, Italian thinkers like **Vilfredo Pareto** and **Gaetano Mosca** argued that every society, whatever its formal system, is ruled by a minority: an organised few always prevail over a disorganised many. The German sociologist **Robert Michels** described an “**iron law of oligarchy**”: even democratic organisations, like political parties and trade unions, tend over time to be controlled by a small leadership group."
+    },
+    {
+      "type": "text",
+      "heading": "The three faces of power",
+      "md": "In **1974**, the British political theorist **Steven Lukes** proposed that power has three dimensions, or “faces”:\n\n1. **Decision-making**: who wins open conflicts over decisions. This is the power Dahl measured: who gets their way when issues are debated and decided.\n2. **Agenda-setting** (or non-decision-making): the power to keep issues **off** the agenda, so they’re never debated at all. The political scientists **Peter Bachrach** and **Morton Baratz** argued in the early 1960s that this hidden face of power was as important as the visible one. If a powerful group can prevent an issue, like pollution from a local factory, from ever being discussed, it never has to win an open fight.\n3. **Shaping preferences**: the most subtle form, influencing what people **want** in the first place, through culture, education, media and tradition, so that they don’t even recognise their own interests or imagine alternatives.\n\nLukes argued that focusing only on the first face misses the deepest forms of power."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of power in a family deciding where to go on holiday. The **first face** is who wins the argument between the beach and the mountains. The **second face** is who decided that only those two options would be discussed, never a trip abroad. The **third face** is who shaped everyone’s idea of what a “good holiday” is in the first place, so that some options seem natural and others unthinkable. The loudest voice in the argument isn’t necessarily the most powerful person."
+    },
+    {
+      "type": "text",
+      "heading": "Interest groups, lobbying and money",
+      "md": "In democracies, organised groups seek to influence government through **lobbying**: meeting officials, providing information, funding research, running campaigns and supporting candidates.\n\nInterest groups play valuable roles: they represent citizens’ concerns, provide expertise and hold governments accountable. Trade unions, farmers’ organisations, business associations, environmental groups and patient groups all do this.\n\nBut concerns arise when some groups have far more resources than others. The economist **Mancur Olson** argued in **1965** that small groups with concentrated interests, like a single industry seeking a tariff, find it easier to organise than large groups with diffuse interests, like millions of consumers who each lose a little. This can tilt policy towards organised minorities, linking to the public choice ideas you met in the Economics region.\n\nCountries regulate money in politics differently: through limits on donations, disclosure requirements and public funding of parties. In India, debates have centred on transparency in political funding; in **2024**, the Supreme Court struck down the **electoral bonds** scheme, which had allowed anonymous donations to political parties, ruling that voters have a right to information about political funding."
+    },
+    {
+      "type": "steps",
+      "title": "How ordinary people exercise power",
+      "items": [
+        "**Voting**: in democracies, citizens choose and can remove leaders.",
+        "**Organising**: joining or forming associations, unions and community groups amplifies individual voices.",
+        "**Protest and petition**: public demonstrations and petitions can push issues onto the agenda, tackling the second face of power.",
+        "**Information and media**: investigative journalism and citizen reporting expose hidden decisions.",
+        "**Courts**: legal challenges can force governments and companies to follow the law, as you’ll see in the Law region.",
+        "**Everyday choices**: what people buy, boycott or support can shift corporate behaviour.",
+        "**Changing ideas**: social movements that change how people think, about women’s rights, caste discrimination or the environment, challenge the third face of power."
+      ]
+    },
+    {
+      "type": "reveal",
+      "prompt": "If power can be hidden, how can researchers ever study it?",
+      "md": "It’s genuinely difficult, which is why the debate between Dahl and his critics was so important. Researchers use several approaches: tracing how decisions were actually made, using documents, interviews and records (**decision-making**); examining which issues reached the agenda and which didn’t, and why (**agenda-setting**); comparing what people say they want with what they might choose under different conditions, though this risks outsiders claiming to know people’s “real” interests better than they do (**shaping preferences**); analysing networks of connections between elites, such as shared boards, schools and families; and studying who benefits from policies over time. Critics of Lukes warn against assuming people suffer from “false consciousness” whenever they disagree with the analyst. The challenge is to detect hidden power without dismissing people’s own judgements."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Elite theory** sees power concentrated in a few; **pluralism** sees it spread among competing groups; **Marxist theory** links it to economic class.",
+        "**C. Wright Mills (1956)** described a **power elite**; **Michels** proposed the **iron law of oligarchy**.",
+        "**Dahl’s *Who Governs?* (1961)** found power dispersed in New Haven; critics said he missed hidden power.",
+        "**Lukes’s three faces of power (1974)**: **decision-making**, **agenda-setting** and **shaping preferences**.",
+        "**Interest groups** and **lobbying** can represent citizens but also tilt policy towards organised, well-resourced groups (**Olson, 1965**).",
+        "India’s Supreme Court struck down **electoral bonds** in **2024**, citing voters’ right to information.",
+        "Citizens exercise power through **voting**, **organising**, **protest**, **media**, **courts** and **changing ideas**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Understanding the different faces of power helps you look beyond the headlines: to ask not just who won a debate, but who set the agenda and whose voices were missing. It equips you to engage with politics more critically and more effectively, whatever your views, and connects to the next lessons on states, ideologies and media."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between the elite and pluralist views of power, and what are Steven Lukes’s three “faces” of power?"
+  }
+}

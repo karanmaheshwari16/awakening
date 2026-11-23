@@ -1,0 +1,84 @@
+{
+  "id": "politics.ideologies.1",
+  "region": "politics",
+  "topic": "ideologies",
+  "level": 1,
+  "prerequisites": [],
+  "title": "Left, Right and the Big Political Ideas",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In the summer of **1789**, during the French Revolution, members of France’s new National Assembly gathered to debate how much power the king should keep. Those who supported the king and traditional order tended to sit on the **right** side of the hall, as seen from the president’s chair. Those who wanted radical change, limiting royal power and expanding equality, tended to sit on the **left**.\n\nThe seating arrangement stuck as a metaphor. More than two centuries later, people around the world still describe political views as “left” or “right”, though what those words mean has shifted enormously over time and varies from country to country. Understanding the big ideas behind them helps make sense of almost every political debate."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "An **ideology** is a broad set of beliefs about how society should be organised: what people are like, what government should do, what rights people have and what a good society looks like. Ideologies help people make sense of politics, but they can also simplify complex issues.\n\nThe **left–right spectrum** is a common way to map ideologies, but it’s a simplification:\n\n- The **left** is often associated with **equality**, **social change**, a larger role for government in reducing inequality, and support for workers and disadvantaged groups.\n- The **right** is often associated with **tradition**, **order**, **individual responsibility**, free markets and national identity.\n\nIn reality, views are more complex. Many people are left on some issues and right on others. Political scientists often use at least **two dimensions**: an **economic** axis (how much should government intervene in the economy?) and a **social** axis (how much should government enforce traditional values versus personal freedom?)."
+    },
+    {
+      "type": "text",
+      "heading": "Liberalism",
+      "md": "**Liberalism** centres on **individual liberty** and **rights**. Its roots lie in thinkers like **John Locke**, whom you met in the previous lesson, and **John Stuart Mill**, who argued in *On Liberty* (**1859**) that the only legitimate reason to restrict someone’s freedom is to prevent harm to others, known as the **harm principle**.\n\nCore liberal values include:\n\n- **Individual rights**: freedom of speech, religion, assembly and the press.\n- **Rule of law** and **limited government**, with checks on power.\n- **Equality before the law** and equal opportunity.\n- **Tolerance** of different beliefs and ways of life.\n- **Markets** and private property, with views varying on how much regulation is needed.\n\nConfusingly, the word “liberal” means different things in different countries. In the **United States**, it usually means centre-left, supporting a larger role for government. In much of **Europe** and elsewhere, “liberal” often refers to support for free markets and individual freedom. **Classical liberals** emphasise free markets and limited government; **social liberals** support government action to ensure people have real opportunities, such as through education and healthcare."
+    },
+    {
+      "type": "text",
+      "heading": "Conservatism",
+      "md": "**Conservatism** emphasises **tradition**, **stability** and **gradual change**. A key founding figure was the Irish-born British statesman **Edmund Burke**, who, in *Reflections on the Revolution in France* (**1790**), warned against tearing down long-standing institutions in the name of abstract ideals. He argued that traditions embody the accumulated wisdom of many generations, and that society is a partnership between the dead, the living and those yet to be born.\n\nCore conservative values include:\n\n- **Respect for tradition** and established institutions, like family, religion and community.\n- **Gradual, cautious reform** rather than radical change.\n- **Order** and **authority**.\n- **Scepticism** about grand plans to remake society.\n- Often, **national identity** and patriotism.\n\nModern conservatism varies widely: some conservatives strongly support free markets, others emphasise social cohesion and are more sceptical of unregulated capitalism."
+    },
+    {
+      "type": "text",
+      "heading": "Socialism",
+      "md": "**Socialism** emphasises **equality** and **collective** or **social ownership** of key resources. It developed in the 19th century in response to the harsh conditions of the Industrial Revolution, which you saw in the History region.\n\n**Karl Marx** argued that capitalism divides society into classes, owners and workers, and that workers are exploited. He predicted that capitalism would eventually be replaced by a classless society.\n\nSocialism has taken many forms:\n\n- **Revolutionary socialism** and **communism** sought to overthrow capitalism, often through revolution, leading to one-party states like the Soviet Union, explored in the next lesson.\n- **Democratic socialism** seeks to achieve socialist goals through elections and democratic institutions.\n- **Social democracy** accepts a market economy but uses taxes, welfare, public services and strong labour rights to reduce inequality, as in the Nordic countries.\n\nIn India, the first Prime Minister, **Jawaharlal Nehru**, combined democracy with a planned, mixed economy, sometimes called **Nehruvian socialism**, and the word “socialist” was added to the preamble of the Constitution in **1976**."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of three gardeners with different philosophies. The **liberal** gardener wants each plant to have the freedom and space to grow in its own way, with rules only to stop plants from harming each other. The **conservative** gardener values the old, established trees and the garden’s traditional layout, making changes slowly and carefully. The **socialist** gardener wants water, sunlight and soil shared fairly, so no plant is left starving while others hoard resources. Each sees something real about what a garden needs, and each worries about what the others might neglect."
+    },
+    {
+      "type": "steps",
+      "title": "Other important ideologies",
+      "items": [
+        "**Nationalism**: emphasises the nation as the central political community, and its right to self-determination. It can unite people against colonial rule, as in India’s independence movement, but can also fuel exclusion and conflict.",
+        "**Libertarianism**: emphasises individual freedom above almost all else, favouring minimal government in both economic and personal matters.",
+        "**Anarchism**: seeks to abolish the state altogether, replacing it with voluntary cooperation.",
+        "**Environmentalism** (green politics): prioritises protecting the natural world and sustainability, as you saw in the Earth and Biology regions.",
+        "**Feminism**: seeks equal rights and opportunities for women, and examines how power and gender interact.",
+        "**Religious political movements**: many movements across the world draw political goals from religious values and identities."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Beyond left and right",
+      "md": "The left–right spectrum, developed in Europe, doesn’t map neatly onto every country. **Indian politics**, for example, also features major debates over **secularism** and the role of **religious identity** in public life, **caste** and social justice, **regional autonomy** and **language**, and relationships between the centre and the states. Parties often combine positions that would be classified differently in Europe or the United States.\n\nMany political scientists argue that, in many countries today, new divides cut across the traditional left–right split, such as attitudes to **globalisation**, **immigration**, national identity and urban versus rural life."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Why do people end up with such different political views?",
+      "md": "Research suggests many factors play a role. **Upbringing** and family influences matter, as do **personal experiences**, **economic circumstances**, **education**, **religion**, **community** and the **media** people consume. Psychologists have found links between political views and personality traits, such as openness to new experiences, and, as you saw in the Philosophy region, people may weigh **moral foundations** like care, fairness, loyalty, authority and liberty differently. Genetics may have a modest influence on broad tendencies, though environment matters greatly. Importantly, research also shows people often hold more nuanced views than party labels suggest. Understanding why others think differently, without assuming they’re foolish or malicious, is the first step towards productive political discussion."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "The terms **left** and **right** come from seating in the French National Assembly in **1789**.",
+        "An **ideology** is a broad set of beliefs about how society should be organised; views often span **economic** and **social** dimensions.",
+        "**Liberalism** (Locke, **Mill’s harm principle**) emphasises **individual rights**, **rule of law** and **tolerance**; its meaning varies by country.",
+        "**Conservatism** (**Burke, 1790**) emphasises **tradition**, **order** and **gradual change**.",
+        "**Socialism** emphasises **equality** and collective ownership, ranging from **revolutionary communism** to **democratic socialism** and **social democracy**.",
+        "Other ideologies include **nationalism**, **libertarianism**, **anarchism**, **environmentalism** and **feminism**.",
+        "**Indian politics** features debates, like **secularism**, **caste** and **regional autonomy**, that don’t map neatly onto left and right."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "Political ideologies shape elections, policies, laws and public debates around the world. Understanding the core values behind each, in its strongest form, helps you make sense of political arguments, understand people who disagree with you and form your own views more thoughtfully, rather than simply adopting a label."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: where do the terms left and right come from, and what are the core values of liberalism, conservatism and socialism?"
+  }
+}

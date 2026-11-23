@@ -1,0 +1,329 @@
+##### LESSON
+id: politics.ideologies.2
+title: The Century of Extremes: Totalitarianism and Its Warnings
+minutes: 16
+prereq: politics.ideologies.1
+check: In your own words: what is totalitarianism, what features did fascist and communist regimes share and how did they differ, and what are some warning signs that democracies may be sliding towards authoritarianism?
+
+=== hook
+In **1951**, the German-American political philosopher **Hannah Arendt**, who had fled Nazi Germany, published *The Origins of Totalitarianism*. She tried to understand how two regimes, Nazi Germany and Stalin’s Soviet Union, had come to exercise near-total control over their populations and commit crimes on a scale never seen before.
+
+Ten years later, she attended the trial in Jerusalem of **Adolf Eichmann**, a Nazi official who had organised the deportation of millions of Jews to death camps. Expecting a monster, she found an ordinary, career-minded bureaucrat who seemed to think mainly about following orders and advancing his career. She coined the phrase “**the banality of evil**”: great evil, she suggested, can be carried out by ordinary people who stop thinking about what they’re doing. Her ideas remain controversial, and continue to shape how we understand the 20th century.
+
+=== core
+The 20th century saw the rise of regimes that sought **total control** over society, often described as **totalitarian**. Unlike traditional dictatorships, which mainly wanted obedience, totalitarian regimes aimed to control **every aspect of life**: politics, economy, culture, education, family and even private thoughts.
+
+Common features of totalitarian regimes include:
+
+- A **single ruling party** and the suppression of all opposition.
+- An official **ideology** claiming to explain history and justify the regime’s goals.
+- A **cult of personality** around a supreme leader.
+- **Mass propaganda** and control of media, education and culture.
+- **Secret police**, surveillance and terror, including camps for perceived enemies.
+- State control or direction of the **economy**.
+
+Historians debate how well the label fits particular regimes, and how total their control really was. But the concept helps explain why the 20th century produced some of history’s greatest atrocities.
+
+=== text Fascism
+**Fascism** emerged in Europe after World War I, amid economic crisis, social unrest and fear of communist revolution. **Benito Mussolini** took power in Italy in **1922**; **Adolf Hitler**’s **Nazi** Party came to power in Germany in **1933**, partly through elections and political deals, before rapidly dismantling democracy.
+
+Historians identify common features of fascism, including:
+
+- **Extreme nationalism**, often with myths of national rebirth after humiliation.
+- A **cult of the leader** and rejection of democracy and individual rights.
+- **Glorification of violence**, militarism and war.
+- **Scapegoating** of minorities, foreigners or political enemies for the nation’s problems.
+- **Suppression** of free press, trade unions and opposition parties.
+
+Nazism added an extreme **racial ideology**, which led to the Holocaust, as you saw in the History region.
+
+=== text Communism in practice
+**Communist** regimes, inspired by Marxist ideas you met in the previous lesson, promised to create equal, classless societies. In practice, many became highly repressive one-party states:
+
+- In the **Soviet Union**, under **Joseph Stalin** from the late 1920s to 1953, millions died in forced collectivisation, famines, political purges and the **Gulag** system of labour camps, through which an estimated 18 million people passed over its history.
+- In **China**, under **Mao Zedong**, the **Great Leap Forward** (**1958–1962**), an attempt to rapidly industrialise and collectivise agriculture, contributed to a catastrophic famine; scholarly estimates of excess deaths range from roughly **15 to 45 million**. The **Cultural Revolution** (1966–1976) brought further persecution and upheaval.
+- In **Cambodia**, the **Khmer Rouge** regime (**1975–1979**), led by **Pol Pot**, emptied cities and forced people into rural labour camps. Around **1.5 to 2 million** people died, roughly a quarter of the population, through execution, starvation and disease.
+
+Communist regimes also achieved rapid industrialisation, expanded literacy and healthcare in some periods, and the Soviet Union played a central role in defeating Nazi Germany. Historians weigh these alongside the immense human costs.
+
+=== callout analogy
+Think of a society as a garden with many different plants. A traditional dictator wants the garden to stay quiet and obedient, and will cut down anything that grows too tall. A totalitarian regime wants to rip up the entire garden and replant it according to a single grand design, deciding what every plant should be, where it grows and what it thinks. Anything that doesn’t fit the plan is uprooted. The ambition to remake everything is what made these regimes so destructive.
+
+=== text Why did people support them?
+It’s tempting to think that only evil or foolish people supported such regimes. Historians find more troubling explanations:
+
+- **Crisis**: economic collapse, war, humiliation and fear created demand for strong leaders promising order and renewal.
+- **Promises**: fascists promised national greatness and jobs; communists promised equality and an end to exploitation. Many supporters genuinely believed.
+- **Propaganda**: control of newspapers, radio, schools and art shaped what people knew and believed.
+- **Fear**: terror made opposition dangerous, and many people stayed silent to protect themselves and their families.
+- **Gradual change**: freedoms were often removed step by step, each step seeming small at the time.
+- **Conformity**: psychological research, like **Stanley Milgram**’s obedience experiments in the **1960s**, in which many participants were willing to give what they believed were dangerous electric shocks when instructed by an authority figure, suggested that ordinary people can be led to harm others under pressure. The experiments’ methods and interpretation have since been debated.
+
+=== steps Warning signs: how democracies can erode
+- In their **2018** book *How Democracies Die*, political scientists **Steven Levitsky** and **Daniel Ziblatt** argued that modern democracies more often decline gradually, through elected leaders, than through sudden coups.
+- They identified warning signs in leaders, across the political spectrum, including:
+- **Rejecting democratic rules**: refusing to accept election results, or suggesting elections should be cancelled.
+- **Denying opponents’ legitimacy**: describing rivals as criminals, traitors or enemies of the nation.
+- **Tolerating or encouraging violence** by supporters.
+- **Restricting civil liberties**: targeting journalists, critics, courts or opposition parties.
+- They also stressed the importance of unwritten norms: **mutual tolerance** (accepting opponents as legitimate) and **forbearance** (not using every legal power to the maximum against rivals).
+
+=== text Populism today
+In recent decades, **populism** has become a major force in many countries. The political scientist **Cas Mudde** defines populism as a set of ideas that divides society into two groups: a virtuous, unified “**pure people**” and a “**corrupt elite**”, and claims that politics should express the will of the people.
+
+Populism can appear on both the **left** and the **right**, attached to different ideologies. Supporters argue it gives voice to people ignored by established elites. Critics warn that populist leaders can claim to be the **only** true representatives of the people, delegitimising opponents, courts, the media and independent institutions. Scholars debate whether populism is a threat to democracy, a corrective to it, or both, depending on how it’s practised.
+
+=== reveal Can totalitarianism happen again?
+Many historians and political scientists believe the conditions that enabled 20th-century totalitarianism, such as economic crisis, polarisation, propaganda, the dehumanisation of minorities and the weakening of democratic institutions, can recur in new forms. Modern technology adds new capabilities: mass surveillance, facial recognition and control of digital information could give governments unprecedented power to monitor citizens. At the same time, many safeguards exist: independent courts, free media, civil society, international human rights law and, in many places, deeply rooted democratic cultures. Most scholars stress that democracy isn’t self-sustaining; it depends on citizens, institutions and leaders actively defending it. Learning from history is one of the best protections.
+
+=== keypoints
+- **Totalitarian** regimes sought total control: **single party**, official **ideology**, **cult of personality**, **propaganda**, **secret police** and **terror**.
+- **Hannah Arendt** analysed totalitarianism (1951) and described “**the banality of evil**”.
+- **Fascism** (Mussolini 1922, Hitler 1933) combined extreme **nationalism**, a **leader cult**, **violence** and **scapegoating**; Nazism added racial ideology and the Holocaust.
+- **Communist** regimes under **Stalin**, **Mao** (Great Leap Forward famine, ~15–45 million deaths) and the **Khmer Rouge** (~1.5–2 million deaths) caused immense suffering.
+- People supported such regimes because of **crisis**, **promises**, **propaganda**, **fear**, **gradual change** and **conformity**.
+- Democracies often erode **gradually**; warning signs include rejecting democratic rules, delegitimising opponents, tolerating violence and curbing civil liberties.
+- **Populism** pits a “pure people” against a “corrupt elite” and can appear on both left and right.
+
+=== why
+The 20th century’s extremes are among the most important lessons in human history. Understanding how ordinary societies slid into totalitarianism, and recognising warning signs regardless of which side of politics they come from, helps protect freedom and human dignity. It also connects to the Democracy region, which explores how democracies can strengthen themselves.
+
+##### LESSON
+id: politics.media.1
+title: Media, Propaganda and Public Opinion
+minutes: 15
+check: In your own words: what is agenda-setting, how does framing influence opinion, and how is propaganda different from journalism?
+
+=== hook
+Around **1450**, in the German city of Mainz, a goldsmith named **Johannes Gutenberg** developed a printing press using movable metal type. Within a few decades, printing presses spread across Europe, producing millions of books. Information that once had to be copied by hand could now be reproduced quickly and cheaply.
+
+In **1517**, a German monk named **Martin Luther** wrote criticisms of the Catholic Church. Thanks to printing, his writings spread across Germany within weeks and across Europe within months, helping spark the **Protestant Reformation**, which transformed European religion and politics. New media technologies have repeatedly reshaped who can communicate, what people know and who holds power. Printing, newspapers, radio, television and the internet each changed politics profoundly.
+
+=== core
+**Media** are the channels through which information reaches the public: newspapers, magazines, radio, television, websites, social media and messaging apps. In democracies, media perform vital functions:
+
+- **Informing** citizens about events, issues and decisions.
+- **Holding power to account**: investigating and exposing wrongdoing by governments, companies and powerful individuals. This is why journalism is sometimes called the “**fourth estate**”, alongside the executive, legislature and judiciary.
+- **Providing a forum** for public debate.
+- **Representing** different voices and perspectives.
+
+But media can also mislead, manipulate and divide. Understanding how media influence opinion is essential for thinking clearly about politics.
+
+=== text Agenda-setting: what we think about
+In a famous **1972** study, the communication researchers **Maxwell McCombs** and **Donald Shaw** compared what voters in Chapel Hill, North Carolina, considered the most important issues in the 1968 US presidential election with what local and national media had covered most. They found a strong match.
+
+Their conclusion became known as **agenda-setting theory**: the media may not be very successful at telling people **what to think**, but they’re remarkably successful at telling people **what to think about**. The issues that receive the most coverage come to seem the most important, linking to the second face of power you met earlier.
+
+=== text Framing: how we think about it
+**Framing** refers to how a story is presented: what’s emphasised, what’s left out, what language and images are used. The same facts can be framed in very different ways.
+
+- A protest can be framed as a **peaceful demonstration for rights** or as a **disruptive disturbance causing traffic chaos**.
+- Economic policy can be framed in terms of **jobs created** or **taxes raised**.
+- Migrants can be described as **refugees fleeing danger**, **workers contributing to the economy** or **illegal immigrants**.
+
+Research by **Daniel Kahneman** and **Amos Tversky**, whom you met in the Philosophy region, showed that framing affects decisions: people respond differently to a medical treatment described as having a **90% survival rate** than one described as having a **10% mortality rate**, though they mean the same thing.
+
+=== callout analogy
+Think of the media as a spotlight sweeping across a dark stage. Agenda-setting is about **where** the spotlight points: whatever it lights up seems important, while everything else stays in the dark. Framing is about the **colour** of the light and the angle: the same actor can look heroic in warm light from below or sinister in cold light from above. Neither involves lying, yet both shape what the audience sees.
+
+=== text Propaganda
+**Propaganda** is communication designed to influence people’s beliefs and actions in the interest of a particular cause, often using emotion, selective facts, repetition and simplification rather than balanced information.
+
+Governments used propaganda extensively during **World War I**, with posters, films and news designed to build support for the war and demonise the enemy. The **Nazi** regime turned propaganda into a central instrument of power: **Joseph Goebbels**, as Minister of Propaganda, controlled newspapers, radio, film and art, spreading antisemitic lies, glorifying Hitler and preparing the public for war.
+
+Propaganda techniques include:
+
+- **Repetition**: repeating a message until it feels true.
+- **Scapegoating**: blaming a group for society’s problems.
+- **Emotional appeals**: fear, anger, pride and hatred.
+- **Simple slogans** that replace complex arguments.
+- **Selective facts** and outright lies.
+- **Creating enemies**: uniting people against a common threat, real or imagined.
+
+=== text Who controls the media?
+Media ownership and funding shape what gets reported:
+
+- **State-owned media** can provide public service broadcasting, like the **BBC** in the UK or **Doordarshan** and **All India Radio** in India, but in some countries are controlled by governments to suppress criticism.
+- **Commercial media** depend on advertising and audiences, which can create pressure to attract attention with sensational or polarising content, or to avoid offending advertisers and owners.
+- **Concentrated ownership**, where a few companies or individuals own many outlets, can narrow the range of views.
+
+In **1988**, the scholars **Edward Herman** and **Noam Chomsky** argued in *Manufacturing Consent* that commercial media in the US, through ownership, advertising and reliance on official sources, tend to serve powerful interests without any need for direct censorship. Their model has been influential but also criticised for underestimating journalists’ independence and media diversity.
+
+Organisations like **Reporters Without Borders** publish annual indexes ranking countries on press freedom, assessing factors like legal protections, political pressure and safety of journalists. India’s large and diverse media landscape includes thousands of newspapers in many languages and hundreds of television news channels, alongside debates about media independence and the safety of journalists.
+
+=== steps Distinguishing journalism from propaganda and opinion
+- **Separate news from opinion**: reputable outlets label editorials and opinion columns separately from news reporting.
+- **Check for sources**: good journalism names sources, links to evidence and explains how information was obtained.
+- **Look for corrections**: trustworthy outlets publicly correct their mistakes.
+- **Notice emotional manipulation**: content designed mainly to make you angry or afraid deserves extra scrutiny.
+- **Compare coverage**: reading how different outlets, with different perspectives, cover the same story reveals framing and omissions.
+- **Ask who benefits** from a particular message, and who funds the outlet.
+
+=== reveal Do media make people more polarised?
+It’s debated. In many countries, people increasingly choose news sources that match their views, from partisan TV channels to social media feeds, which can reinforce existing beliefs and deepen divisions. Partisan media can also present opponents in exaggerated, hostile ways. However, research suggests the picture is complex: many people consume a mix of sources, polarisation began rising in some countries before social media existed, and factors like economic inequality, political strategy and identity also drive division. As you saw in the Technology region, studies of social media algorithms have found smaller effects on political attitudes than many expected. Media are one important factor among several in shaping how divided societies become.
+
+=== keypoints
+- New media technologies, from **Gutenberg’s press (~1450)** to the internet, repeatedly reshape politics; printing spread the **Reformation**.
+- Media inform citizens, **hold power to account** (the **fourth estate**) and host debate.
+- **Agenda-setting (McCombs and Shaw, 1972)**: media influence **what people think about**.
+- **Framing** shapes **how** people think about issues; the same facts can be presented very differently.
+- **Propaganda** uses **repetition**, **scapegoating**, **emotion** and **selective facts**, as in Nazi Germany under **Goebbels**.
+- **Ownership** and funding (state, commercial, concentrated) shape coverage; **Manufacturing Consent (1988)** is an influential critique.
+- Separate **news from opinion**, check **sources** and **corrections**, and compare coverage.
+
+=== why
+Your understanding of the world, beyond what you experience directly, comes largely through media. Knowing how agenda-setting, framing and propaganda work helps you become a more critical, independent consumer of news, and better able to tell journalism from manipulation. The next lesson explores how these challenges have intensified in the digital age.
+
+##### LESSON
+id: politics.media.2
+title: Misinformation in the Digital Age
+minutes: 15
+check: In your own words: what is the difference between misinformation and disinformation, why does false information spread so fast online, and what is lateral reading?
+
+=== hook
+In **2018**, rumours spread across India through WhatsApp messages and videos warning that gangs of child kidnappers were roaming villages. Many of the messages were false; some used videos from other countries or old, unrelated footage. In several incidents, frightened crowds attacked strangers they suspected of being kidnappers. Dozens of people were killed across multiple states, almost all of them innocent.
+
+The tragedies prompted urgent responses. Police and local officials ran awareness campaigns, and **WhatsApp** limited how many chats a message could be forwarded to at once, first in India and later worldwide, and labelled forwarded messages. The episode showed, in the most painful way, how false information spreading through digital networks can cost lives.
+
+=== core
+The internet and social media have transformed how information spreads. Anyone can publish instantly to a potentially global audience, without editors or fact-checkers. This has democratised communication, giving voice to people previously ignored, but it has also made it easier for false and misleading information to spread.
+
+Researchers distinguish several types of problematic information:
+
+- **Misinformation**: false or misleading information shared **without intent** to deceive. Someone forwarding a fake health tip they genuinely believe.
+- **Disinformation**: false information created and shared **deliberately** to deceive, often for political or financial gain, or to cause harm.
+- **Malinformation**: genuine information shared to cause harm, such as leaking private information to harass someone.
+
+The term “**fake news**” is widely used but vague; it’s also used by politicians to dismiss accurate reporting they dislike.
+
+=== text Why false information spreads so fast
+In **2018**, researchers at MIT, **Soroush Vosoughi**, **Deb Roy** and **Sinan Aral**, published a major study analysing around **126,000** stories shared on Twitter over more than a decade. They found that **false** news spread significantly **farther, faster and more broadly** than true news. False stories were about **70%** more likely to be retweeted than true ones. Surprisingly, this was driven mainly by **humans**, not automated bots.
+
+Why? False stories tended to be more **novel** and surprising, and provoked emotions like surprise, fear and disgust. People share content that feels new and emotionally striking, and false information, freed from the constraints of reality, can be engineered to be both.
+
+Other factors include:
+
+- **Speed**: information can reach millions before anyone checks it.
+- **Algorithms** that promote engaging content, as you saw in the Technology region.
+- **Encrypted messaging apps**, like WhatsApp, where content spreads through trusted personal networks, often invisible to fact-checkers.
+- **Trust in senders**: people tend to believe messages from friends and family.
+
+=== callout analogy
+Think of truth as a careful courier who has to check every detail, confirm sources and follow the roads. A lie is like a rumour carried on the wind: it doesn’t need to check anything, can take any shape that grabs attention and travels in all directions at once. By the time the courier arrives with the facts, the rumour has already reached every village. That’s why prevention and early correction matter so much.
+
+=== text The psychology of believing falsehoods
+Several psychological tendencies make us vulnerable:
+
+- **The illusory truth effect**: repeated exposure to a claim makes it feel more true, even if we initially doubted it, and even if it’s labelled as false. Familiarity feels like truth.
+- **Confirmation bias**: as you saw in the Philosophy region, we’re more likely to believe information that fits what we already think.
+- **Emotional reasoning**: content that makes us angry or afraid can bypass careful thinking.
+- **Lack of attention**: research by psychologists **Gordon Pennycook** and **David Rand** suggests many people share false information not because they can’t tell it’s false, but because they’re not thinking about accuracy when they share. Simple prompts reminding people to consider accuracy can reduce sharing of false headlines.
+
+=== text Deepfakes and the next wave
+Advances in artificial intelligence, as you saw in the Technology region, make it possible to generate realistic fake images, audio and videos, called **deepfakes**. They can be used to put false words in politicians’ mouths, create fake evidence, impersonate family members in scams or harass individuals, especially women, with fake explicit images.
+
+Deepfakes also create a second problem, sometimes called the **liar’s dividend**: as people learn that fakes are possible, genuine evidence can be dismissed as fake. Both effects threaten trust in information. Responses include detection tools, labelling AI-generated content, digital watermarking and laws against harmful deepfakes, though none is a complete solution.
+
+=== steps Lateral reading: how professionals check
+- In a **2017** study, researchers at Stanford University, led by **Sam Wineburg**, asked professional **fact-checkers**, **historians** with PhDs and Stanford **undergraduates** to evaluate unfamiliar websites.
+- Historians and students tended to read **vertically**: staying on the website, examining its design, “About” page and content closely. They were often fooled by professional-looking sites with hidden agendas.
+- Fact-checkers did something different: they quickly **left** the website and opened new tabs to search what **other** sources said about it, its authors and its funders. This is **lateral reading**.
+- Fact-checkers reached accurate judgements far faster and more reliably.
+- A related approach, called **SIFT**, developed by the digital literacy expert **Mike Caulfield**, suggests: **Stop**; **Investigate** the source; **Find** better coverage; **Trace** claims to their original context.
+- Simple habits help: check whether trusted news outlets are reporting the same thing, search for images to see where they first appeared, and be especially careful before forwarding anything urgent or shocking.
+
+=== text Prebunking: inoculating against misinformation
+Correcting false information after it spreads, called **debunking**, is useful but difficult. Researchers have also developed **prebunking**: warning people in advance about manipulation techniques, so they can recognise them.
+
+The approach draws on **inoculation theory**: just as a vaccine exposes the immune system to a weakened virus, exposing people to weakened examples of misleading techniques, like emotional manipulation, false experts or scapegoating, can build resistance. Researchers including **Sander van der Linden** and colleagues developed games, like **Bad News**, in which players take on the role of a misinformation creator, learning the tricks from the inside. Studies found these approaches helped people spot manipulation more often, though effects can fade over time.
+
+=== reveal Should social media companies remove false information, or does that threaten free speech?
+This is one of the most difficult debates of the digital age. Supporters of stronger moderation argue that false information can cause real harm, from violence to public health dangers, and that private platforms already make choices through their algorithms. Critics worry about who decides what’s true, the risk of censoring legitimate debate or unpopular views, inconsistent enforcement, and governments pressuring platforms to remove criticism. Different countries take different approaches: the EU’s **Digital Services Act** requires large platforms to assess and reduce systemic risks like disinformation, while others emphasise free speech or, in some cases, use “fake news” laws to suppress dissent. Many experts favour a mix of approaches: transparency about algorithms, labelling and context rather than only removal, supporting independent fact-checkers, and building public media literacy.
+
+=== keypoints
+- **Misinformation** is false information shared without intent to deceive; **disinformation** is deliberate; **malinformation** is genuine information used to harm.
+- The **2018 MIT study** found **false news** spread farther and faster than truth, mainly because of **humans** sharing novel, emotional content.
+- **WhatsApp** rumours in India in **2018** led to deadly violence and to **forwarding limits**.
+- Vulnerabilities include the **illusory truth effect**, **confirmation bias**, **emotional reasoning** and **inattention** to accuracy.
+- **Deepfakes** can fake evidence and create a **liar’s dividend**.
+- **Lateral reading** (Wineburg, 2017) and **SIFT** help check sources; **prebunking** builds resistance to manipulation.
+- Moderating false information involves difficult trade-offs with **free speech**.
+
+=== why
+You encounter vast amounts of information every day, some true, some false, some deliberately manipulative. Simple habits, like pausing before sharing, checking sources laterally and recognising emotional manipulation, can protect you, your family and your community from real harm. In democracies, a well-informed public is essential, and you play a part in keeping it that way.
+
+##### LESSON
+id: politics.international.1
+title: How Countries Deal with Each Other
+minutes: 15
+check: In your own words: what do realists, liberals and constructivists each believe about international politics, and how does the UN Security Council work?
+
+=== hook
+In **431 BCE**, war broke out between **Athens** and **Sparta**, the two great powers of ancient Greece. The Athenian historian **Thucydides**, who fought in the war, wrote a history of it, and offered an explanation that still echoes today: what made war inevitable was the rise of Athenian power and the fear this caused in Sparta.
+
+Thucydides also recorded a chilling exchange. When Athens demanded that the small, neutral island of **Melos** submit to its rule, the Athenian envoys reportedly told the Melians that questions of justice only arise between equals in power; otherwise, “the strong do what they can and the weak suffer what they must”. The Melians refused. Athens conquered the island, killed the men and enslaved the women and children. For 2,400 years, scholars have debated whether that harsh view describes how international politics really works.
+
+=== core
+**International relations (IR)** is the study of how states and other actors, like international organisations, corporations, terrorist groups and civil society, interact across borders: through diplomacy, trade, alliances, conflict and cooperation.
+
+A central feature of international politics is **anarchy**: not chaos, but the absence of a **world government** above states. Within a country, a government can enforce laws and settle disputes. Between countries, there’s no higher authority with the power to enforce rules on powerful states. How states behave in this situation is the subject of competing theories.
+
+=== text Realism: power and security
+**Realism** is one of the oldest traditions in IR, drawing on Thucydides, the Italian writer **Niccolò Machiavelli** and the English philosopher **Thomas Hobbes**. Modern realists, like **Hans Morgenthau** in the mid-20th century, argued that:
+
+- **States** are the main actors in world politics.
+- In an anarchic system, states must rely on themselves for **security and survival**.
+- States pursue **power** and their **national interest**, often defined in terms of security.
+- Moral principles and international law matter less than power.
+- Peace is best maintained through a **balance of power**: when power is spread among several states, no single one can dominate.
+
+A key realist idea is the **security dilemma**: when one state builds up its military to feel safer, others feel threatened and respond in kind, leaving everyone less secure, which can lead to arms races and war.
+
+=== text Liberalism: cooperation and institutions
+**Liberal** theories of IR (different from liberalism as a domestic ideology) are more optimistic about cooperation. Liberals argue that:
+
+- **International institutions**, like the UN and the World Trade Organization, help states cooperate by setting rules, sharing information and making it easier to trust each other.
+- **Economic interdependence**: countries that trade heavily with each other have more to lose from war.
+- **Democracies** rarely, if ever, go to war with each other, an observation known as the **democratic peace theory**, though scholars debate why, and how strong the pattern is.
+- Non-state actors, like corporations and civil society groups, also shape world politics.
+
+=== text Constructivism: ideas matter
+**Constructivism**, which became influential from the **1990s**, argues that international politics is shaped not just by material power but by **ideas, identities and norms**. In a famous **1992** article, the political scientist **Alexander Wendt** argued that “**anarchy is what states make of it**”.
+
+For example, the United Kingdom has many nuclear weapons, but the United States doesn’t see them as a threat, while it would view even a few nuclear weapons in a hostile state very differently. What matters is not just the weapons, but the relationship and identities between states. Norms, like the taboo against using nuclear weapons or the idea that colonialism is wrong, can change how states behave.
+
+=== callout analogy
+Imagine a group of neighbours with no police, no courts and no landlord. A **realist** expects each household to build high walls and stock weapons, trusting no one. A **liberal** expects neighbours to form a residents’ association, set rules, trade with each other and gradually build trust. A **constructivist** points out that whether neighbours see each other as friends, rivals or enemies depends on their history, identities and shared ideas, which can change. All three capture something about how real neighbourhoods, and real countries, behave.
+
+=== text The United Nations
+The **United Nations** was founded in **1945**, after World War II, to maintain international peace and security, develop friendly relations among nations and promote human rights and cooperation. Its main bodies include:
+
+- The **General Assembly**, where all **193** member states have one vote each. It debates issues and passes resolutions, which are generally not legally binding.
+- The **Security Council**, responsible for peace and security, which can authorise sanctions and military action through binding decisions. It has **15** members: **5 permanent members**, the **United States**, **Russia**, **China**, the **United Kingdom** and **France**, each with a **veto**, and 10 elected members serving two-year terms.
+- The **Secretary-General** and Secretariat, running the organisation.
+- Agencies such as the **World Health Organization**, **UNICEF**, the **World Food Programme** and the UN refugee agency.
+
+The **veto** means any permanent member can block Security Council action, even if all other members support it. This has often paralysed the Council during major crises involving permanent members or their allies. Many countries, including **India**, **Brazil**, **Germany**, **Japan** and African nations, argue that the Security Council reflects the world of 1945 rather than today, and seek reform. India has long sought a permanent seat.
+
+=== steps India and non-alignment
+- After independence in 1947, India faced a world dividing into two rival blocs in the **Cold War**: one led by the United States, the other by the Soviet Union.
+- Prime Minister **Jawaharlal Nehru** chose not to join either bloc, pursuing a policy of **non-alignment**: keeping independence in foreign policy and judging issues on their merits.
+- In **1955**, leaders from Asian and African countries met at the **Bandung Conference** in Indonesia, promoting cooperation among newly independent nations.
+- In **1961**, the **Non-Aligned Movement** was formally founded in **Belgrade**, led by figures including Nehru, Egypt’s **Gamal Abdel Nasser**, Yugoslavia’s **Josip Broz Tito**, Indonesia’s **Sukarno** and Ghana’s **Kwame Nkrumah**.
+- Critics noted that non-aligned countries sometimes leaned towards one bloc, and India signed a treaty of friendship with the Soviet Union in 1971.
+- Today, India often describes its approach as **strategic autonomy**: building partnerships with many countries, including the US, Russia, Europe, Japan and Gulf states, while avoiding binding alliances.
+
+=== reveal If there’s no world government, why do countries follow international law at all?
+Most countries follow most international rules most of the time, even without a global police force. Reasons include **reciprocity** (countries follow rules so others will too, such as treating diplomats well), **reputation** (being seen as reliable brings benefits in trade and diplomacy), **self-interest** (rules on trade, aviation, postal services and the internet make everyone better off), **institutions** that monitor and settle disputes, and **norms** that become accepted as right. Powerful states do sometimes break international law when they believe their vital interests are at stake, and enforcement against them is difficult. But the everyday functioning of the world, from international flights and shipping to telecommunications and trade, depends on a dense web of rules that most states usually respect.
+
+=== keypoints
+- **International relations** studies interactions across borders in a system of **anarchy**: no world government.
+- **Realism** (Thucydides, Machiavelli, Hobbes, **Morgenthau**) emphasises **power**, **national interest**, **balance of power** and the **security dilemma**.
+- **Liberalism** emphasises **institutions**, **interdependence** and the **democratic peace**.
+- **Constructivism** (**Wendt, 1992**: “anarchy is what states make of it”) emphasises **ideas**, **identities** and **norms**.
+- The **UN (1945)** has a **General Assembly** of **193** states and a **Security Council** with **5 permanent members holding vetoes**; many, including India, seek reform.
+- India pursued **non-alignment** under **Nehru** (Non-Aligned Movement, **1961**) and now emphasises **strategic autonomy**.
+- States follow international law through **reciprocity**, **reputation**, **self-interest**, **institutions** and **norms**.
+
+=== why
+International relations affect trade, migration, security, climate action and the prices you pay. Understanding the main theories helps you interpret news about wars, alliances, summits and the UN, and see why countries behave as they do. The next lesson explores war, peace and the challenges of global cooperation.

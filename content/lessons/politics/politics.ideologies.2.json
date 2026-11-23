@@ -1,0 +1,87 @@
+{
+  "id": "politics.ideologies.2",
+  "region": "politics",
+  "topic": "ideologies",
+  "level": 2,
+  "prerequisites": [
+    "politics.ideologies.1"
+  ],
+  "title": "The Century of Extremes: Totalitarianism and Its Warnings",
+  "estimated_minutes": 16,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **1951**, the German-American political philosopher **Hannah Arendt**, who had fled Nazi Germany, published *The Origins of Totalitarianism*. She tried to understand how two regimes, Nazi Germany and Stalin’s Soviet Union, had come to exercise near-total control over their populations and commit crimes on a scale never seen before.\n\nTen years later, she attended the trial in Jerusalem of **Adolf Eichmann**, a Nazi official who had organised the deportation of millions of Jews to death camps. Expecting a monster, she found an ordinary, career-minded bureaucrat who seemed to think mainly about following orders and advancing his career. She coined the phrase “**the banality of evil**”: great evil, she suggested, can be carried out by ordinary people who stop thinking about what they’re doing. Her ideas remain controversial, and continue to shape how we understand the 20th century."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The 20th century saw the rise of regimes that sought **total control** over society, often described as **totalitarian**. Unlike traditional dictatorships, which mainly wanted obedience, totalitarian regimes aimed to control **every aspect of life**: politics, economy, culture, education, family and even private thoughts.\n\nCommon features of totalitarian regimes include:\n\n- A **single ruling party** and the suppression of all opposition.\n- An official **ideology** claiming to explain history and justify the regime’s goals.\n- A **cult of personality** around a supreme leader.\n- **Mass propaganda** and control of media, education and culture.\n- **Secret police**, surveillance and terror, including camps for perceived enemies.\n- State control or direction of the **economy**.\n\nHistorians debate how well the label fits particular regimes, and how total their control really was. But the concept helps explain why the 20th century produced some of history’s greatest atrocities."
+    },
+    {
+      "type": "text",
+      "heading": "Fascism",
+      "md": "**Fascism** emerged in Europe after World War I, amid economic crisis, social unrest and fear of communist revolution. **Benito Mussolini** took power in Italy in **1922**; **Adolf Hitler**’s **Nazi** Party came to power in Germany in **1933**, partly through elections and political deals, before rapidly dismantling democracy.\n\nHistorians identify common features of fascism, including:\n\n- **Extreme nationalism**, often with myths of national rebirth after humiliation.\n- A **cult of the leader** and rejection of democracy and individual rights.\n- **Glorification of violence**, militarism and war.\n- **Scapegoating** of minorities, foreigners or political enemies for the nation’s problems.\n- **Suppression** of free press, trade unions and opposition parties.\n\nNazism added an extreme **racial ideology**, which led to the Holocaust, as you saw in the History region."
+    },
+    {
+      "type": "text",
+      "heading": "Communism in practice",
+      "md": "**Communist** regimes, inspired by Marxist ideas you met in the previous lesson, promised to create equal, classless societies. In practice, many became highly repressive one-party states:\n\n- In the **Soviet Union**, under **Joseph Stalin** from the late 1920s to 1953, millions died in forced collectivisation, famines, political purges and the **Gulag** system of labour camps, through which an estimated 18 million people passed over its history.\n- In **China**, under **Mao Zedong**, the **Great Leap Forward** (**1958–1962**), an attempt to rapidly industrialise and collectivise agriculture, contributed to a catastrophic famine; scholarly estimates of excess deaths range from roughly **15 to 45 million**. The **Cultural Revolution** (1966–1976) brought further persecution and upheaval.\n- In **Cambodia**, the **Khmer Rouge** regime (**1975–1979**), led by **Pol Pot**, emptied cities and forced people into rural labour camps. Around **1.5 to 2 million** people died, roughly a quarter of the population, through execution, starvation and disease.\n\nCommunist regimes also achieved rapid industrialisation, expanded literacy and healthcare in some periods, and the Soviet Union played a central role in defeating Nazi Germany. Historians weigh these alongside the immense human costs."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of a society as a garden with many different plants. A traditional dictator wants the garden to stay quiet and obedient, and will cut down anything that grows too tall. A totalitarian regime wants to rip up the entire garden and replant it according to a single grand design, deciding what every plant should be, where it grows and what it thinks. Anything that doesn’t fit the plan is uprooted. The ambition to remake everything is what made these regimes so destructive."
+    },
+    {
+      "type": "text",
+      "heading": "Why did people support them?",
+      "md": "It’s tempting to think that only evil or foolish people supported such regimes. Historians find more troubling explanations:\n\n- **Crisis**: economic collapse, war, humiliation and fear created demand for strong leaders promising order and renewal.\n- **Promises**: fascists promised national greatness and jobs; communists promised equality and an end to exploitation. Many supporters genuinely believed.\n- **Propaganda**: control of newspapers, radio, schools and art shaped what people knew and believed.\n- **Fear**: terror made opposition dangerous, and many people stayed silent to protect themselves and their families.\n- **Gradual change**: freedoms were often removed step by step, each step seeming small at the time.\n- **Conformity**: psychological research, like **Stanley Milgram**’s obedience experiments in the **1960s**, in which many participants were willing to give what they believed were dangerous electric shocks when instructed by an authority figure, suggested that ordinary people can be led to harm others under pressure. The experiments’ methods and interpretation have since been debated."
+    },
+    {
+      "type": "steps",
+      "title": "Warning signs: how democracies can erode",
+      "items": [
+        "In their **2018** book *How Democracies Die*, political scientists **Steven Levitsky** and **Daniel Ziblatt** argued that modern democracies more often decline gradually, through elected leaders, than through sudden coups.",
+        "They identified warning signs in leaders, across the political spectrum, including:",
+        "**Rejecting democratic rules**: refusing to accept election results, or suggesting elections should be cancelled.",
+        "**Denying opponents’ legitimacy**: describing rivals as criminals, traitors or enemies of the nation.",
+        "**Tolerating or encouraging violence** by supporters.",
+        "**Restricting civil liberties**: targeting journalists, critics, courts or opposition parties.",
+        "They also stressed the importance of unwritten norms: **mutual tolerance** (accepting opponents as legitimate) and **forbearance** (not using every legal power to the maximum against rivals)."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Populism today",
+      "md": "In recent decades, **populism** has become a major force in many countries. The political scientist **Cas Mudde** defines populism as a set of ideas that divides society into two groups: a virtuous, unified “**pure people**” and a “**corrupt elite**”, and claims that politics should express the will of the people.\n\nPopulism can appear on both the **left** and the **right**, attached to different ideologies. Supporters argue it gives voice to people ignored by established elites. Critics warn that populist leaders can claim to be the **only** true representatives of the people, delegitimising opponents, courts, the media and independent institutions. Scholars debate whether populism is a threat to democracy, a corrective to it, or both, depending on how it’s practised."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Can totalitarianism happen again?",
+      "md": "Many historians and political scientists believe the conditions that enabled 20th-century totalitarianism, such as economic crisis, polarisation, propaganda, the dehumanisation of minorities and the weakening of democratic institutions, can recur in new forms. Modern technology adds new capabilities: mass surveillance, facial recognition and control of digital information could give governments unprecedented power to monitor citizens. At the same time, many safeguards exist: independent courts, free media, civil society, international human rights law and, in many places, deeply rooted democratic cultures. Most scholars stress that democracy isn’t self-sustaining; it depends on citizens, institutions and leaders actively defending it. Learning from history is one of the best protections."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Totalitarian** regimes sought total control: **single party**, official **ideology**, **cult of personality**, **propaganda**, **secret police** and **terror**.",
+        "**Hannah Arendt** analysed totalitarianism (1951) and described “**the banality of evil**”.",
+        "**Fascism** (Mussolini 1922, Hitler 1933) combined extreme **nationalism**, a **leader cult**, **violence** and **scapegoating**; Nazism added racial ideology and the Holocaust.",
+        "**Communist** regimes under **Stalin**, **Mao** (Great Leap Forward famine, ~15–45 million deaths) and the **Khmer Rouge** (~1.5–2 million deaths) caused immense suffering.",
+        "People supported such regimes because of **crisis**, **promises**, **propaganda**, **fear**, **gradual change** and **conformity**.",
+        "Democracies often erode **gradually**; warning signs include rejecting democratic rules, delegitimising opponents, tolerating violence and curbing civil liberties.",
+        "**Populism** pits a “pure people” against a “corrupt elite” and can appear on both left and right."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "The 20th century’s extremes are among the most important lessons in human history. Understanding how ordinary societies slid into totalitarianism, and recognising warning signs regardless of which side of politics they come from, helps protect freedom and human dignity. It also connects to the Democracy region, which explores how democracies can strengthen themselves."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is totalitarianism, what features did fascist and communist regimes share and how did they differ, and what are some warning signs that democracies may be sliding towards authoritarianism?"
+  }
+}

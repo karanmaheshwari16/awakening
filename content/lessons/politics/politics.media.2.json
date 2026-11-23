@@ -1,0 +1,84 @@
+{
+  "id": "politics.media.2",
+  "region": "politics",
+  "topic": "media",
+  "level": 2,
+  "prerequisites": [],
+  "title": "Misinformation in the Digital Age",
+  "estimated_minutes": 15,
+  "disclaimer": null,
+  "blocks": [
+    {
+      "type": "text",
+      "role": "hook",
+      "md": "In **2018**, rumours spread across India through WhatsApp messages and videos warning that gangs of child kidnappers were roaming villages. Many of the messages were false; some used videos from other countries or old, unrelated footage. In several incidents, frightened crowds attacked strangers they suspected of being kidnappers. Dozens of people were killed across multiple states, almost all of them innocent.\n\nThe tragedies prompted urgent responses. Police and local officials ran awareness campaigns, and **WhatsApp** limited how many chats a message could be forwarded to at once, first in India and later worldwide, and labelled forwarded messages. The episode showed, in the most painful way, how false information spreading through digital networks can cost lives."
+    },
+    {
+      "type": "text",
+      "role": "core",
+      "md": "The internet and social media have transformed how information spreads. Anyone can publish instantly to a potentially global audience, without editors or fact-checkers. This has democratised communication, giving voice to people previously ignored, but it has also made it easier for false and misleading information to spread.\n\nResearchers distinguish several types of problematic information:\n\n- **Misinformation**: false or misleading information shared **without intent** to deceive. Someone forwarding a fake health tip they genuinely believe.\n- **Disinformation**: false information created and shared **deliberately** to deceive, often for political or financial gain, or to cause harm.\n- **Malinformation**: genuine information shared to cause harm, such as leaking private information to harass someone.\n\nThe term “**fake news**” is widely used but vague; it’s also used by politicians to dismiss accurate reporting they dislike."
+    },
+    {
+      "type": "text",
+      "heading": "Why false information spreads so fast",
+      "md": "In **2018**, researchers at MIT, **Soroush Vosoughi**, **Deb Roy** and **Sinan Aral**, published a major study analysing around **126,000** stories shared on Twitter over more than a decade. They found that **false** news spread significantly **farther, faster and more broadly** than true news. False stories were about **70%** more likely to be retweeted than true ones. Surprisingly, this was driven mainly by **humans**, not automated bots.\n\nWhy? False stories tended to be more **novel** and surprising, and provoked emotions like surprise, fear and disgust. People share content that feels new and emotionally striking, and false information, freed from the constraints of reality, can be engineered to be both.\n\nOther factors include:\n\n- **Speed**: information can reach millions before anyone checks it.\n- **Algorithms** that promote engaging content, as you saw in the Technology region.\n- **Encrypted messaging apps**, like WhatsApp, where content spreads through trusted personal networks, often invisible to fact-checkers.\n- **Trust in senders**: people tend to believe messages from friends and family."
+    },
+    {
+      "type": "callout",
+      "tone": "analogy",
+      "md": "Think of truth as a careful courier who has to check every detail, confirm sources and follow the roads. A lie is like a rumour carried on the wind: it doesn’t need to check anything, can take any shape that grabs attention and travels in all directions at once. By the time the courier arrives with the facts, the rumour has already reached every village. That’s why prevention and early correction matter so much."
+    },
+    {
+      "type": "text",
+      "heading": "The psychology of believing falsehoods",
+      "md": "Several psychological tendencies make us vulnerable:\n\n- **The illusory truth effect**: repeated exposure to a claim makes it feel more true, even if we initially doubted it, and even if it’s labelled as false. Familiarity feels like truth.\n- **Confirmation bias**: as you saw in the Philosophy region, we’re more likely to believe information that fits what we already think.\n- **Emotional reasoning**: content that makes us angry or afraid can bypass careful thinking.\n- **Lack of attention**: research by psychologists **Gordon Pennycook** and **David Rand** suggests many people share false information not because they can’t tell it’s false, but because they’re not thinking about accuracy when they share. Simple prompts reminding people to consider accuracy can reduce sharing of false headlines."
+    },
+    {
+      "type": "text",
+      "heading": "Deepfakes and the next wave",
+      "md": "Advances in artificial intelligence, as you saw in the Technology region, make it possible to generate realistic fake images, audio and videos, called **deepfakes**. They can be used to put false words in politicians’ mouths, create fake evidence, impersonate family members in scams or harass individuals, especially women, with fake explicit images.\n\nDeepfakes also create a second problem, sometimes called the **liar’s dividend**: as people learn that fakes are possible, genuine evidence can be dismissed as fake. Both effects threaten trust in information. Responses include detection tools, labelling AI-generated content, digital watermarking and laws against harmful deepfakes, though none is a complete solution."
+    },
+    {
+      "type": "steps",
+      "title": "Lateral reading: how professionals check",
+      "items": [
+        "In a **2017** study, researchers at Stanford University, led by **Sam Wineburg**, asked professional **fact-checkers**, **historians** with PhDs and Stanford **undergraduates** to evaluate unfamiliar websites.",
+        "Historians and students tended to read **vertically**: staying on the website, examining its design, “About” page and content closely. They were often fooled by professional-looking sites with hidden agendas.",
+        "Fact-checkers did something different: they quickly **left** the website and opened new tabs to search what **other** sources said about it, its authors and its funders. This is **lateral reading**.",
+        "Fact-checkers reached accurate judgements far faster and more reliably.",
+        "A related approach, called **SIFT**, developed by the digital literacy expert **Mike Caulfield**, suggests: **Stop**; **Investigate** the source; **Find** better coverage; **Trace** claims to their original context.",
+        "Simple habits help: check whether trusted news outlets are reporting the same thing, search for images to see where they first appeared, and be especially careful before forwarding anything urgent or shocking."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Prebunking: inoculating against misinformation",
+      "md": "Correcting false information after it spreads, called **debunking**, is useful but difficult. Researchers have also developed **prebunking**: warning people in advance about manipulation techniques, so they can recognise them.\n\nThe approach draws on **inoculation theory**: just as a vaccine exposes the immune system to a weakened virus, exposing people to weakened examples of misleading techniques, like emotional manipulation, false experts or scapegoating, can build resistance. Researchers including **Sander van der Linden** and colleagues developed games, like **Bad News**, in which players take on the role of a misinformation creator, learning the tricks from the inside. Studies found these approaches helped people spot manipulation more often, though effects can fade over time."
+    },
+    {
+      "type": "reveal",
+      "prompt": "Should social media companies remove false information, or does that threaten free speech?",
+      "md": "This is one of the most difficult debates of the digital age. Supporters of stronger moderation argue that false information can cause real harm, from violence to public health dangers, and that private platforms already make choices through their algorithms. Critics worry about who decides what’s true, the risk of censoring legitimate debate or unpopular views, inconsistent enforcement, and governments pressuring platforms to remove criticism. Different countries take different approaches: the EU’s **Digital Services Act** requires large platforms to assess and reduce systemic risks like disinformation, while others emphasise free speech or, in some cases, use “fake news” laws to suppress dissent. Many experts favour a mix of approaches: transparency about algorithms, labelling and context rather than only removal, supporting independent fact-checkers, and building public media literacy."
+    },
+    {
+      "type": "keypoints",
+      "items": [
+        "**Misinformation** is false information shared without intent to deceive; **disinformation** is deliberate; **malinformation** is genuine information used to harm.",
+        "The **2018 MIT study** found **false news** spread farther and faster than truth, mainly because of **humans** sharing novel, emotional content.",
+        "**WhatsApp** rumours in India in **2018** led to deadly violence and to **forwarding limits**.",
+        "Vulnerabilities include the **illusory truth effect**, **confirmation bias**, **emotional reasoning** and **inattention** to accuracy.",
+        "**Deepfakes** can fake evidence and create a **liar’s dividend**.",
+        "**Lateral reading** (Wineburg, 2017) and **SIFT** help check sources; **prebunking** builds resistance to manipulation.",
+        "Moderating false information involves difficult trade-offs with **free speech**."
+      ]
+    },
+    {
+      "type": "text",
+      "role": "why",
+      "md": "You encounter vast amounts of information every day, some true, some false, some deliberately manipulative. Simple habits, like pausing before sharing, checking sources laterally and recognising emotional manipulation, can protect you, your family and your community from real harm. In democracies, a well-informed public is essential, and you play a part in keeping it that way."
+    }
+  ],
+  "check": {
+    "explain_prompt": "In your own words: what is the difference between misinformation and disinformation, why does false information spread so fast online, and what is lateral reading?"
+  }
+}
